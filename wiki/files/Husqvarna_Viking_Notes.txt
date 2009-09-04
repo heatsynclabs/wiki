@@ -1,0 +1,20 @@
+Plug in D-Car reader
+	↳Start
+		↳Husvarna
+			↳D-car reader/writer
+1. Card -> read = see what is already there
+2. Put image into desired box
+	↳Card
+		↳Write d-card
+	*Scary message (All data will be erased)
+		it's ok... it will turn out you want it 
+3. Card -> read d-card
+	to double check
+4. Pull USB Plug... before you pull the card
+
+__________________________________
+To add images -> .hus format
+	1. Open
+Stitch Editor Pro
+Digitizing Pro -> import picture, trace to make your stitches
+

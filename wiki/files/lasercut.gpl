@@ -1,0 +1,11 @@
+GIMP Palette
+Name: LaserCut
+Columns: 14
+#
+0   0   0	   	black
+255 0 0		red 50
+0 255 0		green 50
+0 0 255		blue 50
+255 255 0		yellow 50
+255 0 255		magenta 50
+0 255 255		cyan 50
