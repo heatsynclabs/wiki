@@ -6,7 +6,7 @@ Do not try to get information out of me without doing research, I will tell you 
 
 ## Portfolio
 
-Check out my personal portfolio [2](http://bertjwregeer.com/) website.
+Check out my [personal porfolio website](http://bertjwregeer.com/).
 
 ## Contact
 
