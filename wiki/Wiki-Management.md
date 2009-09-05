@@ -2,7 +2,7 @@
 
 Currently we are using the following extensions:
 
-- [**AuthWP**](http://ciarang.com/wiki/page/WPMW) for WordPress-MediaWiki single signon
+- [**AuthWP**](http://ciarang.com/wiki/page/WPMW) for WordPress-MediaWiki single sign on
 
 And the following hacks/tweaks:
 
