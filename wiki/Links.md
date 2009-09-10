@@ -2,7 +2,9 @@
 
 ## Craft Stuff
 
-<http://www.craftzine.com/> <http://www.craftster.org/>
+<http://www.craftzine.com/>
+
+<http://www.craftster.org/>
 
 ## Sell Your Stuff
 
@@ -10,4 +12,8 @@
 
 ## Local
 
-<http://domesticbliss-domesticbliss.blogspot.com/> <http://blissfulliving-domesticbliss.blogspot.com/> <http://www.downtownmesa.com/downtown_events.htm>
+<http://domesticbliss-domesticbliss.blogspot.com/>
+
+<http://blissfulliving-domesticbliss.blogspot.com/>
+
+<http://www.downtownmesa.com/downtown_events.htm>
