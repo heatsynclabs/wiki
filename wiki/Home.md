@@ -57,6 +57,10 @@ This page is a place to submit and talk about various ideas about the [HackerSpa
 <ul>
 <li><a href="Content">Content</a></li>
 <li><a href="Donations">Donations</a></li>
+</ul>
+<h3 id="areas_of_interest">Areas of Interest</h3>
+<ul>
+<li><a href="Links">Links</a></li>
 </ul></td>
 </tr>
 </tbody>
