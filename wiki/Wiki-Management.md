@@ -17,3 +17,23 @@ This page overviews the administrative status of the wiki. If you have a request
   - (Issues with account update code prevented mediawiki from changing passwords and creating accounts in the WP database.)
 
 ## Requested Modifications
+
+- [ASHighlight](http://www.mediawiki.org/wiki/Extension:ASHighlight) for source code highlighting
+- Forum
+  - [AWC Forum](http://www.mediawiki.org/wiki/Extension:AWC%27s_Forum)
+- [Ajax_Show_Editors](http://www.mediawiki.org/wiki/Extension:Ajax_Show_Editors) for UI enhancement
+- [Ajax Rating Script](http://www.mediawiki.org/wiki/Extension:AjaxRatingScript) for UI enhancement and feedback
+- [ReCAPTCHA](http://www.mediawiki.org/wiki/Extension:ReCAPTCHA) for spam and editing control
+- [Flickr](http://www.mediawiki.org/wiki/Extension:Flickr) for bandwidth savings and user experience
+- [User Merge and Delete](http://www.mediawiki.org/wiki/Extension:User_Merge_and_Delete) for administration
+- [CategoryTree](http://www.mediawiki.org/wiki/Extension:CategoryTree) for UI enhancement
+- [Force Preview](http://www.mediawiki.org/wiki/Extension:ForcePreview) for editing control
+- [Google Analytics](http://www.mediawiki.org/wiki/Extension:Google_Analytics_Integration) for usage tracking
+- [Google Maps](http://www.mediawiki.org/wiki/Extension:Google_Maps) adds ability to embed Google maps in an article
+- [IM Status](http://www.mediawiki.org/wiki/Extension:IM_Status) for user experience
+- [Tabs](http://www.mediawiki.org/wiki/Extension:JQuery_Tab_Container) for UI enhancement
+- [IRC Chat](http://www.mediawiki.org/wiki/Extension:IRC_Chat) for user experience
+- [Group Portal](http://www.mediawiki.org/wiki/Extension:GroupPortal) for user experience and management
+- [SidebarEx](http://www.mediawiki.org/wiki/Extension:SidebarEx) for user experience and management
+- [Calendar](http://www.mediawiki.org/wiki/Extension:Calendar_%28Barrylb%29) for UI enhancement
+- [Mobile Skin](http://www.mediawiki.org/wiki/Extension:MobileSkin) for UI enhancement
