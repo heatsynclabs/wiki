@@ -6,6 +6,9 @@ This page overviews the administrative status of the wiki. If you have a request
   - [**RSS**](http://www.mediawiki.org/wiki/Extension:RSS#Source) to display RSS feeds
   - [ReCAPTCHA](http://www.mediawiki.org/wiki/Extension:ReCAPTCHA) for spam and editing control
   - [User Merge and Delete](http://www.mediawiki.org/wiki/Extension:User_Merge_and_Delete) for administration
+  - [GeSHi Syntax Highlighting](http://www.mediawiki.org/wiki/Extension:SyntaxHighlight_GeSHi) for source code highlighting
+  - [Google Analytics](http://www.mediawiki.org/wiki/Extension:Google_Analytics_Integration) for usage tracking
+  - [Google Maps](http://www.mediawiki.org/wiki/Extension:Google_Maps) adds ability to embed Google maps in an article
 
 <!-- -->
 
@@ -20,7 +23,6 @@ This page overviews the administrative status of the wiki. If you have a request
 
 ## Requested Modifications
 
-- [ASHighlight](http://www.mediawiki.org/wiki/Extension:ASHighlight) for source code highlighting
 - Forum
   - [AWC Forum](http://www.mediawiki.org/wiki/Extension:AWC%27s_Forum)
 - [Ajax_Show_Editors](http://www.mediawiki.org/wiki/Extension:Ajax_Show_Editors) for UI enhancement
@@ -28,12 +30,10 @@ This page overviews the administrative status of the wiki. If you have a request
 - [Flickr](http://www.mediawiki.org/wiki/Extension:Flickr) for bandwidth savings and user experience
 - [CategoryTree](http://www.mediawiki.org/wiki/Extension:CategoryTree) for UI enhancement
 - [Force Preview](http://www.mediawiki.org/wiki/Extension:ForcePreview) for editing control
-- [Google Analytics](http://www.mediawiki.org/wiki/Extension:Google_Analytics_Integration) for usage tracking
-- [Google Maps](http://www.mediawiki.org/wiki/Extension:Google_Maps) adds ability to embed Google maps in an article
 - [IM Status](http://www.mediawiki.org/wiki/Extension:IM_Status) for user experience
 - [Tabs](http://www.mediawiki.org/wiki/Extension:JQuery_Tab_Container) for UI enhancement
 - [IRC Chat](http://www.mediawiki.org/wiki/Extension:IRC_Chat) for user experience
 - [Group Portal](http://www.mediawiki.org/wiki/Extension:GroupPortal) for user experience and management
 - [SidebarEx](http://www.mediawiki.org/wiki/Extension:SidebarEx) for user experience and management
-- [Calendar](http://www.mediawiki.org/wiki/Extension:Calendar_%28Barrylb%29) for UI enhancement
+- [Calendar](http://www.mediawiki.org/wiki/Extension:Calendar_%28Kenyu73%29) for UI enhancement
 - [Mobile Skin](http://www.mediawiki.org/wiki/Extension:MobileSkin) for UI enhancement
