@@ -2,32 +2,58 @@
 
 This page is a place to submit and talk about various ideas about the [HackerSpace](http://hackerspaces.org/wiki/Hackerspaces) coming to the Phoenix/Tempe area called [HeatSyncLabs](http://www.heatsynclabs.org)
 
-## Current Info
-
-<table>
+<table style="width:10%;">
+<colgroup>
+<col style="width: 5%" />
+<col style="width: 5%" />
+</colgroup>
 <tbody>
 <tr>
-<td><ul>
+<td class="MainPageLeft" width="50%" data-valign="top" style="border: 1px solid #ffcc00; border-right-width: 3px; border-bottom-width: 3px; padding: .5em 1em; margin: 1em; background-color: #fffad1;"><div style="margin:0;background-color:#fff0cc;font-size:120%;font-weight:bold;border:1px solid #ffcc00;text-align:left;color:#000;padding:0.2em 0.4em;">
+<p>What's new?</p>
+</div>
+<ul>
+<li>'''<a href="Wiki-Management"> Development</a> – If you'd like to help with the initial setup of the wiki please use the discussion page on <a href="Wiki-Management">Wiki Management</a>.</li>
+<li><strong><a href="Highlighted-Projects">Highlighted Projects</a></strong> – Checkout the latest work.</li>
+<li><strong><a href="Project-Needs"> Projects in Need of Assistance</a></strong> – We are always looking for help.</li>
+</ul>
+<p><small>Newly... <a href="Special-Recentchanges">edited articles</a>, <a href="Special-Newpages">created articles</a>, <a href="Special-Newimages">uploaded images</a></small></p></td>
+<td width="50%" data-valign="top" style="border: 1px solid #ffa2a2; border-right-width: 3px; border-bottom-width: 3px; padding: .5em 1em; margin: 1em; background-color: #fff3f3;"><div style="margin:0;background-color:#ffe3e3;font-size:120%;font-weight:bold;border:1px solid #ffa2a2;text-align:left;color:#000;padding:0.2em 0.4em;">
+<p>Current Info</p>
+</div>
+<ul>
 <li><a href="Meetings">Meetings</a></li>
-</ul></td>
-<td><p>|</p>
-<ul>
 <li><a href="FAQ">FAQ</a></li>
-</ul></td>
-<td><p>|</p>
-<ul>
 <li><a href="Contact">Contact</a></li>
+<li><a href="TODO">TODO</a></li>
 </ul></td>
 </tr>
 </tbody>
 </table>
 
-## Ideas
-
-<table>
+<table style="width:10%;">
+<colgroup>
+<col style="width: 5%" />
+<col style="width: 5%" />
+</colgroup>
 <tbody>
 <tr>
-<td><h3 id="setup">Setup</h3>
+<td rowspan="2" class="MainPageLeft" width="50%" data-valign="top" style="border: 1px solid #80e080; border-right-width: 3px; border-bottom-width: 3px; padding: .5em 1em; margin: 1em; background-color: #f0fff0;"><div style="margin:0;background-color:#e0ffe0;font-size:120%;font-weight:bold;border:1px solid #80e080;text-align:left;color:#000;padding:0.2em 0.4em;">
+<p>Community Information</p>
+</div>
+<ul>
+<li><a href="Projects">Projects</a></li>
+<li><a href="HowTo">HowTo</a> (Ideas to bring in to HeatSync)</li>
+<li><a href="Marketing">Marketing</a></li>
+<li><a href="ToolsDB">ToolsDB</a></li>
+</ul>
+<h3 id="membership">Membership</h3>
+<ul>
+<li><a href="Value">Value</a></li>
+</ul></td>
+<td width="50%" data-valign="top" style="border: 1px solid #a0a0ff; border-right-width: 3px; border-bottom-width: 3px; padding: .5em 1em; margin: 1em; background-color: #f0f0ff;"><div style="margin:0;background-color:#e0e0ff;font-size:120%;font-weight:bold;border:1px solid #a0a0ff;text-align:left;color:#000;padding:0.2em 0.4em;">
+<p>Setup</p>
+</div>
 <ul>
 <li><a href="Location">Location</a></li>
 <li><a href="Insurance">Insurance</a></li>
@@ -35,42 +61,23 @@ This page is a place to submit and talk about various ideas about the [HackerSpa
 <li><a href="SurveyOfPrices">SurveyOfPrices</a></li>
 <li><a href="Finances">Finances</a></li>
 <li><a href="Wishlist">Wishlist</a></li>
-</ul></td>
-<td><p>|</p>
-<h3 id="continuous">Continuous</h3>
-<ul>
-<li><a href="Projects">Projects</a></li>
-<li><a href="HowTo">HowTo</a> (Ideas to bring in to HeatSync)</li>
-<li><a href="Marketing">Marketing</a></li>
-<li><a href="ToolsDB">ToolsDB</a></li>
-</ul>
-<h3 id="task">Task</h3>
-<ul>
-<li><a href="TODO">TODO</a></li>
-</ul></td>
-<td><p>|</p>
-<h3 id="membership">Membership</h3>
-<ul>
-<li><a href="Value">Value</a></li>
 </ul>
 <h3 id="continued_success">Continued Success</h3>
 <ul>
 <li><a href="Content">Content</a></li>
 <li><a href="Donations">Donations</a></li>
-</ul>
-<h3 id="areas_of_interest">Areas of Interest</h3>
+</ul></td>
+</tr>
+<tr>
+<td width="50%" data-valign="top" style="border: 1px solid #000; border-right-width: 3px; border-bottom-width: 3px; padding: .5em 1em; margin: 1em; background-color: #f6f6f6;"><div style="margin:0;background-color:#dadada;font-size:120%;font-weight:bold;border:1px solid #000;text-align:left;color:#000;padding:0.2em 0.4em;">
+<p>Noteworthy Resources</p>
+</div>
 <ul>
 <li><a href="Links">Links</a></li>
 </ul></td>
 </tr>
 </tbody>
 </table>
-
-## Development
-
-This wiki is currently under development and needs a bit of peace and quiet while we set everything up. Please check our [blog](http://www.heatsynclabs.org/) for status updates.
-
-In the meantime, if you'd like to help with the initial setup of the wiki please use the discussion page on [Wiki Management](Wiki-Management).
 
 ## Twitter Feed
 
