@@ -5,6 +5,7 @@ This page overviews the administrative status of the wiki. If you have a request
 - Currently we are using the following extensions:
   - [**RSS**](http://www.mediawiki.org/wiki/Extension:RSS#Source) to display RSS feeds
   - [ReCAPTCHA](http://www.mediawiki.org/wiki/Extension:ReCAPTCHA) for spam and editing control
+  - [User Merge and Delete](http://www.mediawiki.org/wiki/Extension:User_Merge_and_Delete) for administration
 
 <!-- -->
 
@@ -25,7 +26,6 @@ This page overviews the administrative status of the wiki. If you have a request
 - [Ajax_Show_Editors](http://www.mediawiki.org/wiki/Extension:Ajax_Show_Editors) for UI enhancement
 - [Ajax Rating Script](http://www.mediawiki.org/wiki/Extension:AjaxRatingScript) for UI enhancement and feedback
 - [Flickr](http://www.mediawiki.org/wiki/Extension:Flickr) for bandwidth savings and user experience
-- [User Merge and Delete](http://www.mediawiki.org/wiki/Extension:User_Merge_and_Delete) for administration
 - [CategoryTree](http://www.mediawiki.org/wiki/Extension:CategoryTree) for UI enhancement
 - [Force Preview](http://www.mediawiki.org/wiki/Extension:ForcePreview) for editing control
 - [Google Analytics](http://www.mediawiki.org/wiki/Extension:Google_Analytics_Integration) for usage tracking
