@@ -136,7 +136,7 @@ Section 501(c)(3) organizations are restricted in how much political and legisla
 
 ## 4) Public Disclosure of Information of Tax Exempt Organizations
 
-== A tax-exempt organization is required to provide copies of its three most recent information returns, its exemption letter, and its approved application with supporting documentation, without charge (other than a reasonable fee for any reproduction and mailing costs), to persons requesting copies (with certain exceptions), unless it has made these forms widely available by publishing them on the Internet in accordance with IRS regulations.
+A tax-exempt organization is required to provide copies of its three most recent information returns, its exemption letter, and its approved application with supporting documentation, without charge (other than a reasonable fee for any reproduction and mailing costs), to persons requesting copies (with certain exceptions), unless it has made these forms widely available by publishing them on the Internet in accordance with IRS regulations.
 
 ## 5) Submit an affidavit of publication to the ACC
 
