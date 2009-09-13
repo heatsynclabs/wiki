@@ -110,8 +110,6 @@ If within sixty days after delivering the articles of incorporation to the ACC a
 
 ## 3) Obtain Tax Exempt Status
 
-==
-
 Being a non profit organization does not mean you are tax exempt. You have to file separately for this status.
 
 ### 3.a) Must meet these requirements
