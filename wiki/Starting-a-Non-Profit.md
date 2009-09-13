@@ -146,13 +146,13 @@ This annual report must be correctly filled out and submitted by the assigned du
 
 Annual Report Instruction Sheet: <http://www.cc.state.az.us/divisions/corporations/annrpts/arinstruct.asp>
 
-## Non-Profit Organization
+## Non-Profit Organization Upkeep
 
-` *Have a regular meeting with possibly all members.`\
-` *Have an agenda and set goals. `\
-` *Make people commit themselves to tasks. `\
-` *Write down minutes of the meeting and post them on a mailing list and/or Wiki. `\
-` *Go for the only date that works: once a week.  Weird dates like “first full-moon after the third Friday” will never work. Likewise doesn’t every other week or anything similar.`
+- Have a regular meeting with possibly all members.
+- Have an agenda and set goals.
+- Make people commit themselves to tasks.
+- Write down minutes of the meeting and post them on a mailing list and/or Wiki.
+- Go for the only date that works: once a week. Weird dates like “first full-moon after the third Friday” will never work. Likewise doesn’t every other week or anything similar.
 
 ## Links
 
