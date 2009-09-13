@@ -117,7 +117,7 @@ If within sixty days after delivering the articles of incorporation to the ACC a
 
 ` * In a newspaper of general circulation the required number of times`\
 ` * Within 60 days after the Commission files (approves) the Articles of Incorporation, you must publish a copy of the Articles in a newspaper of general circulation in the county of the known place of business in Arizona for three consecutive publications. A list of acceptable newspapers in each county will be enclosed with your approval letter and is also available on the Commission website. The corporation may be subject to administrative dissolution if it fails to publish. You do not need to file the Affidavit of Publication you will receive from the newspaper.`\
-`   * Copied from the example articles of incorporation`
+` * Copied from the example articles of incorporation`
 
 ## 3) Obtain Tax Exempt Status
 
@@ -129,7 +129,9 @@ Being a non profit organization does not mean you are tax exempt. You have to fi
 
 ` *Must meet requirements set forth in the Internal Revenue Code`
 
-Non-Profit Types and Requirements for Exemption: \\\\ <http://www.irs.gov/charities/nonprofits/content/0,,id=132157,00.html> \\\\ Looks like we fall under the "Social Club" group.
+Non-Profit Types and Requirements for Exemption:\
+<http://www.irs.gov/charities/nonprofits/content/0,,id=132157,00.html>\
+Looks like we fall under the "Social Club" group.
 
 - - Social Clubs\*\*
 
@@ -151,15 +153,15 @@ Inurement Prohibited: The statute prohibits exemption if any part of the organiz
 
 == A tax-exempt organization is required to provide copies of its three most recent information returns, its exemption letter, and its approved application with supporting documentation, without charge (other than a reasonable fee for any reproduction and mailing costs), to persons requesting copies (with certain exceptions), unless it has made these forms widely available by publishing them on the Internet in accordance with IRS regulations.
 
-##### Submit an affidavit of publication to the ACC
+## 5) Submit an affidavit of publication to the ACC
 
-##### Annual Report
+### Annual Report
 
 This annual report must be correctly filled out and submitted by the assigned due date or the corporation may be administratively dissolved or have its authority revoked by the State of Arizona. According to A.R.S. §10-1622.F, penalties accrue on business corporation annual reports which are submitted late (starting the day after the due date). Corporations must use the annual report form prescribed by the Corporation Commission. No other format is allowed.
 
 Annual Report Instruction Sheet: <http://www.cc.state.az.us/divisions/corporations/annrpts/arinstruct.asp>
 
-###### Non-Profit Organization
+## Non-Profit Organization
 
 ` *Have a regular meeting with possibly all members.`\
 ` *Have an agenda and set goals. `\
@@ -167,10 +169,13 @@ Annual Report Instruction Sheet: <http://www.cc.state.az.us/divisions/corporatio
 ` *Write down minutes of the meeting and post them on a mailing list and/or Wiki. `\
 ` *Go for the only date that works: once a week.  Weird dates like “first full-moon after the third Friday” will never work. Likewise doesn’t every other week or anything similar.`
 
-###### Links
+## Links
 
-Has good info about starting a non-profit in AZ and includes sample documents: \\\\ <http://www.keytlaw.com/az/entities/nonprofits.htm>
+Has good info about starting a non-profit in AZ and includes sample documents:\
+<http://www.keytlaw.com/az/entities/nonprofits.htm>
 
-A more brief overview of what must be done to become a tax-exempt non profit in AZ: \\\\ <http://www.hurwitassociates.com/l_s_initial_az.php>
+A more brief overview of what must be done to become a tax-exempt non profit in AZ:\
+<http://www.hurwitassociates.com/l_s_initial_az.php>
 
-Change of statutory agent form: \\\\ <http://corporations.azcc.gov/filings/forms/ll0006.pdf>
+Change of statutory agent form:\
+<http://corporations.azcc.gov/filings/forms/ll0006.pdf>
