@@ -63,25 +63,18 @@ The general rule is that a nonprofit corporation may not make any distributions.
 
 Without the consent of the board of directors, no person may obtain or use a nonprofit corporation's membership list or any part of the membership list for any purpose unrelated to a member's interest as a member. Without the consent of the board of directors, the membership list or any part of the membership list shall not be:
 
-` * Used to solicit money or property, unless the money or property will be used solely to solicit the votes of the members in an election to be held by the corporation.`
-
-` * Used for any commercial purpose.`
-
-` * Sold to or purchased by any person.`
+- Used to solicit money or property, unless the money or property will be used solely to solicit the votes of the members in an election to be held by the corporation.
+- Used for any commercial purpose.
+- Sold to or purchased by any person.
 
 Each year a nonprofit corporation must pay a \$10 fee and file an annual report with the ACC that sets forth the following information that becomes available to the public:
 
-` * The names and business addresses of its directors and principal officers.`
-
-` * A brief description of the nature of its activities.`
-
-` * Whether or not it has members.`
-
-` * A certificate of disclosure containing the information set forth in A.R.S. Section 10-3202.D.`
-
-` * A statement that all corporate income tax returns required under Arizona law have been filed with the Arizona Department of Revenue.`\
-`   `\
-` * A statement of its financial condition consisting of one of the following documents: (i) the corporation's most recent copy of page 2, Form 99 filed with the Arizona Department of Revenue; (ii) a copy of the corporation's Charitable Organization Financial Statement as filed with the Arizona Secretary of State pursuant to A.R.S. §44-6552; (iii) a copy of the corporation's Treasurer's Report/Financial Statement prepared for the current fiscal year; (iv) a copy of the financial statement prepared for the corporation's members; or (v) a statement that the corporation conducted no business in Arizona in the past year.`
+- The names and business addresses of its directors and principal officers.
+- A brief description of the nature of its activities.
+- Whether or not it has members.
+- A certificate of disclosure containing the information set forth in A.R.S. Section 10-3202.D.
+- A statement that all corporate income tax returns required under Arizona law have been filed with the Arizona Department of Revenue.
+- A statement of its financial condition consisting of one of the following documents: (i) the corporation's most recent copy of page 2, Form 99 filed with the Arizona Department of Revenue; (ii) a copy of the corporation's Charitable Organization Financial Statement as filed with the Arizona Secretary of State pursuant to A.R.S. §44-6552; (iii) a copy of the corporation's Treasurer's Report/Financial Statement prepared for the current fiscal year; (iv) a copy of the financial statement prepared for the corporation's members; or (v) a statement that the corporation conducted no business in Arizona in the past year.
 
 ### 2.f) Choose a Statutory Agent - Not it!
 
