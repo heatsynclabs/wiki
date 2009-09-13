@@ -1,16 +1,22 @@
-## Things To Think About
+## Revenue Ideas
 
-- donations/pledges
-- membership
-- donations towards certain tools or services (let people who want them donate towards them and make this public so they can see how close they are)
+- Donations/Pledges from membership, community, and local companies
+- Membership Dues
+- Donations towards certain tools or services (let people who want them donate towards them and make this public so they can see how close they are)
 
 run this is a for profit operation! Just because its a non profit doesn't mean it shouldn't self sustain, and more!
 
-- lifetime membership?--issues, cannibalize your first set of users who would be paying monthly!
+- Lifetime Membership?--issues, cannibalize your first set of users who would be paying monthly!
 - start smaller? Seems presumptuous to think you're ready to get 30 people to pay 50 dollars, and you're undercounting utilities hugely and not dealing with tools/furniture/setup costs. I pay 200 in AC in my 2 bd., 300 for all utilities is insane
 - loans?
-- sell food, have an actual cafe, coffee shop--simultaneously have someone watch the space and make some money too--make it public too!
-- craft shop (local or etsy)
+- Sell Food, have an actual cafe, coffee shop--simultaneously have someone watch the space and make some money too--make it public too!
+- Craft Shop (local or etsy)
+- Sponsorship - Universities, Large Companies(Intel), etc.
+- Grants(1337 grant from UAT)
+- Shared Purchase Plan - Reimbursement Program – Buy a tool and get it payed back
+- Private Investors
+- Merchandise Income - T-Shirts, Hats, Posters, Stickers, Crafts, Electronics Kits, etc.
+- Advertising Revenue from Website
 
 ## Accounting Software
 
