@@ -89,15 +89,11 @@ Every nonprofit corporation formed in Arizona or qualified to do business in Ari
 
 **The statutory agent must be one of the following:**
 
-` * An individual who resides in Arizona.`
-
-` * A domestic business or nonprofit corporation formed under Arizona law.`
-
-` * A foreign business or nonprofit corporation authorized to transact business or conduct affairs in Arizona.`
-
-` * A limited liability company formed under Arizona law.`
-
-` * A limited liability company authorized to transact business in Arizona.`
+- An individual who resides in Arizona.
+- A domestic business or nonprofit corporation formed under Arizona law.
+- A foreign business or nonprofit corporation authorized to transact business or conduct affairs in Arizona.
+- A limited liability company formed under Arizona law.
+- A limited liability company authorized to transact business in Arizona.
 
 The corporation must notify the ACC if it changes its known place of business or statutory agent. If the statutory agent changes its street address, the statutory agent must give written notice to the corporation of the change and sign, either manually or in facsimile, and deliver to the ACC for filing a statement that includes the new address and that recites that the corporation has been given written notice of the change.
 
