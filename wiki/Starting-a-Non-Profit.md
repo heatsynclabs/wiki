@@ -104,9 +104,9 @@ If within sixty days after delivering the articles of incorporation to the ACC a
 
 ### 2.i) Publish the Articles of Incorporation
 
-` * In a newspaper of general circulation the required number of times`\
-` * Within 60 days after the Commission files (approves) the Articles of Incorporation, you must publish a copy of the Articles in a newspaper of general circulation in the county of the known place of business in Arizona for three consecutive publications. A list of acceptable newspapers in each county will be enclosed with your approval letter and is also available on the Commission website. The corporation may be subject to administrative dissolution if it fails to publish. You do not need to file the Affidavit of Publication you will receive from the newspaper.`\
-` * Copied from the example articles of incorporation`
+- In a newspaper of general circulation the required number of times
+- Within 60 days after the Commission files (approves) the Articles of Incorporation, you must publish a copy of the Articles in a newspaper of general circulation in the county of the known place of business in Arizona for three consecutive publications. A list of acceptable newspapers in each county will be enclosed with your approval letter and is also available on the Commission website. The corporation may be subject to administrative dissolution if it fails to publish. You do not need to file the Affidavit of Publication you will receive from the newspaper.
+- Copied from the example articles of incorporation
 
 ## 3) Obtain Tax Exempt Status
 
