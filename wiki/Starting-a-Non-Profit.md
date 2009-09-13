@@ -1,6 +1,6 @@
-###### Steps To Become A Non Profit
+## 1) Select the Name of the Corporation
 
-#### 1) Select the Name of the Corporation
+==
 
 ### 1.a) Name Guidelines
 
@@ -25,7 +25,9 @@ Use <http://tess2.uspto.gov/bin/gate.exe?f=tess&state=4005:6leu8n.1.1> to search
 
 Use <http://starpas.azcc.gov/scripts/cgiip.exe/WService=wsbroker1/connect.p?app=names-report.p> to search Arizona database
 
-#### 2) Create the Non-profit organization
+## 2) Create the Non-profit organization
+
+==
 
 ### 2.a) Prepare the Articles of Incorporation
 
@@ -111,7 +113,15 @@ When you file the articles of incorporation with the ACC, you must also submit a
 
 If within sixty days after delivering the articles of incorporation to the ACC any person becomes an officer, director or trustee of the corporation and the person was not the subject of the disclosures set forth in a certificate of disclosure previously filed with the ACC, the incorporator or incorporators or, if the organization of the corporation has been completed, the corporation shall sign and deliver to the ACC within the sixty day period a declaration, sworn to under penalty of law, setting forth all information required by A.R.S. Section 10-3202.D(1), regarding the person. If the incorporator or incorporators or, as applicable, the corporation do not comply with this requirement, the ACC may administratively dissolve the corporation.
 
-#### 3) Obtain Tax Exempt Status
+### 2.i) Publish the Articles of Incorporation
+
+` * In a newspaper of general circulation the required number of times`\
+` * Within 60 days after the Commission files (approves) the Articles of Incorporation, you must publish a copy of the Articles in a newspaper of general circulation in the county of the known place of business in Arizona for three consecutive publications. A list of acceptable newspapers in each county will be enclosed with your approval letter and is also available on the Commission website. The corporation may be subject to administrative dissolution if it fails to publish. You do not need to file the Affidavit of Publication you will receive from the newspaper.`\
+`   * Copied from the example articles of incorporation`
+
+## 3) Obtain Tax Exempt Status
+
+==
 
 Being a non profit organization does not mean you are tax exempt. You have to file separately for this status.
 
@@ -137,15 +147,9 @@ Inurement Prohibited: The statute prohibits exemption if any part of the organiz
 
 <http://www.irs.gov/pub/irs-pdf/k1024.pdf>
 
-#### 4) Public Disclosure of Information of Tax Exempt Organizations
+## 4) Public Disclosure of Information of Tax Exempt Organizations
 
-A tax-exempt organization is required to provide copies of its three most recent information returns, its exemption letter, and its approved application with supporting documentation, without charge (other than a reasonable fee for any reproduction and mailing costs), to persons requesting copies (with certain exceptions), unless it has made these forms widely available by publishing them on the Internet in accordance with IRS regulations.
-
-##### Publish the Articles of Incorporation
-
-` * In a newspaper of general circulation the required number of times`\
-` * Within 60 days after the Commission files (approves) the Articles of Incorporation, you must publish a copy of the Articles in a newspaper of general circulation in the county of the known place of business in Arizona for three consecutive publications. A list of acceptable newspapers in each county will be enclosed with your approval letter and is also available on the Commission website. The corporation may be subject to administrative dissolution if it fails to publish. You do not need to file the Affidavit of Publication you will receive from the newspaper.`\
-`   * Copied from the example articles of incorporation`
+== A tax-exempt organization is required to provide copies of its three most recent information returns, its exemption letter, and its approved application with supporting documentation, without charge (other than a reasonable fee for any reproduction and mailing costs), to persons requesting copies (with certain exceptions), unless it has made these forms widely available by publishing them on the Internet in accordance with IRS regulations.
 
 ##### Submit an affidavit of publication to the ACC
 
