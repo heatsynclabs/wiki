@@ -2,7 +2,7 @@ I am interested in seeing the actual set up of the hackerspace as a project in i
 
 ## Current Projects
 
-- Starting a Non-Profit
+- [Starting a Non-Profit](Starting-a-Non-Profit)
 
 ## Some Logistics Project Ideas
 
