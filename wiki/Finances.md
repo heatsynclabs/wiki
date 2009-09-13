@@ -25,6 +25,19 @@ run this is a for profit operation! Just because its a non profit doesn't mean i
 - gnucash - <http://www.gnucash.org/> - Linux or Windows
 - TurboCash - <http://www.turbocash.net/> - Windows only, may work with WINE
 
+==Reoccurring Expenses
+
+| Expense                      | Cost | Period             |
+|------------------------------|------|--------------------|
+| Rent/Lease                   |      |                    |
+| Utilities(Electricity/Water) |      |                    |
+| Internet                     |      |                    |
+| Domain Name                  |      |                    |
+| Legal Fees                   |      |                    |
+| Insurance                    |      |                    |
+| Advertising/Marketing        |      |                    |
+|                              |      | Salaries for Staff |
+
 ## HeatBucks
 
 I need to know how… anti capitalism people in the group are thus far. Is this a bunch of people trying to escape capitalism? Or are we creating a self sustaining FOR PROFIT business, that simply plows its profit back into the business.
