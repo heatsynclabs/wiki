@@ -1,21 +1,20 @@
 ## 1) Select the Name of the Corporation
 
-==
-
 ### 1.a) Name Guidelines
 
-When choosing a name ensure that it: \\\\
+When choosing a name ensure that it:\
 
-` * Will afford strong federal trademark protection, but will not infringe on anybody's trademark or service mark`\
-` * Will be easy for your customers to remember`\
-` * Will describe your products or services(often not possible and not proffered)`\
-` * Will allow you to obtain .com, .net., .org, .biz, .info and .us domain names`
+- Will afford strong federal trademark protection, but will not infringe on anybody's trademark or service mark
+- Will be easy for your customers to remember
+- Will describe your products or services(often not possible and not proffered)
+- Will allow you to obtain .com, .net., .org, .biz, .info and .us domain names
 
 ### 1.b) Name Regulations
 
 It will probably be easiest to just choose a name and then make sure it fits within these rules:
 
-To check the availability of a name and for some naming and for some naming standards: \\\\ <http://www.cc.state.az.us/divisions/corporations/filings/namingpolicy.asp>
+To check the availability of a name and for some naming and for some naming standards:\
+<http://www.cc.state.az.us/divisions/corporations/filings/namingpolicy.asp>
 
 Name must abide by these Arizona rules: <http://www.azleg.state.az.us/ars/10/03401.htm>
 
