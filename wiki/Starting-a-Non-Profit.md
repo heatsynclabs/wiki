@@ -27,8 +27,6 @@ Use <http://starpas.azcc.gov/scripts/cgiip.exe/WService=wsbroker1/connect.p?app=
 
 ## 2) Create the Non-profit organization
 
-==
-
 ### 2.a) Prepare the Articles of Incorporation
 
 Example Articles of Incorporation of a Tax-Exempt Non Profit: \\\\ <http://www.azcc.gov/divisions/corporations/filings/forms/cf0041.pdf> Arizona CORPORATE FILINGS FAQ <http://www.cc.state.az.us/divisions/corporations/faqmanual.asp#cf>
