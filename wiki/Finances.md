@@ -1,4 +1,4 @@
-## Finances
+## Things To Think About
 
 - donations/pledges
 - membership
@@ -8,14 +8,18 @@ run this is a for profit operation! Just because its a non profit doesn't mean i
 
 - lifetime membership?--issues, cannibalize your first set of users who would be paying monthly!
 - start smaller? Seems presumptuous to think you're ready to get 30 people to pay 50 dollars, and you're undercounting utilities hugely and not dealing with tools/furniture/setup costs. I pay 200 in AC in my 2 bd., 300 for all utilities is insane
-
-<!-- -->
-
 - loans?
 - sell food, have an actual cafe, coffee shop--simultaneously have someone watch the space and make some money too--make it public too!
 - craft shop (local or etsy)
 
-### HeatBucks
+## Accounting Software
+
+### Open Source
+
+- gnucash - <http://www.gnucash.org/> - Linux or Windows
+- TurboCash - <http://www.turbocash.net/> - Windows only, may work with WINE
+
+## HeatBucks
 
 I need to know how… anti capitalism people in the group are thus far. Is this a bunch of people trying to escape capitalism? Or are we creating a self sustaining FOR PROFIT business, that simply plows its profit back into the business.
 
