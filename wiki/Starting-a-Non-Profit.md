@@ -87,7 +87,7 @@ Each year a nonprofit corporation must pay a \$10 fee and file an annual report 
 
 Every nonprofit corporation formed in Arizona or qualified to do business in Arizona must have and maintain a statutory agent located in Arizona. The purpose of a statutory agent is to give notice to the public of a person or entity authorized by the corporation that can be served with legal documents as the agent of the corporation. The statutory agent is the person or entity that can be served with a summons and complaint filed in a lawsuit.
 
-- - The statutory agent must be one of the following:\*\*
+**The statutory agent must be one of the following:**
 
 ` * An individual who resides in Arizona.`
 
