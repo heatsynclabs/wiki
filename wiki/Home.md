@@ -43,7 +43,7 @@ This page is a place to submit and talk about various ideas about the [HackerSpa
 </div>
 <ul>
 <li><a href="Projects">Projects</a></li>
-<li><a href="HowTo">HowTo</a> (Ideas to bring in to HeatSync)</li>
+<li><a href="How-To-Hackerspace">How_To_Hackerspace</a> (Ideas to bring in to HeatSync)</li>
 <li><a href="Marketing">Marketing</a></li>
 <li><a href="ToolsDB">ToolsDB</a></li>
 </ul>
