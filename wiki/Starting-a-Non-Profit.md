@@ -116,13 +116,13 @@ Being a non profit organization does not mean you are tax exempt. You have to fi
 
 ### 3.a) Must meet these requirements
 
-` *Must meet requirements set forth in the Internal Revenue Code`
+- Must meet requirements set forth in the Internal Revenue Code
 
 Non-Profit Types and Requirements for Exemption:\
 <http://www.irs.gov/charities/nonprofits/content/0,,id=132157,00.html>\
 Looks like we fall under the "Social Club" group.
 
-- - Social Clubs\*\*
+**Social Clubs**
 
 Requirements for Exemption - In General: To be exempt under Internal Revenue Code section 501(c)(7), a social club must be organized for pleasure, recreation, and other similar nonprofitable purposes and substantially all of its activities must be for these purposes. A club will not be recognized as tax exempt if its charter, by laws, or other governing instrument, or any written policy statement provides for discrimination against any person based on race, color, or religion. There is an exception, however, for a club that in good faith limits its membership to members of a particular religion, to further the teachings or principles of that religion and not to exclude individuals of a particular race or color.
 
