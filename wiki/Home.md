@@ -67,6 +67,7 @@ This page is a place to submit and talk about various ideas about the [HackerSpa
 <ul>
 <li><a href="Content">Content</a></li>
 <li><a href="Donations">Donations</a></li>
+<li><a href="Suggestions">Suggestions</a></li>
 </ul></td>
 </tr>
 <tr>
