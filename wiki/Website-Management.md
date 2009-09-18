@@ -2,8 +2,9 @@ This page is for brainstorming changes and enhancements to the website.
 
 ## Front Page Information
 
-- Upcoming Events/Meetings
-- Polls
-- Updates
+Relevant information that should always be visible on the front page:
 
-### Content
+- Upcoming Events/Meetings (EventCal?)
+- Polls (Google Docs)
+
+## Backend
