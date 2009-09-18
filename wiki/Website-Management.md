@@ -8,3 +8,7 @@ Relevant information that should always be visible on the front page:
 - Polls (Google Docs)
 
 ## Backend
+
+- Canonical urls
+- Additional Data fields in profiles (Twitter, City, Membership Level, etc)
+- Discussion forum platform (possible unified login with wordpress or wiki)
