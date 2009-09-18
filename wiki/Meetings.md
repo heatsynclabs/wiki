@@ -12,4 +12,4 @@ we’re looking to venture out to cool places we hear about (in a totally inform
 
 ## Project Nights
 
-1.  Sept 17th 2009 Potato Cannons
+1.  Sept 17th 2009: Potato Cannons
