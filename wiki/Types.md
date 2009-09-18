@@ -7,6 +7,7 @@ Need a number of members we need and how much to charge each. Collect fees regul
 - Basic - Only allowed during certain hours, pay per access, can be escorted by board member
 - Temp VIP - For certain projects
 - Esteemed/VIP - Higher membership - 24x7 access trusted people
+- Platinum - Temporary high level/VIP membership; Attained by renting private workspace or private workbench.
 
 And amount of time for membership:
 
