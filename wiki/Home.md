@@ -13,7 +13,7 @@ This page is a place to submit and talk about various ideas about the [HackerSpa
 <p>What's new?</p>
 </div>
 <ul>
-<li>'''<a href="Wiki-Management"> Development</a> – If you'd like to help with the initial setup of the wiki please use the discussion page on <a href="Wiki-Management">Wiki Management</a>.</li>
+<li>'''<a href="Wiki-Management"> Development</a> – If you'd like to help with the initial setup of the wiki please use the discussion page on <a href="Wiki-Management">Wiki Management</a>. If you have ideas to improve the website please use the discussion page on <a href="Website-Management">Website_Management</a></li>
 <li><strong><a href="Highlighted-Projects">Highlighted Projects</a></strong> – Checkout the latest work.</li>
 <li><strong><a href="Project-Needs"> Projects in Need of Assistance</a></strong> – We are always looking for help.</li>
 </ul>
