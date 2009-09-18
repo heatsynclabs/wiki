@@ -5,6 +5,7 @@ This page is for brainstorming changes and enhancements to the website.
 Relevant information that should always be visible on the front page:
 
 - Upcoming Events/Meetings (EventCal?)
+- Headline section outlining HeatSync Labs and the charter
 - Polls (Google Docs)
 
 ## Backend
