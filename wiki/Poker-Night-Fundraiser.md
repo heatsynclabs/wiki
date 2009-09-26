@@ -1,3 +1,1 @@
-# Poker Night
-
 ## Documents
