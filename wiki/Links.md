@@ -7,6 +7,10 @@
 
 - <http://www.securitytube.net/Building-Hackerspaces-Everywhere-(Brucon-2009)-video.aspx>
 
+## HackerSpace Feeds
+
+- <http://hackerspaces.soup.io/> Hackerspaces soup - A feed of most of the worlds hackerspace websites. Find out whats hot.
+
 # Hardware
 
 ## Local
