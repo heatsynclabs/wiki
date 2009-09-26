@@ -3,6 +3,10 @@
 - <http://www.instructables.com/>
 - <http://www.ehow.com/>
 
+# HackerSpace Inspiration
+
+- <http://www.securitytube.net/Building-Hackerspaces-Everywhere-(Brucon-2009)-video.aspx>
+
 # Hardware
 
 ## Local
