@@ -4,7 +4,7 @@ The hackerspace talk "Building-hacker-spaces-everywhere-Your-excuses-are-invalid
 
 I would definitely like someone to make some calls and log their results here
 
-www.nationwide.com/vocational-insurance-hb.jsp
+<http://www.nationwide.com/vocational-insurance-hb.jsp>
 
 [insurance1.pdf](files/Insurance1.pdf)
 
