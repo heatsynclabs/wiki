@@ -1,3 +1,7 @@
+![](files/Poker-Night.jpg)
+
+*Poker-Night.jpg*
+
 ## Documents
 
     HSL Fundraiser Recruitment Letter
