@@ -10,11 +10,11 @@ I have offered to head this event, and I am asking for your help! Please look ov
 
 ## The Facts
 
-`   Event Title: HeatSync Labs Presents: "Poker Night (and Other Nefarious Deeds)"`\
-`   Date: 3 October 2009`\
-`   Time: 6-10 pm`\
-`   Location: Mesa FOP (where we usually meet)`\
-`  Goal: to raise $500 for HSL General Fund`
+` Event Title: HeatSync Labs Presents: "Poker Night (and Other Nefarious Deeds)"`\
+` Date: 3 October 2009`\
+` Time: 6-10 pm`\
+` Location: Mesa FOP (where we usually meet)`\
+` Goal: to raise $500 for HSL General Fund`
 
 ## The Vision
 
