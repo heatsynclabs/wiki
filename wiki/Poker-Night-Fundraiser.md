@@ -40,4 +40,4 @@ Interested??? Poker Night will be a pretty simple fundraiser to organize, easily
 
 We're hoping to appeal to some businesses in the local area to donate some food/money to help fund this event. It doesn't have to be much. If you're interested in helping out with this feel free to print out the letter below to give to them so it looks official and they can know what we're about:
 
-[Media:Fundraising_Letter.doc](files/Fundraising_Letter.doc)
+[ Fundraising Letter for Businesses](files/Fundraising_Letter.doc)
