@@ -4,9 +4,7 @@
 
 ## Premise
 
-The time has come to begin preparations for our very first fundraiser! Sean, Rick and Jeremy have put the final touches on the Official Paperwork and it will be turned in shorty, allowing HSL to become a real non-profit!!! That said, we want to be ready to hit the ground with a fundraiser so that we can get
-
-`some money to MAKE STUFF HAPPEN! `
+The time has come to begin preparations for our very first fundraiser! Sean, Rick and Jeremy have put the final touches on the Official Paperwork and it will be turned in shorty, allowing HSL to become a real non-profit!!! That said, we want to be ready to hit the ground with a fundraiser so that we can getsome money to MAKE STUFF HAPPEN!
 
 I have offered to head this event, and I am asking for your help! Please look over the following.
 
