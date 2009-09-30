@@ -35,3 +35,9 @@ Interested??? Poker Night will be a pretty simple fundraiser to organize, easily
 1.Email me ASAP with how much time you have, what you'd like to do and if you have any special resources to donate/lend. (ex: roulette table, decorations, cards ect)\
 2\. Start Brainstorming ideas!! As soon as you're on board, I'll share my more detailed document on how we're going to pull off the awesomeness.\
 3\. COME TO OUR PREPARATORY MEETING! We will meet this Thursday (17 September) at the FOP around 9:00 (after the meeting is over/spud guns are started). There I hope to meet all of you and get the awesomeness underways!
+
+## Documents
+
+We're hoping to appeal to some businesses in the local area to donate some food/money to help fund this event. It doesn't have to be much. If you're interested in helping out with this feel free to print out the letter below to give to them so it looks official and they can know what we're about:
+
+[Media:Fundraising_Letter.doc](files/Fundraising_Letter.doc)
