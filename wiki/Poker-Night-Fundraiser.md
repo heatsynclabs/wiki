@@ -26,23 +26,24 @@ Interested??? Poker Night will be a pretty simple fundraiser to organize, easily
 
 ## What We Need
 
-`   1. Some people to head up sub committees (Ex: Donations, activities, food, advertising). This is gong to be`
+1\. Some people to head up sub committees (Ex: Donations, activities, food, advertising). This is gong to be a bi-weekly commitment for meetings, some email communication time, and the time required to do your appointed
 
-a bi-weekly commitment for meetings, some email communication time, and the time required to do your appointed
+`task).  Most intensive. `
 
-`task).  Most intensive. `\
-`   2. Some people to help the people heading the sub committees, This will be a bi-weekly commitment for`\
-`meetings and as needed by the sub-committee head. `\
-`   3. Some people who can help set up the day of the event (1 day commitment).`\
-`   4. Some people to run events: Card dealers, food table/bar person, money collectors. (a few hours during the event)`\
-`   4. Some people who can help clean up after the event (a few hours commitment).  Least intensive. `
+2\. Some people to help the people heading the sub committees, This will be a bi-weekly commitment for
+
+`meetings and as needed by the sub-committee head. `
+
+3\. Some people who can help set up the day of the event (1 day commitment). 4. Some people to run events: Card dealers, food table/bar person, money collectors. (a few hours during the event) 5. Some people who can help clean up after the event (a few hours commitment). Least intensive.
 
 ## What You Need To Do
 
-`   1.Email me ASAP with how much time you have, what you'd like to do and if you have any special resources`\
-`to donate/lend. (ex: roulette table, decorations, cards ect)`\
-`   2. Start Brainstorming ideas!! As soon as you're on board, I'll share my more detailed document on how`\
-`we're going to pull off the awesomeness.`\
-`   3. COME TO OUR PREPARATORY MEETING!  We will meet this Thursday (17 September) at the FOP around 9:00`
+1.Email me ASAP with how much time you have, what you'd like to do and if you have any special resources
 
-(after the meeting is over/spud guns are started). There I hope to meet all of you and get the awesomeness underways!
+`to donate/lend. (ex: roulette table, decorations, cards ect)`
+
+2\. Start Brainstorming ideas!! As soon as you're on board, I'll share my more detailed document on how
+
+`we're going to pull off the awesomeness.`
+
+3\. COME TO OUR PREPARATORY MEETING! We will meet this Thursday (17 September) at the FOP around 9:00 (after the meeting is over/spud guns are started). There I hope to meet all of you and get the awesomeness underways!
