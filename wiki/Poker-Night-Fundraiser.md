@@ -24,15 +24,7 @@ Interested??? Poker Night will be a pretty simple fundraiser to organize, easily
 
 ## What We Need
 
-1\. Some people to head up sub committees (Ex: Donations, activities, food, advertising). This is gong to be a bi-weekly commitment for meetings, some email communication time, and the time required to do your appointed
-
-`task).  Most intensive. `
-
-2\. Some people to help the people heading the sub committees, This will be a bi-weekly commitment for
-
-`meetings and as needed by the sub-committee head. `
-
-3\. Some people who can help set up the day of the event (1 day commitment). 4. Some people to run events: Card dealers, food table/bar person, money collectors. (a few hours during the event) 5. Some people who can help clean up after the event (a few hours commitment). Least intensive.
+1\. Some people to head up sub committees (Ex: Donations, activities, food, advertising). This is gong to be a bi-weekly commitment for meetings, some email communication time, and the time required to do your appointed task). Most intensive. 2. Some people to help the people heading the sub committees, This will be a bi-weekly commitment for meetings and as needed by the sub-committee head. 3. Some people who can help set up the day of the event (1 day commitment). 4. Some people to run events: Card dealers, food table/bar person, money collectors. (a few hours during the event) 5. Some people who can help clean up after the event (a few hours commitment). Least intensive.
 
 ## What You Need To Do
 
