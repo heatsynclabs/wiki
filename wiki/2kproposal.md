@@ -16,6 +16,17 @@ Even historically non technical savvy types are taking interest in this maker cu
 
 nonprofit-in progress insurance a space donations tools marketing
 
+\[what is a 3d printer, why is it important?\]
+
+Currently low end commercial 3d fabricators cost upwards of \$20,000. The Rep Rap is a free to download blueprint to create your own 3d printer/prototyper for less than \$1000 in commodity parts. The Rep Rap is perhaps best explained in their own words:
+
+`   "Today, virtually everyone in the developed world runs their own printing works, their own photographic laboratory, and their own CD-pressing plant.  Moving from two-dimensions to three, why shouldn't they also make their own MP3-players, their own coat hooks, and their own car wing mirrors?"`\
+`   "And why shouldn't they use the machine that does the making to make new improved versions of itself?"`
+
+<http://www.reprap.org/pub/Main/WebHome/one-page.pdf>
+
+\[Image of Escher's Drawing Hands here?\]
+
 **Marketing Strategy:**
 
 Describe the market in which the project will operate and what barriers there are to market entry, if any. Include an overview of potential partners. Explain the project’s outreach plan.
@@ -28,13 +39,27 @@ The major barrier to market entry is capital. Tools and software are extremely e
 
 We intend to outreach to colleges and high schools and other tech communities in order to educate and gain community recognition. It will also be important to do talks and workshops at the location. This will bring in additional users to continue the subscription model and continue to build our name presence helping us gain new donors.
 
+Hopefully it is not obvious to the reader, but it can be difficult to describe what exactly Heatsync is. The Rep Rap in some ways directly displays what we do in a very real, very visual, and very tactile manner. It is a device which can make your dreams reality before your eyes.
+
+By taking the rep rap out to schools and to First Friday's and other events we will be able to gain real mindshare and marketing at the same time we gain a valuable prototyping tool.
+
+Because a primary goal of the Rep Rap project is a machine that can build itself, it is important to be able to locate your nearest Rep Rap neighbor. To this end the Rep Rap team maintain a list of rep raps around the globe As of this writing our Rep Rap will be the only one in Arizona. This would allow us the incredible opportunity of being the Mother of all future Rep Raps in this state.
+
 **Project Team:**
 
 Summarize the entrepreneurial, academic and/or community-focused aspirations, experience, and/or training of the team members. Describe any relationships with advisors and mentors the team will utilize. Provide resumes or bios for each team member in the appendix, if available. We are a team of artists, engineers and makers with a passion for community service.  We have long existed disparate on the web, developing and sharing and we want to bring that culture back home again. Amongst our group are professional Engineers, seamstresses, musicians, and students.
 
+Need an ASU student for team lead, nominations or volunteers please! David - former Devry LUG president (confirm?) and IEEE PHX Section's Teacher In-Service committee member (confirm?) Jacob - Computer Software Engineer, Computer Systems Engineer Undergraduate and IEEE member Paul - "work in education where we develop new instructional technologies for the classroom, we have written and been rewarded many grants" Who else did we have with relevant experience?? Can anyone think of an appropriate advisor, community or ASU based?
+
 **Budget:**
 
 Provide a brief financial summary of the project, including a description of how Entrepreneur Advantage Project funds would be used and how other funding, if necessary, will be secured. The budget (revenues and costs) should include only those activities that can be completed during the award year.  If the nature of the project requires a longer timeframe, explain why. Include the following line items for revenues and costs: We intend to use the initial \$2000 to complete our nonprofit status, continue looking for a space to rent and insurance, and continue building the online community in preparation for the space.
+
+~750 for nonprofit exempt ~? a whole bunch of extrusion goo ~? rep rap parts, a starting point may be:
+
+<http://objects.reprap.org/wiki/Mendel_materials_procurement#Costing>
+
+Cost type UK estimate Notes Bar £11.19 RS Bearings £31.20 RS Belt £23.33 RS Extruder parts £15.00 Estimate Fasteners £74.21 RS (expensive) Motors £80.00 Assumes 4x NEMA 17s PCB/Electronics £110.00 Zach\\'s Gen3 electronics Thin sheet £0.00 Beer can RP £20.00 Assumes no commission Thick sheet £20.00 Estimate Studding £11.65 RS Total £396.58
 
 **Economic/Social/Cultural Impact:**
 
