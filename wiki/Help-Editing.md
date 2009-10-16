@@ -199,17 +199,28 @@ If multiple sections have the same title, add a number. [\#Example section 3](#e
     a number. [[#Example section 3]] goes to the
     third section named "Example section".
 
-\|}
+\|- \| colspan=2 \|
 
 ### Formatting
 
-\|- \|
+\|- ! style="width: 50%" \| What it looks like ! style="width: 50%" \| What you type \|- \|
 
     Preformatted text
 
 \|
 
     &lt;pre&gt;Preformatted text&lt;/pre&gt;
+
+\|- \|
+
+``` javascript
+//Javascript source code
+var = new Var('a',"b",3)
+```
+
+\|
+
+    <source lang=javascript>var = new Var('a',"b",3)</source>
 
 \|}
 
@@ -224,29 +235,3 @@ Some pages cannot be edited by everyone. A special function known as [protection
 - For very rare pages, such as the Main Page, "cascading" protection is applied, wherein every page that is [transcluded](Transcluded) onto a page is protected too.
 
 There are various reasons why a page might be protected. Vandalism and spam can lead to semiprotection, while content wars and other severe cases can lead to full protection. There are other times where [Office actions](Office-actions) come into play. For the most part, protection is temporary and editing privileges are then restored. In any case, everyone can [view the source](View-source) of any page, irrespective of its level of protection.
-
-## Further reading
-
-### Editing help
-
-- [Help:Editing FAQ](Help-Editing-FAQ)
-- [Help:Editing toolbar](Help-Editing-toolbar)
-- [Help:Minor edit](Help-Minor-edit)
-
-### Wiki markups and codes
-
-- [Help:Wikitext examples](Help-Wikitext-examples)
-- [Help:Reference card](Help-Reference-card): a one-page summary of important commands, to be printed out and used next to the computer
-- [Help:HTML in wikitext](Help-HTML-in-wikitext)
-- [Help:Comment tags](Help-Comment-tags)
-- [HTML elements](https://en.wikipedia.org/wiki/HTML_element): introduction to HTML
-- [Help:Redirect](Help-Redirect) - Setting up a Redirect Page within Wiki
-
-### Page management
-
-- [Help:Starting a new page](Help-Starting-a-new-page)
-- 
-- 
-- 
-
-### [Additional Editing Tools](http://en.wikipedia.org/wiki/Wikipedia_tools)
