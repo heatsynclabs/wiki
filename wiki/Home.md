@@ -75,8 +75,13 @@ This page is a place to submit and talk about various ideas about the [HackerSpa
 <td width="50%" data-valign="top" style="border: 1px solid #000; border-right-width: 3px; border-bottom-width: 3px; padding: .5em 1em; margin: 1em; background-color: #f6f6f6;"><div style="margin:0;background-color:#dadada;font-size:120%;font-weight:bold;border:1px solid #000;text-align:left;color:#000;padding:0.2em 0.4em;">
 <p>Noteworthy Resources</p>
 </div>
+<h3 id="online">Online</h3>
 <ul>
 <li><a href="Links">Links</a></li>
+</ul>
+<h3 id="local_resources">Local Resources</h3>
+<ul>
+<li><a href="Local-Resources">Local Resources</a></li>
 </ul></td>
 </tr>
 </tbody>
