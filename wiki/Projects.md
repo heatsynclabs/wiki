@@ -4,6 +4,10 @@ I am interested in seeing the actual set up of the hackerspace as a project in i
 
 - [Starting a Non-Profit](Starting-a-Non-Profit)
 
+<!-- -->
+
+- [2kproposal](2kproposal)
+
 ## Some Logistics Project Ideas
 
 - Computer networking
