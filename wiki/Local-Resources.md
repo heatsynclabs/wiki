@@ -1,6 +1,8 @@
 ## Local Resources
 
-Put your favorite Arizona businesses/resources here for community reference! Please categorize and alphabetize for readability. Also, provide details of their services (maybe pricing, or even a short review) so it's easier to find the right resource for your specific project.
+Put your favorite Arizona businesses/resources here for community reference! Please categorize and alphabetize for readability.
+
+Also, provide details of their services (maybe pricing, or even a short review) so it's easier to find the right resource for your specific project.
 
 ### Waterjet/CNC Machining Services
 
