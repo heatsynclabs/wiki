@@ -6,6 +6,8 @@ Put your favorite Arizona businesses/resources here for community reference! Ple
 
 #### Whitley Machine
 
+Great pricing, Cliff was my top choice for waterjetting because he was eager, flexible, and cheap. --[Will](User-Will) 22:00, 16 October 2009 (UTC)
+
 - cliff@whitleymachine.com
 - <http://www.whitleymachine.com>
 - Edm
@@ -23,12 +25,12 @@ Put your favorite Arizona businesses/resources here for community reference! Ple
 #### Research Engineering Development
 
 - <http://www.resengdev.com>
+- info@resengdev.com
 - WATER JET CUTTING
   - Machine: JET EDGE 55-50B - 48" X 120"
   - Cutting Stream Diameter: .030"
   - Accuracy: +/-0.005"
   - Maximum Thickness: 12.00"
-- Materials:
   - Metals
   - Plastics
   - Composites
@@ -36,3 +38,36 @@ Put your favorite Arizona businesses/resources here for community reference! Ple
   - Glass
   - Rubber
   - Wood
+- LASER CUTTING:
+  - Machine: Mitsubishi 2512 HD - 48" X 96"
+  - Beam Diameter: .010"
+  - Accuracy: +/-0.001"
+  - Maximum Material Thickness:
+  - Hot Roll Steel: 1/2"
+  - Stainless Steel: 3/16"
+  - Aluminum: 1/8"
+  - Plastics: 1/2"
+  - Hardwood: 3/4"
+- CNC MACHINING:
+  - CNC VERTICAL MACHINING CENTER ( Mill ):
+  - Machine: Supermax FV-102A - 40"x X 20"y X 20"z
+  - CNC TURNING CENTER ( Lathe ):
+  - Machine: Daewoo Puma 200 - 10"x X 10"z
+
+#### Cutting Edge Manufacturing
+
+- <http://www.cemaz.com>
+  - laser cutting
+  - engineering
+  - welding
+  - forming
+
+#### MWM Corporation
+
+- sales@mwmcorporation.com
+- <http://www.mwmcorporation.com>
+  - Custom millwork
+  - Stainless steel fabrication
+  - WaterJet CNC & Plasma cutting.
+    - OMAX Model 80160 JetMachining® Center: Will machine parts up to 80” x 160” (6.6 feet x 15 feet or 2m x 4m).
+  - Equipment sales
