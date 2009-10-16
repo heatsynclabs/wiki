@@ -201,6 +201,18 @@ If multiple sections have the same title, add a number. [\#Example section 3](#e
 
 \|}
 
+### Formatting
+
+\|- \|
+
+    Preformatted text
+
+\|
+
+    &lt;pre&gt;Preformatted text&lt;/pre&gt;
+
+\|}
+
 ## Restrictions
 
 Some pages cannot be edited by everyone. A special function known as [protection](Protection) can be applied to a page by [administrators](Administrator), making the said page uneditable to certain classes of users. There are several degrees of protection:
