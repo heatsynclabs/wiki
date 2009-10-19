@@ -1,3 +1,1 @@
-Rules: Room is for doing projects...not chilling on laptops and hanging out. I think it should be changed to : The room shall be yielded to any member working on a project by any member not working on a project. (I like socializing =).)
-
-`--`[`User:Drok`](User-Drok)` 10/18/2009 11:01 PM`
+Rules: Room is for doing projects...not chilling on laptops and hanging out. I think it should be changed to : The room shall be yielded to any member working on a project by any member not working on a project. (I like socializing =).) [User:Drok](User-Drok) 10/18/2009 11:01 PM
