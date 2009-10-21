@@ -23,15 +23,17 @@ Even historically non technical savvy types are taking interest in this maker cu
 
 \[what is a 3d printer, why is it important?\]
 
-Currently low end commercial 3d fabricators cost upwards of \$20,000. The Rep Rap is a free to download blueprint to create your own 3d printer/prototyper for less than \$1000 in commodity parts. The Rep Rap is perhaps best explained in their own words:
+Currently low end commercial 3d fabricators cost upwards of \$20,000. The Rep Rap(Replicating Rapid-Prototyper) is a free to download blueprint to create your own 3d printer/prototyper for less than \$1000 in commodity parts. The Rep Rap is perhaps best explained in their own words:
 
-`    "Today, virtually everyone in the developed world runs their own printing works, their own photographic laboratory, and their own CD-pressing plant.  Moving from two-dimensions to three, why shouldn't they also make their own MP3-players, their own coat hooks, and their own car wing mirrors?"`\
-`   `\
-`    "And why shouldn't they use the machine that does the making to make new improved versions of itself?"`
+- "Today, virtually everyone in the developed world runs their own printing works, their own photographic laboratory, and their own CD-pressing plant. Moving from two-dimensions to three, why shouldn't they also make their own MP3-players, their own coat hooks, and their own car wing mirrors?"
+- "And why shouldn't they use the machine that does the making to make new improved versions of itself?"
 
+Here's a great single page write-up about the device:\
 <http://www.reprap.org/pub/Main/WebHome/one-page.pdf>
 
-\[Image of Escher's Drawing Hands here?\]
+![](files/Escher_Drawing_Hands.gif)
+
+*Escher_Drawing_Hands.gif*
 
 ## Marketing Strategy
 
@@ -55,7 +57,13 @@ Because a primary goal of the Rep Rap project is a machine that can build itself
 
 Summarize the entrepreneurial, academic and/or community-focused aspirations, experience, and/or training of the team members. Describe any relationships with advisors and mentors the team will utilize. Provide resumes or bios for each team member in the appendix, if available. We are a team of artists, engineers and makers with a passion for community service.  We have long existed disparate on the web, developing and sharing and we want to bring that culture back home again. Amongst our group are professional Engineers, seamstresses, musicians, and students.
 
-Need an ASU student for team lead, nominations or volunteers please! David - former Devry LUG president (confirm?) and IEEE PHX Section's Teacher In-Service committee member (confirm?) Jacob - Computer Software Engineer, Computer Systems Engineer Undergraduate and IEEE member Paul - "work in education where we develop new instructional technologies for the classroom, we have written and been rewarded many grants" Who else did we have with relevant experience?? Can anyone think of an appropriate advisor, community or ASU based?
+### Need an ASU student for team lead, nominations or volunteers please!
+
+- **David** - former Devry LUG president (confirm?) and IEEE PHX Section's Teacher In-Service committee member (confirm?)
+- **Jacob** - Computer Software Engineer, Computer Systems Engineer Undergraduate and IEEE member
+- **Paul** - "work in education where we develop new instructional technologies for the classroom, we have written and been rewarded many grants"
+
+Who else did we have with relevant experience?? Can anyone think of an appropriate advisor, community or ASU based?
 
 ## Budget
 
@@ -87,6 +95,6 @@ Provide a brief financial summary of the project, including a description of how
 
 Describe the economic, social or cultural impact of the project, if successful, as well as the ability/expectation of the project to attract other funding, if applicable. This project is entirely about enabling the community to achieve.  Part of our goal will be to constantly continue community outreach not just to offer service to the community, but to survive! As previously described, we believe the only way to grow the nonprofit will be through community outreach.
 
-**Attach Appendix (10 page maximum)**
+## Attach Appendix (10 page maximum)
 
 Attach resume for team members and/or include other supporting materials, if needed.
