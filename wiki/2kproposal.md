@@ -1,10 +1,14 @@
 # Project Concept
 
-## Describe the general nature and scope of the project and what products and/or services will be offered
+## Scope
+
+**Describe the general nature and scope of the project and what products and/or services will be offered.**
 
 We propose a non profit community center for the modern age.  Accompanied by the internet as a distributor of knowledge, the explosion of entrepreneurism, and the reduction of cost, Maker culture has taken off. We want to expand access to modern, functional, industrial tools to populations including artists, engineers, students and the community at large.  The value of the space will be as much in the tools as in the connections to be made between members.
 
-## Explain the need in the market the project addresses, how the project will go about addressing this need
+## Current Market Need
+
+**Explain the need in the market the project addresses, how the project will go about addressing this need.**
 
 Make magazine has seen major growth in a dying publishing market and DIY programming has consistently been popular on TV.  For the last several decades American culture swung towards a broadcast society.  Since the inception of the internet that is changing.  People are more and more interested in creating and sharing something with the world, weather that be a youtube video, art, or a prototype.
 
@@ -14,7 +18,9 @@ Technical students are more and more becoming disenfranchised with the opportuni
 
 Even historically non technical savvy types are taking interest in this maker culture.  This is evidenced at least by networks like TLC which are full of DIY programming.  Lilypad is an interesting cheap convergence of microcontrollers and fabrics into 'smart textiles'  This softening of the electrical engineering field is bringing in demographics previously unreachable. A perfect place to see this culture in action is at the local First Friday.
 
-## Describe the steps needed to successfully launch the project
+## Steps for a Successful Launch
+
+**Describe the steps needed to successfully launch the project.**
 
 - nonprofit-in progress
 - insurance
