@@ -8,6 +8,10 @@ I am interested in seeing the actual set up of the hackerspace as a project in i
 
 - [2kproposal](2kproposal)
 
+<!-- -->
+
+- [Phoenix RepRap](Phoenix-RepRap)
+
 ## Project Idea Wall
 
 ### Logistics
