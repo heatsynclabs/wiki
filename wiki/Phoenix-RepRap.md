@@ -24,6 +24,24 @@ Below is their how to section on building a "Mendel" version of the RepRap:\
 
 I just pulled the costs in Euros directly from the RepRap "Mendel" wiki. We'll need to convert and update this with parts we may be able to pick up locally or in country as well as their dollar figures.
 
+|  |  |  |
+|----|----|----|
+| Cost type | UK estimate | Notes |
+| Bar | £11.19 | RS |
+| Bearings | £31.20 | RS |
+| Belt | £23.33 | RS |
+| Extruder parts | £15.00 | Estimate |
+| Fasteners | £22.09 | Orbital Fasteners |
+| Motors | £51.66 | Assumes 4x NEMA 17s (www.motioncontrolproducts.co.uk) +delivery |
+| PCB/Electronics | £110.00 | Zach\\'s Gen3 electronics |
+| Thin sheet | £0.00 | Beer can |
+| RP | £20.00 | Assumes no commission |
+| Thick sheet | £20.00 | Estimate |
+| Studding | £11.65 | RS |
+| **Total** | **£309.33** | **+ Motor delivery** |
+
+The below image breakdown was created before they updated the above with Orbital Fasteners and different motors to lower the cost to £309.33.
+
 ![](files/Cost-breakdown.PNG)
 
 *Cost-breakdown.PNG*
