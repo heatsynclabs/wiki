@@ -22,6 +22,6 @@ Below is their how to section on building a "Mendel" version of the RepRap:\
 
 ## Budget
 
-![](files/500px-Cost-breakdown.PNG)
+![](files/Cost-breakdown.PNG)
 
-*500px-Cost-breakdown.PNG*
+*Cost-breakdown.PNG*
