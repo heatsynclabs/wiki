@@ -22,6 +22,8 @@ Below is their how to section on building a "Mendel" version of the RepRap:\
 
 ## Budget
 
+I just pulled the costs in Euros directly from the RepRap "Mendel" wiki. We'll need to convert and update this with parts we may be able to pick up locally or in country as well as their dollar figures.
+
 ![](files/Cost-breakdown.PNG)
 
 *Cost-breakdown.PNG*
