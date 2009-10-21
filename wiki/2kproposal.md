@@ -14,14 +14,20 @@ Even historically non technical savvy types are taking interest in this maker cu
 
 **Describe the steps needed to successfully launch the project:**
 
-nonprofit-in progress insurance a space donations tools marketing
+- nonprofit-in progress
+- insurance
+- a space
+- donations
+- tools
+- marketing
 
 \[what is a 3d printer, why is it important?\]
 
 Currently low end commercial 3d fabricators cost upwards of \$20,000. The Rep Rap is a free to download blueprint to create your own 3d printer/prototyper for less than \$1000 in commodity parts. The Rep Rap is perhaps best explained in their own words:
 
 `   "Today, virtually everyone in the developed world runs their own printing works, their own photographic laboratory, and their own CD-pressing plant.  Moving from two-dimensions to three, why shouldn't they also make their own MP3-players, their own coat hooks, and their own car wing mirrors?"`\
-`   "And why shouldn't they use the machine that does the making to make new improved versions of itself?"`
+`   `\
+`       "And why shouldn't they use the machine that does the making to make new improved versions of itself?"`
 
 <http://www.reprap.org/pub/Main/WebHome/one-page.pdf>
 
@@ -55,11 +61,18 @@ Need an ASU student for team lead, nominations or volunteers please! David - for
 
 Provide a brief financial summary of the project, including a description of how Entrepreneur Advantage Project funds would be used and how other funding, if necessary, will be secured. The budget (revenues and costs) should include only those activities that can be completed during the award year.  If the nature of the project requires a longer timeframe, explain why. Include the following line items for revenues and costs: We intend to use the initial \$2000 to complete our nonprofit status, continue looking for a space to rent and insurance, and continue building the online community in preparation for the space.
 
-~750 for nonprofit exempt ~? a whole bunch of extrusion goo ~? rep rap parts, a starting point may be:
+- ~750 for nonprofit exempt
+- ~? a whole bunch of extrusion goo
+- ~? rep rap parts, a starting point may be:
 
 <http://objects.reprap.org/wiki/Mendel_materials_procurement#Costing>
 
-Cost type UK estimate Notes Bar £11.19 RS Bearings £31.20 RS Belt £23.33 RS Extruder parts £15.00 Estimate Fasteners £74.21 RS (expensive) Motors £80.00 Assumes 4x NEMA 17s PCB/Electronics £110.00 Zach\\'s Gen3 electronics Thin sheet £0.00 Beer can RP £20.00 Assumes no commission Thick sheet £20.00 Estimate Studding £11.65 RS Total £396.58
+|           |             |       |
+|-----------|-------------|-------|
+| Cost type | UK estimate | Notes |
+|           |             |       |
+
+Bar £11.19 RS Bearings £31.20 RS Belt £23.33 RS Extruder parts £15.00 Estimate Fasteners £74.21 RS (expensive) Motors £80.00 Assumes 4x NEMA 17s PCB/Electronics £110.00 Zach\\'s Gen3 electronics Thin sheet £0.00 Beer can RP £20.00 Assumes no commission Thick sheet £20.00 Estimate Studding £11.65 RS Total £396.58
 
 **Economic/Social/Cultural Impact:**
 
