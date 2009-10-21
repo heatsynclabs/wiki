@@ -21,3 +21,7 @@ Below is their how to section on building a "Mendel" version of the RepRap:\
 <http://objects.reprap.org/wiki/How_to_make_RepRap_Version_II_%22Mendel%22>
 
 ## Budget
+
+![](files/500px-Cost-breakdown.PNG)
+
+*500px-Cost-breakdown.PNG*
