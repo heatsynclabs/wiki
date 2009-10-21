@@ -59,7 +59,9 @@ Because a primary goal of the Rep Rap project is a machine that can build itself
 
 ## Project Team
 
-Summarize the entrepreneurial, academic and/or community-focused aspirations, experience, and/or training of the team members. Describe any relationships with advisors and mentors the team will utilize. Provide resumes or bios for each team member in the appendix, if available. We are a team of artists, engineers and makers with a passion for community service.  We have long existed disparate on the web, developing and sharing and we want to bring that culture back home again. Amongst our group are professional Engineers, seamstresses, musicians, and students.
+**Summarize the entrepreneurial, academic and/or community-focused aspirations, experience, and/or training of the team members. Describe any relationships with advisors and mentors the team will utilize. Provide resumes or bios for each team member in the appendix, if available.**
+
+We are a team of artists, engineers and makers with a passion for community service.  We have long existed disparate on the web, developing and sharing and we want to bring that culture back home again. Amongst our group you'll find, for example, professional Engineers, seamstresses, musicians, and students.
 
 ### Need an ASU student for team lead, nominations or volunteers please!
 
