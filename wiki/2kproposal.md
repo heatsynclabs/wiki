@@ -41,7 +41,7 @@ Here's a great single page write-up about the device:\
 
 ## Marketing Strategy
 
-Describe the market in which the project will operate and what barriers there are to market entry, if any. Include an overview of potential partners. Explain the project’s outreach plan.
+**Describe the market in which the project will operate and what barriers there are to market entry, if any. Include an overview of potential partners. Explain the project’s outreach plan.**
 
 This business plan has been successfully tried around the country and even the world under the title 'hackerspace, a list of which can be found at hackerspaces.org. These groups are all unconnected with some of them private, some non profit, and possibly others for profit. Generally, a collection of people pay monthly dues between \$50 and \$75 per month in order to join and use the complex's tools and network with its users.  It is free to list yourself on this list which brings about national recognition to the users of these spaces.
 
