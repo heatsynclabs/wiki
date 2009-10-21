@@ -22,8 +22,10 @@ I am interested in seeing the actual set up of the hackerspace as a project in i
 
 - 3D Printer
 - Automatic Banana Peeler
+- Digital Audit Mixer/Converter/Splitter
 - Homemade Milling Machine
 - "Junkyard" Battle Bots
+- Laser Range Finder/Parking Guide for Cars(Hopefully on the Cheap)
 - Massive Trebuchet
 - Renewable Energy Products
 - RFID Anything!
