@@ -46,7 +46,7 @@ This page is a place to submit and talk about various ideas about the [HackerSpa
 <ul>
 <li><a href="2kproposal">2kproposal</a> -- ASU Grant proposal</li>
 </ul></li>
-<li><a href="How-To-Hackerspace">How_To_Hackerspace</a> (Ideas to bring in to HeatSync)</li>
+<li><a href="How-To-Hackerspace"> Building a Hackerspace</a> (Ideas to bring in to HeatSync)</li>
 <li><a href="Marketing">Marketing</a></li>
 <li><a href="ToolsDB">ToolsDB</a></li>
 </ul>
