@@ -45,6 +45,9 @@ Here's a great single page write-up about the device:\
 
 *Escher_Drawing_Hands.gif*
 
+Looks like we may be specifically interested in creating the second version of the Rep Rap called the Mendel. Details about this version can be found on the following wiki page:\
+<http://objects.reprap.org/wiki/RepRap_Version_II_%22Mendel%22>
+
 ## Marketing Strategy
 
 **Describe the market in which the project will operate and what barriers there are to market entry, if any. Include an overview of potential partners. Explain the project’s outreach plan.**
