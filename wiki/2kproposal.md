@@ -1,10 +1,10 @@
 # Project Concept
 
-**Describe the general nature and scope of the project and what products and/or services will be offered:**
+## Describe the general nature and scope of the project and what products and/or services will be offered
 
 We propose a non profit community center for the modern age.  Accompanied by the internet as a distributor of knowledge, the explosion of entrepreneurism, and the reduction of cost, Maker culture has taken off. We want to expand access to modern, functional, industrial tools to populations including artists, engineers, students and the community at large.  The value of the space will be as much in the tools as in the connections to be made between members.
 
-**Explain the need in the market the project addresses, how the project will go about addressing this need:**
+## Explain the need in the market the project addresses, how the project will go about addressing this need
 
 Make magazine has seen major growth in a dying publishing market and DIY programming has consistently been popular on TV.  For the last several decades American culture swung towards a broadcast society.  Since the inception of the internet that is changing.  People are more and more interested in creating and sharing something with the world, weather that be a youtube video, art, or a prototype.
 
@@ -12,7 +12,7 @@ The phoenix area is full of tech companies and therefore engineers.  Startup co
 
 Even historically non technical savvy types are taking interest in this maker culture.  This is evidenced at least by networks like TLC which are full of DIY programming.  Lilypad is an interesting cheap convergence of microcontrollers and fabrics into 'smart textiles'  This softening of the electrical engineering field is bringing in demographics previously unreachable. A perfect place to see this culture in action is at the local First Friday.
 
-**Describe the steps needed to successfully launch the project:**
+## Describe the steps needed to successfully launch the project
 
 - nonprofit-in progress
 - insurance
@@ -25,9 +25,9 @@ Even historically non technical savvy types are taking interest in this maker cu
 
 Currently low end commercial 3d fabricators cost upwards of \$20,000. The Rep Rap is a free to download blueprint to create your own 3d printer/prototyper for less than \$1000 in commodity parts. The Rep Rap is perhaps best explained in their own words:
 
-`   "Today, virtually everyone in the developed world runs their own printing works, their own photographic laboratory, and their own CD-pressing plant.  Moving from two-dimensions to three, why shouldn't they also make their own MP3-players, their own coat hooks, and their own car wing mirrors?"`\
+`    "Today, virtually everyone in the developed world runs their own printing works, their own photographic laboratory, and their own CD-pressing plant.  Moving from two-dimensions to three, why shouldn't they also make their own MP3-players, their own coat hooks, and their own car wing mirrors?"`\
 `   `\
-`       "And why shouldn't they use the machine that does the making to make new improved versions of itself?"`
+`    "And why shouldn't they use the machine that does the making to make new improved versions of itself?"`
 
 <http://www.reprap.org/pub/Main/WebHome/one-page.pdf>
 
