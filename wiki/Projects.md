@@ -8,16 +8,38 @@ I am interested in seeing the actual set up of the hackerspace as a project in i
 
 - [2kproposal](2kproposal)
 
-## Some Logistics Project Ideas
+## Project Idea Wall
+
+### Logistics
 
 - Computer networking
-- creating classes and trainings
-- taxes
-- location scouting
-- creating the wiki
+- Creating classes and trainings
+- Taxes
+- Location scouting
+- Creating the wiki
 
-<!-- -->
+### Other
 
+- 3D Printer
+- Automatic Banana Peeler
+- Homemade Milling Machine
+- "Junkyard" Battle Bots
+- Massive Trebuchet
+- Renewable Energy Products
+- RFID Anything!
+- Soda and Mentos Powered Cannon
+- Spy Gadgets
+- Vacuuform Table
+- Whimshurst Generator
+- Work With Schools
+
+### Workshops
+
+- Post Apocalyptic World
 - Workshop night idea; "Take it apart"
 
 It would be fun to invite people who have never taken anything apart, and walk them through whats inside the electronic junk they might have just thrown away. Each participant could bring one or two things to take apart and then show-and-tell what they found. Not sure if there would be safety concerns with this. Might need a waiver.
+
+## Completed Projects
+
+- Potato Cannons
