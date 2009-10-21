@@ -97,7 +97,9 @@ Provide a brief financial summary of the project, including a description of how
 
 ## Economic/Social/Cultural Impact
 
-Describe the economic, social or cultural impact of the project, if successful, as well as the ability/expectation of the project to attract other funding, if applicable. This project is entirely about enabling the community to achieve.  Part of our goal will be to constantly continue community outreach not just to offer service to the community, but to survive! As previously described, we believe the only way to grow the nonprofit will be through community outreach.
+**Describe the economic, social or cultural impact of the project, if successful, as well as the ability/expectation of the project to attract other funding, if applicable.**
+
+This project is entirely about enabling the community to achieve.  Part of our goal will be to constantly continue community outreach not just to offer service to the community, but to survive! As previously described, we believe the only way to grow the nonprofit will be through community outreach.
 
 ## Attach Appendix (10 page maximum)
 
