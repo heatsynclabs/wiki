@@ -1,4 +1,4 @@
-## Project Concept:
+# Project Concept
 
 **Describe the general nature and scope of the project and what products and/or services will be offered:**
 
@@ -33,7 +33,7 @@ Currently low end commercial 3d fabricators cost upwards of \$20,000. The Rep Ra
 
 \[Image of Escher's Drawing Hands here?\]
 
-**Marketing Strategy:**
+## Marketing Strategy
 
 Describe the market in which the project will operate and what barriers there are to market entry, if any. Include an overview of potential partners. Explain the project’s outreach plan.
 
@@ -51,13 +51,13 @@ By taking the rep rap out to schools and to First Friday's and other events we w
 
 Because a primary goal of the Rep Rap project is a machine that can build itself, it is important to be able to locate your nearest Rep Rap neighbor. To this end the Rep Rap team maintain a list of rep raps around the globe As of this writing our Rep Rap will be the only one in Arizona. This would allow us the incredible opportunity of being the Mother of all future Rep Raps in this state.
 
-**Project Team:**
+## Project Team
 
 Summarize the entrepreneurial, academic and/or community-focused aspirations, experience, and/or training of the team members. Describe any relationships with advisors and mentors the team will utilize. Provide resumes or bios for each team member in the appendix, if available. We are a team of artists, engineers and makers with a passion for community service.  We have long existed disparate on the web, developing and sharing and we want to bring that culture back home again. Amongst our group are professional Engineers, seamstresses, musicians, and students.
 
 Need an ASU student for team lead, nominations or volunteers please! David - former Devry LUG president (confirm?) and IEEE PHX Section's Teacher In-Service committee member (confirm?) Jacob - Computer Software Engineer, Computer Systems Engineer Undergraduate and IEEE member Paul - "work in education where we develop new instructional technologies for the classroom, we have written and been rewarded many grants" Who else did we have with relevant experience?? Can anyone think of an appropriate advisor, community or ASU based?
 
-**Budget:**
+## Budget
 
 Provide a brief financial summary of the project, including a description of how Entrepreneur Advantage Project funds would be used and how other funding, if necessary, will be secured. The budget (revenues and costs) should include only those activities that can be completed during the award year.  If the nature of the project requires a longer timeframe, explain why. Include the following line items for revenues and costs: We intend to use the initial \$2000 to complete our nonprofit status, continue looking for a space to rent and insurance, and continue building the online community in preparation for the space.
 
@@ -67,12 +67,21 @@ Provide a brief financial summary of the project, including a description of how
 
 <http://objects.reprap.org/wiki/Mendel_materials_procurement#Costing>
 
-|           |             |       |
-|-----------|-------------|-------|
-| Cost type | UK estimate | Notes |
-|           |             |       |
-
-Bar £11.19 RS Bearings £31.20 RS Belt £23.33 RS Extruder parts £15.00 Estimate Fasteners £74.21 RS (expensive) Motors £80.00 Assumes 4x NEMA 17s PCB/Electronics £110.00 Zach\\'s Gen3 electronics Thin sheet £0.00 Beer can RP £20.00 Assumes no commission Thick sheet £20.00 Estimate Studding £11.65 RS Total £396.58
+|                 |             |                           |
+|-----------------|-------------|---------------------------|
+| Cost type       | UK estimate | Notes                     |
+| Bar             | £11.19      | RS                        |
+| Bearings        | £31.20      | RS                        |
+| Belt            | £23.33      | RS                        |
+| Extruder parts  | £15.00      | Estimate                  |
+| Fasteners       | £74.21      | RS (expensive)            |
+| Motors          | £80.00      | Assumes 4x NEMA 17s       |
+| PCB/Electronics | £110.00     | Zach\\'s Gen3 electronics |
+| Thin sheet      | £0.00       | Beer can                  |
+| RP              | £20.00      | Assumes no commission     |
+| Thick sheet     | £20.00      | Estimate                  |
+| Studding        | £11.65      | RS                        |
+| Total £396.58   |             |                           |
 
 **Economic/Social/Cultural Impact:**
 
