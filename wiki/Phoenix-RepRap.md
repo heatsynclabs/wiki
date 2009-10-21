@@ -26,7 +26,7 @@ I just pulled the costs in Euros directly from the RepRap "Mendel" wiki. We'll n
 
 |  |  |  |
 |----|----|----|
-| Cost type | UK estimate | Notes |
+| **Cost type** | **UK estimate** | **Notes** |
 | Bar | £11.19 | RS |
 | Bearings | £31.20 | RS |
 | Belt | £23.33 | RS |
