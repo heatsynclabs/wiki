@@ -117,6 +117,8 @@ We intend to use the initial \$2000 to complete our nonprofit status, continue l
 
 This project is entirely about enabling the community to achieve.  Part of our goal will be to constantly continue community outreach not just to offer service to the community, but to survive! As previously described, we believe the only way to grow the nonprofit will be through community outreach.
 
+Being a driving force in creating interest, especially in younger students, in the fields of engineering and science. I would also like to include something about the current "throw-away" culture and how the rep rap encourages modifying existing products, and repairing broken items instead of buying new items.
+
 ## Attach Appendix (10 page maximum)
 
 Attach resume for team members and/or include other supporting materials, if needed.
