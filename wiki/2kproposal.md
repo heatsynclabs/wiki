@@ -25,6 +25,8 @@ Even historically non technical savvy types are taking interest in this maker cu
 
 \[what is a 3d printer, why is it important?\]
 
+### Rep Rap(Replicating Rapid-Prototyper
+
 Currently low end commercial 3d fabricators cost upwards of \$20,000. The Rep Rap(Replicating Rapid-Prototyper) is a free to download blueprint to create your own 3d printer/prototyper for less than \$1000 in commodity parts. The Rep Rap is perhaps best explained in their own words:
 
 - "Today, virtually everyone in the developed world runs their own printing works, their own photographic laboratory, and their own CD-pressing plant. Moving from two-dimensions to three, why shouldn't they also make their own MP3-players, their own coat hooks, and their own car wing mirrors?"
