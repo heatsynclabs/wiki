@@ -87,7 +87,7 @@ Who else did we have with relevant experience?? Can anyone think of an appropria
 
 **Provide a brief financial summary of the project, including a description of how Entrepreneur Advantage Project funds would be used and how other funding, if necessary, will be secured. The budget (revenues and costs) should include only those activities that can be completed during the award year.  If the nature of the project requires a longer timeframe, explain why. Include the following line items for revenues and costs:**
 
-We intend to use the initial \$2000 to complete our nonprofit status, continue looking for a space to rent and insurance, and continue building the online community in preparation for the space.
+We intend to use the initial \$2000 to complete our nonprofit status, continue looking for a space to rent and insurance, and continue building the online community in preparation for the space. \[Grant committees are going to want something more concrete than "continue looking, continue building..." it needs to be a very specific, well-defined, and justified. --[Will](User-Will) 05:14, 23 October 2009 (UTC)\]
 
 - ~750 for nonprofit exempt
 - ~? a whole bunch of extrusion goo
