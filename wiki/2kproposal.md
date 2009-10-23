@@ -77,7 +77,7 @@ We are a team of artists, engineers and makers with a passion for community serv
 
 ### Need an ASU student for team lead, nominations or volunteers please!
 
-- **David** - former Devry LUG president (confirm?) and IEEE PHX Section's Teacher In-Service committee member (confirm?)
+- **David** - former Devry LUG president \[confirmed, you won't find a huger Linux geek --[Will](User-Will) 05:11, 23 October 2009 (UTC)\] and IEEE PHX Section's Teacher In-Service committee member (confirm?)
 - **Jacob** - Computer Software Engineer, Computer Systems Engineer Undergraduate and IEEE member
 - **Paul** - "work in education where we develop new instructional technologies for the classroom, we have written and been rewarded many grants"
 
