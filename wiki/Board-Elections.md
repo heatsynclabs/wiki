@@ -1,4 +1,4 @@
-# Board Members
+# Necessity for a Board
 
 ## Position Ideas
 
