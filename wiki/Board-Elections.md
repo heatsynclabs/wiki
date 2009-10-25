@@ -26,7 +26,10 @@ As we incorporate and move to create some serious forward movement for this orga
 
 ## Board Meeting
 
-**Date**: Saturday, November 7th, 2009 **Time**: 4 PM **Place**: Solo Cafe -- www.solocafetempe.com 107 E. Baseline Rd. Tempe, AZ 85283 Mill Ave and Baseline in Tempe
+**Date**: Saturday, November 7th, 2009\
+**Time**: 4 PM\
+**Place**: Solo Cafe -- www.solocafetempe.com\
+107 E. Baseline Rd. Tempe, AZ 85283 Mill Ave and Baseline in Tempe
 
 ## Interested In Being a Board Member?
 
