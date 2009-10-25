@@ -40,18 +40,16 @@ Three questions for everyone!\
 
 ## Interested Parties
 
-|                 |                       |
-|-----------------|-----------------------|
-| **Position**    | **People Interested** |
-| **Champion**    |                       |
-| '''             |                       |
-| Belt            | £23.33                |
-| Extruder parts  | £15.00                |
-| Fasteners       | £74.21                |
-| Motors          | £80.00                |
-| PCB/Electronics | £110.00               |
-| Thin sheet      | £0.00                 |
-| RP              | £20.00                |
-| Thick sheet     | £20.00                |
-| Studding        | £11.65                |
-| Total           | £396.58               |
+|                                    |                       |
+|------------------------------------|-----------------------|
+| **Position**                       | **People Interested** |
+| **Champion**                       |                       |
+| **Secretary/Scribe**               |                       |
+| **Treasurer/CPA**                  |                       |
+| **PR/Marketing**                   |                       |
+| **Editor**                         |                       |
+| **IT Administrator**               |                       |
+| **Event Coordinator**              |                       |
+| **Fundraising/Social Coordinator** |                       |
+| **Resource Manager**               |                       |
+| **Legal**                          |                       |
