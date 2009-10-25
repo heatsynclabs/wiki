@@ -1,5 +1,7 @@
 # Necessity for a Board
 
+As we incorporate and move to create some serious forward movement for this organization we'll need a team of people who have focused responsibilities that will aid in keeping HeatSync Labs in working order. Below are a list of position ideas that the founders brainstormed. Please feel free to add additional ideas to the list. Also feel free to add yourself to the "Interested Parties" table below if you're interested in a certain position. We'll be meeting up to discuss position ideas and who may be interested soon. Check out the date under "Board Meeting".
+
 ## Position Ideas
 
 **Champion**: Responsible for coordinating between the different board members. Helps maintain the primary goal of the organization (the mission statement). Also helps to support all members with various tasks and is responsible for public and board meeting agendas.
@@ -22,9 +24,15 @@
 
 **Legal**: Responsible for legal matters for the organization, either in a lawyer capacity or as a liaison to a lawyer. This would also include handling waivers, insurance information, and other paperwork related to our liabilities.
 
+## Board Meeting
+
+**Date**: Saturday, November 7th, 2009 **Time**: 4 PM **Place**: Solo Cafe -- www.solocafetempe.com 107 E. Baseline Rd. Tempe, AZ 85283 Mill Ave and Baseline in Tempe
+
 ## Interested In Being a Board Member?
 
 Three questions for everyone!\
 **1)** Do you see yourself in any of these job roles?\
 **2)** Are any of these roles unnecessary for the organization?\
 **3)** Is there anything additional we should account for?\
+
+## Interested Parties
