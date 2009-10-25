@@ -25,4 +25,6 @@
 ## Interested In Being a Board Member?
 
 Three questions for everyone!\
-**1)** Do you see yourself in any of these job roles? **2)** Are any of these roles unnecessary for the organization? **3)** Is there anything additional we should account for?
+**1)** Do you see yourself in any of these job roles?\
+**2)** Are any of these roles unnecessary for the organization?\
+**3)** Is there anything additional we should account for?\
