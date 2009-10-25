@@ -95,21 +95,21 @@ We intend to use the initial \$2000 to complete our nonprofit status, continue l
 
 <http://objects.reprap.org/wiki/Mendel_materials_procurement#Costing>
 
-|                 |             |                           |
-|-----------------|-------------|---------------------------|
-| Cost type       | UK estimate | Notes                     |
-| Bar             | £11.19      | RS                        |
-| Bearings        | £31.20      | RS                        |
-| Belt            | £23.33      | RS                        |
-| Extruder parts  | £15.00      | Estimate                  |
-| Fasteners       | £74.21      | RS (expensive)            |
-| Motors          | £80.00      | Assumes 4x NEMA 17s       |
-| PCB/Electronics | £110.00     | Zach\\'s Gen3 electronics |
-| Thin sheet      | £0.00       | Beer can                  |
-| RP              | £20.00      | Assumes no commission     |
-| Thick sheet     | £20.00      | Estimate                  |
-| Studding        | £11.65      | RS                        |
-| Total           | £396.58     | Yay!                      |
+|                 |                 |                           |
+|-----------------|-----------------|---------------------------|
+| **Cost type**   | **UK estimate** | **Notes**                 |
+| Bar             | £11.19          | RS                        |
+| Bearings        | £31.20          | RS                        |
+| Belt            | £23.33          | RS                        |
+| Extruder parts  | £15.00          | Estimate                  |
+| Fasteners       | £74.21          | RS (expensive)            |
+| Motors          | £80.00          | Assumes 4x NEMA 17s       |
+| PCB/Electronics | £110.00         | Zach\\'s Gen3 electronics |
+| Thin sheet      | £0.00           | Beer can                  |
+| RP              | £20.00          | Assumes no commission     |
+| Thick sheet     | £20.00          | Estimate                  |
+| Studding        | £11.65          | RS                        |
+| Total           | £396.58         | Yay!                      |
 
 ## Economic/Social/Cultural Impact
 
