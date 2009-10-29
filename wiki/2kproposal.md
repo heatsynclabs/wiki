@@ -27,7 +27,7 @@ We also intend to reach out to colleges, high schools, and other tech communitie
 We are a team of artists, engineers, and makers with a passion for community service. We have long existed disparate on the web, developing and sharing. Now we want to bring that culture back home again. Amongst our group you'll find, for example, professional engineers, seamstresses, musicians, and students.
 
 - Andrea Young - Team Lead and founding member of HeatSync
-- David Huerta - David is a graduate of Devry, the former Devry Linux User's Group President and current IEEE Phoenix Section's Teacher In-Service committee member where he has experience giving back to the community.
+- David Huerta - David is a graduate of Devry, the DeVry Linux User's Group Founder and current IEEE Phoenix Section's Teacher In-Service committee member where he has experience giving back to the community.
 
 <!-- -->
 
