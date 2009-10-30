@@ -34,43 +34,27 @@ We also intend to reach out to colleges, high schools, and other tech communitie
 
 We are a team of artists, engineers, and makers with a passion for community service. We have long existed disparate on the web, developing and sharing. Now we want to bring that culture back home again. Amongst our group you'll find, for example, professional engineers, seamstresses, musicians, and students.
 
-![](files/Andrea.jpg)
-
-*andrea.jpg*
-
-- Andrea Young - Executive Director
+![andrea.jpg](files/Andrea.jpg) **\*Andrea Young - Executive Director**
 
   
 Andrea Young is a founding member of HeatSync Labs, the only hackerspace in the Phoenix-Metro area. She holds a Bachelors of Science in Justice Studies with an emphasis on Law from Arizona State University. Young has a strong background in the financial industry, having worked for Bank of America for 5 years. She has previously worked for a non-profit organization, Southwest Youth of Unity, for which she still volunteers as an adult sponsor and mentor for. She is currently working on an additional Bachelors of Arts in English with an emphasis on Education. Young is also an avid gamers, comic enthusiast, and eager to learn more about electrical engineering.
 
-![](files/Jeremy_Leung.jpg)
-
-*Jeremy_Leung.jpg*
-
-- Jeremy Leung - Director of Education
+![Jeremy_Leung.jpg](files/Jeremy_Leung.jpg) **\*Jeremy Leung - Director of Education**
 
   
 A self proclaimed jack of all trades stemming from his interest in any thing he can get his hands on, Jeremy Leung is a maker. Whether that involve music, art, inventions, code, written work, or a mixture of all of the above, you'll find him dabbling in it. His current passion and focus lies in teaching people and the intricacies of communication and how to properly convey ideas and concepts through the current means we have at hand. This has led him to a slight career change from Sr. Systems Administrator at the company he works to creating a training program for the latter. In his free time he works on projects one of which is founding and establishing a non-profit titled HeatSync Labs. The goal is to provide people with the tools and space, as well as some direction from the community, to aid them in creating anything they want and bring their dreamed inventions/creations to life.
 
-![](files/David_Huerta.jpg)
-
-*David_Huerta.jpg*
-
-- David Huerta - Director of Community Outreach
+![David_Huerta.jpg](files/David_Huerta.jpg) **\*David Huerta - Director of Community Outreach**
 
   
 After arriving in Arizona from Idaho, David Huerta founded the DeVry Linux User Group (DeLUG) in 2003, an originally student organization that drew members and activities from the greater West Valley Free software community, including other students at GCC and ASU West. An IEEE member, David was also the chair for the IEEE Computer Society Student Branch at DeVry in 2005, and was a proponent of the foundation of the IEEE EMB Society Student Branch at DeVry, which formed shortly after his graduation in 2006. He remains a member of the IEEE Computer Society and currently serves as the chair of the Phoenix IEEE GOLD Affinity Group and is a member of the IEEE Phoenix Section's Teacher In-Service Committee.
 
-- Jacob Rosenthal - Director of Project Management
+**\*Jacob Rosenthal - Director of Project Management**
 
   
 Jacob is a Computer Software Engineer by day and a Computer Systems Engineer by night.
 
-![](files/Paul_Hickey.jpg)
-
-*Paul_Hickey.jpg*
-
-- Paul Hickey – Director of Finance
+![Paul_Hickey.jpg](files/Paul_Hickey.jpg) **\*Paul Hickey – Director of Finance**
 
   
 Paul is currently a Systems Administrator at Mesa Community College for the Center for Teaching and Learning. He has had experience developing curriculum in collaboration with faculty to incorporate new instructional technologies. In addition to his responsibilities as a Systems Administrator Paul also manages his departmental budget. To manage the budget he must track capital and operational expenditures in accordance with District guidelines. Paul also tracks spending of grant moneis in conjunction with the grants office to ensure accountability for grant funds.
