@@ -44,7 +44,7 @@ We are a team of artists, engineers, and makers with a passion for community ser
 
 - David Huerta - After arriving in Arizona from Idaho, David Huerta founded the DeVry Linux User Group (DeLUG) in 2003, an originally student organization that drew members and activities from the greater West Valley Free software community, including other students at GCC and ASU West. An IEEE member, David was also the chair for the IEEE Computer Society Student Branch at DeVry in 2005, and was a proponent of the foundation of the IEEE EMB Society Student Branch at DeVry, which formed shortly after his graduation in 2006. He remains a member of the IEEE Computer Society and currently serves as the chair of the Phoenix IEEE GOLD Affinity Group and is a member of the IEEE Phoenix Section's Teacher In-Service Committee.
 
-David presented on a home-built duck hunt arcade machine for the Hak5 podcast at Shmoocon in 2007 in Washington, D.C. Last year, he spoke at ABLEconf, in Tempe, on the open-source GP2X portable gaming system. Most recently, he spoke at Toorcamp 2009 on the subject of search engine history obfuscation, a talk presented in the middle of the Washington desert atop a dismantled missile silo. David is currently employed as a developer of ethical e-mail marketing systems in downtown Phoenix and resides in Tempe where he plans on continuing his education at ASU in the spring of 2010.
+<!-- -->
 
 - Jacob Rosenthal - Jacob is a Computer Software Engineer by day and a Computer Systems Engineer by night.
 
