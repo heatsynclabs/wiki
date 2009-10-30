@@ -34,6 +34,10 @@ We also intend to reach out to colleges, high schools, and other tech communitie
 
 We are a team of artists, engineers, and makers with a passion for community service. We have long existed disparate on the web, developing and sharing. Now we want to bring that culture back home again. Amongst our group you'll find, for example, professional engineers, seamstresses, musicians, and students.
 
+![](files/Andrea.jpg)
+
+*andrea.jpg*
+
 - Andrea Young - Andrea Young is a founding member of HeatSync Labs, the only hackerspace in the Phoenix-Metro area. She holds a Bachelors of Science in Justice Studies with an emphasis on Law from Arizona State University. Young has a strong background in the financial industry, having worked for Bank of America for 5 years. She has previously worked for a non-profit organization, Southwest Youth of Unity, for which she still volunteers as an adult sponsor and mentor for. She is currently working on an additional Bachelors of Arts in English with an emphasis on Education. Young is also an avid gamers, comic enthusiast, and eager to learn more about electrical engineering.
 
 <!-- -->
@@ -44,7 +48,9 @@ David presented on a home-built duck hunt arcade machine for the Hak5 podcast at
 
 - Jacob Rosenthal - Jacob is a Computer Software Engineer by day and a Computer Systems Engineer by night.
 
-<!-- -->
+![](files/Paul_Hickey.jpg)
+
+*Paul_Hickey.jpg*
 
 - Paul Hickey – Paul is currently a Systems Administrator at Mesa Community College for the Center for Teaching and Learning. He has had experience developing curriculum in collaboration with faculty to incorporate new instructional technologies. In addition to his responsibilities as a Systems Administrator Paul also manages his departmental budget. To manage the budget he must track capital and operational expenditures in accordance with District guidelines. Paul also tracks spending of grant moneis in conjunction with the grants office to ensure accountability for grant funds.
 
