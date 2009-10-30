@@ -62,15 +62,25 @@ We are a team of artists, engineers, and makers with a passion for community ser
 
 - Paul Hickey – Paul is currently a Systems Administrator at Mesa Community College for the Center for Teaching and Learning. He has had experience developing curriculum in collaboration with faculty to incorporate new instructional technologies. In addition to his responsibilities as a Systems Administrator Paul also manages his departmental budget. To manage the budget he must track capital and operational expenditures in accordance with District guidelines. Paul also tracks spending of grant moneis in conjunction with the grants office to ensure accountability for grant funds.
 
-<!-- -->
+## Professional Resources
 
 - Jason Turner - Real Estate Agent
 
-\(480\) 621-3284 Commercial Real Estate cpiaz.com
+  
+\(480\) 621-3284
+
+Commercial Real Estate
+
+www.cpiaz.com
 
 - Shelley Detwiller DiGiacomo - Lawyer
 
-Osborn Maledon (602) 640-9358 omlaw.com
+  
+Osborn Maledon
+
+\(602\) 640-9358
+
+www.omlaw.com
 
 ## Budget
 
