@@ -43,7 +43,7 @@ We are a team of artists, engineers, and makers with a passion for community ser
 
 <!-- -->
 
-- Paul Hickey – Paul is currently the Systems Administrator of MCC CTL where he is also active on committees for education grants, and has experience as a training coordinator
+- Paul Hickey – Paul is currently the Systems Administrator of MCC CTL where he is also active on committees for education grants, and has experience as a training coordinator.
 - Jeremy Leung – Jeremy is a founding member of HeatSync and a Technician and Trainer at Cave Creek Web Hosting.
 
 ## Budget
