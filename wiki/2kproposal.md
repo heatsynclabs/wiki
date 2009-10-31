@@ -46,11 +46,9 @@ David Huerta founded the DeVry Linux User Group (DeLUG) in 2003, originally a st
 ![Paul_Hickey.jpg](files/Paul_Hickey.jpg) **\*Paul Hickey - Director of Finance**
 
   
-Paul is currently a Systems Administrator for the Center for Teaching and Learning at Mesa Community College. He works with faculty to develop curricula that incorporate new instructional
+Paul is currently a Systems Administrator for the Center for Teaching and Learning at Mesa Community College. He works with faculty to develop curricula that incorporate new instructional technologies, tracks his department’s capital and operational expenditures in accordance with District guidelines, and monitors grant money spending to ensure accountability within the grants office. Paul’s other passions include high-end electronics such as Home Automation and Audio-Visual equipment.
 
-technologies, tracks his department’s capital and operational expenditures in accordance with District guidelines, and monitors grant money spending to ensure accountability within the grants office. Paul’s other passions include high-end electronics such as Home Automation and Audio-Visual equipment.
-
-[1](File:Jacob_Rosenthal.jpg%7Cthumb)\] **\*Jacob Rosenthal - Director of Project Management**
+![Jacob_Rosenthal.jpg](files/Jacob_Rosenthal.jpg) **\*Jacob Rosenthal - Director of Project Management**
 
   
 Jacob’s background is in project management which he utilizes in his current position as Application Systems Analyst for Arizona State University and as an Undergraduate student with ASU’s Cognitive Center for Ubiquitous Computing (CUbiC). His work with the CUbiC lab recently resulted in a paper accepted to the IEEE HAVE 2009 conference and this fall he was asked to return to CUbiC to mentor two newly formed Capstone teams as they begin their two-semester projects. Jacob endeavors to surround himself with brilliant people and is an active member of the ASU Linux User’s Group, the ASU Software Developers Associations, and the IEEE.
@@ -60,9 +58,9 @@ Jacob’s background is in project management which he utilizes in his current p
 - Jason Turner - Real Estate Agent
 
   
-\(480\) 621-3284
-
 Commercial Real Estate
+
+\(480\) 621-3284
 
 www.cpiaz.com
 
@@ -77,7 +75,9 @@ www.omlaw.com
 
 ## Budget
 
-[2](File:2k_budget.jpg)
+![](files/2k_budget.jpg)
+
+*2k_budget.jpg*
 
 ## Economic/Social/Cultural Impact
 
