@@ -5,3 +5,5 @@ How we did \[are doing\] it. Please submit links from the web here that we have 
 - <http://hackerspaces.org/wiki/Metalab/Lessons_learned>
 - <http://odeo.com/episodes/24337669-Building-hacker-spaces-everywhere-Your-excuses-are-invalid>
 - [CCCKC](http://wiki.cowtowncomputercongress.org/index.php/Main_Page) -- Successful HackerSpace in Kansas City. They have a video of the place, some decent numbers, and about the same amount of area we're looking at.
+- [1003_Building_a_Hacker_Space.pdf](files/1003_Building_a_Hacker_Space.pdf)
+  *1003_Building_a_Hacker_Space.pdf*
