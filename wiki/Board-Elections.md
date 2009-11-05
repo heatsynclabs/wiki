@@ -48,8 +48,18 @@ Three questions for everyone!\
 | **Treasurer/CPA**                  |                       |
 | **PR/Marketing**                   |                       |
 | **Editor**                         |                       |
-| **IT Administrator**               |                       |
+| **IT Administrator**               | Zachary Giles         |
 | **Event Coordinator**              |                       |
 | **Fundraising/Social Coordinator** |                       |
 | **Resource Manager**               |                       |
 | **Legal**                          |                       |
+
+## Interested Parties Nomination Speeches
+
+### Zachary Giles
+
+I would like to nominate myself for the IT Administrator position.
+
+My Background: I have had quite a few years of experience with Small to Medium business IT admin and Networking. My current day job is as a Network Admin for a software development company with self-hosted customer applications for larger companies (Think Fortune 100ish). We maintain our own high-availability network and server system for maximum uptime. I also have a pretty good understanding of the telecom systems around the Phoenix area and can assess the potential connectivity of that space when we are deciding it. (Nothing is worse than signing a lease on a place you can't connect to ..) My technical knowledge and experience ranges from small IC chips and microcontrollers all the way up to large linux systems, supercomputers, and large internet pipes. That of course includes enterprise-level desktops and file servers etc.
+
+What I want to make happen: I see HeatSync not only as a great location for tools/metalwork/woodwork etc, but also for the computer-savvy individuals who want a place to work and learn more about enterprise-level systems without having to purchase them themselves. One of the great motto's of HeatSync is that we want to provide people with the tools and resources they need to be able to learn and make new products. Why not do that for the computer industries as well as manufacturing (they're quite related)? We can provide that learning and those tools and systems that would not have otherwise been avaliable. (Cisco router labs, linux servers, raid arrays, multimonitor setups, VoIP phones, etc). With my knowledge of all these systems and where to get them, we can make sure that they are up to spec and working correctly to minimize people's frustration and maximize the usability of the tools. This could easily create all kinds of opportunities for classes and learning sessions.. which is something we want.
