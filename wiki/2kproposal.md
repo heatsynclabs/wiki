@@ -86,3 +86,7 @@ www.omlaw.com
 ## Economic/Social/Cultural Impact
 
 Our goal is community outreach, not just to offer service, but to survive and flourish! As previously described, we believe the only way to maintain and indeed grow the non-profit will be through enabling the community to achieve. We intend to be a driving force in creating interest, especially in younger students, in the fields of engineering and science. We also want to pick up where school leaves off – providing access to industry leading tools in combination with an open engaged community of peers. Finally, we want to encourage a return to “The Commons,” where we create and share for our neighbors, enriching all of our lives. An important component of this is getting away from our “throw-away” culture—to encourage modifying existing products and repairing broken items instead of buying new ones. We aim to instill the mindset of learning by both dissecting existing technology and collaboratively constructing the products of our imaginations.
+
+## Submitted PDF
+
+[ 2K_Grant_Proposal.pdf](files/2K_Grant_Proposal.pdf)
