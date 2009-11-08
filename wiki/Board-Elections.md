@@ -43,7 +43,7 @@ Three questions for everyone!\
 |                                    |                       |
 |------------------------------------|-----------------------|
 | **Position**                       | **People Interested** |
-| **Champion**                       |                       |
+| **Champion**                       | Jacob Rosenthal       |
 | **Secretary/Scribe**               |                       |
 | **Treasurer/CPA**                  |                       |
 | **PR/Marketing**                   |                       |
