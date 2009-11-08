@@ -56,6 +56,14 @@ Three questions for everyone!\
 
 ## Interested Parties Nomination Speeches
 
+### Jacob Rosenthal
+
+Greetings HeatSyncers! Please consider this my intent to run for the Champion role. I have a background in supervising and project management and I delight in constantly pushing projects forward.
+
+In Madison Wisconsin I Managed a call center for the deaf and hard of hearing before being offered a position with Arizona State University where I currently utilize my skills as Application Systems Analyst. I also enjoy working with ASU’s Cognitive Center for Ubiquitous Computing (CUbiC) lab where, after my Senior Capstone, I was asked to return to mentor two newly formed Capstone teams as they begin their two-semester projects.
+
+I look forward working with you all to build HeatSync into an active, sustainable, and transparent community resource. No matter what role I find myself in within our ranks, I see myself continuing to outreach, create partnerships, and pursue large funding like the 2k and 20k proposals.
+
 ### Zachary Giles
 
 I would like to nominate myself for the IT Administrator position.
