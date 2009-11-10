@@ -1,6 +1,8 @@
 ## Start Small
 
-A lot of the hackerspace how to's caution to start small and I personalyl subscribe to that idea. If we could just use someones garage and start compiling tools people could visualize what their member fees get them. 24/7 is also rather ambitious to start with. Many of the existing popular hacker spaces aren't 24/7 and they're proven and up and running. An interesting concept I saw was a doorman twitter account which people could follow at any point in the day to see if a keyholder was present and therefore the doors were open.
+A lot of the hackerspace how to's caution to start small and I personally subscribe to that idea. If we could just use someones garage and start compiling tools people could visualize what their member fees get them. 24/7 is also rather ambitious to start with. Many of the existing popular hacker spaces aren't 24/7 and they're proven and up and running. An interesting concept I saw was a doorman twitter account which people could follow at any point in the day to see if a keyholder was present and therefore the doors were open.
+
+I may be talking out of turn but we may have an opportunity to use an unused condo in Tempe as soon as December. More if we hear about this.
 
 ## Go Big
 
