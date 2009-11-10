@@ -42,15 +42,19 @@ Three questions for everyone!\
 
 ## Interested Parties
 
-|                      |                       |
-|----------------------|-----------------------|
-| **Position**         | **People Interested** |
-| **Champion**         | Jacob Rosenthal       |
-| **Secretary/Scribe** | Andrea Young          |
-| **Treasurer/CPA**    |                       |
-| **PR/Marketing**     | Rick Osgood           |
-| **Editor**           | David Huerta          |
-| **IT Administrator** | Zachary Giles         |
+|  |  |
+|----|----|
+| **Position** | **People Interested** |
+| **Champion** | Jacob Rosenthal |
+| **Secretary/Scribe** | Andrea Young |
+| **Treasurer/CPA** |  |
+| **PR/Marketing** | Rick Osgood |
+| **Editor** | David Huerta |
+| **IT Administrator** | Zachary Giles |
+| **Event Coordinator** | Consolidated into Scribe Role |
+| **Fundraising/Social Coordinator** | Split between Marketing and individual champions of fundraising ideas who will communicate with scribe. |
+| **Resource Manager** | N/A |
+| **Legal** | External Party |
 
 ## Interested Parties Nomination Speeches
 
