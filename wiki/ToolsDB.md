@@ -12,4 +12,7 @@ Tools should be distinct members, not shared Skills on the other hand should be 
 
 Should be a 'will you donate' field
 
-Some db UML diagrams to be posted soon and I'm hoping to get with RickO and see what his progress is
+### Status
+
+- Rick O had done some early work in php but has had to abandon that due to time
+- Jacob did some database brainstorming based on the above scribblings along with Will who has begun implementing the application in Rails. The very alpha version can be found at <http://toolshare.heatsynclabs.org>
