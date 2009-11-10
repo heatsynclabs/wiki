@@ -18,10 +18,16 @@ The infrastructure pattern
 
 - When submitting our ASU EAP 2k proposal, the director of that program mentioned looking into finding municipalities in the area who currently may have more real estate than they know what to do with and maybe interest in hosting this type of 'incubator' concept. He also mentioned contacting Lodestar, an ASU lead community nonprofit resource, for assistance. I have since contacted them and ended up speaking with Robert Duea who encouraged us to seek out city planners and city managers. He seemed interested in our concept and went so far as to mention that his community of Surprise was indeed looking at courting tech startups and that we may fall into that.
 
-## Plan for your vision
+## Help us!
 
 Picking a long-term home can be difficult. On the one hand, there is the set of current members who are attending meetings. On the other hand there are all those other people who you would love to have come attend meetings, but who may be hindered by the current location.
 
 Surveying current attendees includes a selection bias: Many people currently attending may want to keep the current location because it's convenient. Meanwhile there may be a good number of people who do not currently attend, but would if the location were different.
 
 Decide what the long-term goal should be and try to get a location that fits that. The downside is that, short-term, this may end up being a poor location for people currently attending. The upside is that the group is better positioned for its long-term goals.
+
+- Please fill out this \[<https://spreadsheets.google.com/viewform?formkey=dEN2Z3V3cG83NmZRb2FvQkh5OUJDdVE6MA>.. Survey \] to help us determine the best location
+
+<!-- -->
+
+- If you think you know a good location please fill out this \[<https://spreadsheets.google.com/viewform?formkey=dHZib1lmZUNpRjJHc25OZFVpQzZkWmc6MA>.. survey\]
