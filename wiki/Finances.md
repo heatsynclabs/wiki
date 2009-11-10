@@ -1,20 +1,19 @@
 ## Revenue Ideas
 
+Run this is a for profit operation! Just because its a non profit doesn't mean it shouldn't self sustain, and more!
+
 - Donations/Pledges from membership, community, and local companies
 - Membership Dues
-- Donations towards certain tools or services (let people who want them donate towards them and make this public so they can see how close they are)
-
-run this is a for profit operation! Just because its a non profit doesn't mean it shouldn't self sustain, and more!
-
+- Donations towards certain tools or services ala <http://www.pledgebank.com> (let people who want them donate towards them and make this public so they can see how close they are)
+- Private Investors -- if were non profit isn't this just donations?
 - Lifetime Membership?--issues, cannibalize your first set of users who would be paying monthly!
-- start smaller? Seems presumptuous to think you're ready to get 30 people to pay 50 dollars, and you're undercounting utilities hugely and not dealing with tools/furniture/setup costs. I pay 200 in AC in my 2 bd., 300 for all utilities is insane
-- loans?
+- loans - from a bank, or maybe a yearly membership up front to capitalize us, basically a loan from our own people with a possible discount equal to what the bank would have made us pay
 - Sell Food, have an actual cafe, coffee shop--simultaneously have someone watch the space and make some money too--make it public too!
 - Craft Shop (local or etsy)
+- Maybe have someone pay us to utilize our space--some for profit opens up a coffee shop in our space and pays xK a month for the privilege
 - Sponsorship - Universities, Large Companies(Intel), etc.
-- Grants(1337 grant from UAT)
+- Grants(1337 grant from UAT, EAP and Edson from ASU, [http://azgates.asu.edu AZGATES](http://azgates.asu.edu_AZGATES))
 - Shared Purchase Plan - Reimbursement Program – Buy a tool and get it payed back
-- Private Investors
 - Merchandise Income - T-Shirts, Hats, Posters, Stickers, Crafts, Electronics Kits, etc.
 - Advertising Revenue from Website
 
