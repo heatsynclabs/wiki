@@ -4,6 +4,8 @@ As we incorporate and move to create some serious forward movement for this orga
 
 ## Position Ideas
 
+There is much written about how large a board should be. Some non profits will seek to have large boards which are meant to represent many different interests and donors in the community. Other advice argues to keep a board small and agile. For now it is expected our board will be small, agile, and targeted to the task at hand, creating a hackerspace out of nothing. As such these positions were chosen to represent what we should need now and are expected to be flattened down into maybe 5 overlapping roles.
+
 **Champion**: Responsible for coordinating between the different board members. Helps maintain the primary goal of the organization (the mission statement). Also helps to support all members with various tasks and is responsible for public and board meeting agendas.
 
 **Secretary (Scribe)**: Responsible for maintaining records of all meetings and other paperwork for the organization, including membership applications.
@@ -71,3 +73,9 @@ I would like to nominate myself for the IT Administrator position.
 My Background: I have had quite a few years of experience with Small to Medium business IT admin and Networking. My current day job is as a Network Admin for a software development company with self-hosted customer applications for larger companies (Think Fortune 100ish). We maintain our own high-availability network and server system for maximum uptime. I also have a pretty good understanding of the telecom systems around the Phoenix area and can assess the potential connectivity of that space when we are deciding it. (Nothing is worse than signing a lease on a place you can't connect to ..) My technical knowledge and experience ranges from small IC chips and microcontrollers all the way up to large linux systems, supercomputers, and large internet pipes. That of course includes enterprise-level desktops and file servers etc.
 
 What I want to make happen: I see HeatSync not only as a great location for tools/metalwork/woodwork etc, but also for the computer-savvy individuals who want a place to work and learn more about enterprise-level systems without having to purchase them themselves. One of the great motto's of HeatSync is that we want to provide people with the tools and resources they need to be able to learn and make new products. Why not do that for the computer industries as well as manufacturing (they're quite related)? We can provide that learning and those tools and systems that would not have otherwise been avaliable. (Cisco router labs, linux servers, raid arrays, multimonitor setups, VoIP phones, etc). With my knowledge of all these systems and where to get them, we can make sure that they are up to spec and working correctly to minimize people's frustration and maximize the usability of the tools. This could easily create all kinds of opportunities for classes and learning sessions.. which is something we want.
+
+## Future Position Ideas
+
+- Education- I see a real need to coordinate all our presentations and knowledge into modules which we can continually refine.
+- Safety - I foresee a real need here as we begin to obtain large industrial equipment to create safety guidelines and training procedures.
+- Facilities Management- Setup, repair and oversight of all our facilities needs
