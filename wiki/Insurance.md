@@ -4,8 +4,22 @@ The hackerspace talk "Building-hacker-spaces-everywhere-Your-excuses-are-invalid
 
 I would definitely like someone to make some calls and log their results here
 
-<http://www.nationwide.com/vocational-insurance-hb.jsp>
+I found some company who offers this vocational insurance: <http://www.nationwide.com/vocational-insurance-hb.jsp> [insurance1.pdf](files/Insurance1.pdf)
 
-[insurance1.pdf](files/Insurance1.pdf)
+### Board of Directors Insurance
 
-*insurance1.pdf*
+This is so the board can't be sued
+
+- Freeside Atlanta hackerspace's = 300/year
+
+### Liability
+
+- NYC Resistor's Insurance cost is 4k per year (Source Bre Pettis)
+
+<!-- -->
+
+- NoiseBridge cost was about 2k per year(including Board insurance) (Source <http://lists.hackerspaces.org/pipermail/discuss/2009-January/000137.html>)
+
+### Theft
+
+NoiseBridge in the above source indicates this was 'too expensive'
