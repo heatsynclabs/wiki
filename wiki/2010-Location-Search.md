@@ -16,14 +16,6 @@ The infrastructure pattern
 
 <!-- -->
 
-- Please fill out this
-
-\[<https://spreadsheets.google.com/viewform?formkey=dEN2Z3V3cG83NmZRb2FvQkh5OUJDdVE6MA>.. Survey \] to help us determine the best location
-
-- If you think you know a good location please fill out this \[<https://spreadsheets.google.com/viewform?formkey=dHZib1lmZUNpRjJHc25OZFVpQzZkWmc6MA>.. survey\]
-
-<!-- -->
-
 - When submitting our ASU EAP 2k proposal, the director of that program mentioned looking into finding municipalities in the area who currently may have more real estate than they know what to do with and maybe interest in hosting this type of 'incubator' concept. He also mentioned contacting Lodestar, an ASU lead community nonprofit resource, for assistance. I have since contacted them and ended up speaking with Robert Duea who encouraged us to seek out city planners and city managers. He seemed interested in our concept and went so far as to mention that his community of Surprise was indeed looking at courting tech startups and that we may fall into that.
 
 ## Plan for your vision
