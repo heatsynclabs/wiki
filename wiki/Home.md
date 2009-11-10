@@ -62,7 +62,7 @@ This page is a place to submit and talk about various ideas about the [HackerSpa
 <li><a href="Location">Location</a></li>
 <li><a href="Insurance">Insurance</a></li>
 <li><a href="Utilities">Utilities</a></li>
-<li><a href="SurveyOfPrices">SurveyOfPrices</a></li>
+<li><a href="SurveyOfPrices"> Survey Of Subscription Fees</a></li>
 <li><a href="Finances">Finances</a></li>
 <li><a href="Wishlist">Wishlist</a></li>
 </ul>
