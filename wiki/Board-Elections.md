@@ -74,6 +74,12 @@ My Background: I have had quite a few years of experience with Small to Medium b
 
 What I want to make happen: I see HeatSync not only as a great location for tools/metalwork/woodwork etc, but also for the computer-savvy individuals who want a place to work and learn more about enterprise-level systems without having to purchase them themselves. One of the great motto's of HeatSync is that we want to provide people with the tools and resources they need to be able to learn and make new products. Why not do that for the computer industries as well as manufacturing (they're quite related)? We can provide that learning and those tools and systems that would not have otherwise been avaliable. (Cisco router labs, linux servers, raid arrays, multimonitor setups, VoIP phones, etc). With my knowledge of all these systems and where to get them, we can make sure that they are up to spec and working correctly to minimize people's frustration and maximize the usability of the tools. This could easily create all kinds of opportunities for classes and learning sessions.. which is something we want.
 
+### Andrea Young
+
+I have been nominated for Secretary/Scribe (which also includes Event Coordinator and some duties of Fundraising/Social Coordinator).
+
+I came into HeatSync Labs near the beginning of its manifestation, after the initial concept had been born. I visited another hackerspace with Jeremy and responded "So, what can I do to make this whole thing work?". And I mean that. Since July, I have been helping to keep up records, research whatever we need, and to handle a lot of the administrative work that many people find tedious. I am extremely thorough and detail oriented, but can see how all the little things fit into the big picture. I currently assist the local director of a different non-profit in the valley, Youth of Unity. I have a BS in PreLaw from ASU and am working on a BA in English (emphasis on Education) currently. I am hard working, dedicated, reliable, and resourceful. I will do everything I possibly can to make HSL thrive and succeed.
+
 ## Future Position Ideas
 
 - Education- I see a real need to coordinate all our presentations and knowledge into modules which we can continually refine.
