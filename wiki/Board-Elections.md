@@ -47,7 +47,7 @@ Three questions for everyone!\
 | **Position** | **People Interested** |
 | **Champion** | Jacob Rosenthal |
 | **Secretary/Scribe** | Andrea Young |
-| **Treasurer/CPA** |  |
+| **Treasurer/CPA** | Shannon McCormick |
 | **PR/Marketing** | Rick Osgood |
 | **Editor** | David Huerta |
 | **IT Administrator** | Zachary Giles |
