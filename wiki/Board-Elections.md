@@ -45,7 +45,7 @@ Three questions for everyone!\
 |  |  |
 |----|----|
 | **Position** | **People Interested** |
-| **Champion** | Jacob Rosenthal |
+| **Champion** | Jacob Rosenthal, Jeremy Leung |
 | **Secretary/Scribe** | Andrea Young |
 | **Treasurer/CPA** | Shannon McCormick |
 | **PR/Marketing** | Rick Osgood |
