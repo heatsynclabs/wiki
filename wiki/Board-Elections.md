@@ -49,7 +49,7 @@ Three questions for everyone!\
 | **Secretary/Scribe** | Andrea Young |
 | **Treasurer/CPA** | Shannon McCormick |
 | **PR/Marketing** | Rick Osgood |
-| **Editor** | David Huerta |
+| **Editor** | David H. |
 | **IT Administrator** | Zachary Giles, Will Bradley |
 | **Event Coordinator** | Consolidated into Scribe Role |
 | **Fundraising/Social Coordinator** | Split between Marketing and individual champions of fundraising ideas who will communicate with scribe. |
