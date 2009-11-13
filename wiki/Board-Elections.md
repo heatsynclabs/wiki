@@ -90,6 +90,10 @@ I have been nominated for Secretary/Scribe (which also includes Event Coordinato
 
 I came into HeatSync Labs near the beginning of its manifestation, after the initial concept had been born. I visited another hackerspace with Jeremy and responded "So, what can I do to make this whole thing work?". And I mean that. Since July, I have been helping to keep up records, research whatever we need, and to handle a lot of the administrative work that many people find tedious. I am extremely thorough and detail oriented, but can see how all the little things fit into the big picture. I currently assist the local director of a different non-profit in the valley, Youth of Unity. I have a BS in PreLaw from ASU and am working on a BA in English (emphasis on Education) currently. I am hard working, dedicated, reliable, and resourceful. I will do everything I possibly can to make HSL thrive and succeed.
 
+### David H
+
+I am nominating myself for the position of Editor, an office established to handle the responsibility to getting things written for public view, such as the HSL Bylaws, and editing content that gets submitted to the HSL blog. At DeVry, I was a contributing writer for the school newspaper and wrote a number of articles on various topics of hacker interest. I have also written and edited founding documents for other organizations, most notably the DeVry Linux User Group, which I co-founded in 2003. For ABLEconf 2009, I also wrote a majority of all written content, including press releases, some blog posts and most marketing copy. I tend to pride myself in being a detail-oriented perfectionist and don't mind holding that standard to content for the HSL blog, which I intend to make extremely awesome.
+
 ## Future Position Ideas
 
 - Education- I see a real need to coordinate all our presentations and knowledge into modules which we can continually refine.
