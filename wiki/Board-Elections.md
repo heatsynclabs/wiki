@@ -28,8 +28,8 @@ There is much written about how large a board should be. Some non profits will s
 
 ## Board Meeting
 
-**Date**: Saturday, November 7th, 2009\
-**Time**: 4 PM\
+**When**: Thursdays in between standard meeting times\
+**Time**: 8 PM\
 **Place**: Solo Cafe -- www.solocafetempe.com\
 107 E. Baseline Rd. Tempe, AZ 85283 Mill Ave and Baseline in Tempe
 
