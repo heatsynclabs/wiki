@@ -50,7 +50,7 @@ Three questions for everyone!\
 | **Treasurer/CPA** | Shannon McCormick |
 | **PR/Marketing** | Rick Osgood |
 | **Editor** | David Huerta |
-| **IT Administrator** | Zachary Giles |
+| **IT Administrator** | Zachary Giles, Will Bradley |
 | **Event Coordinator** | Consolidated into Scribe Role |
 | **Fundraising/Social Coordinator** | Split between Marketing and individual champions of fundraising ideas who will communicate with scribe. |
 | **Resource Manager** | N/A |
