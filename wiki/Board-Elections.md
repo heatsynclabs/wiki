@@ -94,6 +94,14 @@ I came into HeatSync Labs near the beginning of its manifestation, after the ini
 
 I am nominating myself for the position of Editor, an office established to handle the responsibility to getting things written for public view, such as the HSL Bylaws, and editing content that gets submitted to the HSL blog. At DeVry, I was a contributing writer for the school newspaper and wrote a number of articles on various topics of hacker interest. I have also written and edited founding documents for other organizations, most notably the DeVry Linux User Group, which I co-founded in 2003. For ABLEconf 2009, I also wrote a majority of all written content, including press releases, some blog posts and most marketing copy. I tend to pride myself in being a detail-oriented perfectionist and don't mind holding that standard to content for the HSL blog, which I intend to make extremely awesome.
 
+### Jeremy Leung
+
+As a co-founder of HeatSync Labs I've been dedicated to driving this concept forward since its inception. I would like to continue doing so if the membership will accept me as one of their Champions. I've been committed to hearing out everyone's suggestions for what we'll need to have to create our hacker space and what we'll need included in it. When ever I get a chance to travel I've made it a point to stop by any local successful hacker spaces and talk to their constituents. Through this activity I've learned a number of things that we could use in our own space and some that we should avoid.
+
+A few years ago I acted as the leader of a Defcon chapter(hacker group) in the local area for some time. Through this experience I learned a heavy lesson on group dynamics and leadership responsibilities. Out of that time period I also learned the positives and negatives of working with marketing and donating parties. Our goal is to provide the tools, space, and direction necessary to develop things you envision. Those ideas and products are your own. I want to make sure it stays that way.
+
+I have years of experience as a Senior Systems Administrator where I've led a team of Admins in a 24x7 environment ensuring that thousands of systems stay up and running and safe from threats. Over the last half year I've acted as a teacher and mentor to employees coming into the company I work at. I hope to carry and spread that mentality throughout the organization. Most of all, I can act as a strong voice for this organization. When I speak of the group I speak with passion and doing so hope to warm others to the idea of having a hacker space in their community, as well as, hopefully inciting them to join in the fun. With the help of a dedicated membership we can have the dream hacker space that we want. I would love to be one of the leaders to guide us in that direction. Thank you.
+
 ## Future Position Ideas
 
 - Education- I see a real need to coordinate all our presentations and knowledge into modules which we can continually refine.
