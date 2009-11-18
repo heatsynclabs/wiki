@@ -102,6 +102,10 @@ A few years ago I acted as the leader of a Defcon chapter(hacker group) in the l
 
 I have years of experience as a Senior Systems Administrator where I've led a team of Admins in a 24x7 environment ensuring that thousands of systems stay up and running and safe from threats. Over the last half year I've acted as a teacher and mentor to employees coming into the company I work at. I hope to carry and spread that mentality throughout the organization. Most of all, I can act as a strong voice for this organization. When I speak of the group I speak with passion and doing so hope to warm others to the idea of having a hacker space in their community, as well as, hopefully inciting them to join in the fun. With the help of a dedicated membership we can have the dream hacker space that we want. I would love to be one of the leaders to guide us in that direction. Thank you.
 
+### Andre Sprague
+
+I have been super excited about HSL since I first saw the post on makerblog. My wife and I are very interested in homemade crafts/do it yourself and have a mini workshop on our patio. I have worked for a major Internet Technology company for the last 3 years around the valley. I am committed to doing everything I can to make HSL a major entity both in our community and the online hackspace community. I hope to help create a tracking system for tools as well as other facility responsibilities once we have a location established. I hope work with the IT Admin to create web apps to track almost every aspect of the location, from a real time tool database, security and access, web bots and anything else we can wire to the net so that we can all be a part of the many projects we will tackle.
+
 ## Future Position Ideas
 
 - Education- I see a real need to coordinate all our presentations and knowledge into modules which we can continually refine.
