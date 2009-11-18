@@ -53,7 +53,7 @@ Three questions for everyone!\
 | **IT Administrator** | Zachary Giles, Will Bradley |
 | **Event Coordinator** | Consolidated into Scribe Role |
 | **Fundraising/Social Coordinator** | Split between Marketing and individual champions of fundraising ideas who will communicate with scribe. |
-| **Resource Manager** | N/A |
+| **Resource Manager** | Andre Sprague |
 | **Legal** | External Party |
 
 ## Interested Parties Nomination Speeches
