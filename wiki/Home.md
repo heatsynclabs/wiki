@@ -71,6 +71,7 @@ This page is a place to submit and talk about various ideas about the [HackerSpa
 <li><a href="Donations">Donations</a></li>
 <li><a href="Fundraising">Fundraising</a></li>
 <li><a href="Suggestions">Suggestions</a></li>
+<li><a href="Grants">Grants</a></li>
 </ul></td>
 </tr>
 <tr>
