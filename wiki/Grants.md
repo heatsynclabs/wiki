@@ -1,0 +1,2 @@
+- <http://grants.gov/> government grants for research and development
+- <http://www.sbir.gov/> STTR grants for non profit small businesses
