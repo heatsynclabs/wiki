@@ -83,3 +83,7 @@ Great pricing, Cliff was my top choice for waterjetting because he was eager, fl
   - WaterJet CNC & Plasma cutting.
     - OMAX Model 80160 JetMachining® Center: Will machine parts up to 80” x 160” (6.6 feet x 15 feet or 2m x 4m).
   - Equipment sales
+
+### Prototyping Labs
+
+- <http://design.asu.edu/it/digitallab.shtml>
