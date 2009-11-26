@@ -40,7 +40,7 @@ Three questions for everyone!\
 **2)** Are any of these roles unnecessary for the organization?\
 **3)** Is there anything additional we should account for?\
 
-## Interested Parties
+## Current Board Members
 
 |  |  |
 |----|----|
