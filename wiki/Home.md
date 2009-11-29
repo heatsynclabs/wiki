@@ -66,6 +66,7 @@ This page is a place to submit and talk about various ideas about the [HackerSpa
 </ul>
 <h3 id="continued_success">Continued Success</h3>
 <ul>
+<li><a href="Board-Elections">Board Elections</a></li>
 <li><a href="Board-Members">Board Members</a></li>
 <li><a href="Content">Content</a></li>
 <li><a href="Donations">Donations</a></li>
