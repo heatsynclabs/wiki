@@ -22,7 +22,10 @@ This page is a place to submit and talk about various ideas about the [HackerSpa
 <p>Current Info</p>
 </div>
 <ul>
-<li><a href="Meetings">Meetings</a></li>
+<li><a href="Meetings">Meetings</a>
+<ul>
+<li><a href="Public-Meeting-Minutes">Public Meeting Minutes</a></li>
+</ul></li>
 <li><a href="FAQ">FAQ</a></li>
 <li><a href="Contact">Contact</a></li>
 <li><a href="TODO">TODO</a></li>
