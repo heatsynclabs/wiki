@@ -2,13 +2,21 @@
 
 ### Personal
 
-Now that we have a board about to be elected, a bank acct is also in the works, which means Paypal is on its way.
+We can contribute using our Paypal and GoogleCheckout accounts.
 
 ### Donation Thermometer
 
 I saw mention of incuding a thermometer on the FOS (front of site) Here is some example code we could use, unless someone wants to be creative and make it themselves.
 
 <http://www.fundraiserinsight.org/thermometer/>
+
+### SMS Donations
+
+I was listening to the This American Life podcast this morning and Ira was doing his usual beg for donations speel. As usual I fell bad because I haven't donated and its been years of hearing this pitch. Then Ira says you can text them 5 bucks by texting Life to some number. So I gave them 5 bucks.
+
+I looked into the organization and its pretty cool. Theyre a non profit I guess? And if you're a 5013c theyll give you a keyword to text to them and you can specify the amount. Sadly well have to wait for 5013c but this seems like an amazing way to grab impulse/guilt donations.
+
+<http://www.hmgf.org>
 
 ### Corporate
 
