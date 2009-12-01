@@ -4,6 +4,12 @@
 
 Now that we have a board about to be elected, a bank acct is also in the works, which means Paypal is on its way.
 
+### Donation Thermometer
+
+I saw mention of incuding a thermometer on the FOS (front of site) Here is some example code we could use, unless someone wants to be creative and make it themselves.
+
+<http://www.fundraiserinsight.org/thermometer/>
+
 ### Corporate
 
 Please compile a list of corporations and entities we would like to approach, and things we would ask for. From some initial research local seems to be big. Local companies, and even local arms of global companies are interested in showing they are part of their community so it will be important to target these. From the same research, it seems like it will be extremely difficult to get anything until our 501c3 has cleared.
