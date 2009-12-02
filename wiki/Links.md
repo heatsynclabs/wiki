@@ -2,6 +2,8 @@
 
 - <http://www.instructables.com/>
 - <http://www.ehow.com/>
+- <http://blog.makezine.com/>
+- <http://hackaday.com/>
 
 # HackerSpace Inspiration
 
@@ -12,6 +14,16 @@
 - <http://hackerspaces.soup.io/> Hackerspaces soup - A feed of most of the worlds hackerspace websites. Find out whats hot.
 
 # Hardware
+
+## Electronics
+
+- <http://stackoverflow.com/> - Programming questions and answers
+- <http://chiphacker.com/> - Embedded systems and microcontroller question and answers
+
+## OpenSource hardware designers
+
+- <http://dangerousprototypes.com/> - Every month a new open source project from the creator of the Bus Pirate
+- <http://ladyada.net/> - Great resource for information on various projects and ideas to getting started on creating and selling
 
 # Crafts
 
