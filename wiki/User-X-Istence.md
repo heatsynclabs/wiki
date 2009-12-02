@@ -11,5 +11,3 @@ Check out my [personal porfolio website](http://bertjwregeer.com/).
 ## Contact
 
 Feel free to contact me by emailing me at bertjw \[at\] regeer \[dot\] org.
-
-I is logged in as you!
