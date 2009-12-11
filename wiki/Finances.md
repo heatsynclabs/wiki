@@ -50,7 +50,7 @@ Run this is a for profit operation! Just because its a non profit doesn't mean i
 
 ## Future Large Purchases
 
-- \$10,000 Fab Lab a long way down the road
+- \$10,000 Fab Lab [1](http://fab.cba.mit.edu/about/fab/inv.html) a long way down the road
 - Discounted machines from Manufacturers
 
 ## HeatBucks
