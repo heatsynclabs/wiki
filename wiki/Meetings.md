@@ -1,12 +1,16 @@
-## Administrative
+## Public Meetings
 
-Things to Note: Meetings will be the second and fourth Thursday of the month. First meeting of 2010 will be January 14, 2010. Gangplank has free Wifi (WOOHOO!!)
+### Things to Note
 
-Gangplank www.gangplankhq.com
+- Meetings will be the second and fourth Thursday of the month.
+- First meeting of 2010 will be January 14, 2010.
+- Gangplank has free Wifi (WOOHOO!!)
 
-[\| 325 East Elliot Rd. Suite 34 Chandler, AZ 85225](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=gangplank,+chandler+,az&sll=37.0625,-95.677068&sspn=48.956293,79.013672&ie=UTF8&hq=gangplank,&hnear=Chandler,+AZ&z=13&iwloc=A&cid=8705411617655272523)
+### Gangplank
 
-(On the south side of Elliot between Arizona Ave and McQueen Road.)
+www.gangplankhq.com
+
+[325 East Elliot Rd. Suite 34 Chandler, AZ 85225](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=gangplank,+chandler+,az&sll=37.0625,-95.677068&sspn=48.956293,79.013672&ie=UTF8&hq=gangplank,&hnear=Chandler,+AZ&z=13&iwloc=A&cid=8705411617655272523) (On the south side of Elliot between Arizona Ave and McQueen Road.)
 
 ## Social
 
