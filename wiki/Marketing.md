@@ -6,7 +6,7 @@
 - Classes and outreach to schools will be key
 - First Friday!
 
-Links:
+## Links
 
 Free Google Ads for Non-Profits(Waiting on Tax-Exempt Status):
 
