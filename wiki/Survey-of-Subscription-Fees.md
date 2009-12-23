@@ -1,6 +1,6 @@
 ## Results From Community Survey
 
-The average local hacker wants to pay around \$30 for access to a facility that offers workspaces, industry level tools, classes and workshops, and storage space to work on projects.
+The average local hacker wants to pay around \$30 for access to a facility that offers workspaces, industry level tools, classes and workshops, and storage space to work on projects. Currently this alone will not sustain a space for the amount of people interested.
 
 ## Other Hacker Spaces
 
