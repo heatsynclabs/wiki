@@ -21,7 +21,7 @@ Why don’t you start \[sewing, sawing,carving, welding, soldering, ...\] that p
   
 Meetings held Second and Fourth Thursday at our more digital half
 
-[<http://www.gangplankhq.com>](http://www.gangplankhq.com)
+Gangplank \| www.gangplankhq.com
 
   
 325 East Elliot Rd Suite 34
