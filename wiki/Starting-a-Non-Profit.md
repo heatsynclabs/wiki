@@ -155,14 +155,7 @@ Section 501(c)(3) organizations are restricted in how much political and legisla
   - Basically just a written request, but you must have extenuating circumstances
   - <http://www.patrickmurphy.house.gov/index.php?option=com_content&task=view&id=37&Itemid=83#10>
 - 1023 Schedules A through H as required
-  - Schedule A: Churches
-  - Schedule B: Schools, Colleges, and Universities
-  - Schedule C: Hospitals and Medical Research Organization
-  - Schedule D: 509(a)3 Supporting Organizations
-  - Schedule E: Organizations not filing form 1023 within 27 months of formation
-  - Schedule F: Homes for the elderly or handicapped and low income housing
-  - Schedule G: Successors to Other Organizations
-  - Schedule H: Organizations Providing Scholarships, Fellowships, Educational Loans, or Other Educational Grants to Individuals and Private Foundations Requesting Advance Approval of Individual Grant Procedures
+  - I read through these schedules and we don't need to file these because we aren't a church or other stuff.
 - Articles of Organization- Organizing Documents [1](http://www.irs.gov/charities/charitable/article/0,,id=122729,00.html)
 - Amendments to Articles of Organization in chronological order
 - Bylaws or other rules of operation and amendments
