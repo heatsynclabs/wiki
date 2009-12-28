@@ -161,6 +161,7 @@ Section 501(c)(3) organizations are restricted in how much political and legisla
 - Bylaws or other rules of operation and amendments
 - Documentation of nondiscriminatory policy for schools, as required by Schedule B
 - Form 5768, Election/Revocation of Election by an Eligible Section 501(c)(3) Organization To Make Expenditures To Influence Legislation (if filing)
+  - We may be eligible to influence legislature in certain situations, we DO NOT wish to pursue this
 - All other attachments, including explanations, financial data, and printed materials or publications. Label each page with name and EIN.
 
 ### 5.c Costs
