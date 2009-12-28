@@ -148,7 +148,9 @@ Section 501(c)(3) organizations are restricted in how much political and legisla
 1023 Checklist
 
 - Form 2848 - if we want someone to represent us (we don't think we need or want)
+  - AFAIK: This form gives someone else (company or person) the power to modify, file, and view our IRS information. We don't need this because by default (we think) the organization itself can file it's own taxes. The people we would have modify are it already are members.
 - Form 8828 -
+  - AFAIK: This is a form that is similar to the previous but only allows read-only view of our information .. perhaps an attourney to check and look at your data or something. We don't need this because we don't need anyone else to look at our taxes except for those who file, which already have the power because they can file.
 - Expedite Request
 - 1023 Schedules A through H as required
 - Articles of Organization- Organizing Documents
