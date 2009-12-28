@@ -174,7 +174,10 @@ Which organizations are not required to file Form 990? Nonprofits that have not 
 
 <http://www2.guidestar.org/rxg/help/faqs/form-990/index.aspx>
 
-  
-Organizing Documents
+### Organizing Documents
 
 <http://www.irs.gov/charities/charitable/article/0,,id=122729,00.html>
+
+### Verify Our Documents
+
+Get a local IRS rep in Phoenix to look at our compiled documents.
