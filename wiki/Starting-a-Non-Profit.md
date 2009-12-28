@@ -152,6 +152,8 @@ Section 501(c)(3) organizations are restricted in how much political and legisla
 - Form 8828 -
   - AFAIK: This is a form that is similar to the previous but only allows read-only view of our information .. perhaps an attourney to check and look at your data or something. We don't need this because we don't need anyone else to look at our taxes except for those who file, which already have the power because they can file.
 - Expedite Request
+  - Basically just a written request, but you must have extenuating circumstances
+  - <http://www.patrickmurphy.house.gov/index.php?option=com_content&task=view&id=37&Itemid=83#10>
 - 1023 Schedules A through H as required
   - Schedule A: Churches
   - Schedule B: Schools, Colleges, and Universities
