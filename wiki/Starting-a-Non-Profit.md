@@ -191,7 +191,7 @@ Cyber Assistant, a Web-based software program designed to help 501(c)(3) applica
 - \$200 for organizations using Cyber Assistant (regardless of size) to prepare their Form 1023
 - \$850 for all other organizations not using Cyber Assistant (regardless of size) to prepare their Form 1023.
 
-IRS will announce when Cyber Assistant is available and the effective date of the user fee change. Subscribe to the EO Update to automatically receive an alert that Cyber Assistant is available.
+IRS will announce when Cyber Assistant is available and the effective date of the user fee change. Sign up for the Exempt Organization (EO) Update, EO’s subscription newsletter, at www.irs.gov/charities, to automatically receive an alert that Cyber Assistant is available.
 
 ## Non-Profit Organization Upkeep
 
