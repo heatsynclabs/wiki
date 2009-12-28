@@ -173,3 +173,8 @@ What is a IRS Form 990? Form 990 is an annual reporting return that certain fede
 Which organizations are not required to file Form 990? Nonprofits that have not received tax-exempt status from the IRS.
 
 <http://www2.guidestar.org/rxg/help/faqs/form-990/index.aspx>
+
+  
+Organizing Documents
+
+<http://www.irs.gov/charities/charitable/article/0,,id=122729,00.html>
