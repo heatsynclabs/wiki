@@ -145,6 +145,16 @@ Section 501(c)(3) organizations are restricted in how much political and legisla
 
 <http://www.irs.gov/charities/charitable/article/0,,id=96099,00.html> <http://www.irs.gov/pub/irs-pdf/f1023.pdf>
 
+- Part I: Identification Information
+- Part II: You must organize with your state, and attach proof
+- Part III : Confirm Required Provisions in Your Organizing Document
+  - 1\) Your articles of organization must contain a statement of your exempt purpose, such as charitable, religious, educational, and/or scientific purposes.
+  - 2a) Must contain statement that your remaining assets, upon dissolution, must be used exclusively for exempt purposes, such as charitable, religious, educational, and/or scientific purposes.
+- Part IV: Provide Narrative Description of your Activities
+  - need an attachment, as a narrative, of our past, present, and future
+- Part V: Compensation and Other Financial Arrangements With Your Officers, Directors, Trustees, Employees, and Independent Contractors
+  - Name, Title, Mailing Address, Compensation of all Board Members
+
 1023 Checklist
 
 - Form 2848 - if we want someone to represent us (we don't think we need or want)
