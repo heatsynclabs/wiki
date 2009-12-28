@@ -166,8 +166,7 @@ Change of statutory agent form:\
 
 ## Notes
 
-  
-Form 990:
+### Form 990
 
 What is a IRS Form 990? Form 990 is an annual reporting return that certain federally tax-exempt organizations must file with the IRS. It provides information on the filing organization's mission, programs, and finances.
 
