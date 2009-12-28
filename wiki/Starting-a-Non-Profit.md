@@ -204,6 +204,8 @@ Change of statutory agent form:\
 
 What is a IRS Form 990? Form 990 is an annual reporting return that certain federally tax-exempt organizations must file with the IRS. It provides information on the filing organization's mission, programs, and finances.
 
+- Looks like it's like a 1040 (1040-EZ) (which is the home tax "return") but for non-profit businesses. It has a 990 and 990-EZ. The 990 is only for non-profits who have exemption status (are a 501(c)X (where X is a random number not the letter 'X')) with the IRS. We are not that, but will be. THEREFORE, we MIGHT need to file something else for for the year 2008 since we are not tax-exempt (can't file 990) we might need to file something else since we are an existing company in the year 2008.
+
 Which organizations are not required to file Form 990? Nonprofits that have not received tax-exempt status from the IRS.
 
 <http://www2.guidestar.org/rxg/help/faqs/form-990/index.aspx>
