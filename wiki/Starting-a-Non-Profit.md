@@ -109,11 +109,23 @@ If within sixty days after delivering the articles of incorporation to the ACC a
 - Within 60 days after the Commission files (approves) the Articles of Incorporation, you must publish a copy of the Articles in a newspaper of general circulation in the county of the known place of business in Arizona for three consecutive publications. A list of acceptable newspapers in each county will be enclosed with your approval letter and is also available on the Commission website. The corporation may be subject to administrative dissolution if it fails to publish. You do not need to file the Affidavit of Publication you will receive from the newspaper.
 - Copied from the example articles of incorporation
 
-## 3) Obtain Tax Exempt Status
+## 3) Public Disclosure of Information of Tax Exempt Organizations
+
+A tax-exempt organization is required to provide copies of its three most recent information returns, its exemption letter, and its approved application with supporting documentation, without charge (other than a reasonable fee for any reproduction and mailing costs), to persons requesting copies (with certain exceptions), unless it has made these forms widely available by publishing them on the Internet in accordance with IRS regulations.
+
+## 4) Submit an affidavit of publication to the ACC
+
+### Annual Report
+
+This annual report must be correctly filled out and submitted by the assigned due date or the corporation may be administratively dissolved or have its authority revoked by the State of Arizona. According to A.R.S. §10-1622.F, penalties accrue on business corporation annual reports which are submitted late (starting the day after the due date). Corporations must use the annual report form prescribed by the Corporation Commission. No other format is allowed.
+
+Annual Report Instruction Sheet: <http://www.cc.state.az.us/divisions/corporations/annrpts/arinstruct.asp>
+
+## 5) Obtain Tax Exempt Status
 
 Being a non profit organization does not mean you are tax exempt. You have to file separately for this status.
 
-### 3.a) Must meet these requirements
+### 5.a) Must meet these requirements
 
 - Must meet requirements set forth in the Internal Revenue Code
 
@@ -129,21 +141,9 @@ The organization must not be organized or operated for the benefit of private in
 
 Section 501(c)(3) organizations are restricted in how much political and legislative (lobbying) activities they may conduct. For a detailed discussion, see Political and Lobbying Activities. For more information about lobbying activities by charities, see the article Lobbying Issues; for more information about political activities of charities, see the FY-2002 CPE topic Election Year Issues.
 
-### 3.b Must fill out this long form and meet its prerequisites
+### 5.b Must fill out this long form and meet its prerequisites
 
 <http://www.irs.gov/pub/irs-pdf/f1023.pdf>
-
-## 4) Public Disclosure of Information of Tax Exempt Organizations
-
-A tax-exempt organization is required to provide copies of its three most recent information returns, its exemption letter, and its approved application with supporting documentation, without charge (other than a reasonable fee for any reproduction and mailing costs), to persons requesting copies (with certain exceptions), unless it has made these forms widely available by publishing them on the Internet in accordance with IRS regulations.
-
-## 5) Submit an affidavit of publication to the ACC
-
-### Annual Report
-
-This annual report must be correctly filled out and submitted by the assigned due date or the corporation may be administratively dissolved or have its authority revoked by the State of Arizona. According to A.R.S. §10-1622.F, penalties accrue on business corporation annual reports which are submitted late (starting the day after the due date). Corporations must use the annual report form prescribed by the Corporation Commission. No other format is allowed.
-
-Annual Report Instruction Sheet: <http://www.cc.state.az.us/divisions/corporations/annrpts/arinstruct.asp>
 
 ## Non-Profit Organization Upkeep
 
