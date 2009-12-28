@@ -141,9 +141,22 @@ The organization must not be organized or operated for the benefit of private in
 
 Section 501(c)(3) organizations are restricted in how much political and legislative (lobbying) activities they may conduct. For a detailed discussion, see Political and Lobbying Activities. For more information about lobbying activities by charities, see the article Lobbying Issues; for more information about political activities of charities, see the FY-2002 CPE topic Election Year Issues.
 
-### 5.b Must fill out this long form and meet its prerequisites
+### 5.b Application Process Step by Step
 
-<http://www.irs.gov/pub/irs-pdf/f1023.pdf>
+<http://www.irs.gov/charities/charitable/article/0,,id=96099,00.html> <http://www.irs.gov/pub/irs-pdf/f1023.pdf>
+
+1023 Checklist
+
+- Form 2848 - if we want someone to represent us (we don't think we need or want)
+- Form 8828 -
+- Expedite Request
+- 1023 Schedules A through H as required
+- Articles of Organization- Organizing Documents
+- Amendments to Articles of Organization in chronological order
+- Bylaws or other rules of operation and amendments
+- Documentation of nondiscriminatory policy for schools, as required by Schedule B
+- Form 5768, Election/Revocation of Election by an Eligible Section 501(c)(3) Organization To Make Expenditures To Influence Legislation (if filing)
+- All other attachments, including explanations, financial data, and printed materials or publications. Label each page with name and EIN.
 
 ## Non-Profit Organization Upkeep
 
