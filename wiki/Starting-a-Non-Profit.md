@@ -163,3 +163,14 @@ A more brief overview of what must be done to become a tax-exempt non profit in 
 
 Change of statutory agent form:\
 <http://corporations.azcc.gov/filings/forms/ll0006.pdf>
+
+### Notes
+
+  
+Form 990:
+
+What is a IRS Form 990? Form 990 is an annual reporting return that certain federally tax-exempt organizations must file with the IRS. It provides information on the filing organization's mission, programs, and finances.
+
+Which organizations are not required to file Form 990? Nonprofits that have not received tax-exempt status from the IRS.
+
+<http://www2.guidestar.org/rxg/help/faqs/form-990/index.aspx>
