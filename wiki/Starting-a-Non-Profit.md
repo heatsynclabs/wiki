@@ -166,16 +166,16 @@ Section 501(c)(3) organizations are restricted in how much political and legisla
 
 User fees will increase for all applications for exemption (Forms 1023, 1024, and 1028) postmarked after January 3, 2010:
 
-`   *  $400 for organizations whose gross receipts are $10,000 or less annually over a 4-year period`\
-`   *  $850 for organizations whose gross receipts exceed $10,000 annually over a 4-year period`\
-`   *  $3,000 for group exemption letters.`
+- \$400 for organizations whose gross receipts are \$10,000 or less annually over a 4-year period
+- \$850 for organizations whose gross receipts exceed \$10,000 annually over a 4-year period
+- \$3,000 for group exemption letters.
 
 A complete schedule of all user fees will be published in the annual procedure released in January 2010.
 
 Cyber Assistant, a Web-based software program designed to help 501(c)(3) applicants prepare a complete and accurate Form 1023 application, will become available during 2010. Once the IRS announces the availability of Cyber Assistant, the user fees will change again:
 
-`   *  $200 for organizations using Cyber Assistant (regardless of size) to prepare their Form 1023`\
-`   *  $850 for all other organizations not using Cyber Assistant (regardless of size) to prepare their Form 1023.`
+- \$200 for organizations using Cyber Assistant (regardless of size) to prepare their Form 1023
+- \$850 for all other organizations not using Cyber Assistant (regardless of size) to prepare their Form 1023.
 
 IRS will announce when Cyber Assistant is available and the effective date of the user fee change. Subscribe to the EO Update to automatically receive an alert that Cyber Assistant is available.
 
