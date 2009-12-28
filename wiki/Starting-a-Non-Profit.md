@@ -153,6 +153,14 @@ Section 501(c)(3) organizations are restricted in how much political and legisla
   - AFAIK: This is a form that is similar to the previous but only allows read-only view of our information .. perhaps an attourney to check and look at your data or something. We don't need this because we don't need anyone else to look at our taxes except for those who file, which already have the power because they can file.
 - Expedite Request
 - 1023 Schedules A through H as required
+  - Schedule A: Churches
+  - Schedule B: Schools, Colleges, and Universities
+  - Schedule C: Hospitals and Medical Research Organization
+  - Schedule D: 509(a)3 Supporting Organizations
+  - Schedule E: Organizations not filing form 1023 within 27 months of formation
+  - Schedule F: Homes for the elderly or handicapped and low income housing
+  - Schedule G: Successors to Other Organizations
+  - Schedule H: Organizations Providing Scholarships, Fellowships, Educational Loans, or Other Educational Grants to Individuals and Private Foundations Requesting Advance Approval of Individual Grant Procedures
 - Articles of Organization- Organizing Documents [1](http://www.irs.gov/charities/charitable/article/0,,id=122729,00.html)
 - Amendments to Articles of Organization in chronological order
 - Bylaws or other rules of operation and amendments
