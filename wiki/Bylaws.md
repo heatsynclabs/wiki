@@ -103,9 +103,8 @@ V. COMMUNITY RELATIONS
 
 ==
 
-1.HSL may engage in joint ventures and partnership with other organizations in the general community where it is in the interest of all parties involved to promote the purpose of HSL as partnering organizations.
-
-2.HSL assets shall remain under the complete and undivided ownership of HSL. Assets, such as equipment, may be temporarily loaned for the use of other partnering organizations. A quorum vote of the Board of Directors shall be required to allow partnering organizations to utilize HSL assets.
+1.  HSL may engage in joint ventures and partnership with other organizations in the general community where it is in the interest of all parties involved to promote the purpose of HSL as partnering organizations.
+2.  HSL assets shall remain under the complete and undivided ownership of HSL. Assets, such as equipment, may be temporarily loaned for the use of other partnering organizations. A quorum vote of the Board of Directors shall be required to allow partnering organizations to utilize HSL assets.
 
 ==
 
