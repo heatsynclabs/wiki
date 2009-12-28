@@ -153,7 +153,7 @@ Section 501(c)(3) organizations are restricted in how much political and legisla
   - AFAIK: This is a form that is similar to the previous but only allows read-only view of our information .. perhaps an attourney to check and look at your data or something. We don't need this because we don't need anyone else to look at our taxes except for those who file, which already have the power because they can file.
 - Expedite Request
 - 1023 Schedules A through H as required
-- Articles of Organization- Organizing Documents
+- Articles of Organization- Organizing Documents [1](http://www.irs.gov/charities/charitable/article/0,,id=122729,00.html)
 - Amendments to Articles of Organization in chronological order
 - Bylaws or other rules of operation and amendments
 - Documentation of nondiscriminatory policy for schools, as required by Schedule B
