@@ -131,7 +131,7 @@ Section 501(c)(3) organizations are restricted in how much political and legisla
 
 ### 3.b Must fill out this long form and meet its prerequisites
 
-<http://www.irs.gov/pub/irs-pdf/k1024.pdf>
+<http://www.irs.gov/pub/irs-pdf/f1023.pdf>
 
 ## 4) Public Disclosure of Information of Tax Exempt Organizations
 
