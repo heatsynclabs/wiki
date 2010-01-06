@@ -4,7 +4,7 @@ Run this is a for profit operation! Just because its a non profit doesn't mean i
 
 - Donations/Pledges from membership, community, and local companies
 - Membership Dues
-- Donations towards certain tools or services ala <http://www.pledgebank.com> (let people who want them donate towards them and make this public so they can see how close they are)
+- Donations towards certain tools or services ala <http://www.pledgebank.com> and <http://www.kickstarter.com> (let people who want them donate towards them and make this public so they can see how close they are)
 - Private Investors -- if were non profit isn't this just donations?
 - Lifetime Membership?--issues, cannibalize your first set of users who would be paying monthly!
 - loans - from a bank, or maybe a yearly membership up front to capitalize us, basically a loan from our own people with a possible discount equal to what the bank would have made us pay
@@ -16,6 +16,11 @@ Run this is a for profit operation! Just because its a non profit doesn't mean i
 - Shared Purchase Plan - Reimbursement Program – Buy a tool and get it payed back
 - Merchandise Income - T-Shirts, Hats, Posters, Stickers, Crafts, Electronics Kits, etc.
 - Advertising Revenue from Website
+
+## Loans
+
+- Put together a decent business plan and approach local banks (not likely)
+- Peer to peer lending like <http://www.lendingclub.com> and <http://www.prosper.com>
 
 ## Accounting Software
 
