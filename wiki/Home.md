@@ -66,7 +66,6 @@ This page is a place to submit and talk about various ideas about the [HackerSpa
 <li><a href="SurveyOfPrices"> Survey Of Subscription Fees</a></li>
 <li><a href="Finances">Finances</a></li>
 <li><a href="Wishlist">Wishlist</a></li>
-<li><a href="Info-on-Membership">Info on Membership</a></li>
 </ul>
 <h3 id="continued_success">Continued Success</h3>
 <ul>
