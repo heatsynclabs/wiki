@@ -55,3 +55,7 @@ These are the parts we still need. Perhaps you can help?
 | Studding (threaded rod) -BZP M8 (8mm diameter) at least 9 meters | ? | Lowes, Home Depot |
 | Misc - oil, box cutter blades, cable ties, more? | ? | Lowes, Home Depot |
 | **Total** | **?** | '''''' |
+
+## Build Plan
+
+Sorting parts into 'kits' (whole lotta parts to sort) Soldering - 2 or 3 stations probably (12 boards of various complexity) Testing Extruder building - going to be dependent on us getting prototyped parts in time Mechanical construction - going to be dependent on us getting prototyped parts in time
