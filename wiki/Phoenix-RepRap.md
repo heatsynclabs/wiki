@@ -22,26 +22,36 @@ Below is their how to section on building a "Mendel" version of the RepRap:\
 
 ## Budget
 
-I just pulled the costs in Euros directly from the RepRap "Mendel" wiki. We'll need to convert and update this with parts we may be able to pick up locally or in country as well as their dollar figures.
+This is a tally of costs so far, and providers used. You can see the original estimate on the rep rap site of \$520 was rather low. With all the various shipping charges (plus we got 15lbs of plastic) we will likely almost double this. They also do not mention the impossibility of finding the prototyped/printed parts for the rep rap. They are approximately 100 hours to print and thus we've found few rep rap/makerbot owners willing or able to print those parts for us. These parts can also be rapid prototyped for around \$1500 dollars which is slightly more than the advertised \$20 dollars.
+
+Located Parts
 
 |  |  |  |
 |----|----|----|
-| **Cost type** | **UK estimate** | **Notes** |
-| Bar | £11.19 | RS |
-| Bearings | £31.20 | RS |
-| Belt | £23.33 | RS |
-| Extruder parts | £15.00 | Estimate |
-| Fasteners | £22.09 | Orbital Fasteners |
-| Motors | £51.66 | Assumes 4x NEMA 17s (www.motioncontrolproducts.co.uk) +delivery |
-| PCB/Electronics | £110.00 | Zach\\'s Gen3 electronics |
-| Thin sheet | £0.00 | Beer can |
-| RP | £20.00 | Assumes no commission |
-| Thick sheet | £20.00 | Estimate |
-| Studding | £11.65 | RS |
-| **Total** | **£309.33** | **+ Motor delivery** |
+| **Item** | **US cost** | **Notes** |
+| Bearings | \$76.14 shipped | TheBigBearingStore.com |
+| Fasteners | 109.20 | Mcmaster.com |
+| Belt | see Fasteners | Mcmaster.com |
+| Extruder parts(machined) | \$32.40 shipped | reifsnyderb on rep rap forums |
+| Motors | 302.85 shipped | Store.Makerbot.com |
+| Plastic Stock | See motors | Store.Makerbot.com |
+| PCBs | See Motors | Makerbot |
+| Electronics | 169.16 | Parted out from Digikey, Allied,Arrow,Newark and Mouser |
+| **Total** | **£689.74** | '''''' |
 
-The below image breakdown was created before they updated the above with Orbital Fasteners and different motors to lower the cost to £309.33.
+## NEEDED PARTS
 
-![](files/Cost-breakdown.PNG)
+These are the parts we still need. Perhaps you can help?
 
-*Cost-breakdown.PNG*
+|  |  |  |
+|----|----|----|
+| **Item** | **US cost** | **Notes** |
+| 12 PC or laptop Power Supply | ? | Scrap - You? |
+| Thin sheet less than 2mm thick and at least 8cmx5cm | ? | Beer can? |
+| Printed Parts | ? | Laser Cut, Rapid Prototyped, or Printed? |
+| Bar (smooth rod) BZP NOT BMS A2 Steel even better - at least 3m - M8 (8mm diameter) | ? | Lowes, Home Depot |
+| Extruder parts pcb strip board, epoxy glue(Araldite rapid), Kapton tape, 6-ohm length of fibreglass-insulated nichrome wire,heatshrink tubing, silicon grease | ? | Lowes, Home Depot |
+| Thick sheet MDF, between 4mm and 6mm and at least 42cmx40cm | ? | Lowes, Home Depot |
+| Studding (threaded rod) -BZP M8 (8mm diameter) at least 9 meters | ? | Lowes, Home Depot |
+| Misc - oil, box cutter blades, cable ties, more? | ? | Lowes, Home Depot |
+| **Total** | **?** | '''''' |
