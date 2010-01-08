@@ -31,3 +31,7 @@ And amount of time for membership:
 - Room is for doing projects...not chilling on laptops and hanging out.
 - Rules for area that is rented out. What are the restrictions: Noise, led signs, fire access stuff, rents restrictions, neighbors, time restrictions
 - Guest are fine, but don’t let anyone live there. Kick them out if necessary.
+
+### Info On
+
+- <http://www.interlockroc.org/wiki/images/e/e1/Interlock_application.pdf> --- application from Rochester hackerspace.
