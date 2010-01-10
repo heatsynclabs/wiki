@@ -28,7 +28,7 @@ And amount of time for membership:
 
 ### Rules
 
-- Room is for doing projects...not chilling on laptops and hanging out.
+- Room is for doing projects -- be courteous with the space.
 - Rules for area that is rented out. What are the restrictions: Noise, led signs, fire access stuff, rents restrictions, neighbors, time restrictions
 - Guest are fine, but don’t let anyone live there. Kick them out if necessary.
 
