@@ -35,3 +35,4 @@ And amount of time for membership:
 ### Info On
 
 - <http://www.interlockroc.org/wiki/images/e/e1/Interlock_application.pdf> --- application from Rochester hackerspace.
+- <http://www.gumbolabs.org/membership/> --- membership guidelines for Louisana hackerspace (secretary contacted 1/9/10)
