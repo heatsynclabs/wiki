@@ -37,6 +37,10 @@ Located Parts
 | Plastic Stock | See motors | Store.Makerbot.com |
 | PCBs | See Motors | Makerbot |
 | Electronics | 169.16 | Parted out from Digikey, Allied,Arrow,Newark and Mouser |
+| Thick sheet MDF, between 4mm and 6mm and at least 42cmx40cm | 57.15 | Lowes |
+| Bar (smooth rod) BZP NOT BMS A2 Steel even better - at least 3m - M8 (8mm diameter) | See Thick Sheet | Lowes |
+| Studding (threaded rod) -BZP M8 (8mm diameter) at least 9 meters | See Thick Sheet | Lowes |
+| epoxy,ties | See Thick Sheet | Lowes |
 | **Total** | **£689.74** | '''''' |
 
 ## NEEDED PARTS
@@ -49,11 +53,8 @@ These are the parts we still need. Perhaps you can help?
 | 12 PC or laptop Power Supply | ? | Scrap - You? |
 | Thin sheet less than 2mm thick and at least 8cmx5cm | ? | Beer can? |
 | Printed Parts | ? | Laser Cut, Rapid Prototyped, or Printed? |
-| Bar (smooth rod) BZP NOT BMS A2 Steel even better - at least 3m - M8 (8mm diameter) | ? | Lowes, Home Depot |
-| Extruder parts pcb strip board, epoxy glue(Araldite rapid), Kapton tape, 6-ohm length of fibreglass-insulated nichrome wire,heatshrink tubing, silicon grease | ? | Lowes, Home Depot |
-| Thick sheet MDF, between 4mm and 6mm and at least 42cmx40cm | ? | Lowes, Home Depot |
-| Studding (threaded rod) -BZP M8 (8mm diameter) at least 9 meters | ? | Lowes, Home Depot |
-| Misc - oil, box cutter blades, cable ties, more? | ? | Lowes, Home Depot |
+| Extruder parts pcb strip board, Kapton tape, 6-ohm length of fibreglass-insulated nichrome wire,heatshrink tubing, silicon grease | ? | Lowes, Home Depot |
+| Misc - oil, box cutter blades, more? | ? | Lowes, Home Depot |
 | **Total** | **?** | '''''' |
 
 ## Build Plan
