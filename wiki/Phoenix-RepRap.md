@@ -53,7 +53,7 @@ These are the parts we still need. Perhaps you can help?
 | 12 PC or laptop Power Supply | ? | Scrap - You? |
 | Thin sheet less than 2mm thick and at least 8cmx5cm | ? | Beer can? |
 | Printed Parts | ? | Laser Cut, Rapid Prototyped, or Printed? |
-| Extruder parts pcb strip board, Kapton tape, 6-ohm length of fibreglass-insulated nichrome wire,heatshrink tubing, silicon grease | ? | Lowes, Home Depot |
+| Extruder parts pcb strip board, Kapton tape, 6-ohm length of fibreglass-insulated nichrome wire,heatshrink tubing, silicon grease | ? | Grainger, Frys,? |
 | Misc - oil, box cutter blades, more? | ? | Lowes, Home Depot |
 | **Total** | **?** | '''''' |
 
