@@ -15,3 +15,4 @@ Feel free to brainstorm here on fund raising ideas. Also, we're using this space
 - ColdStone Night, Movie Theater Night? - Choose local companies and be able to consistently bring 30-50 people to them or something.
 - Bid on a Geek - Geek for a Night
 - Competitions
+- Sell Make Subscriptions: <http://blog.makezine.com/archive/2010/01/make_money_for_your_club_or_organiz.html>
