@@ -6,6 +6,7 @@
 <th><p>Image</p></th>
 <th><p>Description</p></th>
 <th><p>Printed By</p></th>
+<th><p>Status</p></th>
 </tr>
 </thead>
 <tbody>
@@ -22,6 +23,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>1.71 cc.</strong><br />
 </p></td>
 <td></td>
+<td><p><font color="red">Needed</font></p></td>
 </tr>
 <tr>
 <td><p>bed-spring</p></td>
@@ -34,6 +36,7 @@ The total distance traveled is 10658.3 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>1.22 cc.</strong><br />
 </p></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -49,6 +52,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>7.42 cc</strong>.<br />
 </p></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td><p>belt-split-jig-spacer</p></td>
@@ -62,6 +66,7 @@ The total distance traveled is 4781.7 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>0.802 cc</strong>.<br />
 </p></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -77,6 +82,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>1.53 cc</strong>.<br />
 </p></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td><p>circuit-spacer-3mm</p></td>
@@ -89,6 +95,7 @@ The total distance traveled is 14093.0 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>2.18 cc</strong>.<br />
 </p></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -104,6 +111,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>2.18 cc</strong>.<br />
 </p></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td><p>drive-pulley</p></td>
@@ -118,6 +126,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>1.56 cc</strong>.<br />
 </p></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td><p>frame-vertex</p></td>
@@ -130,6 +139,7 @@ The total distance traveled is 115149.4 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>16.7 cc</strong>.<br />
 </p></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -145,6 +155,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>7.42 cc</strong>.<br />
 </p></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td><p>x-360-z-bearing-mir</p></td>
@@ -158,6 +169,7 @@ The total distance traveled is 13720.7 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>1.95 cc</strong>.<br />
 </p></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -173,6 +185,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>1.94 cc</strong>.<br />
 </p></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td><p>x-axis-side-plate-nut</p></td>
@@ -186,6 +199,7 @@ The total distance traveled is 18085.3 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>2.6 cc</strong>.<br />
 </p></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -201,6 +215,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>2.11 cc</strong>.<br />
 </p></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td><p>x-cable-clamp</p></td>
@@ -214,6 +229,7 @@ The total distance traveled is 2514.5 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>0.342 cc</strong>.<br />
 </p></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -229,6 +245,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>1.4 cc</strong>.<br />
 </p></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td><p>x-carriage-upper</p></td>
@@ -242,6 +259,7 @@ The total distance traveled is 119035.3 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>17.4 cc</strong>.<br />
 </p></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -257,6 +275,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>12.0 cc</strong>.<br />
 </p></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td><p>xlr-bracket</p></td>
@@ -270,6 +289,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>5.97 cc</strong>.<br />
 </p></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td><p>x-motor-bracket-space</p></td>
@@ -282,6 +302,7 @@ The total distance traveled is 7245.7 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>1.27 cc</strong>.<br />
 </p></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -297,6 +318,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>2.0 cc</strong>.<br />
 </p></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td><p>x-vert-side-plate360</p></td>
@@ -310,6 +332,7 @@ The total distance traveled is 46543.8 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>7.34 cc</strong>.<br />
 </p></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -325,6 +348,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>4.62 cc</strong>.<br />
 </p></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td><p>y-bar-clamp</p></td>
@@ -337,6 +361,7 @@ The total distance traveled is 21128.8 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>3.08 cc</strong>.<br />
 </p></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -352,6 +377,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>4.34 cc</strong>.<br />
 </p></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td><p>y-bearing-180-outer-l</p></td>
@@ -365,6 +391,7 @@ The total distance traveled is 35782.8 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>5.37 cc</strong>.<br />
 </p></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -380,6 +407,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>5.45 cc</strong>.<br />
 </p></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td><p>y-bearing-360-inner</p></td>
@@ -393,6 +421,7 @@ The total distance traveled is 56159.9 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>8.41 cc</strong>.<br />
 </p></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -408,6 +437,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>9.45 cc</strong>.<br />
 </p></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td><p>y-bearing-360-outer-r</p></td>
@@ -422,6 +452,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>9.45 cc</strong>.<br />
 </p></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td><p>y-belt-clamp</p></td>
@@ -435,6 +466,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>1.24 cc</strong>.<br />
 </p></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td><p>y-idler-bracket</p></td>
@@ -447,6 +479,7 @@ The total distance traveled is 66224.6 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>10.3 cc</strong>.<br />
 </p></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -462,6 +495,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>22.5 cc</strong>.<br />
 </p></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td><p>z-bar-top-clamp</p></td>
@@ -474,6 +508,7 @@ The total distance traveled is 30990.1 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>4.9 cc</strong>.<br />
 </p></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -489,6 +524,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>1.9 cc</strong>.<br />
 </p></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td><p>z-drive-pulley-rim</p></td>
@@ -503,6 +539,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>0.546 cc</strong>.<br />
 </p></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td><p>z-leadscrew-base</p></td>
@@ -516,6 +553,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>30.2 cc</strong>.<br />
 </p></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td><p>z-leadscrew-base-cl</p></td>
@@ -528,6 +566,7 @@ The total distance traveled is 24470.4 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>3.86 cc</strong>.<br />
 </p></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -543,6 +582,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>22.0 cc</strong>.<br />
 </p></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td><p>z-opto-bracket</p></td>
@@ -557,6 +597,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>1.43 cc</strong>.<br />
 </p></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td><p>z-tensioner</p></td>
@@ -569,6 +610,7 @@ The total distance traveled is 117950.4 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>18.7 cc</strong>.<br />
 </p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
