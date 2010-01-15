@@ -1,3 +1,9 @@
+Below is a list of the parts that need to be printed out to help support the Rep/Rap that we are creating. Parties with rapid prototypers that would like to help us out please claim a part by adding yourself to the "Printed By" column entry for the part you are printing. Also, please change the status column for the part accordingly. Parts can be in the following states:
+
+- **<font color="FF0000">Needs Printing</font>**
+- **<font color="0000FF">Printing</font>**
+- **<font color="00FF00">Done</font>**
+
 <table>
 <thead>
 <tr>
@@ -23,7 +29,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>1.71 cc.</strong><br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>bed-spring</p></td>
@@ -37,7 +43,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>1.22 cc.</strong><br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>belt-split-jig-bracke</p></td>
@@ -52,7 +58,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>7.42 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>belt-split-jig-spacer</p></td>
@@ -67,7 +73,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>0.802 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>circuit-board-bracket</p></td>
@@ -82,7 +88,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>1.53 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>circuit-spacer-3mm</p></td>
@@ -96,7 +102,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>2.18 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>circuit-spacer-4mm</p></td>
@@ -111,7 +117,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>2.18 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>drive-pulley</p></td>
@@ -126,7 +132,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>1.56 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>frame-vertex</p></td>
@@ -140,7 +146,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>16.7 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>x-180-z-bearing-plate</p></td>
@@ -155,7 +161,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>7.42 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>x-360-z-bearing-mir</p></td>
@@ -170,7 +176,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>1.95 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>x-360-z-bearing-plate</p></td>
@@ -185,7 +191,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>1.94 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>x-axis-side-plate-nut</p></td>
@@ -200,7 +206,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>2.6 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>x-bar-clamp-m3</p></td>
@@ -215,7 +221,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>2.11 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>x-cable-clamp</p></td>
@@ -230,7 +236,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>0.342 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>x-carriage-lower</p></td>
@@ -245,7 +251,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>1.4 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>x-carriage-upper</p></td>
@@ -260,7 +266,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>17.4 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>x-end-bracket</p></td>
@@ -275,7 +281,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>12.0 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>xlr-bracket</p></td>
@@ -289,7 +295,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>5.97 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>x-motor-bracket-space</p></td>
@@ -303,7 +309,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>1.27 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>x-vert-drive-nut-trap</p></td>
@@ -318,7 +324,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>2.0 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>x-vert-side-plate360</p></td>
@@ -333,7 +339,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>7.34 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>x-vert-side-plate-180</p></td>
@@ -348,7 +354,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>4.62 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>y-bar-clamp</p></td>
@@ -362,7 +368,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>3.08 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>y-bearing-180-inner</p></td>
@@ -377,7 +383,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>4.34 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>y-bearing-180-outer-l</p></td>
@@ -392,7 +398,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>5.37 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>y-bearing-180-outer-r</p></td>
@@ -407,7 +413,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>5.45 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>y-bearing-360-inner</p></td>
@@ -422,7 +428,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>8.41 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>y-bearing-360-outer-l</p></td>
@@ -437,7 +443,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>9.45 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>y-bearing-360-outer-r</p></td>
@@ -452,7 +458,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>9.45 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>y-belt-clamp</p></td>
@@ -466,7 +472,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>1.24 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>y-idler-bracket</p></td>
@@ -480,7 +486,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>10.3 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>y-motor-bracket</p></td>
@@ -495,7 +501,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>22.5 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>z-bar-top-clamp</p></td>
@@ -509,7 +515,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>4.9 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>z-driven-pulley</p></td>
@@ -524,7 +530,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>1.9 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>z-drive-pulley-rim</p></td>
@@ -539,7 +545,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>0.546 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>z-leadscrew-base</p></td>
@@ -553,7 +559,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>30.2 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>z-leadscrew-base-cl</p></td>
@@ -567,7 +573,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>3.86 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>z-motor-bracket</p></td>
@@ -582,7 +588,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>22.0 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>z-opto-bracket</p></td>
@@ -597,7 +603,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>1.43 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>z-tensioner</p></td>
@@ -611,7 +617,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>18.7 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="FF0000">Needs Printing</font></strong></p></td>
 </tr>
 </tbody>
 </table>
