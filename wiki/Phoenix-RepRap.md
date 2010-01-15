@@ -24,7 +24,7 @@ Below is their how to section on building a "Mendel" version of the RepRap:\
 
 This is a tally of costs so far, and providers used. You can see the original estimate on the rep rap site of \$520 was rather low. With all the various shipping charges (plus we got 15lbs of plastic) we will likely almost double this. They also do not mention the impossibility of finding the prototyped/printed parts for the rep rap. They are approximately 100 hours to print and thus we've found few rep rap/makerbot owners willing or able to print those parts for us. These parts can also be rapid prototyped for around \$1500 dollars which is slightly more than the advertised \$20 dollars.
 
-Located Parts
+### Located Parts
 
 |  |  |  |
 |----|----|----|
