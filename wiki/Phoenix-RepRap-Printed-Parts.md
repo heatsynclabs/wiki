@@ -2,7 +2,7 @@ Below is a list of the parts that need to be printed out to help support the Rep
 
 - **<font color="#FF0000">Needs Printing</font>**
 - **<font color="#0000FF">Printing</font>**
-- **<font color="#00FF00">Done</font>**
+- **<font color="#33FF00">Done</font>**
 
 <table>
 <thead>
