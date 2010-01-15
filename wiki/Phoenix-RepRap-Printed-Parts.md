@@ -6,7 +6,7 @@ Below is a list of the parts that need to be printed out to help support the Rep
 
 Solid model files for the cartesian robot parts listed below can be found [here.](https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/)
 
-Solid model files for the printed parts of the Mendel extruder are available[here.](https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/extruders/pinch-wheel/wedge-604/)
+Solid model files for the printed parts of the Mendel extruder are available [here.](https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/extruders/pinch-wheel/wedge-604/)
 
 <table>
 <thead>
