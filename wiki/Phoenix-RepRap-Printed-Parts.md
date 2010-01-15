@@ -23,7 +23,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>1.71 cc.</strong><br />
 </p></td>
 <td></td>
-<td><p><font color="red">Needs Printing</font></p></td>
+<td><p><strong><font color="red">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>bed-spring</p></td>
