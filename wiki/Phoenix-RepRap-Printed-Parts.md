@@ -22,7 +22,7 @@ Solid model files for the printed parts of the Mendel extruder are available [he
 </thead>
 <tbody>
 <tr>
-<td><p>bed-height-spacer-31m</p></td>
+<td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/bed-height-spacer-31mm_1off.stl">bed-height-spacer-31m</a></p></td>
 <td><p>1</p></td>
 <td><img src="files/01mendel-ABS_solid-bed-height-spacer-31m.jpg" />
 <p><em>01mendel-ABS_solid-bed-height-spacer-31m.jpg</em></p></td>
