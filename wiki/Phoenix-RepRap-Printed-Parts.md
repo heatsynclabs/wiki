@@ -4,7 +4,7 @@ Below is a list of the parts that need to be printed out to help support the Rep
 - **<font color="#0000FF">Printing</font>**
 - **<font color="#33FF00">Done</font>**
 
-Solid model files for the cartesian robot parts listed below can be found [ here.](https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/)
+Solid model files for the cartesian robot parts listed below can be found [here.](https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/)
 
 <table>
 <thead>
