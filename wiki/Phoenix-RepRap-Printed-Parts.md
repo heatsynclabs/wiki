@@ -1,8 +1,8 @@
 Below is a list of the parts that need to be printed out to help support the Rep/Rap that we are creating. Parties with rapid prototypers that would like to help us out please claim a part by adding yourself to the "Printed By" column entry for the part you are printing. Also, please change the status column for the part accordingly. Parts can be in the following states:
 
 - **<font color="#FF0000">Needs Printing</font>**
-- **<font color="0000FF">Printing</font>**
-- **<font color="00FF00">Done</font>**
+- **<font color="#0000FF">Printing</font>**
+- **<font color="#00FF00">Done</font>**
 
 <table>
 <thead>
