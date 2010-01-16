@@ -55,7 +55,7 @@ These are the parts we still need. Perhaps you can help?
 | **Item** | **US cost** | **Notes** |
 | Thin sheet less than 2mm thick and at least 8cmx5cm | ? | Beer can? |
 | [Printed Parts](Phoenix-RepRap-Printed-Parts) | ? | Laser Cut, Rapid Prototyped, or Printed? |
-| Extruder parts - 6-ohm length of fibreglass-insulated nichrome wire, | ? | Anything local? anything? |
+| Extruder parts - 6-ohm length of fibreglass-insulated nichrome wire, | .50+shipping | <http://store.makerbot.com/nichrome-wire-31-ga.html> |
 | Misc - oil, box cutter blades, more? | ? | Lowes, Home Depot |
 | **Total** | **?** | '''''' |
 
