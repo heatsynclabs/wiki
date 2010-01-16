@@ -9,6 +9,8 @@ Solid model files for the cartesian robot parts listed below can be found [here.
 
 Solid model files for the printed parts of the Mendel extruder are available [here.](https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/extruders/pinch-wheel/wedge-604/)
 
+Search for the part name on the pages linked above and then select the appropriate file format to print.
+
 <table>
 <thead>
 <tr>
