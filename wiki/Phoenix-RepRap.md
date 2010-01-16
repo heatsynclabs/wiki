@@ -43,6 +43,7 @@ This is a tally of costs so far, and providers used. You can see the original es
 | epoxy,ties | See Thick Sheet | Lowes |
 | silicon grease, kapton tape | ~47.36 | Grainger |
 | pcb strip board, heatshrink tubing, | n/a | Scrap |
+| 12 PC or laptop Power Supply | n/a | Multiple units donated by various members |
 | **Total** | **\$794.26** | '''''' |
 
 ## NEEDED PARTS
