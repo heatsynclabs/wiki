@@ -315,8 +315,8 @@ The total distance traveled is 7245.7 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>1.27 cc</strong>.<br />
 </p></td>
-<td></td>
-<td><p><strong><font color="#FF0000">Needs Printing</font></strong></p></td>
+<td><p><strong><font color="#0000FF">RJS</font></strong></p></td>
+<td><p><strong><font color="#0000FF">Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>x-vert-drive-nut-trap</p></td>
