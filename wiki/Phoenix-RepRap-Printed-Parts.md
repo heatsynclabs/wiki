@@ -39,7 +39,7 @@ The volume extruded is <strong>1.71 cc.</strong><br />
 <td><p><strong><font color="#FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
-<td><p>bed-spring</p></td>
+<td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/bed-spring_4off.stl">bed-spring</a></p></td>
 <td><p>4</p></td>
 <td><p><img src="files/02mendel-ABS_solid-bed-spring.jpg" alt="02mendel-ABS_solid-bed-spring.jpg" /><img src="files/Bed-printed-parts.PNG" alt="Bed-printed-parts.PNG" /></p></td>
 <td><p>The text has 17300 lines and a size of 569.0 KB.<br />
@@ -53,7 +53,7 @@ The volume extruded is <strong>1.22 cc.</strong><br />
 <td><p><strong><font color="#FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
-<td><p>belt-split-jig-bracke</p></td>
+<td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/belt-split-jig-bracket-universal_2off.stl">belt-split-jig-bracket</a></p></td>
 <td></td>
 <td><img src="files/03mendel-ABS_solid-belt-split-jig-bracke.jpg" />
 <p><em>03mendel-ABS_solid-belt-split-jig-bracke.jpg</em></p></td>
@@ -83,7 +83,7 @@ The volume extruded is <strong>0.802 cc</strong>.<br />
 <td><p><strong><font color="#FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
-<td><p>circuit-board-bracket</p></td>
+<td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/circuit-board-bracket-m3_4off.stl">circuit-board-bracket</a></p></td>
 <td><p>4</p></td>
 <td><img src="files/05mendel-ABS_solid-circuit-board-bracket.jpg" />
 <p><em>05mendel-ABS_solid-circuit-board-bracket.jpg</em></p></td>
@@ -98,7 +98,7 @@ The volume extruded is <strong>1.53 cc</strong>.<br />
 <td><p><strong><font color="#FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
-<td><p>circuit-spacer-3mm</p></td>
+<td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/circuit-board-spacer-m4_2off.stl">circuit-spacer-3mm</a></p></td>
 <td><p>4</p></td>
 <td><p>|<img src="files/06mendel-ABS_solid-circuit-spacer-3mm.jpg" alt="06mendel-ABS_solid-circuit-spacer-3mm.jpg" /><img src="files/Installing-circuit-board-top-printed-parts.PNG" alt="Installing-circuit-board-top-printed-parts.PNG" /></p></td>
 <td><p>The text has 15921 lines and a size of 476.0 KB.<br />
@@ -127,7 +127,7 @@ The volume extruded is <strong>2.18 cc</strong>.<br />
 <td><p><strong><font color="#FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
-<td><p>drive-pulley</p></td>
+<td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/drive-pulley_3off.stl">drive-pulley</a></p></td>
 <td><p>3</p></td>
 <td><img src="files/08mendel-ABS_solid-drive-pulley.jpg" />
 <p><em>08mendel-ABS_solid-drive-pulley.jpg</em></p></td>
@@ -142,7 +142,7 @@ The volume extruded is <strong>1.56 cc</strong>.<br />
 <td><p><strong><font color="#0000FF">Printing</font></strong></p></td>
 </tr>
 <tr>
-<td><p>frame-vertex</p></td>
+<td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/frame-vertex_6off.stl">frame-vertex</a></p></td>
 <td><p>6</p></td>
 <td><p><img src="files/09mendel-ABS_solid-frame-vertex.jpg" alt="09mendel-ABS_solid-frame-vertex.jpg" /><img src="files/Frame-side-printed-parts.PNG" alt="Frame-side-printed-parts.PNG" /></p></td>
 <td><p>The text has 62975 lines and a size of 1932.0 KB.<br />
@@ -166,7 +166,7 @@ The volume extruded is <strong>16.7 cc</strong>.<br />
 <td><p><strong><font color="#0000FF">Printing</font></strong></p></td>
 </tr>
 <tr>
-<td><p>x-180-z-bearing-plate</p></td>
+<td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/x-180-z-bearing-plate_2off.stl">x-180-z-bearing-plate</a></p></td>
 <td><p>2</p></td>
 <td><img src="files/10mendel-ABS_solid-x-180-z-bearing-plate.jpg" />
 <p><em>10mendel-ABS_solid-x-180-z-bearing-plate.jpg</em></p></td>
@@ -181,7 +181,7 @@ The volume extruded is <strong>7.42 cc</strong>.<br />
 <td><p><strong><font color="#FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
-<td><p>x-360-z-bearing-mir</p></td>
+<td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/x-360-z-bearing-plate-mirror_2off.stl">x-360-z-bearing-mir</a></p></td>
 <td><p>2</p></td>
 <td><img src="files/11mendel-ABS_solid-x-360-z-bearing-mir.jpg" />
 <p><em>11mendel-ABS_solid-x-360-z-bearing-mir.jpg</em></p></td>
@@ -196,7 +196,7 @@ The volume extruded is <strong>1.95 cc</strong>.<br />
 <td><p><strong><font color="#FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
-<td><p>x-360-z-bearing-plate</p></td>
+<td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/x-360-z-bearing-plate_2off.stl">x-360-z-bearing-plate</a></p></td>
 <td><p>2</p></td>
 <td><img src="files/12mendel-ABS_solid-x-360-z-bearing-plate.jpg" />
 <p><em>12mendel-ABS_solid-x-360-z-bearing-plate.jpg</em></p></td>
@@ -211,7 +211,7 @@ The volume extruded is <strong>1.94 cc</strong>.<br />
 <td><p><strong><font color="#FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
-<td><p>x-axis-side-plate-nut</p></td>
+<td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/x-axis-side-plate-nut-jig_2off.stl">x-axis-side-plate-nut</a></p></td>
 <td><p>2</p></td>
 <td><img src="files/13mendel-ABS_solid-x-axis-side-plate-nut.jpg" />
 <p><em>13mendel-ABS_solid-x-axis-side-plate-nut.jpg</em></p></td>
