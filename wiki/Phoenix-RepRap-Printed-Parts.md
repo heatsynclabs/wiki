@@ -156,6 +156,16 @@ The volume extruded is <strong>16.7 cc</strong>.<br />
 <td><p><strong><font color="#FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
+<td><p>pinch-wheel-bracket(for extruder)</p></td>
+<td><p>1</p></td>
+<td><img src="files/Extruder-printed-parts.png" />
+<p><em>Extruder-printed-parts.png</em></p></td>
+<td><p>The total build time is <strong>7378 s =~ 2 h 40 mins</strong>.<br />
+</p></td>
+<td></td>
+<td><p><strong><font color="#0000FF">Printing</font></strong></p></td>
+</tr>
+<tr>
 <td><p>x-180-z-bearing-plate</p></td>
 <td><p>2</p></td>
 <td><img src="files/10mendel-ABS_solid-x-180-z-bearing-plate.jpg" />
