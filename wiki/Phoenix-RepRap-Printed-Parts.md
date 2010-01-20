@@ -226,7 +226,7 @@ The volume extruded is <strong>2.6 cc</strong>.<br />
 <td><p><strong><font color="#FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
-<td><p>x-bar-clamp-m3</p></td>
+<td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/x-bar-clamp-m3_6off.stl">x-bar-clamp-m3</a></p></td>
 <td><p>6</p></td>
 <td><img src="files/14mendel-ABS_solid-x-bar-clamp-m3.jpg" />
 <p><em>14mendel-ABS_solid-x-bar-clamp-m3.jpg</em></p></td>
@@ -241,7 +241,22 @@ The volume extruded is <strong>2.11 cc</strong>.<br />
 <td><p><strong><font color="#FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
-<td><p>x-cable-clamp</p></td>
+<td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/x-bar-clamp-m4_4off.stl">x-bar-clamp-m4</a></p></td>
+<td><p>6</p></td>
+<td><img src="files/14mendel-ABS_solid-x-bar-clamp-m3.jpg" />
+<p><em>14mendel-ABS_solid-x-bar-clamp-m3.jpg</em></p></td>
+<td><p>The text has 10400 lines and a size of 313.0 KB.<br />
+The total build time is <strong>837 s =~</strong>.<br />
+The total distance extruded is 10722.6 mm.<br />
+The total distance traveled is 13377.8 mm.<br />
+The version is 2009-10-14<br />
+The volume extruded is <strong>2.11 cc</strong>.<br />
+</p></td>
+<td></td>
+<td><p><strong><font color="#FF0000">Needs Printing</font></strong></p></td>
+</tr>
+<tr>
+<td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/x-cable-clamp_1off.stl">x-cable-clamp</a></p></td>
 <td><p>4</p></td>
 <td><img src="files/15mendel-ABS_solid-x-cable-clamp.jpg" />
 <p><em>15mendel-ABS_solid-x-cable-clamp.jpg</em></p></td>
