@@ -162,7 +162,7 @@ The volume extruded is <strong>16.7 cc</strong>.<br />
 <p><em>Extruder-printed-parts.png</em></p></td>
 <td><p>The total build time is <strong>7378 s =~ 2 h 40 mins</strong>.<br />
 </p></td>
-<td></td>
+<td><p>UAT</p></td>
 <td><p><strong><font color="#0000FF">Printing</font></strong></p></td>
 </tr>
 <tr>
