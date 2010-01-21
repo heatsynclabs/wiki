@@ -592,8 +592,8 @@ The total distance traveled is 194191.2 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>30.2 cc</strong>.<br />
 </p></td>
-<td><p>UAT</p></td>
-<td><p><strong><font color="#0000FF">Printing</font></strong></p></td>
+<td><p><strong>UAT</strong></p></td>
+<td><p><strong><font color="#FFFF33">Awaiting Pickup</font></strong></p></td>
 </tr>
 <tr>
 <td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/z-leadscrew-base-bar-clamp_2off.stl">z-leadscrew-base-cl</a></p></td>
