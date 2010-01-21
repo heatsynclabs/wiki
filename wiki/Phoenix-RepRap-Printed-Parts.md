@@ -68,7 +68,7 @@ The volume extruded is <strong>7.42 cc</strong>.<br />
 <td><p><strong><font color="#FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
-<td><p>belt-split-jig-spacer</p></td>
+<td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/belt-width-adjuster_1off.stl">belt-split-jig-spacer</a></p></td>
 <td></td>
 <td><img src="files/04mendel-ABS_solid-belt-split-jig-spacer.jpg" />
 <p><em>04mendel-ABS_solid-belt-split-jig-spacer.jpg</em></p></td>
