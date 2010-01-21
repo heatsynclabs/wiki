@@ -112,7 +112,7 @@ The volume extruded is <strong>2.18 cc</strong>.<br />
 <td><p><strong><font color="#FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
-<td><p>circuit-spacer-4mm</p></td>
+<td><p>circuit-spacer-4mm(same .stl from above...resized from 3mm to 4mm)</p></td>
 <td><p>2</p></td>
 <td><img src="files/07mendel-ABS_solid-circuit-spacer-4mm.jpg" />
 <p><em>07mendel-ABS_solid-circuit-spacer-4mm.jpg</em></p></td>
