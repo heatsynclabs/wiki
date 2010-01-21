@@ -156,7 +156,7 @@ The volume extruded is <strong>16.7 cc</strong>.<br />
 <td><p><strong><font color="#FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
-<td><p>pinch-wheel-bracket(for extruder)</p></td>
+<td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/extruders/pinch-wheel/wedge-604/pinch-wheel-bracket-NEMA17_604-bearing_1off.stl">pinch-wheel-bracket(for extruder)</a></p></td>
 <td><p>1</p></td>
 <td><img src="files/Extruder-printed-parts.png" />
 <p><em>Extruder-printed-parts.png</em></p></td>
