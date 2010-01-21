@@ -11,7 +11,7 @@ Solid model files for the printed parts of the Mendel extruder are available [he
 
 Search for the part name on the pages linked above and then select the appropriate file format to print.
 
-**Test print for UAT:**
+**Test print for UAT: [2 Parts](http://stl.heatsynclabs.org/2parts-1quadrant.stl)**
 
 <table>
 <thead>
