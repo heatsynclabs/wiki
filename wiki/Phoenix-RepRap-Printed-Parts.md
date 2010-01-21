@@ -591,7 +591,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>30.2 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p><strong><font color="#FF0000">Needs Printing</font></strong></p></td>
+<td><p>*<strong><font color="#0000FF">Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>z-leadscrew-base-cl</p></td>
