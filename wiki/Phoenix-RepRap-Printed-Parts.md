@@ -163,7 +163,7 @@ The volume extruded is <strong>16.7 cc</strong>.<br />
 <td><p>The total build time is <strong>7378 s =~ 2 h 40 mins</strong>.<br />
 </p></td>
 <td><p>UAT</p></td>
-<td><p><strong><font color="#0000FF">Printing</font></strong></p></td>
+<td><p><strong><font color="#FFFF33">Awaiting Pickup</font></strong></p></td>
 </tr>
 <tr>
 <td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/x-180-z-bearing-plate_2off.stl">x-180-z-bearing-plate</a></p></td>
@@ -591,7 +591,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>30.2 cc</strong>.<br />
 </p></td>
 <td></td>
-<td><p>*<strong><font color="#0000FF">Printing</font></strong></p></td>
+<td><p><strong><font color="#0000FF">Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>z-leadscrew-base-cl</p></td>
