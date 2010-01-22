@@ -619,7 +619,7 @@ The total distance traveled is 141882.2 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>22.0 cc</strong>.<br />
 </p></td>
-<td></td>
+<td><p><strong>UAT</strong></p></td>
 <td><p><strong><font color="#0000FF">Printing</font></strong></p></td>
 </tr>
 <tr>
@@ -648,7 +648,7 @@ The total distance traveled is 117950.4 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>18.7 cc</strong>.<br />
 </p></td>
-<td></td>
+<td><p><strong>UAT</strong></p></td>
 <td><p><strong><font color="#0000FF">Printing</font></strong></p></td>
 </tr>
 </tbody>
