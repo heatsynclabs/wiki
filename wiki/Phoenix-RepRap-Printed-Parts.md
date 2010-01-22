@@ -123,8 +123,8 @@ The total distance traveled is 14093.0 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>2.18 cc</strong>.<br />
 </p></td>
-<td></td>
-<td><p><strong><font color="#FF0000">Needs Printing</font></strong></p></td>
+<td><p><strong>KZL</strong></p></td>
+<td><p><strong><font color="#0000FF">Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/drive-pulley_3off.stl">drive-pulley</a></p></td>
