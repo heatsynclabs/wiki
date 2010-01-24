@@ -4,6 +4,15 @@ Put your favorite Arizona businesses/resources here for community reference! Ple
 
 Also, provide details of their services (maybe pricing, or even a short review) so it's easier to find the right resource for your specific project.
 
+### Auctions
+
+From Bankruptcy to Surplus to Seizure these are the local guys we've come across
+
+- [Auction AZ](http://www.auctionaz.com)
+- [ASU Surplus](http://surplus.asu.edu)
+- [Sierra Auctions](http://sierraauction.com/public_html/index.php)
+- [Auction Auction Systems Auctioneers & Appraisers, Inc.](http://www.auctionandappraise.com/home.html)
+
 ### Surplus
 
 #### Apache Reclamation
