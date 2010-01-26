@@ -94,7 +94,7 @@ The total distance traveled is 10337.0 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>1.53 cc</strong>.<br />
 </p></td>
-<td></td>
+<td><p><strong>UAT</strong></p></td>
 <td><p><strong><font color="#0000FF">Printing</font></strong></p></td>
 </tr>
 <tr>
@@ -108,8 +108,8 @@ The total distance traveled is 14093.0 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>2.18 cc</strong>.<br />
 </p></td>
-<td></td>
-<td><p><strong><font color="#FF0000">Needs Printing</font></strong></p></td>
+<td><p><strong>UAT</strong></p></td>
+<td><p><strong><font color="#0000FF">Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p>circuit-spacer-4mm(resized from 3mm to 4mm)</p></td>
