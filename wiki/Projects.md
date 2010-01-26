@@ -12,6 +12,10 @@ I am interested in seeing the actual set up of the hackerspace as a project in i
 
 - [Phoenix RepRap](Phoenix-RepRap)
 
+<!-- -->
+
+- [Magomatic V2](Magomatic-V2)
+
 ## Project Idea Wall
 
 ### Logistics
