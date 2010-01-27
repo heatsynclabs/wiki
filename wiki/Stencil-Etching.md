@@ -1,0 +1,11 @@
+- open original eagle file
+- show only top (or bottom) layer
+- ripup all traces
+- now you can print to pdf, make sure scale is one, monochrome, and mirror
+- take pdf and convert to png, 600 dpi will work
+- in Preview (Mac)you can inverse colors by going tools-\>adjust color and switching black and white level arrows on top to the other side
+- Now you'll want to create a white background and cut and paste out just your stencil (this way you don't print a ton of wasted black)
+- now follow [PCB_Etching](PCB-Etching)
+  - You'll want to seal with green
+  - etch as little stencil as you have to as every bit of copper you etch is wasted etchant(cut away unneccessary)
+  - but don't marker/cover over back of stencil. It needs to be able to etch through from the back as well
