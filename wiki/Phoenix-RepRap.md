@@ -62,3 +62,21 @@ These are the parts we still need. Perhaps you can help?
 ## Build Plan
 
 Sorting parts into 'kits' (whole lotta parts to sort) Soldering - 2 or 3 stations probably (12 boards of various complexity) Testing Extruder building - going to be dependent on us getting prototyped parts in time Mechanical construction - going to be dependent on us getting prototyped parts in time
+
+## Status
+
+- We have 2 extruder boards nearly done but both still need some dip soldering. We may need to locate one 1206 180Ohm resistor.. not sure yet.
+- Motherboard is nearly done but need to locate a 3v Voltage Regulator 78L33
+- Stepper Motors need to be reflowed yet. The stencil is ready! Will do at next meeting
+- Opto Endstops need their RJ45's Desoldered. Can handle at next meeting.
+- Need all cabling made.
+- Need Extruder constructed.
+- May be able to begin on some other construction. We have a good bit of plastic started. See above
+
+## Problems found in Rep Rap Instructions
+
+- No electrolytic cap for Mendel alterations to mobo in the parts list.
+- No 3v Voltage Regulator 78L33 for rep rap alterations to mobo in the parts list.
+- Extruder lists 180ohm 1206 resistor as not required... I think? Or is it?
+- Extruder page lists 5leds, but you actuall need 9. (were 9 in partlist it would seem) Led1 and Led9 are actually named Power and Debug.
+- Need better documentation on Mendel modifications to build process. We accidentally did a lot of soldering we had to desolder.
