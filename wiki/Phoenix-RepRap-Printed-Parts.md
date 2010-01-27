@@ -222,7 +222,7 @@ The total distance traveled is 18085.3 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>2.6 cc</strong>.<br />
 </p></td>
-<td></td>
+<td><p><strong>RJS</strong></p></td>
 <td><p><strong><font color="#0000FF">Printing</font></strong></p></td>
 </tr>
 <tr>
