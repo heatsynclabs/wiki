@@ -39,6 +39,6 @@ And amount of time for membership:
 - <http://www.alphaonelabs.com/wiki/index.php/Membership_Application>
 - <http://crashspace.pbworks.com/Member-Agreement> -- this is a more complete agreement than some of the others. It states the requirements for applying for membership and maintaining the status.
 - <http://www.houstonhackerspace.com/wiki/index.php/Membership> - more expensive membership. Also, asks that payments be made to individual. haha
-- <http://thetransistor.com/about-us/> -- another one that requires a referral by a current member
+- <http://thetransistor.com/about-us/> -- another one that requires a referral by a current member (contacted via thread 1/26/10)
 - <http://blog.cowtowncomputercongress.org/membership/> -- sister org to HacDc and PS:1
 - <https://www.noisebridge.net/wiki/Donate_or_Pay_Dues> -- this is from Noisebridge, the current non-profit hackspace
