@@ -46,6 +46,7 @@ This page is a place to submit and talk about various ideas about the [HackerSpa
 </div>
 <ul>
 <li><a href="Presentations">Presentations</a></li>
+<li><a href="Processes">Processes</a></li>
 <li><a href="Projects">Projects</a></li>
 <li><a href="How-To-Hackerspace"> Building a Hackerspace</a> (Ideas to bring in to HeatSync)</li>
 <li><a href="Marketing">Marketing</a></li>
