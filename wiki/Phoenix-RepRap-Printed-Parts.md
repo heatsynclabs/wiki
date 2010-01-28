@@ -268,7 +268,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>0.342 cc</strong>.<br />
 </p></td>
 <td><p><strong>RJS</strong></p></td>
-<td><p><strong><font color="#0000FF">Printing</font></strong></p></td>
+<td><p><strong><font color="#33FF00">Completed</font></strong></p></td>
 </tr>
 <tr>
 <td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/x-carriage-lower_1off.stl">x-carriage-lower</a></p></td>
