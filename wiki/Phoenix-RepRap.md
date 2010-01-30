@@ -80,3 +80,7 @@ Sorting parts into 'kits' (whole lotta parts to sort) Soldering - 2 or 3 station
 - Extruder lists 180ohm 1206 resistor as not required... I think? Or is it?
 - Extruder page lists 5leds, but you actuall need 9. (were 9 in partlist it would seem) Led1 and Led9 are actually named Power and Debug.
 - Need better documentation on Mendel modifications to build process. We accidentally did a lot of soldering we had to desolder.
+- A length of 10 conductor ribbon missing on partslist
+- No 6 conductor ribbon on the partslist
+- Partlist doesn't list the need for 2 color 2 conductor 8amp guaged wire for power
+- Partslist doesn't list the 3pin XLR connectors for power
