@@ -65,13 +65,10 @@ Sorting parts into 'kits' (whole lotta parts to sort) Soldering - 2 or 3 station
 
 ## Status
 
-- We have 2 extruder boards nearly done but both still need some dip soldering. We may need to locate one 1206 180Ohm resistor.. not sure yet.
-- Motherboard is nearly done but need to locate a 3v Voltage Regulator 78L33
-- Stepper Motors need to be reflowed yet. The stencil is ready! Will do at next meeting
-- Opto Endstops need their RJ45's Desoldered. Can handle at next meeting.
-- Need all cabling made.
+- We may need to locate one 1206 180Ohm resistor for extruder.. not sure yet.
+- Need half cabling made.
 - Need Extruder constructed.
-- May be able to begin on some other construction. We have a good bit of plastic started. See above
+- May be able to begin on some other construction. We have a good bit of plastic started (50%, see Plastic needed above)
 
 ## Problems found in Rep Rap Instructions
 
