@@ -3,7 +3,7 @@
 - Email: info@heatsynclabs.org
 - Facebook: Join our group at: <http://www.facebook.com/group.php?gid=108358112346>
 - IRC: \#heatsynclabs at irc.freenode.net
-- Twitter: Follow us using [custom essays](http://www.research-service.com/custom-essay-writing.html) @heatsynclabs
+- Twitter: Follow us using @heatsynclabs
 
 ## Feed from Twitter
 
