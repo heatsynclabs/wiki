@@ -57,6 +57,7 @@ These are the parts we still need. Perhaps you can help?
 | [Printed Parts](Phoenix-RepRap-Printed-Parts) | ? | Laser Cut, Rapid Prototyped, or Printed? |
 | Extruder parts - 6-ohm length of fibreglass-insulated nichrome wire, | .50+shipping | <http://store.makerbot.com/nichrome-wire-31-ga.html> |
 | Misc - oil, box cutter blades, more? | ? | Lowes, Home Depot |
+| FTDI | Free? | Burt? |
 | **Total** | **?** | '''''' |
 
 ## Build Plan
