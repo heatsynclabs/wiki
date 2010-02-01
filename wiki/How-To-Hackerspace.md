@@ -1,6 +1,6 @@
-## How To Create a Hackerspace
+## Hackerspace Survey
 
-How we did \[are doing\] it. Please submit links from the web here that we have found helpful in defining ourselves.
+Please submit links from the web here that we have found helpful in defining ourselves.
 
 - <http://hackerspaces.org/wiki/Metalab/Lessons_learned>
 - <http://odeo.com/episodes/24337669-Building-hacker-spaces-everywhere-Your-excuses-are-invalid>
