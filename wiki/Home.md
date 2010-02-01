@@ -23,6 +23,7 @@ This page is a place to submit and talk about various ideas about [HeatSyncLabs]
 <li><a href="Processes">Processes</a></li>
 <li><a href="Projects">Projects</a></li>
 <li><a href="Suggestions">Suggestions</a></li>
+<li><a href="Wishlish">Wishlish</a></li>
 </ul>
 <div style="margin:0;background-color:#e0ffe0;font-size:120%;font-weight:bold;border:1px solid #000;text-align:left;color:#000;padding:0.2em 0.4em;">
 <p>Noteworthy Resources</p>
@@ -62,6 +63,7 @@ This page is a place to submit and talk about various ideas about [HeatSyncLabs]
 <li><a href="Fundraising">Fundraising</a></li>
 <li><a href="Grants">Grants</a></li>
 </ul></li>
+<li><a href="Content">Content</a></li>
 </ul></td>
 </tr>
 </tbody>
