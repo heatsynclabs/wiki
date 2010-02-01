@@ -1,19 +1,8 @@
-I am interested in seeing the actual set up of the hackerspace as a project in it self. I see the need for 'fun' projects like potato cannons, but I am more interested in projects that submit towards the overall goal. This goes to our need of a [TODO](TODO) list, but what are our needs we can project-ize?
-
 ## Current Projects
 
 - [Starting a Non-Profit](Starting-a-Non-Profit)
-
-<!-- -->
-
-- [2kproposal](2kproposal)
-
-<!-- -->
-
+- [ToolsDB](ToolsDB)
 - [Phoenix RepRap](Phoenix-RepRap)
-
-<!-- -->
-
 - [Magomatic V2](Magomatic-V2)
 
 ## Project Idea Wall
@@ -52,3 +41,4 @@ I am interested in seeing the actual set up of the hackerspace as a project in i
 ## Completed Projects
 
 - Potato Cannons
+- [ 2000 ASU EAP Grant Proposal](2kproposal)
