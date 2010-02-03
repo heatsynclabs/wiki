@@ -634,8 +634,8 @@ The total distance traveled is 9059.4 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>1.43 cc</strong>.<br />
 </p></td>
-<td></td>
-<td><p><strong><font color="#FF0000">Needs Printing</font></strong></p></td>
+<td><p><strong>RJS</strong></p></td>
+<td><p><strong><font color="#FF0000">Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/z-tensioner_1off.stl">z-tensioner</a></p></td>
