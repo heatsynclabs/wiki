@@ -69,7 +69,7 @@ The volume extruded is <strong>7.42 cc</strong>.<br />
 </tr>
 <tr>
 <td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/belt-width-adjuster_1off.stl">belt-split-jig-spacer</a></p></td>
-<td></td>
+<td><p>1</p></td>
 <td><img src="files/04mendel-ABS_solid-belt-split-jig-spacer.jpg" />
 <p><em>04mendel-ABS_solid-belt-split-jig-spacer.jpg</em></p></td>
 <td><p>The text has 3538 lines and a size of 103.0 KB.<br />
@@ -79,8 +79,8 @@ The total distance traveled is 4781.7 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>0.802 cc</strong>.<br />
 </p></td>
-<td></td>
-<td><p><strong><font color="#FF0000">Needs Printing</font></strong></p></td>
+<td><p><strong>UAT</strong></p></td>
+<td><p><strong><font color="#0000FF">Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/circuit-board-bracket-m3_4off.stl">circuit-board-bracket</a></p></td>
@@ -138,8 +138,8 @@ The total distance traveled is 9659.4 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>1.56 cc</strong>.<br />
 </p></td>
-<td></td>
-<td><p><strong><font color="#FF0000">Needs Printing</font></strong></p></td>
+<td><p><strong>UAT</strong></p></td>
+<td><p><strong><font color="#0000FF">Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/frame-vertex_6off.stl">frame-vertex</a></p></td>
@@ -252,8 +252,8 @@ The total distance traveled is 13377.8 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>2.11 cc</strong>.<br />
 </p></td>
-<td></td>
-<td><p><strong><font color="#FF0000">Needs Printing</font></strong></p></td>
+<td><p><strong>UAT</strong></p></td>
+<td><p><strong><font color="#0000FF">Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/x-cable-clamp_1off.stl">x-cable-clamp</a></p></td>
