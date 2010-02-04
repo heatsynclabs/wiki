@@ -23,6 +23,15 @@ From Bankruptcy to Surplus to Seizure these are the local guys we've come across
 - Phoenix, AZ 85003
   - One of the legendary electronics/hardware surplus places. Well worth the trip if you've never been there.
 
+### Laser Engraving / Cutting
+
+#### Phoenix Laser Engraving
+
+- <http://www.phoenixlaserengraving.com/>
+  - Laser Engraving
+  - Cutting
+  - Design and Fabrication
+
 ### Waterjet/CNC Machining Services
 
 #### Whitley Machine
