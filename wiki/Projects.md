@@ -17,6 +17,7 @@
 
 ### Other
 
+- [CNC](CNC)
 - 3D Printer
 - Automatic Banana Peeler
 - Digital Audit Mixer/Converter/Splitter
