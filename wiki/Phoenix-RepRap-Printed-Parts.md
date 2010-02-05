@@ -272,9 +272,9 @@ The volume extruded is <strong>0.342 cc</strong>.<br />
 </tr>
 <tr>
 <td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/x-carriage-lower_1off.stl">x-carriage-lower</a></p></td>
-<td><p>2</p></td>
-<td><img src="files/16mendel-ABS_solid-x-carriage-lower.jpg" />
-<p><em>16mendel-ABS_solid-x-carriage-lower.jpg</em></p></td>
+<td><p>1</p></td>
+<td><img src="files/X-carriage-lower.png" />
+<p><em>x-carriage-lower.png</em></p></td>
 <td><p>The text has 9448 lines and a size of 279.0 KB.<br />
 The total build time is <strong>594 s =~ 10min</strong>.<br />
 The total distance extruded is 7148.1 mm.<br />
