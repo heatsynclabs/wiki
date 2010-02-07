@@ -2,6 +2,8 @@
 
 We've been trying to brainstorm a good project idea that we can focus on to present to ASU for the \$2000 grant we're aiming for. One project that would definitely put us on the map and would also allow us to reach out to the local community would be procuring a Rapid-Prototyping device. The RepRap project is a prime example of one whose initial creator's intention was not only to make a device that was as inexpensive as possible but also one that can replicate itself. Seeing the cost benefits analysis, as well as, the vast improvements with version II of this device(Mendel) we're thinking about going with that design.
 
+--Update - ASU did not fund us so we did it ourselves. Take that establishment.
+
 ## Design Summary
 
 Check out the RepRap main site here:\
@@ -44,7 +46,9 @@ This is a tally of costs so far, and providers used. You can see the original es
 | silicon grease, kapton tape | ~47.36 | Grainger |
 | pcb strip board, heatshrink tubing, | n/a | Scrap |
 | 12 PC or laptop Power Supply | n/a | Multiple units donated by various members |
-| **Total** | **\$794.26** | '''''' |
+| 5v FTDI |  | Sparkfun |
+| Extruder parts - 6-ohm length of fibreglass-insulated nichrome wire, |  | <http://store.makerbot.com/nichrome-wire-31-ga.html> |
+| **Total** | **\$\>794.26** | '''''' |
 
 ## NEEDED PARTS
 
@@ -55,9 +59,7 @@ These are the parts we still need. Perhaps you can help?
 | **Item** | **US cost** | **Notes** |
 | Thin sheet less than 2mm thick and at least 8cmx5cm | ? | Beer can? |
 | [Printed Parts](Phoenix-RepRap-Printed-Parts) | ? | Laser Cut, Rapid Prototyped, or Printed? |
-| Extruder parts - 6-ohm length of fibreglass-insulated nichrome wire, | .50+shipping | <http://store.makerbot.com/nichrome-wire-31-ga.html> |
 | Misc - oil, box cutter blades, more? | ? | Lowes, Home Depot |
-| FTDI | Free? | Burt? |
 | **Total** | **?** | '''''' |
 
 ## Build Plan
