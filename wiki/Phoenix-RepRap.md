@@ -66,11 +66,10 @@ Sorting parts into 'kits' (whole lotta parts to sort) Soldering - 2 or 3 station
 
 ## Status
 
-- We may need to locate one 1206 180Ohm resistor for extruder.. not sure yet.
-- Need half cabling made. (Jose possibly bringing 6 conductor ribbon - 8amp wiring 2 conductor Jose as well - 3 pin XLR from paul)
-- Need Extruder constructed.
-- May be able to begin on some other construction. We have a good bit of plastic started (50%, see Plastic needed above)
+- \>60% prototyped parts constructed--shooting for completion or at least a subset we can start construction on for next meeting
+- Extruder construction begun
 - Need to heat gun reflow solder the micro on one extruder controller
+- Mobo currently not passing e testing, all other boards waiting on this
 
 ## Problems found in Rep Rap Instructions
 
