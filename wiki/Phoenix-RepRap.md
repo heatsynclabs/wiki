@@ -74,12 +74,10 @@ Sorting parts into 'kits' (whole lotta parts to sort) Soldering - 2 or 3 station
 
 ## Problems found in Rep Rap Instructions
 
-- No electrolytic cap for Mendel alterations to mobo in the parts list.
-- No 3v Voltage Regulator 78L33 for rep rap alterations to mobo in the parts list.
 - Extruder lists 180ohm 1206 resistor as not required... I think? Or is it?
-- Extruder page lists 5leds, but you actuall need 9. (were 9 in partlist it would seem) Led1 and Led9 are actually named Power and Debug.
+- Extruder page lists 5leds, but you actualyl need 9. (were 9 in partlist it would seem) Led1 and Led9 are actually named Power and Debug also.
 - Need better documentation on Mendel modifications to build process. We accidentally did a lot of soldering we had to desolder.
-- A length of 10 conductor ribbon missing on partslist
-- No 6 conductor ribbon on the partslist
-- Partlist doesn't list the need for 2 color 2 conductor 8amp guaged wire for power
-- Partslist doesn't list the 3pin XLR connectors for power
+- Partslist doesn't list any of the mendel modification parts
+- For Mobo modifications - 3v Voltage Regulator 78L33 or electrolytic cap for - we don't need anyway as we went with a sparkfun 5v ftdi breakout which matches a breakout on the mobo and gives us our 3.3v and 5v both I believe
+- Partlist doesn't list the need for 2 color 2 conductor 8amp guaged wire for power or the 3pin xlr connectors (and the xlr, as far as I can tell, aren't even needed anymore--we have molex on steppers and a terminal block on motherboard)
+- We were short a length of 10 conductor ribbon, short on partslist?
