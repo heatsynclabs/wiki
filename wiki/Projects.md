@@ -18,7 +18,7 @@
 ### Other
 
 - [CNC](CNC)
-- 3D Printer
+- [3D Scanner](3D-Scanner)
 - Automatic Banana Peeler
 - Digital Audit Mixer/Converter/Splitter
 - Homemade Milling Machine
