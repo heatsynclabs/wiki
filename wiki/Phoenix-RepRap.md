@@ -82,3 +82,12 @@ Sorting parts into 'kits' (whole lotta parts to sort) Soldering - 2 or 3 station
 - For Mobo modifications - 3v Voltage Regulator 78L33 or electrolytic cap for - we don't need anyway as we went with a sparkfun 5v ftdi breakout which matches a breakout on the mobo and gives us our 3.3v and 5v both I believe
 - Partlist doesn't list the need for 2 color 2 conductor 8amp guaged wire for power or the 3pin xlr connectors (and the xlr, as far as I can tell, aren't even needed anymore--we have molex on steppers and a terminal block on motherboard)
 - We were short a length of 10 conductor ribbon, short on partslist?
+- Motherboard schematic claims 100u for c6, should be 10u as in documentation wiki
+- Unnecessary components on the rep rap sheet: (listed by vendor IDs not manufacturer IDs)
+  - 30w-5-nd (digikey)
+  - 10sp001 mouser
+  - 538-26-48-1245 mouser
+  - 538-39-29-3206 mouser
+  - 538-08-52-0072 mouser
+  - 970-0313 allied
+  - rj45's ?
