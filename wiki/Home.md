@@ -38,7 +38,7 @@ This page is a place to submit and talk about various ideas about [HeatSyncLabs]
 <ul>
 <li><a href="Board-Members">Board Members</a></li>
 <li><a href="Board-Elections">Board Elections</a> (historic)</li>
-<li><a href="Public-Meeting-Minutes">Public Meeting Minutes</a></li>
+<li><a href="Meeting-Minutes">Meeting Minutes</a></li>
 </ul></td>
 <td width="50%" data-valign="top" style="border: 1px solid #a0a0ff; border-right-width: 3px; border-bottom-width: 3px; padding: .5em 1em; margin: 1em; background-color: #f0f0ff;"><div style="margin:0;background-color:#e0e0ff;font-size:120%;font-weight:bold;border:1px solid #a0a0ff;text-align:left;color:#000;padding:0.2em 0.4em;">
 <p>Setup Research</p>
