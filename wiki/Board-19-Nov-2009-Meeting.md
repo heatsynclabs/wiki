@@ -29,7 +29,8 @@ organization, blog entires, and donate now! button, wiki link, twitter link, and
 
 ## Nominations
 
-**Champion:** Jacob Rosenthal, Jeremy Leung **Secretary:** Andrea Young **Treasurer:** Shannon McCormick PR/Marketing: Rick Osgood Editor: David Huerta IT Admin: Will Bradley, Zach Giles Resource Manager: Andre Sprauge Event Coordinator: combined with Secretary Social/Fundraising Coordinator: Social with Secretary and Fundraising with Champion
+**Champion:** Jacob Rosenthal, Jeremy Leung\
+**Secretary:** Andrea Young **Treasurer:** Shannon McCormick PR/Marketing: Rick Osgood Editor: David Huerta IT Admin: Will Bradley, Zach Giles Resource Manager: Andre Sprauge Event Coordinator: combined with Secretary Social/Fundraising Coordinator: Social with Secretary and Fundraising with Champion
 
 ## VOTING RESULTS
 
