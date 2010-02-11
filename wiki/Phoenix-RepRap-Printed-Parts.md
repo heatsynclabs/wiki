@@ -11,6 +11,12 @@ Solid model files for the printed parts of the Mendel extruder are available [he
 
 Search for the part name on the pages linked above and then select the appropriate file format to print.
 
+==Status=
+
+31 Parts to go. Whoohooo!
+
+## Parts
+
 <table>
 <thead>
 <tr>
