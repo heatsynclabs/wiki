@@ -282,8 +282,8 @@ The total distance traveled is 9502.4 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>1.4 cc</strong>.<br />
 </p></td>
-<td></td>
-<td><p><strong><font color="#FF0000">Needs Printing</font></strong></p></td>
+<td><p><strong>UAT</strong></p></td>
+<td><p><strong><font color="#33FF00">Completed</font></strong></p></td>
 </tr>
 <tr>
 <td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/x-carriage-upper_1off.stl">x-carriage-upper</a></p></td>
@@ -313,7 +313,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>12.0 cc</strong>.<br />
 </p></td>
 <td><p><strong>UAT</strong></p></td>
-<td><p><strong><font color="#0000FF">Printing</font></strong></p></td>
+<td><p><strong><font color="#33FF00">Completed</font></strong></p></td>
 </tr>
 <tr>
 <td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/xlr-bracket_1off.stl">xlr-bracket</a></p></td>
@@ -370,8 +370,8 @@ The total distance traveled is 46543.8 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>7.34 cc</strong>.<br />
 </p></td>
-<td></td>
-<td><p><strong><font color="#FF0000">Needs Printing</font></strong></p></td>
+<td><p><strong>UAT</strong></p></td>
+<td><p><strong><font color="#33FF00">Completed</font></strong></p></td>
 </tr>
 <tr>
 <td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/x-vert-drive-side-plate-180-end_2off.stl">x-vert-side-plate-180</a></p></td>
