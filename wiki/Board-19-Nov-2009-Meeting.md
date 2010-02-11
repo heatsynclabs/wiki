@@ -3,7 +3,9 @@ HeatSync Public Meeting
     Admin Meeting: 7:30 pm
     FOP Lodge 9 - Mesa, AZ
 
-• Articles of Incorporation • Cost around \$400 for release • Contact them to find out more specifics • Financial Survey Results • \$0 answers -- ?? • Going forward from here • Total contributions were around \$1000. • Board members agreed to donate additional and more than other members. • Website Redesign/Update • Meeting on 11/14 at Cartel • Things to add -- main page would include logo, name, brief description of organization, blog entires, and donate now! button, wiki link, twitter link, and calendar. • New meeting -- uncertain date, but new meeting. • Gangplank Meeting/New Space • Alternate meeting places --- sublet with Gangplank for free? • Gangplank to be moving? Possible for temporary space. • Storage at all? • Contact for meeting space on Thursdays. • Noise factor?
+- Articles of Incorporation
+
+• Cost around \$400 for release • Contact them to find out more specifics • Financial Survey Results • \$0 answers -- ?? • Going forward from here • Total contributions were around \$1000. • Board members agreed to donate additional and more than other members. • Website Redesign/Update • Meeting on 11/14 at Cartel • Things to add -- main page would include logo, name, brief description of organization, blog entires, and donate now! button, wiki link, twitter link, and calendar. • New meeting -- uncertain date, but new meeting. • Gangplank Meeting/New Space • Alternate meeting places --- sublet with Gangplank for free? • Gangplank to be moving? Possible for temporary space. • Storage at all? • Contact for meeting space on Thursdays. • Noise factor?
 
 - - addition to Resource Manager job description -- researching means of obtaining tools
 
