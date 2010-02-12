@@ -4,6 +4,7 @@
 - [ToolsDB](ToolsDB)
 - [Phoenix RepRap](Phoenix-RepRap)
 - [Magomatic V2](Magomatic-V2)
+- [Nearspace Balloon](Nearspace-Balloon)
 
 ## Project Idea Wall
 
