@@ -1,6 +1,11 @@
-## Balloon
+## Team Members
 
-### Synopsis
+| Name   | Email                  |
+|--------|------------------------|
+| Rick O | ricko@heatsynclabs.org |
+|        |                        |
+
+## Synopsis
 
 This project will involve sending a weather balloon into near space. Near space is typically considered to be above 65,000 feet above sea level. A near space balloon typically consists of the following major components:
 
@@ -22,6 +27,8 @@ This project will involve sending a weather balloon into near space. Near space 
     5.  Balloon has to attach to this, but be able to release somehow after it pops.
 8.  Parachute
     1.  This slows the balloon down so it doesn't slam into the ground at terminal velocity, but it's not huge enough that it takes forever for the payload to return to earth.
+
+## Balloon
 
 ### Components
 
