@@ -1,5 +1,22 @@
 ### Synopsis
 
+This project will involve sending a weather balloon into near space. Near space is typically considered to be above 65,000 feet above sea level. A near space balloon typically consists of the following major components:
+
+1.  Balloon + helium (duh)
+2.  GPS for tracking the balloon
+3.  One way radio communication
+    1.  This is for sending us the GPS coordinates
+4.  Camera on a timer
+    1.  Must take pictures every X minutes and have enough space to store them all
+5.  Flight computer
+    1.  This coordinates all of the other parts and makes them work together
+6.  Batteries
+    1.  Need to handle extreme cold and last long enough for the flight and for you to find it
+7.  Weatherproof container
+    1.  This must keep out the cold as much as possible. Also needs a hole for the camera to take pictures through. You must be able to open, but latch it shut securely. The electronics must be seccured inside somehow. Also, the balloon has to attach to this, but be able to release somehow after it pops.
+8.  Parachute
+    1.  This slows the balloon down so it doesn't slam into the ground at terminal velocity, but it's not huge enough that it takes forever for the payload to return to earth.
+
 ## Competition
 
 ### Rules
