@@ -1,6 +1,6 @@
 ### Synopsis
 
-#### Competition
+## Competition
 
 ### Rules
 
