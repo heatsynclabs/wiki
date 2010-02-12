@@ -1,5 +1,7 @@
 ### Synopsis
 
+#### Competition
+
 ### Rules
 
 - One team per hackerspace. Any size build team, but only 10 people for the launch and retrieval team.
