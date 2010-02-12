@@ -25,6 +25,10 @@ This project will involve sending a weather balloon into near space. Near space 
 
 ### Components
 
+#### Balloon and Helium
+
+Purchase balloons most likely on line. Rent helium tanks locally. May need to put a hefty deposit on the tanks.
+
 #### GPS
 
 Blackjack II cell phone has a built-in GPS. We can use the free software Mologogo to track the phone.
@@ -40,6 +44,18 @@ We can potentially use a used or donated digital camera. Some of these have buil
 #### Flight Computer
 
 Paul has a Blackjack II cell phone he is willing to donate to this project. The phone has the capabilities to be our computer, GPS, radio, and possibly our camera
+
+#### Batteries
+
+The cell phone already has a battery. If this battery is in good condition it may be sufficient to provide enough power in the cold weather for the length of the mission. It may be a good idea to construct an external battery pack for the phone. The pack can hook up to the phone via it's charging port. This will allow us to drain the external batteries before switching to the phone battery as a backup.
+
+#### Weatherproof container
+
+Can use a styrofoam cooler with insulation. Other's have also used insulated lunch boxes. We can also construct something from scratch if we want.
+
+#### Parachute
+
+Can purchase or construct from scratch
 
 ## Competition
 
