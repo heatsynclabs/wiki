@@ -23,6 +23,24 @@ This project will involve sending a weather balloon into near space. Near space 
 8.  Parachute
     1.  This slows the balloon down so it doesn't slam into the ground at terminal velocity, but it's not huge enough that it takes forever for the payload to return to earth.
 
+### Components
+
+#### GPS
+
+Blackjack II cell phone has a built-in GPS. We can use the free software Mologogo to track the phone.
+
+#### Radio
+
+Blackjack II cell phone IS a radio. It even has two way radio capabilities. Mologogo can use the phone's data network to send the phone's GPS coordinates back to a website. We can then track the balloon by browsing to this website with other cell phones or cell phone enabled laptops.
+
+#### Camera
+
+We can potentially use a used or donated digital camera. Some of these have built in time-lapse functions. If we can't find one that does, we can built a simple timer circuit to push the shutter button every few minutes. We may also be able to write an app for the Blackjack II cell phone to use the camera's built-in camera.
+
+#### Flight Computer
+
+Paul has a Blackjack II cell phone he is willing to donate to this project. The phone has the capabilities to be our computer, GPS, radio, and possibly our camera
+
 ## Competition
 
 ### Rules
