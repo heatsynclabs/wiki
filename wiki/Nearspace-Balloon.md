@@ -13,7 +13,11 @@ This project will involve sending a weather balloon into near space. Near space 
 6.  Batteries
     1.  Need to handle extreme cold and last long enough for the flight and for you to find it
 7.  Weatherproof container
-    1.  This must keep out the cold as much as possible. Also needs a hole for the camera to take pictures through. You must be able to open, but latch it shut securely. The electronics must be seccured inside somehow. Also, the balloon has to attach to this, but be able to release somehow after it pops.
+    1.  This must keep out the cold as much as possible
+    2.  Needs a hole for the camera to take pictures through
+    3.  Must be able to open, but latch it shut securely
+    4.  The electronics must be secured inside somehow
+    5.  Balloon has to attach to this, but be able to release somehow after it pops.
 8.  Parachute
     1.  This slows the balloon down so it doesn't slam into the ground at terminal velocity, but it's not huge enough that it takes forever for the payload to return to earth.
 
