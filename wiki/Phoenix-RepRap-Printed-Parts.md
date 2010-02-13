@@ -277,6 +277,20 @@ The volume extruded is <strong>0.342 cc</strong>.<br />
 <td><p><strong><font color="#33FF00">Completed</font></strong></p></td>
 </tr>
 <tr>
+<td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/x-carriage-belt-clamp_2off.stl">x-carriage-belt-clamp</a></p></td>
+<td><p>2</p></td>
+<td><p><a href="files/">thumb</a></p></td>
+<td><p>The text has 4080 lines and a size of 124.0 KB.<br />
+The total build time is <strong>158 s =~ 3min</strong>.<br />
+The total distance extruded is 1739.5 mm.<br />
+The total distance traveled is 2514.5 mm.<br />
+The version is 2009-10-14<br />
+The volume extruded is <strong>0.342 cc</strong>.<br />
+</p></td>
+<td></td>
+<td><p><strong><font color="#FF0000">Needs Printing</font></strong></p></td>
+</tr>
+<tr>
 <td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/x-carriage-lower_1off.stl">x-carriage-lower</a></p></td>
 <td><p>1</p></td>
 <td><img src="files/X-carriage-lower.png" />
