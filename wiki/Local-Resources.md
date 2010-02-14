@@ -13,6 +13,10 @@ From Bankruptcy to Surplus to Seizure these are the local guys we've come across
 - [Sierra Auctions](http://sierraauction.com/public_html/index.php)
 - [Auction Auction Systems Auctioneers & Appraisers, Inc.](http://www.auctionandappraise.com/home.html)
 
+### Swaps
+
+- ?
+
 ### Surplus
 
 #### Apache Reclamation
