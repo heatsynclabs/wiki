@@ -60,7 +60,7 @@ The volume extruded is <strong>1.22 cc.</strong><br />
 </tr>
 <tr>
 <td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/belt-split-jig-bracket-universal_2off.stl">belt-split-jig-bracket</a></p></td>
-<td></td>
+<td><p>1</p></td>
 <td><img src="files/03mendel-ABS_solid-belt-split-jig-bracke.jpg" />
 <p><em>03mendel-ABS_solid-belt-split-jig-bracke.jpg</em></p></td>
 <td><p>The text has 22620 lines and a size of 698.0 KB.<br />
@@ -71,7 +71,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>7.42 cc</strong>.<br />
 </p></td>
 <td><p><strong>UAT</strong></p></td>
-<td><p><strong><font color="#33FF00">Completed</font></strong></p></td>
+<td><p><strong><font color="#FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/belt-width-adjuster_1off.stl">belt-split-jig-spacer</a></p></td>
@@ -86,7 +86,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>0.802 cc</strong>.<br />
 </p></td>
 <td><p><strong>UAT</strong></p></td>
-<td><p><strong><font color="#0000FF">Printing</font></strong></p></td>
+<td><p><strong><font color="#FF0000">Needs Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/circuit-board-bracket-m3_4off.stl">circuit-board-bracket</a></p></td>
