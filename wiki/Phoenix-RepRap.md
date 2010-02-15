@@ -85,21 +85,31 @@ Mechanical
 - Y Should be ready to construct by next meeting
 - Z Plastic in production currently--maybe ready for next meeting...
 
-## Problems found in Rep Rap Instructions
+## Insufficiencies in Rep Rap Documentation
 
-- Extruder lists 180ohm 1206 resistor as not required... I think? Or is it?
+### Instruction issues
+
 - Extruder page lists 5leds, but you actualyl need 9. (were 9 in partlist it would seem) Led1 and Led9 are actually named Power and Debug also.
 - Need better documentation on Mendel modifications to build process. We accidentally did a lot of soldering we had to desolder.
-- Partslist doesn't list any of the mendel modification parts
-- For Mobo modifications - 3v Voltage Regulator 78L33 or electrolytic cap for - we don't need anyway as we went with a sparkfun 5v ftdi breakout which matches a breakout on the mobo and gives us our 3.3v and 5v both I believe
-- Partlist doesn't list the need for 2 color 2 conductor 8amp guaged wire for power or the 3pin xlr connectors (and the xlr, as far as I can tell, aren't even needed anymore--we have molex on steppers and a terminal block on motherboard)
-- We were short a length of 10 conductor ribbon, short on partslist?
+- All mechanical construction steps don't actually give you any instructions, simply parts lists and completed pictures
+
+### Problems in Schematics
+
 - Motherboard schematic claims 100u for c6, should be 10u as in documentation wiki
-- Unnecessary components on the rep rap sheet: (listed by vendor IDs not manufacturer IDs)
-  - 30w-5-nd (digikey)
-  - 10sp001 mouser
-  - 538-26-48-1245 mouser
-  - 538-39-29-3206 mouser
-  - 538-08-52-0072 mouser
-  - 970-0313 allied
-  - rj45's ?
+
+### Missing from partslist
+
+- 4 conductor ribbon for the extruder
+- Thermistor for extruder
+- 2 color 2 conductor 8amp guaged wire for power
+- XLR connectors --which we're not using so thats fine
+- We were short a length of 10 conductor ribbon
+- Extruder lists 180ohm 1206 resistor as not required... I think? Or is it?
+- Partslist doesn't list any of the mendel mobo modification parts --3v Voltage Regulator 78L33 or electrolytic cap - we don't need anyway as we went with a sparkfun 5v ftdi breakout which matches a breakout on the mobo and gives us our 3.3v and 5v both I believe
+
+### Unnecessary on partslist
+
+- - 30 watt resistor - 30w-5-nd (digikey)
+  - SPDT Slide Switch - as atx header isnt used on mobo anymore, switch doesn't actually switch anything does it?
+  - atx headers
+  - rj45
