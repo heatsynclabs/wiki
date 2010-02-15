@@ -410,7 +410,7 @@ The volume extruded is <strong>4.62 cc</strong>.<br />
 </tr>
 <tr>
 <td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/y-bar-clamp_10off.stl">y-bar-clamp</a></p></td>
-<td><p>1</p></td>
+<td><p>10</p></td>
 <td><p><img src="files/24mendel-ABS_solid-y-bar-clamp.jpg" alt="24mendel-ABS_solid-y-bar-clamp.jpg" /><img src="files/Y-bar-printed-parts.PNG" alt="Y-bar-printed-parts.PNG" /></p></td>
 <td><p>The text has 23864 lines and a size of 723.0 KB.<br />
 The total build time is <strong>1321 s =~ 22min</strong>.<br />
@@ -419,8 +419,8 @@ The total distance traveled is 21128.8 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>3.08 cc</strong>.<br />
 </p></td>
-<td></td>
-<td><p><strong><font color="#FF0000">Needs Printing</font></strong></p></td>
+<td><p><strong>RJS</strong></p></td>
+<td><p><strong><font color="#33FF00">Completed</font></strong></p></td>
 </tr>
 <tr>
 <td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/y-bearing-180-inner_2off.stl">y-bearing-180-inner</a></p></td>
@@ -480,7 +480,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>8.41 cc</strong>.<br />
 </p></td>
 <td><p><strong>UAT</strong></p></td>
-<td><p><strong><font color="#0000FF">Printing</font></strong></p></td>
+<td><p><strong><font color="#33FF00">Completed</font></strong></p></td>
 </tr>
 <tr>
 <td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/y-bearing-360-outer-left_1off.stl">y-bearing-360-outer-l</a></p></td>
@@ -495,7 +495,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>9.45 cc</strong>.<br />
 </p></td>
 <td><p><strong>UAT</strong></p></td>
-<td><p><strong><font color="#0000FF">Printing</font></strong></p></td>
+<td><p><strong><font color="#33FF00">Completed</font></strong></p></td>
 </tr>
 <tr>
 <td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/y-bearing-360-outer-right_1off.stl">y-bearing-360-outer-r</a></p></td>
@@ -510,7 +510,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>9.45 cc</strong>.<br />
 </p></td>
 <td><p><strong>UAT</strong></p></td>
-<td><p><strong><font color="#0000FF">Printing</font></strong></p></td>
+<td><p><strong><font color="#33FF00">Completed</font></strong></p></td>
 </tr>
 <tr>
 <td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/y-belt-clamp_2off.stl">y-belt-clamp</a></p></td>
