@@ -68,10 +68,22 @@ Sorting parts into 'kits' (whole lotta parts to sort) Soldering - 2 or 3 station
 
 ## Status
 
-- \>60% prototyped parts constructed--shooting for completion or at least a subset we can start construction on for next meeting
-- Extruder construction begun
-- Need to heat gun reflow solder the micro on one extruder controller
-- Mobo currently not passing e testing, all other boards waiting on this
+Electrical
+
+- Opto endstops tested and functional
+- Mobo passing e testing--however z axis stepper function seems.. odd?
+- 2 Stepper Controllers functioning
+- 1 Stepper Motor - IC needs heat gun desoldering and re-seating
+- 1 extruder motherboard processor needs heat gun desoldering and re-seating
+- 1 extruder motherboard status unknown-needs testing
+
+Mechanical
+
+- \>70% prototyped parts constructed
+- Extruder construction begun-Have everything to finish
+- X axis mechanical construction begun
+- Y Should be ready to construct by next meeting
+- Z Plastic in production currently--maybe ready for next meeting...
 
 ## Problems found in Rep Rap Instructions
 
