@@ -16,3 +16,7 @@ Feel free to brainstorm here on fund raising ideas. Also, we're using this space
 - Bid on a Geek - Geek for a Night
 - Competitions
 - Sell Make Subscriptions: <http://blog.makezine.com/archive/2010/01/make_money_for_your_club_or_organiz.html>
+
+## Donation Letter
+
+[Donation Letter](files/Donation_Request_Letter.doc)
