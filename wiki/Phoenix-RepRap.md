@@ -43,10 +43,10 @@ This is a tally of costs so far, and providers used. You can see the original es
 | Bar (smooth rod) BZP NOT BMS A2 Steel even better - at least 3m - M8 (8mm diameter) | See Thick Sheet | Lowes |
 | Studding (threaded rod) -BZP M8 (8mm diameter) at least 9 meters | See Thick Sheet | Lowes |
 | epoxy,ties | See Thick Sheet | Lowes |
-| silicon grease, kapton tape | ~47.36 | Grainger |
+| silicon grease, kapton tape | ~33.00 | Grainger |
 | pcb strip board, heatshrink tubing, | n/a | Scrap |
 | 12 PC or laptop Power Supply | n/a | Multiple units donated by various members |
-| 5v FTDI |  | Sparkfun |
+| 5v FTDI | 19.04 | Sparkfun |
 | Extruder parts - 6-ohm length of fibreglass-insulated nichrome wire, |  | <http://store.makerbot.com/nichrome-wire-31-ga.html> |
 | **Total** | **\$\>794.26** | '''''' |
 
