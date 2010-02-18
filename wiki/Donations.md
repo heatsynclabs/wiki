@@ -28,4 +28,4 @@ Please compile a list of corporations and entities we would like to approach, an
 
 ### Donation Letter
 
-[Donation Letter\|](files/Donation_Request_Letter.doc)
+[Donation Letter](files/Donation_Request_Letter.doc)
