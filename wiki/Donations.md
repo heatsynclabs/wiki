@@ -28,6 +28,4 @@ Please compile a list of corporations and entities we would like to approach, an
 
 ### Donation Letter
 
-![](files/File.png)
-
-*alt text*
+[Donation Letter\|](files/Http://www.heatsynclabs.org/wiki/File:Donation_Request_Letter.doc)
