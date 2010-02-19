@@ -58,6 +58,7 @@ These are the parts we still need. Perhaps you can help?
 |----|----|----|
 | **Item** | **US cost** | **Notes** |
 | Thin sheet less than 2mm thick and at least 8cmx5cm | ? | Beer can? |
+| 624ZZ bearings (4mm x 13mm x 5mm) | ? | 48 |
 | [Printed Parts](Phoenix-RepRap-Printed-Parts) | ? | Laser Cut, Rapid Prototyped, or Printed? |
 | Misc - oil, box cutter blades, more? | ? | Lowes, Home Depot |
 | **Total** | **?** | '''''' |
