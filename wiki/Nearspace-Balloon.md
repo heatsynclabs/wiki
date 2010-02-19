@@ -1,9 +1,11 @@
 ## Team Members
 
-| Name   | Email                  |
-|--------|------------------------|
-| Rick O | ricko@heatsynclabs.org |
-|        |                        |
+| Name    | Email                      |
+|---------|----------------------------|
+| Rick O  | ricko@heatsynclabs.org     |
+| David H | huertanix@heatsynclabs.org |
+| Paul H  | paulhickey@gmail.com       |
+|         |                            |
 
 ## Synopsis
 
