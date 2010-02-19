@@ -61,6 +61,7 @@ These are the parts we still need. Perhaps you can help?
 | [Printed Parts](Phoenix-RepRap-Printed-Parts) | ? | Laser Cut, Rapid Prototyped, or Printed? |
 | Misc - oil, box cutter blades, more? | ? | Lowes, Home Depot |
 | **Total** | **?** | '''''' |
+| Snap on EC or TC or newark.com sku:27K9987 | ? | 25 |
 
 ## Build Plan
 
