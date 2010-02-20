@@ -74,17 +74,16 @@ Electrical
 - Opto endstops tested and functional
 - Mobo passing e testing--however z axis stepper function seems.. odd?
 - 2 Stepper Controllers functioning
-- 1 Stepper Motor - IC needs heat gun desoldering and re-seating
+- 1 Stepper Motor - needs testing
 - 1 extruder motherboard processor needs heat gun desoldering and re-seating
 - 1 extruder motherboard status unknown-needs testing
 
 Mechanical
 
-- \>70% prototyped parts constructed
-- Extruder construction begun-Have everything to finish
-- X axis mechanical construction begun
-- Y Should be ready to construct by next meeting
-- Z Plastic in production currently--maybe ready for next meeting...
+- 100% prototyped parts constructed
+- Extruder construction complete-need to characterize thermistor
+- X axis mechanical construction begun, All axes waiting on bearings
+- Wiring waiting on connectors--or if time runs out straight soldering
 
 ## Insufficiencies in Rep Rap Documentation
 
