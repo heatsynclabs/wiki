@@ -7,6 +7,7 @@
 | Paul H  | paulhickey@gmail.com       |
 | Will B  | bradley.will@gmail.com\>   |
 | Nate P  | nate@coffeebot.net         |
+| Bobby M | bwmetz@gmail.com           |
 |         |                            |
 
 ## Synopsis
