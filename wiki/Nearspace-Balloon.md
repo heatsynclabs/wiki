@@ -79,6 +79,7 @@ Actual Cost is how much we actually pay for an item. In some cases an item may b
 | Cell Phone | 1 | 0 | 0 | \$40 | Paul R |
 | GoPhone (For the prepaid sim card) | 1 | \$30 | \$30 | \$30 | <http://tinyurl.com/y9yxpe3> |
 | Cell Phone Antenna | 1 | \$12 | \$12 | \$12 | <http://www.primecellular.com/CM200> |
+| Digital Camera | 1 | 0 | 0 | ? | <http://tinyurl.com/ydynpk2> |
 | Lunchbox | 1 | \$10 | \$10 | \$10 | <http://tinyurl.com/y85dl4y> |
 | Parachute | 1 | \$25 | \$25 | \$25 | <http://rocketchutes.com/> |
 
