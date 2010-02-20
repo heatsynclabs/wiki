@@ -63,9 +63,23 @@ These are the parts we still need. Perhaps you can help?
 | **Total** | **?** |  |
 |  |  |  |
 
-## Build Plan
+## Build Log
 
-Sorting parts into 'kits' (whole lotta parts to sort) Soldering - 2 or 3 stations probably (12 boards of various complexity) Testing Extruder building - going to be dependent on us getting prototyped parts in time Mechanical construction - going to be dependent on us getting prototyped parts in time
+Sorting parts into 'kits' (whole lotta parts to sort) Soldering - 2 or 3 stations probably (12 boards of various complexity)
+
+- Dip soldering and SMD soldering
+- Toaster oven reflow
+
+Testing Wiring
+
+- ribbon data
+- power
+
+Mechanical construction
+
+- Extruder building
+- X, Y and Z
+- Rods cut to length
 
 ## Status
 
