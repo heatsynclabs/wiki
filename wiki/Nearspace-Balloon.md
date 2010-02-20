@@ -74,12 +74,13 @@ Actual Cost is how much we actually pay for an item. In some cases an item may b
 
 | Item | Quantity | Actual Cost | Total | Recorded Cost | Source |
 |----|----|----|----|----|----|
-| 1200 Gram Balloon | 2 | \$45 est | \$90 | \$45 | [1](http://www.kaymont.com/pages/cold-weather-balloons.cfm) |
-| 55CF Helium | 1 | \$38.50 | \$38.50 | \$38.50 | [2](http://www.azairboutique.com/index.php?option=com_content&view=article&id=52&Itemid=71) |
+| 1200 Gram Balloon | 2 | \$45 est | \$90 | \$45 | <http://www.kaymont.com/pages/cold-weather-balloons.cfm> |
+| 55CF Helium | 1 | \$38.50 | \$38.50 | \$38.50 | <http://www.azairboutique.com/index.php?option=com_content&view=article&id=52&Itemid=71> |
 | Cell Phone | 1 | 0 | 0 | \$40 | Paul R |
 | GoPhone (For the prepaid sim card) | 1 | \$30 | \$30 | \$30 | <http://tinyurl.com/y9yxpe3> |
 | Cell Phone Antenna | 1 | \$12 | \$12 | \$12 | <http://www.primecellular.com/CM200> |
 | Lunchbox | 1 | \$10 | \$10 | \$10 | <http://tinyurl.com/y85dl4y> |
+| Parachute | 1 | \$25 | \$25 | \$25 | <http://rocketchutes.com/> |
 
 ## Competition
 
