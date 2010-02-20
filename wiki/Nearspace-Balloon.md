@@ -92,8 +92,8 @@ Actual Cost is how much we actually pay for an item. In some cases an item may b
 |----|----|----|----|----|----|
 | 1200 Gram Balloon | 2 | \$45 est | \$90 | \$45 | <http://www.kaymont.com/pages/cold-weather-balloons.cfm> |
 | 55CF Helium | 1 | \$38.50 | \$38.50 | \$38.50 | <http://www.azairboutique.com/index.php?option=com_content&view=article&id=52&Itemid=71> |
-| Radio | 1 |  |  |  |  |
-| TNC | 1 |  |  |  |  |
+| Radio | 1 | \$40-\$50est | \$40-\$50est | \$40-\$50est | ebay.com (Search "Realistic HTX-202") |
+| TNC | 1 | 0 | 0 | \$33 | <http://www.byonics.com/tinytrak/> |
 | GPS | 1 |  |  |  |  |
 | Digital Camera | 1 | 0 | 0 | ? | <http://tinyurl.com/ydynpk2> |
 | Lunchbox | 1 | \$10 | \$10 | \$10 | <http://tinyurl.com/y85dl4y> |
