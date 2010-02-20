@@ -110,6 +110,6 @@ Mechanical
 ### Unnecessary on partslist
 
 - 30 watt resistor - 30w-5-nd (digikey)
-- SPDT Slide Switch - as atx header isnt used on mobo anymore, switch doesn't actually switch anything does it?
+- SPDT Slide Switch - as atx header isnt used on mobo anymore, switch doesn't actually switch anything
 - atx headers
 - rj45
