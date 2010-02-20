@@ -6,6 +6,7 @@
 | David H | huertanix@heatsynclabs.org |
 | Paul H  | paulhickey@gmail.com       |
 | Will B  | bradley.will@gmail.com\>   |
+| Nate P  | nate@coffeebot.net         |
 |         |                            |
 
 ## Synopsis
