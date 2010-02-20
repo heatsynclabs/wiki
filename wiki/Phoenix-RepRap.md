@@ -46,8 +46,10 @@ This is a tally of costs so far, and providers used. You can see the original es
 | silicon grease, kapton tape | ~33.00 | Grainger |
 | pcb strip board, heatshrink tubing, | n/a | Scrap |
 | 12 PC or laptop Power Supply | n/a | Multiple units donated by various members |
-| 5v FTDI | 19.04 | Sparkfun |
-| Extruder parts - 6-ohm length of fibreglass-insulated nichrome wire, |  | <http://store.makerbot.com/nichrome-wire-31-ga.html> |
+| 5v FTDI | 19.04 shipped | Sparkfun |
+| Extruder parts - 6-ohm length of fibreglass-insulated nichrome wire, | .50cents a foot | <http://store.makerbot.com/nichrome-wire-31-ga.html> |
+| Extruder thermistor | 4.06 | <http://www.circuitspecialists.com/prod.itml/icOid/6136> |
+| 2pin .1inch pitch connectors to replace rj45s | ~10 | Newark.com EC100F-2 CE100F22-2 |
 | **Total** | **\$\>794.26** | '''''' |
 
 ## NEEDED PARTS
