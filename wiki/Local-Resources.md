@@ -15,7 +15,7 @@ From Bankruptcy to Surplus to Seizure these are the local guys we've come across
 
 ### Swaps
 
-- ?
+- <http://www.scoutscomputerswapmeet.com/>
 
 ### Surplus
 
