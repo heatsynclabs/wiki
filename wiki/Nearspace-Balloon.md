@@ -130,3 +130,7 @@ Actual Cost is how much we actually pay for an item. In some cases an item may b
 - Launches will be held between June 1, 2010 and August 31, 2010.
 - Results of the official launch must be sent in by September 7, 2010.
 - Winner will be announce on or before September 30, 2010.
+
+## See Also
+
+\[Nearspace Balloon 2\]
