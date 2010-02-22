@@ -9,6 +9,7 @@ We can use this page to brainstorm and research various methods of marketing to 
 - What about an open house day once a month where we throw the doors open?
 - Classes and outreach to schools will be key
 - First Friday!
+- Flashmobbing
 
 # Links
 
