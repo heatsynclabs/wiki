@@ -1,13 +1,9 @@
 Public Meeting Agenda 12/03/09 16 people in attendance
 
 - 1\. Gangplank
-
-1.1. Confirmed by Chris at Integrum. We have reserved the main conference room at Gangplank for January and February. Shopping for lockable storage units. Discussed having board meetings there and allowing people to work on stuff while we're there.
-
+  - 1.1. Confirmed by Chris at Integrum. We have reserved the main conference room at Gangplank for January and February. Shopping for lockable storage units. Discussed having board meetings there and allowing people to work on stuff while we're there.
 - 2\. Grant update
-
-2.1. Should know by tomorrow evening
-
+  - 2.1. Should know by tomorrow evening
 - 3\. Meetings
 
 3.1. No meeting on New Year’s Eve; 12/31/09 3.2. Meeting on 12/17/09
