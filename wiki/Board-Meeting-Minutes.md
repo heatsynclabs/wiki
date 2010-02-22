@@ -8,4 +8,8 @@
 
 - [ 3 Dec 2009](3-Dec-2009)
 
+### January-current
+
+- Currently being updated on our blog mainpage per meeting.
+
 ## Board
