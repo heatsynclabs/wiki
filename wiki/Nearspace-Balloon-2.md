@@ -18,6 +18,9 @@
 | Camera    | Will B |
 | Helium    | ?      |
 | Parachute | ?      |
+| Container | Rick O |
+| Radio     | Rick O |
+| GPS       | Zach   |
 |           |        |
 
 ## Synopsis
