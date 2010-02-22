@@ -17,7 +17,3 @@
 ## January
 
 [ 7 Jan 2010](7-Jan-2010)
-
-## January
-
-[ 7 Jan 2010](7-Jan-2010)
