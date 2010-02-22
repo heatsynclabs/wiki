@@ -12,8 +12,8 @@
 
 - Currently being updated on our blog mainpage per meeting.
 
-### Board
+## Board
 
-## January
+### January
 
 [ 7 Jan 2010](7-Jan-2010)
