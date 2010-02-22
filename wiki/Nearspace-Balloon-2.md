@@ -102,9 +102,9 @@ Actual Cost is how much we actually pay for an item. In some cases an item may b
 ## Ideas
 
 1.  ===High Altitude Rendevous===
-    1.  Collaborate with another nearby hackerspace to launch balloons simultaneously. These balloons should communicate with each other somehow.
+    - Collaborate with another nearby hackerspace to launch balloons simultaneously. These balloons should communicate with each other somehow.
 2.  ===Live Video===
-    1.  Use a video transmitter to send live video to ourselves on the ground
-    2.  <http://www.mfjenterprises.com/Product.php?productid=MFJ-8704>
+    - Use a video transmitter to send live video to ourselves on the ground
+    - <http://www.mfjenterprises.com/Product.php?productid=MFJ-8704>
 3.  ===TCP/IP vid Radio===
-    1.  <http://www.febo.com/hamdocs/intronos.html>
+    - <http://www.febo.com/hamdocs/intronos.html>
