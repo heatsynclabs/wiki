@@ -10,6 +10,16 @@
 | Bobby M | bwmetz@gmail.com           |
 |         |                            |
 
+## Tasks
+
+| Task      | Name   |
+|-----------|--------|
+| Balloon   | Paul H |
+| Camera    | Will B |
+| Helium    | ?      |
+| Parachute | ?      |
+|           |        |
+
 ## Synopsis
 
 This project will involve sending a weather balloon into near space. Near space is typically considered to be above 65,000 feet above sea level. A near space balloon typically consists of the following major components:
