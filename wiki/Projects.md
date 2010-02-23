@@ -5,6 +5,7 @@
 - [Phoenix RepRap](Phoenix-RepRap)
 - [Magomatic V2](Magomatic-V2)
 - [Nearspace Balloon](Nearspace-Balloon)
+- [Hax0r Candy Machine](Hax0r-Candy-Machine)
 
 ## Project Idea Wall
 
