@@ -21,8 +21,7 @@
 
 - [CNC](CNC)
 - [3D Scanner](3D-Scanner)
-- Automatic Banana Peeler
-- Digital Audit Mixer/Converter/Splitter
+- Digital Audio Mixer/Converter/Splitter
 - Homemade Milling Machine
 - "Junkyard" Battle Bots
 - Laser Range Finder/Parking Guide for Cars(Hopefully on the Cheap)
