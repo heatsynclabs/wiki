@@ -115,7 +115,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>2.18 cc</strong>.<br />
 </p></td>
 <td><p><strong>UAT</strong></p></td>
-<td><p><strong><font color="#0000FF">Printing</font></strong></p></td>
+<td><p><strong><font color="#0000FF">???Not Needed???</font></strong></p></td>
 </tr>
 <tr>
 <td><p>circuit-spacer-4mm(resized from 3mm to 4mm)</p></td>
