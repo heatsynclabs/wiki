@@ -12,16 +12,16 @@
 
 ## Tasks
 
-| Task      | Name   |
-|-----------|--------|
-| Balloon   | Paul H |
-| Camera    | Will B |
-| Helium    | ?      |
-| Parachute | ?      |
-| Container | Rick O |
-| Radio     | Rick O |
-| GPS       | Zach   |
-|           |        |
+| Task      | Name           | Completed? |
+|-----------|----------------|------------|
+| Balloon   | Paul H         | No         |
+| Camera    | Will B         | No         |
+| Helium    | Paul H         | Yes        |
+| Parachute | Casey D        | No         |
+| Container | Rick O / Bobby | No         |
+| Radio     | Rick O         | No         |
+| GPS       | Zach           | Yes        |
+|           |                |            |
 
 ## Synopsis
 
