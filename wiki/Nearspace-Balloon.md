@@ -60,7 +60,7 @@ Blackjack II cell phone has a built-in GPS. We can use the free software Mologog
 
 #### Radio
 
-RadioShack Realistic HTX-202. It's a pretty rugged hand held radio. It has a BNC connector which will allow us to easily add an external antenna. The rechargeable battery is shot but the radio can be powered externally by a separate battery pack. The radio is capable of 2-meter transmission only, but that should work just fine and includes the APRS frequency. <http://www.eham.net/reviews/detail/1296>
+RadioShack Realistic HTX-202. It's a pretty rugged hand held radio. It has a BNC connector which will allow us to easily add an external antenna. The rechargeable battery is shot but the radio can be powered externally by a separate battery pack. The radio is capable of 2-meter transmission only, but that should work just fine and includes the APRS frequency. Maximum output power is 5 watts which should be sufficient with an external antenna. <http://www.eham.net/reviews/detail/1296>
 
 #### Camera
 
