@@ -19,8 +19,8 @@
 
 ### Other
 
-- [CNC](CNC)
 - [3D Scanner](3D-Scanner)
+- [CNC](CNC)
 - Digital Audio Mixer/Converter/Splitter
 - Homemade Milling Machine
 - "Junkyard" Battle Bots
@@ -31,6 +31,7 @@
 - Soda and Mentos Powered Cannon
 - Spy Gadgets
 - Vacuuform Table
+- [Wearable Computing](Wearable-Computing)
 - Whimshurst Generator
 - Work With Schools
 
