@@ -60,7 +60,7 @@ Blackjack II cell phone has a built-in GPS. We can use the free software Mologog
 
 #### Radio
 
-Blackjack II cell phone IS a radio. It even has two way radio capabilities. Mologogo can use the phone's data network to send the phone's GPS coordinates back to a website. We can then track the balloon by browsing to this website with other cell phones or cell phone enabled laptops.
+RadioShack Realistic HTX-202. It's a pretty rugged hand held radio. It has a BNC connector which will allow us to easily add an external antenna. The rechargeable battery is shot but the radio can be powered externally by a separate battery pack. The radio is capable of 2-meter transmission only, but that should work just fine and includes the APRS frequency. <http://www.eham.net/reviews/detail/1296>
 
 #### Camera
 
