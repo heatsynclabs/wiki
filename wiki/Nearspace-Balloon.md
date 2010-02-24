@@ -56,7 +56,7 @@ Purchase balloons most likely on line. Rent helium tanks locally. May need to pu
 
 #### GPS
 
-Blackjack II cell phone has a built-in GPS. We can use the free software Mologogo to track the phone.
+Zach's hacked Palm GPS mapper. Outputs serial data which should work great for the TinyTrak and fits into an Altoids tin.
 
 #### Radio
 
