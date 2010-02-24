@@ -95,10 +95,6 @@ Can purchase or construct from scratch
 - Lauch Site 1
   - Cord (decimal): 32.84503 by -112.31748 at 1801.2ft MSL
   - Cord (deg/minute): 32° 50' 42.108" N by 112° 19' 2.928" W at 1801.2ft MSL
-  - Advantages: With wind at 90° we should have a good strech of unrestricted airspace to fly though.
-  - Disadvantages: Quite a long trip from UAT. We would require over an hour of driving to reach the launch site.
-
-Flight may intercept the PHX-TUS VOR flight path.
 
 <div style="clear: both">
 
