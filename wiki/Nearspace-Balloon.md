@@ -84,6 +84,8 @@ Can purchase or construct from scratch
 
 ## Launch Site
 
+- Grabbed this info from UAT's nearspace wiki: <http://nearspace.0x58.com/index.php?title=Launch_Sites>
+
 ### Primary
 
 <div style="float:right">
