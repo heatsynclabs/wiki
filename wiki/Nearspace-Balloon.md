@@ -68,7 +68,7 @@ We can potentially use a used or donated digital camera. Some of these have buil
 
 #### Flight Computer
 
-Paul has a Blackjack II cell phone he is willing to donate to this project. The phone has the capabilities to be our computer, GPS, radio, and possibly our camera
+I have a TinyTrak3 that can be used to take serial GPS data and send it out of the radio automatically.
 
 #### Batteries
 
