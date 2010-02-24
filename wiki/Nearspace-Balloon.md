@@ -111,8 +111,6 @@ Can purchase or construct from scratch
 - Lauch Site 2
   - Cord (decimal): 32.69635 by -111.49202 at 1630.6ft MSL
   - Cord (deg/minute): 32° 41' 46.86" N by 111° 29' 31.2714" W at 1801.2ft MSL
-  - Advantages: Good average winds for a Northeasternly launch.
-  - Disadvantages: Near peaks to the East.
 
 The closest major airport is Eloy Municipal with is about 9 miles to the NW.
 
