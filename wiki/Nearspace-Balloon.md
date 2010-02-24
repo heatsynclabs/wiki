@@ -64,7 +64,7 @@ RadioShack Realistic HTX-202. It's a pretty rugged hand held radio. It has a BNC
 
 #### Camera
 
-We can potentially use a used or donated digital camera. Some of these have built in time-lapse functions. If we can't find one that does, we can built a simple timer circuit to push the shutter button every few minutes. We may also be able to write an app for the Blackjack II cell phone to use the camera's built-in camera.
+We can potentially use a used or donated digital camera. Some of these have built in time-lapse functions. If we can't find one that does, we can built a simple timer circuit to push the shutter button every few minutes.
 
 #### Flight Computer
 
