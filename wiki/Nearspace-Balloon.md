@@ -134,7 +134,7 @@ Actual Cost is how much we actually pay for an item. In some cases an item may b
 | TNC | 1 | 0 | 0 | \$33 | <http://www.byonics.com/tinytrak/> |
 | GPS | 1 | 0 | 0 | \$15 |  |
 | Digital Camera | 1 | 0 | 0 | ? | <http://tinyurl.com/ydynpk2> |
-| Lunchbox | 1 | \$10 | \$10 | \$10 | <http://tinyurl.com/y85dl4y> |
+| Chassis | 1 | ? | ? | ? | ? |
 | Parachute | 1 | \$25 | \$25 | \$25 | <http://rocketchutes.com/> |
 
 ## Competition
