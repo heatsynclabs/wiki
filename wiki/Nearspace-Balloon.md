@@ -74,7 +74,7 @@ I have a TinyTrak3 that can be used to take serial GPS data and send it out of t
 
 The cell phone already has a battery. If this battery is in good condition it may be sufficient to provide enough power in the cold weather for the length of the mission. It may be a good idea to construct an external battery pack for the phone. The pack can hook up to the phone via it's charging port. This will allow us to drain the external batteries before switching to the phone battery as a backup.
 
-#### Weatherproof container
+#### Chassis
 
 Can use a styrofoam cooler with insulation. Other's have also used insulated lunch boxes. We can also construct something from scratch if we want.
 
