@@ -82,6 +82,50 @@ Can use a styrofoam cooler with insulation. Other's have also used insulated lun
 
 Can purchase or construct from scratch
 
+## Launch Site
+
+### Primary
+
+<div style="float:right">
+
+\<googlemap version="0.9" lat="32.84503" lon="-112.31748" type="terrain" width="400" height="400" selector="no" controls="small"\>32.84503, -112.31748Primary Launch Site\</googlemap\>
+
+</div>
+
+- Lauch Site 1
+  - Cord (decimal): 32.84503 by -112.31748 at 1801.2ft MSL
+  - Cord (deg/minute): 32° 50' 42.108" N by 112° 19' 2.928" W at 1801.2ft MSL
+  - Advantages: With wind at 90° we should have a good strech of unrestricted airspace to fly though.
+  - Disadvantages: Quite a long trip from UAT. We would require over an hour of driving to reach the launch site.
+
+Flight may intercept the PHX-TUS VOR flight path.
+
+- - Directions: [Click Here](http://maps.google.com/maps?f=d&saddr=2625+W+Baseline+Rd,+Tempe,+AZ+85283+(University+of+Advancing+Technology)&daddr=AZ-347%2FMaricopa+Rd+to:Freeman+Rd&hl=en&geocode=FWhM_QEd-GBT-SF9MlWULh_P2Q%3BFRgc-gEdoOdS-Q%3BFQct9QEdAylO-Q&mra=ls&via=1&sll=33.099595,-112.001495&sspn=0.799545,1.224976&ie=UTF8&ll=33.106497,-112.134705&spn=0.799482,1.224976&t=h&z=10)
+
+<div style="clear: both">
+
+</div>
+
+### Secondary
+
+<div style="float:right">
+
+\<googlemap version="0.9" lat="32.69635" lon="-111.49202" type="terrain" width="400" height="400" selector="no" controls="small"\> 32.69635, -111.49202 \</googlemap\>
+
+</div>
+
+- Lauch Site 2
+  - Cord (decimal): 32.69635 by -111.49202 at 1630.6ft MSL
+  - Cord (deg/minute): 32° 41' 46.86" N by 111° 29' 31.2714" W at 1801.2ft MSL
+  - Advantages: Good average winds for a Northeasternly launch.
+  - Disadvantages: Near peaks to the East.
+
+The closest major airport is Eloy Municipal with is about 9 miles to the NW.
+
+<div style="clear: both">
+
+</div>
+
 ## Pricing
 
 Actual Cost is how much we actually pay for an item. In some cases an item may be donated to us, but the competition states that all items must have a price associated with them. In that case, we must find the donated item for sale somewhere, and record that price in the "Recorded cost" column.
