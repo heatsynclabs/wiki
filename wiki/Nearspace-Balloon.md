@@ -94,7 +94,7 @@ Actual Cost is how much we actually pay for an item. In some cases an item may b
 | 90CF Helium | 1 | \$40.00 + \$100 deposit | \$40.00 | \$40.00 | <http://www.azfunparty.com/helium.html> |
 | Radio | 1 | \$40-\$50est | \$40-\$50est | \$40-\$50est | ebay.com (Search "Realistic HTX-202") |
 | TNC | 1 | 0 | 0 | \$33 | <http://www.byonics.com/tinytrak/> |
-| GPS | 1 |  |  |  |  |
+| GPS | 1 | 0 | 0 | \$15 |  |
 | Digital Camera | 1 | 0 | 0 | ? | <http://tinyurl.com/ydynpk2> |
 | Lunchbox | 1 | \$10 | \$10 | \$10 | <http://tinyurl.com/y85dl4y> |
 | Parachute | 1 | \$25 | \$25 | \$25 | <http://rocketchutes.com/> |
