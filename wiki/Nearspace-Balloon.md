@@ -100,8 +100,6 @@ Can purchase or construct from scratch
 
 Flight may intercept the PHX-TUS VOR flight path.
 
-- - Directions: [Click Here](http://maps.google.com/maps?f=d&saddr=2625+W+Baseline+Rd,+Tempe,+AZ+85283+(University+of+Advancing+Technology)&daddr=AZ-347%2FMaricopa+Rd+to:Freeman+Rd&hl=en&geocode=FWhM_QEd-GBT-SF9MlWULh_P2Q%3BFRgc-gEdoOdS-Q%3BFQct9QEdAylO-Q&mra=ls&via=1&sll=33.099595,-112.001495&sspn=0.799545,1.224976&ie=UTF8&ll=33.106497,-112.134705&spn=0.799482,1.224976&t=h&z=10)
-
 <div style="clear: both">
 
 </div>
