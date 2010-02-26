@@ -59,7 +59,7 @@ These are the parts we still need. Perhaps you can help?
 |  |  |  |
 |----|----|----|
 | **Item** | **US cost** | **Notes** |
-| Thin sheet less than 2mm thick and at least 8cmx5cm | ? | Beer can? |
+| Thin sheet less than 2mm thick and at least 8cmx5cm | Free Scrap | Beer, Soda, Energy Drink Can |
 | [Printed Parts](Phoenix-RepRap-Printed-Parts) | Free From Local Printer Community | Laser Cut, Rapid Prototyped, or Printed? |
 | Misc - oil, box cutter blades, more? | ? | Lowes, Home Depot |
 | **Total** | **?** |  |
