@@ -135,6 +135,7 @@ Mechanical
 ### What's Out There?
 
 - Thingiverse Combined .stl Files: [<http://www.thingiverse.com/thing:1883>](http://www.thingiverse.com/thing:1883)
+- Dremel Attachment: \[\*Dremel Attachement: [<http://blog.makezine.com/archive/2010/02/dremel_attachment_for_makerbot.html>](http://blog.makezine.com/archive/2010/02/dremel_attachment_for_makerbot.html)
 
 ### New Ideas
 
