@@ -132,4 +132,4 @@ Mechanical
 
 ## Making Improvements
 
-- Thingiverse Combined .stl Files:[1](http://www.thingiverse.com/thing:1883)
+- Thingiverse Combined .stl Files:[<http://www.thingiverse.com/thing:1883>](http://www.thingiverse.com/thing:1883)
