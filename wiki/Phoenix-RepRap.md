@@ -132,4 +132,15 @@ Mechanical
 
 ## Making Improvements
 
+### What's Out There?
+
 - Thingiverse Combined .stl Files: [<http://www.thingiverse.com/thing:1883>](http://www.thingiverse.com/thing:1883)
+
+### New Ideas
+
+- Be Able To Make It's Own Circuit Boards
+- Means to Recycle Plastic
+- Print on a finer scale
+- Increase Print Speed
+- Hot Plate for Print Consistency
+- Larger Print Area
