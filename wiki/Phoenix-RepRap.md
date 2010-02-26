@@ -129,3 +129,7 @@ Mechanical
 - SPDT Slide Switch - as atx header isnt used on mobo anymore, switch doesn't actually switch anything
 - atx headers
 - rj45
+
+## Making Improvements
+
+- Thingiverse Combined .stl Files:[1](http://www.thingiverse.com/thing:1883)
