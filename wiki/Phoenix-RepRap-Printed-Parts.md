@@ -158,8 +158,8 @@ The total distance traveled is 115149.4 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>16.7 cc</strong>.<br />
 </p></td>
-<td></td>
-<td><p><strong><font color="#FF0000">Needs Printing</font></strong></p></td>
+<td><p><strong>UAT</strong></p></td>
+<td><p><strong><font color="#0000FF">Printing</font></strong></p></td>
 </tr>
 <tr>
 <td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/extruders/pinch-wheel/wedge-604/pinch-wheel-bracket-NEMA17_604-bearing_1off.stl">pinch-wheel-bracket(for extruder)</a></p></td>
