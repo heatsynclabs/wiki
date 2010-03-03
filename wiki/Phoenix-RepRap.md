@@ -50,6 +50,7 @@ This is a tally of costs so far, and providers used. You can see the original es
 | Extruder parts - 6-ohm length of fibreglass-insulated nichrome wire, | .50cents a foot | <http://store.makerbot.com/nichrome-wire-31-ga.html> |
 | Extruder thermistor | 4.06 | <http://www.circuitspecialists.com/prod.itml/icOid/6136> |
 | 2pin .1inch pitch connectors to replace rj45s | ~10 | Newark.com EC100F-2 CE100F22-2 |
+| Thin sheet less than 2mm thick and at least 8cmx5cm | Free Scrap | Beer, Soda, Energy Drink Can |
 | **Total** | **\$\>794.26** | '''''' |
 
 ## NEEDED PARTS
