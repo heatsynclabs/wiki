@@ -317,8 +317,8 @@ The total distance traveled is 119035.3 mm.<br />
 The version is 2009-10-14<br />
 The volume extruded is <strong>17.4 cc</strong>.<br />
 </p></td>
-<td></td>
-<td><p><strong><font color="#FF0000">Needs Printing</font></strong></p></td>
+<td><p>3 are printed</p></td>
+<td><p><strong><font color="#FFFF33">Awaiting Pickup</font></strong></p></td>
 </tr>
 <tr>
 <td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/x-end-bracket_2off.stl">x-end-bracket</a></p></td>
