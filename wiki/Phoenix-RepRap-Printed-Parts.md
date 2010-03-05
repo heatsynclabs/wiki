@@ -13,7 +13,7 @@ Search for the part name on the pages linked above and then select the appropria
 
 ## Status
 
-**2** Parts to go. Whoohooo!
+- - DONE\*\*\*!!!!
 
 ## Parts
 
@@ -159,7 +159,7 @@ The version is 2009-10-14<br />
 The volume extruded is <strong>16.7 cc</strong>.<br />
 </p></td>
 <td><p><strong>UAT</strong></p></td>
-<td><p><strong><font color="#0000FF">1 - Printing</font></strong> <strong><font color="#FFFF33">5 - Awaiting Pickup</font></strong></p></td>
+<td><p><strong><font color="#33FF00">Completed</font></strong></p></td>
 </tr>
 <tr>
 <td><p><a href="https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/mendel/mechanics/solid-models/extruders/pinch-wheel/wedge-604/pinch-wheel-bracket-NEMA17_604-bearing_1off.stl">pinch-wheel-bracket(for extruder)</a></p></td>
