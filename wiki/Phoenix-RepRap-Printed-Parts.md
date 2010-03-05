@@ -13,7 +13,7 @@ Search for the part name on the pages linked above and then select the appropria
 
 ## Status
 
-- - DONE\*\*\*!!!!
+**DONE!!!!**
 
 ## Parts
 
