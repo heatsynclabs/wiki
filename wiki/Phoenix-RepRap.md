@@ -85,21 +85,11 @@ Mechanical construction
 
 ## Status
 
-Electrical
+Initial Build Done(ish)
 
-- Opto endstops tested and functional
-- Mobo passing e testing--however z axis stepper function seems.. odd?
-- 2 Stepper Controllers functioning
-- 1 Stepper Motor - needs testing
-- 1 extruder motherboard processor needs heat gun desoldering and re-seating
-- 1 extruder motherboard status unknown-needs testing
-
-Mechanical
-
-- 100% prototyped parts constructed
-- Extruder construction complete-need to characterize thermistor
-- X axis mechanical construction begun, All axes waiting on bearings
-- Wiring waiting on connectors--or if time runs out straight soldering
+- There's one electronics/firmware/software problem we've been watching the entire build. Our Z axis has always moved... oddly. When running Z through the X or Y axis it actuates properly, but the Z output from the motherboard makes the motor move oddly and only in one direction.
+- We're having some jerky movements in the Z mechanical construction. We believe we have diagnosed this down to issues with metric and standard conversions on a certain z axis nut.
+- The Extruder motor board didn't appear to be able to drive the motor (and all of a sudden our thermistor wasn't responding)
 
 ## Insufficiencies in Rep Rap Documentation
 
