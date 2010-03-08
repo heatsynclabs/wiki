@@ -111,6 +111,7 @@ Actual Cost is how much we actually pay for an item. In some cases an item may b
 4.  Balloon Wargames
     - Combined with the TCP/IP idea we could host "hacker wargames" on our balloon.
     - A simple idea is to host a text-only web page (or something similar) that has a button and a text box. The user enters their hackerspace name in the box and clicks the button. When this button is clicked the user "owns" the web page and their hackerspace name is displayed. Other teams must access the page and click the button to steal ownership. The last team to own the page before the balloon lands/pops wins.
+5.  Barometer
 
 ## See Also
 
