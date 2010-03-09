@@ -90,3 +90,16 @@ Our goal is community outreach, not just to offer service, but to survive and fl
 ## Submitted PDF
 
 [ 2K_Grant_Proposal.pdf](files/2K_Grant_Proposal.pdf)
+
+## Result
+
+This application was a finalist but sadly not accepted. Posting our feedback below:
+
+Below please find the feedback and comments from the EAP judging panel. The members of the panel hope that the feedback given to you will assist in the further development of your idea, and that you will reapply for funding in the spring semester. Judging Feedback
+
+- Interesting idea
+- Market is somewhat unclear, more research/information needed in application
+- Better description needed up front
+- Budget needs to be more detailed (specific amounts, not percentages)
+- Good team
+- Strong written presentation
