@@ -88,8 +88,15 @@ Mechanical construction
 Initial Build Done(ish)
 
 - There's one electronics/firmware/software problem we've been watching the entire build. Our Z axis has always moved... oddly. When running Z through the X or Y axis it actuates properly, but the Z output from the motherboard makes the motor move oddly and only in one direction.
+
+  
+*Z-axis output issue fixed, now it just needs calibration.* --[Geekner](User-Geekner) 08:46, 10 March 2010 (UTC)
+
 - We're having some jerky movements in the Z mechanical construction. We believe we have diagnosed this down to issues with metric and standard conversions on a certain z axis nut.
 - The Extruder motor board didn't appear to be able to drive the motor (and all of a sudden our thermistor wasn't responding)
+
+  
+*Extruder motor now responds, but appears to be lacking the needed torque to feed plastic. Not enough power from extruder board's motor controller, we may have to use an alternate motor controller setup.* --[Geekner](User-Geekner) 08:46, 10 March 2010 (UTC)
 
 ## Insufficiencies in Rep Rap Documentation
 
