@@ -6,7 +6,19 @@ To get us started we can build a rotational base that we'll place the scanable o
 
 Then we'll move towards commercial methods of doing multi-scans at the same time and combine the results after processing to ensure that we have the least amount of noise possible.
 
+## Budget
+
+Goal is to have the ultimate cost for this project to be less than commercially available products. The lowest that I've found was:
+
+**NextEngine** - \$2,995
+
 ## Links
+
+### Commercial Models
+
+NextEngine - <https://www.nextengine.com/indexSecure.htm>
+
+### Instructables
 
 <http://www.instructables.com/id/3-D-Laser-Scanner/>\
 <http://www.instructables.com/id/Make-your-own-3d-scanner/>\
