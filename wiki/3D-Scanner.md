@@ -18,9 +18,17 @@ Goal is to have the ultimate cost for this project to be less than commercially 
 
 NextEngine - <https://www.nextengine.com/indexSecure.htm>
 
+### Current News
+
+<http://blog.makezine.com/archive/2010/03/letters_from_the_fab_academy_part_4.html>
+
 ### Instructables
 
 <http://www.instructables.com/id/3-D-Laser-Scanner/>\
 <http://www.instructables.com/id/Make-your-own-3d-scanner/>\
 <http://www.instructables.com/id/Structured-Light-3D-Scanning/>\
 <http://www.instructables.com/id/David-3D-scanner/>\
+
+### Software
+
+A point cloud can be brought into MeshLab as a PLY file, a simple ASCII format for 3D object description: <http://meshlab.sourceforge.net/>
