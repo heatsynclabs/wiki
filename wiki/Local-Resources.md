@@ -9,6 +9,7 @@ Also, provide details of their services (maybe pricing, or even a short review) 
 From Bankruptcy to Surplus to Seizure these are the local guys we've come across
 
 - [Auction AZ](http://www.auctionaz.com)
+- [A-1 Auction](http://www.a1auctionz.com/) every wednesday morning 9am for tools, electronics, books, and household items
 - [ASU Surplus](http://surplus.asu.edu) Has auctions the first Saturday of every month. On the Friday before the auction they let you preview the items for sale. They mostly auction vehicles. They do online auctions as well which seem to have more of a variety. Their Phoenix location is 3570 NW Grand Ave. 85019.
 - [Sierra Auctions](http://sierraauction.com/public_html/index.php)
 - [Auction Auction Systems Auctioneers & Appraisers, Inc.](http://www.auctionandappraise.com/home.html)
