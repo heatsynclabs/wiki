@@ -33,7 +33,7 @@ The chosen platform for the electronics is the [Lilypad Arduino](http://www.ardu
 2 x 1μF SMD Capacitors\
 1 x Stereo Headphone Jack [RadioShack 274-249](http://www.radioshack.com/product/index.jsp?productId=2103452)\
 1 x Cheap set of headphones\
-1 x Eye mask ([Make Your Own](http://www.ehow.com/video_4404865_making-pattern-sewing-sleeping-mask.html))\
+1 x Eye mask ([Make Your Own](http://www.ehow.com/video_4404865_making-pattern-sewing-sleeping-mask.html)) I envision 3 layers of fabric. A soft sheer inner lining, an outside fabric with the color of your choosing, and a center circuit-fabric layer. Velcro could be used to hold the layers together for easy disassembly/washing\
 
 ## Design
 
