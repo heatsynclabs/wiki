@@ -1,7 +1,7 @@
 ## Office of the Champions
 
 - Finding presenters
-- Finding people interested in running a workshop on a technology or skill relevant to the group's interests.
+- Finding people interested in running a workshop on a technology or skill relevant to the group's interests
 
 ## Office of the Editor
 
