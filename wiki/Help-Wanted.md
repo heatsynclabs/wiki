@@ -26,3 +26,7 @@
 - Contacting sponsors for a LAN Party
 - Contributing code to the HSL Toolshare web app
 - Creating a workshop-esque look-and-feel for the Toolshare DB web app
+
+## Office of the Treasurer
+
+- Updating the fundraiser bar to reflect current donation levels.
