@@ -45,3 +45,4 @@ The chosen platform for the electronics is the [Lilypad Arduino](http://www.ardu
 [LilyPad Home](http://web.media.mit.edu/~leah/LilyPad/index.html)\
 [Arduino Forum: How to implement a soft-reset button](http://www.arduino.cc/cgi-bin/yabb2/YaBB.pl?num=1260037835)\
 [BrainWave Machines](http://www.hackcanada.com/homegrown/wetware/brainwave/)\
+[Simple Mixer Circuit](http://www.tkk.fi/Misc/Electronics/circuits/linesum.html)
