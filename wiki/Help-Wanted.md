@@ -13,11 +13,9 @@
 ## Office of the Marketing Director
 
 - Adding HSL events to various online calendars, including:
-
-`   - Make`\
-`   - Eventification`\
-`   - Facebook`
-
+  - Make
+  - Eventification
+  - Facebook
 - Customizing HSL TWitter page to match the color scheme and style of the HSL website
 - Modeling/photo shooting HSL merchandise (currently just the shirt) to increase interest/sales
 - Convinving cali Lewis of GeekBrief.tv to wear an HSL shirt on her video podcast
