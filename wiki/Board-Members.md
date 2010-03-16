@@ -1,18 +1,15 @@
 ## Current Board Members
 
-|  |  |
-|----|----|
-| **Position** | **People Interested** |
-| **Champion** | Jacob Rosenthal, Jeremy Leung |
-| **Secretary/Scribe** | Andrea Young |
-| **Treasurer/CPA** | Shannon McCormick |
-| **PR/Marketing** | Rick Osgood |
-| **Editor** | David H. |
-| **IT Administrator** | Zachary Giles, Will Bradley |
-| **Event Coordinator** | Consolidated into Scribe Role |
-| **Fundraising/Social Coordinator** | Split between Marketing and individual champions of fundraising ideas who will communicate with scribe. |
-| **Resource Manager** | Andre Sprague |
-| **Legal** | External Party |
+|                      |                               |
+|----------------------|-------------------------------|
+| **Position**         | **Elected Official(s)**       |
+| **Champion**         | Jacob Rosenthal, Jeremy Leung |
+| **Secretary**        | Andrea Young                  |
+| **Treasurer**        | VACANT                        |
+| **Marketing**        | Rick Osgood                   |
+| **Editor**           | David H                       |
+| **IT Administrator** | Zachary Giles, Will Bradley   |
+| **Resource Manager** | VACANT                        |
 
 ## Board Elections
 
