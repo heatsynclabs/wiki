@@ -19,6 +19,7 @@
 - Customizing HSL TWitter page to match the color scheme and style of the HSL website
 - Modeling/photo shooting HSL merchandise (currently just the shirt) to increase interest/sales/page hits
 - Convinving cali Lewis of GeekBrief.tv to wear an HSL shirt on her video podcast
+- Getting more HSL stickers made
 
 ## Office of IT Directors
 
