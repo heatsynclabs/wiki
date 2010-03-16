@@ -14,6 +14,9 @@ The design goals of this model are as follows:
 
 The chosen platform for the electronics is the [Lilypad Arduino](http://www.arduino.cc/en/Main/ArduinoBoardLilyPad) microcontroller board. After some experimentation with the open source Mitch Altman design I estimate that the ATMega328 controller will be overkill for this design, but will afford many future enhancement possibilities.
 
+© Designs and Code under this project distributed under Creative Commons 3.0 Attribution Share-Alike License\
+<http://creativecommons.org/licenses/by-sa/3.0/>
+
 ## Materials
 
 1 x LilyPad Arduino Mainboard [SparkFun DEV-09266](http://www.sparkfun.com/commerce/product_info.php?products_id=9266)\
