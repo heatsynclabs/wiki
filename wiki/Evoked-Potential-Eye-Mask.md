@@ -27,8 +27,9 @@ The chosen platform for the electronics is the [Lilypad Arduino](http://www.ardu
 1 x Spool of Conductive Thread - 234/34 4ply [SparkFun DEV-08549](http://www.sparkfun.com/commerce/product_info.php?products_id=8549)\
 1 x Surface Mount Navigation Switch [SparkFun COM-08184](http://www.sparkfun.com/commerce/product_info.php?products_id=8184)\
 8 x Triple Output SMD LED RGB [SparkFun COM-07844](http://www.sparkfun.com/commerce/product_info.php?products_id=7844)\
-2-8 x 4.7K Ohm SMD resistors (LEDs)\
-2 x 2.7K Ohm SMD resistors (Audio)\
+2-8 x 4.7K SMD resistors (LEDs)\
+2 x 2.7K SMD resistors (Audio)\
+4 x 10K resistors (audio mixer)\
 2 x 1μF SMD Capacitors\
 1 x Stereo Headphone Jack [RadioShack 274-249](http://www.radioshack.com/product/index.jsp?productId=2103452)\
 1 x Cheap set of headphones\
