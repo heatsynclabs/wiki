@@ -38,7 +38,7 @@ The chosen platform for the electronics is the [Lilypad Arduino](http://www.ardu
 ## Design
 
 [EPEM Source Code](EPEM-Source-Code)\
-[EPEM Schematic](EPEM-Schematic)\
+[EPEM Schematics](EPEM-Schematics)\
 
 ## Links
 
