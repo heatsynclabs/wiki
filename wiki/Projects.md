@@ -6,7 +6,7 @@
 - [Magomatic V2](Magomatic-V2)
 - [Nearspace Balloon](Nearspace-Balloon)
 - [Hax0r Candy Machine](Hax0r-Candy-Machine)
-- [Evoked Potential Mask](Evoked-Potential-Mask)
+- [Evoked Potential Eye Mask](Evoked-Potential-Eye-Mask)
 
 ## Project Idea Wall
 
