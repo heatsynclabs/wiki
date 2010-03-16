@@ -1,6 +1,6 @@
 ## Summary
 
-The most basic concept for an evoked potential device is that of a warm crackling fire: The calming effect of sitting in front of the fireplace, watching the flames flicker, hearing the crackles, and feeling the pulsing heat all in tune of the same rhythm. One of the reasons for this effect (not discounting the many other psychological associations, basic warmth, etc.) is [Evoked Potential](http://en.wikipedia.org/wiki/Evoked_potential), the natural tendency of the brain to fire in sync with its sensory surroundings. Odds are that fire is flickering at a slow 4-12 Hz, the [Theta](http://en.wikipedia.org/wiki/Theta_wave) and [Alpha](http://en.wikipedia.org/wiki/Alpha_waves) ranges associated with calm relaxation.
+The most basic concept that can explain an evoked potential device is that of a warm crackling fire: The calming effect of sitting in front of the fireplace, watching the flames flicker, hearing the sound, and feeling the pulsing heat all in tune of the same rhythm. One of the reasons for this effect (not discounting the many other psychological associations, basic warmth, etc.) is [Evoked Potential](http://en.wikipedia.org/wiki/Evoked_potential), the natural tendency of the brain to fire in sync with its sensory surroundings. Odds are good that fire is flickering at a slow 4-12 Hz, the [Theta](http://en.wikipedia.org/wiki/Theta_wave) and [Alpha](http://en.wikipedia.org/wiki/Alpha_waves) ranges associated with calm relaxation.
 
 The goal of this project is to build a device that can induce these brain wave states using flashing LEDs and pulsing audio. Many other examples of this concept are currently out in the world, but one example near to the hearts of many in the Maker community is the Make [Brain Machine](http://blog.makezine.com/archive/2008/12/the_brain_machine.html) by [Mitch Altman](http://www.tvbgone.com/cfe_mfaire.php).\
 The design goals of this model are as follows:
@@ -33,3 +33,14 @@ The chosen platform for the electronics is the [Lilypad Arduino](http://www.ardu
 1 x Stereo Headphone Jack [RadioShack 274-249](http://www.radioshack.com/product/index.jsp?productId=2103452)\
 1 x Cheap set of headphones\
 1 x Eye mask ([Make Your Own](http://www.ehow.com/video_4404865_making-pattern-sewing-sleeping-mask.html))\
+
+## Design
+
+[EPEM Source Code](EPEM-Source-Code)\
+[EPEM Schematic](EPEM-Schematic)\
+
+## Links
+
+[LilyPad Home](http://web.media.mit.edu/~leah/LilyPad/index.html)\
+[Arduino Forum: How to implement a soft-reset button](http://www.arduino.cc/cgi-bin/yabb2/YaBB.pl?num=1260037835)\
+[BrainWave Machines](http://www.hackcanada.com/homegrown/wetware/brainwave/)\
