@@ -17,7 +17,8 @@ The chosen platform for the electronics is the [Lilypad Arduino](http://www.ardu
 ## Materials
 
 1 x LilyPad Arduino Mainboard [SparkFun DEV-09266](http://www.sparkfun.com/commerce/product_info.php?products_id=9266)\
-1 x FTDI-based USB Arduino programmer (I have an Arduino [MiniUSB](http://www.arduino.cc/en/Main/MiniUSB) which works with some minor [adjustments](http://web.media.mit.edu/~leah/LilyPad/01_comp_attach_text2.html#soldering).) 1 x LilyPad LiPower [SparkFun DEV-08786](http://www.sparkfun.com/commerce/product_info.php?products_id=8786)\
+1 x FTDI-based USB Arduino programmer (I have an Arduino [MiniUSB](http://www.arduino.cc/en/Main/MiniUSB) which works with some minor [adjustments](http://web.media.mit.edu/~leah/LilyPad/01_comp_attach_text2.html#soldering).)\
+1 x LilyPad LiPower [SparkFun DEV-08786](http://www.sparkfun.com/commerce/product_info.php?products_id=8786)\
 1 x LiPoly Charger - Single Cell 3.7-7V Input [SparkFun PRT-00726](http://www.sparkfun.com/commerce/product_info.php?products_id=726)\
 1 x Polymer Lithium Ion Batteries - 1000mAh [SparkFun PRT-00339](http://www.sparkfun.com/commerce/product_info.php?products_id=339)\
 1 x Spool of Conductive Thread - 234/34 4ply [SparkFun DEV-08549](http://www.sparkfun.com/commerce/product_info.php?products_id=8549)\
