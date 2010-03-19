@@ -12,17 +12,17 @@
 
 ## Tasks
 
-| Task         | Name           | Completed? |
-|--------------|----------------|------------|
-| Balloon      | Paul H         | No         |
-| Camera       | Will B         | No         |
-| Helium       | Paul H         | Yes        |
-| Parachute    | Casey D        | No         |
-| Container    | Rick O / Bobby | No         |
-| Radio        | Rick O         | No         |
-| GPS          | Zach           | Yes        |
-| Buzzer       | John           | No         |
-| Camera timer | Todd           | No         |
+| Task         | Name                  | Completed? |
+|--------------|-----------------------|------------|
+| Balloon      | Paul H                | No         |
+| Camera       | Will B                | No         |
+| Helium       | Paul H                | Yes        |
+| Parachute    | Casey D               | No         |
+| Container    | Rick O / Bobby / Nate | No         |
+| Radio        | Rick O                | No         |
+| GPS          | Zach                  | Yes        |
+| Buzzer       | John                  | No         |
+| Camera timer | Todd                  | No         |
 
 ## Synopsis
 
