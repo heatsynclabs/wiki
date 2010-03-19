@@ -26,7 +26,7 @@
 - Checking for incompatibilities of Wordpress plugins with the newest version of WP and removing plugins not being used
 - Contacting sponsors for a LAN Party
 - Contributing code to the HSL Toolshare web app
-- Creating a workshop-esque look-and-feel for the Toolshare DB web app
+- Creating a workshop-esque look-and-feel for the Toolshare DB web app (Nate Phillips)
 
 ## Office of the Treasurer
 
