@@ -12,12 +12,12 @@
 
 ## Office of the Marketing Director
 
-- Adding HSL events to various online calendars, including:
+- Adding HSL events to various online calendars, including: (Joyce T)
   - Make
   - Eventification
   - Facebook
-- Customizing HSL TWitter page to match the color scheme and style of the HSL website (Nate Phillips)
-- Modeling/photo shooting HSL merchandise (currently just the shirt) to increase interest/sales/page hits
+- Customizing HSL Teitter page to match the color scheme and style of the HSL website (Nate Phillips)
+- Modeling/photo shooting HSL merchandise (currently just the shirt) to increase interest/sales/page hits (Joyce and Zach?)
 - Convincing Cali Lewis of GeekBrief.tv to wear an HSL shirt on her video podcast
 - Getting more HSL stickers made
 
