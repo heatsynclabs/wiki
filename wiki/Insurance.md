@@ -6,11 +6,17 @@ I would definitely like someone to make some calls and log their results here
 
 I found some company who offers this vocational insurance: <http://www.nationwide.com/vocational-insurance-hb.jsp> [insurance1.pdf](files/Insurance1.pdf)
 
+Twin Cities Maker uses <https://www.fracturedatlas.org/> who apparently offer all sorts of neat services
+
 ### Board of Directors Insurance
 
 This is so the board can't be sued
 
 - Freeside Atlanta hackerspace's = 300/year
+
+We got a quote from Lovitt & Touché, Inc which was apparently just for D&O but came to 1k-2500 which was higher than we cared to pay
+
+Also looking into Carolina Casualty Insurance Company
 
 ### Liability
 
