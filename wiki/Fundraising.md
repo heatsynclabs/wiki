@@ -20,3 +20,20 @@ Feel free to brainstorm here on fund raising ideas. Also, we're using this space
 ## Donation Letter
 
 [Donation Letter](files/Donation_Request_Letter.doc)
+
+## Swag Ideas
+
+- TShirts - Currently selling. \$20 per shirt
+- Polos - In process. Cost to members will be around \$50.
+- Vinyl Stickers - Undetermined cost at this point. Being researched by Matt.
+- bot Kits - various kits for simple projects; led throwies, bristle bots, arduino kits
+- Circuit Board Necklaces - made from donated circuit boards and sold for \$15.
+- Rep Rap Printed {fillinblank} - something that was printed by the Rep Rap?
+
+### Swag on GoogleCheckOut Account
+
+#### Different Categories of Swag?
+
+- Swag - Misc
+- Swag - Space Balloon
+- Swag - (anything else)
