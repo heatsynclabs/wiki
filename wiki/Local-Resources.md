@@ -117,9 +117,9 @@ Great pricing, Cliff was my top choice for waterjetting because he was eager, fl
 
 - <http://design.asu.edu/it/digitallab.shtml>
 
-## Plastics
+### Plastics
 
-### Polystyrene Sheets
+#### Polystyrene Sheets
 
 - regal plastics 8-5 mon fri 602 437 1000 4ftx8ft .020 (20 thousandths) white - \$6.50 -prefer 25 dollar order but will do lower, cash only
 - professional plastics - 602 437 4555 -100 minimum
