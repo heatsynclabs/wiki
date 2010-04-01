@@ -1,14 +1,6 @@
 # Locating Stock
 
-Polystyrene seems to be the stock of choice?
-
-## Locally
-
-I haven't bought plastic in a while but generally these guys will sell to walk-ins. Scrap from sign shops used to be a good way of getting stuff to mess with, not sure if it isn't all recycled these days.
-
-- Plastics General Inc 455 W Diamond Dr \# 101 Tempe, AZ 85283-3668 Phone: (480) 839-0070
-- Harrington Industrial Plastics 1048 W Maricopa Fwy Phoenix, AZ 85007-4145 Phone: (602) 252-7616
-- Century Plastics Inc 1542 E Victory St Phoenix, AZ 85040-1307 Phone: (602) 268-2003
+Polystyrene seems to be the stock of choice. You may also be able to use polycarbonate or petg (also known as bivac and which may also allow for no predrying). Several people have recommended locating scrap from sign shops (like for sale signs and such) as those are made out of polystyrene. See the [Local_Resources#Polystyrene_Sheets](Local-Resources#polystyrene-sheets) page for vendors who are willing to do small quantity walk in purchases.
 
 # Process
 
