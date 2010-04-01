@@ -116,3 +116,11 @@ Great pricing, Cliff was my top choice for waterjetting because he was eager, fl
 ### Prototyping Labs
 
 - <http://design.asu.edu/it/digitallab.shtml>
+
+## Plastics
+
+### Polystyrene Sheets
+
+- regal plastics 8-5 mon fri 602 437 1000 4ftx8ft .020 (20 thousandths) white - \$6.50 -prefer 25 dollar order but will do lower, cash only
+- professional plastics - 602 437 4555 -100 minimum
+- import 480 813 6118 - .060 4x8 in stock 17.75 no minimum
