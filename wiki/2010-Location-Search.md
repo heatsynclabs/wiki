@@ -46,7 +46,7 @@ Update:Still no contact back from D.A. Need to follow up with him again.
 - frankly were in some ways in competition with DA, we're our own incubator with our own model - either competition or cooperation with the other artists in there
 - so far no follow up from D.A.
 
-===PHX Arts district location
+### PHX Arts district location
 
 - sq footage?
 - "far lower than 2k a month"
