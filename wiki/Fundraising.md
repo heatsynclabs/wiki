@@ -1,6 +1,8 @@
-Feel free to brainstorm here on fund raising ideas. Also, we're using this space to help plan for upcoming fund raisers that we've decided on.
+Feel free to brainstorm here on fund raising ideas and track their progress. The board has set a conservative goal of a single fundraiser per month that raises at least \$150.
 
 ## Upcoming Fundraisers
+
+Lan Party 5/1/2010 noon-midnight
 
 ## Previous Fundraisers
 
@@ -8,7 +10,6 @@ Feel free to brainstorm here on fund raising ideas. Also, we're using this space
 
 ## Fundraising Ideas
 
-- LAN Party Extravaganza
 - Local Business Kickback - Take this flyer in to here so we can get a donation plz
 - Breakfast Burritos
 - HeatSync Labs BBQ
