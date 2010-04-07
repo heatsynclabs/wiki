@@ -37,12 +37,11 @@ Update: David will not be able to host us after all. We can still look at our ow
 
 - between 300-1400 depending on our budget
 - as low as \$250, as much as \$1100
-- Downtown PHX arts district area
+- Downtown PHX arts district area [718 N. 4th St](http://maps.google.com/maps?q=718+N.+4th+St&ie=UTF8&hl=en&hq=&hnear=718+N+4th+St,+Phoenix,+Maricopa,+Arizona+85004&z=16)
 - communal facilities-outside area for performance and chilling - inside area for workshops and classrooms
 - artists-much more the artist style hackerspace
 - some reports that David is a strong personality
 - frankly we're in some ways in competition with DA. We're our own incubator with our own model - either competition or cooperation with the other artists in there
-- <http://maps.google.com/maps?q=718+N.+4th+St&ie=UTF8&hl=en&hq=&hnear=718+N+4th+St,+Phoenix,+Maricopa,+Arizona+85004&z=16>
 
 ### PHX Arts district location
 
