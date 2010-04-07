@@ -35,16 +35,14 @@ Update: David will not be able to host us after all. We can still look at our ow
 
 ### D.A. Thierren's thing
 
-Update:Still no contact back from D.A. Need to follow up with him again.
-
-- sq. footage?
-- as low as \$250?
-- Downtown PHX arts district area somewhere
-- communal facilities
-- artists-more the artist style hackerspace
-- some negative reports re Thierren's attitudes and actions
-- frankly were in some ways in competition with DA, we're our own incubator with our own model - either competition or cooperation with the other artists in there
-- so far no follow up from D.A.
+- between 300-1400 depending on our budget
+- as low as \$250, as much as \$1100
+- Downtown PHX arts district area
+- communal facilities-outside area for performance and chilling - inside area for workshops and classrooms
+- artists-much more the artist style hackerspace
+- some reports that David is a strong personality
+- frankly we're in some ways in competition with DA. We're our own incubator with our own model - either competition or cooperation with the other artists in there
+- <http://maps.google.com/maps?q=718+N.+4th+St&ie=UTF8&hl=en&hq=&hnear=718+N+4th+St,+Phoenix,+Maricopa,+Arizona+85004&z=16>
 
 ### PHX Arts district location
 
