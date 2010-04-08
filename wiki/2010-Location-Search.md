@@ -20,18 +20,18 @@ The 5013 documentation financials were great for the board to be able to estimat
 
 ### Innovations Chandler
 
-Update: David will not be able to host us after all. We can still look at our own space there which would come to ~1500 utils and insurance inclusive. We may still have access to his tools in his suite.
+![](files/Location-Innovations1.jpg)
 
-- 500sq feet sub lease
-- ~500-800
+*right*
+
+- 1500sq feet
+- ~1500
 - Less chandler, but still quite chandler [145 S 79th street Chandler Az](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=+145+S+79th+street+Chandler+Az&sll=33.439457,-111.950989&sspn=0.008595,0.010707&ie=UTF8&hq=&hnear=145+S+79th+St,+Chandler,+Maricopa,+Arizona+85226&z=16)
 - some communal facilities, enough to hold our meetings there?
-- free insurance(thousands of dollars in value)
-- free access to advanced tools such as laser cutter(which will bring in members)
-- Sterile
-- very entrepreneurial and business-y
+- free insurance(~\$2-4k in value)
+- free access to advanced tools such as laser cutter(which will bring in members)(from David's space there)
+- Sterile and very entrepreneurial and business-y vs a typical artists/hacker model
 - temporary (1-3 years)
-- Trust and like David
 
 ### D.A. Thierren's thing
 
