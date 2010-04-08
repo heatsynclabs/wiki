@@ -36,7 +36,7 @@ The 5013 documentation financials were great for the board to be able to estimat
 ### D.A. Thierren's thing
 
 - between 300-1400 depending on our budget
-- as low as \$250, as much as \$1100
+- as low as \$250, as much as \$1100 plus \$50 cams
 - Downtown PHX arts district area [718 N. 4th St](http://maps.google.com/maps?q=718+N.+4th+St&ie=UTF8&hl=en&hq=&hnear=718+N+4th+St,+Phoenix,+Maricopa,+Arizona+85004&z=16)
 - communal facilities-outside area for performance and chilling - inside area for workshops and classrooms
 - artists-much more the artist style hackerspace
