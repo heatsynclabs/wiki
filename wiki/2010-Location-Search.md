@@ -24,7 +24,7 @@ The 5013 documentation financials were great for the board to be able to estimat
 
 *right*
 
-- 1500sq feet
+- 1000sq feet
 - ~1500
 - Less chandler, but still quite chandler [145 S 79th street Chandler Az](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=+145+S+79th+street+Chandler+Az&sll=33.439457,-111.950989&sspn=0.008595,0.010707&ie=UTF8&hq=&hnear=145+S+79th+St,+Chandler,+Maricopa,+Arizona+85226&z=16)
 - some communal facilities, enough to hold our meetings there?
