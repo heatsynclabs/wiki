@@ -1,17 +1,19 @@
-Were always looking for more presentations! What knowledge can you pass on to the rest of us? Below are the presentations we've already seen (please add the ones I'm forgetting). It is our hope to begin uploading slides/video of these presentations in the future. Also, feel free to request a presentation on some topic you're interested in--Maybe one of our group knows something about it. You can also request a repeat of a previous presentation.
+HeatSync Labs is always looking for more presentations to host at our monthly meetings. What would you like to hear about and what knowledge can you impart to the rest of us? The following list is a record of past presenters and presentations topics. We hope to upload presentation slides/videos in the future. Also, feel free to request a presentation on a topic you are interested in; chances are someone may in a group may know something about it. You can also request a repeat of a previous presentation.
 
-## Ideas?
+If you are interested in presenting a topic at one of our meetings, please contact one of the Board members.
 
-Maybe tie in with a monthly theme about a particular item and the techniques (casting, milling, spinning, etc) used to make it, have the a monthly demo meeting tied into that also. Again always reach back to the rawest materials and methods, pyramid on previously covered materials and techniques.
+### Presentation Suggestions for the Future
+
+If you have something you'd like to see, please add it in a bullet here. Maybe tie in a monthly theme regarding a particular item or technique (i.e. casting, milling, or spinning) and include a monthly demo. Try to focus on fundamental materials or methods to build on previously covered topics.
 
 - Vacuum forming
-- 3d design and printing
+- 3D design and printing
+- Papercraft and origami
 
-INCLUDE YOUR IDEAS HERE!
-
-## Past
+### Past Presentation Topics
 
 - Astronomy
 - Eagle PCB Layout and Design
 - PCB Chemical Etching,Heat Transfer, with FeCl
-- Lock Picking (http://toool.us/membership.html)
+- [Lock Picking](http://toool.us/membership.html=)
+- [Cube.ly 3D printing design](http://cube.ly=)
