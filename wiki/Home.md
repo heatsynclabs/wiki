@@ -4,13 +4,7 @@
 
 '''</big>
 
-This page is a place to submit and talk about various ideas about [HeatSyncLabs](http://www.heatsynclabs.org) a [HackerSpace](http://hackerspaces.org/wiki/Hackerspaces) in the Phoenix metro region of Arizona This wiki should be a:
-
-- record of decisions made
-- window into the continuing actions of your board members
-- place to store ideas for future action
-- roadmap for others to follow
-- collaborative environment
+Welcome to the HeatSync Labs wiki. HeatSync Labs is an Arizona nonprofit workshop which empowers engineers and artists to create and invent while promoting interest in expanding the limits of technology beyond its intended use. This is a collaborative area to record the decisions made by the Board of Directors, share ideas and plans for future action, and track the progress of member projects.
 
 <table style="width:10%;">
 <colgroup>
