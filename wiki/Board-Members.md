@@ -17,6 +17,6 @@ We're asking for nominations for candidates for the office of Treasurer and Reso
 
 ## Board Elections
 
-If you're interested in how these people got to be in the board, look at this page:
+If you are interested in how these people got to be in the board, look at this page:
 
-[Board Elections](Board-Elections)
+- [Board Elections](Board-Elections)
