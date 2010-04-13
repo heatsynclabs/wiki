@@ -1,12 +1,14 @@
 ## Hackerspace Survey
 
-Please submit links from the web here that we have found helpful in defining ourselves.
+There has been a lot of discussion concerning the term Hackerspace. The following links are ones we have found helpful in defining what a hackerspace is, the role of a hackerspace within a community, and what is done at a hackerspace. The issues discussed in the following definitions and articles are considered as we continue to define who we are.
+
+### Links
 
 NY Times article describing Techshops and Hackerspaces
 
 - <http://www.nytimes.com/2010/04/11/business/11ping.html?ref=business>
 
-Hackerspaces Lessons Learned
+Hackerspace Lessons Learned
 
 - <http://hackerspaces.org/wiki/Metalab/Lessons_learned>
 
@@ -16,8 +18,8 @@ Building Hackerspaces Everywhere
 
 Successful Hackerspaces in Kansas City
 
-- [CCCKC](http://wiki.cowtowncomputercongress.org/index.php/Main_Page)
 - Includes a video of the place, some decent numbers, and about the same amount of area we're looking at.
+- [CCCKC](http://wiki.cowtowncomputercongress.org/index.php/Main_Page)
 
 Building a Hackerspace File
 
