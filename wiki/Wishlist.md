@@ -1,4 +1,6 @@
-## Project/Tools/Ideas
+The Wishlist is an area to add specific project ideas or tool and material requests. Tools donated or acquired by HeatSync Labs can be found on the [Library](Library) page.
+
+## Project Ideas / Tools
 
 - Embedded circuit design/electronics lab tools
 - [Rep Rap!](http://reprap.org/wiki/Main_Page=)
