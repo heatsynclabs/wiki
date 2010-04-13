@@ -76,5 +76,3 @@ Welcome to the HeatSync Labs wiki. HeatSync Labs is an Arizona nonprofit worksho
 </table>
 
 <small>Newly... [edited articles](Special-Recentchanges), [created articles](Special-Newpages), [uploaded images](Special-Newimages)</small>
-
-## Headline text
