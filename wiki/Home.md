@@ -2,9 +2,7 @@
 
 ## Welcome to the HeatSync Labs Wiki!
 
-'''</big>
-
-Welcome to the HeatSync Labs wiki. HeatSync Labs is an Arizona nonprofit workshop which empowers engineers and artists to create and invent while promoting interest in expanding the limits of technology beyond its intended use. This is a collaborative area to record the decisions made by the Board of Directors, share ideas and plans for future action, and track the progress of member projects.
+Welcome to the HeatSync Labs wiki. HeatSync Labs is Arizona's nonprofit workshop which empowers engineers and artists to create and invent while promoting interest in expanding the limits of technology beyond its intended use. This is a collaborative area to record the decisions made by the Board of Directors, share ideas and plans for future action, and track the progress of member projects.
 
 <table style="width:10%;">
 <colgroup>
@@ -34,7 +32,6 @@ Welcome to the HeatSync Labs wiki. HeatSync Labs is an Arizona nonprofit worksho
 <p>Noteworthy Resources</p>
 </div>
 <ul>
-<li><a href="Online-Links">Online Links</a></li>
 <li><a href="Local-Resources">Local Resources</a></li>
 </ul>
 <div style="margin:0;background-color:#e0ffe0;font-size:120%;font-weight:bold;border:1px solid #80e080;text-align:left;color:#000;padding:0.2em 0.4em;">
