@@ -20,6 +20,11 @@ Welcome to the HeatSync Labs Wiki. [HeatSync Labs](HeatSync-Labs) is Arizona's n
 <li><a href="Phoenix-RepRap">Phoenix RepRap</a></li>
 <li><a href="Nearspace-Balloon">Nearspace Balloon</a></li>
 </ul></li>
+<li><a href="Events">Events</a>
+<ul>
+<li><a href="Arduino-Night">Arduino Night</a></li>
+<li><a href="First-Friday">First Friday</a></li>
+</ul></li>
 <li><a href="Suggestions">Suggestions</a></li>
 <li><a href="Wishlist">Wishlist</a></li>
 </ul>
