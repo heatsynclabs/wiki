@@ -14,9 +14,9 @@ Building Hackerspaces Everywhere
 
 - <http://odeo.com/episodes/24337669-Building-hacker-spaces-everywhere-Your-excuses-are-invalid>
 
-Successful Hackerspaces in Kansas
+Successful Hackerspaces in Kansas City
 
-- [CCCKC](http://wiki.cowtowncomputercongress.org/index.php/Main_Page) -- Successful HackerSpace in Kansas City.
+- [CCCKC](http://wiki.cowtowncomputercongress.org/index.php/Main_Page)
 - Includes a video of the place, some decent numbers, and about the same amount of area we're looking at.
 
 Building a Hackerspace File
