@@ -36,9 +36,9 @@ There is much written about how large a board should be. Some non profits will s
 ## Interested In Being a Board Member?
 
 Three questions for everyone!\
-**1)** Do you see yourself in any of these job roles?\
-**2)** Are any of these roles unnecessary for the organization?\
-**3)** Is there anything additional we should account for?\
+\# Do you see yourself in any of these job roles?\
+\# Are any of these roles unnecessary for the organization?\
+\# Is there anything additional we should account for?\
 
 ## Current Board Members
 
