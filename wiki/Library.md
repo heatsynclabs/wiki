@@ -1,6 +1,6 @@
 |  |  |  |  |  |  |  |  |
 |:---|:---|:---|:---|:---|:---|:---|:---|
-| **Reference Materials** | '''''' | '''''' | '''''' | '''''' | **Ownership Status** | '''''' | '''''' |
+| **Reference Materials** | ''''' | ''''' | ''''' | ''''' | **Ownership Status** | ''''' | ''''' |
 | **Name** | **ISBN** | **Author** | **Genre** | **Year** | **Donor** | **Owner** | **Publisher/Series** |
 | A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing | 0-393005782-8 | Malkiel, Burton G. | Nonfiction | 2003 |  |  |  |
 | American Red Cross, Community First Aid and Safety | 1-58480-105-0 | Staywell | Textbook | 2002 |  |  |  |
