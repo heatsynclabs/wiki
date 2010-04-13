@@ -1,4 +1,8 @@
-<big>**Welcome to the HeatSync Labs Wiki!**</big>
+<big>'''
+
+## Welcome to the HeatSync Labs Wiki!
+
+'''</big>
 
 This page is a place to submit and talk about various ideas about [HeatSyncLabs](http://www.heatsynclabs.org) a [HackerSpace](http://hackerspaces.org/wiki/Hackerspaces) in the Phoenix metro region of Arizona This wiki should be a:
 
@@ -25,27 +29,28 @@ This page is a place to submit and talk about various ideas about [HeatSyncLabs]
 <li><a href="Suggestions">Suggestions</a></li>
 <li><a href="Wishlist">Wishlist</a></li>
 </ul>
-<div style="margin:0;background-color:#e0ffe0;font-size:120%;font-weight:bold;border:1px solid #000;text-align:left;color:#000;padding:0.2em 0.4em;">
+<div style="margin:0;background-color:#e0ffe0;font-size:120%;font-weight:bold;border:1px solid #80e080;text-align:left;color:#000;padding:0.2em 0.4em;">
 <p>Library and Toolshare</p>
 </div>
 <ul>
 <li><a href="Library">Library</a></li>
 <li><a href="Toolshare">Toolshare</a></li>
 </ul>
-<div style="margin:0;background-color:#e0ffe0;font-size:120%;font-weight:bold;border:1px solid #000;text-align:left;color:#000;padding:0.2em 0.4em;">
+<div style="margin:0;background-color:#e0ffe0;font-size:120%;font-weight:bold;border:1px solid #80e080;text-align:left;color:#000;padding:0.2em 0.4em;">
 <p>Noteworthy Resources</p>
 </div>
 <ul>
 <li><a href="Online-Links">Online Links</a></li>
 <li><a href="Local-Resources">Local Resources</a></li>
 </ul>
-<div style="margin:0;background-color:#e0ffe0;font-size:120%;font-weight:bold;border:1px solid #000;text-align:left;color:#000;padding:0.2em 0.4em;">
+<div style="margin:0;background-color:#e0ffe0;font-size:120%;font-weight:bold;border:1px solid #80e080;text-align:left;color:#000;padding:0.2em 0.4em;">
 <p>Non-Noteworthy Administrivia</p>
 </div>
 <ul>
 <li><a href="Board-Members">Board Members</a></li>
 <li><a href="Board-Elections">Board Elections</a> (historic)</li>
 <li><a href="Meeting-Minutes">Meeting Minutes</a></li>
+<li><a href="Community-Involvement">Community Involvement</a></li>
 </ul></td>
 <td width="50%" data-valign="top" style="border: 1px solid #a0a0ff; border-right-width: 3px; border-bottom-width: 3px; padding: .5em 1em; margin: 1em; background-color: #f0f0ff;"><div style="margin:0;background-color:#e0e0ff;font-size:120%;font-weight:bold;border:1px solid #a0a0ff;text-align:left;color:#000;padding:0.2em 0.4em;">
 <p>Setup Research</p>
@@ -77,3 +82,5 @@ This page is a place to submit and talk about various ideas about [HeatSyncLabs]
 </table>
 
 <small>Newly... [edited articles](Special-Recentchanges), [created articles](Special-Newpages), [uploaded images](Special-Newimages)</small>
+
+## Headline text
