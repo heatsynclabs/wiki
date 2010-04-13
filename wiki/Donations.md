@@ -28,4 +28,6 @@ Please compile a list of corporations and entities we would like to approach, an
 
 ### Donation Letter
 
-[Donation Letter](files/Donation_Request_Letter.doc)
+The following is a Board drafted donation letter that can be used for soliciting donations for HeatSync Lab events or activities.
+
+- [Donation Letter](files/Donation_Request_Letter.doc)
