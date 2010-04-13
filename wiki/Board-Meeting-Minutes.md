@@ -1,5 +1,7 @@
 ## Public
 
+Please note that the meeting minutes for the monthly meetings are now being documented on our [blog](http://www.heatsynclabs.org/=). Refer there for upcoming event notices and happenings. The ones listed below are historic.
+
 ### November
 
 - [ 19 Nov 2009](19-Nov-2009)
@@ -7,10 +9,6 @@
 ### December
 
 - [ 3 Dec 2009](3-Dec-2009)
-
-### January-current
-
-- Currently being updated on our blog mainpage per meeting.
 
 ## Board
 
