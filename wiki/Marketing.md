@@ -16,3 +16,7 @@ We can use this page to brainstorm and research various methods of marketing to 
 Free Google Ads for Non-Profits(Waiting on Tax-Exempt Status):
 
 - <http://www.google.com/grants/>
+
+# Materials
+
+Vinyl Scrim Banner [\$6 per sq ft full color](http://3monkeyspad.com/orders_templates.html) -- I think this would be preferred to canvas?
