@@ -98,11 +98,19 @@ A Connecticut native, Rick O is a graduate of UAT and an refugee of DC480. When 
 
 <b>huertanix \[at\] heatsynclabs.org </b>
 
+<div style="float:right">
+
 ![](files/David.jpg)
 
 *david.jpg*
 
+</div>
+
 After arriving in Arizona from the posh, cosmopolitan enclave of southeastern Idaho, David founded the DeVry Linux User Group (DeLUG) in 2003, an originally student organization that drew members and activities from the greater West Valley Free software community, including other students at GCC and ASU West. An IEEE member, David was also the chair for the IEEE Computer Society Student Branch at DeVry in 2005. He remains a member of the IEEE Computer Society and currently serves as the chair of the Phoenix IEEE GOLD Affinity Group.
+
+<div style="clear: both">
+
+</div>
 
 ### IT ADMINISTRATORS
 
