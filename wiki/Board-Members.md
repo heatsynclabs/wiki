@@ -118,11 +118,19 @@ After arriving in Arizona from the posh, cosmopolitan enclave of southeastern Id
 
 <b> will \[at\] heatsynclabs.org </b>
 
+<div style="float:right">
+
 ![](files/Will.jpg)
 
 *will.jpg*
 
+</div>
+
 Hailing from the exotic Kingdom of Hawaii, Will has been an IT Manager and System Administrator since 2004, as well a university-educated, freelancing code monkey. SQL injection, lockpicking, ARP spoofing, dremels, and WEP cracking are not unfamiliar to him, whereas electronics, microcontrollers, rapid prototyping, and Ruby on Rails are new territory ripe for conquest. Hobbies include video production, photography, gaming, snowboarding, and trolling.
+
+<div style="clear: both">
+
+</div>
 
 #### Zachary Giles
 
