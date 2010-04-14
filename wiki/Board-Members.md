@@ -14,7 +14,7 @@ Our current slate of officers are the following:
 
 #### Jeremy Leung
 
-##### jeremyl \[at\] heatsynclabs.org
+<b> jeremyl \[at\] heatsynclabs.org </b>
 
 ![](files/Jeremy.jpg)
 
@@ -24,7 +24,7 @@ Originally from Deutschland, Jeremy immediately fell in love with the American h
 
 #### Jacob Rosenthal
 
-##### jacob \[at\] heatsynclabs.org
+<b> jacob \[at\] heatsynclabs.org </b>
 
 ![](files/Jacob.jpg)
 
@@ -36,7 +36,7 @@ Jacob is gainfully employed with Arizona State University as an Application Syst
 
 #### Andrea Young
 
-##### drea \[at\] heatsynclabs.org
+<b> drea \[at\] heatsynclabs.org </b>
 
 ![](files/Drea.jpg)
 
@@ -52,7 +52,7 @@ Vacant
 
 #### Rick Osgood
 
-##### ricko \[at\] heatsynclabs.org
+<b> ricko \[at\] heatsynclabs.org </b>
 
 ![](files/Rick.jpg)
 
@@ -62,9 +62,9 @@ A Connecticut native, Rick O is a graduate of UAT and an refugee of DC480. When 
 
 ### EDITOR
 
-#### David Huerta
+#### David H
 
-##### huertanix \[at\] heatsynclabs.org
+<b>huertanix \[at\] heatsynclabs.org </b>
 
 ![](files/David.jpg)
 
@@ -76,7 +76,7 @@ After arriving in Arizona from the posh, cosmopolitan enclave of southeastern Id
 
 #### Will Bradley
 
-##### will \[at\] heatsynclabs.org
+<b> will \[at\] heatsynclabs.org </b>
 
 ![](files/Will.jpg)
 
@@ -86,7 +86,7 @@ Hailing from the exotic Kingdom of Hawaii, Will has been an IT Manager and Syste
 
 #### Zachary Giles
 
-##### zgiles \[at\] heatsynclabs.org
+<b> zgiles \[at\] heatsynclabs.org </b>
 
 ![](files/Zach.jpg)
 
