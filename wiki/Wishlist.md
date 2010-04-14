@@ -19,7 +19,7 @@ For cheaper tools [ Auctions](Local-Resources#auctions), [Craigslist](http://www
 - CNC: [DIY](http://hackaday.com/2009/11/13/diylilcnc-do-it-yourself-cnc-mill/=) or [Pro](http://www.shopbot.com)
 - Laser Cutter
 
-===Epilog Laser Cutter Price List 2/19/2010==
+### Epilog Laser Cutter Price List 2/19/2010
 
 |  |  |  |  |  |
 |:---|:---|:---|:---|:---|
