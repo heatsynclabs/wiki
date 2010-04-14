@@ -26,14 +26,13 @@ Welcome to the HeatSync Labs Wiki. [HeatSync Labs](HeatSync-Labs) is Arizona's n
 <li><a href="First-Friday">First Friday</a></li>
 </ul></li>
 <li><a href="Suggestions">Suggestions</a></li>
-<li><a href="Wishlist">Wishlist</a></li>
 </ul>
 <div style="margin:0;background-color:#e0ffe0;font-size:120%;font-weight:bold;border:1px solid #80e080;text-align:left;color:#000;padding:0.2em 0.4em;">
 <p>Library and Toolshare</p>
 </div>
 <ul>
 <li><a href="Library">Library</a></li>
-<li><a href="Toolshare">Toolshare</a></li>
+<li><a href="Wishlist">Wishlist</a></li>
 </ul>
 <div style="margin:0;background-color:#e0ffe0;font-size:120%;font-weight:bold;border:1px solid #80e080;text-align:left;color:#000;padding:0.2em 0.4em;">
 <p>Noteworthy Resources</p>
