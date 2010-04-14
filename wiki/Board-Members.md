@@ -118,7 +118,7 @@ After arriving in Arizona from the posh, cosmopolitan enclave of southeastern Id
 
 <b> will \[at\] heatsynclabs.org </b>
 
-<div style="float:right">
+<div style="float:left">
 
 ![](files/Will.jpg)
 
