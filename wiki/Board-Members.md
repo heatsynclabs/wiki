@@ -136,7 +136,7 @@ Hailing from the exotic Kingdom of Hawaii, Will has been an IT Manager and Syste
 
 <b> zgiles \[at\] heatsynclabs.org </b>
 
-<div style="float:right">
+<div style="float:left">
 
 ![](files/Zach.jpg)
 
