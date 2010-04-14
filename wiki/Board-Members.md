@@ -54,11 +54,19 @@ Jacob is gainfully employed with Arizona State University as an Application Syst
 
 <b> drea \[at\] heatsynclabs.org </b>
 
+<div style="float:left">
+
 ![](files/Drea.jpg)
 
 *drea.jpg*
 
+</div>
+
 Drea, the rose-scented feminine goddess among stinky nerd boys, is an Arizona native and graduate of ASU. Even though she abandoned her intent to become an attorney, her love of paperwork and keen organization skills were not lost. Currently functioning as secretary (as well as den mother, maid, legal counsel, and a source of entertainment) she is the go-to person for structural, membership, and calendar related questions! You can usually find Drea with her nose in a book, video game, or HSL documents.
+
+<div style="clear: both">
+
+</div>
 
 ### TREASURER
 
