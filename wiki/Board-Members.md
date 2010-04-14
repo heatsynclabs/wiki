@@ -136,11 +136,19 @@ Hailing from the exotic Kingdom of Hawaii, Will has been an IT Manager and Syste
 
 <b> zgiles \[at\] heatsynclabs.org </b>
 
+<div style="float:right">
+
 ![](files/Zach.jpg)
 
 *zach.jpg*
 
+</div>
+
 As a long time proponent of open source and hardware, Zach has played several active roles to promote its adoption. At ASU, he led countless minions to the Free software world through his presidency at ASULUG. After graduation, he passed the torch on to new converts and decided to extend his contribution to the open source community beyond ASU. In 2009, Zach founded Digital Desert, a datacenter that contributes resources to the open source community at large, including the only non-snail powered Slackware mirror and servers for both ASULUG and DeLUG. Zach's other areas of interest include amateur radio, photography, and supercomputing (which lead to a role in building SCinet, the world's fastest network in 2009).
+
+<div style="clear: both">
+
+</div>
 
 ### RESOURCE MANAGER
 
