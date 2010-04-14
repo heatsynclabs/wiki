@@ -34,11 +34,19 @@ Originally from Deutschland, Jeremy immediately fell in love with the American h
 
 <b> jacob \[at\] heatsynclabs.org </b>
 
+<div style="float:right">
+
 ![](files/Jacob.jpg)
 
 *jacob.jpg*
 
+</div>
+
 Jacob is gainfully employed with Arizona State University as an Application Systems Analyst which is currently code for Web and Database Developer. He also participates in Human Computer Interaction research at ASU's CUbiC research laboratory designing wearable computer interfaces. He believes in open vs. closed systems, collaboration vs. competition, and danger vs. comfort.
+
+<div style="clear: both">
+
+</div>
 
 ### SECRETARY
 
