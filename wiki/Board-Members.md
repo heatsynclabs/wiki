@@ -24,7 +24,11 @@ Originally from Deutschland, Jeremy immediately fell in love with the American h
 
 #### Jacob Rosenthal
 
-jacob \[at\] heatsynclabs.org
+##### jacob \[at\] heatsynclabs.org
+
+![](files/Jacob.jpg)
+
+*jacob.jpg*
 
 Jacob is gainfully employed with Arizona State University as an Application Systems Analyst which is currently code for Web and Database Developer. He also participates in Human Computer Interaction research at ASU's CUbiC research laboratory designing wearable computer interfaces. He believes in open vs. closed systems, collaboration vs. competition, and danger vs. comfort.
 
@@ -33,6 +37,10 @@ Jacob is gainfully employed with Arizona State University as an Application Syst
 #### Andrea Young
 
 ##### drea \[at\] heatsynclabs.org
+
+![](files/Drea.jpg)
+
+*drea.jpg*
 
 Drea, the rose-scented feminine goddess among stinky nerd boys, is an Arizona native and graduate of ASU. Even though she abandoned her intent to become an attorney, her love of paperwork and keen organization skills were not lost. Currently functioning as secretary (as well as den mother, maid, legal counsel, and a source of entertainment) she is the go-to person for structural, membership, and calendar related questions! You can usually find Drea with her nose in a book, video game, or HSL documents.
 
@@ -46,6 +54,10 @@ Vacant
 
 ##### ricko \[at\] heatsynclabs.org
 
+![](files/Rick.jpg)
+
+*rick.jpg*
+
 A Connecticut native, Rick O is a graduate of UAT and an refugee of DC480. When he's not hacking together spy gadgets to combat evil Corporations, Rick O spends his time helping HeatSync Labs get on its feet. Tweeting, Facebooking, emailing, and yelling out into the streets while wearing a lab coat and goggles are just some of the things he does to help out. He also enjoys programming, microcontrollers, network security, and long walks on the beach.
 
 ### EDITOR
@@ -53,6 +65,10 @@ A Connecticut native, Rick O is a graduate of UAT and an refugee of DC480. When 
 #### David Huerta
 
 ##### huertanix \[at\] heatsynclabs.org
+
+![](files/David.jpg)
+
+*david.jpg*
 
 After arriving in Arizona from the posh, cosmopolitan enclave of southeastern Idaho, David founded the DeVry Linux User Group (DeLUG) in 2003, an originally student organization that drew members and activities from the greater West Valley Free software community, including other students at GCC and ASU West. An IEEE member, David was also the chair for the IEEE Computer Society Student Branch at DeVry in 2005. He remains a member of the IEEE Computer Society and currently serves as the chair of the Phoenix IEEE GOLD Affinity Group.
 
@@ -62,11 +78,19 @@ After arriving in Arizona from the posh, cosmopolitan enclave of southeastern Id
 
 ##### will \[at\] heatsynclabs.org
 
+![](files/Will.jpg)
+
+*will.jpg*
+
 Hailing from the exotic Kingdom of Hawaii, Will has been an IT Manager and System Administrator since 2004, as well a university-educated, freelancing code monkey. SQL injection, lockpicking, ARP spoofing, dremels, and WEP cracking are not unfamiliar to him, whereas electronics, microcontrollers, rapid prototyping, and Ruby on Rails are new territory ripe for conquest. Hobbies include video production, photography, gaming, snowboarding, and trolling.
 
 #### Zachary Giles
 
 ##### zgiles \[at\] heatsynclabs.org
+
+![](files/Zach.jpg)
+
+*zach.jpg*
 
 As a long time proponent of open source and hardware, Zach has played several active roles to promote its adoption. At ASU, he led countless minions to the Free software world through his presidency at ASULUG. After graduation, he passed the torch on to new converts and decided to extend his contribution to the open source community beyond ASU. In 2009, Zach founded Digital Desert, a datacenter that contributes resources to the open source community at large, including the only non-snail powered Slackware mirror and servers for both ASULUG and DeLUG. Zach's other areas of interest include amateur radio, photography, and supercomputing (which lead to a role in building SCinet, the world's fastest network in 2009).
 
