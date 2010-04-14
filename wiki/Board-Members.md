@@ -78,11 +78,19 @@ Vacant
 
 <b> ricko \[at\] heatsynclabs.org </b>
 
+<div style="float:left">
+
 ![](files/Rick.jpg)
 
 *rick.jpg*
 
+</div>
+
 A Connecticut native, Rick O is a graduate of UAT and an refugee of DC480. When he's not hacking together spy gadgets to combat evil Corporations, Rick O spends his time helping HeatSync Labs get on its feet. Tweeting, Facebooking, emailing, and yelling out into the streets while wearing a lab coat and goggles are just some of the things he does to help out. He also enjoys programming, microcontrollers, network security, and long walks on the beach.
+
+<div style="clear: both">
+
+</div>
 
 ### EDITOR
 
