@@ -16,11 +16,19 @@ Our current slate of officers are the following:
 
 <b> jeremyl \[at\] heatsynclabs.org </b>
 
+<div style="float:right">
+
 ![](files/Jeremy.jpg)
 
 *jeremy.jpg*
 
+</div>
+
 Originally from Deutschland, Jeremy immediately fell in love with the American hacker community and is driven to promote the positive connotations of the word "hacker". After graduating from UAT and stepping down from leadership of DC480, to join the work force, he still had the lingering idea of wanting to make a mad scientists lab with his friends. During the day he works as a Trainer of Systems Technicians, Administrators and Engineers. At night he dons the appropriate safety gear to create things and push HeatSync Labs forward.
+
+<div style="clear: both">
+
+</div>
 
 #### Jacob Rosenthal
 
