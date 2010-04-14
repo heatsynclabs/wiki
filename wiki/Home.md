@@ -13,14 +13,13 @@
 <p>Community Information</p>
 </div>
 <ul>
-<li><a href="Presentations">Presentations</a></li>
-<li><a href="Processes">Processes</a></li>
 <li><a href="Projects">Projects</a>
 <ul>
 <li><a href="Phoenix-RepRap">Phoenix RepRap</a></li>
 <li><a href="Nearspace-Balloon">Nearspace Balloon</a></li>
 </ul></li>
-<li><a href="Events">Events</a>
+<li><a href="Events">Events</a></li>
+<li><a href="Presentations">Presentations</a>
 <ul>
 <li><a href="Arduino-Night">Arduino Night</a></li>
 <li><a href="First-Friday">First Friday</a></li>
@@ -32,6 +31,7 @@
 </div>
 <ul>
 <li><a href="Library">Library</a></li>
+<li><a href="Processes">Processes</a></li>
 <li><a href="Wishlist">Wishlist</a></li>
 </ul>
 <div style="margin:0;background-color:#e0ffe0;font-size:120%;font-weight:bold;border:1px solid #80e080;text-align:left;color:#000;padding:0.2em 0.4em;">
