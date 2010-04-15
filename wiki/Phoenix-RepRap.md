@@ -87,16 +87,19 @@ Mechanical construction
 
 Initial Build Done(ish)
 
-- There's one electronics/firmware/software problem we've been watching the entire build. Our Z axis has always moved... oddly. When running Z through the X or Y axis it actuates properly, but the Z output from the motherboard makes the motor move oddly and only in one direction.
+- There's one electronics/firmware/software problem we've been watching the entire build. Our Z axis has always moved... oddly. When running Z through the X or Y axis it actuates properly, but the Z output from the motherboard makes the motor move oddly and only in one direction.--Swapped for another board which is working fine, still haven't determined problem on old board though
 
   
 *Z-axis output issue fixed, now it just needs calibration.* --[Geekner](User-Geekner) 08:46, 10 March 2010 (UTC)
 
-- We're having some jerky movements in the Z mechanical construction. We believe we have diagnosed this down to issues with metric and standard conversions on a certain z axis nut.
-- The Extruder motor board didn't appear to be able to drive the motor (and all of a sudden our thermistor wasn't responding)
+- We're having some jerky movements in the Z mechanical construction. We believe we have diagnosed this down to issues with metric and standard conversions on a certain z axis nut. --works well enough for now
+- The Extruder motor board didn't appear to be able to drive the motor (and lots of thermistor problems)
+  - Have more powerful motor hooked up now but the pinch wheel is such a pain and the software is so bad I don't l know if its any better.
+  - Also have hooked up 'underpowered' motor through pololu A4983 and have seen it occasionally move in rep rap software, but it keeps crashing so not tested.
+  - Moving back to rep g the more powerful stepper seems to work now but isn't extruding. Pinch wheel problems or still underpowered?(altered rep g to take stepper)
+  - Havent yet found pinouts on the extruder board for repg firmware (different from rep rap firmware) to utilize the pololu stepper for use in rep g firmware
 
-  
-*Extruder motor now responds, but appears to be lacking the needed torque to feed plastic. Not enough power from extruder board's motor controller, we may have to use an alternate motor controller setup.* --[Geekner](User-Geekner) 08:46, 10 March 2010 (UTC)
+<strong>Try to print again in rep g, wait for David's design now that we have functioning stepper in repg, rewrite software to not crash and or try other extruder board to see if its more stable?, find pinouts on extruder board for stepper and direction pins (on rep rap they come off the mobo as sda and scl)</strong>
 
 ## Insufficiencies in Rep Rap Documentation
 
