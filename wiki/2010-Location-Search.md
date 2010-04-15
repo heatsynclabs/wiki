@@ -35,8 +35,12 @@ The 5013 documentation financials were great for the board to be able to estimat
 
 ### D.A. Thierren's thing
 
-- between 300-1400 depending on our budget
-- as low as \$250, as much as \$1100 plus \$50 cams
+1\. \$790 - 970 SF, the large west end room, mini split AC, small side window, 36" front door, large double back door, private bathroom 2. \$450 - 485 SF, the small room, AC or evap, no bathroom, sink optional, large storefront window, double rear door. 1 + 2. \$1100 - 1455 SF, private bathroom, AC, as above. 3. \$525-\$590 - 625 SF, large front entrance, double door rear entrance, evap or AC, \$525, if you share the bathroom with the building, \$590 if you don't.
+
+- CAM for First Friday, shared electricity, etc
+- move in cost is 1st and last month, plus a utility/clean-up/late deposit.
+- May for free while you paint, wire, build or whatever. building is as-is, no leaks, and we will make improvements as we go. We'll get cooling in ASAP. New rear double doors will be later, as rent comes in.
+- 1M in insurance necessary
 - Downtown PHX arts district area [718 N. 4th St](http://maps.google.com/maps?q=718+N.+4th+St&ie=UTF8&hl=en&hq=&hnear=718+N+4th+St,+Phoenix,+Maricopa,+Arizona+85004&z=16)
 - communal facilities-outside area for performance and chilling - inside area for workshops and classrooms
 - artists-much more the artist style hackerspace
