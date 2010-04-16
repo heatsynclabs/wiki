@@ -1,4 +1,4 @@
-Arduino Night is a time honored tradition that was originally started by another group at gangplank and soon thereafter, adopted by [HeatSync Labs](HeatSync-Labs). On the Third Thursday of each month, [HeatSync Labs](HeatSync-Labs) opens the door to welcome its constituent members and members of the community to learn how to program and use the Arduino microcontroller.
+Arduino Night is a time honored tradition that was originally started by another group at gangplank and soon thereafter, adopted by [HeatSync Labs](HeatSync-Labs). On the First Wednesday of each month, [HeatSync Labs](HeatSync-Labs) opens the door to welcome its constituent members and members of the community to learn how to program and use the Arduino microcontroller.
 
 Individuals of all skill levels are welcome. Either bring your own or use one of Arduino setups on-site. Tutorials are provided for beginners and more complex sensors and devices are available for intermediate and expert levels.
 
