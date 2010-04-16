@@ -51,11 +51,13 @@ This project will involve creating a set of rules and guidelines for HSL-sponsor
 
 1.  Requirements
     1.  Need a way to fire off multiple rockets simultaneously.
+        1.  Make Volume 20 had a "Mega Launcher" from a boyscout troop. Pops 10 at a time (or individually) Schematics: <http://makezine.com/20/megalauncher/> (Nate has all the parts to make this. consider 'em donated!)
 
 <!-- -->
 
 1.  Extras
     1.  A digital countdown timer would be sweet
+        1.  The Mega Launcher has a countdown buzzer, I believe. A digital clock could easily be inserted
 
 ## Rules
 
