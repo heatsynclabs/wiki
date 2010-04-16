@@ -47,6 +47,16 @@ This project will involve creating a set of rules and guidelines for HSL-sponsor
     2.  Finish Line Sensor
         1.  Simple set of switches to indicate 1st, 2nd, 3rd places. Arduino, small tactile pushbuttons, and some LEDs would easily accomplish this.
 
+### Launch Mechanism
+
+1.  Requirements
+    1.  Need a way to fire off multiple rockets simultaneously.
+
+<!-- -->
+
+1.  Extras
+    1.  A digital countdown timer would be sweet
+
 ## Rules
 
 1.  Use Common Sense
