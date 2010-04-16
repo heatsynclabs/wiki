@@ -11,4 +11,4 @@ If there is an event you would like us to host or make an appearance at, please 
 
 ## See Also
 
-- [Fundraisers](Fundraisers)
+- [Fundraising](Fundraising)
