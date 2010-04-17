@@ -4,11 +4,16 @@ Individuals of all skill levels are welcome. Either bring your own or use one of
 
 ## Arduino Models
 
+<div style="float:right">
+
+![](files/Arduino.jpg)
+
+*arduino.jpg*
+
+</div>
+
 - Arduino Delcima
 - Lilypad
-
-<!-- -->
-
 - Serial Arduino
 - Arduino Extreme
 - Arduino Mini
@@ -21,6 +26,10 @@ Individuals of all skill levels are welcome. Either bring your own or use one of
 - Arduino Duemilanove ("2009")
 - Arduino Mega
 - PJRC Teensy
+
+<div style="clear: both">
+
+</div>
 
 ## Arduino Project Ideas
 
