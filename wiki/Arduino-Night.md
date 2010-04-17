@@ -33,4 +33,16 @@ Individuals of all skill levels are welcome. Either bring your own or use one of
 
 ## Arduino Project Ideas
 
+<div style="float:right">
+
+![](files/Colorcube.jpg)
+
+*colorcube.jpg*
+
+</div>
+
 - Color Cube
+
+<div style="clear: both">
+
+</div>
