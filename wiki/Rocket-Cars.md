@@ -30,7 +30,19 @@ This project will involve creating a set of rules and guidelines for HSL-sponsor
     2.  Double Guide-wire
         1.  Prevents spiraling while the car is in motion
         2.  Adds extra friction and ability for the car to jam, if a car's connectors aren't aligned properly
-    3.  Material
+    3.  Guide Positioning
+        1.  Side(s)
+            1.  Works for both single and double guides
+            2.  Probably the best layout for double guides. A single on the side encourages barrel rolls
+            3.  Potentially limits the width of the car (lane size notwithstanding)
+        2.  Top
+            1.  Usable with single/double guides
+            2.  Limits the height of the car
+        3.  Bottom
+            1.  Certainly a more "traditional" track feeling.
+            2.  Requires minimum ground-clearance
+            3.  Helps eliminate the chance of rolling/spinning when using a single-guide, if the wire is taut.
+    4.  Material
         1.  Wire. Durable, fairly rigid, and won't burn up from the exhausts
         2.  String. Cheap, easily replaced. Flammable.
 2.  Mounting
