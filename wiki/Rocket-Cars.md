@@ -7,6 +7,7 @@ This project will involve creating a set of rules and guidelines for HSL-sponsor
 - <http://blog.makezine.com/archive/2010/04/rocket_powered_car_races.html> (where the idea was sparked)
 - <http://www.rocketcarday.com/> (better videos from the same event Make picked up on)
 - <http://www.instructables.com/tag/?q=rocket%20car&sort=none> (slew of 'ibles surrounding rocket cars)
+- <http://www.maximum-velocity.com/rocket_cars.htm> (simple design, and available for purchase. Specifically, note how the car has eyehooks \*on the bottom\* for the string-track.)
 
 ## Parts
 
