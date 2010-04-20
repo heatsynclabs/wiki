@@ -1,6 +1,5 @@
 ## Office of the Champions
 
-- a dxf of our logo for laser cutting into schwag for fundraisers
 - Finding presenters
 - Finding people interested in running a workshop on a technology or skill relevant to the group's interests
 
