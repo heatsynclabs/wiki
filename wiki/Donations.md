@@ -4,6 +4,8 @@
 
 We can contribute using our Paypal and GoogleCheckout accounts.
 
+Other possibilities which could be looked into include microfinance sites like Pledgie and Kickstarter
+
 ### Donation Thermometer
 
 I saw mention of incuding a thermometer on the FOS (front of site) Here is some example code we could use, unless someone wants to be creative and make it themselves.
