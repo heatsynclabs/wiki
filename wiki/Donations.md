@@ -4,7 +4,7 @@
 
 We can contribute using our Paypal and GoogleCheckout accounts.
 
-Other possibilities which could be looked into include microfinance sites like Pledgie and Kickstarter
+Other possibilities which could be looked into include microfinance sites like [http://www.pledgie.com Pledgie](http://www.pledgie.com_Pledgie) and [http://www.kickstarter.com Kickstarter](http://www.kickstarter.com_Kickstarter). Pledgie may allow to avoid paypal/amazon donation restrictions until we achieve our 501c3 by allwing us to accept open ended donations which would then be transferred to us via paypal
 
 ### Donation Thermometer
 
