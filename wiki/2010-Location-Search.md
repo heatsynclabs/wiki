@@ -10,9 +10,13 @@ The 5013 documentation financials were great for the board to be able to estimat
 
 ## House Behind New Gangplank Location
 
+### Summary
+
 **Cost:** \$1250 a month currently, talk him down to say 600-800, would have to renovate in our spare time.\
 **Size:** 900sq ft\
 **Location:** [242 S. Wall Street Chandler AZ](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=242+South+Wall+Street+Chandler+AZ&sll=33.30026,-111.841507&sspn=0.068868,0.085659&ie=UTF8&hq=&hnear=242+S+Wall+St,+Chandler,+Maricopa,+Arizona+85225&z=16)\
+
+### Pros and Cons
 
 - Even deeper in Chandler so not as central Tempe/Phoenix as many have preferred.
 - All by ourselves. No sublease.
@@ -26,9 +30,13 @@ The 5013 documentation financials were great for the board to be able to estimat
 
 *thumb \| border \| right \| middle \| <http://www.flickr.com/photos/zgiles/tags/innovationschandler/>*
 
+### Summary
+
 **Cost:** \$833 or \$1600\
 **Size:** 500 or 1000sq feet\
 **Location:** [145 S 79th street Chandler Az](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=+145+S+79th+street+Chandler+Az&sll=33.439457,-111.950989&sspn=0.008595,0.010707&ie=UTF8&hq=&hnear=145+S+79th+St,+Chandler,+Maricopa,+Arizona+85226&z=16)\
+
+### Pros and Cons
 
 - Less in Chandler, but still quite within Chandler.
 - Some communal facilities, conference room for 22, several flop rooms, cafe area, lounge areas, etc.
@@ -47,33 +55,35 @@ The 5013 documentation financials were great for the board to be able to estimat
 
 ## D.A. Thierren's Downtown Art Building
 
+### Summary
+
 **Location:** [718 N. 4th St](http://maps.google.com/maps?q=718+N.+4th+St&ie=UTF8&hl=en&hq=&hnear=718+N+4th+St,+Phoenix,+Maricopa,+Arizona+85004&z=16)\
 
-### Space \#1
+#### Space \#1
 
 **Cost:** \$790\
 **Size:** 970 SF\
 **Description:** The large west end room, mini split AC, small side window, 36" front door, large double back door, private bathroom.\
 
-### Space \#2
+#### Space \#2
 
 **Cost:** \$450\
 **Size:** 485 SF\
 **Description:** The small room, AC or EVAP, no bathroom, sink optional, large storefront window, double rear door.\
 
-### Space \#3
+#### Space \#3
 
 **Cost:** \$1100\
 **Size:** 1455 SF\
 **Description:** Space \#1 and \#2 combined. Private bathroom and AC as above.\
 
-### Space \#4
+#### Space \#4
 
 **Cost:** \$525-\$590\
 **Size:** 625 SF\
 **Description:** Large front entrance, double door rear entrance, evap or AC, \$525, if you share the bathroom with the building, \$590 if you don't.\
 
-### Things To Consider
+### Pros and Cons
 
 - CAM for First Friday, shared electricity, etc.
 - move in cost is 1st and last month, plus a utility/clean-up/late deposit.
@@ -87,11 +97,13 @@ The 5013 documentation financials were great for the board to be able to estimat
 
 ## PHX Arts District Location
 
+### Summary
+
 **Cost:** ?\
 **Size:** ?\
 **Location:** ?\
 
-### Things To Consider
+### Pros and Cons
 
 - Quoted as "far lower than 2k a month".
 - Downtown PHX arts district.
@@ -105,19 +117,23 @@ A lot of the hackerspace how to's caution to start small and I personally subscr
 
 ## Go Big
 
-The infrastructure pattern
+The infrastructure pattern.
 
-- Things I would like to see in a leased space include public transport, ventilation, garage space, kitchen/cafe space, lounge space.
+Things I would like to see in a leased space include:
 
-<!-- -->
+- Public Transport
+- Ventilation
+- Garage Space
+- Kitchen/Cafe Space
+- Lounge Space.
 
-- I know others have expressed a 'safe location' as something that is important, but here too some of the hackerspace how-to's recommend explicitly looking for sketchy and therefor cheap neighborhoods. We also want the space to be friendly to all night traffic and all night machine noise.
+I know others have expressed a 'safe location' as something that is important, but here too some of the hackerspace how-to's recommend explicitly looking for sketchy and therefor cheap neighborhoods. We also want the space to be friendly to all night traffic and all night machine noise.
 
 # Ideas
 
-- When submitting our ASU EAP 2k proposal, the director of that program mentioned looking into finding municipalities in the area who currently may have more real estate than they know what to do with and maybe interest in hosting this type of 'incubator' concept. He also mentioned contacting Lodestar, an ASU lead community nonprofit resource, for assistance. I have since contacted them and ended up speaking with Robert Duea who encouraged us to seek out city planners and city managers. He seemed interested in our concept and went so far as to mention that his community of Surprise was indeed looking at courting tech startups and that we may fall into that.--so far no contact returned from cities/munis
+When submitting our ASU EAP 2k proposal, the director of that program mentioned looking into finding municipalities in the area who currently may have more real estate than they know what to do with and maybe interest in hosting this type of 'incubator' concept. He also mentioned contacting Lodestar, an ASU lead community nonprofit resource, for assistance. I have since contacted them and ended up speaking with Robert Duea who encouraged us to seek out city planners and city managers. He seemed interested in our concept and went so far as to mention that his community of Surprise was indeed looking at courting tech startups and that we may fall into that.--so far no contact returned from cities/munis
 
-# Help us!
+# Help Us!
 
 Picking a long-term home can be difficult. On the one hand, there is the set of current members who are attending meetings. On the other hand there are all those other people who you would love to have come attend meetings, but who may be hindered by the current location.
 
