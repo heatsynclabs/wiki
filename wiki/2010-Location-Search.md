@@ -10,9 +10,9 @@ The 5013 documentation financials were great for the board to be able to estimat
 
 ## House Behind New Gangplank Location
 
-**Cost:**\$1250 a month currently, talk him down to say 600-800, would have to renovate in our spare time.\
-**Size:**900sq ft\
-**Location:**[242 S. Wall Street Chandler AZ](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=242+South+Wall+Street+Chandler+AZ&sll=33.30026,-111.841507&sspn=0.068868,0.085659&ie=UTF8&hq=&hnear=242+S+Wall+St,+Chandler,+Maricopa,+Arizona+85225&z=16)\
+**Cost:** \$1250 a month currently, talk him down to say 600-800, would have to renovate in our spare time.\
+**Size:** 900sq ft\
+**Location:** [242 S. Wall Street Chandler AZ](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=242+South+Wall+Street+Chandler+AZ&sll=33.30026,-111.841507&sspn=0.068868,0.085659&ie=UTF8&hq=&hnear=242+S+Wall+St,+Chandler,+Maricopa,+Arizona+85225&z=16)\
 
 - Even deeper in Chandler so not as central Tempe/Phoenix as many have preferred.
 - All by ourselves. No sublease.
@@ -20,57 +20,82 @@ The 5013 documentation financials were great for the board to be able to estimat
 - Traditional busted hackerspace feel.
 - Group trusts and likes Derek and the Gangplank community.
 
-### Innovations Chandler
+## Innovations Chandler
 
 ![](files/Location-Innovations1.jpg)
 
 *thumb \| border \| right \| middle \| <http://www.flickr.com/photos/zgiles/tags/innovationschandler/>*
 
-**Cost:** **Size:** **Location:**
+**Cost:** \$833 or \$1600\
+**Size:** 500 or 1000sq feet\
+**Location:** [145 S 79th street Chandler Az](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=+145+S+79th+street+Chandler+Az&sll=33.439457,-111.950989&sspn=0.008595,0.010707&ie=UTF8&hq=&hnear=145+S+79th+St,+Chandler,+Maricopa,+Arizona+85226&z=16)\
 
-- 500 or 1000sq feet
-- \$833 or 1600
-- Less chandler, but still quite chandler [145 S 79th street Chandler Az](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=+145+S+79th+street+Chandler+Az&sll=33.439457,-111.950989&sspn=0.008595,0.010707&ie=UTF8&hq=&hnear=145+S+79th+St,+Chandler,+Maricopa,+Arizona+85226&z=16)
-- some communal facilities, Conference room for 22, several flop rooms, cafe area
-- free insurance(~\$2-4k in value)
-- free access to advanced tools such as laser cutter(which will bring in members)(from David's space there)
-- Sterile and very entrepreneurial and business-y vs a typical artists/hacker model
-- temporary (1-3 years)
-- Possible scheduled availability of laser cutter and other major tools from nearby startup
+- Less in Chandler, but still quite within Chandler.
+- Some communal facilities, conference room for 22, several flop rooms, cafe area, lounge areas, etc.
+- Free insurance(~\$2-4k in value).
+- Free scheduled access to advanced tools such as laser cutter(which will bring in members)from David's space in there.
+- More sterile and very entrepreneurial and business-y vs a typical artists/hacker model.
+- Temporary Option(1-3 years)
+- No down payment.
+- Free wi-fi.
 - Available to rent within facilities(free to start)
   - wetlab,gas,hoods
-  - fume extraction (acid etch IC's like all those defcon talks you've seen)
-  - cryo lab--you know like liquid nitrogen!
-  - bio lab - centrifuge, etc
-  - dark room
+  - Fume Extraction (acid etch IC's like all those Defcon talks you've seen)
+  - Cryogenics Lab(you know like liquid nitrogen!)
+  - Bio Lab - Centrifuge, etc.
+  - Dark Room
 
-### D.A. Thierren's thing
+## D.A. Thierren's Downtown Art Building
 
-**Cost:** **Size:** **Location:**
+**Location:** [718 N. 4th St](http://maps.google.com/maps?q=718+N.+4th+St&ie=UTF8&hl=en&hq=&hnear=718+N+4th+St,+Phoenix,+Maricopa,+Arizona+85004&z=16)\
 
-1.  \$790 - 970 SF, the large west end room, mini split AC, small side window, 36" front door, large double back door, private bathroom
-2.  \$450 - 485 SF, the small room, AC or evap, no bathroom, sink optional, large storefront window, double rear door.
-3.  (1 + 2 Combined) \$1100 - 1455 SF, private bathroom, AC, as above.
-4.  \$525-\$590 - 625 SF, large front entrance, double door rear entrance, evap or AC, \$525, if you share the bathroom with the building, \$590 if you don't.
+### Space \#1
 
-- CAM for First Friday, shared electricity, etc
+**Cost:** \$790\
+**Size:** 970 SF\
+**Description:** The large west end room, mini split AC, small side window, 36" front door, large double back door, private bathroom.\
+
+### Space \#2
+
+**Cost:** \$450\
+**Size:** 485 SF\
+**Description:** The small room, AC or EVAP, no bathroom, sink optional, large storefront window, double rear door.\
+
+### Space \#3
+
+**Cost:** \$1100\
+**Size:** 1455 SF\
+**Description:** Space \#1 and \#2 combined. Private bathroom and AC as above.\
+
+### Space \#4
+
+**Cost:** \$525-\$590\
+**Size:** 625 SF\
+**Description:** Large front entrance, double door rear entrance, evap or AC, \$525, if you share the bathroom with the building, \$590 if you don't.\
+
+### Things To Consider
+
+- CAM for First Friday, shared electricity, etc.
 - move in cost is 1st and last month, plus a utility/clean-up/late deposit.
 - May for free while you paint, wire, build or whatever. building is as-is, no leaks, and we will make improvements as we go. We'll get cooling in ASAP. New rear double doors will be later, as rent comes in.
 - 1M in insurance necessary
-- Downtown PHX arts district area [718 N. 4th St](http://maps.google.com/maps?q=718+N.+4th+St&ie=UTF8&hl=en&hq=&hnear=718+N+4th+St,+Phoenix,+Maricopa,+Arizona+85004&z=16)
+- Downtown PHX arts district area
 - communal facilities-outside area for performance and chilling - inside area for workshops and classrooms
 - artists-much more the artist style hackerspace
 - some reports that David is a strong personality
 - frankly we're in some ways in competition with DA. We're our own incubator with our own model - either competition or cooperation with the other artists in there
 
-### PHX Arts district location
+## PHX Arts District Location
 
-**Cost:** **Size:** **Location:**
+**Cost:** ?\
+**Size:** ?\
+**Location:** ?\
 
-- sq footage?
-- "far lower than 2k a month"
-- Downtown PHX arts district
-- artists-more the artist style hackerspace
+### Things To Consider
+
+- Quoted as "far lower than 2k a month".
+- Downtown PHX arts district.
+- More artsy - The artist style hackerspace.
 
 # Ethos
 
