@@ -86,14 +86,14 @@ The 5013 documentation financials were great for the board to be able to estimat
 ### Pros and Cons
 
 - CAM for First Friday, shared electricity, etc.
-- move in cost is 1st and last month, plus a utility/clean-up/late deposit.
-- May for free while you paint, wire, build or whatever. building is as-is, no leaks, and we will make improvements as we go. We'll get cooling in ASAP. New rear double doors will be later, as rent comes in.
-- 1M in insurance necessary
-- Downtown PHX arts district area
-- communal facilities-outside area for performance and chilling - inside area for workshops and classrooms
-- artists-much more the artist style hackerspace
-- some reports that David is a strong personality
-- frankly we're in some ways in competition with DA. We're our own incubator with our own model - either competition or cooperation with the other artists in there
+- Move in cost is 1st and last month, plus a utility/clean-up/late deposit.
+- Month of May for free while you paint, wire, build or whatever. building is as-is, no leaks, and we will make improvements as we go. We'll get cooling in ASAP. New rear double doors will be later, as rent comes in.
+- 1M in insurance necessary.
+- Downtown PHX arts district area.
+- Communal facilities-outside area for performance and chilling - inside area for workshops and classrooms
+- More of an artsy style hacker space.
+- Some reports that David is a strong personality.
+- Frankly, in some ways, we're in competition with DA. We're our own incubator with our own model. Either competition or cooperation with the other artists in there.
 
 ## PHX Arts District Location
 
