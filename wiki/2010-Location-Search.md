@@ -42,12 +42,12 @@ The 5013 documentation financials were great for the board to be able to estimat
 
 ### D.A. Thierren's thing
 
+#### Options
+
 1.  \$790 - 970 SF, the large west end room, mini split AC, small side window, 36" front door, large double back door, private bathroom
 2.  \$450 - 485 SF, the small room, AC or evap, no bathroom, sink optional, large storefront window, double rear door.
-
-1 + 2. \$1100 - 1455 SF, private bathroom, AC, as above.
-
-1.  \$525-\$590 - 625 SF, large front entrance, double door rear entrance, evap or AC, \$525, if you share the bathroom with the building, \$590 if you don't.
+3.  (1 + 2 Combined) \$1100 - 1455 SF, private bathroom, AC, as above.
+4.  \$525-\$590 - 625 SF, large front entrance, double door rear entrance, evap or AC, \$525, if you share the bathroom with the building, \$590 if you don't.
 
 - CAM for First Friday, shared electricity, etc
 - move in cost is 1st and last month, plus a utility/clean-up/late deposit.
