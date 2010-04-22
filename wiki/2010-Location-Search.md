@@ -141,8 +141,8 @@ Surveying current attendees includes a selection bias: Many people currently att
 
 Decide what the long-term goal should be and try to get a location that fits that. The downside is that, short-term, this may end up being a poor location for people currently attending. The upside is that the group is better positioned for its long-term goals.
 
-- Please fill out this \[<https://spreadsheets.google.com/viewform?formkey=dEN2Z3V3cG83NmZRb2FvQkh5OUJDdVE6MA>.. Survey \] to help us determine the best location
+- Please fill out this \[<https://spreadsheets.google.com/viewform?formkey=dEN2Z3V3cG83NmZRb2FvQkh5OUJDdVE6MA>.. Survey \] to help us determine the best location.
 
 <!-- -->
 
-- If you think you know a good location please fill out this \[<https://spreadsheets.google.com/viewform?formkey=dHZib1lmZUNpRjJHc25OZFVpQzZkWmc6MA>.. survey\]
+- If you think you know a good location please fill out this \[<https://spreadsheets.google.com/viewform?formkey=dHZib1lmZUNpRjJHc25OZFVpQzZkWmc6MA>.. survey\].
