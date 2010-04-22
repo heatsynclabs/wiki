@@ -8,21 +8,25 @@ The 5013 documentation financials were great for the board to be able to estimat
 
 # Options
 
-## House Behind Gangplank
+## House Behind New Gangplank Location
 
-**Cost:**\$1250 a month currently, talk him down to say 600-800, would have to renovate in our spare time. **Size:**900sq ft **Location:**[242 S. Wall Street Chandler AZ](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=242+South+Wall+Street+Chandler+AZ&sll=33.30026,-111.841507&sspn=0.068868,0.085659&ie=UTF8&hq=&hnear=242+S+Wall+St,+Chandler,+Maricopa,+Arizona+85225&z=16)
+**Cost:**\$1250 a month currently, talk him down to say 600-800, would have to renovate in our spare time.\
+**Size:**900sq ft\
+**Location:**[242 S. Wall Street Chandler AZ](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=242+South+Wall+Street+Chandler+AZ&sll=33.30026,-111.841507&sspn=0.068868,0.085659&ie=UTF8&hq=&hnear=242+S+Wall+St,+Chandler,+Maricopa,+Arizona+85225&z=16)\
 
-- even more chandler so not as central tempe/phoenix as many have preferred
-- all by ourselves, no sub lease
-- communal facilities literally 20ft from gangplank
-- traditional busted hackerspace feel
-- Trust and like Derek
+- Even deeper in Chandler so not as central Tempe/Phoenix as many have preferred.
+- All by ourselves. No sublease.
+- Communal facilities literally 20ft from new Gangplank location.
+- Traditional busted hackerspace feel.
+- Group trusts and likes Derek and the Gangplank community.
 
 ### Innovations Chandler
 
 ![](files/Location-Innovations1.jpg)
 
 *thumb \| border \| right \| middle \| <http://www.flickr.com/photos/zgiles/tags/innovationschandler/>*
+
+**Cost:** **Size:** **Location:**
 
 - 500 or 1000sq feet
 - \$833 or 1600
@@ -42,7 +46,7 @@ The 5013 documentation financials were great for the board to be able to estimat
 
 ### D.A. Thierren's thing
 
-#### Options
+**Cost:** **Size:** **Location:**
 
 1.  \$790 - 970 SF, the large west end room, mini split AC, small side window, 36" front door, large double back door, private bathroom
 2.  \$450 - 485 SF, the small room, AC or evap, no bathroom, sink optional, large storefront window, double rear door.
@@ -60,6 +64,8 @@ The 5013 documentation financials were great for the board to be able to estimat
 - frankly we're in some ways in competition with DA. We're our own incubator with our own model - either competition or cooperation with the other artists in there
 
 ### PHX Arts district location
+
+**Cost:** **Size:** **Location:**
 
 - sq footage?
 - "far lower than 2k a month"
