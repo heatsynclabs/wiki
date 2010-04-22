@@ -24,14 +24,21 @@ The 5013 documentation financials were great for the board to be able to estimat
 
 *right*
 
-- 1000sq feet
-- ~1500
+- 500 or 1000sq feet
+- \$833 or 1600
 - Less chandler, but still quite chandler [145 S 79th street Chandler Az](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=+145+S+79th+street+Chandler+Az&sll=33.439457,-111.950989&sspn=0.008595,0.010707&ie=UTF8&hq=&hnear=145+S+79th+St,+Chandler,+Maricopa,+Arizona+85226&z=16)
-- some communal facilities, enough to hold our meetings there?
+- some communal facilities, Conference room for 22, several flop rooms, cafe area
 - free insurance(~\$2-4k in value)
 - free access to advanced tools such as laser cutter(which will bring in members)(from David's space there)
 - Sterile and very entrepreneurial and business-y vs a typical artists/hacker model
 - temporary (1-3 years)
+- Possible scheduled availability of laser cutter and other major tools from nearby startup
+- Available to rent within facilities(free to start)
+  - wetlab,gas,hoods
+  - fume extraction (acid etch IC's like all those defcon talks you've seen)
+  - cryo lab--you know like liquid nitrogen!
+  - bio lab - centrifuge, etc
+  - dark room
 
 ### D.A. Thierren's thing
 
