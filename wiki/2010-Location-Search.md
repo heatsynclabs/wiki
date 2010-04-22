@@ -1,18 +1,18 @@
-# Options
-
-## Motivation
+# Motivation
 
 Gangplank will be moving locations within the next few months. This move will mean a lot more space for gangplank, yet further fluidity to that space. What this means for HSL will be the same or less permanent space for our tools and resources. Our goal has of course been to acquire tools available and ready to use 24/7. It is the current boards attitude that any move should be an upward move, not a sideways or backwards. This, along with the amazing growth in our membership and some interesting opportunities, has led to a search for a home for HSL.
 
-## Capability
+# Capability
 
 The 5013 documentation financials were great for the board to be able to estimate our feasibility over the next few years. The end result of those preparations were an attitude that at a \$50 membership at space of around \$1500 a month (a conservative price including utils+insurance for the PHX region) would be impossible with less than 25 paying members. In addition coming in under that price might allow leasing/taking out loans for more expensive tools to increase further membership growth. We have so far been unsuccessful in securing grants. This has led to looking into partnerships to bring that initial cost down for the first year or two until tools are available and membership is then secure.
 
-### House behind Gangplank
+# Options
 
-- 900sq ft
-- \$1250 a month currently, talk him down to say 600-800, would have to renovate in our spare time
-- even more chandler so not as central tempe/phoenix as many have preferred [242 S. Wall Street Chandler AZ](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=242+South+Wall+Street+Chandler+AZ&sll=33.30026,-111.841507&sspn=0.068868,0.085659&ie=UTF8&hq=&hnear=242+S+Wall+St,+Chandler,+Maricopa,+Arizona+85225&z=16)
+## House Behind Gangplank
+
+**Cost:**\$1250 a month currently, talk him down to say 600-800, would have to renovate in our spare time. **Size:**900sq ft **Location:**[242 S. Wall Street Chandler AZ](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=242+South+Wall+Street+Chandler+AZ&sll=33.30026,-111.841507&sspn=0.068868,0.085659&ie=UTF8&hq=&hnear=242+S+Wall+St,+Chandler,+Maricopa,+Arizona+85225&z=16)
+
+- even more chandler so not as central tempe/phoenix as many have preferred
 - all by ourselves, no sub lease
 - communal facilities literally 20ft from gangplank
 - traditional busted hackerspace feel
