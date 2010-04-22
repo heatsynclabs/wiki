@@ -22,7 +22,7 @@ The 5013 documentation financials were great for the board to be able to estimat
 
 ![](files/Location-Innovations1.jpg)
 
-*right*
+*thumb \| border \| right \| middle \| <http://www.flickr.com/photos/zgiles/tags/innovationschandler/>*
 
 - 500 or 1000sq feet
 - \$833 or 1600
