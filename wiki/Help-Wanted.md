@@ -8,7 +8,7 @@
 - Finding local makers and projects to blag about
 - Organizing the wiki/formatting existing pages
 - Fixing spelling/grammar errors on the wiki
-- Creating a sexy HSL flier
+- Creating a sexy HSL flier (Joyce)
 
 ## Office of the Marketing Director
 
