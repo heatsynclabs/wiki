@@ -23,7 +23,7 @@
 
 ## Office of IT Directors
 
-- Checking for incompatibilities of Wordpress plugins with the newest version of WP and removing plugins not being used
+- Checking for incompatibilities of Wordpress plugins with the newest version of WP and removing plugins not being used (Zach - done)
 - Contacting sponsors for a LAN Party
 - Contributing code to the HSL Toolshare web app
 - Creating a workshop-esque look-and-feel for the Toolshare DB web app (Nate Phillips)
