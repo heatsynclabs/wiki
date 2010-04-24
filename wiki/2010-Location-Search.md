@@ -92,7 +92,7 @@ Room in a former Intel Building off the 101 and Chandler, renovated by the City 
 
 ### Pros and Cons
 
-- **Pro:** CAM for [First Friday](First-Friday), shared electricity, etc.
+- **Pro:** CAM for [First_Friday](First-Friday), shared electricity, etc.
 - **Pro/Con:** Move in cost is 1st and last month, plus a utility/clean-up/late deposit
 - **Pro/Con:** Month of May for free while you paint, wire, build or whatever. building is as-is, no leaks, and we will make improvements as we go. We'll get cooling in ASAP. New rear double doors will be later, as rent comes in
 - **Pro/Con:** 1M in insurance necessary
