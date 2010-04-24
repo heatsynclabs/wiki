@@ -36,6 +36,7 @@ Moreover, the aforementioned price is a conservative estimate and does not inclu
 ### Summary
 
 Room in a former Intel Building off the 101 and Chandler, renovated by the City of Chandler to be developed as a small business incubator.\
+\
 **Cost:** \$833 or \$1600\
 **Size:** 500 or 1000sq feet\
 **Location:** [145 S 79th street Chandler Az](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=+145+S+79th+street+Chandler+Az&sll=33.439457,-111.950989&sspn=0.008595,0.010707&ie=UTF8&hq=&hnear=145+S+79th+St,+Chandler,+Maricopa,+Arizona+85226&z=16)\
