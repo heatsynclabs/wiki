@@ -112,9 +112,9 @@ Room in a former Intel Building off the 101 and Chandler, renovated by the City 
 
 ### Pros and Cons
 
-- Quoted as "far lower than 2k a month".
-- Downtown PHX arts district.
-- More artsy - The artist style hackerspace.
+- **Pro:** Quoted as "far lower than 2k a month", unverified
+- **Pro:** Downtown Phoenix arts district
+- **Pro/Con:** More artsy - The artist style hackerspace
 
 # Ethos
 
