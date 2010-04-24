@@ -112,7 +112,7 @@ Room in a former Intel Building off the 101 and Chandler, renovated by the City 
 - **Pro/Con:** 1M in insurance necessary
 - **Pro:** Downtown PHX arts district area
 - **Pro:** Communal facilities-outside area for performance and chilling - inside area for workshops and classrooms
-- **Pro/Con:** More of an artsy style hacker space
+- **Pro/Con:** More of an artsy style [ hackerspace](How-To-Hackerspace)
 - **Con:** Some reports that David is a strong personality
 - **Con:** Frankly, in some ways, [ HeatSync Labs](HeatSync-Labs) is in competition with DA. We are our own incubator with our own model. This could result in either competition or cooperation with the other artists there.
 
