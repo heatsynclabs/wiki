@@ -35,24 +35,25 @@ Moreover, the aforementioned price is a conservative estimate and does not inclu
 
 ### Summary
 
+**Location:** Room in a former Intel Building off the 101 and Chandler, renovated by the City of Chandler to be developed as a small business incubator.\
 **Cost:** \$833 or \$1600\
 **Size:** 500 or 1000sq feet\
 **Location:** [145 S 79th street Chandler Az](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=+145+S+79th+street+Chandler+Az&sll=33.439457,-111.950989&sspn=0.008595,0.010707&ie=UTF8&hq=&hnear=145+S+79th+St,+Chandler,+Maricopa,+Arizona+85226&z=16)\
 
 ### Pros and Cons
 
-- Less in Chandler, but still quite within Chandler.
-- Some communal facilities, conference room for 22, several flop rooms, cafe area, lounge areas, etc.
-- Free insurance(~\$2-4k in value).
-- Free scheduled access to advanced tools such as laser cutter(which will bring in members)from David's space in there.
-- More sterile and very entrepreneurial and business-y vs a typical artists/hacker model.
-- Temporary Option(1-3 years)
-- No down payment.
-- Free wi-fi.
-- Available to rent within facilities(free to start)
-  - wetlab,gas,hoods
+- **Pro/Con:** Less in Chandler, but still quite within Chandler
+- **Pro:** Some communal facilities, conference room for 22, several flop rooms, cafe area, corridor lounge areas, etc.
+- **Pro:** Free insurance (~\$2-4k in value)
+- **Pro:** Free scheduled access to David's advanced tools (ie. laser cutter), which will attract more members
+- **Pro/Con:** More sterile environment, entrepreneurial and business-y vs. the typical artists/hacker model
+- **Pro:** Temporary Option (1-3 years)
+- **Pro:** No down payment
+- **Pro:** Free wi-fi
+- **Pro:** Available to rent within facilities (free to start)
+  - Wetlabs, gas, hoods
   - Fume Extraction (acid etch IC's like all those Defcon talks you've seen)
-  - Cryogenics Lab(you know like liquid nitrogen!)
+  - Cryogenics Lab (you know like liquid nitrogen!)
   - Bio Lab - Centrifuge, etc.
   - Dark Room
 
