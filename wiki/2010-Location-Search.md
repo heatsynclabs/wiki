@@ -92,15 +92,15 @@ Room in a former Intel Building off the 101 and Chandler, renovated by the City 
 
 ### Pros and Cons
 
-- CAM for First Friday, shared electricity, etc.
-- Move in cost is 1st and last month, plus a utility/clean-up/late deposit.
-- Month of May for free while you paint, wire, build or whatever. building is as-is, no leaks, and we will make improvements as we go. We'll get cooling in ASAP. New rear double doors will be later, as rent comes in.
-- 1M in insurance necessary.
-- Downtown PHX arts district area.
-- Communal facilities-outside area for performance and chilling - inside area for workshops and classrooms
-- More of an artsy style hacker space.
-- Some reports that David is a strong personality.
-- Frankly, in some ways, we're in competition with DA. We're our own incubator with our own model. Either competition or cooperation with the other artists in there.
+- **Pro:** CAM for [First Friday](First-Friday), shared electricity, etc.
+- **Pro/Con:** Move in cost is 1st and last month, plus a utility/clean-up/late deposit
+- **Pro/Con:** Month of May for free while you paint, wire, build or whatever. building is as-is, no leaks, and we will make improvements as we go. We'll get cooling in ASAP. New rear double doors will be later, as rent comes in
+- **Pro/Con:** 1M in insurance necessary
+- **Pro:** Downtown PHX arts district area
+- **Pro:** Communal facilities-outside area for performance and chilling - inside area for workshops and classrooms
+- **Pro/Con:** More of an artsy style hacker space
+- **Con:** Some reports that David is a strong personality
+- **Con:** Frankly, in some ways, [ HeatSync Labs](HeatSync-Labs) is in competition with DA. We are our own incubator with our own model. This could result in either competition or cooperation with the other artists there.
 
 ## PHX Arts District Location
 
