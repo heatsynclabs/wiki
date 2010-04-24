@@ -2,9 +2,27 @@
 
 [Gangplank](http://gangplankhq.com/) will be relocating within the next few months. While this move will mean a lot more space for [gangplank](http://gangplankhq.com/), the space [ HeatSync Labs](HeatSync-Labs) will occupy at the new [gangplank](http://gangplankhq.com/) location will either remain the same or become less permanent for our tools and resources. Since the primary objective of our nonprofit organization is to acquire tools we can have available and ready to use 24/7, the presiding [ Board of Directors](Board-Members) feel that any move should represent a step forward, not sideways or backwards. This, along with the amazing growth in our membership and some interesting opportunities, has led to a search for a home for [ HeatSync Labs](HeatSync-Labs).
 
+# Help Us!
+
+Picking a long-term home is difficult. On the one hand, there are the set of paying members who are attending meetings. On the other hand there are all those other people who you would love to have come attend meetings, but who may be hindered by the distance.
+
+The [ Board of Directors](Board-Members) realizes that surveying current attendees includes a selection bias. Many people currently attending may want to keep the current location because it's convenient. Meanwhile there may be a good number of people who do not currently attend, but would if the location were different.
+
+Decide what the long-term goal should be and try to get a location that fits that. The downside is that, short-term, this may end up being a poor location for people currently attending. The upside is that the group is better positioned for its long-term goals.
+
+If you have <b><u>comments, concerns, or questions you would like to voice</u></b> to the [ Board of Directors](Board-Members) and the other members regarding what you would like to see out of a new location for [ HeatSync Labs](HeatSync-Labs) please <b>include it in a subsection under <i><u>The Voice of the People: Comments and Concerns</u></i></b>.
+
+<big><b>Questions regarding the new location will be answered at the April 29th meeting</b></big>.
+
+- If you would like to <b>voice your opinion quietly</b>, please fill out this <b>\[<https://spreadsheets.google.com/viewform?formkey=dEN2Z3V3cG83NmZRb2FvQkh5OUJDdVE6MA>.. survey\].</b>
+
+<!-- -->
+
+- Otherwise, if you think you <b>know a good location</b> please fill out this <b>\[<https://spreadsheets.google.com/viewform?formkey=dHZib1lmZUNpRjJHc25OZFVpQzZkWmc6MA>.. survey\].</b>
+
 # Capability
 
-Filing the 5013 documentation financials really allowed the [ presiding board](Board-Members) to estimate the feasibility of our organization over the next few years. These preparations and figures showed that assuming a conservative price including both utilities and insurance for the Phoenix region, [ HeatSync Labs](HeatSync-Labs) would need a <b>bare minimum of 25 members at a \$50 per month membership in order to afford a space of approximately \$1500 a month</b>. Without at least 25 paying members, it would be <i>impossible</i> for [ HeatSync Labs](HeatSync-Labs) to afford a <i>reasonable</i> space.
+Filing the 501c3 documentation financials really allowed the [ presiding board](Board-Members) to estimate the feasibility of our organization over the next few years. These preparations and figures showed that assuming a conservative price including both utilities and insurance for the Phoenix region, [ HeatSync Labs](HeatSync-Labs) would need a <b>bare minimum of 25 members at a \$50 per month membership in order to afford a space of approximately \$1500 a month</b>. Without at least 25 paying members, it would be <i>impossible</i> for [ HeatSync Labs](HeatSync-Labs) to afford a <i>reasonable</i> space.
 
 Moreover, the aforementioned price is a conservative estimate and does not include the <i>additional</i> possibility of leasing and/or taking out loans in order to afford better equipment/tools for our members and future membership growth. Thus far, we have been unsuccessful in securing grants, but we are looking into partnerships to minimize the initial cost until tools are available and membership is secure.
 
@@ -116,29 +134,11 @@ Room in a former Intel Building off the 101 and Chandler, renovated by the City 
 - **Pro:** Downtown Phoenix arts district
 - **Pro/Con:** More artsy - The artist style hackerspace
 
-# Ideas
+# Additional Contacts
 
 When submitting our ASU EAP 2k proposal, the director of that program mentioned looking into finding municipalities in the area who currently may have more real estate than they know what to do with and maybe interest in hosting this type of 'incubator' concept. He also mentioned contacting Lodestar, an ASU lead community nonprofit resource, for assistance. I have since contacted them and ended up speaking with Robert Duea who encouraged us to seek out city planners and city managers. He seemed interested in our concept and went so far as to mention that his community of Surprise was indeed looking at courting tech startups and that we may fall into that.--so far no contact returned from cities/munis
 
-# Help Us!
-
-Picking a long-term home is difficult. On the one hand, there are the set of paying members who are attending meetings. On the other hand there are all those other people who you would love to have come attend meetings, but who may be hindered by the distance.
-
-The [ Board of Directors](Board-Members) realizes that surveying current attendees includes a selection bias. Many people currently attending may want to keep the current location because it's convenient. Meanwhile there may be a good number of people who do not currently attend, but would if the location were different.
-
-Decide what the long-term goal should be and try to get a location that fits that. The downside is that, short-term, this may end up being a poor location for people currently attending. The upside is that the group is better positioned for its long-term goals.
-
-If you have <b><u>comments, concerns, or questions you would like to voice</u></b> to the [ Board of Directors](Board-Members) and the other members regarding what you would like to see out of a new location for [ HeatSync Labs](HeatSync-Labs) please <b>include it in a subsection below</b>.
-
-<big><b>Questions regarding the new location will be answered at the April 29th meeting</b></big>.
-
-- If you would like to <b>voice your opinion quietly</b>, please fill out this <b>\[<https://spreadsheets.google.com/viewform?formkey=dEN2Z3V3cG83NmZRb2FvQkh5OUJDdVE6MA>.. survey\].</b>
-
-<!-- -->
-
-- Otherwise, if you think you <b>know a good location</b> please fill out this <b>\[<https://spreadsheets.google.com/viewform?formkey=dHZib1lmZUNpRjJHc25OZFVpQzZkWmc6MA>.. survey\].</b>
-
-## Comments and Concerns
+# The Voice of the People: Comments and Concerns
 
 ### Start Small
 
