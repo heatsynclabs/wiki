@@ -14,17 +14,17 @@ Moreover, the aforementioned price is a conservative estimate and does not inclu
 
 ### Summary
 
-**Cost:** \$1250 a month currently, talk him down to say 600-800, would have to renovate in our spare time.\
-**Size:** 900sq ft\
+**Location:** Residential house that was modified to be a hair salon. **Cost:** Negotiations are at \$1250 a month currently, but the [ Board of Directors](Board-Members) do feel that it would be worth paying \$600-\$800 per month for it. The owner proposed the price of \$1000 per month as long as [HeatSync Labs](HeatSync-Labs) renovated the building to his specifications.\
+**Size:** 900 square feet\
 **Location:** [242 S. Wall Street Chandler AZ](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=242+South+Wall+Street+Chandler+AZ&sll=33.30026,-111.841507&sspn=0.068868,0.085659&ie=UTF8&hq=&hnear=242+S+Wall+St,+Chandler,+Maricopa,+Arizona+85225&z=16)\
 
 ### Pros and Cons
 
-- Even deeper in Chandler so not as central Tempe/Phoenix as many have preferred.
-- All by ourselves. No sublease.
-- Communal facilities literally 20ft from new Gangplank location.
-- Traditional busted hackerspace feel.
-- Group trusts and likes Derek and the Gangplank community.
+- **Con:** Located in downtown Chandler so it may not be as central to Tempe/Phoenix as many prefer
+- Lease agreement would be all by ourselves, no sublease
+- **Pro:** Communal facilities (power, meeting rooms, etc.) 20 feet from new Gangplank location
+- **Pro/Con:** Traditional busted hackerspace feel.
+- **Pro:** Close proximity to Derek and the \[Gangplank\| <http://gangplankhq.com/>\] community, established trust
 
 ## Innovations Chandler
 
