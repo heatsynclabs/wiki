@@ -63,7 +63,7 @@ Room in a former Intel Building off the 101 and Chandler, renovated by the City 
 - **Pro:** Some communal facilities, conference room for 22, several flop rooms, cafe area, corridor lounge areas, etc.
 - **Pro:** Free insurance (~\$2-4k in value)
 - **Pro:** Free scheduled access to David's advanced tools (ie. laser cutter), which will attract more members
-- **Pro/Con:** More sterile environment, entrepreneurial and business-y vs. the typical artists/hacker model
+- **Pro/Con:** More sterile environment, entrepreneurial and business-y vs. the typical artists/[ hackerspace](How-To-Hackerspace) model
 - **Pro:** Temporary Option (1-3 years)
 - **Pro:** No down payment
 - **Pro:** Free wi-fi
