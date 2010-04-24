@@ -138,11 +138,13 @@ If you have <b><u>comments, concerns, or questions you would like to voice</u></
 
 - Otherwise, if you think you <b>know a good location</b> please fill out this <b>\[<https://spreadsheets.google.com/viewform?formkey=dHZib1lmZUNpRjJHc25OZFVpQzZkWmc6MA>.. survey\].</b>
 
-## Start Small
+## Comments and Concerns
+
+### Start Small
 
 A lot of the [ hackerspace](How-To-Hackerspace) how to's caution to start small and I personally subscribe to that idea. If we could just use someones garage and start compiling tools people could visualize what their member fees get them. 24/7 is also rather ambitious to start with. Many of the existing popular [ hackerspace](How-To-Hackerspace) aren't 24/7 and they're proven and up and running. An interesting concept I saw was a doorman twitter account which people could follow at any point in the day to see if a keyholder was present and therefore the doors were open.
 
-## Go Big
+### Go Big
 
 The infrastructure pattern.
 
