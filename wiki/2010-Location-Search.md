@@ -4,7 +4,9 @@
 
 # Capability
 
-The 5013 documentation financials were great for the board to be able to estimate our feasibility over the next few years. The end result of those preparations were an attitude that at a \$50 membership at space of around \$1500 a month (a conservative price including utils+insurance for the PHX region) would be impossible with less than 25 paying members. In addition coming in under that price might allow leasing/taking out loans for more expensive tools to increase further membership growth. We have so far been unsuccessful in securing grants. This has led to looking into partnerships to bring that initial cost down for the first year or two until tools are available and membership is then secure.
+Filing the 5013 documentation financials really allowed the [ presiding board](Board-Members) to estimate the feasibility of our organization over the next few years. These preparations and figures showed that assuming a conservative price including both utilities and insurance for the Phoenix region, [ HeatSync Labs](HeatSync-Labs) would need a bare minimum of 25 members at a \$50 per month membership in order to afford a space of approximately \$1500 a month. Without at least 25 paying members, it would be impossible for [ HeatSync Labs](HeatSync-Labs) to afford a reasonable space.
+
+Moreover, the aforementioned price is a conservative estimate and does not include the additional possibility of leasing and/or taking out loans in order to afford better equipment/tools for our members and future membership growth. Thus far, we have been unsuccessful in securing grants, but we are looking into partnerships to minimize the initial cost until tools are available and membership is secure.
 
 # Options
 
