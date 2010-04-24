@@ -27,6 +27,7 @@ Residential house that was modified to be a hair salon.\
 - **Pro:** Communal facilities (power, meeting rooms, etc.) 20 feet from new \[<http://gangplankhq.com/>\| Gangplank\] location
 - **Pro/Con:** Traditional busted hackerspace feel.
 - **Pro:** Close proximity to Derek and the \[<http://gangplankhq.com/>\| Gangplank\] community, established trust
+- **Con:** Leasing this space would require renovations on our behalf
 
 ## Innovations Chandler
 
