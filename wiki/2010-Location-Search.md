@@ -39,6 +39,7 @@ Originally there was not to be much of any permanent space for us when the move 
 - **Con:** Located in downtown Chandler so it may not be as central to Tempe/Phoenix as many prefer
 - **Pro:** Communal facilities (power, meeting rooms, etc.)
 - **Pro:** Presumably free or cheap
+- **Pro:** Maintain connection with Gangplank who have very similar ethos and very lofty goals
 
 ## House Behind New Gangplank Location
 
