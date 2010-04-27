@@ -24,6 +24,22 @@ Moreover, the aforementioned price is a conservative estimate and does not inclu
 
 # Options
 
+## Gangplank 3.0
+
+### Summary
+
+Originally there was not to be much of any permanent space for us when the move to Gangplank 3.0 occurred. It was this fact which initially started the search for a new space. This may be changing, however. As of Monday April 26th we have been given an office within the existing Gangplank building, and have been promised similar or better when the eventual move comes.
+
+**Cost:** So far free\
+**Size:** Unknown but we're currently in ~350+ square feet\
+**Location:** [](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=260+south+arizona+avenue+chandler+az&sll=33.30078,-111.840713&sspn=0.008035,0.010021&ie=UTF8&hq=&hnear=260+S+Arizona+Ave,+Chandler,+Maricopa,+Arizona+85225&ll=33.299615,-111.841915&spn=0.008035,0.010021&z=16)\
+
+### Pros and Cons
+
+- **Con:** Located in downtown Chandler so it may not be as central to Tempe/Phoenix as many prefer
+- **Pro:** Communal facilities (power, meeting rooms, etc.)
+- **Pro:** Presumably free or cheap
+
 ## House Behind New Gangplank Location
 
 ### Summary
