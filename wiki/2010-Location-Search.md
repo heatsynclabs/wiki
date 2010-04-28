@@ -103,7 +103,7 @@ Room in a former Intel Building off the 101 and Chandler, renovated by the City 
 
 ### Cons
 
-- **Con:** Additional charge for Cox Internet
+- Additional charge for Cox Internet
 
 ### Other Considerations
 
