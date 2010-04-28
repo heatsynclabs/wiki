@@ -123,17 +123,23 @@ Room in a former Intel Building off the 101 and Chandler, renovated by the City 
 **Size:** 625 SF\
 **Description:** Large front entrance, double door rear entrance, evap or AC, \$525, if you share the bathroom with the building, \$590 if you don't.\
 
-### Details
+### Pros
 
-- **Pro:** CAM for [ First Friday](First-Friday), shared electricity, etc.
-- **Pro/Con:** Move in cost is 1st and last month, plus a utility/clean-up/late deposit
-- **Pro/Con:** Month of May for free while you paint, wire, build or whatever. building is as-is, no leaks, and we will make improvements as we go. We'll get cooling in ASAP. New rear double doors will be later, as rent comes in
-- **Pro/Con:** 1M in insurance necessary
-- **Pro:** Downtown PHX arts district area
-- **Pro:** Communal facilities-outside area for performance and chilling - inside area for workshops and classrooms
-- **Pro/Con:** More of an artsy style [ hackerspace](How-To-Hackerspace)
-- **Con:** Some reports that David is a strong personality
-- **Con:** Frankly, in some ways, [ HeatSync Labs](HeatSync-Labs) is in competition with DA. We are our own incubator with our own model. This could result in either competition or cooperation with the other artists there.
+- CAM for [ First Friday](First-Friday), shared electricity, etc.
+- Downtown PHX arts district area
+- Communal facilities-outside area for performance and chilling - inside area for workshops and classrooms
+
+### Cons
+
+- Some reports that David is a strong personality
+- Frankly, in some ways, [ HeatSync Labs](HeatSync-Labs) is in competition with DA. We are our own incubator with our own model. This could result in either competition or cooperation with the other artists there.
+
+### Other Considerations
+
+- Move in cost is 1st and last month, plus a utility/clean-up/late deposit
+- Month of May for free while you paint, wire, build or whatever. building is as-is, no leaks, and we will make improvements as we go. We'll get cooling in ASAP. New rear double doors will be later, as rent comes in
+- 1M in insurance necessary
+- More of an artsy style [ hackerspace](How-To-Hackerspace)
 
 # Additional Contacts
 
