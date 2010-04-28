@@ -51,7 +51,7 @@ Residential house that was modified to be a spa.\
 **Size:** 900 square feet\
 **Location:** [242 S. Wall Street Chandler AZ](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=242+South+Wall+Street+Chandler+AZ&sll=33.30026,-111.841507&sspn=0.068868,0.085659&ie=UTF8&hq=&hnear=242+S+Wall+St,+Chandler,+Maricopa,+Arizona+85225&z=16)\
 
-### Pros and Cons
+### Details
 
 - **Con:** Located in downtown Chandler so it may not be as central to Tempe/Phoenix as many prefer
 - Lease agreement would be all by ourselves, no sublease
