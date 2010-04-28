@@ -95,28 +95,7 @@ Room in a former Intel Building off the 101 and Chandler, renovated by the City 
 
 ### Summary
 
-**Location:** [718 N. 4th St](http://maps.google.com/maps?q=718+N.+4th+St&ie=UTF8&hl=en&hq=&hnear=718+N+4th+St,+Phoenix,+Maricopa,+Arizona+85004&z=16)\
-
-#### Space \#1
-
-![ thumb \| border \| right \| middle ](files/Location-CenPho1.jpg) **Cost:** \$790\
-**Size:** 970 SF\
-**Description:** The large west end room, mini split AC, small side window, 36" front door, large double back door, private bathroom.\
-
-#### Space \#2
-
-**Cost:** \$450\
-**Size:** 485 SF\
-**Description:** The small room, AC or EVAP, no bathroom, sink optional, large storefront window, double rear door.\
-
-#### Space \#3
-
-**Cost:** \$1100\
-**Size:** 1455 SF\
-**Description:** Space \#1 and \#2 combined. Private bathroom and AC as above.\
-
-#### Space \#4
-
+![ thumb \| border \| right \| middle ](files/Location-CenPho2.jpg) **Location:** [718 N. 4th St](http://maps.google.com/maps?q=718+N.+4th+St&ie=UTF8&hl=en&hq=&hnear=718+N+4th+St,+Phoenix,+Maricopa,+Arizona+85004&z=16)\
 **Cost:** \$525-\$590\
 **Size:** 625 SF\
 **Description:** Large front entrance, double door rear entrance, evap or AC, \$525, if you share the bathroom with the building, \$590 if you don't.\
