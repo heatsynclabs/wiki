@@ -104,7 +104,7 @@ Room in a former Intel Building off the 101 and Chandler, renovated by the City 
 **Size:** 625 SF\
 **Description:** Large front entrance, double door rear entrance, evap or AC, \$525, if you share the bathroom with the building, \$590 if you don't.\
 
-### Pros and Cons
+### Details
 
 - **Pro:** CAM for [ First Friday](First-Friday), shared electricity, etc.
 - **Pro/Con:** Move in cost is 1st and last month, plus a utility/clean-up/late deposit
