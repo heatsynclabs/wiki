@@ -93,9 +93,13 @@ Room in a former Intel Building off the 101 and Chandler, renovated by the City 
 
 ## D.A. Thierren's Downtown Art Building
 
+![](files/Location-CenPho2.jpg)
+
+*thumb \| border \| right \| middle*
+
 ### Summary
 
-![ thumb \| border \| right \| middle ](files/Location-CenPho2.jpg) **Location:** [718 N. 4th St](http://maps.google.com/maps?q=718+N.+4th+St&ie=UTF8&hl=en&hq=&hnear=718+N+4th+St,+Phoenix,+Maricopa,+Arizona+85004&z=16)\
+![ thumb \| border \| right \| middle ](files/Location-CenPho3.jpg) **Location:** [718 N. 4th St](http://maps.google.com/maps?q=718+N.+4th+St&ie=UTF8&hl=en&hq=&hnear=718+N+4th+St,+Phoenix,+Maricopa,+Arizona+85004&z=16)\
 **Cost:** \$525-\$590\
 **Size:** 625 SF\
 **Description:** Large front entrance, double door rear entrance, evap or AC, \$525, if you share the bathroom with the building, \$590 if you don't.\
