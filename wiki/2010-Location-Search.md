@@ -34,7 +34,7 @@ Originally there was not to be much of any permanent space for us when the move 
 **Size:** Unknown but we're currently in ~350+ square feet\
 **Location:** [260 South Arizona Ave, Chandler Az](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=260+south+arizona+avenue+chandler+az&sll=33.30078,-111.840713&sspn=0.008035,0.010021&ie=UTF8&hq=&hnear=260+S+Arizona+Ave,+Chandler,+Maricopa,+Arizona+85225&ll=33.299615,-111.841915&spn=0.008035,0.010021&z=16)\
 
-### Pros and Cons
+### Details
 
 - **Con:** Located in downtown Chandler so it may not be as central to Tempe/Phoenix as many prefer
 - **Pro:** Communal facilities (power, meeting rooms, etc.)
