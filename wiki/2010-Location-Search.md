@@ -73,14 +73,15 @@ Room in a former Intel Building off the 101 and Chandler, renovated by the City 
 **Cost:** \$1000 utilities inclusive\
 **Size:** 576 sq feet\
 **Location:** [145 S 79th street Chandler Az](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=+145+S+79th+street+Chandler+Az&sll=33.439457,-111.950989&sspn=0.008595,0.010707&ie=UTF8&hq=&hnear=145+S+79th+St,+Chandler,+Maricopa,+Arizona+85226&z=16)\
+**Leasing Options:** Month by Month, 1-3 year option
 
-### Pros and Cons
+### Pros
 
-- **Pro/Con:** Less in Chandler, but still quite within Chandler
 - **Pro:** Some communal facilities, conference room for 22, several flop rooms, cafe area, corridor lounge areas, etc.
+- **Pro:** Space, water, sewer, electrical, janitorial, use of all common space & the loading dock
 - **Pro:** Free insurance (~\$2-4k in value) (still checking up on this)
 - **Pro:** Free scheduled access to David's advanced tools (ie. laser cutter), which will attract more members
-- **Pro/Con:** More sterile environment, entrepreneurial and business-y vs. the typical artists/[ hackerspace](How-To-Hackerspace) model
+- **Pro:** UA nano-lab at innovations has 2 CNCs, 1 laser cutter and other manufacturing related gear
 - **Pro:** Temporary Option (1-3 years)
 - **Pro:** No down payment
 - **Pro:** Free wi-fi
@@ -90,6 +91,15 @@ Room in a former Intel Building off the 101 and Chandler, renovated by the City 
   - Cryogenics Lab (you know like liquid nitrogen!)
   - Bio Lab - Centrifuge, etc.
   - Dark Room
+
+### Cons
+
+- **Con:** Additional charge for Cox Internet
+
+### Other Considerations
+
+- **Pro/Con:** Less in Chandler, but still quite within Chandler
+- **Pro/Con:** More sterile environment, entrepreneurial and business-y vs. the typical artists/[ hackerspace](How-To-Hackerspace) model
 
 ## D.A. Thierren's Downtown Art Building
 
