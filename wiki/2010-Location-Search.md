@@ -34,12 +34,15 @@ Originally there was not to be much of any permanent space for us when the move 
 **Size:** Unknown but we're currently in ~350+ square feet\
 **Location:** [260 South Arizona Ave, Chandler Az](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=260+south+arizona+avenue+chandler+az&sll=33.30078,-111.840713&sspn=0.008035,0.010021&ie=UTF8&hq=&hnear=260+S+Arizona+Ave,+Chandler,+Maricopa,+Arizona+85225&ll=33.299615,-111.841915&spn=0.008035,0.010021&z=16)\
 
-### Details
+### Pros
 
-- **Con:** Located in downtown Chandler so it may not be as central to Tempe/Phoenix as many prefer
-- **Pro:** Communal facilities (power, meeting rooms, etc.)
-- **Pro:** Presumably free or cheap
-- **Pro:** Maintain connection with Gangplank who have very similar ethos and very lofty goals
+- Communal facilities (power, meeting rooms, etc.)
+- Presumably free or cheap
+- Maintain connection with Gangplank who have very similar ethos and very lofty goals
+
+### Cons
+
+- Located in downtown Chandler so it may not be as central to Tempe/Phoenix as many prefer
 
 ## House Behind New Gangplank Location
 
@@ -51,14 +54,20 @@ Residential house that was modified to be a spa.\
 **Size:** 900 square feet\
 **Location:** [242 S. Wall Street Chandler AZ](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=242+South+Wall+Street+Chandler+AZ&sll=33.30026,-111.841507&sspn=0.068868,0.085659&ie=UTF8&hq=&hnear=242+S+Wall+St,+Chandler,+Maricopa,+Arizona+85225&z=16)\
 
-### Details
+### Pros
 
-- **Con:** Located in downtown Chandler so it may not be as central to Tempe/Phoenix as many prefer
 - Lease agreement would be all by ourselves, no sublease
-- **Pro:** Communal facilities (power, meeting rooms, etc.) 20 feet from new \[<http://gangplankhq.com/>\| Gangplank\] location
-- **Pro/Con:** Traditional busted hackerspace feel.
-- **Pro:** Close proximity to Derek and the \[<http://gangplankhq.com/>\| Gangplank\] community, established trust
-- **Con:** Leasing this space would require renovations on our behalf
+- Communal facilities (power, meeting rooms, etc.) 20 feet from new \[<http://gangplankhq.com/>\| Gangplank\] location
+- Close proximity to Derek and the \[<http://gangplankhq.com/>\| Gangplank\] community, established trust
+
+### Cons
+
+- Leasing this space would require renovations on our behalf
+- Located in downtown Chandler so it may not be as central to Tempe/Phoenix as many prefer
+
+### Other Considerations
+
+- Traditional busted hackerspace feel.
 
 ## Innovations Chandler
 
