@@ -107,8 +107,8 @@ Room in a former Intel Building off the 101 and Chandler, renovated by the City 
 
 ### Other Considerations
 
-- **Pro/Con:** Less in Chandler, but still quite within Chandler
-- **Pro/Con:** More sterile environment, entrepreneurial and business-y vs. the typical artists/[ hackerspace](How-To-Hackerspace) model
+- Less in Chandler, but still quite within Chandler
+- More sterile environment, entrepreneurial and business-y vs. the typical artists/[ hackerspace](How-To-Hackerspace) model
 
 ## D.A. Thierren's Downtown Art Building
 
