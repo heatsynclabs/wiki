@@ -99,7 +99,7 @@ Room in a former Intel Building off the 101 and Chandler, renovated by the City 
 
 #### Space \#1
 
-**Cost:** \$790\
+![ thumb \| border \| right \| middle ](files/Location-CenPho1.jpg) **Cost:** \$790\
 **Size:** 970 SF\
 **Description:** The large west end room, mini split AC, small side window, 36" front door, large double back door, private bathroom.\
 
