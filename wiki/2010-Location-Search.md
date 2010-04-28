@@ -116,20 +116,6 @@ Room in a former Intel Building off the 101 and Chandler, renovated by the City 
 - **Con:** Some reports that David is a strong personality
 - **Con:** Frankly, in some ways, [ HeatSync Labs](HeatSync-Labs) is in competition with DA. We are our own incubator with our own model. This could result in either competition or cooperation with the other artists there.
 
-## PHX Arts District Location
-
-### Summary
-
-**Cost:** ?\
-**Size:** ?\
-**Location:** ?\
-
-### Pros and Cons
-
-- **Pro:** Quoted as "far lower than 2k a month", unverified
-- **Pro:** Downtown Phoenix arts district
-- **Pro/Con:** More artsy - The artist style hackerspace
-
 # Additional Contacts
 
 When submitting our ASU EAP 2k proposal, the director of that program mentioned looking into finding municipalities in the area who currently may have more real estate than they know what to do with and maybe interest in hosting this type of 'incubator' concept. He also mentioned contacting Lodestar, an ASU lead community nonprofit resource, for assistance. I have since contacted them and ended up speaking with Robert Duea who encouraged us to seek out city planners and city managers. He seemed interested in our concept and went so far as to mention that his community of Surprise was indeed looking at courting tech startups and that we may fall into that.--so far no contact returned from cities/munis
