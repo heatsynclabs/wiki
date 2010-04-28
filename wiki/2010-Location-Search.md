@@ -67,7 +67,7 @@ Residential house that was modified to be a spa.\
 
 ### Other Considerations
 
-- Traditional busted hackerspace feel.
+- Traditional busted [ hackerspace](How-To-Hackerspace) feel.
 
 ## Innovations Chandler
 
