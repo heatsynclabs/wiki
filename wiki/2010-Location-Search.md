@@ -77,15 +77,15 @@ Room in a former Intel Building off the 101 and Chandler, renovated by the City 
 
 ### Pros
 
-- **Pro:** Some communal facilities, conference room for 22, several flop rooms, cafe area, corridor lounge areas, etc.
-- **Pro:** Space, water, sewer, electrical, janitorial, use of all common space & the loading dock
-- **Pro:** Free insurance (~\$2-4k in value) (still checking up on this)
-- **Pro:** Free scheduled access to David's advanced tools (ie. laser cutter), which will attract more members
-- **Pro:** UA nano-lab at innovations has 2 CNCs, 1 laser cutter and other manufacturing related gear
-- **Pro:** Temporary Option (1-3 years)
-- **Pro:** No down payment
-- **Pro:** Free wi-fi
-- **Pro:** Available to rent within facilities (free to start)
+- Some communal facilities, conference room for 22, several flop rooms, cafe area, corridor lounge areas, etc.
+- Space, water, sewer, electrical, janitorial, use of all common space & the loading dock
+- Free insurance (~\$2-4k in value) (still checking up on this)
+- Free scheduled access to David's advanced tools (ie. laser cutter), which will attract more members
+- UA nano-lab at innovations has 2 CNCs, 1 laser cutter and other manufacturing related gear
+- Temporary Option (1-3 years)
+- No down payment
+- Free wi-fi
+- Available to rent within facilities (free to start)
   - Wetlabs, gas, hoods
   - Fume Extraction (acid etch IC's like all those Defcon talks you've seen)
   - Cryogenics Lab (you know like liquid nitrogen!)
