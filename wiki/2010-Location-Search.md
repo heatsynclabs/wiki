@@ -50,7 +50,7 @@ Originally there was not to be much of any permanent space for us when the move 
 
 Residential house that was modified to be a spa.\
 \
-**Cost:** Negotiations are at \$1250 a month currently, but the [ Board of Directors](Board-Members) do feel that it would be worth paying \$600-\$800 per month for it. The owner proposed the price of \$1000 per month as long as [ HeatSync Labs](HeatSync-Labs) renovated the building to his specifications.\
+**Cost:** Negotiations are at \$1250 a month currently, but the [ Board of Directors](Board-Members) do not feel that it would be worth paying \$600-\$800 per month for it. The owner proposed the price of \$1000 per month as long as [ HeatSync Labs](HeatSync-Labs) renovated the building to his specifications.\
 **Size:** 900 square feet\
 **Location:** [242 S. Wall Street Chandler AZ](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=242+South+Wall+Street+Chandler+AZ&sll=33.30026,-111.841507&sspn=0.068868,0.085659&ie=UTF8&hq=&hnear=242+S+Wall+St,+Chandler,+Maricopa,+Arizona+85225&z=16)\
 
