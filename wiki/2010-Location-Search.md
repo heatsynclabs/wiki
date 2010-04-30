@@ -104,6 +104,7 @@ Room in a former Intel Building off the 101 and Chandler, renovated by the City 
 ### Cons
 
 - Additional charge for Cox Internet
+- No direct \[<http://gangplankhq.com/>\| Gangplank\] access. May lose that community connection.
 
 ### Other Considerations
 
