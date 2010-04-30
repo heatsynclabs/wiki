@@ -165,3 +165,31 @@ Things I would like to see in a leased space include:
 - Lounge Space.
 
 I know others have expressed a 'safe location' as something that is important, but here too some of the [ hackerspace](How-To-Hackerspace) how-to's recommend explicitly looking for sketchy and therefor cheap neighborhoods. We also want the space to be friendly to all night traffic and all night machine noise.
+
+### Public Meeting Discussion
+
+Our current space is an office ~120 sqft. and the corner with lockers and large equipment.
+
+- Gangplank 3.0
+
+\- small "wahoo" from the free aspect - not tied into a lease or forced to stay in the space. - allows us access to people and resources that we won't get else where - security was raised as a concern. we will have things of value -- how do we protect it? - people want things open late. :)
+
+- House behind Gangplank
+
+\- Is it properly zoned? -- was previously used as a salon, should be ok. - David -- not a viable option. Suggests that the money and resources it would take to make it a safe and usable space. Future plans by the owner make it so that in the future (5 yrs) we might be priced out of the area.
+
+- D.A. Therrian Space
+
+\- Strong personality. Alot of promises were made by him and not delivered. As a landlord, an attorney was suggested and everything we need to categorized and cataloged because they might not be around. Everything needs to be in writing in his experience. - Mention of artists being a slightly different "business" idea then the hackerspace. - Lightrail stop at Roosevelt - No A/C - Security concerns with the location as well. - Is there parking? No dedicated parking. - Development of space is promised, but no date in sight.
+
+- Innovations Chandler
+
+\- City promised more than was included on the lease. Things like, no noise, no vibrations, no large equipment going. Not sure what exactly is allowed - still in negotiations to clarify. - Suggested to wait and see what this develops into - Insurance situation unclear, would need more information - Good PR standpoint - City doesnt add markup on anything. Everything is provided at cost. - Many resources available to us. - Plenty of parking - More of a professional and business aspect of HSL
+
+- Overall Discussion
+
+\- There is something about a nice, clean space. Concern with the Phoenix place being a negative first impression. - If we had more bio guys, then Innovations would be awesome. If we were more artists, then Phoenix. More tech guys, Gangplank 3.0 - We've got a good thing going with Gangplank. If we build a good basis and fund going -- we can get more notoriety and get people interested. Gangplank provides a good, clean and updated place to do that. Build the momentum - save the money. - Might lose a good base from moving away from Chandler. Moving down to dwtn Phx would cause us to lose some and possible gain. - Through downtown Chandler and Gangplank we really gain PR and mesh well. People heard about us through them. - Possibility for 24/7 model? hopefully. - Floorplan for Gangplank 3.0 and see where we fit. - "And the price is right" - Keeping things clean and organized: Innovations is a clean facilities. DA Therrian is not something that would require us clean up immediately. Gangplank: questionable? - Phoenix is a new place for us, haven't explored this. By leaving these places out are we isolating these communities? - General consensus is save money on space and buy more tools. - We need to still push forward on 24/7 access, no matter where we end up.
+
+- - Conclusion
+
+Understanding that we don't feel a big push to move away from Gangplank right now. Talk with Derek about expanding the space at 3.0 to include us for free or minimal cost.
