@@ -19,6 +19,7 @@
 <li><a href="Nearspace-Balloon">Nearspace Balloon</a></li>
 <li><a href="Rocket-Cars">Rocket Cars</a></li>
 </ul></li>
+<li><a href="Membership-Guidelines">Membership Guidelines</a></li>
 <li><a href="Presentations">Presentations</a></li>
 <li><a href="Events">Events</a>
 <ul>
