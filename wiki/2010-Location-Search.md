@@ -142,9 +142,9 @@ Room in a former Intel Building off the 101 and Chandler, renovated by the City 
 - 1M in insurance necessary
 - More of an artsy style [ hackerspace](How-To-Hackerspace)
 
-# Additional Contacts
+# Additional Options
 
-When submitting our ASU EAP 2k proposal, the director of that program mentioned looking into finding municipalities in the area who currently may have more real estate than they know what to do with and maybe interest in hosting this type of 'incubator' concept. He also mentioned contacting Lodestar, an ASU lead community nonprofit resource, for assistance. I have since contacted them and ended up speaking with Robert Duea who encouraged us to seek out city planners and city managers. He seemed interested in our concept and went so far as to mention that his community of Surprise was indeed looking at courting tech startups and that we may fall into that.--so far no contact returned from cities/munis
+Here is a spreadsheet of currently available properties and prices. Feel free to dig through this list for gems <http://spreadsheets.google.com/pub?key=t4vwfHQOqXSXc-2GOYcx5Kg&output=html>
 
 # The Voice of the People: Comments and Concerns
 
