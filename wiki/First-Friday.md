@@ -46,7 +46,7 @@ I hope for this page to be an accumulation of project ideas we would like to bri
 
 ## Contact Info
 
-**Hillary:**602 475 2661
+**Hillary:** 602 475 2661
 
 ## Event Information Files
 
