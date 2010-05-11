@@ -33,7 +33,7 @@ I hope for this page to be an accumulation of project ideas we would like to bri
 |  |  |  |
 |----|----|----|
 | **Item** | **Cost** | **Notes** |
-| 10' by 10' Space | Pre-Register: \$50 Same Day: \$100 |  |
+| 10' by 10' Space | Pre-Register: \$50 or Same Day: \$100 |  |
 | Corner Space | Additional \$20 |  |
 | Gas Generator Use | Additional \$20 | Have to be placed in special zone |
 | Retail Vendors | Additional \$20 |  |
