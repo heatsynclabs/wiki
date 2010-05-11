@@ -44,7 +44,7 @@ I hope for this page to be an accumulation of project ideas we would like to bri
 ## Event Information Files
 
 Event Map:\
-[Media:Mar_Map.pdf](files/Mar_Map.pdf)
+[Mar_Map.pdf](files/Mar_Map.pdf)
 
 Event Application:\
-[Media:PhoestivalVendorApp_FINAL.pdf](files/PhoestivalVendorApp_FINAL.pdf)
+[PhoestivalVendorApp_FINAL.pdf](files/PhoestivalVendorApp_FINAL.pdf)
