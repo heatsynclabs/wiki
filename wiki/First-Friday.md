@@ -1,9 +1,17 @@
 First Friday Art Walk in Downtown Phoenix is a Monthly event that allows us to to appeal to an audience that we may not normally be able to reach with our own regularly hosted events. From the event organizers website they describe it as:
 
-"Tour more than 70 galleries, venues and art-related spaces to see a variety of artwork and to enjoy the spirit and culture of the city as you mingle with thousands of other residents and visitors."
+**"Tour more than 70 galleries, venues and art-related spaces to see a variety of artwork and to enjoy the spirit and culture of the city as you mingle with thousands of other residents and visitors."**
 
 Find out more about First Friday and their host Artlink Phoenix at the below link:
 
 <http://www.artlinkphoenix.com/about/>
 
 I hope for this page to be an accumulation of project ideas we would like to bring to the event, costs of reserving a table at the event, and general contact information that we would need to get things ready for the event.
+
+![](files/Hsl-ff.jpg)
+
+*hsl-ff.jpg*
+
+![](files/Ff-map.png)
+
+*ff-map.png*
