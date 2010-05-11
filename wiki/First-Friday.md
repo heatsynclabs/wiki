@@ -44,6 +44,10 @@ I hope for this page to be an accumulation of project ideas we would like to bri
 | Helium - 20 cu ft. | \$16 for a week |  |
 |  |  |  |
 
+## Contact Info
+
+**Hillary:**602 475 2661
+
 ## Event Information Files
 
 Event Map:\
