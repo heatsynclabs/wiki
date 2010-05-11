@@ -29,6 +29,7 @@ I hope for this page to be an accumulation of project ideas we would like to bri
 - Balloons
 - Extension Cords
 - Water(It's hot and we're there for 5-6 hours!)
+- HSL Signs
 
 ## Costs
 
