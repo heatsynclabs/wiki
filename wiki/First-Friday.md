@@ -24,9 +24,11 @@ I hope for this page to be an accumulation of project ideas we would like to bri
 - Business Cards
 - One Page Flyers
 - T-Shirts
+- Make Magazines
 - Buttons
 - Balloons
 - Extension Cords
+- Water(It's hot and we're there for 5-6 hours!)
 
 ## Costs
 
@@ -48,3 +50,11 @@ Event Map:\
 
 Event Application:\
 [PhoestivalVendorApp_FINAL.pdf](files/PhoestivalVendorApp_FINAL.pdf)
+
+## Event Notes
+
+- This may not be the venue for selling or swag as no one was remotely interested(given we didn't really try to sell).
+- We need to find out if First Friday will be continuing through out the summer.
+- Total came to around \$100 for a table with no revenue but heavy face time with people. Can we achieve the same face time by walking around as mad scientists with our inventions?
+- Focus on maker went well. Would be nice to keep that if we continue with the table format.
+- We could really use a banner(vinyl?) or something to stand out more.
