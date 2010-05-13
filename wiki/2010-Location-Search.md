@@ -28,9 +28,7 @@ Moreover, the aforementioned price is a conservative estimate and does not inclu
 
 ### Summary
 
-![gp3-floorplan.jpg](files/Gp3-floorplan.jpg) Originally there was not to be much of any permanent space for us when the move to Gangplank 3.0 occurred. It was this fact which initially started the search for a new space. This has now changed. As of Monday April 26th we have been given an office within the existing Gangplank building and are now looking at the following opportunity:
-
-**Cost:** Free\
+![400](files/Gp3-floorplan.jpg) Originally there was not to be much of any permanent space for us when the move to Gangplank 3.0 occurred. It was this fact which initially started the search for a new space. This has now changed. As of Monday April 26th we have been given an office within the existing Gangplank building and are now looking at the following opportunity: ![400](files/Possible-hsl.jpg) **Cost:** Free\
 **Size:** ~450\
 **Location:** [260 South Arizona Ave, Chandler Az](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=260+south+arizona+avenue+chandler+az&sll=33.30078,-111.840713&sspn=0.008035,0.010021&ie=UTF8&hq=&hnear=260+S+Arizona+Ave,+Chandler,+Maricopa,+Arizona+85225&ll=33.299615,-111.841915&spn=0.008035,0.010021&z=16)\
 
