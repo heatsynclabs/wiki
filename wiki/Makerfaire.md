@@ -48,14 +48,16 @@ This is not going to be a commercial event for us. We would have had to pay \$30
 
 - Rep Rap
 - Buttons
-- HSL Signs(In the Future a Banner)
+- HSL Signs
 - One Page
 - Laptops
 - Banner
-- Stands for Banners
+- Stands for Banner
 - 2 Additional Chairs
 - Featured Maker Project?: Rick Osgood, Jacob Rosenthal, etc.
 - Balloons?(LEDs, Magnets, Batteries, and HSL Logo)
+- Business Cards
+- Mad Scientist Getup
 
 ## Makerfaire Manual
 
