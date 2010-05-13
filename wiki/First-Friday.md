@@ -20,6 +20,7 @@ I hope for this page to be an accumulation of project ideas we would like to bri
 
 - Tent
 - Hanging Lights
+- Tables
 - Gas Generator - 3000W or Greater
 - Business Cards
 - One Page Flyers
