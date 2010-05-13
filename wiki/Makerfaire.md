@@ -74,7 +74,7 @@ Below is the Makerfaire manual with it's rules and regulations as well as inform
 | 2-5pm    | Meet, Greet, & Exploration\* |
 | 5pm-8pm  | Maker Networking Event\*     |
 
-- Times Subject to Change
+\*Times Subject to Change
 
 Other possibilities: Tour of Noisebridge? Tour of Lab? What Else? Art Galleries? Tech Shops? Food!
 
