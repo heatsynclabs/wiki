@@ -51,3 +51,7 @@ This is not going to be a commercial event for us. We would have had to pay \$30
 - HSL Signs(In the Future a Banner)
 - One Page
 - Laptops
+
+## Makerfaire Manual
+
+Below is the Makerfaire manual with it's rules and regulations as well as information on what to do when we arrive for the event: [Media:BAMF10_Maker_Manual_FINAL.pdf](files/BAMF10_Maker_Manual_FINAL.pdf)
