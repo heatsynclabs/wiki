@@ -54,6 +54,7 @@ This is not going to be a commercial event for us. We would have had to pay \$30
 - Banner
 - Stands for Banners
 - 2 Additional Chairs
+- Featured Maker Project?: Rick Osgood, Jacob Rosenthal, etc.
 
 ## Makerfaire Manual
 
