@@ -18,7 +18,7 @@ This is not going to be a commercial event for us. We would have had to pay \$30
 
 ## Provided By Venue
 
-- **Tickets:**As appreciation for your efforts, each maker exhibit will receive **two (2) complimentary one-day tickets** at maker check-in. Please note: You will be able to place these tickets at the Main Gate Will Call, if necessary
+- **Tickets:** As appreciation for your efforts, each maker exhibit will receive **two (2) complimentary one-day tickets** at maker check-in. Please note: You will be able to place these tickets at the Main Gate Will Call, if necessary
 
 <!-- -->
 
