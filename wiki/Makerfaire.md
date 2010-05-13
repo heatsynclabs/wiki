@@ -4,6 +4,14 @@
 
 ## Event Description
 
+Straight off of the website:
+
+"Maker Faire is a two-day, family-friendly event that celebrates the Do-It-Yourself (DIY) mindset. It's for creative, resourceful people of all ages and backgrounds who like to tinker and love to make things. So much to see, you will need 2 days to see it all!"
+
+Check out their home page at:
+
+<http://www.makerfaire.com/>
+
 ## Budget
 
 This is not going to be a commercial event for us. We would have had to pay \$300 to sell things at our table.
