@@ -64,13 +64,17 @@ Below is the Makerfaire manual with it's rules and regulations as well as inform
 
 ### Friday
 
-|          |                 |
-|----------|-----------------|
-| **Time** | **Event**       |
-| 5am      | Airport         |
-| 6am      | Depart Phoenix  |
-| 8am      | Arrive San Jose |
-|          | Setup           |
+|          |                              |
+|----------|------------------------------|
+| **Time** | **Event**                    |
+| 5am      | Airport                      |
+| 6am      | Depart Phoenix               |
+| 8am      | Arrive San Jose              |
+| 10am     | Setup                        |
+| 2-5pm    | Meet, Greet, & Exploration\* |
+| 5pm-8pm  | Maker Networking Event\*     |
+
+- Times Subject to Change
 
 Other possibilities: Tour of Noisebridge? Tour of Lab? What Else? Art Galleries? Tech Shops? Food!
 
