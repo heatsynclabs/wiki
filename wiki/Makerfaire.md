@@ -52,6 +52,8 @@ This is not going to be a commercial event for us. We would have had to pay \$30
 - One Page
 - Laptops
 - Banner
+- Stands for Banners
+- 
 
 ## Makerfaire Manual
 
