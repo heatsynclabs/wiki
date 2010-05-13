@@ -84,12 +84,13 @@ Other possibilities: Tour of Noisebridge? Tour of Lab? What Else?
 
 ### Sunday
 
-|  |  |  |  |
-|----|----|----|----|
-| **Time** | **Event** | 10am-1pm | Man Table and Explore the Faire |
-| 1-2pm | Tear Down and Pack |  |  |
-| 2-3pm | Hackerspace Panel |  |  |
-| 3-6pm | Dinner and Socialize |  |  |
-| 6-8pm | Drop Off Rental and Airport |  |  |
-| 8:55pm | Depart San Jose |  |  |
-| 10:45pm | Arrive Phoenix |  |  |
+|          |                                 |
+|----------|---------------------------------|
+| **Time** | **Event**                       |
+| 10am-1pm | Man Table and Explore the Faire |
+| 1-2pm    | Tear Down and Pack              |
+| 2-3pm    | Hackerspace Panel               |
+| 3-6pm    | Dinner and Socialize            |
+| 6-8pm    | Drop Off Rental and Airport     |
+| 8:55pm   | Depart San Jose                 |
+| 10:45pm  | Arrive Phoenix                  |
