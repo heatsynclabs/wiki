@@ -62,14 +62,14 @@ Below is the Makerfaire manual with it's rules and regulations as well as inform
 
 ## Schedule
 
-Friday
+### Friday
 
-Tour of Noisbridge? Tour of Lab? What Else?
+5am - Airport 6am - Depart Phoenix 8am - Arrive San Jose Setup Tour of Noisbridge? Tour of Lab? What Else?
 
-Saturday
+### Saturday
 
 10am-8pm --\> Table and Event After 8pm --\> Dinner
 
-Sunday
+### Sunday
 
 1-2 Pack 2-3 Panel Talk 3-6 Travel and Flight 6pm - 8pm - Fly Out
