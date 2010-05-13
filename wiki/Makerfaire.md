@@ -64,21 +64,32 @@ Below is the Makerfaire manual with it's rules and regulations as well as inform
 
 ### Friday
 
-|                     |                 |
-|---------------------|-----------------|
-| **Time**            | **Event**       |
-| 5am                 | Airport         |
-| 6am                 | Depart Phoenix  |
-| 8am                 | Arrive San Jose |
-| Setup               |                 |
-| Tour of Noisbridge? |                 |
-| Tour of Lab?        |                 |
-| What Else?          |                 |
+|          |                 |
+|----------|-----------------|
+| **Time** | **Event**       |
+| 5am      | Airport         |
+| 6am      | Depart Phoenix  |
+| 8am      | Arrive San Jose |
+|          | Setup           |
+
+Other possibilities: Tour of Noisebridge? Tour of Lab? What Else?
 
 ### Saturday
 
-10am-8pm --\> Table and Event After 8pm --\> Dinner
+|          |                                 |
+|----------|---------------------------------|
+| **Time** | **Event**                       |
+| 10am-8pm | Man Table and Explore the Faire |
+| 8pm      | Dinner Somewhere                |
 
 ### Sunday
 
-1-2 Pack 2-3 Panel Talk 3-6 Travel and Flight 6pm - 8pm - Fly Out
+|  |  |  |  |
+|----|----|----|----|
+| **Time** | **Event** | 10am-1pm | Man Table and Explore the Faire |
+| 1-2pm | Tear Down and Pack |  |  |
+| 2-3pm | Hackerspace Panel |  |  |
+| 3-6pm | Dinner and Socialize |  |  |
+| 6-8pm | Drop Off Rental and Airport |  |  |
+| 8:55pm | Depart San Jose |  |  |
+| 10:45pm | Arrive Phoenix |  |  |
