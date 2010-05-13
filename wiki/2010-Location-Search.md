@@ -36,8 +36,10 @@ Originally there was not to be much of any permanent space for us when the move 
 
 ### Pros
 
+- Our own bay door
+- 220 Power
 - Communal facilities (power, meeting rooms, etc.)
-- Presumably free or cheap
+- Free! spend money on tools
 - Maintain connection with Gangplank who have very similar ethos and very lofty goals
 
 ### Cons
