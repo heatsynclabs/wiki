@@ -42,7 +42,7 @@ This is not going to be a commercial event for us. We would have had to pay \$30
 
 <!-- -->
 
-- **Tables and Chairs:** We will provide a table and two chairs if you selected a standard set-up. We appreciate makers bringing any other equipment needed to support their exhibit. Additional tables can be ordered; however, a \$10.00 per table cost will be incurred. Additional chairs are no charge, but based on availability.
+- **Tables and Chairs:** We will provide two tables(8ft x 30in) and two chairs if you selected a standard set-up. We appreciate makers bringing any other equipment needed to support their exhibit. Additional tables can be ordered; however, a \$10.00 per table cost will be incurred. Additional chairs are no charge, but based on availability.
 
 ## What To Bring
 
