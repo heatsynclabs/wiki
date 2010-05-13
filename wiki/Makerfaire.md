@@ -51,6 +51,7 @@ This is not going to be a commercial event for us. We would have had to pay \$30
 - HSL Signs(In the Future a Banner)
 - One Page
 - Laptops
+- Banner
 
 ## Makerfaire Manual
 
