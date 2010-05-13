@@ -25,6 +25,7 @@
 <ul>
 <li><a href="Arduino-Night">Arduino Night</a></li>
 <li><a href="First-Friday">First Friday</a></li>
+<li><a href="Makerfaire">Makerfaire</a></li>
 </ul></li>
 <li><a href="Suggestions">Suggestions</a></li>
 </ul>
