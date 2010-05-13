@@ -72,7 +72,7 @@ Below is the Makerfaire manual with it's rules and regulations as well as inform
 | 8am      | Arrive San Jose |
 |          | Setup           |
 
-Other possibilities: Tour of Noisebridge? Tour of Lab? What Else?
+Other possibilities: Tour of Noisebridge? Tour of Lab? What Else? Art Galleries? Tech Shops? Food!
 
 ### Saturday
 
@@ -81,6 +81,8 @@ Other possibilities: Tour of Noisebridge? Tour of Lab? What Else?
 | **Time** | **Event**                       |
 | 10am-8pm | Man Table and Explore the Faire |
 | 8pm      | Dinner Somewhere                |
+
+Other possibilities: Tour of Noisebridge? Tour of Lab? What Else? Art Galleries? Tech Shops? Food!
 
 ### Sunday
 
