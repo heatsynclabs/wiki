@@ -28,7 +28,7 @@ Moreover, the aforementioned price is a conservative estimate and does not inclu
 
 ### Summary
 
-Originally there was not to be much of any permanent space for us when the move to Gangplank 3.0 occurred. It was this fact which initially started the search for a new space. This may be changing, however. As of Monday April 26th we have been given an office within the existing Gangplank building, and have been promised similar or better when the eventual move comes.
+Originally there was not to be much of any permanent space for us when the move to Gangplank 3.0 occurred. It was this fact which initially started the search for a new space. This has now changed. As of Monday April 26th we have been given an office within the existing Gangplank building and are now looking at the following opportunity:
 
 **Cost:** Free\
 **Size:** ~450\
