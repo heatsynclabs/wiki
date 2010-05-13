@@ -70,7 +70,7 @@ Below is the Makerfaire manual with it's rules and regulations as well as inform
 | 5am      | Airport                      |
 | 6am      | Depart Phoenix               |
 | 8am      | Arrive San Jose              |
-| 10am     | Setup                        |
+| 10am-6pm | Setup Times                  |
 | 2-5pm    | Meet, Greet, & Exploration\* |
 | 5pm-8pm  | Maker Networking Event\*     |
 
