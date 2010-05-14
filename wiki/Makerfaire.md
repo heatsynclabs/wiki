@@ -49,7 +49,7 @@ This is not going to be a commercial event for us. We would have had to pay \$30
 - Rep Rap
 - Buttons
 - HSL Signs
-- One Page
+- One Page -- how many to print? color? b/w? If b/w -- Drea can print at home/work. Cheaper to print mass amounts at Kinkos. Suggested to only be 1/2 page?
 - Laptops
 - Banner
 - Stands for Banner
