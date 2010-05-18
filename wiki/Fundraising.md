@@ -4,16 +4,17 @@ Feel free to brainstorm here on fund raising ideas and track their progress. The
 
 ## Previous Fundraisers
 
-Lan Party - 5/1/2010 noon-midnight [ Poker Night](Poker-Night-Fundraiser) - 10/03/09 @ 6-10pm
+- Lan Party - 5/1/2010 noon-midnight
+- [ Poker Night](Poker-Night-Fundraiser) - 10/03/09 @ 6-10pm
 
 ## Fundraising Ideas
 
+- Kickstarter - <http://www.kickstarter.com/>
 - Local Business Kickback - Take this flyer in to here so we can get a donation plz
 - Breakfast Burritos
 - HeatSync Labs BBQ
 - ColdStone Night, Movie Theater Night? - Choose local companies and be able to consistently bring 30-50 people to them or something.
 - Bid on a Geek - Geek for a Night
-- LAN Party
 - Competitions
 - Sell Make Subscriptions: <http://blog.makezine.com/archive/2010/01/make_money_for_your_club_or_organiz.html>
 
