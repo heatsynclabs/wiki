@@ -32,9 +32,3 @@ Lan Party 5/1/2010 noon-midnight
 - Rep Rap Printed {fillinblank} - something that was printed by the Rep Rap?
 
 ### Swag on GoogleCheckOut Account
-
-#### Different Categories of Swag?
-
-- Swag - Misc
-- Swag - Space Balloon
-- Swag - (anything else)
