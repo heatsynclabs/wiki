@@ -13,8 +13,13 @@ Lets pick out a list of 'essential' tools in each category. The [Fab Lab](http:/
 
 For cheaper tools [ Auctions](Local-Resources#auctions), [Craigslist](http://www.craigslist.com) and [Cheap Chinese Tools](Cheap-Chinese-Tools) are probably the way to go.
 
-## Essential tools
+## Essential Tools
 
-- Embedded circuit design/electronics lab tools
+- Embedded Circuit Design/Electronics Lab Tools
 - CNC: [DIY](http://hackaday.com/2009/11/13/diylilcnc-do-it-yourself-cnc-mill/=) or [Pro](http://www.shopbot.com)
 - [Laser Cutter](Laser-Cutter)
+- Omax Waterjet Cutter
+- Harrison Alpha Lathe
+- APS Pick and Place
+- Plasma Cutter and Router
+- Nextgen 3D Scanner
