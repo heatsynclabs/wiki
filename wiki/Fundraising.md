@@ -15,6 +15,7 @@ Lan Party 5/1/2010 noon-midnight
 - HeatSync Labs BBQ
 - ColdStone Night, Movie Theater Night? - Choose local companies and be able to consistently bring 30-50 people to them or something.
 - Bid on a Geek - Geek for a Night
+- LAN Party
 - Competitions
 - Sell Make Subscriptions: <http://blog.makezine.com/archive/2010/01/make_money_for_your_club_or_organiz.html>
 
