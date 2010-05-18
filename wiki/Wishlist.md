@@ -18,8 +18,8 @@ For cheaper tools [ Auctions](Local-Resources#auctions), [Craigslist](http://www
 - Embedded Circuit Design/Electronics Lab Tools
 - CNC: [DIY](http://hackaday.com/2009/11/13/diylilcnc-do-it-yourself-cnc-mill/=) or [Pro](http://www.shopbot.com)
 - [Laser Cutter](Laser-Cutter)
-- Omax Waterjet Cutter
-- Harrison Alpha Lathe
-- APS Pick and Place
+- Lathe - Harrison Alpha Model
+- Pick and Place - APS?
 - Plasma Cutter and Router
-- Nextgen 3D Scanner
+- 3D Scanner - Nextgen?
+- Waterjet Cutter - Omax?
