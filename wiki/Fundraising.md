@@ -2,8 +2,6 @@ Feel free to brainstorm here on fund raising ideas and track their progress. The
 
 ## Upcoming Fundraisers
 
-Lan Party 5/1/2010 noon-midnight
-
 ## Previous Fundraisers
 
 [ Poker Night](Poker-Night-Fundraiser) - 10/03/09 @ 6-10pm
