@@ -30,5 +30,7 @@ Lan Party 5/1/2010 noon-midnight
 - bot Kits - various kits for simple projects; led throwies, bristle bots, arduino kits
 - Circuit Board Necklaces - made from donated circuit boards and sold for \$15.
 - Rep Rap Printed {fillinblank} - something that was printed by the Rep Rap?
+- Buttons
+- Laser Etched Notepads
 
 ### Swag on GoogleCheckOut Account
