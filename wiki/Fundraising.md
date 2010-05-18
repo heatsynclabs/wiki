@@ -32,5 +32,3 @@ Lan Party 5/1/2010 noon-midnight
 - Rep Rap Printed {fillinblank} - something that was printed by the Rep Rap?
 - Buttons
 - Laser Etched Notepads
-
-### Swag on GoogleCheckOut Account
