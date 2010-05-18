@@ -107,4 +107,6 @@ Other possibilities: Tour of Noisebridge? Tour of Lab? What Else? Art Galleries?
 
 ## Weather
 
-May 21 Friday Partly cloudy. Highs in the upper 60s and lows in the low 50s. May 22 Saturday Showers possible. Highs in the mid 60s and lows in the low 50s. May 23 Sunday Sunshine. Highs in the low 70s and lows in the low 50s.
+- **May 21 (Friday)** - Partly cloudy. Highs in the upper 60s and lows in the low 50s.
+- **May 22 (Saturday)** - Showers possible. Highs in the mid 60s and lows in the low 50s.
+- **May 23 (Sunday)** - Sunshine. Highs in the low 70s and lows in the low 50s.
