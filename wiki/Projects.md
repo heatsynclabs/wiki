@@ -20,7 +20,8 @@
 
 ### Other
 
-- [3D Scanner](3D-Scanner)
+- Cameras at HeatSync
+- Video wall to other hackerspaces at HeatSync
 - [CNC](CNC)
 - Digital Audio Mixer/Converter/Splitter
 - Homemade Milling Machine
