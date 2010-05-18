@@ -7,6 +7,7 @@
 - [Nearspace Balloon](Nearspace-Balloon)
 - [Hax0r Candy Machine](Hax0r-Candy-Machine)
 - [Evoked Potential Eye Mask](Evoked-Potential-Eye-Mask)
+- [3D Scanner](3D-Scanner)
 
 ## Project Idea Wall
 
