@@ -58,6 +58,8 @@ This is not going to be a commercial event for us. We would have had to pay \$30
 - Balloons?(LEDs, Magnets, Batteries, and HSL Logo)
 - Business Cards
 - Mad Scientist Getup
+- Sleeping Bags
+- Blowup Mattress
 
 ## Makerfaire Manual
 
