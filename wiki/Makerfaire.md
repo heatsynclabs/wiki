@@ -82,7 +82,7 @@ Below is the Makerfaire manual with it's rules and regulations as well as inform
 
 \*Times Subject to Change
 
-Other possibilities: Tour of Noisebridge? Tour of Lab? What Else? Art Galleries? Tech Shops? Food!
+Other possibilities: Tour of Noisebridge? Tour of Lab? What Else? Art Galleries? Tech Shops? Food!\<pr\> Jacob may also need time to work on the RepRap.
 
 ### Saturday
 
