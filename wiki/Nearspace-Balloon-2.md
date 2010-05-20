@@ -5,7 +5,7 @@
 | Rick O  | ricko@heatsynclabs.org     |
 | David H | huertanix@heatsynclabs.org |
 | Paul H  | paulhickey@gmail.com       |
-| Will B  | bradley.will@gmail.com\>   |
+| Will B  | will@heatsynclabs.org      |
 | Nate P  | nate@coffeebot.net         |
 | Bobby M | bwmetz@gmail.com           |
 |         |                            |
