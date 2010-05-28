@@ -23,3 +23,13 @@ For cheaper tools [ Auctions](Local-Resources#auctions), [Craigslist](http://www
 - Plasma Cutter and Router
 - 3D Scanner - Nextgen?
 - Waterjet Cutter - Omax?
+
+<!-- -->
+
+- shopvac
+- Drill press
+- circular saw
+- table saw
+- air compressor
+- band saw
+- cnc milling machine
