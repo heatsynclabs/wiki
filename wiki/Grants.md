@@ -5,3 +5,7 @@
 
 - <http://www.refresheverything.com/>
 - <http://www.lincnet.net/artist-space/ford-foundation-planning-and-pre-development-grants>
+
+BofA Gives Grants for Neighborhood Builders and Local Heros:
+
+- <http://www.bankofamerica.com/neighborhoodexcellence>
