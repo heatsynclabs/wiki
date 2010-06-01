@@ -1,7 +1,7 @@
 - Monday
 - Tuesday
 - Wednesday
-  - Nearspace night
+  - Nearspace
   - Gangplank's Hacknight
 - Thursday
 - Friday
