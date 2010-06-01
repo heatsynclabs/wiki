@@ -1,7 +1,10 @@
 - Monday
 - Tuesday
 - Wednesday
+  - Arduino Night (1st Wednesdays)
   - Nearspace
   - Gangplank's Hacknight
 - Thursday
+  - HSL Meeting (1st and 3rd Thursdays)
+  - HSL Board Meetings (2nd and 4th Thursdays)
 - Friday
