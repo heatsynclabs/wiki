@@ -76,6 +76,7 @@
 <li><a href="Donations">Donations</a></li>
 <li><a href="Fundraising">Fundraising</a></li>
 <li><a href="Grants">Grants</a></li>
+<li><a href="Hackerspace-Discounts">Hackerspace Discounts</a></li>
 </ul></li>
 <li><a href="Content">Content</a></li>
 </ul></td>
