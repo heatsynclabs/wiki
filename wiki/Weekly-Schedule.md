@@ -3,8 +3,12 @@
 - Wednesday
   - **7:00PM - ?** : Arduino Night (1st Wednesdays)
   - **7:00PM - ?** : Nearspace
+  - **7:00PM - ?** : Makerbot/ Rep Rap / 3d Fabrication Meetup
   - **6:00PM - ?** : Gangplank's Hacknight
 - Thursday
   - **7:00PM - ?** : HSL Meeting (1st and 3rd Thursdays)
   - **7:00PM - 8:00PM** : HSL Board Meetings (2nd and 4th Thursdays)
 - Friday
+- Saturday
+- Sunday
+  - **1:00PM - 4** : Human Augmentation hacking
