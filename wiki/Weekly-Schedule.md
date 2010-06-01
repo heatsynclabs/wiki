@@ -1,10 +1,10 @@
 - Monday
 - Tuesday
 - Wednesday
-  - 7:00PM - ? : Arduino Night (1st Wednesdays)
-  - 7:00PM - ? : Nearspace
-  - 6:00PM - ? : Gangplank's Hacknight
+  - **7:00PM - ?** : Arduino Night (1st Wednesdays)
+  - **7:00PM - ?** : Nearspace
+  - **6:00PM - ?** : Gangplank's Hacknight
 - Thursday
-  - 7:00PM - ? : HSL Meeting (1st and 3rd Thursdays)
-  - 7:00PM - 8:00PM : HSL Board Meetings (2nd and 4th Thursdays)
+  - **7:00PM - ?** : HSL Meeting (1st and 3rd Thursdays)
+  - **7:00PM - 8:00PM** : HSL Board Meetings (2nd and 4th Thursdays)
 - Friday
