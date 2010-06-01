@@ -23,6 +23,7 @@
 <li><a href="Presentations">Presentations</a></li>
 <li><a href="Events">Events</a>
 <ul>
+<li><a href="Weekly-Schedule">Weekly Schedule</a></li>
 <li><a href="Arduino-Night">Arduino Night</a></li>
 <li><a href="First-Friday">First Friday</a></li>
 <li><a href="Makerfaire">Makerfaire</a></li>
