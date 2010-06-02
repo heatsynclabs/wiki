@@ -16,7 +16,7 @@ For cheaper tools [ Auctions](Local-Resources#auctions), [Craigslist](http://www
 ## Essential Tools
 
 - Embedded Circuit Design/Electronics Lab Tools
-- CNC: [DIY](http://hackaday.com/2009/11/13/diylilcnc-do-it-yourself-cnc-mill/=) or [Pro](http://www.shopbot.com)
+- [CNC](CNC)
 - [Laser Cutter](Laser-Cutter)
 - Lathe - Harrison Alpha Model
 - Pick and Place - APS?
