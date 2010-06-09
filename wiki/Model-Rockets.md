@@ -14,6 +14,8 @@ At all places you must have a Ranger approve of your launch site
 
 You can pick up an information sheet for model rockets at the Parks & Rec office at building 90. I guess it gives you all necessary information.
 
+For Phoenix: <http://phoenix.gov/CITYCODE/ch024.html>
+
 Sec. 24-49.1 - Model rockets A. No person may use any model rocket in a park or preserve except in parks designated by the Director or his or her designee in launch sites that meet the requirements of Subsection C of this Section.
 
 B. Persons using model rockets in a designated park shall observe and abide by the National Association of Rocketry Safety Code and Safety Zone Requirements. Rockets shall not be launched in unsafe weather conditions or when wind speeds are greater than 20 miles per hour.
