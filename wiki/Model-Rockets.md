@@ -1,15 +1,9 @@
 - **Chandler**
-
-<!-- -->
-
-- - Mesquite Grove Park
+  - Mesquite Grove Park
     - Riggs and Val Vista
     - only park where you are allowed to shoot off model rockets.
     - You must make a special request 10 days prior to the event
     - pick up the permit at the Tumbleweed Recreation Area or at the Parks and Recreation office
-
-<!-- -->
-
 - **Gilbert**
   - Crossroads Park
     - A,B,C & D engines allowed.
