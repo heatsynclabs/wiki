@@ -1,3 +1,4 @@
 - www.grizzly.com
 - www.harborfreight.com
 - www.siegind.com
+- www.dealextreme.com (might have to wade through useless keychains)
