@@ -12,8 +12,9 @@ If you have something you'd like to see, please add it in a bullet here. Maybe t
 
 ### Past Presentation Topics
 
+- [Balloon Communications Payload](http://nebarnix.com/heatsync.pptx)
 - Astronomy
 - Eagle PCB Layout and Design
 - PCB Chemical Etching,Heat Transfer, with FeCl
-- [Lock Picking](http://toool.us/membership.html=)
-- [Cube.ly 3D printing design](http://cube.ly=)
+- [Lock Picking](http://toool.us/membership.html)
+- [Cube.ly 3D printing design](http://cube.ly)
