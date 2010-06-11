@@ -10,3 +10,8 @@
 - <http://www.members.shaw.ca/roma/nine.html>
   - Has schematics specifically for 60hz hum
   - Might also be an amplifier
+
+## Audio Amplifier
+
+- <http://www.techlib.com/electronics/audioamps.html#LM386>
+  - Has several different schematics for amplifiers.
