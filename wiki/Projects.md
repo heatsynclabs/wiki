@@ -8,7 +8,7 @@
 - [Hax0r Candy Machine](Hax0r-Candy-Machine)
 - [Evoked Potential Eye Mask](Evoked-Potential-Eye-Mask)
 - [3D Scanner](3D-Scanner)
-- [AutoHacking](AutoHacking)
+- [Autohacking](Autohacking)
 - [NightVision](NightVision)
 
 ## Project Idea Wall
