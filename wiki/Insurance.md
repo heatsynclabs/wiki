@@ -25,8 +25,7 @@ This is so the board can't be sued
 ### Quotes
 
 - Waiting on Cheeney Insurance
-- Waiting Arizona Group
-- Waiting on Theirren's contact
+- Waiting on Theirren's contact--petered out when we didn't take up residence there
 
 ## Theft
 
