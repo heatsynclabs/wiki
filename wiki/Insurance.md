@@ -12,7 +12,7 @@ This is so the board can't be sued
 ### Quotes
 
 - Lovitt & Touché-\$1k-\$2500 per year-\$1-\$2M in coverage
-- Waiting on Carolina Casualty Insurance Company
+- Waiting on Carolina Casualty Insurance Company - ~\$1100 1M in coverage
 
 ## Liability
 
