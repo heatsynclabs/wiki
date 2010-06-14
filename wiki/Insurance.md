@@ -26,6 +26,7 @@ This is so the board can't be sued
 
 - Waiting on Cheeney Insurance
 - Waiting on Theirren's contact--petered out when we didn't take up residence there
+- Waiting on Carolina
 
 ## Theft
 
