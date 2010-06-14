@@ -2,6 +2,10 @@
 
 In continuing with adding senses to the human body, night vision (or near infrared vision) has been available commercially even at low prices for some time. Even now there are night vision toys and night vision goggles being given away with special edition video games. On top of this there are also many examples of DIY/Homebrew night vision. There is, however, to our knowledge no open source kit/collaboration on night vision. We intend to source and package a consistent high quality set of parts as a platform to build on.
 
+## Consumer Options
+
+Wild Planet released a [Night Vision Spy Car](http://www.amazon.com/Wild-Planet-Spy-Video-Car/dp/B000EMRVI8) which has seen a good bit of hacking [here](http://jakehildebrandt.com/2007/09/30/25-head-mounted-display/) and [here](http://www.machinegrid.com/2009/02/taking-apart-the-atv-360-eyepiece-head-mounted-display/). They also sell some sort of [cheap night vision](http://www.shopwildplanet.com/prod/WPT70036.html) I'd like to pick up some of these to work with them. I should also start researching consumer Head Mounted Displays in general as that is what we are creating here (and where we would like to go in the end)
+
 # Theory
 
 Night vision looks to illuminate a scene with light that is not visible to the human eye. Presumably we would like to illuminate the scene in such a way as to be discrete or we would use visible light.
@@ -84,7 +88,9 @@ Also used heavily in commercial grade night vision are visible light filters at 
 
 ## Sourcing LCD's
 
-The idea here would probably be to go BW and cheap. I would like to prototype a nicer display to begin to build up general purpose HUD on it, but am not sure how feasible that will be along side this project with the possible necessity of color filtering. Current sourcing through general electronics vendors such as digikey has led to very few promising results which are all very over priced. Sparkfun sells a few cheap lcd's including some knock off Nokia displays. I am currently thinking of going with these cheap cellphone displays from the source. There displays available through Chinese marketplaces such as aliexpress for \$5-15 dollars. A
+The idea here would probably be to go BW and cheap. I would like to prototype a nicer display to begin to build up general purpose HUD on it, but am not sure how feasible that will be along side this project with the possible necessity of color filtering. Current sourcing through general electronics vendors such as digikey has led to very few promising results which are all very over priced. Sparkfun sells a few cheap lcd's including some knock off Nokia displays. I am currently thinking of going with these cheap cellphone displays from the source. There displays available through Chinese marketplaces such as aliexpress for \$5-15 dollars.
+
+The now unavailable Spy Car apparently utilizes a [Kopin](http://www.kopin.com/300m/) screen. I will have to look into finding these. There is new model to be released for Christmas 2010 called the TRAKR which would be good to dissect.
 
 # Todo
 
