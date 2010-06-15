@@ -14,6 +14,7 @@ These are all projects that are currently in active development
 These are projects that have been researched but are not currently considered to be in active development
 
 - [Micro Earpiece](Micro-Earpiece)
+- [Infrared Bug](Infrared-Bug)
 
 ## Ideas
 
