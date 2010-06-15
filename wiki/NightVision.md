@@ -18,6 +18,8 @@ Night vision looks to illuminate a scene with light that is not visible to the h
 
 Wikipedia explains 700nm is where the visible spectrum tends to fade, though focused light up to 880nm can be seen as a faint red light. As such we want to stay above 700nm and go even higher if we do any focusing.
 
+Wikipedia breaks down the professional night vision technology well in their article. It appears most seem to use light intensifier tubes projecting photons onto phosphor screens. For illumination they use lasers (and have warnings as such). The toy and cheap versions of night vision use IR leds to illuminate with monochrome lcds and a cmos/ccd with high lux and no IR blocking filters.
+
 ## Theramal Infrared
 
 A branch of infrared night vision is thermal imaging. (Heat Mapping) Thermal imaging would be of course amazing, but all research so far seems to indicate that currently available ccd/cmos technology is still incredibly expensive. Unless we can figure out a cheap way of imaging this seems out of reach for now.
