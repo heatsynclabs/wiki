@@ -46,6 +46,8 @@ We will generally want to use a cheap low resolution camera, probably black and 
 
 Frankly the options in LED illuminators is pretty poor. These diodes are generally so incredibly low in brightness (\<1 lumen) we can't expect to illuminate much more than in front of our faces. The general solution to this has been to create arrays of these leds and overdrive and pulse them like crazy to squeak out as much illumination as possible. There are exeptions, but they are expensive. So far I have sourced an emitter at digikey made expressly for IR CMOS illumination, but its \$82 dollars...
 
+Testing so far has led to somewhat obvious conclusions. LED emitters are tough to get bright enough. Tighter beam areas (a 6deg beam was tested) can illuminate at least a couple feet but with a small beam area. A 60deg emitter on the other hand barely transmits a few feet. Obviously if you wanted to work in front of your face a 60deg beam would be appropriate but further research will probably be focused on multiple 6deg leds.
+
 ## Lasers
 
 So we may want to look into the previously mentioned green and or IR lasers for illuminating the scene. Sadly IR lasers are indeed expensive as there seems to be little call for them in the consumer market. Green on the other hand are incredibly common. Apparently cheap Chinese green lasers on ebay are generally to be avoided by laser enthusiasts as they give less visible light bang for their buck and are more dangerous due to a lack of IR filtering. This lack of IR filtering is actually kind of good for us though. We could take out the green aspects of the laser, or we could simply filter it afterwards.
