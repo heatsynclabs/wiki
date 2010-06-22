@@ -108,7 +108,7 @@ Also used heavily in commercial grade night vision are visible light filters at 
 
 The idea here would probably be to go BW and cheap. I would like to prototype a nicer display to begin to build up general purpose HUD on it, but am not sure how feasible that will be along side this project with the possible necessity of color filtering. Current sourcing through general electronics vendors such as digikey has led to very few promising results which are all very over priced. Sparkfun sells a few cheap lcd's including some knock off Nokia displays. I am currently thinking of going with these cheap cellphone displays from the source. There displays available through Chinese marketplaces such as aliexpress for \$5-15 dollars.
 
-The now unavailable Spy Car apparently utilizes a [Kopin](http://www.kopin.com/300m/) screen. I will have to look into finding these. There is new model to be released for Christmas 2010 called the TRAKR which would be good to dissect.
+The now unavailable Spy Car apparently utilizes a [Kopin](http://www.kopin.com/300m/) screen. I will have to look into finding these. Kopin quoted me at \$22 for 10-99 pieces. There is new model to be released for Christmas 2010 called the TRAKR which would be good to dissect.
 
 # Todo
 
