@@ -8,6 +8,7 @@ If there is an event you would like us to host or make an appearance at, please 
 
 - <b>[Arduino Night](Arduino-Night)</b>
 - <b>[First Friday](First-Friday)</b>
+- <b>[BBQ](BBQ)</b>
 
 ## See Also
 
