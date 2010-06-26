@@ -78,27 +78,24 @@ Also used heavily in commercial grade night vision are visible light filters at 
 
 <!-- -->
 
-- <http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=67-1001-ND>
-  - 60deg 60 candela at 100ma
-  - \$.27 much cheaper... but do NOTHING..sigh
-
-<!-- -->
-
 - <http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=475-1200-ND>
   - 6deg but 400mcd!--Wonder if smaller angle will help, many smaller angle emitters for more pinpoint viewing?
   - \$.69
+  - really nice for several foot distance at least
 
 <!-- -->
 
 - <http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&site=US&WT.z_homepage_link=hp_go_button&KeyWords=SFH4740&x=0&y=0>
   - \$82 1amp 1200mcd
+  - also offer the SFH4730 900mcd, different wavelength
   - Obviously too expensive. Apparently directly manufactured for this purpose. Will research to see what we're up against.
-  - Also need to find mating connector to use this.
+  - Need to find mating connector to test this.
 
 <!-- -->
 
-- SFH4730 900mcd
-  - \$82 and also 900 mcd, ahh, now I see different wavelength. Ill stick to brightness
+- <http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=67-1001-ND>
+  - 60deg 60 candela at 100ma
+  - \$.27 much cheaper... but do NOTHING..sigh
 
 <!-- -->
 
