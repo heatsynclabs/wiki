@@ -2,7 +2,7 @@
 
 In continuing with adding senses to the human body, night vision (or near infrared vision) has been available commercially even at low prices for some time. Even now there are night vision toys and night vision goggles being given away with special edition video games. On top of this there are also many examples of DIY/Homebrew night vision. There is, however, to our knowledge no open source kit/collaboration on night vision. We intend to source and package a consistent high quality set of parts as a platform to build on.
 
-## Consumer Options
+## Market Survey
 
 ### Professional Night Vision
 
@@ -17,6 +17,10 @@ Toy brands and price ranges include [Eyeclops](http://www.eyeclops.com/) for \$5
 #### Spy Car
 
 Wild Planet is the leader of the low price toy night vision market. They released a [Night Vision Spy Car](http://www.amazon.com/Wild-Planet-Spy-Video-Car/dp/B000EMRVI8) which has seen a good bit of hacking [here](http://jakehildebrandt.com/2007/09/30/25-head-mounted-display/) and [here](http://www.machinegrid.com/2009/02/taking-apart-the-atv-360-eyepiece-head-mounted-display/). They also sell some sort of [cheap night vision goggle](http://www.shopwildplanet.com/prod/WPT70036.html) now as well. There is new model to be released for Christmas 2010 called the TRAKR which would be good to dissect. The now unavailable Spy Car apparently utilizes a [Kopin](http://www.kopin.com/300m/) screen. Kopin quoted me at \$22 each for 10-99 pieces of the 300M sold directly through them. They use a [OVT](http://ovt.com) [OV5116](http://www.quasarelectronics.com/kit-files/omnivision/ov5116.pdf) B/W QVGA CCD with a DY-301P lens and an large IR led of undetermined origin.
+
+### DIY
+
+There are tons of homebrew/diy night vision out there. The majority of these instruct to take apart an old camcorder/camera to harvest the expensive lcd, lenses and imagers. These cameras generally remove IR as humans aren't used to seeing it and it would distort and wash out images. The homebrew guides generally then begin to look into adding more infrared light to the scene. The most common method of doing this is adding an array of IR leds. The Evil Genius series of books on Spy Gadgets suggest an interesting method of illuminating a scene by using a non focused (lens removd) IR laser. He also mentions that green lasers, ~530nm in the spectrum, aren't actually manufacturable and that they are actually composed of IR diodes.
 
 # Theory
 
