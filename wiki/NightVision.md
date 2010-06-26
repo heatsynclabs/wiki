@@ -4,11 +4,19 @@ In continuing with adding senses to the human body, night vision (or near infrar
 
 ## Consumer Options
 
+### Professional Night Vision
+
 Looks like pro monoculars with [Gen1](http://en.wikipedia.org/wiki/Night_vision_device#cite_note-0) tech come in as low as [\$150](http://www.opticsplanet.net/nightvision-by-price-1.html) though apparently gen1 technology has a fish eye thing going on. Gen 2 stuff starts at about \$450.
 
-Wild Planet is the leader of the low price toy night vision market. They released a [Night Vision Spy Car](http://www.amazon.com/Wild-Planet-Spy-Video-Car/dp/B000EMRVI8) which has seen a good bit of hacking [here](http://jakehildebrandt.com/2007/09/30/25-head-mounted-display/) and [here](http://www.machinegrid.com/2009/02/taking-apart-the-atv-360-eyepiece-head-mounted-display/). They also sell some sort of [cheap night vision goggle](http://www.shopwildplanet.com/prod/WPT70036.html) now as well. Other brands and price ranges include [Eyeclops](http://www.eyeclops.com/) for \$50-\$75, [Discovery](http://www.amazon.com/Discovery-Kids-Dual-2dVision-Night-Goggles/dp/B001DE8J8W/ref=sr_1_12?ie=UTF8&s=toys-and-games&qid=1276522741&sr=8-12) for \$30, and [Spyhawk](http://www.amazon.com/Slinky-Science-Spyhawk-Vision-Goggles/dp/B00177XI4A/ref=sr_1_9?ie=UTF8&s=toys-and-games&qid=1276522741&sr=8-9) for \$13.
-
 You can also buy separate [IR illuminators](http://www.opticsplanet.net/night-detective-infrated-k3-pro-ir-illuminator-for-night-vision.html). These are most certainly Infrared lasers.
+
+### Toys
+
+Toy brands and price ranges include [Eyeclops](http://www.eyeclops.com/) for \$50-\$75, [Discovery](http://www.amazon.com/Discovery-Kids-Dual-2dVision-Night-Goggles/dp/B001DE8J8W/ref=sr_1_12?ie=UTF8&s=toys-and-games&qid=1276522741&sr=8-12) for \$30, and [Spyhawk](http://www.amazon.com/Slinky-Science-Spyhawk-Vision-Goggles/dp/B00177XI4A/ref=sr_1_9?ie=UTF8&s=toys-and-games&qid=1276522741&sr=8-9) for \$13.
+
+#### Spy Car
+
+Wild Planet is the leader of the low price toy night vision market. They released a [Night Vision Spy Car](http://www.amazon.com/Wild-Planet-Spy-Video-Car/dp/B000EMRVI8) which has seen a good bit of hacking [here](http://jakehildebrandt.com/2007/09/30/25-head-mounted-display/) and [here](http://www.machinegrid.com/2009/02/taking-apart-the-atv-360-eyepiece-head-mounted-display/). They also sell some sort of [cheap night vision goggle](http://www.shopwildplanet.com/prod/WPT70036.html) now as well. There is new model to be released for Christmas 2010 called the TRAKR which would be good to dissect. The now unavailable Spy Car apparently utilizes a [Kopin](http://www.kopin.com/300m/) screen. Kopin quoted me at \$22 each for 10-99 pieces of the 300M sold directly through them. They use a [OVT](http://ovt.com) [OV5116](http://www.quasarelectronics.com/kit-files/omnivision/ov5116.pdf) B/W QVGA CCD with a DY-301P lens and an large IR led of undetermined origin.
 
 # Theory
 
