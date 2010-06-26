@@ -32,10 +32,6 @@ Wikipedia breaks down the professional night vision technology well in their art
 
 A branch of infrared night vision is thermal imaging. (Heat Mapping) Thermal imaging would be of course amazing, but all research so far seems to indicate that currently available ccd/cmos technology is still incredibly expensive. Unless we can figure out a cheap way of imaging this seems out of reach for now.
 
-# Literature survey
-
-There are tons of homebrew/diy night vision out there. The majority of these instruct to take apart an old camcorder/camera to harvest the expensive lcd, lenses and imagers. These cameras generally remove IR as humans aren't used to seeing it and it would distort and wash out images. The homebrew guides generally then begin to look into adding more infrared light to the scene. The most common method of doing this is adding an array of IR leds. The Evil Genius series of books on Spy Gadgets suggest an interesting method of illuminating a scene by using a non focused (lens removd) IR laser. He also mentions that green lasers, ~530nm in the spectrum, aren't actually manufacturable and that they are actually composed of IR diodes.
-
 # What we can offer
 
 A couple options so far:
