@@ -11,7 +11,7 @@
 - <http://www.members.shaw.ca/roma/nine.html>
   - Has schematics specifically for 60hz hum
   - Might also be an amplifier
-  - UPDATE 6/28/10
+  - **UPDATE 6/28/10**
     - Haven't been able to get this circuit working yet. However, I built this other circuit (Page 41 of the link) with Todd and it worked perfectly. According to the graph on page 42, it might notch out higher frequencies too that I actually don't want to notch out. Will have to test for this by experimenting with the laser mic.
     - <http://books.google.com/books?id=-sE7JVywygQC&pg=PA41&lpg=PA41&dq=forrest+mims+60hz+hum+filter&source=bl&ots=pj3Lsh4Nq7&sig=eYwDeNs09xLpLoYo4r7fh_UpVtw&hl=en&ei=xNAoTLL2GcX_lgfDt8mECA&sa=X&oi=book_result&ct=result&resnum=1&ved=0CBYQ6AEwAA#v=onepage&q&f=false>
 
