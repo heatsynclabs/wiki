@@ -23,6 +23,11 @@ From my research I have determined the following factors in buying a laser syste
 - options (does it have a suction table to keep items in place, air assist to blow debris out of way, does it come with a pc to run it?)
 - software/driver (does it have a \*print\* driver so you can print to it?, does it have decent software in english with support?)
 
+The best info available on the net is on the consumer forums:
+
+- <http://www.sawmillcreek.org/forumdisplay.php?f=8>
+- <http://www.cnczone.com/forums/forumdisplay.php?f=347>
+
 ## American Vendors
 
 Our local Epilog rep is <http://www.innovativecuttingsystems.com/>
