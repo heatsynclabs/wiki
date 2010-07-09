@@ -1,6 +1,6 @@
-## Local Laser Availability
+# Local Laser Availability
 
-### ASU Tempe
+## ASU Tempe
 
 We may have limited access to a cutter at ASU Tempe campus at the Arts Media and Engineering (AME) group
 
@@ -9,9 +9,19 @@ We may have limited access to a cutter at ASU Tempe campus at the Arts Media and
 - has a 3D etching mode--it varies the power of the laser based on gray value, so with a few passes, you can get really cool textures.
 - it can't really cut through any wood (MDF,hardwood, etc.) thicker than about 1/2 inch. With a couple passes, we were able to cut through 3/4" MDF, but the cut ends up being a little dirtier.
 
-### Special Computing
+## Special Computing
 
 Also have had access to one through [Special Computing's](http://www.specialcomp.com/) Bill Mahr
+
+# Buying a laser
+
+From my research I have determined the following factors in buying a laser system:
+
+- reliability/support (generally an issue with the Chinese stuff)
+- laser power (determines what you can cut and how deeply)
+- bed size (how large a piece can you cut/engrave?)
+- options (does it have a suction table to keep items in place, air assist to blow debris out of way, does it come with a pc to run it?)
+- software/driver (does it have a \*print\* driver so you can print to it?, does it have decent software in english with support?)
 
 ## American Vendors
 
