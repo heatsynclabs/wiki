@@ -170,6 +170,22 @@ Actual Cost is how much we actually pay for an item. In some cases an item may b
 - Results of the official launch must be sent in by September 7, 2010.
 - Winner will be announce on or before September 30, 2010.
 
+## Checklist
+
+`1) Antenna - we need to aquire the 300 ohm ladder line from somewhere.`
+
+Fry's MIGHT have it but most likely they will not and a trip to HRO will be necessary. If someone does get a chance to hit up HRO we should also buy the antenna connector we need too, just in case we damage the one we already have. It would suck to have to make another trip to HRO to get another connector.
+
+2\) Weight the whole payload and give the details to Casey so he can make the parachute.
+
+3\) When the antenna is done we can do a dry ice test to make sure the batteries will last long enough.
+
+4\) Make a launch check list and acquire all the launch materials
+
+5\) Launch predicions
+
+6\) LAUNCH
+
 ## See Also
 
 [Nearspace Balloon 2](Nearspace-Balloon-2)
