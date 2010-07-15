@@ -172,17 +172,23 @@ Actual Cost is how much we actually pay for an item. In some cases an item may b
 
 ## Checklist
 
-1\) Antenna - we need to aquire the 300 ohm ladder line from somewhere. (DONE)
+-Radio Where are we on the radio? Have we been able to successfully communicate to the repeaters and see it online? Are we using another radio?
 
-2\) Weight the whole payload and give the details to Casey so he can make the parachute. (DONE)
+-Cold Test Cold testing with dry ice to make sure the electronics and batteries won't fail
 
-3\) When the antenna is done we can do a dry ice test to make sure the batteries will last long enough.
+-Mounting rig for the module to the balloon Rick and I have talked about it, and we discussed it last night and it seems to be the consensus that it would be best if we got a metal tube and put either a metal plate or giant washer at the bottom of it, and run the length of pipe through the module, then attach that pipe to the balloon using an eye-hook or a swivel.
 
-4\) Make a launch check list and acquire all the launch materials
+-Parachute Once we finish designing the mounting rig, we will have the final weight and size of the module so Casey can work on the parachute.
 
-5\) Launch predictions
+-Calculate balloon parameters Find out the bursting diameter/altitude, ascension speed, helium required, etc, etc
 
-6\) LAUNCH
+-Create flight checklist I think we should just create the flight checklist on the wiki. It looks like you don't even have to login to make changes, so anyone can add to it
+
+-Other Materials checklist for tarps, gloves, charge batteries, hand warmers, weights, etc
+
+-Launch predictions
+
+-LAUNCH
 
 ## See Also
 
