@@ -32,3 +32,8 @@ NextEngine - <https://www.nextengine.com/indexSecure.htm>
 ### Software
 
 A point cloud can be brought into MeshLab as a PLY file, a simple ASCII format for 3D object description: <http://meshlab.sourceforge.net/>
+
+### Videos
+
+systm Covered Cheap 3D Scanning in this Episode:\
+<http://revision3.com/systm/laserscan>
