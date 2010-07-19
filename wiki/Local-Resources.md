@@ -8,7 +8,8 @@ Also, provide details of their services (maybe pricing, or even a short review) 
 
 <http://www.goldmine-elec-products.com> - Scottsdale - only order online?\
 <http://www.circuitspecialists.com/> - Mesa - walk in with stock listed online\
-<http://www.tritekelectronics.com/> <http://www.frys.com/template/ecomponents> - Tempe - Large Store with a good sized stock
+<http://www.tritekelectronics.com/>\
+<http://www.frys.com/template/ecomponents> - Tempe - Large Store with a good sized stock
 
 ### Auctions
 
