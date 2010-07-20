@@ -28,6 +28,8 @@ NextEngine:\
 Primary Forums for David 3D Scanning Software:\
 <http://www.david-laserscanner.com/forum/>
 
+A lot of people have tried different combinations of camera, laser, and software to improve upon the scans. Saves time by cutting out things you don't have to try.
+
 ### Instructables
 
 <http://www.instructables.com/id/3-D-Laser-Scanner/>\
