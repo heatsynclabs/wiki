@@ -19,7 +19,7 @@ From Bankruptcy to Surplus to Seizure these are the local guys we've come across
 - [A-1 Auction](http://www.a1auctionz.com/) every wednesday morning 9am for tools, electronics, books, and household items
 - [ASU Surplus](http://surplus.asu.edu) Has auctions the first Saturday of every month. On the Friday before the auction they let you preview the items for sale. They mostly auction vehicles. They do online auctions as well which seem to have more of a variety. Their Phoenix location is 3570 NW Grand Ave. 85019.
 - [Sierra Auctions](http://sierraauction.com/public_html/index.php)
-- [Auction Auction Systems Auctioneers & Appraisers, Inc.](http://www.auctionandappraise.com/home.html)
+- [Auction Systems Auctioneers & Appraisers, Inc.](http://www.auctionandappraise.com/home.html)
 - <http://www.investmentrecovery.srpnet.com> This is how SRP sells their unused equipment. You have to make a list of the items you are interested in and contact them through the web site for prices.
 - <http://www.policeauctions.com/> This is a police and government auction site. This is not only local to AZ. The auctions are from all over the country. You can submit online bids for everything. They also have an insane amount of foreclosures listed by state. You must make an account to get "full access" to the site. Each auction has it's own expiration timer.
 
