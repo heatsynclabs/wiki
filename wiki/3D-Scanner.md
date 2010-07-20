@@ -14,7 +14,7 @@ Goal is to have the ultimate cost for this project to be less than commercially 
 
 ## Trials
 
-### \#1
+### First Scan Setup
 
 Tried my first scan using the following materials:
 
