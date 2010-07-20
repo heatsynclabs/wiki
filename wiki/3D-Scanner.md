@@ -16,7 +16,8 @@ Goal is to have the ultimate cost for this project to be less than commercially 
 
 ### Commercial Models
 
-NextEngine - <https://www.nextengine.com/indexSecure.htm>
+NextEngine:\
+<https://www.nextengine.com/indexSecure.htm>
 
 ### Current News
 
