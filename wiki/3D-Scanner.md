@@ -20,7 +20,7 @@ Tried my first scan using the following materials:
 
 - Free Version of David LaserScanner Software
 - MacBook Pro Intel Core 2 Duo 2.6GHz
-- Built-in iSight - USB 2.0, Plastic Lense, Fixed Focus, CMOS Active pixel sensor instead of a CCD(Apple has moved to using a sensor capable of 1280x1024 pixels, but when accessed using provided APIs, the image is re-sampled to 640x480 pixels.) Frame Rate?
+- Built-in iSight - USB 2.0, Plastic Lense, Fixed Focus, CMOS Active pixel sensor instead of a CCD(Apple has moved to using a sensor capable of 1280x1024 pixels, but when accessed using provided APIs, the image is re-sampled to 640x480 pixels.) Frame Rate? Possibly 15fps-30fps
 - Black and Decker Laser Level - <http://www.blackanddecker.com/ProductGuide/Product-Details.aspx?ProductID=10968> (Class II Red Laser - Maximum Output \<1mW at 630nm-670nm)
 - 90 degree calibration corner using the .pdf printout included with David Laser Scanner and a Poster Board
 
