@@ -18,10 +18,11 @@ Goal is to have the ultimate cost for this project to be less than commercially 
 
 Tried my first scan using the following materials:
 
-- Free Version of David LaserScanner
+- Free Version of David LaserScanner Software
 - MacBook Pro Intel Core 2 Duo 2.6GHz
 - Built-in iSight - USB 2.0, Plastic Lense, Fixed Focus, CMOS Active pixel sensor instead of a CCD(Apple has moved to using a sensor capable of 1280x1024 pixels, but when accessed using provided APIs, the image is re-sampled to 640x480 pixels.) Frame Rate?
-- Black and Decker Laser Level - <http://www.blackanddecker.com/ProductGuide/Product-Details.aspx?ProductID=10968> (Class II Red Laser...Researching Further Details)
+- Black and Decker Laser Level - <http://www.blackanddecker.com/ProductGuide/Product-Details.aspx?ProductID=10968> (Class II Red Laser - Maximum Output \<1mW at 630nm-670nm)
+- 90 degree calibration corner using the .pdf printout included with David Laser Scanner and a Poster Board
 
 ## Links
 
