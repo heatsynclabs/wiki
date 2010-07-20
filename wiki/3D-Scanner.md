@@ -31,7 +31,10 @@ NextEngine - <https://www.nextengine.com/indexSecure.htm>
 
 ### Software
 
-A point cloud can be brought into MeshLab as a PLY file, a simple ASCII format for 3D object description: <http://meshlab.sourceforge.net/>
+A point cloud can be brought into MeshLab as a PLY file, a simple ASCII format for 3D object description:\
+<http://meshlab.sourceforge.net/>
+
+From here you can merge scans together. The merging process is sometimes easier if you mark certain areas of the object with sharpy so you can align the dots from different scans.
 
 ### Videos
 
