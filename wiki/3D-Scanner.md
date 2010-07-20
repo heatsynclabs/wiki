@@ -23,6 +23,11 @@ NextEngine:\
 
 <http://blog.makezine.com/archive/2010/03/letters_from_the_fab_academy_part_4.html>
 
+### Forums
+
+Primary Forums for David 3D Scanning Software:\
+<http://www.david-laserscanner.com/forum/>
+
 ### Instructables
 
 <http://www.instructables.com/id/3-D-Laser-Scanner/>\
