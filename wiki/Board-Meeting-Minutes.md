@@ -24,6 +24,8 @@ Please note that the meeting minutes for the monthly meetings are now being docu
 
 ### June
 
+### July
+
 # June 10, 2010
 
 HeatSync Meeting June 10, 2010 Jeremy, Joyce, Jacob, Zach, Rick, Drea, Jose
