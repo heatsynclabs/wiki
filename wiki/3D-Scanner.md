@@ -37,6 +37,7 @@ With this revision I would like to attempt to create a rotational base for the o
 **Equipment Sources:**
 
 - 5mw Green(532nm) Laser - <http://www.dealextreme.com/details.dx/sku.91>
+- Parts to create something similar to this commercial base - <http://ortery.com/products/photocapture360-360-degree-photo-animation-turntable.php>
 
 ## Links
 
