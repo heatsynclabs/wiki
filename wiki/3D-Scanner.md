@@ -12,6 +12,10 @@ Goal is to have the ultimate cost for this project to be less than commercially 
 
 **NextEngine** - \$2,995
 
+or
+
+**David 3D Package w/ Camera** - circa \$1,418.67
+
 ## Trials
 
 ### First Scan Setup
