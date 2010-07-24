@@ -21,10 +21,18 @@ Tried my first scan using the following materials:
 - Free Version of David LaserScanner Software
 - MacBook Pro Intel Core 2 Duo 2.6GHz
 - Built-in iSight - USB 2.0, Plastic Lense, Fixed Focus, CMOS Active pixel sensor instead of a CCD(Apple has moved to using a sensor capable of 1280x1024 pixels, but when accessed using provided APIs, the image is re-sampled to 640x480 pixels.) Frame Rate? Possibly 15fps-30fps
-- Black and Decker Laser Level - <http://www.blackanddecker.com/ProductGuide/Product-Details.aspx?ProductID=10968> (Class II Red Laser - Maximum Output \<1mW at 630nm-670nm) - \$17.47
+- Black and Decker Laser Level Held Horizontally- <http://www.blackanddecker.com/ProductGuide/Product-Details.aspx?ProductID=10968> (Class II Red Laser - Maximum Output \<1mW at 630nm-670nm) - \$17.47
 - 90 degree calibration corner using the .pdf printout included with David Laser Scanner and a Poster Board
 
-**Conclusion** - This was successful and surprisingly satisfying seeing the results pop up on the screen immediately. Scanned one side of a spray bottle and it was distinguishable in the resulting render. The precision and detail wasn't that great with hand holding the laser. I would like to fix that in the second revision. Looks like the background poster board could be made larger to fill the full frame of the camera's field of vision.
+**Conclusion** - This was successful and surprisingly satisfying seeing the results pop up on the screen immediately. Scanned one side of a spray bottle and it was distinguishable in the resulting render. The precision and detail wasn't that great with hand holding the laser. Skipping around a bit. I would like to fix that in the second revision. Also, the laser is not diffracted as well as I would like. The laser line varies from a bright spot to very thin line. Looks like the background poster board could be made larger to fill the full frame of the camera's field of vision. The tape I used to tape down the calibration points ended up being detected by the software as calibration points. I need the tape not to show up in the frame or to use alternative adhesives. Lastly, I will need to play with controlled lighting in the scanning environment so that we don't have any stray shadows that take away from the scan. Possibly an enclosed environment? Possibly up the quality with an external firewire camera.
+
+### Second Scan Setup
+
+With this revision I would like to attempt to create a rotational base for the objects that we want to scan. This time I can set up the laser in a fixed setup scanning vertically and taking out the user error of the scanning. With the steps from the motor we should get finer detail. For the laser itself I am upgrading to a 10mw Green Laser that will be diffracted through a line generator lens or a stem from a wine glass. Apparently green shows up better on camera CCDs(need to look a bit more into optics to verify this as I know green is at the peak of the optical spectrum for human beings). Finally, as the object we are scanning is no longer static we will need to take video instead of still shots and then stitch the frames together to create our object.
+
+**Equipment Sources:**
+
+- 5mw Green(532nm) Laser - <http://www.dealextreme.com/details.dx/sku.91>
 
 ## Links
 
