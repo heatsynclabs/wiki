@@ -32,12 +32,13 @@ Tried my first scan using the following materials:
 
 ### Second Scan Setup
 
-With this revision I would like to attempt to create a rotational base for the objects that we want to scan. This time I can set up the laser in a fixed setup scanning vertically and taking out the user error of the scanning. With the steps from the motor we should get finer detail. For the laser itself I am upgrading to a 10mw Green Laser that will be diffracted through a line generator lens or a stem from a wine glass. Apparently green shows up better on camera CCDs(need to look a bit more into optics to verify this as I know green is at the peak of the optical spectrum for human beings). Finally, as the object we are scanning is no longer static we will need to take video instead of still shots and then stitch the frames together to create our object.
+With this revision I would like to attempt to create a rotational base for the objects that we want to scan. This time I can set up the laser in a fixed setup scanning vertically and taking out the user error of the scanning. With the steps from the motor we should get finer detail. For the laser itself I am upgrading to a 10mw Green Laser that will be diffracted through a line generator lens or a stem from a wine glass. Apparently green shows up better on camera CCDs(need to look a bit more into optics to verify this as I know green is at the peak of the optical spectrum for human beings). Finally, as the object we are scanning is no longer static we will need to take video instead of still shots and then stitch the frames together to create our object. The use of white paint on objects being scanned seems to heighten the quality of the scan as well.
 
 **Equipment Sources:**
 
 - 5mw Green(532nm) Laser - <http://www.dealextreme.com/details.dx/sku.91>
 - Parts to create something similar to this commercial base - <http://ortery.com/products/photocapture360-360-degree-photo-animation-turntable.php>
+- White Spray Paint(Washable?)
 
 ## Links
 
