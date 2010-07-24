@@ -24,7 +24,7 @@ Tried my first scan using the following materials:
 - Black and Decker Laser Level - <http://www.blackanddecker.com/ProductGuide/Product-Details.aspx?ProductID=10968> (Class II Red Laser - Maximum Output \<1mW at 630nm-670nm) - \$17.47
 - 90 degree calibration corner using the .pdf printout included with David Laser Scanner and a Poster Board
 
-This was successful and surprisingly satisfying seeing the results pop up on the screen immediately. Scanned one side of a spray bottle and it was distinguishable in the resulting render. The precision and detail wasn't that great with hand holding the laser. I would like to fix that in the second revision. Looks like the background poster board could be made larger to fill the full frame of the camera's field of vision.
+**Conclusion** - This was successful and surprisingly satisfying seeing the results pop up on the screen immediately. Scanned one side of a spray bottle and it was distinguishable in the resulting render. The precision and detail wasn't that great with hand holding the laser. I would like to fix that in the second revision. Looks like the background poster board could be made larger to fill the full frame of the camera's field of vision.
 
 ## Links
 
