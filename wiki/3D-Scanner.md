@@ -41,6 +41,9 @@ With this revision I would like to attempt to create a rotational base for the o
 NextEngine:\
 <https://www.nextengine.com/indexSecure.htm>
 
+RapMan Is Selling a David Laser Scanner Package:\
+<http://www.rap-man.com/david3d.asp>
+
 ### Current News
 
 <http://blog.makezine.com/archive/2010/03/letters_from_the_fab_academy_part_4.html>
