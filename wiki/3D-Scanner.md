@@ -1,14 +1,14 @@
-To compliment our 3D printer that we are creating it would be great if we had our very own affordable and accurate 3D scanner. This would allow us to only model and print objects but also replicate objects we already have.
+To compliment our 3D printer(Rep Rap)that we created it would be great if we had our very own affordable and accurate 3D scanning setup. At the moment we can create 3D models in software and print them or we can download pre-made models from websites like instructables.com. Having a 3D scanner would speed up the replication process for us if we have an object already.
 
 ## Method
 
-To get us started we can build a rotational base that we'll place the scanable object on so it can rotate slowly. We'll acquire a web cam and laser level. And then install the David 3D scanner software to do a scan of a small object.
+There is a community surrounding some free 3D scanner software called David LaserScanner. We'll acquire a web cam and laser level. And then install the David 3D scanner software to do a scan of a small object.
 
-Then we'll move towards commercial methods of doing multi-scans at the same time and combine the results after processing to ensure that we have the least amount of noise possible.
+Once getting a basic functional setup we'll move towards commercial methods of doing multi-scans at the same time and combine the results after processing to ensure that we have the least amount of noise possible and the cleanest scan from the cheapest materials.
 
 ## Budget
 
-Goal is to have the ultimate cost for this project to be less than commercially available products. The lowest that I've found was:
+Goal is to have the ultimate cost for this project to be less than commercially available products. The lowest that I've found so far is:
 
 **NextEngine** - \$2,995
 
@@ -21,8 +21,10 @@ Tried my first scan using the following materials:
 - Free Version of David LaserScanner Software
 - MacBook Pro Intel Core 2 Duo 2.6GHz
 - Built-in iSight - USB 2.0, Plastic Lense, Fixed Focus, CMOS Active pixel sensor instead of a CCD(Apple has moved to using a sensor capable of 1280x1024 pixels, but when accessed using provided APIs, the image is re-sampled to 640x480 pixels.) Frame Rate? Possibly 15fps-30fps
-- Black and Decker Laser Level - <http://www.blackanddecker.com/ProductGuide/Product-Details.aspx?ProductID=10968> (Class II Red Laser - Maximum Output \<1mW at 630nm-670nm)
+- Black and Decker Laser Level - <http://www.blackanddecker.com/ProductGuide/Product-Details.aspx?ProductID=10968> (Class II Red Laser - Maximum Output \<1mW at 630nm-670nm) - \$17.47
 - 90 degree calibration corner using the .pdf printout included with David Laser Scanner and a Poster Board
+
+This was successful and surprisingly satisfying seeing the results pop up on the screen immediately. Scanned one side of a spray bottle and it was distinguishable in the resulting render. The precision and detail wasn't that great with hand holding the laser. I would like to fix that in the second revision. Looks like the background poster board could be made larger to fill the full frame of the camera's field of vision.
 
 ## Links
 
