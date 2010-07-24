@@ -59,7 +59,8 @@ Primary Forums for David 3D Scanning Software:\
 
 A lot of people have tried different combinations of camera, laser, and software to improve upon the scans. Saves time by cutting out things you don't have to try.
 
-MakerBot has a group discussing a MakerScan device that would be cost affordable and in a nice package: <http://groups.google.com/group/makerscan/>
+MakerBot has a group discussing a MakerScan device that would be cost affordable and in a nice package:\
+<http://groups.google.com/group/makerscan/>
 
 ### Instructables
 
