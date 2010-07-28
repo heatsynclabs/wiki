@@ -7,3 +7,7 @@
 ## Switches
 
 Flexible Bend Sensors by Plusea: <http://www.instructables.com/member/Plusea/>
+
+## Lighting
+
+EL Wire Resource(Great Turn Around Time and Competitive Pricing): <http://thatscoolwire.com/>
