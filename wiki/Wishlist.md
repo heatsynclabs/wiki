@@ -20,7 +20,7 @@ For cheaper tools [ Auctions](Local-Resources#auctions), [Craigslist](http://www
 - [Laser Cutter](Laser-Cutter)
 - Lathe - Harrison Alpha Model
 - Pick and Place - APS?
-- Plasma Cutter and Router
+- Plasma Cutter and Router --\> <http://www.plasmacam.com/products-index.php>
 - 3D Scanner - Nextgen?
 - Waterjet Cutter - Omax?
 - Shopvac
