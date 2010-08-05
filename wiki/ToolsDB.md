@@ -15,4 +15,4 @@ Should be a 'will you donate' field
 ### Status
 
 - Rick O had done some early work in php but has had to abandon that due to time
-- Jacob did some database brainstorming based on the above scribblings along with Will who has begun implementing the application in Rails. The very alpha version can be found at <http://toolshare.heatsynclabs.org>
+- Jacob did some database brainstorming based on the above scribblings along with Will who has begun implementing the application in Rails. The very alpha version can be found at <http://toolshare.heatsynclabs.org> \[Note: External link currently fails with a permission error\]
