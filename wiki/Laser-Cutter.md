@@ -87,6 +87,48 @@ Computer Minimum Recommendations: Vista, XP or 2000. Pentium microprocessor, Min
 
 <http://www.ulsinc.com/> sells the Versa Laser product line locally
 
+We toured with them and saw some great opportunities seeing as how all their engineering is done right here in Scottsdale.
+
+#### Used Pricing
+
+Current Refurbished Models Available:Prices are for Systems only and don’t include Laser Wattage choice (10 to 60 watts) or options.
+
+- Professional Series
+  - Warranty 6 months parts
+  - PLS 3.60 24 X 12 Platform Refurb Price \$8,400 (New List Price \$15,200, can Configure up to 60 watts)
+
+<!-- -->
+
+- Versalaser Line Warranty 6 months parts
+  - VLS 3.60 24 X 12 Platform Refurb Price \$7,100 (New List Price \$10,900, can Configure up to 60 watts)
+  - VLS 2.30 16 X 12 Desktop Refurb Price \$4,050 (New List Price \$6,850, can Configure up to 30 watts)
+  - VLS 3.50 24 X 12 Desktop Refurb Price \$5,800 (New List Price \$8,600, can Configure up to 50 watts)
+
+`Currently we have no refurbished laser cartridges available for the refrub systems, however we will`
+
+Give you a discounted price on a new Laser Cartridge when adding to a refurbished unit. New Laser Cartridges have a full Two Year Warranty.
+
+- New UL Laser Cartridges Prices:
+  - 25 watt -- \$3,950
+  - 30 watt -- \$4,800
+  - 40 watt -- \$6,400
+  - 50 watt -- \$8,000
+  - 60 watt -- \$9,600
+
+#### New Pricing
+
+- vls350
+  - 12x24x4
+  - 50w laser (10-50w range)
+  - (\$12,000 - \$17,000 list) -- dealers can finagle
+
+<!-- -->
+
+- vls360
+  - 12x24x9
+  - 60w Laser (10-60w range)
+  - \$14,000 - \$20,000
+
 ## Chinese Vendors
 
 Chinese lasers are often found on ebay shipped for as low as ~\$1500. I'm finding a lot of what youd expect when important:
