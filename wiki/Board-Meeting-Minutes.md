@@ -28,6 +28,37 @@ Please note that the meeting minutes for the monthly meetings are now being docu
 
 ### August
 
+# August 12, 2010
+
+HSL Board Mtg August 12, 2010 Jeremy, Jose, Rick, Andrea, Jacob, Joyce, David, Will (via Skype)
+
+- Move by mon or tue, preferably over the weekend: Last day for the move would be about Tuesday.
+
+\- mobile stations and storage needed for the space. encourage the members to spearhead these things. Begin to reengage the members.
+
+`discuss with Derek about the miscommunication with the space layout. `
+
+- Finances: everything is up to date online etc. currently online at QuickBooks through July. Try to make purchases through org account instead for easier tracking purposes. Jose to research on sales taxes - how to handle once tax exempt.
+- PANIC :) we have a lot of amazing opportunities we need to double
+
+down on or lose them
+
+- Poker night: gone bye bye, Lego League is hosting a poker night in Sept so we’re out for that. Ask to benefit HSL some other time. Blog post about the hardware hacking that went along with hacking casino games.
+- Laser Cutter: viewed it - not a lot of public discussion. What do we do from here? Need to get a secured “no” or “yes” on lease. Then go from there after the move.
+- Urban stew response: interested in us doing a workshop. 100\$ per workshop. PR approach to this. Can we charge for supplies? Per person? How many people? Multiple workshops. Can we sell course materials? Can we sell shwag at the event? Time frame for workshop? When are we looking at?
+- Anniversary show: lasers, mustaches, catering/food, robots, community, music, fun. Need a big to-do list for things to work on. To be posted on wiki -- headed by Jeremy and Jacob.
+
+ -mini bosses: Jeremy sent email out to group.  -TTW: are game for the show if we can’t book MiniBosses.
+
+- Solido night: 3D printer manufacturer in the valley. Looking for next Wednesday. Catering food. Posted out on the forum with a follow up blog post about the event.
+- Local motors: Empower members to begin work on this. Jose to keep in contact and try to motivate more members. Waiting for feedback from L/M.
+- Speakers: More speakers!!!! Todd? (speak to anything). discussed the “hypnotist” idea -- created a neuro hack idea instead. Repost to the Google groups with this info. Tear down party - everyone brings something from Goodwill and we break them down. Stuffed animal party - combine parts of animals. Rep Rap presentation or EL wire talk.
+- Kickstarter: nada to say at this point.
+- Phx2600: Unlimited Coffee closed down and now 2600 doesn’t have a meeting location. Let them know that Gangplank space is available. Refer to katie@gangplankhq.com.
+- Wednesday GP Community Board Mtg: Zach to spear head - everyone to coordinate with him about.
+- Projects: Put out all the projects and leads that we have and ask for help. Note that we might be forced to drop these projects if they are taken on by someone. Jeremy will be talking to Mark Chung about the badges for the Ruby conf.
+- Rick resigning from board -- moving to Oregon. Last board meeting. :( \*tear\*
+
 # July 8 2010
 
 -Time for meetings will stay at 7pm. -Get your keys from Katie. They are for the back door 607(Has a 7 on it). Key can be difficult sometimes. Wiggle it just a little bit. Need to lock after you unlock. -New store front space is great. Kind of small. -Next step? Do we get to Derick before the build out.? Yes. We need to talk to him about installation of double doors and using the closet space. Roll out possibilities for tools. Where will other tools go? -Local foods? open later than 9pm? - San Tan, Irish Pub, Tea, Sandwiches -Journal on Quick books for monies. Reimbursements are incomplete. Not all of the receipts are in. We need the accompanying receipts. Jose will send out requests for receipts to everyone individually. -Capital expenses like equipment need to be by HSL account instead of reimbursements. -Capital Expenses - Objects of \$100 or more that hold value. -Temporary Investor possibilities. Person loans money to HSL? HSL pays back? Is that ok? -Sales Tax info was sent out to board. Do we need an LLC to sell items? Can we resell kits if we repackage with our stuff. -Vending machine possibilities may conflict with mission statement. Kit's could be repackaged with our logos. Jose is going to verify this. -GP is asking for stuff. HSL needs stuff too! Let's get a wish list together and post it to the group -Water Balloon Fundraiser - Get the word out. Poll people on twitterfacebookverse to see if they are interested. And then get budget together and possible strategies for games. -Laser Cutter - Needs at least one person to present their social security number to look at our credit and see if we can lease it. Get contracts in to Will to get to the Laser Cutter Vendors. Then can judge a down payment that we can put down for the Laser Cutter and a possible monthly payment. We'll have to ask if we can even afford that monthly down payment. Then we can do a kickstarter which will judge if we are receiving a down payment or if we can buy it out right(which would be awesome). -Will is trying to see if the laser cutter vendors are interested in doing onsite presentations of their equipment. -Zach looked at our Analytics and found that most people have been visiting our main page. Traffic has been petering off but we get spikes when we have posts pimped by other blogs. -We had a long discussion about content on our blog. Ultimately we decided we would like posts of the following format: Quick List of Cool Projects/Activities HSL was Involved in(Pictures and Very Brief Explanation), Member write-ups that can be sent to David for polishing and publishing, and Editor News Columns that David is currently populating the blog with(HSL Announcements and David's Interview Columns)
