@@ -34,9 +34,7 @@ HSL Board Mtg August 12, 2010 Jeremy, Jose, Rick, Andrea, Jacob, Joyce, David, W
 
 - Move by mon or tue, preferably over the weekend: Last day for the move would be about Tuesday.
 
-\- mobile stations and storage needed for the space. encourage the members to spearhead these things. Begin to reengage the members.
-
-`discuss with Derek about the miscommunication with the space layout. `
+\- mobile stations and storage needed for the space. encourage the members to spearhead these things. Begin to reengage the members. - discuss with Derek about the miscommunication with the space layout.
 
 - Finances: everything is up to date online etc. currently online at QuickBooks through July. Try to make purchases through org account instead for easier tracking purposes. Jose to research on sales taxes - how to handle once tax exempt.
 - PANIC :) we have a lot of amazing opportunities we need to double
