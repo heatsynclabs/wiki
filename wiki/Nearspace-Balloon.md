@@ -25,7 +25,7 @@ This is a check list of final tasks, supplies and duties. Some tasks are not ass
 - Collect chase vehicle descriptions and plate numbers (Rick)
 - Finalize the launch site based on weather prediction and flight plan software (Rick)
 
-**'Check off list of supplies to bring on launch date:**'
+**Check off list of supplies to bring on launch date:**
 
 - Water, flashlights and food/snacks incase we have a long search (Each Person)
 - Full tanks of gas (Each Person taking a chase vehicle)
