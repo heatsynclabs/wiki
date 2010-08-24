@@ -227,6 +227,8 @@ The closest major airport is Eloy Municipal with is about 9 miles to the NW.
 
 </div>
 
+### Tertiary
+
 ## Pricing
 
 Actual Cost is how much we actually pay for an item. In some cases an item may be donated to us, but the competition states that all items must have a price associated with them. In that case, we must find the donated item for sale somewhere, and record that price in the "Recorded cost" column.
