@@ -229,6 +229,19 @@ The closest major airport is Eloy Municipal with is about 9 miles to the NW.
 
 ### Tertiary
 
+<div style="float:right">
+
+\<googlemap version="0.9" lat="33.11829 lon="-111.389267" type="terrain" width="400" height="400" selector="no" controls="small"\> 33.11829,-111.389267 \</googlemap\>
+
+</div>
+
+- Lauch Site 3
+  - Cord (decimal): 33.11829 by -111.389267
+
+<div style="clear: both">
+
+</div>
+
 ## Pricing
 
 Actual Cost is how much we actually pay for an item. In some cases an item may be donated to us, but the competition states that all items must have a price associated with them. In that case, we must find the donated item for sale somewhere, and record that price in the "Recorded cost" column.
