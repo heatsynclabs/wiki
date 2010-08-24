@@ -201,7 +201,7 @@ Can purchase or construct from scratch
 
 </div>
 
-- Lauch Site 1
+- Launch Site 1
   - Cord (decimal): 32.84503 by -112.31748 at 1801.2ft MSL
   - Cord (deg/minute): 32° 50' 42.108" N by 112° 19' 2.928" W at 1801.2ft MSL
 
@@ -217,7 +217,7 @@ Can purchase or construct from scratch
 
 </div>
 
-- Lauch Site 2
+- Launch Site 2
   - Cord (decimal): 32.69635 by -111.49202 at 1630.6ft MSL
   - Cord (deg/minute): 32° 41' 46.86" N by 111° 29' 31.2714" W at 1801.2ft MSL
 
@@ -235,7 +235,7 @@ The closest major airport is Eloy Municipal with is about 9 miles to the NW.
 
 </div>
 
-- Lauch Site 3
+- Launch Site 3
   - Cord (decimal): 33.11829 by -111.389267
 
 <div style="clear: both">
