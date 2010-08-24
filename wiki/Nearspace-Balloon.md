@@ -231,7 +231,7 @@ The closest major airport is Eloy Municipal with is about 9 miles to the NW.
 
 <div style="float:right">
 
-\<googlemap version="0.9" lat="33.11829 lon="-111.389267" type="terrain" width="400" height="400" selector="no" controls="small"\> 33.11829,-111.389267 \</googlemap\>
+\<googlemap version="0.9" lat="33.11829" lon="-111.389267" type="terrain" width="400" height="400" selector="no" controls="small"\> 33.11829,-111.389267 \</googlemap\>
 
 </div>
 
