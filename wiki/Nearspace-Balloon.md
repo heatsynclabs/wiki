@@ -14,7 +14,16 @@
 
 This is a check list of final tasks, supplies and duties. Some tasks are not assigned but they still need to be finished by Friday night. I put myself down for a lot of the launch supplies but that’s only because I’m making the list and know I have this stuff. Launch duties can be reassigned as need but should be finalized by Friday night.
 
-Tasks to do before launch date: Make and affix labels to payload box, inside and out (???) Finish parachute (???) Add key rings and swivels to top and bottom of parachute (???) Check batteries levels and if low replace or charge (Rick & Jasper) Download maps of all possible flight projections and put on laptop (Rick) Collect cell phone numbers for chase vehicles and all radio call signs (Rick) Collect chase vehicle descriptions and plate numbers (Rick) Finalize the launch site based on weather prediction and flight plan software (Rick)
+Tasks to do before launch date:
+
+- Make and affix labels to payload box, inside and out (???)
+- Finish parachute (???)
+- Add key rings and swivels to top and bottom of parachute (???)
+- Check batteries levels and if low replace or charge (Rick & Jasper)
+- Download maps of all possible flight projections and put on laptop (Rick)
+- Collect cell phone numbers for chase vehicles and all radio call signs (Rick)
+- Collect chase vehicle descriptions and plate numbers (Rick)
+- Finalize the launch site based on weather prediction and flight plan software (Rick)
 
 Check off list of supplies to bring on launch date: Water, flashlights and food/snacks incase we have a long search (Each Person) Full tanks of gas (Each Person taking a chase vehicle) Bring extra 1.5v AA and AAA batteries (Rick) Balloon (Paul) Payload and below content (Rick) Camera
 
