@@ -236,7 +236,7 @@ The closest major airport is Eloy Municipal with is about 9 miles to the NW.
 </div>
 
 - Launch Site 3
-  - Cord (decimal): 33.11829 by -111.389267
+  - Cord (decimal): 33.11829 by -111.389267 at 1621ft
 
 <div style="clear: both">
 
