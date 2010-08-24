@@ -10,6 +10,62 @@
 | Bobby M | bwmetz@gmail.com           |
 |         |                            |
 
+## Launch Procedure
+
+This is a check list of final tasks, supplies and duties. Some tasks are not assigned but they still need to be finished by Friday night. I put myself down for a lot of the launch supplies but that’s only because I’m making the list and know I have this stuff. Launch duties can be reassigned as need but should be finalized by Friday night.
+
+Tasks to do before launch date: Make and affix labels to payload box, inside and out (???) Finish parachute (???) Add key rings and swivels to top and bottom of parachute (???) Check batteries levels and if low replace or charge (Rick & Jasper) Download maps of all possible flight projections and put on laptop (Rick) Collect cell phone numbers for chase vehicles and all radio call signs (Rick) Collect chase vehicle descriptions and plate numbers (Rick) Finalize the launch site based on weather prediction and flight plan software (Rick)
+
+Check off list of supplies to bring on launch date: Water, flashlights and food/snacks incase we have a long search (Each Person) Full tanks of gas (Each Person taking a chase vehicle) Bring extra 1.5v AA and AAA batteries (Rick) Balloon (Paul) Payload and below content (Rick) Camera
+
+`           Camera batteries`
+
+Radio
+
+`           Radio batteries`
+
+Antenna (both) GPS Tinytrak
+
+`           iPod batteries (powers GPS and Tinytrak)`
+
+Buzzer
+
+`           9v battery`
+
+Key rings for connectors Swivels Wing nuts, washers and cotter keys to assemble and hang payload box. Gloves to handle balloon, already in box (Paul) 5lb jug of water with string and hanger (Todd)
+
+`           (Payload + string + parachute + 1lb free lift)`
+
+(3.5lbs + 0.5lbs + 1lb) = 5lb Extra heavy weight to anchor balloon during filling (Todd) Helium tank (Todd) Hose with tank and balloon adapters (Todd) Wrenches to connect adapter to tank (Todd) Blue Traps (Todd) Blankets (Todd) Knife to cut string (Paul) Ear plugs for people assigned to holding payload and parachute for deployment. (Todd) Duct Tape (Todd) Zip ties about 6 inches or longer (Todd) Small wire cutter to cut zip ties (Todd) Todd’s hand held and GPS and car GPS unites (Todd)
+
+`           Make sure both are fully charged. (Todd)`\
+`           Car antenna for Todd’s GPS (Todd)`\
+`           Car chargers for both of Todd’s GPS units (Todd)`
+
+Tracking receiving radio (Rick)
+
+`           Modem (Rick) Europe`\
+`           Magnet mount antenna for car (Rick)`\
+`           12v power plug splitter (Todd)`\
+`           Data line for Todd’s GPS to Todd’s backup laptop (Todd)`\
+`           Serial to USB for Todd’s backup GPS and backup laptop (Todd)`
+
+2 Laptops with software to display tracking on maps (Rick & Todd)
+
+`           2 power inverters (Todd & Zack P.)`\
+`           Topo map CD-ROMs of AZ (Todd)`\
+\
+
+Launch Duties: At 5am recalc the flight prediction and maybe change to alternate launch site (Rick): Avoid urban areas Avoid lakes Avoid airports Avoid mountains Avoid military bases Avoid inaccessible terrain. Exchange cell phone numbers and radio call signs (Everybody!) Make sure above check off list is … well… checked off. Drive to launch location (Everyone) Layout tarps and blankets (Zack P. & Nathanael) Put on gloves and layout balloon (Paul) Payload + parachute + balloon assembly: (Nathanael & Paul) Cut the OEM balloon string about 1/3 from bottom. Tie balloon’s string to swivel at top of parachute. Tie remaining string between parachute and swivel at payload. 3 members to wear gloves and guard balloon from tipping over during filling (?+?+?) Tie balloon to extra heavy weight to prevent accidental release while filling (Nathanael) Fill balloon: (Todd, Rick & Nathanael)
+
+`           Rick puts on gloves and holds fill tube in balloon’s neck.`
+
+Zip tie balloon neck to PVC pipe (Nathanael)
+
+`           Todd controls helium flow.`
+
+Validate we have 1lb of free lift using jug of water (Nathanael) Cut zip tie on balloon neck (Nathanael) Cork balloon (Paul & Nathanael) Fold over end Zip tie to secure Cover with duct tape. Turn on radio and tinytrak (Rick) Validate payload transmission and reception (Rick) Turn on camera (John) Turn on sound beacon (John) Check that all items in payload are on and secured (Paul) Test wind direction (Zack P.) Seal up payload box and hold for deploy (Zack P.) Hold parachute for deploy (Paul) Release balloon on mark (Nathanael) Take photos and film launch (John + anybody else)
+
 ## Tasks
 
 | Task         | Name                  | Completed? |
