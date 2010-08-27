@@ -114,6 +114,10 @@ Actual Cost is how much we actually pay for an item. In some cases an item may b
 5.  Barometer
 6.  Panoramic Video/Photos
 
+## Press
+
+We had the crazy idea of inviting [Local Motors](http://www.local-motors.com) and their [Rally Fighter](http://www.local-motors.com/rallyFighter.php) out to be our lead chase vehicle. It sounds like they're willing to mount whatever gear we need and have the ports to power it. Sadly we gave them short notice for the first launch. It is advised to contact them ahead of time for this launch!
+
 ## See Also
 
 [Nearspace Balloon](Nearspace-Balloon)
