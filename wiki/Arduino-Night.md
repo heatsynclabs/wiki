@@ -42,6 +42,7 @@ All skill levels are welcome. Bring your own or use one of Arduino setups on-sit
 </div>
 
 - Color Cube
+- Sensor Package for Nearspace
 
 <div style="clear: both">
 
