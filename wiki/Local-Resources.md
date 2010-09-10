@@ -6,7 +6,10 @@ Also, provide details of their services (maybe pricing, or even a short review) 
 
 ### Hobbyist/etc Groups
 
-<http://www.valley-metal.org/> Arizona Area Metal Hobbyists <http://club.azhomebrewers.org/> Arizona Association of Home Brewers <http://www.phx2600.org/> Phoenix 2600 <http://urbanstew.org/> Urban Stew
+- <http://www.valley-metal.org/> Arizona Area Metal Hobbyists
+- <http://club.azhomebrewers.org/> Arizona Association of Home Brewers
+- <http://www.phx2600.org/> Phoenix 2600
+- <http://urbanstew.org/> Urban Stew
 
 ### Electronics Supplies Distributors
 
