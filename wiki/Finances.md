@@ -1,3 +1,24 @@
+## Purchasing and Reimbursement Policy
+
+HeatSync Labs (HSL) will reimburse select expenses incurred by our members. HSL will not reimburse for any expense not specified in this policy.
+
+Although IRS guidelines require documenation and substantiation for all business expenses greater than \$75.00, HSL requires individual itemized expenses to be accompanied by a receipt.
+
+This will ensure an effortless expense reimbursement process. HSL members who do not have a actual receipt(s), where required, must submit a signed affidavit acknowledging the loss of the receipts, which may delay the reimbursement process.
+
+**All reimbursement requests must be sumbitted within 30 days of incurring the expense. Any request received after 30 days may not be reimbursed.**
+
+Note: [All projected expenses greater than \$25 must be \[\[pre-approved](All-projected-expenses-greater-than-$25-must-be-[[pre-approved) by the HSL Board of Directors\]\].
+
+Covered Expenses
+
+`- Travel`\
+`- Miscellaneous`\
+`- Capital Equipment`\
+`- General equipment and tools`
+
+Expense Reports In order to receive reimbursement HSL members shall complete and submit an expense claim form within a reasonable time after incurring the expense and in any event no later than 30 days thereafter. The expense report shall be accompanied by all receipts documenting each expense, including those acquired from the use of HSL debit card. HSL members shall verify that the expenses for which reimbursement is sought were incurred on behalf of HeatSync Labs in performance of official duties and that they meet the policies established in this policy.
+
 ## Revenue Ideas
 
 Run this is a for profit operation! Just because its a non profit doesn't mean it shouldn't self sustain, and more!
