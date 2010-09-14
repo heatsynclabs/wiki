@@ -6,9 +6,9 @@ Although IRS guidelines require documenation and substantiation for all business
 
 This will ensure an effortless expense reimbursement process. HSL members who do not have a actual receipt(s), where required, must submit a signed affidavit acknowledging the loss of the receipts, which may delay the reimbursement process.
 
-**All reimbursement requests must be sumbitted within 30 days of incurring the expense. Any request received after 30 days may not be reimbursed.**
+All reimbursement requests must be sumbitted within 30 days of incurring the expense. Any request received after 30 days may not be reimbursed.
 
-Note: [All projected expenses greater than \$25 must be \[\[pre-approved](All-projected-expenses-greater-than-$25-must-be-[[pre-approved) by the HSL Board of Directors\]\].
+**Note: All projected expenses greater than \$25 must be pre-approved by the HSL Board of Directors.**
 
 Covered Expenses
 
