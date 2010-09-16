@@ -17,8 +17,12 @@ Thru The Wires have requested Sat Oct 23rd, over other dates or a Friday.
 
 # Marketing
 
+- Flyers with Cut Out Mustaches
 - Mustache Stickers and Spray Templates Around Town
-- Facebook/Twitter/
+- Facebook/Twitter/Blog/Other Blogs
+- Local Press(Preferably Free) - New Times, AZ Central, The Chandler Times, Arizona Republic, etc.
+- Gangplank Press
+- Word of Mouth --\> Street Team
 
 # Music Acts
 
