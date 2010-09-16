@@ -35,7 +35,7 @@ We want a musical act that can represent our do it yourself maker culture. Genre
 
 # Catered Food
 
-Need to look into possibilities for free catering. Some possibilities:
+Need to look into possibilities for free catering. Have any suggestions? Know anyone local that would be willing to cater for free for some good press? Some possibilities:
 
 - 24 Carrots - <http://24carrotsjuice.com/> - Has catered Gangplank and other events many times.
 - Cathy's Rum Cake - <http://www.cathys-rum-cake.com/> - Looks like they've done free samples at different locations. Challenge her to make a robot mad scientist cake?
