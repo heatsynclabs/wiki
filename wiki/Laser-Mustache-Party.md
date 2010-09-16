@@ -4,7 +4,16 @@ HeatSync Labs in one year old and we want to celebrate big. Mustaches, lasers, r
 
 # Date
 
-Have been waiting to secure the performances which has pushed us back into october. Possible dates from GP included: Open Fridays - October 8, 22 Open Saturdays - October 2, 9, 16, 23 . The main worry with later dates is bumping up against Halloween weekend. Research has found another big experimental electronica show being held the week of the 16th so it would be good to both avoid that weekend and advertise there. Thru The Wires have requested Sat Oct 23rd, over other dates or a Friday.
+Have been waiting to secure the performances which has pushed us back into October.
+
+Possible dates from GP included:
+
+- Open Fridays - October 8, 22
+- Open Saturdays - October 2, 9, 16, 23
+
+The main worry with later dates is bumping up against Halloween weekend. Research has found another big experimental electronica show being held the week of the 16th so it would be good to both avoid that weekend and advertise there.
+
+Thru The Wires have requested Sat Oct 23rd, over other dates or a Friday.
 
 # Marketing
 
