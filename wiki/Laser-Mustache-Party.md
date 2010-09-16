@@ -22,7 +22,7 @@ Thru The Wires have requested Sat Oct 23rd, over other dates or a Friday.
 
 # Music Acts
 
-- Minibosses?
+- Minibosses - Still No Answer From Them...maybe for another event
 - Through The Wires
 
 # Catered Food
