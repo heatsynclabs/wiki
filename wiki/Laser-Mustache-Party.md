@@ -51,7 +51,13 @@ So for this event I think we either provide our own liquor (and maybe our own ba
 
 # Furniture
 
-We expressed interest in making gangplank out to be lounge-y and club-y for the event. They have 3 couches, but ideally wed like to see 3-6 more probably. We found a company [Unique Table Top Rentals](http://www.uniquetabletoprentals.com/) who will rent furniture for just this occasion. As you would expect however they are PRICEY. Their cheapest goods are the armless couches which they have a few in the ~\$280 each range. Add to this delivery charges around ~\$75 and a deposit of around 150% of what your rental costs are(If you are renting \$500 in goods, expect ~\$750 deposit) and this puts them out of our range sadly.
+We expressed interest in making gangplank out to be lounge-y and club-y for the event. They have 3 couches, but ideally we'd like to see 3-6 more probably.
+
+We found a company:
+
+[Unique Table Top Rentals](http://www.uniquetabletoprentals.com/)
+
+who will rent furniture for just this occasion. As you would expect however they are PRICEY. Their cheapest goods are the armless couches which they have a few in the ~\$280 each range. Add to this delivery charges around ~\$75 and a deposit of around 150% of what your rental costs are(If you are renting \$500 in goods, expect ~\$750 deposit) and this puts them out of our range sadly.
 
 Can we make some sort of bar seating ourselves? Can we round up enough couches off of craigslist or from our people? Can we round up beanbags and rugs on the cheap?
 
