@@ -28,8 +28,10 @@ We need some one to head up ensuring that this event is marketed correctly. From
 
 # Music Acts
 
-- Minibosses - Still No Answer From Them...maybe for another event
-- Through The Wires
+We want a musical act that can represent our do it yourself maker culture. Genres that come to mind initially: Industrial, Nerdcore, Experimental Electronica, etc.
+
+- Minibosses - Rock band that plays classic video game tunes - Still No Answer From Them...maybe for another event
+- Through The Wires - Local Group of Experimental Electronica Enthusiasts
 
 # Catered Food
 
