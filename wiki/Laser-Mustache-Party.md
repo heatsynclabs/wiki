@@ -67,3 +67,4 @@ Can we make some sort of bar seating ourselves? Can we round up enough couches o
 - Laser Trip Lines for Swag
 - Mustache Cornucopia Machine(RepRap)
 - Color Spectrum Fun? - <http://bit.ly/9fCTOC>
+- 1950's Style Robot Pinata
