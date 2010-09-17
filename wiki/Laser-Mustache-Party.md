@@ -27,6 +27,7 @@ We need some one to head up ensuring that this event is marketed correctly. From
 - Local Press(Preferably Free) - New Times, AZ Central, The Chandler Times, Arizona Republic, etc.
 - Gangplank Press
 - Word of Mouth --\> Street Team
+- Mustache Flash Mobs?
 
 # Music Acts
 
