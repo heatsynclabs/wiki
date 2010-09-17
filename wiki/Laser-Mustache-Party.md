@@ -63,8 +63,19 @@ Can we make some sort of bar seating ourselves? Can we round up enough couches o
 
 # Interactive Installations
 
+We want this event to be a chance to feature our local maker's
+
+New Project Ideas:
+
 - Near UV Drawing Displays and Where's Waldo?
 - Laser Trip Lines for Swag
 - Mustache Cornucopia Machine(RepRap)
 - Color Spectrum Fun? - <http://bit.ly/9fCTOC>
 - 1950's Style Robot Pinata
+- Display Model of Near Space Balloon
+
+Local Maker Projects:
+
+- Todd's Homemade Van De Graaff Generator
+- Rene's Modded Motorcycle
+- Justin's Solar Trike
