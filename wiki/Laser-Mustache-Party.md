@@ -88,6 +88,13 @@ Local Maker Projects:
 
 I'd like to see if we can solicit donations from local parts, tools, and storage distributors that we use:
 
-Goldmine Electronics - <http://www.goldmine-elec-products.com> Circuit Specialists - <http://www.circuitspecialists.com/> Tritek Electronics - <http://www.tritekelectronics.com/> Fry's Electronics - <http://www.frys.com/template/ecomponents> Radioshack - <http://www.radioshack.com/home/index.jsp> Harbor Freight - <http://www.harborfreightusa.com/usa/common/start.do> Home Depot - <http://www.homedepot.com/> Lowe's Home Improvement - <http://www.lowes.com/>
+- Goldmine Electronics - <http://www.goldmine-elec-products.com>
+- Circuit Specialists - <http://www.circuitspecialists.com/>
+- Tritek Electronics - <http://www.tritekelectronics.com/>
+- Fry's Electronics - <http://www.frys.com/template/ecomponents>
+- Radioshack - <http://www.radioshack.com/home/index.jsp>
+- Harbor Freight - <http://www.harborfreightusa.com/usa/common/start.do>
+- Home Depot - <http://www.homedepot.com/>
+- Lowe's Home Improvement - <http://www.lowes.com/>
 
 I'll be writing up and uploading a generic letter to present to these establishments.
