@@ -63,7 +63,7 @@ Can we make some sort of bar seating ourselves? Can we round up enough couches o
 
 # Interactive Installations
 
-We want this event to be a chance to feature our local maker's
+We want this event to be a chance to feature our local Makers. You have anything to show off?
 
 New Project Ideas:
 
