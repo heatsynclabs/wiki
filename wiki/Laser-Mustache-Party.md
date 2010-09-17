@@ -86,7 +86,7 @@ Local Maker Projects:
 
 # Funding
 
-I'd like to see if we can solicit donations from local parts, tools, and storage distributors that we use:
+I'd like to see if we can solicit donations from local parts, tools, and storage distributors that we use(feel free to add any others you can think of):
 
 - Goldmine Electronics - <http://www.goldmine-elec-products.com>
 - Circuit Specialists - <http://www.circuitspecialists.com/>
@@ -97,4 +97,4 @@ I'd like to see if we can solicit donations from local parts, tools, and storage
 - Home Depot - <http://www.homedepot.com/>
 - Lowe's Home Improvement - <http://www.lowes.com/>
 
-I'll be writing up and uploading a generic letter to present to these establishments.
+I'll be writing up and uploading a generic letter to present to these establishments. We'll need help approaching these places.
