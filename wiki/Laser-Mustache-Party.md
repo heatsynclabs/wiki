@@ -42,6 +42,7 @@ Need to look into possibilities for free catering. Have any suggestions? Know an
 - 24 Carrots - <http://24carrotsjuice.com/> - Has catered Gangplank and other events many times.
 - Cathy's Rum Cake - <http://www.cathys-rum-cake.com/> - Looks like they've done free samples at different locations. Challenge her to make a robot mad scientist cake?
 - Silver Mine Subs - <http://silverminesubs.com/> - Sandwich shop that is up late nights? Ask for bite sized sub samples. Sell that they are the sandwich shop of choice because they're tasty and they are open when we're working.
+- got a contact for red bull when they came by gangplank gotwiiings@gmail.com
 - ???
 
 # Cash Bar
