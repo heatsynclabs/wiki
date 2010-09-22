@@ -21,13 +21,20 @@ DATE BOOKED AT GANGPLANK -- EVENT SET FOR 23RD
 
 We need some one to head up ensuring that this event is marketed correctly. From there on we'll need everyone to pass around flyers, tweet/update facebook status details about the event, help contact local press, etc.:
 
+Physical Media
+
 - Flyers with Cut Out Mustaches
 - Mustache Stickers and Spray Templates Around Town
-- Facebook/Twitter/Blog/Other Blogs
-- Local Press(Preferably Free) - New Times, AZ Central, The Chandler Times, Arizona Republic, etc.
+- Local Press (Preferably Free) - New Times, AZ Central, The Chandler Times, Arizona Republic, etc.
 - Gangplank Press
 - Word of Mouth --\> Street Team
 - Mustache Flash Mobs?
+
+Social Networking
+
+- Facebook: <http://www.facebook.com/event.php?eid=109314745794645&ref=ts>
+- Twitter: <http://twitter.com/MustacheParty>
+- Blog/Other Blogs
 
 # Music Acts
 
