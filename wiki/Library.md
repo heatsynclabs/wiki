@@ -2,7 +2,7 @@
 |:---|:---|:---|:---|:---|:---|:---|:---|
 | **Reference Materials** | ''''' | ''''' | ''''' | ''''' | **Ownership Status** | ''''' | ''''' |
 | **Name** | **ISBN** | **Author** | **Genre** | **Year** | **Donor** | **Owner** | **Publisher/Series** |
-| A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing | 0-393005782-8 | Malkiel, Burton G. | Nonfiction | 2003 |  |  |  |
+| A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing | 0-393005782-8 | Malkiel, Burton G. | Nonfiction | 2003 | Jeremy Leung |  |  |
 | American Red Cross, Community First Aid and Safety | 1-58480-105-0 | Staywell | Textbook | 2002 |  |  |  |
 | An Introduction to Programming Using Visual Basic .NET, Fifth Edition w/CD | 0-13-030657-6 | Schneider, David I. | Reference | 2003 |  |  | Pearson |
 | Best Damn Firewall Book Period | 1-931836-90-6 | Shimonski, Robert J., Shinder, Debra Littlejohn | Reference | 2003 |  |  | Syngress |
