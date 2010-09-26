@@ -15,7 +15,7 @@ The main worry with later dates is bumping up against Halloween weekend. Researc
 
 Thru The Wires have requested Sat Oct 23rd, over other dates or a Friday.
 
-DATE BOOKED AT GANGPLANK -- EVENT SET FOR 23RD
+DATE BOOKED AT GANGPLANK -- EVENT SET FOR 23RD 8PM
 
 # Marketing
 
