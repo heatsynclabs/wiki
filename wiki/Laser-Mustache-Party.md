@@ -17,6 +17,31 @@ Thru The Wires have requested Sat Oct 23rd, over other dates or a Friday.
 
 DATE BOOKED AT GANGPLANK -- EVENT SET FOR 23RD 8PM
 
+# Needs!
+
+Boy this thing is big. We need your help!
+
+- First if you can supply anything from our budget we can avoid spending that money.
+- Second we need cool projects to display! We want to celebrate our year together!
+- Can you supply club style furniture? Bean bags? Wed like some chill seating for the night
+- Can you help with our ground campaign?
+  - The current idea is to be taking pictures of local celebs and advertisements with mustaches applied. Twitter them to @MustacheParty for a retweet!
+  - Can you hand out flyers on your campus/hip coffee shop location/etc?
+
+# Budget
+
+- Bottled Water -5 cases? -\$25 for all
+- Sheet metal for throwies - \$25
+- Quote from dieborg, and tuna's designer for flyers?
+- Flyers printed \$100
+- Someone to put flyers everywhere? ?
+- Fabric to split Gangplank in half \$2/yard 15ft high fabric 25 yards? \$200 60 yards
+- Disposables (plates, signs, napkins, etc) \$20
+- UV laser drawing - covered by Jeremy
+- Throwies - covered by Jacob
+
+~\$370 budget. would need 70 people at this budget to make our \$400 in profit
+
 # Marketing
 
 We need some one to head up ensuring that this event is marketed correctly. From there on we'll need everyone to pass around flyers, tweet/update facebook status details about the event, help contact local press, etc.:
