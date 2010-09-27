@@ -53,7 +53,7 @@ This event needs to be marketed correctly. David is currently working on a stand
 - MENSA
   - Pending contact, thanks Justin!
 - Gangplank Press
-  - Pending
+  - Contacted, should go out first week of October
 
 ## Street Team
 
