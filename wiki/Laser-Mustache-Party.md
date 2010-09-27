@@ -37,7 +37,7 @@ Boy this thing is big. We need your help!
 
 # Marketing
 
-This event needs to be marketed correctly. David is currently working on a standin flyer/logo for the event. Dieborg, Thru the Wires former Graphic Design Artist has been contacted as well. If she responds with a better design before the first weekend of October, then we can choose to replace our standin design. Once the graphic design legwork is done, we'll need everyone to pass out flyers, tweet/update facebook status details about the event, help find/refer local press or sponsors, and drive traffic towards our marketing material.
+This event needs to be marketed correctly. David is currently working on a standin flyer/logo for the event. Dieborg, Thru the Wires former Graphic Design Artist has been contacted as well. If she responds with a better design before the first weekend of October, then we can choose to replace our standin design. Once the graphic design legwork is done, we'll need everyone to pass out flyers, \[<http://twitter.com/MustacheParty>\| tweet\]/update \[<http://www.facebook.com/event.php?eid=109314745794645&ref=ts>\| Facebook\] status details about the event, help find/refer local press or sponsors, and drive traffic towards our marketing material.
 
 **Total Budget:** \$100
 
@@ -67,7 +67,7 @@ This event needs to be marketed correctly. David is currently working on a stand
   - Once the stencils are cut, we will hand them over to the Street Team with Spray Chalk.
 - Word of Mouth
   - Spread the word, make sure that your friends and family don't miss out on our incredible event.
-  - Encourage those interested to RSVP on Facebook and follow the Twitterstream
+  - Encourage those interested to RSVP on \[<http://www.facebook.com/event.php?eid=109314745794645&ref=ts>\| Facebook\] and follow the \[<http://twitter.com/MustacheParty>\| Twitterstream\]
   - Enthusiasm will generate more enthusiasm.
 - Mustache Flash Mobs
   - As the date draws near, we will throw mini mustache flash mobs to generate excitement. These will be announced on all Mustache Party avenues.
