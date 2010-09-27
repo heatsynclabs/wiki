@@ -1,6 +1,6 @@
 # Introduction
 
-HeatSync Labs in one year old and we want to celebrate big. Mustaches, lasers, robots, mad scientists/engineers, music, food and so much more. This event will be representative of our accomplishments over the last year as well as our community as a whole. Costumes and shenanigans are expected. Robots dancing? Yes!
+HeatSync Labs in one year old and we want to celebrate big. Mustaches, lasers, robots, mad scientists/engineers, music, food and so much more. Jump through our laser trip wire, 3D-printed plastic mustaches, robots of various sorts, and experimental electronica by none other than local legend, Thru the Wires! This event will be representative of our accomplishments over the last year as well as our community as a whole. Costumes and shenanigans are expected. Robots dancing? Yes! It will be a sampler platter of Rave + Cosplay + Maker Faire + Science Center flavors all rolled into a night of calamity unlike anything Chandler has ever seen!
 
 # Date
 
