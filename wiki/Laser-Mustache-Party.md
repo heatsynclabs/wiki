@@ -74,10 +74,10 @@ This event needs to be marketed correctly. David is currently working on a stand
 
 ## Social Networking
 
-- Facebook: <http://www.facebook.com/event.php?eid=109314745794645&ref=ts>
+- \[<http://www.facebook.com/event.php?eid=109314745794645&ref=ts>\| Facebook\]
   - Invite friends you think will be interested, skip ones you think won't RSVP.
   - Include our sponsors
-- Twitter: <http://twitter.com/MustacheParty>
+- [\| Twitter](http://twitter.com/MustacheParty)
   - HeatSyncLabs will retweet major MustacheParty tweets
   - Our tactic here is guerrilla marketing. Without blatantly overpromoting, we want to stick to about a Tweet a day featuring a quirky tagline and a devastatingly good looking picture of a familiar faces in a 'stache.
   - Tweet about Mustache Party with the Hashtag MustacheParty
