@@ -37,22 +37,64 @@ Boy this thing is big. We need your help!
 
 # Marketing
 
-We need some one to head up ensuring that this event is marketed correctly. From there on we'll need everyone to pass around flyers, tweet/update facebook status details about the event, help contact local press, etc.:
+This event needs to be marketed correctly. David is currently working on a standin flyer/logo for the event. Dieborg, Thru the Wires former Graphic Design Artist has been contacted as well. If she responds with a better design before the first weekend of October, then we can choose to replace our standin design. Once the graphic design legwork is done, we'll need everyone to pass out flyers, tweet/update facebook status details about the event, help find/refer local press or sponsors, and drive traffic towards our marketing material.
 
-Physical Media
+**Total Budget:** \$100
 
-- Flyers with Cut Out Mustaches
-- Mustache Stickers and Spray Templates Around Town
-- Local Press (Preferably Free) - New Times, AZ Central, The Chandler Times, Arizona Republic, etc.
+**Target Attendance:** 200 attendees
+
+## Local Press
+
+- New Times
+  - Contacted, still waiting to hear back
+- AZ Central
+- The Chandler Times
+- Arizona Republic
+- MENSA
+  - Pending contact, thanks Justin!
 - Gangplank Press
-- Word of Mouth --\> Street Team
-- Mustache Flash Mobs?
+  - Pending
 
-Social Networking
+## Street Team
+
+***Interested in helping out? Let a member of the Board or MustacheParty crew know!***
+
+- 2nd round of Flyers with Cut-out Mustaches and Designs
+  - Graphic design by David or Dieborg
+  - Dispersal date set for the first weekend of October
+  - Coffee houses, Gangplank, Bookmans, School campuses, anywhere someone is likely to pick up a flyer
+- Mustache Stickers and Spray Templates around town
+  - Once the stencils are cut, we will hand them over to the Street Team with Spray Chalk.
+- Word of Mouth
+  - Spread the word, make sure that your friends and family don't miss out on our incredible event.
+  - Encourage those interested to RSVP on Facebook and follow the Twitterstream
+  - Enthusiasm will generate more enthusiasm.
+- Mustache Flash Mobs
+  - As the date draws near, we will throw mini mustache flash mobs to generate excitement. These will be announced on all Mustache Party avenues.
+
+## Social Networking
 
 - Facebook: <http://www.facebook.com/event.php?eid=109314745794645&ref=ts>
+  - Invite friends you think will be interested, skip ones you think won't RSVP.
+  - Include our sponsors
 - Twitter: <http://twitter.com/MustacheParty>
-- Blog/Other Blogs
+  - HeatSyncLabs will retweet major MustacheParty tweets
+  - Our tactic here is guerrilla marketing. Without blatantly overpromoting, we want to stick to about a Tweet a day featuring a quirky tagline and a devastatingly good looking picture of a familiar faces in a 'stache.
+  - Tweet about Mustache Party with the Hashtag MustacheParty
+  - Include our sponsors
+- Official Website
+  - Feature basic when, where, and what information on a static page with a counter
+  - Include our sponsors
+  - Will and Zach
+
+## Sponsors
+
+- Thru the Wires
+- Gangplank
+- OvenTree
+- DigitalDesert
+- HSL GoogleGroups call for sponsors thread
+- Send a quick email to Jeremy or Joyce for Press/Donation Request Letter Template
 
 # Music Acts
 
