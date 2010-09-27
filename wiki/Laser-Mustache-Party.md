@@ -54,6 +54,8 @@ This event needs to be marketed correctly. David is currently working on a stand
   - Pending contact, thanks Justin!
 - Gangplank Press
   - Contacted, should go out first week of October
+- Thru the Wires Press
+  - Contacted, should go out first week of October
 
 ## Street Team
 
