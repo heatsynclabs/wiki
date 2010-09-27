@@ -28,6 +28,7 @@
 <li><a href="Arduino-Night">Arduino Night</a></li>
 <li><a href="First-Friday">First Friday</a></li>
 <li><a href="Makerfaire">Makerfaire</a></li>
+<li><a href="Laser-Mustache-Party">One Year Anniversary Party</a></li>
 </ul></li>
 <li><a href="Reference">Reference</a>
 <ul>
