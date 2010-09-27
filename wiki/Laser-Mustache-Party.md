@@ -96,7 +96,7 @@ This event needs to be marketed correctly. David is currently working on a stand
 - HSL GoogleGroups call for sponsors thread
 - Send a quick email to Jeremy or Joyce for Press/Donation Request Letter Template
 - Interested or know someone who would be interested in sponsoring?
-  - We will put your company name on the Mustache Party event website, up on the HeatSync Labs website, the Mustache Party Facebook, the Mustache Party Twitter page, the HeatSync Labs Twitter page, and our event flyers and signs as we disperse them around town. This is intended as our way of showing appreciation for your help toward our cause
+  - We will put your company name on the Mustache Party event website, up on the HeatSync Labs website, the \[<http://www.facebook.com/event.php?eid=109314745794645&ref=ts>\| Mustache Party Facebook\], the Mustache Party Twitter page, the HeatSync Labs Twitter page, and our event flyers and signs as we disperse them around town. This is intended as our way of showing appreciation for your help toward our cause
 
 # Music Acts
 
