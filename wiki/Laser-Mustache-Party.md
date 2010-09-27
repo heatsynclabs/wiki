@@ -45,7 +45,7 @@ This event needs to be marketed correctly. David is currently working on a stand
 
 ## Local Press
 
-- New Times
+- \[<http://www.phoenixnewtimes.com/>\| New Times \]
   - Contacted, still waiting to hear back
 - AZ Central
 - The Chandler Times
