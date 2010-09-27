@@ -128,5 +128,6 @@ I'd like to see if we can solicit donations from local parts, tools, and storage
 - Harbor Freight - <http://www.harborfreightusa.com/usa/common/start.do>
 - Home Depot - <http://www.homedepot.com/>
 - Lowe's Home Improvement - <http://www.lowes.com/>
+- Ace Hardware - <http://www.acehardware.com/home/index.jsp>
 
 I'll be writing up and uploading a generic letter to present to these establishments. We'll need help approaching these places.
