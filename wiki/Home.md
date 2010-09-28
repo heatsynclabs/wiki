@@ -54,6 +54,7 @@
 <p>Serious Business</p>
 </div>
 <ul>
+<li><a href="Bylaws">Bylaws</a> (aka constitution, charter)</li>
 <li><a href="Board-Members">Board Members</a></li>
 <li><a href="Board-Elections">Board Elections</a> (historic)</li>
 <li><a href="Meeting-Minutes">Meeting Minutes</a></li>
