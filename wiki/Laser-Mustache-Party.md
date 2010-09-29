@@ -37,7 +37,7 @@ Boy this thing is big. We need your help!
 
 # Marketing
 
-This event needs to be marketed correctly. David is currently working on a standin flyer/logo for the event. Dieborg, Thru the Wires former Graphic Design Artist has been contacted as well. If she responds with a better design before the first weekend of October, then we can choose to replace our standin design. Once the graphic design legwork is done, we'll need everyone to pass out flyers, \[<http://twitter.com/MustacheParty>\| tweet\]/update \[<http://www.facebook.com/event.php?eid=109314745794645&ref=ts>\| Facebook\] status details about the event, help find/refer local press or sponsors, and drive traffic towards our marketing material.
+This event needs to be marketed correctly. The graphic design legwork has been done and we need everyone to pass out flyers, \[<http://twitter.com/MustacheParty>\| tweet\]/update \[<http://www.facebook.com/event.php?eid=109314745794645&ref=ts>\| Facebook\] status details about the event, help find/refer local press or sponsors, and drive traffic towards our marketing material.
 
 **Total Budget:** \$100
 
@@ -51,7 +51,7 @@ This event needs to be marketed correctly. David is currently working on a stand
 - The Chandler Times
 - Arizona Republic
 - MENSA
-  - Pending contact, thanks Justin!
+  - Contacted, thanks Justin!
 - Gangplank Press
   - Contacted, should go out first week of October
 - Thru the Wires Press
@@ -61,8 +61,8 @@ This event needs to be marketed correctly. David is currently working on a stand
 
 ***Interested in helping out? Let a member of the Board or MustacheParty crew know!***
 
-- 2nd round of Flyers with Cut-out Mustaches and Designs
-  - Graphic design by David or Dieborg
+- 2nd round of Flyers
+  - Andrea volunteered to print 9.29.2010 at or before Hacknight
   - Dispersal date set for the first weekend of October
   - Coffee houses, Gangplank, Bookmans, School campuses, anywhere someone is likely to pick up a flyer
 - Mustache Stickers and Spray Templates around town
@@ -83,6 +83,7 @@ This event needs to be marketed correctly. David is currently working on a stand
   - HeatSyncLabs will retweet major MustacheParty tweets
   - Our tactic here is guerrilla marketing. Without blatantly overpromoting, we want to stick to about a Tweet a day featuring a quirky tagline and a devastatingly good looking picture of a familiar faces in a 'stache.
   - Tweet about Mustache Party with the Hashtag MustacheParty
+  - Send Joyce mustache pictures for Tweets
   - Include our sponsors
 - Official Website
   - Feature basic when, where, and what information on a static page with a counter
