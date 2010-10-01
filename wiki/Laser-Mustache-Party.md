@@ -74,6 +74,10 @@ This event needs to be marketed correctly. The graphic design legwork has been d
 - Mustache Flash Mobs
   - As the date draws near, we will throw mini mustache flash mobs to generate excitement. These will be announced on all Mustache Party avenues.
 
+## Flyer Distribution
+
+Bookman's Starbucks Xtreme Bean Cartel Silvermine Subs Echo Coffee Goldbar Coffee Hooligan's Records Zia Records Buffalo Exchange local gyms local bars
+
 ## Social Networking
 
 - \[<http://www.facebook.com/event.php?eid=109314745794645&ref=ts>\| Facebook\]
