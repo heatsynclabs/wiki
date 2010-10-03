@@ -50,12 +50,16 @@ This event needs to be marketed correctly. The graphic design legwork has been d
 - AZ Central
 - The Chandler Times
 - Arizona Republic
+- East Valley Tribune
+  - Contacted, still waiting to hear back
 - MENSA
   - Contacted, thanks Justin!
 - Gangplank Press
   - Contacted, should go out first week of October
 - Thru the Wires Press
   - Contacted, should go out first week of October
+- \[<http://www.lightningoctopus.com/>\| Lightning Octopus \]
+  - Event will go out first week of October
 
 ## Street Team
 
