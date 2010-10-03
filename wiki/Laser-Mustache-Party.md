@@ -104,6 +104,7 @@ Bookman's Starbucks Xtreme Bean Cartel Silvermine Subs Echo Coffee Goldbar Coffe
 - Gangplank
 - OvenTree
 - DigitalDesert
+- Lightning Octopus
 - HSL GoogleGroups call for sponsors thread
 - Send a quick email to Jeremy or Joyce for Press/Donation Request Letter Template
 - Interested or know someone who would be interested in sponsoring?
