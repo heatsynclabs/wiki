@@ -93,10 +93,10 @@ Bookman's Starbucks Xtreme Bean Cartel Silvermine Subs Echo Coffee Goldbar Coffe
   - Tweet about Mustache Party with the Hashtag MustacheParty
   - Send Joyce mustache pictures for Tweets
   - Include our sponsors
-- Official Website
-  - Feature basic when, where, and what information on a static page with a counter
-  - Include our sponsors
-  - Will and Zach
+- \[www.mustacheparty.org/\| Official Website\]
+  - Features basic when, where, and what information on a static page with a counter
+  - Includes our sponsors
+  - Zach (Digital Desert) and blkhat
 
 ## Sponsors
 
