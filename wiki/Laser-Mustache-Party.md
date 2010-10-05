@@ -52,6 +52,7 @@ This event needs to be marketed correctly. The graphic design legwork has been d
 - Arizona Republic
 - East Valley Tribune
   - Contacted, still waiting to hear back
+  - Submitted to the Get Out Calendar
 - MENSA
   - Contacted, thanks Justin!
 - Gangplank Press
