@@ -59,7 +59,7 @@ This event needs to be marketed correctly. The graphic design legwork has been d
   - Contacted, should go out first week of October
 - Thru the Wires Press
   - Contacted, should go out first week of October
-- \[<http://www.lightningoctopus.com/>\| Lightning Octopus \]
+- [\| Lightning Octopus](http://www.lightningoctopus.com/)
   - Event will go out first week of October
 
 ## Street Team
