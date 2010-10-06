@@ -53,3 +53,11 @@ All skill levels are welcome. Bring your own or use one of Arduino setups on-sit
 Are you the American version of Massimo Banzi, starring Megan Fox and George Clooney? Are you so hardcore about microcontrollers you only use the Arduino platform on your own chips and build your own board? Announce your microcontroller prowess by adding your name here and making it known to the Arduino novice that you're willing to impart your skills with them on Arduino night.
 
 - Billy Mays
+
+## Helpful Links
+
+Main Arduino Project Page:\
+<http://www.arduino.cc/>
+
+Great Arduino Tutorial by Lady Ada:\
+<http://www.ladyada.net/learn/arduino/index.html>
