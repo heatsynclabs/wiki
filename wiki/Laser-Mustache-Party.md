@@ -50,7 +50,7 @@ This event needs to be marketed correctly. The graphic design legwork has been d
 - AZ Central
 - The Chandler Times
 - Arizona Republic
-- East Valley Tribune
+- \[<http://eastvalleytribune.com/>\| East Valley Tribune\]
   - \[<http://ea-www2.eastvalleytribune.com/calendar/details/?eventid=1078>\| Event was posted to the Get Out Calendar, October 6th\]
 - MENSA
   - Contacted, thanks Justin!
