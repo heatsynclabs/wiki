@@ -51,8 +51,7 @@ This event needs to be marketed correctly. The graphic design legwork has been d
 - The Chandler Times
 - Arizona Republic
 - East Valley Tribune
-  - Contacted, still waiting to hear back
-  - Submitted to the \[<http://ea-www2.eastvalleytribune.com/calendar/>\| Get Out Calendar\]
+  - \[<http://ea-www2.eastvalleytribune.com/calendar/details/?eventid=1078>\| Event was posted to the Get Out Calendar, October 6th\]
 - MENSA
   - Contacted, thanks Justin!
 - Gangplank Press
@@ -62,7 +61,7 @@ This event needs to be marketed correctly. The graphic design legwork has been d
 - \[<http://www.lightningoctopus.com/>\| Lightning Octopus \]
   - \[<http://www.lightningoctopus.com/2010/10/mustaches-music-mad-science/>\| Article went out, October 5th \]
 - \[<http://makezine.com/events/>\| MAKE Online\]
-  - \[<http://makezine.com/pub/event/2305>\| Article went out, October 6th\]
+  - \[<http://makezine.com/pub/event/2305>\| Event was posted to the Make Calendar of Events, October 6th\]
 
 ## Street Team
 
