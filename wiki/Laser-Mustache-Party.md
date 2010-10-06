@@ -59,11 +59,10 @@ This event needs to be marketed correctly. The graphic design legwork has been d
   - Contacted, should go out first week of October
 - Thru the Wires Press
   - Contacted, should go out first week of October
-- [\| Lightning Octopus](http://www.lightningoctopus.com/)
-  - [\| Article went out, October 5th](http://www.lightningoctopus.com/2010/10/mustaches-music-mad-science/)
-- MAKE Online
-  - \[<http://makezine.com/events/>\| Make Calendar of Events\]
-  - Contacted, should go out first week of October
+- \[<http://www.lightningoctopus.com/>\| Lightning Octopus \]
+  - \[<http://www.lightningoctopus.com/2010/10/mustaches-music-mad-science/>\| Article went out, October 5th \]
+- \[<http://makezine.com/events/>\| MAKE Online\]
+  - \[<http://makezine.com/pub/event/2305>\| Article went out, October 6th\]
 
 ## Street Team
 
