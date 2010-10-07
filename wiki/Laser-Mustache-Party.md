@@ -58,7 +58,9 @@ This event needs to be marketed correctly. The graphic design legwork has been d
   - Contacted, should go out first week of October
 - Thru the Wires Press
   - Contacted, should go out third week of October
-  - AZEDM, Don't Stay In, Drumcore, Going.com, Napkin Nights, Resident Advisor, The Shizz, Silver Platter, 2 Myspaces, Facebook
+  - AZEDM
+  - \[<http://www.dontstayin.com/usa/AZ/phoenix/gangplank-hq/2010/oct/23/event-245977/>\| Don't Stay In\]
+  - Drumcore, Going.com, Napkin Nights, Resident Advisor, The Shizz, Silver Platter, 2 Myspaces, Facebook
 - \[<http://www.lightningoctopus.com/>\| Lightning Octopus \]
   - \[<http://www.lightningoctopus.com/2010/10/mustaches-music-mad-science/>\| Article went out, October 5th \]
 - \[<http://makezine.com/events/>\| MAKE Online\]
