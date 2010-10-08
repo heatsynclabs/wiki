@@ -78,6 +78,8 @@ Magnet wire and wooden dowel. Target 10mH. Separate winding layers with an insul
 
 Note: Will has supplied dowels of about 1/2" dia. left near the lathe, and Zach has magnet wire on the floor near the lathe.
 
+question: how many winding layers of how many turns each?
+
 </div>
 
 ## Protection Capacitors (NEED)
