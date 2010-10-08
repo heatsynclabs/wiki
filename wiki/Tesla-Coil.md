@@ -78,7 +78,14 @@ Provides a high impedance to RF in order to contain the RF within the tank circu
 
 Magnet wire and wooden dowel. Target 10mH. Separate winding layers with an insulator to keep arcs from forming between the input and the output (which will have kilovolt potential differences)
 
-**Note: Will has supplied dowels of about 1/2" dia. left near the lathe, and Zach has magnet wire on the floor near the lathe. Zach has supplied 3ft of 5/8" dowel as well.** question: how many winding layers of how many turns each?
+**Note: Will has supplied dowels of about 1/2" dia. left near the lathe, and Zach has magnet wire on the floor near the lathe. Zach has supplied 3ft of 5/8" dowel as well.**
+
+  
+  
+question: how many winding layers of how many turns each?
+
+  
+As many turns as you can fit in a 4 inch length, make three layers and measure the inductance. We will go from there!
 
 </div>
 
