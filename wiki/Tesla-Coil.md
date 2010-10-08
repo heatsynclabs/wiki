@@ -118,7 +118,9 @@ Set each into a small wooden slat and use the threaded nature of the rods to tun
 Question: please elaborate on the construction/arrangement of the pieces, I.e. what do you mean by slat, how should the threading work, where do the rods go in relation to each other.
 
   
-All three pieces will be end to end with a support in the center of each piece and a gap between the sections. The support will have a hole in it to match the rod, so that it may be adjusted back and forth simply by rotating. It might make sense to center and tightly affix the centeral section.
+All three pieces will be end to end with a support in the center of each piece and a gap between the sections. The support will have a hole in it to match the rod,
+
+so that it may be adjusted back and forth simply by rotating. It might make sense to center and tightly affix the centeral section.
 
 **Note: Zach has supplied 1/4"-20 threaded rod.**
 
