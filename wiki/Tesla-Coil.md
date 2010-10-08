@@ -6,7 +6,7 @@ We would like to build a tesla coil for the mustache laser party (and beyond!)
 
 \<Insert schematic here\>
 
-# Componants
+# Components
 
 ## Secondary Coil
 
@@ -14,7 +14,7 @@ A secondary wound on an 8" piece of green PVC is already available for use. \<in
 
 ## Primary Coil
 
-A flat inductor used as a resonantor within the LC tank circuit which is magnetically coupled to the secondary. Needs to be tuned with the main capacitor to the resonant frequency of the secondary LC circuit.
+A flat inductor used as a resonator within the LC tank circuit which is magnetically coupled to the secondary. Needs to be tuned with the main capacitor to the resonant frequency of the secondary LC circuit.
 
 ### Materials needed
 
@@ -30,7 +30,7 @@ Discharges the energy stored in the main capacitor into the tank circuit. Forms 
 
 ### Materials needed
 
-10x 1/2" to 1" copper pipe sections attached to a flat surface layed in parallel to form multiple small gaps of 1/8" to 1/4". Tuneable to using aligator clips to select different sections of pipe.
+10x 1/2" to 1" copper pipe sections attached to a flat surface lain in parallel to form multiple small gaps of 1/8" to 1/4". Tuneable to using aligator clips to select different sections of pipe.
 
 ## Protection Inductors (RF Chokes)
 
@@ -38,7 +38,7 @@ Provides a high impedance to RF in order to contain the RF within the tank circu
 
 ### Materials needed
 
-Magnet wire and wooden dowel. Target 10mH. Separate winding layers with an insulator to keep arcs from forming between the input and the output (which will have kilovolt potential ifferences)
+Magnet wire and wooden dowel. Target 10mH. Separate winding layers with an insulator to keep arcs from forming between the input and the output (which will have kilovolt potential differences)
 
 ## Protection Capacitors
 
@@ -54,4 +54,4 @@ A simple tunable spark gap consisting of a grounded middle section with a gap on
 
 ### Materials needed
 
-Three pieces of threaded rod, 1 to 2" long and poished as round as possible (to provide an even E field and predicable breakdown voltage)
+Three pieces of threaded rod, 1 to 2" long and polished as round as possible (to provide an even E field and predictable breakdown voltage)
