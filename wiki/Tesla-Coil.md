@@ -1,0 +1,57 @@
+# Project Synopsis
+
+We would like to build a tesla coil for the mustache laser party (and beyond!)
+
+## Design Summary
+
+\<Insert schematic here\>
+
+# Componants
+
+## Secondary Coil
+
+A secondary wound on an 8" piece of green PVC is already available for use. \<insert details of wire and length here\>
+
+## Primary Coil
+
+A flat inductor used as a resonantor within the LC tank circuit which is magnetically coupled to the secondary. Needs to be tuned with the main capacitor to the resonant frequency of the secondary LC circuit.
+
+### Materials needed
+
+Small copper tubing in a flat spiral. 10-15 turns at 3/4" to 1" inch spacing starting at an 11"-12" diameter.
+
+## Transformer
+
+A 12KV 30mA neon sign transformer and an 18KV (current rating unknown) transformer are available for use.
+
+## Spark Gap
+
+Discharges the energy stored in the main capacitor into the tank circuit. Forms the trigger for the relaxation oscillator once the capacitor charges to a specific voltage.
+
+### Materials needed
+
+10x 1/2" to 1" copper pipe sections attached to a flat surface layed in parallel to form multiple small gaps of 1/8" to 1/4". Tuneable to using aligator clips to select different sections of pipe.
+
+## Protection Inductors (RF Chokes)
+
+Provides a high impedance to RF in order to contain the RF within the tank circuit. Allows 60hz to pass unimpeded.
+
+### Materials needed
+
+Magnet wire and wooden dowel. Target 10mH. Separate winding layers with an insulator to keep arcs from forming between the input and the output (which will have kilovolt potential ifferences)
+
+## Protection Capacitors
+
+These shunt any RF energy that passes the RF chokes to ground instead of injecting it into the transformer secondary.
+
+### Materials needed
+
+Two Old English 800 beer bottles, salt water, AL foil.
+
+## Protection Spark Gap
+
+A simple tunable spark gap consisting of a grounded middle section with a gap on either side to each leg of the transformer's differential output.
+
+### Materials needed
+
+Three pieces of threaded rod, 1 to 2" long and poished as round as possible (to provide an even E field and predicable breakdown voltage)
