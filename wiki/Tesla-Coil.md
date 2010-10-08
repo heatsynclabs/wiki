@@ -109,7 +109,9 @@ A simple tunable spark gap consisting of a grounded middle section with a gap on
 
 #### Materials needed
 
-Three pieces of threaded rod, 1 to 2" long and polished as round as possible (to provide an even E field and predictable breakdown voltage). Set each into a small wooden slat and use the threaded nature of the rods to tune the gaps. Or something like that.
+Three pieces of threaded rod, 1 to 2" long and polished as round as possible (to provide an even E field and predictable breakdown voltage).
+
+Set each into a small wooden slat and use the threaded nature of the rods to tune the gaps. Or something like that.
 
   
   
