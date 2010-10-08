@@ -86,4 +86,16 @@ Three pieces of threaded rod, 1 to 2" long and polished as round as possible (to
 
 </div>
 
+## Discharge Terminal
+
+<div style="text-indent:75px">
+
+A smooth conductive surface to use as a capacitor in the LC secondary resonator assembly. A jack-O-electrons.
+
+#### Materials needed
+
+Pumpking, knife, evil
+
+</div>
+
 </div>
