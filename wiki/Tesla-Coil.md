@@ -76,6 +76,8 @@ Provides a high impedance to RF in order to contain the RF within the tank circu
 
 Magnet wire and wooden dowel. Target 10mH. Separate winding layers with an insulator to keep arcs from forming between the input and the output (which will have kilovolt potential differences)
 
+Note: Will has supplied dowels of about 1/2" dia. left near the lathe, and Zach has magnet wire on the floor near the lathe.
+
 </div>
 
 ## Protection Capacitors (NEED)
