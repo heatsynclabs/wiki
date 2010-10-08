@@ -50,6 +50,18 @@ Discharges the energy stored in the main capacitor into the tank circuit. Forms 
 
 </div>
 
+## Main Capacitor
+
+<div style="text-indent:75px">
+
+Stores energy until a certain voltage is reached, then discharges through the main spark gap and sets up a resonance between the primary coil.
+
+An exponentially decaying RF waveform is produced until the energy is dissapated, recharging begins at the next 60Hz peak (discharge is therefore at 120Hz).
+
+We already have a 30nF 35KV maxwell pulse capacitor designed for high frequency use.
+
+</div>
+
 ## Protection Inductors (RF Chokes)
 
 <div style="text-indent:75px">
