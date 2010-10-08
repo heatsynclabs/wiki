@@ -18,7 +18,7 @@ A secondary wound on an 8" piece of green PVC is already available for use. \<in
 
 </div>
 
-## Primary Coil
+## Primary Coil (NEED)
 
 <div style="text-indent:75px">
 
@@ -26,7 +26,7 @@ A flat inductor used as a resonator within the LC tank circuit which is magnetic
 
 #### Materials needed
 
-Small copper tubing in a flat spiral. 10-15 turns at 3/4" to 1" inch spacing starting at an 11"-12" diameter.
+2 ft square of plywood to mount. a number of radial supports to hold spiral shape in place. Small copper tubing in a flat spiral. 10-15 turns at 3/4" to 1" inch spacing starting at an 11"-12" diameter.
 
 </div>
 
@@ -38,7 +38,7 @@ A 12KV 30mA neon sign transformer and an 18KV (current rating unknown) transform
 
 </div>
 
-## Spark Gap
+## Spark Gap (NEED)
 
 <div style="text-indent:75px">
 
@@ -62,7 +62,7 @@ We already have a 30nF 35KV maxwell pulse capacitor designed for high frequency 
 
 </div>
 
-## Protection Inductors (RF Chokes)
+## Protection Inductors (NEED)
 
 <div style="text-indent:75px">
 
@@ -74,7 +74,7 @@ Magnet wire and wooden dowel. Target 10mH. Separate winding layers with an insul
 
 </div>
 
-## Protection Capacitors
+## Protection Capacitors (NEED)
 
 <div style="text-indent:75px">
 
@@ -86,7 +86,7 @@ Two Old English 800 beer bottles, salt water, AL foil.
 
 </div>
 
-## Protection Spark Gap
+## Protection Spark Gap (NEED)
 
 <div style="text-indent:75px">
 
@@ -94,11 +94,11 @@ A simple tunable spark gap consisting of a grounded middle section with a gap on
 
 #### Materials needed
 
-Three pieces of threaded rod, 1 to 2" long and polished as round as possible (to provide an even E field and predictable breakdown voltage)
+Three pieces of threaded rod, 1 to 2" long and polished as round as possible (to provide an even E field and predictable breakdown voltage). Set each into a small wooden slat and use the threaded nature of the rods to tune the gaps. Or something like that.
 
 </div>
 
-## Discharge Terminal
+## Discharge Terminal (NEED)
 
 <div style="text-indent:75px">
 
