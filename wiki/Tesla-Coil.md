@@ -28,6 +28,8 @@ A flat inductor used as a resonator within the LC tank circuit which is magnetic
 
 2 ft square of plywood to mount. a number of radial supports to hold spiral shape in place. Small copper tubing in a flat spiral. 10-15 turns at 3/4" to 1" inch spacing starting at an 11"-12" diameter.
 
+Suitable aligator clip for tuning
+
 </div>
 
 ## Transformer
@@ -47,6 +49,8 @@ Discharges the energy stored in the main capacitor into the tank circuit. Forms 
 #### Materials needed
 
 10x 1/2" to 1" copper pipe sections attached to a flat surface lain in parallel to form multiple small gaps of 1/8" to 1/4". Tuneable to using aligator clips to select different sections of pipe.
+
+Aligator clips
 
 </div>
 
