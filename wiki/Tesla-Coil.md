@@ -85,7 +85,7 @@ Magnet wire and wooden dowel. Target 10mH. Separate winding layers with an insul
 question: how many winding layers of how many turns each?
 
   
-As many turns as you can fit in a 4 inch length, make three layers and measure the inductance. We will go from there!
+As many side-by-side turns as you can fit in a 4 inch length, make three layers and measure the inductance. We will go from there!
 
 </div>
 
