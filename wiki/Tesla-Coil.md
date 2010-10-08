@@ -54,6 +54,8 @@ Aligator clips
 
 Note: Zach has supplied 2ft of 1/2" copper pipe.
 
+</div>
+
 ## Main Capacitor
 
 <div style="text-indent:75px">
