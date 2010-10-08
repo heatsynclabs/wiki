@@ -40,7 +40,7 @@ A 12KV 30mA neon sign transformer and an 18KV (current rating unknown) transform
 
 </div>
 
-## Spark Gap (NEED) (PAUL)
+## Spark Gap (NEED)
 
 <div style="text-indent:75px">
 
