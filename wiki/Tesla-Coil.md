@@ -38,7 +38,7 @@ Suitable aligator clip for tuning
 
 <div style="text-indent:75px">
 
-A 12KV 30mA neon sign transformer and an 18KV (current rating unknown) transformer are available for use.
+A 12KV 30mA neon sign transformer and an 12KV 60mA transformer are available for use.
 
 </div>
 
