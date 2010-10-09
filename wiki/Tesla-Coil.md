@@ -30,6 +30,8 @@ A flat inductor used as a resonator within the LC tank circuit which is magnetic
 
 Suitable aligator clip for tuning
 
+**Note:** 50' of 1/4" copper tubing and battery clips acquired.
+
 </div>
 
 ## Transformer
