@@ -91,7 +91,7 @@ As many side-by-side turns as you can fit in a 4 inch length, make three layers 
 
 </div>
 
-## Protection Capacitors
+## Protection Capacitors (NEED)
 
 <div style="text-indent:75px">
 
