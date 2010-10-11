@@ -18,7 +18,7 @@ A secondary wound on an 8" piece of green PVC is already available for use. \<in
 
 </div>
 
-## Primary Coil (NEED)
+## Primary Coil (Harry)
 
 <div style="text-indent:75px">
 
@@ -99,11 +99,11 @@ These shunt any RF energy that passes the RF chokes to ground instead of injecti
 
 #### Materials needed
 
-Two Old English 800 beer bottles, salt water, AL foil.
+Two Old English 800 beer bottles, salt water, AL foil. **Note: Jeremy Leung has supplied two OE 800 bottles**
 
 </div>
 
-## Protection Spark Gap (NEED)
+## Protection Spark Gap (Jasper)
 
 <div style="text-indent:75px">
 
@@ -124,7 +124,7 @@ All three pieces will be end to end with a support in the center of each piece a
 
 so that it may be adjusted back and forth simply by rotating. It might make sense to center and tightly affix the centeral section.
 
-**Note: Zach has supplied 1/4"-20 threaded rod.**
+**Note: Zach has supplied 1/4"-20 threaded rod.** **Note: Jasper has finished the protection spark gap as of 10/10/2010**
 
 </div>
 
