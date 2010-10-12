@@ -141,3 +141,8 @@ Pumpking, knife, evil
 </div>
 
 </div>
+
+# Reference
+
+Wireless World - March 1995 - by Malcolm Watts\
+<http://www.scribd.com/doc/12711857/tesla1>
