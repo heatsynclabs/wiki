@@ -170,6 +170,7 @@ Local Maker Projects:
 - Todd's Homemade Van De Graaff Generator
 - Rene's Modded Motorcycle
 - Justin's Solar Trike
+- Near Space Balloon I
 
 # Funding
 
