@@ -52,9 +52,11 @@ RapMan Is Selling a David Laser Scanner Package:\
 
 ### Open Source Projects
 
-<http://www.makerscanner.com/>
-
+MakerBot Industries Attempt at a Scanner <http://www.makerscanner.com/>\
 <http://wiki.makerbot.com/makerscanner>
+
+MakerBot Cyclops - 3D Scanner Mount:\
+<http://www.thingiverse.com/thing:4271>
 
 ### Current News
 
