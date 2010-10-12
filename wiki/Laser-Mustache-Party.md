@@ -50,12 +50,13 @@ This event needs to be marketed correctly. The graphic design legwork has been d
 - AZ Central
 - The Chandler Times
 - Arizona Republic
+  - Contacted, submitted to the \[<http://www.azcentral.com/thingstodo/>\| Events Calendar\]
 - \[<http://eastvalleytribune.com/>\| East Valley Tribune\]
   - \[<http://ea-www2.eastvalleytribune.com/calendar/details/?eventid=1078>\| Event was posted to the Get Out Calendar, October 6th\]
 - MENSA
   - Contacted, thanks Justin!
 - Gangplank Press
-  - Contacted, should go out first week of October
+  - Contacted, went out first week of October
 - Thru the Wires Press
   - Contacted, should go out third week of October
   - AZEDM
