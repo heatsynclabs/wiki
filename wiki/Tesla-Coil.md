@@ -146,3 +146,6 @@ Pumpking, knife, evil
 
 Wireless World - March 1995 - by Malcolm Watts\
 <http://www.scribd.com/doc/12711857/tesla1>
+
+How Tesla Coils Work by Chris from The Geek Group:\
+<http://www.youtube.com/watch?v=W_7fgcnzhmw>
