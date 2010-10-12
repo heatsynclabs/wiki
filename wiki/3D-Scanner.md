@@ -50,6 +50,12 @@ NextEngine:\
 RapMan Is Selling a David Laser Scanner Package:\
 <http://www.rap-man.com/david3d.asp>
 
+### Open Source Projects
+
+<http://www.makerscanner.com/>
+
+<http://wiki.makerbot.com/makerscanner>
+
 ### Current News
 
 <http://blog.makezine.com/archive/2010/03/letters_from_the_fab_academy_part_4.html>
