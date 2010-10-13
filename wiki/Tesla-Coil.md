@@ -8,7 +8,7 @@ Traditional Basic Tesla Coil Configuration:\
 ![basictc.jpg](files/Basictc.jpg)
 
 Our configuration:\
-\<Insert Diagram Here\>
+![Our_coil.png](files/Our_coil.png)
 
 ## Estimated Voltage Output
 
