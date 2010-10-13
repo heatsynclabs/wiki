@@ -12,7 +12,7 @@ Our configuration:\
 
 ## Estimated Voltage Output
 
-The energy in the cap bank is 1/2 \*C \* V^2 when it fires. For our capacitor bank that will be 0.5 \* 35nF \* 16968V^2 (16968V is the peak voltage of a 12KVRMS transformer) Which is 5 joules of energy. Assuming that the energy is coupled 100% to the secondary, which it will not be, the voltage gain can be calculated using the same equation on the secondary capacitance A 16" pumpkin has a free space capacitance of 45.607pf If we solve for voltage using the 5 joules, we now get E = 1/2 \*C \* V^2 5 = 1/2 \* 45.6pF\*V^2 V = 468,292 Volts
+The energy in the cap bank is 1/2 \*C \* V^2 when the spark gap fires. For our capacitor bank and a 12KVRMS transformer that will be 0.5 \* 35nF \* 16968V^2 = 5joules Assuming that the energy is coupled 100% to the secondary, which it will not be, the voltage gain can be calculated using the same equation on the secondary capacitance; A 16" pumpkin has a free space capacitance of 45.607pf. Solving for voltage using 5 joules, we now get: E = 1/2 \*C \* V^2 5 = 1/2 \* 45.6pF\*V^2 V = 468,292 Volts
 
 Ballpark estimate as electric field shape and coupling to everything in the room will cause shifts from the ideal case.
 
