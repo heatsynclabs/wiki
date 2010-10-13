@@ -24,7 +24,7 @@ Ballpark estimate as electric field shape and coupling to everything in the room
 
 <div style="text-indent:75px">
 
-A secondary wound on an 8" piece of green PVC is already available for use. \<insert details of wire and length here\>
+A secondary wound on an 8" piece of green PVC is already available for use. Actual coil measurements are 6.25" diameter, 22" high, and approx 28turns per inch.
 
 </div>
 
