@@ -34,6 +34,8 @@ A secondary wound on an 8" piece of green PVC is already available for use. Actu
 
 A flat inductor used as a resonator within the LC tank circuit which is magnetically coupled to the secondary. Needs to be tuned with the main capacitor to the resonant frequency of the secondary LC circuit.
 
+</div>
+
 #### Materials Still Needed
 
 - 2 ft square of plywood to mount.
@@ -64,8 +66,6 @@ An additional series of holes were added to allow the creation of a strike rail 
 - Construct strike rail.
 - Drill a hole and create the fixed primary connection at the innermost ring
 - Connect to other primary circuit components
-
-</div>
 
 ## Transformer
 
