@@ -18,54 +18,66 @@ Ballpark estimate as electric field shape and coupling to everything in the room
 
 # Components
 
-<div style="text-indent:50px">
-
 ## Secondary Coil
 
-<div style="text-indent:75px">
-
+  
 A secondary wound on an 8" piece of green PVC is already available for use. Actual coil measurements are 6.25" diameter, 22" high, and approx 28turns per inch.
-
-</div>
 
 ## Primary Coil (Harry)
 
-<div style="text-indent:75px">
-
+  
 A flat inductor used as a resonator within the LC tank circuit which is magnetically coupled to the secondary. Needs to be tuned with the main capacitor to the resonant frequency of the secondary LC circuit.
-
-</div>
 
 #### Materials Still Needed
 
-- 2 ft square of plywood to mount.
-- 6 x 1/4" nylon nuts and bolts for strike rail
+::\*2 ft square of plywood to mount.
+
+::\*6 x 1/4" nylon nuts and bolts for strike rail
 
 #### Build Notes
 
 **Acquired Materials:**
 
-- 50' of 1/4" copper tubing (Lowes ~\$25).
-- A large 20"x12" HDPE kitchen cutting board (Frys \$10)
-- 10' of 3/8" copper tube for strike rail (Lowes \$12)
-- Medium battery clips for tapping point connection (Lowes \$3)
+::\*50' of 1/4" copper tubing (Lowes ~\$25).
 
+::\*A large 20"x12" HDPE kitchen cutting board (Frys \$10)
+
+::\*10' of 3/8" copper tube for strike rail (Lowes \$12)
+
+::\*Medium battery clips for tapping point connection (Lowes \$3)
+
+  
 **Notes:** See [DeepFriedNeon](http://deepfriedneon.com/tesla_f_primary.html) Primary Coil Page for example with images.
 
+<!-- -->
+
+  
 Cut the cutting board into six 20"x1" strips and drilled with 5/16" holes at .75" intervals for coil support rods.
 
-To wind the copper tube through the rods place the tubing on a flat surface and arrange the tube into an approximation of the coil first. Then working from the innermost end of the coil and the outermost hole of the rods, thread the rods around the tube. It's important to pay attention to the inner ring diameter. This method may expand the inner diameter as you turn.
+<!-- -->
 
+  
+To wind the copper tube through the rods place the tubing on a flat surface and arrange the tube into an approximation of the coil first.Then working from the innermost end of the coil and the outermost hole of the rods, thread the rods around the tube. It's important to pay attention to the inner ring diameter. This method may expand the inner diameter as you turn.
+
+<!-- -->
+
+  
 An additional series of holes were added to allow the creation of a strike rail to absorb any stray streamers that might hit the primary and damage the primary circuit components.
 
+<!-- -->
+
+  
 **Measurements:**Inner Diameter 11.5", Turn spacing .5", Number of Turns 10
 
 #### To Do
 
-- Acquire and mount the coil to plywood
-- Construct strike rail.
-- Drill a hole and create the fixed primary connection at the innermost ring
-- Connect to other primary circuit components
+::\*Acquire and mount the coil to plywood
+
+::\*Construct strike rail.
+
+::\*Drill a hole and create the fixed primary connection at the innermost ring
+
+::\*Connect to other primary circuit components
 
 ## Transformer
 
@@ -170,8 +182,6 @@ A smooth conductive surface to use as a capacitor in the LC secondary resonator 
 #### Materials needed
 
 Pumpking, knife, evil
-
-</div>
 
 </div>
 
