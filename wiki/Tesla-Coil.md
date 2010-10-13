@@ -149,3 +149,8 @@ Wireless World - March 1995 - by Malcolm Watts\
 
 How Tesla Coils Work by Chris from The Geek Group:\
 <http://www.youtube.com/watch?v=W_7fgcnzhmw>
+
+and
+
+A Little Bit More In Depth on Resonance and Tesla Coil Basics by Chris:\
+<http://www.youtube.com/watch?v=fT5_MmeSeDU&NR=1>
