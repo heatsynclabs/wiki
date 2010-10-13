@@ -4,9 +4,11 @@ We would like to build a tesla coil for the mustache laser party (and beyond!)
 
 ## Design Summary
 
-![](files/Basictc.jpg)
+Traditional Basic Tesla Coil Configuration:\
+![basictc.jpg](files/Basictc.jpg)
 
-*basictc.jpg*
+Our configuration:\
+\<Insert Diagram Here\>
 
 # Components
 
