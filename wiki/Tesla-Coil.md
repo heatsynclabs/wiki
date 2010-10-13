@@ -177,11 +177,11 @@ so that it may be adjusted back and forth simply by rotating. It might make sens
 
 <div style="text-indent:75px">
 
-A smooth conductive surface to use as a capacitor in the LC secondary resonator assembly. A jack-O-electrons.
+A smooth conductive surface to use as a capacitor in the LC secondary resonator assembly. A jack-O-electrons. Let's carve a freakin' pumpkin!
 
 #### Materials needed
 
-Pumpking, knife, evil
+Pumpkin, knife, evil
 
 </div>
 
