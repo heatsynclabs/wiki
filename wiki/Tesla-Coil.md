@@ -4,7 +4,7 @@ We would like to build a tesla coil for the mustache laser party (and beyond!)
 
 ## Design Summary
 
-\<Insert schematic here\>
+\<Insert schematic here\> ![basictc.jpg](files/Basictc.jpg)
 
 # Components
 
