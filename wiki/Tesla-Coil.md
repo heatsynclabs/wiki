@@ -30,9 +30,9 @@ A flat inductor used as a resonator within the LC tank circuit which is magnetic
 
 #### Materials Still Needed
 
-::\*2 ft square of plywood to mount.
-
 ::\*6 x 1/4" nylon nuts and bolts for strike rail
+
+::\*12 x zip ties
 
 #### Build Notes
 
@@ -45,6 +45,8 @@ A flat inductor used as a resonator within the LC tank circuit which is magnetic
 ::\*10' of 3/8" copper tube for strike rail (Lowes \$12)
 
 ::\*Medium battery clips for tapping point connection (Lowes \$3)
+
+::\*2 ft square of plywood to mount. (Jasper)
 
   
 **Notes:** See [DeepFriedNeon](http://deepfriedneon.com/tesla_f_primary.html) Primary Coil Page for example with images.
@@ -67,15 +69,20 @@ An additional series of holes were added to allow the creation of a strike rail 
 <!-- -->
 
   
+Holes drilled at locations around the plywood to zip tie the support rods down.
+
+<!-- -->
+
+  
 **Measurements:**Inner Diameter 11.5", Turn spacing .5", Number of Turns 10
 
 #### To Do
 
-::\*Acquire and mount the coil to plywood
+::\*mount the coil to plywood
 
 ::\*Construct strike rail.
 
-::\*Drill a hole and create the fixed primary connection at the innermost ring
+::\*create the fixed primary connection at the innermost ring
 
 ::\*Connect to other primary circuit components
 
