@@ -28,8 +28,6 @@ Please note that the meeting minutes for the monthly meetings are now being docu
 
 ### August
 
-### October
-
 # August 12, 2010
 
 HSL Board Mtg August 12, 2010 Jeremy, Jose, Rick, Andrea, Jacob, Joyce, David, Will (via Skype)
