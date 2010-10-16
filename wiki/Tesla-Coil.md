@@ -28,12 +28,6 @@ A secondary wound on an 8" piece of green PVC is already available for use. Actu
   
 A flat inductor used as a resonator within the LC tank circuit which is magnetically coupled to the secondary. Needs to be tuned with the main capacitor to the resonant frequency of the secondary LC circuit.
 
-#### Materials Still Needed
-
-::\*6 x 1/4" nylon nuts and bolts for strike rail
-
-::\*12 x zip ties
-
 #### Build Notes
 
 **Acquired Materials:**
@@ -47,6 +41,12 @@ A flat inductor used as a resonator within the LC tank circuit which is magnetic
 ::\*Medium battery clips for tapping point connection (Lowes \$3)
 
 ::\*2 ft square of plywood to mount. (Jasper)
+
+::\*6 x 1/4" nylon nuts and bolts for strike rail (Lowes approx \$4.86)
+
+::\*12 x zip ties
+
+::\*Black spray paint
 
   
 **Notes:** See [DeepFriedNeon](http://deepfriedneon.com/tesla_f_primary.html) Primary Coil Page for example with images.
@@ -66,25 +66,17 @@ To wind the copper tube through the rods place the tubing on a flat surface and 
   
 An additional series of holes were added to allow the creation of a strike rail to absorb any stray streamers that might hit the primary and damage the primary circuit components.
 
-<!-- -->
-
-  
-Holes drilled at locations around the plywood to zip tie the support rods down.
+For the strike rail cut off excess length of support rods, leaving 1 extra hole, turn perpendicular to the rest of the rods, and drill a 3/8" hole for the copper tube. Attach these smaller rods to the main supports with nylon nuts and bolts through the extra hole in the end of the support rods.
 
 <!-- -->
 
   
-**Measurements:**Inner Diameter 11.5", Turn spacing .5", Number of Turns 10
+In the plywood: holes drilled at locations around the plywood to zip tie the support rods down, 1 hole for the primary connection, and a center hole for secondary coil ground wire.
 
-#### To Do
+<!-- -->
 
-::\*mount the coil to plywood
-
-::\*Construct strike rail.
-
-::\*create the fixed primary connection at the innermost ring
-
-::\*Connect to other primary circuit components
+  
+**Measurements:**Inner Diameter 11", Turn spacing .5", Number of Turns 10
 
 ## Transformer
 
