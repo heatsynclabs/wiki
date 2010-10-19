@@ -84,6 +84,8 @@ In the plywood: holes drilled at locations around the plywood to zip tie the sup
 
 A 12KV 30mA neon sign transformer and an 12KV 60mA transformer are available for use.
 
+We killed the 12KV 60mA NST after about 10 seconds of total use and the protection inductors shorted and caught fire. A very old unit, the tar is very dry. Its not surprising that it died. It was depotted and brought back to life. An oven re-heat killed the shorted coil again, though a tar-paper unwrap and fishing out some broken windings brought it back again. The output current was increased to ~123mA by knocking out some of the magnetic shunts and the whole thing was submerged in mineral oil. Stay tuned for performance under Tesla Coil conditions...
+
 </div>
 
 ## Spark Gap (NEED)
