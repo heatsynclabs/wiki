@@ -84,11 +84,13 @@ In the plywood: holes drilled at locations around the plywood to zip tie the sup
 
 A 12KV 30mA neon sign transformer and an 12KV 60mA transformer are available for use.
 
+#### Building Notes
+
 We killed the 12KV 60mA NST after about 10 seconds of total use and the protection inductors shorted and caught fire. A very old unit, the tar is very dry. Its not surprising that it died. It was depotted and brought back to life. An oven re-heat killed the shorted coil again, though a tar-paper unwrap and fishing out some broken windings brought it back again. The output current was increased to ~123mA by knocking out some of the magnetic shunts and the whole thing was submerged in mineral oil. Stay tuned for performance under Tesla Coil conditions...
 
 </div>
 
-## Spark Gap (NEED)
+## Spark Gap (Harry)
 
 <div style="text-indent:75px">
 
@@ -116,7 +118,7 @@ We already have a 30nF 35KV maxwell pulse capacitor designed for high frequency 
 
 </div>
 
-## Protection Inductors (NEED)
+## Protection Inductors (Jasper / Paul)
 
 <div style="text-indent:75px">
 
@@ -135,9 +137,13 @@ question: how many winding layers of how many turns each?
   
 As many side-by-side turns as you can fit in a 4 inch length, make three layers and measure the inductance. We will go from there!
 
+#### Building Notes
+
+The original inductors actually melted and caught fire during the first wave of 100% power testing for the tesla coil. 26 AWG magnetic wire per pound was \$18 and each roll has a total inductance of 163mH. These should make very nice chokes as long as they don't start arcing. If they do, they can be submerged in mineral oil or vaseline.
+
 </div>
 
-## Protection Capacitors (NEED)
+## Protection Capacitors (Jasper)
 
 <div style="text-indent:75px">
 
@@ -174,7 +180,7 @@ so that it may be adjusted back and forth simply by rotating. It might make sens
 
 </div>
 
-## Discharge Terminal (NEED)
+## Discharge Terminal (Paul)
 
 <div style="text-indent:75px">
 
