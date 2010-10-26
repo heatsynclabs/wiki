@@ -171,36 +171,7 @@ RadioShack Realistic HTX-202. It's a pretty rugged hand held radio. It has a BNC
 
 #### Camera
 
-The camera that was flown on the mission was a Canon PowerShot A570is containing a 4GB SD card. The firmware had been replaced with the [CHDK](http://chdk.wikia.com/wiki/CHDK) variant called SDM [Stereo Data Maker](http://stereo.jpn.org/eng/sdm/index.htm) to allow for both video and still images to be taken during the flight. The code used in the camera is as follows:
-
-- - 
-
-@title SyncFleet HAB set_sync 0 0 0 0 rem \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* rem \*\*\* This will take a 60 rem \*\*\* second clip of video then a series rem \*\*\* of six still images over rem \*\*\* apx six minutes then rem \*\*\* then sleep for 90 seconds rem \*\*\* before looping. rem \*\*\* Total loop time apx 8.5 minutes. rem \*\*\* Est. number of loops on a 2.5 hour trip is 17.5. rem \*\*\* 17 clips and 105 photos. rem \*\*\* (John Kittelsrud 2010-08) rem \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* rem \*\*\*\*\* Turn off backlight and LCD to save power turn_backlight_off lcd_on_off beep sleep_for_seconds 1 beep sleep_for_seconds 1 beep sleep_for_seconds 1
-
-  
-loop
-
-`   rem ***** Set the focus to INF or 65 meters`
-
-set_focus_to 65000
-
-"Movie sign!" beep sleep_for 500 beep sleep_for 500 shoot_movie_for 60 "Sleeping for 90 sec to save movie" sleep_for_seconds 90
-
-for s=1 to 6
-
-`   "Shooting"`
-
-beep
-
-`   shoot`\
-`   "Shot taken"`\
-`   "Sleeping in S loop for 60 sec"`\
-`   sleep_for_seconds 60`\
-`   "Sleeping in S loop for 60 sec" `
-
-next s goto "loop"
-
-- - 
+The camera that was flown on the mission was a Canon PowerShot A570is containing a 4GB SD card. The firmware had been replaced with the [CHDK](http://chdk.wikia.com/wiki/CHDK) variant called SDM [Stereo Data Maker](http://stereo.jpn.org/eng/sdm/index.htm) to allow for both video and still images to be taken during the flight. The code used in the camera is as follows: \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* @title SyncFleet HAB set_sync 0 0 0 0 rem \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* rem \*\*\* This will take a 60 rem \*\*\* second clip of video then a series rem \*\*\* of six still images over rem \*\*\* apx six minutes then rem \*\*\* then sleep for 90 seconds rem \*\*\* before looping. rem \*\*\* Total loop time apx 8.5 minutes. rem \*\*\* Est. number of loops on a 2.5 hour trip is 17.5. rem \*\*\* 17 clips and 105 photos. rem \*\*\* (John Kittelsrud 2010-08) rem \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* rem \*\*\*\*\* Turn off backlight and LCD to save power turn_backlight_off lcd_on_off beep sleep_for_seconds 1 beep sleep_for_seconds 1 beep sleep_for_seconds 1 :loop rem \*\*\*\*\* Set the focus to INF or 65 meters set_focus_to 65000 "Movie sign!" beep sleep_for 500 beep sleep_for 500 shoot_movie_for 60 "Sleeping for 90 sec to save movie" sleep_for_seconds 90 for s=1 to 6 "Shooting" beep shoot "Shot taken" "Sleeping in S loop for 60 sec" sleep_for_seconds 60 "Sleeping in S loop for 60 sec" next s goto "loop" \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 #### Flight Computer
 
