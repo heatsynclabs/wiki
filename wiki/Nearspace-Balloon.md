@@ -121,14 +121,14 @@ This is a check list of final tasks, supplies and duties. Some tasks are not ass
 | Task         | Name                  | Completed? |
 |--------------|-----------------------|------------|
 | Balloon      | Paul H                | No         |
-| Camera       | Will B                | No         |
+| Camera       | John K                | Yes        |
 | Helium       | Paul H                | Yes        |
 | Parachute    | Casey D               | No         |
 | Container    | Rick O / Bobby / Nate | No         |
 | Radio        | Rick O                | No         |
 | GPS          | Zach                  | Yes        |
-| Buzzer       | John                  | No         |
-| Camera timer | Todd                  | No         |
+| Buzzer       | John K                | Yes        |
+| Camera timer | John K                | Yes        |
 
 ## Synopsis
 
