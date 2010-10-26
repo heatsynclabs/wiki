@@ -192,7 +192,27 @@ Pumpkin, knife, evil
 
 </div>
 
+# Future Plans/Wish List
+
+1.  Rotary gap
+2.  More precise resonance tuning
+3.  1000pF doorknob caps to replace OE800 bottles
+4.  ebay more Maxwell/GA pulse caps ... just because
+5.  Keep the OE800s anyway because they're classy.
+6.  Stomp box ON/OFF switch
+7.  Mains filter to protect house wiring
+8.  Non-pumpkin top load
+9.  Pole Pig!!
+10. Solid State Coil
+11. ArcAttack-style Solid State Musical Driver
+
 # Reference
+
+Deep Fried Neon - Tesla Coil Design, Theory and Construction\
+<http://deepfriedneon.com/tesla_start.html>
+
+Steve's High Voltage - Steve Ward, inspiration for the band ArcAttack\
+<http://stevehv.4hv.org/>
 
 Wireless World - March 1995 - by Malcolm Watts\
 <http://www.scribd.com/doc/12711857/tesla1>
