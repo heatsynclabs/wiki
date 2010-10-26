@@ -171,7 +171,7 @@ RadioShack Realistic HTX-202. It's a pretty rugged hand held radio. It has a BNC
 
 #### Camera
 
-The camera that was flown on the mission was a Canon PowerShot A570is containing a 4GB SD card. The firmware had been replaced with the [CHDK](http://chdk.wikia.com/wiki/CHDK) variant called SDM [Stereo Data Maker](http://stereo.jpn.org/eng/sdm/index.htm) to allow for both video and still images to be taken during the flight. The code used in the camera can be found here: \[<http://www.teamdroid.com/Astro1.bas%5DAstro1.bas>
+The camera that was flown on the mission was a Canon PowerShot A570is containing a 4GB SD card. The firmware had been replaced with the [CHDK](http://chdk.wikia.com/wiki/CHDK) variant called SDM [Stereo Data Maker](http://stereo.jpn.org/eng/sdm/index.htm) to allow for both video and still images to be taken during the flight. The code used in the camera can be found here: [Astro1.bas](http://www.teamdroid.com/Astro1.bas)
 
 #### Flight Computer
 
