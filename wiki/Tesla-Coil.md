@@ -90,7 +90,7 @@ We killed the 12KV 60mA NST after about 10 seconds of total use and the protecti
 
 </div>
 
-## Spark Gap (Harry)
+## Spark Gap (Jasper)
 
 <div style="text-indent:75px">
 
