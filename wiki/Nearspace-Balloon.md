@@ -171,7 +171,7 @@ RadioShack Realistic HTX-202. It's a pretty rugged hand held radio. It has a BNC
 
 #### Camera
 
-We can potentially use a used or donated digital camera. Some of these have built in time-lapse functions. If we can't find one that does, we can built a simple timer circuit to push the shutter button every few minutes.
+We can potentially use a used or donated digital camera. Some of these have built in time-lapse functions. If we can't find one that does, we can built a simple timer circuit to push the shutter button every few minutes. The camera that was flown on the mission was a Canon PowerShot A570is containing a 4GB SD card. The firmware had been replaced with the CHDK varient called SDM ( Stereo Data Maker <http://stereo.jpn.org/eng/sdm/index.htm> )
 
 #### Flight Computer
 
