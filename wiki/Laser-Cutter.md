@@ -323,9 +323,10 @@ WK lasers <http://www.wklaser.com/> has a US vendor at <http://www.brightstarlas
 
 #### LC6090 Features:
 
-- Engraving area: 900 x600mm
+- 80 watt
+- ~\$8000 shipped
+- 900 x 600 mm (36"x24")
 - Whole machine size: 1,360 x 1010x 1070mm
-- Laser power: 60w (optional 80w)
 - Cutting speed: 0 - 24,000mm/min
 - Resetting positioning accuracy: ±0.1mm
 - Power supply: AC 110 - 220V ±10%, 50 - 60Hz
