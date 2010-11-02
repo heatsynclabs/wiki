@@ -321,6 +321,27 @@ Of note I've found these lasers on ebay as well.. I think. You never know whats 
 
 WK lasers <http://www.wklaser.com/> has a US vendor at <http://www.brightstarlasers.com/> I don't currently have a lot of info on these guys.
 
+#### LC6090 Features:
+
+- Engraving area: 900 x600mm
+- Whole machine size: 1,360 x 1010x 1070mm
+- Laser power: 60w (optional 80w)
+- Cutting speed: 0 - 24,000mm/min
+- Resetting positioning accuracy: ±0.1mm
+- Power supply: AC 110 - 220V ±10%, 50 - 60Hz
+- Gross power: \<1,000W
+- Operating temperature: 0 - 45°C
+- Operating humidity: 8 - 95%
+- Minimum shaping character: English 1 x 1mm
+- Graphic format supported: BMP, HPGL, PLT, DST, DXP, and AI
+- Driving system: stepper
+- Cooling mode: water-cooling and protection system
+- Auxiliary equipments :Exhaust-fans, air-exhaust pipe
+- Controlling software : DSP control system.
+- Compatible software: CorelDraw AutoCAD Photoshop
+- Laser- type: Sealed CO2 laser tube
+- Net Weight:220KG
+
 #### LG500s Features:
 
 - 20" x 12" Work Table Area
