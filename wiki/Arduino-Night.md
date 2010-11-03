@@ -48,6 +48,8 @@ Here are the current Arduino models that we have available to play with at the l
 - Wii Remote Nun-chuck
 - Piezo Film Vibra Tab Sensor - Similar to [this.](http://www.sparkfun.com/commerce/product_info.php?products_id=9196)
 - [7 Segment RED LED](http://www.sparkfun.com/commerce/product_info.php?products_id=8546)
+- [Bluetooth SMD Module - Roving Networks](http://www.sparkfun.com/commerce/product_info.php?products_id=8497) - With Headers setup to communicate with Funnel IO
+- [FTDI Basic Breakout - 5V](http://www.sparkfun.com/commerce/product_info.php?products_id=9115)
 
 ## Arduino Project Ideas
 
