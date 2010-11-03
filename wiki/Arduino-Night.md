@@ -54,6 +54,10 @@ Announce your microcontroller prowess by adding your name here and making it kno
 
 - Your Name Here!
 
+## Donations
+
+Can't come by and volunteer some time but you still want to help out some how? We're always looking to expand our available selection of components, sensors, arduinos, etc. to play with. Donations can be dropped off in our lab with a note stating: "Attention: Arduino Night"
+
 ## Suggestions For Content and Improvement
 
 To ensure that we keep pushing this event forward we're always open for suggestions for improving the structure and the way we present the material for these nights. Also, any suggestions for new components and tools are welcome:
