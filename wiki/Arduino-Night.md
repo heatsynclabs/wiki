@@ -52,7 +52,15 @@ All skill levels are welcome. Bring your own or use one of Arduino setups on-sit
 
 Are you the American version of Massimo Banzi, starring Megan Fox and George Clooney? Are you so hardcore about microcontrollers you only use the Arduino platform on your own chips and build your own board? Announce your microcontroller prowess by adding your name here and making it known to the Arduino novice that you're willing to impart your skills with them on Arduino night.
 
-- Billy Mays
+- Your Name Here!
+
+## Suggestions For Content and Improvement
+
+- Label the Components, Sensors, Motors, etc. with what they are.
+- Suggested Pre-Requisite Reading?
+- A cheat-sheet for commands/function names/overall sketch flow?
+- Focus on interacting with a single component for a session. Getting really good at that one thing and then moving on to something else next class.
+- Provide each station with a "grab bag" project that already has hardware to get new users used to the tool.
 
 ## Helpful Links
 
