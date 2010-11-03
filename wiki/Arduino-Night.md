@@ -19,6 +19,7 @@ Here are the current Arduino models that we have available to play with at the l
 - Arduino Uno x1
 - Arduino Duemilanove ("2009") x2
 - Arduino Mega x1
+- Funnel IO with ATmega168 x1
 
 <div style="clear: both">
 
