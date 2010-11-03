@@ -2,7 +2,9 @@ Arduino Night is a time honored tradition that was originally started by another
 
 All skill levels are welcome. Bring your own or use one of Arduino setups on-site. Tutorials are provided for beginners and more complex sensors and devices are available for intermediate and expert levels.
 
-## Arduino Models
+## Arduino Models Available
+
+Here are the current Arduino models that we have available to play with at the lab:
 
 <div style="float:right">
 
@@ -14,18 +16,9 @@ All skill levels are welcome. Bring your own or use one of Arduino setups on-sit
 
 - Arduino Delcima
 - Lilypad
-- Serial Arduino
-- Arduino Extreme
-- Arduino Mini
-- Arduino Nano
-- LilyPad Arduino
-- Arduino NG
-- Arduino NG plus
-- Arduino Bluetooth
-- Arduino Diecimila
+- Arduino Uno
 - Arduino Duemilanove ("2009")
 - Arduino Mega
-- PJRC Teensy
 
 <div style="clear: both">
 
