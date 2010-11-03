@@ -17,7 +17,7 @@ Here are the current Arduino models that we have available to play with at the l
 - Arduino Diecimila x1
 - Lilypad Arduino x1
 - Arduino Uno x1
-- Arduino Duemilanove ("2009") x1
+- Arduino Duemilanove ("2009") x2
 - Arduino Mega x1
 
 <div style="clear: both">
