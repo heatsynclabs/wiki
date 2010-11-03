@@ -29,7 +29,7 @@ Here are the current Arduino models that we have available to play with at the l
 - Everything in our electronics shop area(LEDs, Resistors, Capacitors, Diodes, Headers, Transistors, etc.)
 - Continuous Rotation Servos x4
 - Wheels x4
-- 
+- [PIR Sensor Module](http://www.sparkfun.com/commerce/product_info.php?products_id=8630) - Motion Detection
 
 ## Arduino Project Ideas
 
