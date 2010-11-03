@@ -50,7 +50,7 @@ All skill levels are welcome. Bring your own or use one of Arduino setups on-sit
 
 ## Arduino Ninja Masters / Pirate Captains
 
-Are you the American version of Massimo Banzi, starring Megan Fox and George Clooney? Are you so hardcore about microcontrollers you only use the Arduino platform on your own chips and build your own board? Announce your microcontroller prowess by adding your name here and making it known to the Arduino novice that you're willing to impart your skills with them on Arduino night.
+Announce your microcontroller prowess by adding your name here and making it known to the Arduino novice that you're willing to impart your skills with them on Arduino night. We're looking for volunteers on our first Wednesdays to help answer questions and give direction to people just starting out with Arduino. Also, people that are interested in helping host this event and have any suggestions to improve it:
 
 - Your Name Here!
 
