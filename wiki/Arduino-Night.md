@@ -14,15 +14,22 @@ Here are the current Arduino models that we have available to play with at the l
 
 </div>
 
-- Arduino Delcima
-- Lilypad Arduino
-- Arduino Uno
-- Arduino Duemilanove ("2009")
-- Arduino Mega
+- Arduino Diecimila x1
+- Lilypad Arduino x1
+- Arduino Uno x1
+- Arduino Duemilanove ("2009") x1
+- Arduino Mega x1
 
 <div style="clear: both">
 
 </div>
+
+## Components and Sensors
+
+- Everything in our electronics shop area(LEDs, Resistors, Capacitors, Diodes, Headers, Transistors, etc.)
+- Continuous Rotation Servos x4
+- Wheels x4
+- 
 
 ## Arduino Project Ideas
 
