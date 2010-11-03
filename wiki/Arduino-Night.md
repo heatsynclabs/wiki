@@ -27,9 +27,11 @@ Here are the current Arduino models that we have available to play with at the l
 ## Components and Sensors
 
 - Everything in our electronics shop area(LEDs, Resistors, Capacitors, Diodes, Headers, Transistors, etc.)
-- Continuous Rotation Servos x4
+- [Continuous Rotation Servos](http://www.adafruit.com/index.php?main_page=product_info&cPath=34&products_id=154) x4
 - Wheels x4
 - [PIR Sensor Module](http://www.sparkfun.com/commerce/product_info.php?products_id=8630) - Motion Detection
+- [RFID Reader and Tags](http://www.parallax.com/StoreSearchResults/tabid/768/txtSearch/rfid/List/0/SortField/4/ProductID/114/Default.aspx) x1
+- [LV-MaxSonar-EZ1](http://www.sparkfun.com/commerce/product_info.php?products_id=639) - High Performance Ultrasonic Range Finder
 
 ## Arduino Project Ideas
 
