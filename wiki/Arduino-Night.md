@@ -56,7 +56,7 @@ Announce your microcontroller prowess by adding your name here and making it kno
 
 ## Suggestions For Content and Improvement
 
-To ensure that we keep pushing this event forward we're always open for suggestions for improving the structure and the way we present the material for these nights. Also, any suggestions for new components and tools are welcome.
+To ensure that we keep pushing this event forward we're always open for suggestions for improving the structure and the way we present the material for these nights. Also, any suggestions for new components and tools are welcome:
 
 - Label the Components, Sensors, Motors, etc. with what they are.
 - Suggested Pre-Requisite Reading?
