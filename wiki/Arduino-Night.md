@@ -48,13 +48,15 @@ All skill levels are welcome. Bring your own or use one of Arduino setups on-sit
 
 </div>
 
-## Arduino Ninja Masters / Pirate Captains
+## Arduino Gurus and Volunteers
 
 Announce your microcontroller prowess by adding your name here and making it known to the Arduino novice that you're willing to impart your skills with them on Arduino night. We're looking for volunteers on our first Wednesdays to help answer questions and give direction to people just starting out with Arduino. Also, people that are interested in helping host this event and have any suggestions to improve it:
 
 - Your Name Here!
 
 ## Suggestions For Content and Improvement
+
+To ensure that we keep pushing this event forward we're always open for suggestions for improvement and new projects we can work on for these nights. Please add any ideas you have below:
 
 - Label the Components, Sensors, Motors, etc. with what they are.
 - Suggested Pre-Requisite Reading?
