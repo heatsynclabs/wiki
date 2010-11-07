@@ -10,6 +10,7 @@
 - [3D Scanner](3D-Scanner)
 - [Autohacking](Autohacking)
 - [NightVision](NightVision)
+- [Dial-a-Lulz](Dial-a-Lulz)
 
 ## Project Idea Wall
 
