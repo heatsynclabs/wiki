@@ -1,4 +1,4 @@
-Page for whatever comes of our transhumanist hack-ups.
+This is a repository for our humanity hacking and transhumanist endeavors.
 
 For now we should steal ruthlessly from our friends at:
 
@@ -8,4 +8,5 @@ For now we should steal ruthlessly from our friends at:
 
 See related projects:
 
-- [Evoked_Potential_Eye_Mask](Evoked-Potential-Eye-Mask)
+- [Evoked Potential Eye Mask](Evoked-Potential-Eye-Mask)
+- [Wearable Computing](Wearable-Computing)
