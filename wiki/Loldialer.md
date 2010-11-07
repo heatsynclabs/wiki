@@ -25,6 +25,7 @@ Hhhhhhhokay, so the idea here kiddies, is to build a device that can make a call
 - Emo Cereal
 - PIRATE SONG
 - Bananaphone
+- Trololololol
 - Badger badger badger...
 
 ## Use case
