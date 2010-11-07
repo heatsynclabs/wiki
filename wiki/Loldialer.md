@@ -29,7 +29,7 @@ Hhhhhhhokay, so the idea here kiddies, is to build a device that can make a call
 
 ## Use case
 
-PLUG IT IN PLUG IT IN\[to an ethernet port\], thus jacking into the Matrix, choose a horrible audio file to play, then enter a victim's phone number, \[somehow\] tell that the user has picked up, then tell you, enjoy some lulz, then end the call if the victim is still on the line.
+PLUG IT IN PLUG IT IN\[to an ethernet port\], thus jacking into the Matrix, choose a horrible audio file to play, then enter a victim's phone number, \[somehow\] tell that the user has picked up, giggle like a schoolboy, then end the call if the victim is still on the line.
 
 ## BONUS
 
