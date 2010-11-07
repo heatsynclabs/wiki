@@ -40,3 +40,5 @@ Twilio can do transcription, so it would be cool to record what the user says wh
 > FFFFFFFFFFUUUUUUUUUUUU-
 
 ...and that will never get old.
+
+--[Huertanix](User-Huertanix) 19:59, 7 November 2010 (UTC)
