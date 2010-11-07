@@ -1,4 +1,5 @@
 - Monday
+  - **7:30PM - ?** : [Augmenting Humanity](Augmenting-Humanity)
 - Tuesday
 - Wednesday
   - **7:00PM - ?** : Arduino Night (1st Wednesdays)
@@ -11,4 +12,4 @@
 - Friday
 - Saturday
 - Sunday
-  - **1:00PM - 4** : Human Augmentation hacking
+  - **3:00PM - 6:00PM** : Gangplank Jr. FIRST Lego League
