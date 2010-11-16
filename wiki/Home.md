@@ -18,7 +18,6 @@
 <li><a href="Phoenix-RepRap">Phoenix RepRap</a></li>
 <li><a href="Nearspace-Balloon">Nearspace Balloon</a></li>
 <li><a href="Nearspace-Balloon-2">Nearspace Balloon II</a></li>
-<li><a href="Rocket-Cars">Rocket Cars</a></li>
 <li><a href="Tesla-Coil">Tesla Coil</a></li>
 <li><a href="Solar-Concentrator">Solar Concentrator Power Generation</a></li>
 </ul></li>
