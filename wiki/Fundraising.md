@@ -1,13 +1,12 @@
 Feel free to brainstorm here on fund raising ideas and track their progress. The board has set a conservative goal of a single fundraiser per month that raises at least \$150.
 
-## Upcoming Fundraisers
-
-HeatSync Labs BBQ
-
 ## Previous Fundraisers
 
+- [BBQ](BBQ) / Jam Session -- or, the blog picture that lost us insurance
 - Lan Party - 5/1/2010 noon-midnight
 - [ Poker Night](Poker-Night-Fundraiser) - 10/03/09 @ 6-10pm
+- [Laser Mustache Party](Laser-Mustache-Party)
+- Water Balloon FIght
 
 ## Fundraising Ideas
 
