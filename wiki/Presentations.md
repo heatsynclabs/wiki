@@ -12,9 +12,23 @@ If you have something you'd like to see, please add it in a bullet here. Maybe t
 
 ### Past Presentation Topics
 
-- [Balloon Communications Payload](http://nebarnix.com/heatsync.pptx)
 - Astronomy
 - Eagle PCB Layout and Design
 - PCB Chemical Etching,Heat Transfer, with FeCl
+- [Haptic Belt](http://code.google.com/p/haptic-research-group/)
 - [Lock Picking](http://toool.us/membership.html)
 - [Cube.ly 3D printing design](http://cube.ly)
+- PaperCraft
+- Thermoforming
+- Idaho Near Space Project [Balloon Communications Payload](http://nebarnix.com/heatsync.pptx)
+- High Speed Photography -- or "shooting things"
+- Haystack Project
+- Working with acrylic
+- Hacking Glass
+- Rep Rap made easy
+- Teardown party-everyone brings something to tear apart
+- Lathing for fun and profit
+- EL Wire
+- Monster party-everyone brings plushie and we tear them up to be reassembled--also do some actuators, lights, sound things for people to add in(programmable greeting card sounds, 555 timer leds)
+- Coffee Science and Arduino
+- Arduino and VOIP - [Dial-a-Lulz](Dial-a-Lulz)
