@@ -2,7 +2,10 @@
 
 **Please add links to your projects here, in reverse chronological order!**
 
+- [Solar Concentrator Power Generation](Solar-Concentrator)
 - [Dial-a-Lulz](Dial-a-Lulz)
+- [Nearspace Balloon II](Nearspace-Balloon-2)
+- [Tesla Coil](Tesla-Coil)
 - [Phoenix RepRap](Phoenix-RepRap)
 - [Magomatic V2](Magomatic-V2)
 - [Nearspace Balloon](Nearspace-Balloon)
