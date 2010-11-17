@@ -1,7 +1,8 @@
 ## Current Projects
 
-- [Starting a Non-Profit](Starting-a-Non-Profit)
-- [ToolsDB](ToolsDB)
+**Please add links to your projects here, in reverse chronological order!**
+
+- [Dial-a-Lulz](Dial-a-Lulz)
 - [Phoenix RepRap](Phoenix-RepRap)
 - [Magomatic V2](Magomatic-V2)
 - [Nearspace Balloon](Nearspace-Balloon)
@@ -10,7 +11,8 @@
 - [3D Scanner](3D-Scanner)
 - [Autohacking](Autohacking)
 - [NightVision](NightVision)
-- [Dial-a-Lulz](Dial-a-Lulz)
+- [ToolsDB](ToolsDB)
+- [Starting a Non-Profit](Starting-a-Non-Profit)
 
 ## Project Idea Wall
 
