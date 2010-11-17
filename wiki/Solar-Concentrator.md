@@ -1,3 +1,5 @@
+**See <http://heliosync.tumblr.com/> for more frequent updates.**
+
 A project to generate some non-trivial amount of electricity via solar energy in 3 parts.
 
 - A solar concentrating "dish" to collect roughly 100 square feet of reflect light into 1 square or smaller area reaching temperatures of approximately 1,000F
