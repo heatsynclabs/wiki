@@ -13,14 +13,7 @@
 <p>Community Information</p>
 </div>
 <ul>
-<li><a href="Projects">Projects</a>
-<ul>
-<li><a href="Phoenix-RepRap">Phoenix RepRap</a></li>
-<li><a href="Nearspace-Balloon">Nearspace Balloon</a></li>
-<li><a href="Nearspace-Balloon-2">Nearspace Balloon II</a></li>
-<li><a href="Tesla-Coil">Tesla Coil</a></li>
-<li><a href="Solar-Concentrator">Solar Concentrator Power Generation</a></li>
-</ul></li>
+<li><a href="Projects">Projects</a></li>
 <li><a href="Membership-Guidelines">Membership Guidelines</a></li>
 <li><a href="Presentations">Presentations</a></li>
 <li><a href="Events">Events</a>
