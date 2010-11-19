@@ -95,6 +95,11 @@ From here you can merge scans together. The merging process is sometimes easier 
 systm Covered Cheap 3D Scanning in this Episode:\
 <http://revision3.com/systm/laserscan>
 
+### Scanning Theory
+
+Structured Light 3D Scanning:\
+<http://www.instructables.com/id/Structured-Light-3D-Scanning/>
+
 ### Links Pages
 
 The MakerBot Community Has Their Own Link Page For 3D Scanning Projects:\
