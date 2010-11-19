@@ -4,6 +4,7 @@
 
 - [Solar Concentrator Power Generation](Solar-Concentrator)
 - [Dial-a-Lulz](Dial-a-Lulz)
+- [Arduino IR Pet](Arduino-IR-Pet)
 - [Nearspace Balloon II](Nearspace-Balloon-2)
 - [Tesla Coil](Tesla-Coil)
 - [Phoenix RepRap](Phoenix-RepRap)
