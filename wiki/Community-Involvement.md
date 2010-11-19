@@ -8,4 +8,6 @@ The ANSR Near Space Balloon Launch on Make Featuring our HSL Marketing Director,
 
 ## Local News
 
-Feature on Serial Entrepreneurs and Gangplank(clicks from HSL members and lab): <http://link.brightcove.com/services/player/bcpid40280768001?bclid=35150280001&bctid=680491868001>
+Feature on Serial Entrepreneurs and Gangplank(clicks from HSL members and lab):
+
+<http://link.brightcove.com/services/player/bcpid40280768001?bclid=35150280001&bctid=680491868001>
