@@ -35,7 +35,15 @@ Project Tasks
 
 ## Glass Supplier Search
 
-Wright Brothers Glassworks - 623-780-4000 - has no suppliers that can offer below 1/8th thickness with low-iron glass chandler glass - (480) 899-1656 - can only offer 1/8th and above, and not at 10 foot length AZ glass - (602) 923-0079 - no answer, generic 'voicemail box full' message The Glass Works - (602) 253-7683 - Answering machine Southern glass works - emailed, awaiting response.
+Wright Brothers Glassworks - 623-780-4000 - has no suppliers that can offer below 1/8th thickness with low-iron glass
+
+chandler glass - (480) 899-1656 - can only offer 1/8th and above, and not at 10 foot length
+
+AZ glass - (602) 923-0079 - no answer, generic 'voicemail box full' message
+
+The Glass Works - (602) 253-7683 - Answering machine
+
+Southern glass works - emailed, awaiting response.
 
 I can't find any local or online suppliers that offer low-iron/starphire mirrored glass at 3/32nd or below. If anyone else wants to try to find a supplier, this may be our main bottleneck.
 
