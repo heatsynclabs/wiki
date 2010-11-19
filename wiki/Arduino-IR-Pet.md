@@ -1,6 +1,6 @@
 This is code used in teaching an Arduino workshop. It combines a 16x2 character LCD, an IR LED, an IR photodetector, and a piezo speaker to form an electronic "pet" similar to a Tamogachi.
 
-For assistance with this code, please post in the HeatSync Google Group in this thread:
+For assistance with this code, please post in the HeatSync Google Group in this thread: [HSL Thread: Arduino IR Pet (workshop code)](http://groups.google.com/group/heatsynclabs/browse_thread/thread/72528934bf0a1662)
 
 ### Assembly
 
@@ -8,7 +8,11 @@ For assistance with this code, please post in the HeatSync Google Group in this 
 
 ### Libraries
 
-Download and extract this ZIP into your arduino app's libraries folder-- resulting file structure should look like arduino\libraries\tone\tone.h [Tone.zip](files/Tone.zip)
+Download and extract this ZIP into your arduino app's libraries folder-- resulting file structure should look like arduino\libraries\tone\tone.h
+
+[Tone.zip](files/Tone.zip)
+
+*Tone.zip*
 
 ### Code
 
