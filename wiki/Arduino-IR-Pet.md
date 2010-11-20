@@ -4,7 +4,11 @@ For assistance with this code, please post in the HeatSync Google Group in this 
 
 ### Assembly
 
-(Assembly instructions/photos here)
+(Assembly instructions/photos still being posted here, thanks for your patience.)
+
+Photo: ![Arduino_IR_Pet_Photo.JPG](files/Arduino_IR_Pet_Photo.JPG)
+
+Sorry for the blurriness, but this should give you an idea of how to construct the IR Pet (along with the comments at the top of the code below.)
 
 ### Libraries
 
