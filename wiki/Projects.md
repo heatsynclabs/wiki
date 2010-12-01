@@ -3,7 +3,7 @@
 **Please add links to your projects here, in reverse chronological order!**
 
 - [Solar Concentrator Power Generation](Solar-Concentrator)
-- [Dial-a-Lulz](Dial-a-Lulz)
+- [Loldialer](Loldialer)
 - [Arduino IR Pet](Arduino-IR-Pet)
 - [Nearspace Balloon II](Nearspace-Balloon-2)
 - [Tesla Coil](Tesla-Coil)
