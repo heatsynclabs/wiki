@@ -27,7 +27,7 @@ Recently donated, a set of 2 classic Variable Inductors and 2 AC Voltmeters. Ver
 
 ### 12/2/2010: Nordac Vector Frequency Inverter and High Voltage Power Supply.
 
-Frequency Inverter has damage on circuit board, one blown hi-value capacitor and resulting damage to nearby board. Other capacitors and components may be salvageable. Power supply seems to be in good condition, but requires 520V AC and is **UNTESTED**. [Frequency Inverter Operations Manual](http://www.artisan-scientific.com/info/nordac_vector_user_manual.pdf)
+Frequency Inverter has damage on circuit board, one blown hi-voltage capacitor and resulting damage to nearby board. Other capacitors and components may be salvageable. Power supply seems to be in good condition, but requires 520V AC and is **UNTESTED**. [Frequency Inverter Operations Manual](http://www.artisan-scientific.com/info/nordac_vector_user_manual.pdf)
 
 <table>
 <tbody>
