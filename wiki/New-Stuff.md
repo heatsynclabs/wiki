@@ -1,5 +1,3 @@
-Recent Acquisitions, Donations, and new Tools:
-
 ## Acquisitions
 
 ## Donations
