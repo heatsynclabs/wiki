@@ -57,4 +57,4 @@ The current prizes (as of December 4th), developed by David.H, David.U and Jerem
 
 Proposed additional prize ideas:
 
-David.H: **\$50+** 11x8.5" clear orange acrylic plaque featuring etched "HSL logo \<3 Your hackerspace logo here" and handwritten signatures of the board.
+David.H: **\$50+** 11x8.5" clear orange acrylic plaque featuring etched "HSL logo \<3 Your hackerspace logo here" and handwritten signatures of the members.
