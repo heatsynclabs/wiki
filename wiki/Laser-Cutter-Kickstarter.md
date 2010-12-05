@@ -69,9 +69,13 @@ Your name/ideas here!
 
 ## Promotion
 
-**Facetime** The most effective means of achieving donations is an in-person request to friends and people you know who want to help the space, perhaps even only as a personal gesture to help you get your hands on a thousand-dollar toy. Open up your address book and start making some calls.
+**Facetime**
 
-**Linkage** Our story is posted in various parts of cybersauce. You can help out by digging/voting/upboating/reblogging our various online mentions! Here they be:
+The most effective means of achieving donations is an in-person request to friends and people you know who want to help the space, perhaps even only as a personal gesture to help you get your hands on a thousand-dollar toy. Open up your address book and start making some calls.
+
+**Linkage**
+
+Our story is posted in various parts of cybersauce. You can help out by digging/voting/upboating/reblogging our various online mentions! Here they be:
 
 **Reddit**: <http://www.reddit.com/r/hackerspaces/comments/edjpt/heatsync_labs_seeks_funds_from_cybersauce_to_buy/>
 
@@ -89,4 +93,6 @@ src="<http://www.kickstarter.com/projects/heatsynclabs/laser-cutter-for-phoenix-
 
 Here's a short link you can use on Identi.ca/Twitter/SMS/etc: <http://kck.st/hl5nh6>
 
-**Flier**' As seen at SuperHappyDevHouse at Hacker Dojo! The official HSL Laser Cutter Kickstarter flier:
+**Flier**'
+
+As seen at SuperHappyDevHouse at Hacker Dojo! The official HSL Laser Cutter Kickstarter flier:
