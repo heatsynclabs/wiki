@@ -65,4 +65,28 @@ David.H:
 
 **\$50+** 11" x 8.5" clear orange acrylic plaque featuring etched "HSL logo \<3 Your hackerspace logo here" and handwritten signatures of the members.
 
-Your name/ideas here.
+Your name/ideas here!
+
+## Promotion
+
+**Facetime** The most effective means of achieving donations is an in-person request to friends and people you know who want to help the space, perhaps even only as a personal gesture to help you get your hands on a thousand-dollar toy. Open up your address book and start making some calls.
+
+**Linkage** Our story is posted in various parts of cybersauce. You can help out by digging/voting/upboating/reblogging our various online mentions! Here they be:
+
+**Reddit**: <http://www.reddit.com/r/hackerspaces/comments/edjpt/heatsync_labs_seeks_funds_from_cybersauce_to_buy/>
+
+**Newslily**: <http://newslily.com/comments.cgi?thread_id=38041>
+
+**Digg**: <http://digg.com/news/technology/the_countdown_to_lasertime_begins_now_heatsync_labs>
+
+**Tumblr**: <http://huertanix.tumblr.com/post/2068127417/kickstarter-laser-cutter-for-phoenix-area-makers>
+
+Kickstarter has a neat widget that you can put on your site, unless its Wordpress, because Wordpress hates iframes and thus hates America:
+
+`*<iframe frameborder="0" height="380px"`
+
+src="<http://www.kickstarter.com/projects/heatsynclabs/laser-cutter-for-phoenix-area-makers/widget/card.html>" width="220px"\>\</iframe\>
+
+Here's a short link you can use on Identi.ca/Twitter/SMS/etc: <http://kck.st/hl5nh6>
+
+**Flier**' As seen at SuperHappyDevHouse at Hacker Dojo! The official HSL Laser Cutter Kickstarter flier:
