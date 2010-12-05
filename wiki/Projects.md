@@ -2,6 +2,7 @@
 
 **Please add links to your projects here, in reverse chronological order!**
 
+- [Laser Cutter Kickstarter](Laser-Cutter-Kickstarter)
 - [Solar Concentrator Power Generation](Solar-Concentrator)
 - [Loldialer](Loldialer)
 - [Arduino IR Pet](Arduino-IR-Pet)
