@@ -86,6 +86,7 @@ The current prizes (as of December 4th), developed by David.H, David.U and Jerem
 ''Jeremy L.:
 
 - **\$50** and up get intro class to using the laser cutter(safety and printing your first test design...these classes will be necessary for cutter use)
+- Hackerspace with the most members that have contributed will have x amount of their logo printed out on x material.
 
 *Your name/ideas here!*
 
