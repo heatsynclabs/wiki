@@ -22,3 +22,12 @@
 - <http://www.xyz-tech.com/product.asp?id=42>
 
 --[Will](User-Will) 21:37, 5 December 2010 (UTC)
+
+## Option Comparison Grid
+
+| Model | Seller | Price | Shipping \$ | Wattage | Unit Size (LxWxH) | Working Area (LxWxH) | Rotary Att. | Motorized Table | Autofocus | Chiller | Red-light | Vacuum | Support bed | Air assist | Spare parts |
+|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+| EXLAS-6090 | XYZ-tech.com | ? | ? | 60w or 100w | 1510x1120x1180 mm | 900x600x400mm (infinite 600mm-wide feed) | opt | opt | ? | opt | opt | opt | ? | ? | ? |
+| LC6090 | XYZ-tech.com | ? | ? | 60w or 80w | 1360x1010x1070 mm | 900x600x?mm | ? | ? | ? | opt | ? | ? | ? | ? | ? |
+
+HSL Laser Cutter Options
