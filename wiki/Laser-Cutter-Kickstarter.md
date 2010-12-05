@@ -24,6 +24,8 @@ These are the options we are looking for:
 
 ## Prize Tiers
 
+### Original Idea
+
 The original prizes and tiers were developer by Joyce and Drea and they are these:
 
 **\$25+** HeatSync Labs will send you an official schwag pack (stickers, buttons, laser-cut pieces, business cards, etc). Its packed full of fun stuff, complete with bragging rights!
@@ -38,6 +40,8 @@ The original prizes and tiers were developer by Joyce and Drea and they are thes
 
 `* I don't think we can actually cut metal with the laser cutters we're looking at.  Can someone verify this?`\
 `** Makerbot is a copyrighted term; We'd have to say something like Makerbot-compatible if we offered this.`
+
+### Current Prizes
 
 The current prizes (as of December 4th), developed by David.H, David.U and Jeremy are these:
 
@@ -57,21 +61,31 @@ The current prizes (as of December 4th), developed by David.H, David.U and Jerem
 
 **NOTE**: Since the kickstarter has already been launched, we cannot remove the current prizes. We can, however, add some new ones into the mix. We want your suggestions!
 
-Proposed additional prize ideas:
+### Proposed Additional Prize Ideas
 
 *David.H:*
 
-**\$10+** Laser-cut/etched transparent red plastic bacon-shaped bookmark.
+- **\$10+** Laser-cut/etched transparent red plastic bacon-shaped bookmark.
 
-**\$50+** 11" x 8.5" clear orange acrylic plaque featuring etched "HSL logo \<3 Your hackerspace logo here" and handwritten signatures of the members.
+<!-- -->
+
+- **\$50+** 11" x 8.5" clear orange acrylic plaque featuring etched "HSL logo \<3 Your hackerspace logo here" and handwritten signatures of the members.
 
 *Nate.P(l)*
 
-HSL keyfob(s)
+- HSL keyfob(s)
 
-license plate frame (car or bike)
+<!-- -->
 
-engrave your phone/laptop
+- license plate frame (car or bike)
+
+<!-- -->
+
+- engrave your phone/laptop
+
+''Jeremy L.:
+
+- **\$50** and up get free intro class to using the laser cutter(safety and printing your first test design)
 
 *Your name/ideas here!*
 
