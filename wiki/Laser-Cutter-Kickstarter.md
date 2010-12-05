@@ -39,17 +39,17 @@ The original prizes and tiers were developer by Joyce and Drea and they are thes
 
 The current prizes (as of December 4th), developed by David.H, David.U and Jeremy are these:
 
-**\$10+** 1 Pornstar stache.
+**\$10+** One (1) laser-cut acrylic mustache holiday ornament (random color).
 
-**\$25+** 3 Mustaches (varied).
+**\$25+** Three (3) unique laser-cut acrylic mustache holiday ornaments (various random colors).
 
-**\$50+** 3 Mustaches + Mustached Angel.
+**\$50+** Three (3) unique laser-cut acrylic mustache holiday ornaments (various random colors) and a one-of-a-kind laser-cut mustached angel tree topper!
 
-**\$200+** 32 Mustaches + Mustached Angel.
+**\$200+** Full set of thirty-two (32) unique laser-cut acrylic mustache holiday ornaments (various random colors) and a one-of-a-kind laser-cut mustached angel tree topper!
 
-**\$500+** 64 Mustaches + Mustached Angel.
+**\$500+** Full set of sixty-four (64) unique laser-cut acrylic mustache holiday ornaments (various random colors) and a one-of-a-kind laser-cut mustached angel tree topper!
 
-**\$1000+** 64 Mustaches + Mustached Angel + Gold plated Nietzsche\* mustache.
+**\$1000+** Full set of sixty-four (64) unique laser-cut acrylic mustache holiday ornaments (various random colors), a one-of-a-kind laser-cut mustached angel tree topper, and a gold-freaking-plated mustache holiday ornament!
 
 `* The kickstarter doesn't specify what type of mustache, but Nietzsche had an epic 'stache and we should model his.`
 
