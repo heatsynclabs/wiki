@@ -65,7 +65,7 @@ David.H:
 
 **\$50+** 11" x 8.5" clear orange acrylic plaque featuring etched "HSL logo \<3 Your hackerspace logo here" and handwritten signatures of the members.
 
-Your name/ideas here!
+*Your name/ideas here!*
 
 ## Promotion
 
