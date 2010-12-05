@@ -33,5 +33,6 @@
 | VLS 3.60 | [Universal](http://www.ulsinc.com/products/product-line/) | \$7,100 system (add laser \$) | \$0 (local) | 25w \$3,950; 30w \$4,800; 40w \$6,400; 50w \$8,000; 60w \$9,600 | 965x914x762 mm | 610x305x229 mm | \$1,525 | incl. | incl. | air-cooled | incl. | ? | \$1,050 | \$1,250 | \$2,650 | \$4,848 filter | n/a |
 | VLS 2.30 | Imprintables.com | \$11,650 | ? | 30w | 661x356x635 mm | 406x305x102 mm | \$945 | incl. | incl. | air-cooled | incl. | ? | \$240 | opt. | \$1,490 | \$4,848 filter | n/a |
 | VLS 3.50 | Imprintables.com | \$16,600 | ? | 50w | 864x356x635 mm | 610x305x102 mm | \$945 | incl. | incl. | air-cooled | incl. | ? | \$240 | opt. | \$1,490 | \$4,848 filter | n/a |
+| Epilog (?) | [ICS](http://www.innovativecuttingsystems.com/) | \$13,995 | ? | 50w | Unit Size (LxWxH) | 610x305x? mm | no | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? |
 
 HSL Laser Cutter Options
