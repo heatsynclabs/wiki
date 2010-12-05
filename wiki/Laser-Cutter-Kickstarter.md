@@ -59,6 +59,6 @@ Proposed additional prize ideas:
 
 David.H:
 
-**\$10+** Laser-cut/etched plastic bacon-shaped bookmark.
+**\$10+** Laser-cut/etched transparent red plastic bacon-shaped bookmark.
 
 **\$50+** 11" x 8.5" clear orange acrylic plaque featuring etched "HSL logo \<3 Your hackerspace logo here" and handwritten signatures of the members.
