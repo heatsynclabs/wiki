@@ -1,4 +1,4 @@
-HeatSync Labs wants a laser cutter, so a number of us have volunteered to make a Kickstarter video to convince the internet to help HeatSync Labs get one.
+HeatSync Labs wants a laser cutter, so a number of us have volunteered to make a Kickstarter video to convince the internet to help HeatSync Labs get one. Linkage: <http://www.kickstarter.com/projects/heatsynclabs/laser-cutter-for-phoenix-area-makers>
 
 ## Lazors!
 
