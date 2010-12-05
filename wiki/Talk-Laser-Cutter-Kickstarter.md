@@ -1,4 +1,4 @@
-## David U's Chinese Option:
+## David U's Chinese Options:
 
 ### 163.com
 
@@ -10,5 +10,10 @@
 - Motorized Z Table
 - 2nd 80W CO2 Laser Tube (backup), 2nd Mirror Set (3 pieces, backup), 2nd Focus Lens
 - Freight & Insurance to port of LA
+
+### XYZ-tech
+
+- Model: EXLAS-6090
+- <http://www.xyz-tech.com/product.asp?id=42>
 
 --[Will](User-Will) 21:37, 5 December 2010 (UTC)
