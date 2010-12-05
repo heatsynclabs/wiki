@@ -85,7 +85,7 @@ The current prizes (as of December 4th), developed by David.H, David.U and Jerem
 
 ''Jeremy L.:
 
-- **\$50** and up get intro class to using the laser cutter(safety and printing your first test design)
+- **\$50** and up get intro class to using the laser cutter(safety and printing your first test design...these classes will be necessary for cutter use)
 
 *Your name/ideas here!*
 
