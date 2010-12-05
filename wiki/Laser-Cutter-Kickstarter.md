@@ -87,12 +87,12 @@ Our story is posted in various parts of cybersauce. You can help out by digging/
 
 Kickstarter has a neat widget that you can put on your site, unless its Wordpress, because Wordpress hates iframes and thus hates America:
 
-`*<iframe frameborder="0" height="380px"`
+`<iframe frameborder="0" height="380px"`
 
 src="<http://www.kickstarter.com/projects/heatsynclabs/laser-cutter-for-phoenix-area-makers/widget/card.html>" width="220px"\>\</iframe\>
 
 Here's a short link you can use on Identi.ca/Twitter/SMS/etc: <http://kck.st/hl5nh6>
 
-**Flier**'
+**Flier**
 
 As seen at SuperHappyDevHouse at Hacker Dojo! The official HSL Laser Cutter Kickstarter flier:
