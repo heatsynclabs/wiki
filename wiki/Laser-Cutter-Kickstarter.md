@@ -69,9 +69,13 @@ The current prizes (as of December 4th), developed by David.H, David.U and Jerem
 
 <!-- -->
 
+- **\$30+** 6" x 9" clear orange acrylic etched photo of yourself with the caption "I \<HSL logo\> Lasers"
+
+<!-- -->
+
 - **\$50+** 11" x 8.5" clear orange acrylic plaque featuring etched "HSL logo \<3 Your hackerspace logo here" and handwritten signatures of the members.
 
-*Nate.P(l)*
+*Nate.P(l):*
 
 - HSL keyfob(s)
 
