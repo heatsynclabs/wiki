@@ -39,6 +39,12 @@ The original prizes and tiers were developer by Joyce and Drea and they are thes
 
 The current prizes (as of December 4th), developed by David.H, David.U and Jeremy are these:
 
-**\$10** 1 Pornstar stache **\$25** 3 Mustaches (varied) **\$50** 3 mustaches + mustached angel **\$200** 32 mustaches + mustached angel **\$500** 64 mustaches + mustached angel **\$1000** 64 mustaches + mustached angel + Gold plated Nietzsche\* mustache
+**\$10** 1 Pornstar stache. **\$25** 3 Mustaches (varied). **\$50** 3 Mustaches + Mustached Angel. **\$200** 32 Mustaches + Mustached Angel. **\$500** 64 Mustaches + Mustached Angel. **\$1000** 64 Mustaches + Mustached Angel + Gold plated Nietzsche\* mustache.
 
-`* The kickstarter doesn't specify what type of mustache, but Nietzsche had an epic stache and we should model his.`
+`* The kickstarter doesn't specify what type of mustache, but Nietzsche had an epic 'stache and we should model his.`
+
+**NOTE**: Since the kickstarter has already been launched, we cannot remove the current prizes. We can, however, add some new ones into the mix. We want your suggestions!
+
+Proposed additional prize ideas:
+
+David.H: **\$50** 11x8.5" clear orange acrylic plaque featuring etched "HSL logo \<3 Your hackerspace logo here" and handwritten signatures of the board.
