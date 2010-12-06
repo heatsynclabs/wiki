@@ -4,7 +4,7 @@ Linkage: <http://www.kickstarter.com/projects/heatsynclabs/laser-cutter-for-phoe
 
 ## Lazors!
 
-The laser cutter we're aiming to acquire is either an Epilog Legend 36EXT or a Universal ILS 9.75. A sexy video of the ILS 9.75 in action can be found here: <http://www.youtube.com/watch?v=R7UaSkPU1Go>
+The laser cutter we're aiming to acquire is either an Epilog Legend 36EXT or a Universal ILS 9.75 or an equivalent OEM model. A sexy video of the OEM model in action can be found here: <http://www.youtube.com/watch?v=R7UaSkPU1Go>
 
 Specs for the ILS 9.75 can be found here: <http://www.ulsinc.com/products/ils975/>
 
