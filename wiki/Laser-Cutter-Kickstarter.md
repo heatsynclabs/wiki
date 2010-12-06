@@ -26,7 +26,7 @@ These are the options we are looking for:
 
 ### Original Idea
 
-The original prizes and tiers were developer by Joyce and Drea and they are these:
+The original prizes and tiers were developer by Joyce, Zach, and Drea and they are these:
 
 **\$25+** HeatSync Labs will send you an official schwag pack (stickers, buttons, laser-cut pieces, business cards, etc). Its packed full of fun stuff, complete with bragging rights!
 
