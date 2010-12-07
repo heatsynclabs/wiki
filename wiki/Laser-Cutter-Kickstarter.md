@@ -96,6 +96,10 @@ The current prizes (as of December 4th), developed by David.H, David.U and Jerem
 
 - Shark with freaking lasers puzzle! (unknown material or price)
 
+*Ray M.*
+
+- An acrylic item of your choice. The more square inches of the uncut acrylic, the higher the cost. Price them at "midpoints" between existing items, e.g. \$20, \$30, \$60, \$75.
+
 *Your name/ideas here!*
 
 ## Promotion
