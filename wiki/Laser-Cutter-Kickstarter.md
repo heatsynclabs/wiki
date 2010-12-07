@@ -77,15 +77,15 @@ The current prizes (as of December 4th), developed by David.H, David.U and Jerem
 
 *Nate.P(l):*
 
-- HSL keyfob(s)
+- HSL keyfob(s) (unknown material or price)
 
 <!-- -->
 
-- license plate frame (car or bike)
+- license plate frame (car or bike) (unknown material or price)
 
 <!-- -->
 
-- engrave your phone/laptop
+- engrave your phone/laptop (unknown price)
 
 *Jeremy L.:*
 
