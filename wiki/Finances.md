@@ -17,7 +17,9 @@ Covered Expenses
 `- Capital Equipment`\
 `- General equipment and tools`
 
-Expense Reports In order to receive reimbursement HSL members shall complete and submit an expense claim form within a reasonable time after incurring the expense and in any event no later than 30 days thereafter. The expense report shall be accompanied by all receipts documenting each expense, including those acquired from the use of HSL debit card. HSL members shall verify that the expenses for which reimbursement is sought were incurred on behalf of HeatSync Labs in performance of official duties and that they meet the policies established in this policy.
+Expense Reports
+
+In order to receive reimbursement HSL members shall complete and submit an expense claim form within a reasonable time after incurring the expense and in any event no later than 30 days thereafter. The expense report shall be accompanied by all receipts documenting each expense, including those acquired from the use of HSL debit card. HSL members shall verify that the expenses for which reimbursement is sought were incurred on behalf of HeatSync Labs in performance of official duties and that they meet the policies established in this policy.
 
 ## Revenue Ideas
 
