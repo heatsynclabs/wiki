@@ -34,8 +34,10 @@ After a [Nov 2010](http://www.cell.com/current-biology/abstract/S0960-9822(10)01
   - Randy
   - Self?
 
-5\. Conduct study
+6\. Conduct study
 
 - - Schedule
 
-6\. Analysis 7. Publish?
+7\. Analysis
+
+8\. Publish?
