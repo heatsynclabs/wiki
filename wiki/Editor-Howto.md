@@ -70,7 +70,7 @@ There's a lot of cool things being built by hobbyist makers across Arizona. We s
 - Finished working projects
 - Projects that took skillz to make
 - Visits to other hackerspaces and places where cool things are made
-- HSL Working group projects that involve several people (SyncFleet nearspace balloon, HelioSync power station, etc)
+- HSL Working group projects that involve several people or just happen to be really cool (SyncFleet nearspace balloon, HelioSync power station, etc)
 - Local (AZ) initiatives to promote engineering or the intersections of engineering and art
 
 **Don't Cover:**
