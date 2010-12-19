@@ -63,7 +63,7 @@ A lot of things like tags, license, or geolocation will identical across sets of
 
 ## Making Arizona Makers Internet-Famous
 
-There's a lot of cool things being built by hobbyist makers across Arizona. We should tell the internet about this, because it's not yet convinced that this sort of thing happens locally. There are, however, some things that should be and shouldn't be covered. Here's some examples:
+There's a lot of cool things being built by hobbyist makers across Arizona. We should tell the internet about this, because it's not yet convinced that this sort of thing happens here. There are, however, some things that should be and shouldn't be covered. Here's some examples:
 
 **Cover:**
 
@@ -75,7 +75,7 @@ There's a lot of cool things being built by hobbyist makers across Arizona. We s
 
 **Don't Cover:**
 
-- Unfinished projects and napkin drawings
+- Unfinished projects, napkin drawings, and pipe dreams
 - Stuff that's already been built over 9000 times
 - Someone's kit they made from some other person's instructions (like a Makerbot)
 - Sales pitches
