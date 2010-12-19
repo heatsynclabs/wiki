@@ -61,7 +61,26 @@ When uploading to Flickr, please be sure to specify the following for each photo
 
 A lot of things like tags, license, or geolocation will identical across sets of photos, so I recommend using Flickr's batch edit utility to set those things.
 
-## Making Arizona makers internet-famous
+## Making Arizona Makers Internet-Famous
+
+There's a lot of cool things being built by hobbyist makers across Arizona. We should tell the internet about this, because it's not yet convinced that this sort of thing happens locally. There are, however, some things that should be and shouldn't be covered. Here's some examples:
+
+Cover:
+
+- Finished working projects
+- Projects that took skillz to make
+- Visits to other hackerspaces and places where cool things are made
+- HSL Working group projects that involve several people (SyncFleet nearspace balloon, HelioSync power station, etc)
+- Local (AZ) initiatives to promote engineering or the intersections of engineering and art
+
+Don't Cover:
+
+- Unfinished projects and napkin drawings
+- Stuff that's already been built over 9000 times
+- Someone's kit they made from some other person's instructions (like a Makerbot)
+- Sales pitches
+
+Blag posts can include photos and video, but should not have an explosion of photos or video that would take centuries to load and watch. Video is cool with the kids these days, and HD is what the cool kids prefer. The even cooler kids use Vimeo, which is like Whole Foods to YouTube's Wal-Mart. Videos should ideally be kept under 8 minutes to prevent tl;dr and cat video distraction.
 
 ## Evangelizing HeatSync Labs
 
