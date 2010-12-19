@@ -78,6 +78,10 @@
 <ul>
 <li><a href="Community-Involvement"> Press</a></li>
 </ul></li>
+<li>How to Run HeatSync Labs
+<ul>
+<li><a href="Editor-Howto"> Office of Editor</a></li>
+</ul></li>
 </ul></li>
 <li>Money
 <ul>
