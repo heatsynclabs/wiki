@@ -80,7 +80,7 @@ There's a lot of cool things being built by hobbyist makers across Arizona. We s
 - Someone's kit they made from some other person's instructions (like a Makerbot)
 - Sales pitches
 
-Blag posts can include photos and video, but should not have an explosion of photos or video that would take centuries to load and watch. Video is cool with the kids these days, and HD is what the cool kids prefer. The even cooler kids use Vimeo, which is like Whole Foods to YouTube's Wal-Mart. Videos should ideally be kept under 8 minutes to prevent tl;dr and cat video distraction.
+Blag posts should include photos and/or video, but should not have an explosion of photos or video that would take centuries to load and watch. Video is cool with the kids these days, and HD is what the cool kids prefer. The even cooler kids use Vimeo, which is like Whole Foods to YouTube's Wal-Mart. Videos should ideally be kept under 8 minutes to prevent tl;dr and cat video distraction.
 
 Local Maker Blog posts should be shared with people at other blogs, such as Make and various popular HSL member blogs that may find it relevant to their interests.
 
