@@ -10,7 +10,7 @@ Blog posts about events should always, always, and **always** include the date t
 
 Not all blog posts require photos, but photos make the post more visually appealing, attention-getting, and share-friendly\*.
 
-Because the PIrate Party does not dominate American/Arizonan politics, we can't just use any random photos we find in cybersauce in our own content. Preferably, any photos used in blog posts should be Creative Commons licensed. Fully copyrighted images should only be used with the explicit permission of the author. Most CC licenses require attribution, so please include the author's name and a link to their photo's original home in cybersauce if one exists. A lot of excellent CC-licensed photos can be found on Flickr, and their advanced search lets you filter by license. Since we're a non-profit, we can use photos allowed for noncommercial use. This can go in a small caption reading something like:
+Because the PIrate Party does not dominate American/Arizonan politics, we can't just use any random photos we find in cybersauce in our own content. Preferably, any photos used in blog posts should be Creative Commons licensed. Fully copyrighted images should only be used with the explicit permission of the proprietor. Most CC licenses require attribution, so please include the author's name and a link to their photo's original home in cybersauce if one exists. A lot of excellent CC-licensed photos can be found on Flickr, and their advanced search lets you filter by license. Since we're a non-profit, we can use photos allowed for noncommercial use. This can go in a small caption reading something like:
 
 "Photo by Matt Mets. Distributed under a Creative Commons Attribution-ShareAlike 2.0 Generic License."
 
