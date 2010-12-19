@@ -46,7 +46,7 @@ Photos taken at HSL meetings should be of things that are interesting to the pho
 
 Photos of people or crowds of people should have them more or less centered or semi-symmetrically positioned with another subject of interest (for example, a crowd of people on one side of the photo with a giant tesla coil on the other). Photos should mostly be composed of the subject and devote as little space as possible to things that aren't being shot, like empty walls or partial shots of people, furniture, and other things in the way.
 
-With the amount of activity in HSL that happens every week, it would be difficult to prevent redundant photos of the same things or people being from filling up the HSL Flickr group, which possibly contains half the photos of a Mendel RepRap at this point. In any case, new photos should be of newer things, but always show off our high volume of activity and participation.
+With the amount of activity in HSL that happens every week, it would be difficult to prevent redundant photos of the same things or people being from filling up the HSL Flickr group, which possibly contains half the photos of a Mendel RepRap in existence at this point. In any case, new photos should be of newer things, but always show off our high volume of activity and participation.
 
 ### Sharing is Caring
 
