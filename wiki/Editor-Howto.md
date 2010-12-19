@@ -92,4 +92,4 @@ One of the things this position shares with marketing is bringing a personality 
 
 <!-- -->
 
-- Guest blogging: Local blags such as Gangplank's Blog, Electric Octopus, blag.dh, MeowMeowBot and other occasionally allow people to write guest posts. The more buzz is generated online, the more weight it has in decided whether it should be covered by traditional media and larger blogs. Sometimes, larger blogs and traditional media will also allow guest posts or op-eds.
+- Guest blogging: Local blags such as Gangplank's Blog, Nerdvana, Electric Octopus, blag.dh, MeowMeowBot and other occasionally allow people to write guest posts. The more buzz is generated online, the more weight it has in decided whether it should be covered by traditional media and larger blogs. Sometimes, larger blogs and traditional media will also allow guest posts or op-eds.
