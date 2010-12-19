@@ -65,7 +65,7 @@ A lot of things like tags, license, or geolocation will identical across sets of
 
 There's a lot of cool things being built by hobbyist makers across Arizona. We should tell the internet about this, because it's not yet convinced that this sort of thing happens locally. There are, however, some things that should be and shouldn't be covered. Here's some examples:
 
-Cover:
+**Cover:**
 
 - Finished working projects
 - Projects that took skillz to make
@@ -73,7 +73,7 @@ Cover:
 - HSL Working group projects that involve several people (SyncFleet nearspace balloon, HelioSync power station, etc)
 - Local (AZ) initiatives to promote engineering or the intersections of engineering and art
 
-Don't Cover:
+**Don't Cover:**
 
 - Unfinished projects and napkin drawings
 - Stuff that's already been built over 9000 times
