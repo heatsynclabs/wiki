@@ -38,6 +38,28 @@ The blog post should always include the event location address with a link to a 
 
 Our Flickr stream is full of awesome photos that let the world know how active we are and what sort of cool stuff we do.
 
+### how do i shot photo?
+
+Photos in general should be in focus and have a proper amount of exposure, either from good lighting or adjusting a camera's ISO levels in low lighting.
+
+Photos taken at HSL meetings should be of things that are interesting to the photographer, interesting to the people that missed the event, and possibly interesting to cybersauce in general.
+
+Photos of people or crowds of people should have them more or less centered or semi-symmetrically positioned with another subject of interest (for example, a crowd of people on one side of the photo with a giant tesla coil on the other). Photos should mostly be composed of the subject and devote as little space as possible to things that aren't being shot, like empty walls or partial shots of people, furniture, and other things in the way.
+
+With the amount of activity in HSL that happens every week, it would be difficult to prevent redundant photos of the same things or people being from filling up the HSL Flickr group, which possibly contains half the photos of a Mendel RepRap at this point. In any case, new photos should be of newer things, but always show off our high volume of activity and participation.
+
+### Sharing is Caring
+
+When uploading to Flickr, please be sure to specify the following for each photo:
+
+- Title: Preferably something unique, but never DSC_1701.
+- License: Preferably a Creative Commons Attribution 2.0 Generic license so that a wider group of people can use it and have to give us credit. The more people can use or share it == the more people can hear about HSL.
+- Tags: Tags should be included for each photo. Only include tags relevant to the specific photo, but some tags you could use on most HSL photos might include "heatsynclabs", "hackerspace", "arizona", and "gangplankphx" (for shots which include a lot of Gangplank in the background).
+- Location: This isn't used as a discovery tool much, but as the web becomes more localized and mapped-out, it might get use a lot more and let people know there's cool stuff in AZ.
+- People: Allowing people to be tagged in photos is handy, because if someone is looking at pics of the photographer, HSL pics will show. Don't tag people that don't want to announce their face in cybersauce though. Privacy == Serious Business.
+
+A lot of things like tags, license, or geolocation will identical across sets of photos, so I recommend using Flickr's batch edit utility to set those things.
+
 ## Making Arizona makers internet-famous
 
 ## Evangelizing HeatSync Labs
