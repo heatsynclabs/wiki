@@ -57,6 +57,7 @@ When uploading to Flickr, please be sure to specify the following for each photo
 - Tags: Tags should be included for each photo. Only include tags relevant to the specific photo, but some tags you could use on most HSL photos might include "heatsynclabs", "hackerspace", "arizona", and "gangplankphx" (for shots which include a lot of Gangplank in the background).
 - Location: This isn't used as a discovery tool much, but as the web becomes more localized and mapped-out, it might get use a lot more and let people know there's cool stuff in AZ.
 - People: Allowing people to be tagged in photos is handy, because if someone is looking at pics of the photographer, HSL pics will show. Don't tag people that don't want to announce their face in cybersauce though. Privacy == Serious Business.
+- Groups: Cool photos about HSL events should be added to the HSL Flickr group, as well as other groups that the photo might be appropriate for if invited, such as Hackerspace Whiteboards. More eyeballs, etc.
 
 A lot of things like tags, license, or geolocation will identical across sets of photos, so I recommend using Flickr's batch edit utility to set those things.
 
