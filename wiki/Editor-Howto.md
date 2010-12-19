@@ -63,3 +63,11 @@ A lot of things like tags, license, or geolocation will identical across sets of
 ## Making Arizona makers internet-famous
 
 ## Evangelizing HeatSync Labs
+
+One of the things this position shares with marketing is bringing a personality to the presentation of HeatSync Labs to the public. To create a welcoming atmosphere, its ideal that the Board in general practice their communication skills by speaking on and writing about HeatSync Labs. There's different places to do this:
+
+- Hacker/Maker conferences: In-person events with hackers and makers from different spaces helps forge personal connections between hackerspace, which may eventually lead to something really cool.
+
+<!-- -->
+
+- Guest blogging: Local blags such as Gangplank's Blog, Electric Octopus, blag.dh, MeowMeowBot and other occasionally allow people to write guest posts. The more buzz is generated online, the more weight it has in decided whether it should be covered by traditional media and larger blogs. Sometimes, larger blogs and traditional media will also allow guest posts or op-eds.
