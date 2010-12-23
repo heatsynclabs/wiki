@@ -1,7 +1,5 @@
 ## Professional Options
 
-American Circuit Technology(http://www.act-cw.com) - Quick Turn arounds, cost-effective pricing and quality boards. Does prototypes and offers articles on many PCB related topics.
-
 batchpcb for fairly quackish and cheap turnaround - 1 month seedstudio for opening your product up and/or cheap as low as 30 bucks for 5 boards
 
 otherwise find a deal with the big boys advanced pcb (4pcb.com) has 2 layer 33 each at 33each.com (min 4+1free comes to like 150 shipped) a and they have a decent system for checking your design at freedfm.com
