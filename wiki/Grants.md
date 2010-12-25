@@ -9,3 +9,8 @@
 BofA Gives Grants for Neighborhood Builders and Local Heros:
 
 - <http://www.bankofamerica.com/neighborhoodexcellence>
+
+<!-- -->
+
+- <http://www.verizonfoundation.org/grant/index.shtml>
+- <http://www.intel.com/about/corporateresponsibility/community/giving/usgrants.htm>
