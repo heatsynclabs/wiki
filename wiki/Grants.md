@@ -1,14 +1,14 @@
 - <http://grants.gov/> government grants for research and development
-- <http://www.sbir.gov/> STTR grants for non profit small businesses
+- <http://www.sbir.gov/> SBIR for FOR PROFIT groups, STTR grants for FOR profit small businesses
 
 <!-- -->
 
 - <http://www.refresheverything.com/>
-- <http://www.lincnet.net/artist-space/ford-foundation-planning-and-pre-development-grants>
+- <http://www.lincnet.net/artist-space/ford-foundation-planning-and-pre-development-grants> Specifically for attaining a space
 
-BofA Gives Grants for Neighborhood Builders and Local Heros:
+<!-- -->
 
-- <http://www.bankofamerica.com/neighborhoodexcellence>
+- <http://www.bankofamerica.com/neighborhoodexcellence> Neighborhood Builder starts March 1
 
 <!-- -->
 
