@@ -15,6 +15,7 @@
 <ul>
 <li><a href="Projects">Projects</a>
 <ul>
+<li><a href="Accessibility"> Accessible Arduino</a></li>
 <li><a href="Laser-Cutter-Kickstarter">Lasercutter Kickstarter</a></li>
 </ul></li>
 <li><a href="Rules">Rules</a>
