@@ -1,4 +1,4 @@
-Bryan and Jacob have been looking into accessibility grants. The following is our research:
+Bryan and Jacob have been looking into accessibility grants. The following is our research which is being applied towards our current goal, the [ Verizon Foundation Grant](Verizon)
 
 # Grants
 
