@@ -213,7 +213,9 @@ The schools with whom we work have generally seen no rise in test scores in the 
 
 # Broader Gains?
 
-Are there broader gains and benefits that will be realized if you are successful that we should be aware of when considering your project/program? Guidance:
+Are there broader gains and benefits that will be realized if you are successful that we should be aware of when considering your project/program?
+
+## Guidance:
 
 You may have benefits to add such as:
 
@@ -269,7 +271,9 @@ Who are the persons you see as critical to program/project achievement and what 
 
 ## Guidance:
 
-This is a critical element in predicting project success. People are more powerful than great plans, a big committee, or even a lot of money in achieving results. While you may first consider resume details - e.g., degrees and years of experience—do recognize that in many areas, there is no strong correlation between these factors and ability to run an effective project. Much research suggests, for example, that on-job learning is far more useful to people than is what they learned in a classroom years ago. And when a person has 20 years of experience that may be good or it may not! For more depth on some characteristics of successful project leaders click here for <http://www.rinstitute.org/sparkplugleaders>. Examples:
+This is a critical element in predicting project success. People are more powerful than great plans, a big committee, or even a lot of money in achieving results. While you may first consider resume details - e.g., degrees and years of experience—do recognize that in many areas, there is no strong correlation between these factors and ability to run an effective project. Much research suggests, for example, that on-job learning is far more useful to people than is what they learned in a classroom years ago. And when a person has 20 years of experience that may be good or it may not! For more depth on some characteristics of successful project leaders click here for <http://www.rinstitute.org/sparkplugleaders>.
+
+## Examples:
 
 Suzie Johnson has strong passion about all babies having full life expectancy by being born within normal weight range and with no preventable health issues. She has shown strong success at personally working with pregnant women and those who most influence them to get and follow prenatal care while at the Guilford Hospital for 8 years. She is tenacious and very energetic—and her enthusiasm spreads to all staff who works with her. She is not an expert in prenatal care but knows how to connect participants to people who are.
 
