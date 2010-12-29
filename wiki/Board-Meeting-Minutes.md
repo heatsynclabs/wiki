@@ -190,3 +190,7 @@ HeatSync Labs 10/14/2010 Present: Jacob, Jeremy, David, Zach, Joyce, Andrea Abse
 `   * Send out a small list of questions about how everyone feels about their position & HSL`\
 `   * Feedback on the organization `\
 `   *Jeremy to email out later this week`
+
+### December 21, 2010
+
+- [ 21 Dec 2010](21-Dec-2010)
