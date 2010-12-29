@@ -1,1 +1,1 @@
-[Help:Formatting](Help-Formatting)
+[ Formatting](Help-Formatting)
