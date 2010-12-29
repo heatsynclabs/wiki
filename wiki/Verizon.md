@@ -93,7 +93,7 @@ We are different from these and other groups primarily because of our strong int
 
 We're most like a traditional academic incubator model mixed with the newer coworking model. Entreprenuers and skilled tradespeople who don't wish to work in an office alone but would rather work side by side with the other brightest minds in the community in order to build their workspace in public
 
-We are part of a larger maker/diy culture exemplified by Make Magazine These spaces are popping up throughout the united states, and globally, all with different visions and goals, but most recently many converging on non profit which of them becoming non profitare listed at hackerspaces.org
+We are part of a larger maker/diy culture exemplified by Make Magazine These spaces are popping up throughout the united states, and globally, all with different visions and goals, but most recently many converging on non profit which of them becoming non profitare listed at hackerspaces.org Heat Sync is a specialized open colaberative workspace brought together with one mission in mind, to improve technology. As an open collaboration workspace we bring many specialized minds together to not only build the best possible technology, but also get different opinions from every perspective.
 
 # Participants
 
