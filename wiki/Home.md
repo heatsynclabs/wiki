@@ -82,6 +82,7 @@
 <li>How to Run HeatSync Labs
 <ul>
 <li><a href="Editor-Howto"> Office of Editor</a></li>
+<li><a href="Treasurer-Howto"> Office of Treasurer</a></li>
 </ul></li>
 </ul></li>
 <li>Money
