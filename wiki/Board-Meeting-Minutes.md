@@ -191,7 +191,7 @@ HeatSync Labs 10/14/2010 Present: Jacob, Jeremy, David, Zach, Joyce, Andrea Abse
 `   * Feedback on the organization `\
 `   *Jeremy to email out later this week`
 
-### December 4, 2010
+# December 4, 2010
 
 Emergency board meeting Sat Dec 4th, 8pm
 
@@ -209,6 +209,6 @@ Resolutions:
 - Per kickstarter rules\*, we are unable to support our own kickstarter financially. Resolve, however, that the board will do everything it can to ensure success.
   - <http://www.kickstarter.com/help/faq#IPledToMyOwnProjFromAnotAccoAndNowMyAmazPaymAccoIsCanc>
 
-### December 21, 2010
+# December 21, 2010
 
 - [ 21 Dec 2010](21-Dec-2010)
