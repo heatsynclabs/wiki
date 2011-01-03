@@ -191,6 +191,24 @@ HeatSync Labs 10/14/2010 Present: Jacob, Jeremy, David, Zach, Joyce, Andrea Abse
 `   * Feedback on the organization `\
 `   *Jeremy to email out later this week`
 
+### December 4, 2010
+
+Emergency board meeting Sat Dec 4th, 8pm
+
+Attending: Matt, Jacob, Drea, Will, Jeremy, Joyce, Jose via phone, David leaving early
+
+Agenda:
+
+Discuss Epilog Laser and kickstarter conflict per member demand
+
+Resolutions:
+
+- Double down on kickstarter
+- Contact Scott Cate within 2 business days
+- Contact with a neutral message. Again restate pending questions re Exclusivity, Deadline, and any other hidden terms.
+- Per kickstarter rules\*, we are unable to support our own kickstarter financially. Resolve, however, that the board will do everything it can to ensure success.
+  - <http://www.kickstarter.com/help/faq#IPledToMyOwnProjFromAnotAccoAndNowMyAmazPaymAccoIsCanc>
+
 ### December 21, 2010
 
 - [ 21 Dec 2010](21-Dec-2010)
