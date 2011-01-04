@@ -38,7 +38,7 @@ Please note that the meeting minutes for the monthly meetings are now being docu
 
 ### May
 
-[ May 5 2010](May-5-10)\
+[ May 13 2010](May-13-10)\
 [ May 19 2010](May-19-10)
 
 ### June
