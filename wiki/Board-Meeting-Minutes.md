@@ -28,6 +28,9 @@ Please note that the meeting minutes for the monthly meetings are now being docu
 
 ### June
 
+[ June 10 2010](June-10-10)\
+[ June 24 2010](June-24-10)
+
 ### July
 
 [ July 8 2010](July-8-10)\
@@ -37,30 +40,6 @@ Please note that the meeting minutes for the monthly meetings are now being docu
 
 [ Aug 12 2010](Aug-12-10)\
 [ Aug 26 2010](Aug-26-10)
-
-# July 21, 2010
-
-HSL Board Meeting July 22, 2010 Zach, Jacob, Joyce, Andrea, Jeremy, Rick, Will, and Jose
-
-Space constraints in new space, pay for keycard access?  Move to a modular cart based model? -- Came up in the GoogleGroups thread about creating mobile for certain things. Put wheels on tables. Part of this is talking with Derek about key card access to the space. Derek was quoted \$5000 for the building. We want to do some research on pricing for the doors. Zach to get quote to Jacob about key card access. We are losing some space that we thought would be there. Need to keep our eyes and ears open - just keep up the discussion on what this is going to look like. Part of this would be the lease agreement or write up of some sort to get an answer of what is going on with the space. Look at what we want, what are we getting, what can we do? What we want - we want the space next door. Need more workspace. Jacob/Jeremy to talk with GP about this ASAP.
-
-Anniversary? -- August 13 is the anniversary of HSL first public meeting. Sept 24 was our incorp date. See if Harold can contact the Mini Bosses about performing. Science Gone Right. Mustache Party (printed on the rep rap, pay \$5 per stache). Laser wall, UV wall. BIg Ass Party. Coordinate with different performers (Through the Wires and Jacob to coordinate). Jeremy to contact Harold about MiniBosses. Joyce and Andrea to get press contacts and info out soon. Jacob will clear with Derek for Gangplank usage. Catering options too (Joe’s or 24 carrots or other options?) Most money for the least amount of work.
-
-Water balloon fight is saturday! -- David explained that it was a team based strategy. No exact pricing structure set up yet. Need something to dissolve (lollypop or chalk or??). Joyce and David to pin down a game plan tonight and post on wiki. Everyone guerilla pimp tomorrow. Will be able to post on twitter and facebook after we learn more about the rules.
-
-Kickstarter status -- Getting credit apps for the cutter. -- Need to brainstorm ideas for videos and promo type stuff for Kickstarter. -- Still deciding between the actual cutters and selection. Go with Chinese -- options on the lasers. Either set up the Kickstarter to have tiers.
-
-Finances update from Jose -- Outstanding receipts to locate -- Jose emailed questions to Carolyn about some of the topics. -- Trying to sort through everything in the account.
-
-Info request from penn school for global entrepreneurship, was this taken care of? -- Andrea to respond to tonight. (7/22)
-
-Need presenter for next thursday, and several thursdays after that -- Andrea to go to the Mesa Arts Center to see if we can get the glass blowers to present the first week of the month (August). -- Kel to present police robots? Wont be very hands on or hack-able. Very cool and instructional too. Possibility for a bait car? -- Talk to guitar visualization presenter about presentation.
-
-Urban Stew -- Has money to host workshops at MADCAP in Tempe. Want us to coordinate and teach something there that week. No clarity so far, but keeping up communication. Coming in Sept? possibly?
-
-WorkSpace/Brainstorming/Socialization Space -- There is limited space in the workroom. Just be cautious about the space being limited. Try to use the room for working on projects instead of just socializing. Just make the move to the conference room. Not discouraging but just noting that some people find it hard to work in that space then.
-
-HOPE Recap -- Handed out all the promo stuff -- Our website was set up on the hackerspace panel on the screen. People really liked our site. -- Joyce spoke on the panel - it was about our differences and our obstacles that we’ve overcome. Alot of hackerspaces have similar views and models, but we have some differences as well. Our model is a cross between NYC Resistor and Noisebridge.
 
 # June 10, 2010
 
