@@ -14,7 +14,7 @@ Please note that the meeting minutes for the monthly meetings are now being docu
 
 ### Board Meeting Calendar
 
-- [ 2011](HeatSync-Labs-2011-Board-Meeting-Calendar)
+- [ 2011](HeatSync-Labs-2011-Board-Meeting-Calendar.doc)
 
 ### January
 
