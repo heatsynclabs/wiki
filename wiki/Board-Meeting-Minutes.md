@@ -51,7 +51,8 @@ Please note that the meeting minutes for the monthly meetings are now being docu
 
 ### October
 
-[ Oct 14 2010](Oct-14-10)
+[ Oct 14 2010](Oct-14-10)\
+[ Oct 28 2010](Oct-28-10)
 
 #### December
 
