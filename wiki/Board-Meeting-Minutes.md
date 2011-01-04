@@ -32,34 +32,7 @@ Please note that the meeting minutes for the monthly meetings are now being docu
 
 ### August
 
-# August 12, 2010
-
-HSL Board Mtg August 12, 2010 Jeremy, Jose, Rick, Andrea, Jacob, Joyce, David, Will (via Skype)
-
-- Move by mon or tue, preferably over the weekend: Last day for the move would be about Tuesday.
-
-\- mobile stations and storage needed for the space. encourage the members to spearhead these things. Begin to reengage the members. - discuss with Derek about the miscommunication with the space layout.
-
-- Finances: everything is up to date online etc. currently online at QuickBooks through July. Try to make purchases through org account instead for easier tracking purposes. Jose to research on sales taxes - how to handle once tax exempt.
-- PANIC :) we have a lot of amazing opportunities we need to double
-
-down on or lose them
-
-- Poker night: gone bye bye, Lego League is hosting a poker night in Sept so we’re out for that. Ask to benefit HSL some other time. Blog post about the hardware hacking that went along with hacking casino games.
-- Laser Cutter: viewed it - not a lot of public discussion. What do we do from here? Need to get a secured “no” or “yes” on lease. Then go from there after the move.
-- Urban stew response: interested in us doing a workshop. 100\$ per workshop. PR approach to this. Can we charge for supplies? Per person? How many people? Multiple workshops. Can we sell course materials? Can we sell shwag at the event? Time frame for workshop? When are we looking at?
-- Anniversary show: lasers, mustaches, catering/food, robots, community, music, fun. Need a big to-do list for things to work on. To be posted on wiki -- headed by Jeremy and Jacob.
-
- -mini bosses: Jeremy sent email out to group.  -TTW: are game for the show if we can’t book MiniBosses.
-
-- Solido night: 3D printer manufacturer in the valley. Looking for next Wednesday. Catering food. Posted out on the forum with a follow up blog post about the event.
-- Local motors: Empower members to begin work on this. Jose to keep in contact and try to motivate more members. Waiting for feedback from L/M.
-- Speakers: More speakers!!!! Todd? (speak to anything). discussed the “hypnotist” idea -- created a neuro hack idea instead. Repost to the Google groups with this info. Tear down party - everyone brings something from Goodwill and we break them down. Stuffed animal party - combine parts of animals. Rep Rap presentation or EL wire talk.
-- Kickstarter: nada to say at this point.
-- Phx2600: Unlimited Coffee closed down and now 2600 doesn’t have a meeting location. Let them know that Gangplank space is available. Refer to katie@gangplankhq.com.
-- Wednesday GP Community Board Mtg: Zach to spear head - everyone to coordinate with him about.
-- Projects: Put out all the projects and leads that we have and ask for help. Note that we might be forced to drop these projects if they are taken on by someone. Jeremy will be talking to Mark Chung about the badges for the Ruby conf.
-- Rick resigning from board -- moving to Oregon. Last board meeting. :( \*tear\*
+[ Aug 12 2010](Aug-12-10)
 
 # August 26, 2010
 
