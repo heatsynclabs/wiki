@@ -30,44 +30,12 @@ Please note that the meeting minutes for the monthly meetings are now being docu
 
 ### July
 
+[ July 8 2010](July-8-10)\
+
 ### August
 
 [ Aug 12 2010](Aug-12-10)\
 [ Aug 26 2010](Aug-26-10)
-
-# August 26, 2010
-
-HSL Board Meeting 8/26/2010 Jacob, David, Joyce, Jeremy, Drea, Rick, Zach
-
-Membership Update Members get key access to Gangplank. Drea to coordinate with Katie about letting membership know that access is available. New membership Class or orientation Key?
-
-- Resource manager is open, mention at next meeting
-
-Rick to email resignation Blog post to go out (Tuesday morning) with information about resignation and open position.
-
-- Anniversary Party
-
-Decided on TTW (Through the Wires) for music Dates from Katie: Looking at October Continued work on the wiki Pick Name!!!!!
-
-- Community Meeting at GangPlank
-
-From Wednesday 8/25 Requests micro waves and a fire creating device so they can practice using fire extinguishers. Request for us to build something. Construction starting next door and should be finished in February-ish. Not sure when we have to be out of the suite yet. Possibly a group moving over to the suite next door - to be called Gangplank Annex?
-
-- Teardown and Monster party
-
-Next Thursday meeting; Sept 2. - TearDown Meeting Blog post about that to go out. Monster Party; John Aho to help lead.
-
-- Lego League
-
-Twitters and Blog post about the poker night. Need more support: only 13 people registered at this point.
-
-- Local Motors
-
-Need blog post about local motors. Possibly bring them out for the chase on Saturday morning for the balloon launch.  - Rick to get a second tank of helium for the launch tomorrow.
-
-# July 8 2010
-
--Time for meetings will stay at 7pm. -Get your keys from Katie. They are for the back door 607(Has a 7 on it). Key can be difficult sometimes. Wiggle it just a little bit. Need to lock after you unlock. -New store front space is great. Kind of small. -Next step? Do we get to Derick before the build out.? Yes. We need to talk to him about installation of double doors and using the closet space. Roll out possibilities for tools. Where will other tools go? -Local foods? open later than 9pm? - San Tan, Irish Pub, Tea, Sandwiches -Journal on Quick books for monies. Reimbursements are incomplete. Not all of the receipts are in. We need the accompanying receipts. Jose will send out requests for receipts to everyone individually. -Capital expenses like equipment need to be by HSL account instead of reimbursements. -Capital Expenses - Objects of \$100 or more that hold value. -Temporary Investor possibilities. Person loans money to HSL? HSL pays back? Is that ok? -Sales Tax info was sent out to board. Do we need an LLC to sell items? Can we resell kits if we repackage with our stuff. -Vending machine possibilities may conflict with mission statement. Kit's could be repackaged with our logos. Jose is going to verify this. -GP is asking for stuff. HSL needs stuff too! Let's get a wish list together and post it to the group -Water Balloon Fundraiser - Get the word out. Poll people on twitterfacebookverse to see if they are interested. And then get budget together and possible strategies for games. -Laser Cutter - Needs at least one person to present their social security number to look at our credit and see if we can lease it. Get contracts in to Will to get to the Laser Cutter Vendors. Then can judge a down payment that we can put down for the Laser Cutter and a possible monthly payment. We'll have to ask if we can even afford that monthly down payment. Then we can do a kickstarter which will judge if we are receiving a down payment or if we can buy it out right(which would be awesome). -Will is trying to see if the laser cutter vendors are interested in doing onsite presentations of their equipment. -Zach looked at our Analytics and found that most people have been visiting our main page. Traffic has been petering off but we get spikes when we have posts pimped by other blogs. -We had a long discussion about content on our blog. Ultimately we decided we would like posts of the following format: Quick List of Cool Projects/Activities HSL was Involved in(Pictures and Very Brief Explanation), Member write-ups that can be sent to David for polishing and publishing, and Editor News Columns that David is currently populating the blog with(HSL Announcements and David's Interview Columns)
 
 # July 21, 2010
 
