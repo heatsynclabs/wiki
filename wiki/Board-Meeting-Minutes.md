@@ -31,6 +31,7 @@ Please note that the meeting minutes for the monthly meetings are now being docu
 ### July
 
 [ July 8 2010](July-8-10)\
+[ July 21 2010](July-21-10)
 
 ### August
 
