@@ -51,54 +51,9 @@ Please note that the meeting minutes for the monthly meetings are now being docu
 
 ### October
 
-# October 14, 2010
-
-HeatSync Labs 10/14/2010 Present: Jacob, Jeremy, David, Zach, Joyce, Andrea Absent: Jose, Will
-
-- Plushie Party
-
-`   *Joyce heading with assistance of Jeremy/Jacob for electronics portion at next meeting. `\
-`   *Blog post to go out – ask people to bring own stuffed animals and electronics. Circuit   Monkey donating electronics for the meeting. `\
-`   *Joyce to email Katie about pimping this event as well. `\
-`   *Each board member please bring extra animals and electronics for the meeting please! `\
-`   *Bring those by this weekend! `
-
-- Anniversary Party
-
-`   * Black Fabric decision: No purchase of fabric, clearing out room and using entire space.`\
-`   * PR – help/needs? David Uhlman to email Joyce Republic contact. `\
-`   * Projects – what are we going to have? Booklet print up? Drea to manage.`\
-`   * Day-Of Needs – inform makers what time to set up? Thru the Wires arrival?`
-
-- Jeremy to email Drea the list of makers presenting.
-- Jacob/Jeremy/Drea to sketch out room for layout Friday. Email out example after.
-
-`   * Volunteers throughout the night – listing of needs? Jacob/Jeremy to provide`
-
-- Need to print more flyers. Make 4” flyers this weekend
-- Drea to print updated flyers this weekend.
-- Urban Outfitters has mustache stuff -- \$40 on marketing stuff to use as a raffle.
-- HSL @ MADCAP with Urban Stew
-
-`   * Update: Nov 13 at MADCAP in Tempe`\
-`   * Needs: Help needed for leading this event; no one taken it up. `\
-`   * We need to get back in touch with Simon Kits – possibly order regardless of MADCAP.`\
-`   * Kits are $15 (want to order 20)`
-
-- 501c3 Update
-
-`   *Delay of checking mail led to passing deadline; Jeremy and Drea to finish the process.`\
-`   * Letter was dated Aug 30, and we have 90 days. So…. We have til `\
-`   * Still attempting to contact IRS Agent`\
-`   *What we need to do in the meantime`
-
-- HSL Survey
-
-`   * Gangplank Survey that came out inspired Jeremy. `\
-`   * Send out a small list of questions about how everyone feels about their position & HSL`\
-`   * Feedback on the organization `\
-`   *Jeremy to email out later this week`
+[ Oct 14 2010](Oct-14-10)
 
 #### December
 
-[ Dec 4 2010](4-Dec-10) [ Dec 21 2010](21-Dec-2010)
+[ Dec 4 2010](4-Dec-10)\
+[ Dec 21 2010](21-Dec-2010)
