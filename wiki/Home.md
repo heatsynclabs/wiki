@@ -101,4 +101,4 @@
 
 <small>Newly... [edited articles](Special-Recentchanges), [created articles](Special-Newpages), [uploaded images](Special-Newimages)</small>
 
-<small>New Server..Horray -- New Domain..Horray</small>
+<small>New Server..Horray -- New Domain..Horray -- And Redirects in place.</small>
