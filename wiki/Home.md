@@ -99,4 +99,4 @@
 </tbody>
 </table>
 
-<small>Newly... [edited articles](Special-Recentchanges), [created articles](Special-Newpages), [uploaded images](Special-Newimages)</small>
+<small>Newly... [edited articles](Special-Recentchanges), [created articles](Special-Newpages), [uploaded images](Special-Newimages)</small> <small>New Server..Horray</small>
