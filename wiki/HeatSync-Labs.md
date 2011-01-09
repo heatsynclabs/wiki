@@ -14,5 +14,5 @@ We at HeatSync Labs aim to make these resources available to our creative commun
 
 ## Website
 
-- \[<http://www.heatsynclabs.org/>\| HeatSync Labs Website\]
-- \[<http://www.flickr.com/groups/heatsynclabs/>\| HeatSync Labs on Flickr\]
+- [HeatSync Labs Website](http://www.heatsynclabs.org/)
+- [HeatSync Labs on Flickr](http://www.flickr.com/groups/heatsynclabs/)
