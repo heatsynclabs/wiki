@@ -2,7 +2,7 @@
 
 *HSL_Board_Meeting_12-21-2010.doc*
 
-HeatSync Labs Non-Profit Organization Board of Administration Open Session 21st of December, 2010 7:00p.m.
+\<nowiki\> HeatSync Labs Non-Profit Organization Board of Administration Open Session 21st of December, 2010 7:00p.m.
 
 Location: Gangplank 260 S. Arizona Avenue Chandler, AZ 85225
 
@@ -98,4 +98,4 @@ Information Items:
 
 N/A
 
-Adjournment
+Adjournment \<nowiki\>
