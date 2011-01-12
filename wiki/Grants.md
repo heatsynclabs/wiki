@@ -13,5 +13,6 @@
 <!-- -->
 
 - <http://www.verizonfoundation.org/grant/index.shtml>
+- <http://www.intel.com/about/corporateresponsibility/community/matchgrants.htm> - Intel Matching Grants, 10k from intel for having an employ donate 20 hours to us! 501c3 needed
 - <http://www.intel.com/about/corporateresponsibility/community/giving/usgrants.htm>
 - <http://responsibility.motorola.com/index.php/society/comminvest/education/igg/> Innovation Generation funding is designed to inspire students to learn about science and generate interest in science-related careers. Innovation Generation Collaborative Grants – Support medium- to large-scale STEM education collaborations between two or more non-profit organizations, schools and/or school districts, with joint requests ranging from \$150,000 to \$500,000
