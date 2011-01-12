@@ -1,4 +1,22 @@
-**Old Business** *LAN Party (status)* - Jeremy. Doesn’t think that it is feasible from a security standpoint. HSL was offered a tour of PNap. Jeremy to schedule. Next weekend. Zach and Will to spearhead a business model and plan for LAN party. *Auction Research* - Shannon. She’s not here. No update. Possible email? Jacob to email. *Gangplank (keys/move)* - Jacob. Keys to go out. Request all 7 members for keys. Jacob will email him for that. Tour of new Gangplank? Jacob. *Shirt Sales (update)* - Andrea. Will look at it on Wednesday. Email out results. Make sure to check out the thread on Labcoats. *Make Magazine* - Jeremy. Check to mailed to Andrea’s house. *IEEE Banquet* - David. GOLD bought a table at IEEE banquet. 6pm on Saturday. Hilton on University. *Rep Rap Funds* - Andrea. Worked out with David. *Bios* - Well done thus far. David *IRS Update* - Andrea and Jeremy. Jeremy to compile a To-Do list. *SkySong Update* - Jacob, Jeremy, Andrea. Visited ASU SkySong and presented to the prototyping class. Made contact with a couple people and hope to maintain contact.
+**Old Business** *LAN Party (status)* - Jeremy. Doesn’t think that it is feasible from a security standpoint. HSL was offered a tour of PNap. Jeremy to schedule. Next weekend. Zach and Will to spearhead a business model and plan for LAN party.
+
+*Auction Research* - Shannon. She’s not here. No update. Possible email? Jacob to email.
+
+*Gangplank (keys/move)* - Jacob. Keys to go out. Request all 7 members for keys. Jacob will email him for that. Tour of new Gangplank? Jacob.
+
+*Shirt Sales (update)* - Andrea. Will look at it on Wednesday. Email out results. Make sure to check out the thread on Labcoats.
+
+*Make Magazine* - Jeremy. Check to mailed to Andrea’s house.
+
+*IEEE Banquet* - David. GOLD bought a table at IEEE banquet. 6pm on Saturday. Hilton on University.
+
+*Rep Rap Funds* - Andrea. Worked out with David.
+
+*Bios* - Well done thus far. David
+
+*IRS Update* - Andrea and Jeremy. Jeremy to compile a To-Do list.
+
+*SkySong Update* - Jacob, Jeremy, Andrea. Visited ASU SkySong and presented to the prototyping class. Made contact with a couple people and hope to maintain contact.
 
 **New Business**
 
@@ -18,7 +36,11 @@
 
 *Sponsorships*- Various sponsorships from Avnet, CnC, and Surge. *Membership Packet* - Working on something. Andrea. Send out whole thing complete by Saturday night. *GoogleVoice* - Asterisk account for information about HSL. Zach and Will. *Ignite Phoenix* - Rick brings up Ignite Phoenix. There is a 5 minute talk. March something. Tickets available soon. *MakersFaire* - May in San Francisco, CA. Jeremy and Andrea going. Anyone else? Coordinate. Andrea.
 
-**Action Items** Everyone needs to read the draft application everyone needs to submit resume and type qualifications Everyone DUES DUE! next month coming up!
+**Action Items**
+
+Everyone needs to read the draft application\
+everyone needs to submit resume and type qualifications\
+Everyone DUES DUE! next month coming up!
 
 **Jacob** Find out from Derek on status of move (arduino night filling up!) our move? Assume were taking over arduino night - post something on their group and lock down? request keys for all 7, keys on new place 501c3 Narrative - Assisted by David, fallback on Jeremy - By next Thursday 501c3 Financials - Assisted by Jeremy by next Thursday Email shannon on auction  ignite! subcommittee -  put on calendar to be ready for next one, everyone to go to this one
 
