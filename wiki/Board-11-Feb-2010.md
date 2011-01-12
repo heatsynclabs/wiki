@@ -34,7 +34,15 @@
 
 *ByLaws* - Need to adopt bylaws and include a conflict of interest clause and sexual harassment/nondiscrimination clause. David and Andrea to complete this. Due by Thursday.
 
-*Sponsorships*- Various sponsorships from Avnet, CnC, and Surge. *Membership Packet* - Working on something. Andrea. Send out whole thing complete by Saturday night. *GoogleVoice* - Asterisk account for information about HSL. Zach and Will. *Ignite Phoenix* - Rick brings up Ignite Phoenix. There is a 5 minute talk. March something. Tickets available soon. *MakersFaire* - May in San Francisco, CA. Jeremy and Andrea going. Anyone else? Coordinate. Andrea.
+*Sponsorships*- Various sponsorships from Avnet, CnC, and Surge.
+
+*Membership Packet* - Working on something. Andrea. Send out whole thing complete by Saturday night.
+
+*GoogleVoice* - Asterisk account for information about HSL. Zach and Will.
+
+*Ignite Phoenix* - Rick brings up Ignite Phoenix. There is a 5 minute talk. March something. Tickets available soon.
+
+*MakersFaire* - May in San Francisco, CA. Jeremy and Andrea going. Anyone else? Coordinate. Andrea.
 
 **Action Items**
 
