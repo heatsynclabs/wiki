@@ -1,20 +1,22 @@
-## Public
+# Public
 
 Please note that the meeting minutes for the monthly meetings are now being documented on our [blog](http://www.heatsynclabs.org/=). Refer there for upcoming event notices and happenings. The ones listed below are historic.
 
-### November
+## November
 
 - [ 19 Nov 2009](19-Nov-2009)
 
-### December
+## December
 
 - [ 3 Dec 2009](3-Dec-2009)
 
-## Board
+# Board
 
-### Board Meeting Calendar
+## Board Meeting Calendar
 
 - [ 2011](HeatSync-Labs-2011-Board-Meeting-Calendar.doc)
+
+## 2010
 
 ### January
 
@@ -75,3 +77,5 @@ Please note that the meeting minutes for the monthly meetings are now being docu
 
 [ Emergency Mtg Dec 4 2010](4-Dec-10)\
 [ Dec 21 2010](21-Dec-2010)
+
+## 2011
