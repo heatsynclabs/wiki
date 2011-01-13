@@ -2,6 +2,10 @@
 
 We would like to build a tesla coil for the mustache laser party (and beyond!)
 
+## Results First!
+
+<http://www.flickr.com/photos/zgiles/5157397046/> <http://www.flickr.com/photos/teamdroid/5111039475/> <http://www.flickr.com/photos/teamdroid/5111638950/> <http://www.flickr.com/photos/teamdroid/5111640714/> <http://www.flickr.com/photos/nebarnix/5101761518/> <http://www.youtube.com/watch?v=q17jW9Azok0> <http://www.youtube.com/watch?v=xoqYndAUuE0> <http://www.youtube.com/watch?v=Stf0R-ejJO8>
+
 ## Design Summary
 
 Traditional Basic Tesla Coil Configuration:\
