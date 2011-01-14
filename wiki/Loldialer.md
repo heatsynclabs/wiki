@@ -10,7 +10,7 @@ Hhhhhhhokay, so the idea here kiddies, is to build a device that can make a call
 - Arduino Ethernet Shield
 - SD Card
 - Twilio
-- 16x2 LCD Screen
+- 16x2 LCD Screen (Serial)
 - Phone keypad
 - Basic Ruby or PHP web \[page\|service\]
 - Internets
