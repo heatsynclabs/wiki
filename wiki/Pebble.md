@@ -14,39 +14,33 @@ Shift registers take in serial data (one number at a time, 1, 0, 1, 0, 1, 1, 1, 
 
 #### Code
 
-<code>
+     int CLOCK=4;
+     int DATA=3;
+     int STROBE=2;
 
-`int CLOCK=4;`\
-`int DATA=3;`\
-`int STROBE=2;`
+    void setup() {
+      //set pins to output so you can control the shift register
+      pinMode(STROBE, OUTPUT);
+      pinMode(CLOCK, OUTPUT);
+      pinMode(DATA, OUTPUT);
+    }
 
-void setup() {
+    void loop() {
+      // count from 0 to 255 and display the number 
+      // on the LEDs
+      for (int numberToDisplay = 0; numberToDisplay < 256; numberToDisplay++) {
+        // take the latchPin low so 
+        // the LEDs don't change while you're sending in bits:
+        digitalWrite(STROBE, LOW);
+        // shift out the bits:
+        shiftOut(DATA, CLOCK, MSBFIRST, numberToDisplay);  
 
-` //set pins to output so you can control the shift register`\
-` pinMode(STROBE, OUTPUT);`\
-` pinMode(CLOCK, OUTPUT);`\
-` pinMode(DATA, OUTPUT);`
-
-}
-
-void loop() {
-
-` // count from 0 to 255 and display the number `\
-` // on the LEDs`\
-` for (int numberToDisplay = 0; numberToDisplay < 256; numberToDisplay++) {`\
-`   // take the latchPin low so `\
-`   // the LEDs don't change while you're sending in bits:`\
-`   digitalWrite(STROBE, LOW);`\
-`   // shift out the bits:`\
-`   shiftOut(DATA, CLOCK, MSBFIRST, numberToDisplay);  `
-
-`   //take the latch pin high so the LEDs will light up:`\
-`   digitalWrite(STROBE, HIGH);`\
-`   // pause before next value:`\
-`   delay(500);`\
-` }`
-
-} </code>
+        //take the latch pin high so the LEDs will light up:
+        digitalWrite(STROBE, HIGH);
+        // pause before next value:
+        delay(500);
+      }
+    }
 
 ### Temperature sensor
 
