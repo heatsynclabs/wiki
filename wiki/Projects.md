@@ -7,7 +7,7 @@
 - [Laser Cutter Kickstarter](Laser-Cutter-Kickstarter)
 - [Solar Concentrator Power Generation](Solar-Concentrator)
 - [Loldialer](Loldialer)
-- [Arduino IR Pet](Arduino-IR-Pet) Arduino workshop resources
+- [Arduino IR Pet](Arduino-IR-Pet) "Tamogachi" Arduino workshop resources
 - [Nearspace Balloon II](Nearspace-Balloon-2)
 - [Tesla Coil](Tesla-Coil)
 - [Phoenix RepRap](Phoenix-RepRap)
