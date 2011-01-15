@@ -25,6 +25,7 @@
 </div>
 <ul>
 <li><a href="Library">Library</a></li>
+<li><a href="http://toolshare.heatsynclabs.org">Toolshare</a></li>
 <li><a href="Processes">Processes</a></li>
 <li><a href="Wishlist">Wishlist</a></li>
 <li><a href="New-Stuff">New Stuff</a></li>
