@@ -4,6 +4,32 @@ The pebble is XXX. The hardware files are located at <https://github.com/lukewes
 
 The pebble has a multitude of cool electronics components for you to play with. Our implementation of these boards include a 'standard' set of features and optional addons
 
+## HeatSync Workshop/Kit Materials
+
+### Photo of assembled Pebble Arduino shield (HeatSync batch)
+
+![](files/Pebble-assembled-top.jpg)
+
+*Pebble-assembled-top.jpg*
+
+### Bill of Materials
+
+[Pebble-bom.pdf](files/Pebble-bom.pdf)
+
+*Pebble-bom.pdf*
+
+### Schematic
+
+![](files/Pebble-sch.png)
+
+*Pebble-sch.png*
+
+### Resistor color codes (ready to print)
+
+![](files/Resistor-codes-6up.gif)
+
+*Resistor-codes-6up.gif*
+
 ## Standard Features
 
 ### 8 bit shift register
