@@ -1,6 +1,10 @@
 # Introduction
 
-The pebble is XXX. The hardware files are located at <https://github.com/lukeweston/Pebble/> and the Software is kept at <https://github.com/geekscape/Aiko>
+The pebble is XXX.
+
+- The hardware files are located at <https://github.com/lukeweston/Pebble/>
+- The Software is kept at <https://github.com/geekscape/Aiko>
+- The OneWire library is here: [OneWire.zip](files/OneWire.zip)
 
 The pebble has a multitude of cool electronics components for you to play with. Our implementation of these boards include a 'standard' set of features and optional addons
 
