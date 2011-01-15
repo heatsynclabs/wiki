@@ -1,4 +1,4 @@
-This is deprecated. See [1](http://www.heatsynclabs.org/events/) instead.
+This is deprecated. See [the main website events page](http://www.heatsynclabs.org/events/) instead.
 
 - Monday
   - **7:30PM - ?** : [Augmenting Humanity](Augmenting-Humanity)
