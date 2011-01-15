@@ -17,10 +17,7 @@
 <li><a href="Rules">Rules and Guidelines</a></li>
 <li><a href="Presentations">Presentations</a></li>
 <li><a href="Events">Events</a></li>
-<li><a href="Reference">Reference</a>
-<ul>
-<li><a href="Arduino">Arduino</a></li>
-</ul></li>
+<li><a href="Reference">Reference</a></li>
 <li><a href="Suggestions">Suggestions</a></li>
 </ul>
 <div style="margin:0;background-color:#e0ffe0;font-size:120%;font-weight:bold;border:1px solid #80e080;text-align:left;color:#000;padding:0.2em 0.4em;">
