@@ -1,3 +1,7 @@
+## Membership Guidelines
+
+- [Membership Guidelines](Membership-Guidelines)
+
 ## General Space Safety Rules
 
 ### General
