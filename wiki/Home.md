@@ -13,15 +13,8 @@
 <p>Community Information</p>
 </div>
 <ul>
-<li><a href="Projects">Projects</a>
-<ul>
-<li><a href="Accessibility"> Accessible Arduino</a></li>
-<li><a href="Laser-Cutter-Kickstarter">Lasercutter Kickstarter</a></li>
-</ul></li>
-<li><a href="Rules">Rules</a>
-<ul>
-<li><a href="Membership-Guidelines">Membership Guidelines</a></li>
-</ul></li>
+<li><a href="Projects">Projects</a></li>
+<li><a href="Rules">Rules and Guidelines</a></li>
 <li><a href="Presentations">Presentations</a></li>
 <li><a href="Events">Events</a>
 <ul>
