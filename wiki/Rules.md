@@ -1,6 +1,62 @@
 ## Membership Guidelines
 
-- [Membership Guidelines](Membership-Guidelines)
+### Eligibility
+
+You must have attended a minimum of three HeatSync Labs events (public meetings, fundraisers, etc) to be eligible for membership. Exceptions can be granted by a board member based upon location or other circumstances. We look for members which will enhance our groups mission and who want to rock out the awesome projects and learning.
+
+### Application
+
+Membership to HSL is on an application/approval basis. Each application will be reviewed by a committee (currently the board of directors) to see if granting membership is in the best interest of the organization. We do not discriminate based on age, gender, sexual preference, race, religion, or geek factor. Denied applications can be appealed.
+
+### Membership Fees
+
+Membership dues are \$50.00 per month due on the first of the month. Membership is payable up to one year in advance. There are three ways to make payments: in cash (in person to the Treasurer or Secretary at the space or public meeting) or by check (made payable to “HeatSync Labs” and given to Treasurer or Secretary at the space or mailed to HeatSync Labs c/o Member Dues, PO Box 24143 Tempe, AZ 85285), or via reoccurring PayPal payment. Check and cash are due on the 1st of the month. PayPal is subject to enrollment date.
+
+### Membership Privileges and Responsibilities
+
+The Member will have an equal right to voice their opinion with a single vote. The Member can vote their preference or abstain from voting in the affairs of HeatSync Labs The Member will have reasonable inspection rights of HeatSync Labs, corporate records. The Member will be responsible for timely payment of dues, providing their current address, contact information, and preference for electronic receipt of communications. The Member is responsible for continuing to support the purposes of HeatSync Labs and adhere to all rules set by the HeatSync Labs Board pertaining to the organization's facilities. The Member in good standing as defined in Section 5 of the HeatSync Labs ByLaws has the following privileges:
+
+- may vote in organization elections;
+- have business hour access to HeatSync Labs space and access to HeatSync Labs equipment; (tbd)
+- ability to self-nominate for member elections;
+- may serve on the board of the organization;
+- may vouch for guests, taking responsibility for the property of the organization's upon
+
+themselves;
+
+- may request keyed access to the HeatSync Labs facility;
+- retain control over own intellectual property rights; and
+- may lend, donate or store property brought to the HeatSync Labs space.
+
+In addition, we expect that all members will abide by the bylaws voted and in place for the organization which includes manners in which to conduct yourself while in the space. Please be sure to read and understand them prior to applying.
+
+### Good Standing
+
+A member shall be considered in good standing if they are current on their dues.
+
+### Non-transferability of Memberships
+
+Member may not transfer their membership or any right arising therefrom. All rights of membership cease upon the member's death.
+
+### Termination of Membership
+
+The membership of a member shall terminate upon the following events:
+
+- Upon the Members notice of termination delivered to the president or secretary of the
+
+corporation personally or by mail, email, or other written communication, such membership to terminate upon the date of delivery of the notice or date of postmark if deposited in the US mail.
+
+- The Board of Directors may terminate the membership of a member at a Board Meeting
+
+with cause by consensus vote.
+
+- Notice shall be given by any method reasonably calculated to provide actual notice to the
+
+member. The member shall be given an opportunity to be heard, either orally or in writing, within 7 business days of the effective date of the termination. The hearing shall be held, or the written statement considered, by the Board of Directors.
+
+- All rights of a member in the corporation shall cease on termination of membership as
+
+herein provided. All access cards and keys must be returned to HeatSync Labs
 
 ## General Space Safety Rules
 
