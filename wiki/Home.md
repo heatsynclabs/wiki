@@ -16,14 +16,7 @@
 <li><a href="Projects">Projects</a></li>
 <li><a href="Rules">Rules and Guidelines</a></li>
 <li><a href="Presentations">Presentations</a></li>
-<li><a href="Events">Events</a>
-<ul>
-<li><a href="Weekly-Schedule">Weekly Schedule</a></li>
-<li><a href="Arduino-Night">Arduino Night</a></li>
-<li><a href="First-Friday">First Friday</a></li>
-<li><a href="Makerfaire">Makerfaire</a></li>
-<li><a href="Laser-Mustache-Party">One Year Anniversary Party</a></li>
-</ul></li>
+<li><a href="Events">Events</a></li>
 <li><a href="Reference">Reference</a>
 <ul>
 <li><a href="Arduino">Arduino</a></li>
