@@ -2,10 +2,12 @@
 
 **Please add links to your projects here, in reverse chronological order!**
 
+- [Accessibility](Accessibility) grant research
+- [Pebble](Pebble) Arduino workshop resources
 - [Laser Cutter Kickstarter](Laser-Cutter-Kickstarter)
 - [Solar Concentrator Power Generation](Solar-Concentrator)
 - [Loldialer](Loldialer)
-- [Arduino IR Pet](Arduino-IR-Pet)
+- [Arduino IR Pet](Arduino-IR-Pet) Arduino workshop resources
 - [Nearspace Balloon II](Nearspace-Balloon-2)
 - [Tesla Coil](Tesla-Coil)
 - [Phoenix RepRap](Phoenix-RepRap)
