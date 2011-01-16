@@ -76,7 +76,7 @@ Shift registers take in serial data (one number at a time, 1, 0, 1, 0, 1, 1, 1, 
 
 #### Description
 
-The temperature sensor is the [http://www.maxim-ic.com/datasheet/index.mvp/id/2812 DS18B20](http://www.maxim-ic.com/datasheet/index.mvp/id/2812_DS18B20) IC and utilizes a library called [http://www.arduino.cc/playground/Learning/OneWire OneWire](http://www.arduino.cc/playground/Learning/OneWire_OneWire). The value should generally read 25 C indoors. If you squeeze the sensor with your finger that value should rise fairly quickly to 30C.
+The temperature sensor is the [http://www.maxim-ic.com/datasheet/index.mvp/id/2812 DS18B20](http://www.maxim-ic.com/datasheet/index.mvp/id/2812_DS18B20) IC and utilizes a library called [http://www.arduino.cc/playground/Learning/OneWire OneWire](http://www.arduino.cc/playground/Learning/OneWire_OneWire). The value should generally read 25 C indoors. If you squeeze the sensor with your finger that value should rise fairly quickly to 30 C.
 
 #### Code
 
@@ -355,7 +355,7 @@ My example crudely combines the Aiko LCD example and the Aiko temperature exampl
 
 #### Description
 
-The light sensor detects light on an anlalog pin and is located on A0.
+The light sensor detects light on an analog pin and is located on A0.
 
 #### Code
 
@@ -634,7 +634,7 @@ This code is very basic and simply adapts the Arduino analog input, analog outpu
 
 #### Description
 
-A potentiometer is simply a resistor that we can manually vary the resistance of. Potentiometers are everywhere. The knob on your stereo is a potentiometer that controls the volume! Our potentiometer is connected internally to A1 of the Arduino.
+A potentiometer is simply a resistor that we can manually vary the resistance of. Potentiometers are everywhere. The knob on your stereo is a potentiometer that controls the volume! Our potentiometer is connected internally to A1 of the Arduino. It's connected as a voltage divider, so turning the pot adjusts the voltage on the analog input between 0 and 5 Volts.
 
 #### Code
 
@@ -698,7 +698,7 @@ The following code simply adapts the Arduino analog input, analog output, serial
 
 #### Description
 
-The relays are model XXX. Relays are used to switch more power hungry things on and off. Small leds can simply be connected up to the arduino pins directly, but rather large LEDS or motors might draw too much current and need to be switched through a relay. These relays are exposed on the 6 pin right angle header in the upper left. The pin closest to the edge of the board is pin 1, and the furthest in is considered pin 6.
+Two reed relays are provided on the board. Relays are used to switch more power hungry things on and off. Small LEDs can simply be connected up to the arduino pins directly, but rather large LEDS or motors might draw too much current and need to be switched through a relay. These relays are exposed on the 6 pin right angle header in the upper left. The pin closest to the edge of the board is pin 1, and the furthest in is considered pin 6. These relays are small "reed relays", which are cool because their coils will only draw about 10 mA at 5 V when switched on, meaning that they can be switched on and off directly from the Arduino, without the use of a transistor. However, these relays can switch a maximum load current of only about 1 amp.
 
 - Pin1 - Gnd
 - Pin2 - Relay 1 Side 1
@@ -739,7 +739,7 @@ The LCD code remains unchanged from the pebble display example.
 
 #### Description
 
-The xbee module allows communication with other devices through the zigbee protocol which is somewhat similar to bluetooth.
+The Xbee module allows communication with other devices through the Zigbee protocol which is somewhat similar to Bluetooth.
 
 #### Code
 
