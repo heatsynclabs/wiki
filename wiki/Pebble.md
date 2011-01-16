@@ -1,12 +1,12 @@
 # Introduction
 
-The pebble is XXX.
+The Pebble is an Arduino shield that provides you with some interesting, common I/O devices, such as a temperature sensor, LDR, potentiometer, pushbuttons and an LCD display, all nicely integrated onto a PCB, to easily let you get started experimenting with Arduino programs.
 
 - The hardware files are located at <https://github.com/lukeweston/Pebble/>
 - The Software is kept at <https://github.com/geekscape/Aiko>
 - The OneWire library is here: [OneWire.zip](files/OneWire.zip)
 
-The pebble has a multitude of cool electronics components for you to play with. Our implementation of these boards include a 'standard' set of features and optional addons
+The Pebble has a multitude of cool electronic components for you to play with. Our implementation of these boards include a 'standard' set of features and optional addons.
 
 ## HeatSync Workshop/Kit Materials
 
@@ -40,13 +40,13 @@ The pebble has a multitude of cool electronics components for you to play with. 
 
 #### Description
 
-Shift registers take in serial data (one number at a time, 1, 0, 1, 0, 1, 1, 1, 0) and express that data in parallel across 8 pins(10101110). It basically turns one data pin into 8! For some operations you could think of it as a multiplexer. For this example it is important to read up on the [shiftOut](http://www.arduino.cc/en/Tutorial/ShiftOut) arduino function as that does almost all of the hard work for you! This example again repurposes an the \[Hello World <http://arduino.cc/en/Tutorial/ShftOut11>\] example from that page and substitutes our proper pins CLOCK=4, DATA=3, STROBE=2
+Shift registers take in serial data (one number at a time, 1, 0, 1, 0, 1, 1, 1, 0) and express that data in parallel across 8 pins (10101110). It basically turns one data pin into 8! For some operations you could think of it as a multiplexer. For this example it is important to read up on the [shiftOut](http://www.arduino.cc/en/Tutorial/ShiftOut) Arduino function as that does almost all of the hard work for you! This example again repurposes an the \[Hello World <http://arduino.cc/en/Tutorial/ShftOut11>\] example from that page and substitutes our proper pins; CLOCK = 4, DATA 3, STROBE = 2.
 
 #### Code
 
-     int CLOCK=4;
-     int DATA=3;
-     int STROBE=2;
+     int CLOCK = 4;
+     int DATA = 3;
+     int STROBE = 2;
 
     void setup() {
       //set pins to output so you can control the shift register
@@ -76,11 +76,11 @@ Shift registers take in serial data (one number at a time, 1, 0, 1, 0, 1, 1, 1, 
 
 #### Description
 
-The temperature sensor is the XXX chip and utilizes a library called One Wire. XXX add datasheet link here. The value should generally read 25C indoors. If you squeeze the sensor with your finger that value should rise fairly quickly to 30C.
+The temperature sensor is the [http://www.maxim-ic.com/datasheet/index.mvp/id/2812 DS18B20](http://www.maxim-ic.com/datasheet/index.mvp/id/2812_DS18B20) IC and utilizes a library called [http://www.arduino.cc/playground/Learning/OneWire OneWire](http://www.arduino.cc/playground/Learning/OneWire_OneWire). The value should generally read 25 C indoors. If you squeeze the sensor with your finger that value should rise fairly quickly to 30C.
 
 #### Code
 
-My example crudely combines the Aiko LCD example and the Aiko temperature example to display the temperature to the screen. Note this example requires the One Wire library to be installed to your libraries directory of Arduino, in addition to the Aiko libraries.
+My example crudely combines the Aiko LCD example and the Aiko temperature example to display the temperature to the screen. Note this example requires the OneWire library to be installed to your libraries directory of Arduino, in addition to the Aiko libraries.
 
     #include <AikoEvents.h>
     #include <AikoSExpression.h>
