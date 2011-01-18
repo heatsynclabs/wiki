@@ -574,7 +574,6 @@ These buttons are in a 'ladder' configuration meaning they only actually use 1 p
 
 This code is very basic and simply adapts the Arduino analog input, analog output, serial output example and changes the Analog input pin to match our pin, A2.
 
-    {{{
     /*
       Analog input, analog output, serial output
      
@@ -628,7 +627,78 @@ This code is very basic and simply adapts the Arduino analog input, analog outpu
       // after the last reading:
       delay(10);                     
     }
-    }}}
+
+#### Alternative code for Buttons
+
+Here is a useful function you can use to check which buttons are being pressed. See the comments for more details. Don't feel bad if you can't follow the formulas...
+
+    byte getbuttons(void)
+    {
+      // Sample code to read Pebble Shield buttons
+      // (C) 2011 Heatsync Labs (www.heatsynclabs.org)
+      // Author: Jac Goudsmit
+      // This example is in the public domain.
+      //
+      // The return value is a bit pattern that represents which buttons are
+      // currently being pressed:
+      // 1=left button pressed
+      // 2=middle button pressed
+      // 4=right button pressed
+
+      byte result = 0;
+      int v = analogRead(A2);
+
+      // When no button is pressed, the value should be near 1023.
+      // If any buttons are pressed, the input sees a voltage divider with
+      // 10k towards VCC and a parallel network of resistors to GND.
+      // If we represent the parallel resistor by x, the value v that will
+      // be read by the A/D converter will be close to the following:
+      // x=1/(1/(L*39k)+1/(M*22k)+1/(10k))      [law of parallel resistors]
+      // v=(x/(x+10k))*1024      [voltage divider between value 1023 and 0]
+      // This results in the following approximate values:
+      // L=0 M=0 R=0 ->       -> v=           =1023
+      // L=1 M=0 R=0 -> x=39k -> v=(39/49)*1024=815
+      // L=0 M=1 R=0 -> x=22k -> v=(22/32)*1024=704
+      // L=1 M=1 R=0 -> x=14k -> v=(14/24)*1024=597
+      // L=0 M=0 R=1 -> x=10k -> v=(10/20)*1024=512
+      // L=1 M=0 R=1 -> x=8k  -> v=(8/18) *1024=455
+      // L=0 M=1 R=1 -> x=7k  -> v=(7/17) *1024=417
+      // L=1 M=1 R=1 -> x=6k  -> v=(6/16) *1024=378
+      // Some variation is to be expected because of tolerances in the
+      // resistors and other real-world variations like temperature, so 
+      // instead of checking for these exact values, we should check
+      // for ranges of values.
+      // It's probably not too hard to come up with a really cool
+      // algorithm that does successive aproximation or something but
+      // because there only are 8 possible outcomes, looking the A/D
+      // converter value up in a table probably saves time and space.
+      // The table contains averages of each pair of values in
+      // the list above.
+      const static int cv[7] = 
+      { 
+        919, // (1023+815)/2
+        759, //  (815+704)/2
+        651, //  (704+597)/2
+        555, //  (597+512)/2
+        484, //  (512+455)/2
+        436, //  (455+417)/2
+        398  //  (417+378)/2
+      };
+      
+      for (int i = 0; i < 7; i++)
+      {
+        if (v <= cv[i])
+        {
+          result++;
+        }
+        else
+        {
+          break;
+        }
+      }  
+      
+      return result;
+    }
 
 ### Potentiometer
 
