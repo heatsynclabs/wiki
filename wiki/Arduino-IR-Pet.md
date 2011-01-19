@@ -10,6 +10,9 @@ Photo: ![Arduino_IR_Pet_Photo.JPG](files/Arduino_IR_Pet_Photo.JPG)
 
 Sorry for the blurriness, but this should give you an idea of how to construct the IR Pet (along with the comments at the top of the code below.)
 
+The linked schematic explains how to set up the IR sensors on both sides:\
+<http://www.flickr.com/photos/jerrya-net/4111242116/>
+
 ## Libraries
 
 Download and extract this ZIP into your arduino app's libraries folder-- resulting file structure should look like arduino\libraries\tone\tone.h
