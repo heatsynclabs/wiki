@@ -2,7 +2,7 @@ This is code used in teaching an Arduino workshop. It combines a 16x2 character 
 
 For assistance with this code, please post in the HeatSync Google Group in this thread: [HSL Thread: Arduino IR Pet (workshop code)](http://groups.google.com/group/heatsynclabs/browse_thread/thread/72528934bf0a1662)
 
-### Assembly
+## Assembly
 
 (Assembly instructions/photos still being posted here, thanks for your patience.)
 
@@ -10,7 +10,7 @@ Photo: ![Arduino_IR_Pet_Photo.JPG](files/Arduino_IR_Pet_Photo.JPG)
 
 Sorry for the blurriness, but this should give you an idea of how to construct the IR Pet (along with the comments at the top of the code below.)
 
-### Libraries
+## Libraries
 
 Download and extract this ZIP into your arduino app's libraries folder-- resulting file structure should look like arduino\libraries\tone\tone.h
 
@@ -18,7 +18,7 @@ Download and extract this ZIP into your arduino app's libraries folder-- resulti
 
 *Tone.zip*
 
-### Code
+## Code
 
     /*
       HeatSync Labs IR Pet
@@ -459,3 +459,20 @@ Download and extract this ZIP into your arduino app's libraries folder-- resulti
         }
       }
     }
+
+## Parts List
+
+NPN Transistor:\
+<http://www.mouser.com/ProductDetail/Fairchild-Semiconductor/KSC3503DSTU/?qs=sGAEpiMZZMtn7beagP2hIRaqh2YBECe1Yqoz3NTyz48%3d>
+
+IR Emitter:\
+<http://mouser.com/search/ProductDetail.aspx?qs=8T8Vkz9kCnmXLF3JXFC7QQ==>
+
+IR Receiver:\
+<http://mouser.com/search/ProductDetail.aspx?qs=WxFF5lh7QM1L5Vm%2btOeRTw==>
+
+Standard LCD 16x2 + Extras(White on Blue):\
+<http://www.adafruit.com/index.php?main_page=product_info&cPath=37&products_id=181>
+
+Piezo Buzzer - PS1240:\
+<http://www.adafruit.com/index.php?main_page=product_info&cPath=35&products_id=160>
