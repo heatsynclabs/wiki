@@ -120,6 +120,10 @@ The mission of School Turnaround is to reverse decline in failing public schools
 
 HeatSync Labs' mission is to provide the tools, space and the community for students, entrepreneur, artists and garage tinkerers to come together and create their dreams. We are a community workshop which promotes Do-It-Yourself science and education and prides ourselves on application -in addition- to theory.
 
+Our vision is a world where we re-awaken our population and reinstate the knowledge of creation in opposition to our throw-away society. We will empower our population delivering the confidence to once compete on a global scale.
+
+Our Strategy is to empower, one on one, our members with the tools, resources, space, and if possible money to bring their dreams to fruition. The organization itself has no purpose but to support these missions. Beuracracy and overhead are to be avoided. We want to program in cell death so that if we ever lose our focus or have no reason to exist anymore, that we finally die. Apoptosis.
+
 # Achievements
 
 What have you achieved in the past three years for persons in your programs that are most like the project for which you seek our support?
@@ -136,13 +140,11 @@ We have worked to date in 52 schools. In 50 of these academic achievement gains 
 
 ## Draft
 
-Monthly we run a free to attend arduino workshop where we train kids to adults how to program microcontrollers MORE HERE
+Monthly we run a free to attend arduino workshop where we train kids to adults how to program microcontrollers. Hundreds of people, from children to adults have attended our monthly meetings with the goal of empowering themselves with technology to solve their own problems. MORE HERE
 
-Most recently we had been asked to create a workshop series on soldering and arduino for UrbanStew another local nonprofit.
+Most recently we had been asked to create a workshop series on soldering and programing for UrbanStew another local nonprofit. Again, we wanted to instill the values of creation, having our attendees actaully BUILD the computer they would eventually program. Demystifying these devices which are increasingly becoming ubiquoutous.
 
-Build and program a tiny micro computer, the arduino, to solve simple problems.
-
-Over XXX free public educational meetings this year. From material, to tools, to processes we want to empower our people with the knowledge they need to succeed. Topics have included:
+We have hosted over 24 free public educational events this year. Every 1st and 3rd Thursday we invite in a speaker to invigorate us, and them. From materials, to tools, to processes we want to empower our people with the knowledge they need to succeed. Topics have included:
 
 - Astronomy
 - Eagle PCB Layout and Design
@@ -167,13 +169,15 @@ Over XXX free public educational meetings this year. From material, to tools, to
 - CAD/CAM introduction
 - Home Brewing
 
-Other:
+Most recently our community raised \$10,000 to aquire a laser cutter in order to further expand our ability to create. For our birthday we hosted a science fair / music show titled the mustache party. Hundreds of attendees, many new to us, came to see what the local mad scientists were up to.
 
-- Most recently the community raised 10,000 to aquire a laser cutter in order to realize our dreams
-- Ran a science fair / music show titled the mustache party
-- Host weekly 3d printing meetup event where we foster the innovative field of personal manufacturing.
-- Our members have put a balloon payload into nearspace and are now tackling issues related to solar power generation and storage.
-- Coached a pair of First Lego League teams this past year. It was the first year for our kids and they had amazing fun. In addition our mentor won best mentor for the season.
+We host weekly 3d printing meetup event where we foster the innovative field of personal manufacturing. These devices are finally realizing the promises of the Star Trek Replicator, creating 3d, multi material, objects before your eyes! Even more intersting is the idea of the machine creating the machine. This is the promise delivering Moore's Law for computer chips (exponential increase as the computer designs the next computer) to the mechanical realm!
+
+- Our members have put a balloon payload into nearspace! A team of XXX People planned and executed the development of a payload to survive a trip to ~75k feet and safely return. Anyone from the public was welcome to join the team and learn the multidisciplinary fundamentals necessary to launch an object into nearspace! More than 40 people attended our balloon launch, from children to adults, and helped us 'chase' down the landing.
+
+A new team have decided to tackling issues related to solar power generation and storage. The goal is to adapt MIT designs for a solar collector to leverage our location in the Arizona desert to further understand renewable energy solutions and problems.
+
+Throughout this past year we also took time out to coach a pair of First Lego League teams. Our kids, mostly 9r olds, worked throughout 2010 Body Forward Challenge, as the FLL put its to "explore the cutting-edge world of Biomedical Engineering to discover innovative ways to repair injuries, overcome genetic predispositions, and maximize the body's potential, with the intended purpose of leading happier and healthier lives." They learned computer programming, mechanical engineering and biological engineering concepts culminating in a team presentation and robot competition! The goal, again here, was to empower them to solve THEIR OWN problems. It was entirely discovery learning and the adults were only there to supervise and answer questions. It was the first year for our kids and they had amazing fun. In addition our mentor won best mentor for the season.
 
 # Similar Groups
 
@@ -195,7 +199,9 @@ We are different from these and other groups primarily because of our strong int
 
 We're most like a traditional academic incubator model mixed with the newer coworking model. Entreprenuers and skilled tradespeople who don't wish to work in an office alone but would rather work side by side with the other brightest minds in the community in order to build their workspace in public
 
-We are part of a larger maker/diy culture exemplified by Make Magazine These spaces are popping up throughout the united states, and globally, all with different visions and goals, but most recently many converging on non profit which of them becoming non profitare listed at hackerspaces.org Heat Sync is a specialized open colaberative workspace brought together with one mission in mind, to improve technology. As an open collaboration workspace we bring many specialized minds together to not only build the best possible technology, but also get different opinions from every perspective.
+We are part of a larger maker/diy culture exemplified by Make Magazine These spaces are popping up throughout the united states, and globally, all with different visions and goals, but most recently many converging on non profit which of them becoming non profitare listed at hackerspaces.org
+
+Locally we are most like our peer coworking/collaboration sister and landlord, Gangplank. Gangplank, much like us, intends to revolutionize education, community, and collaboration. Hardware and access to tools is on their agenda, but for us its THE reason for our existence. Providing wifi, people, community are all necessary but Its the much more difficult INFRASTRUCTURE of tools and the expertise to go with them that we focus on.
 
 # Participants
 
