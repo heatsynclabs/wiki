@@ -199,9 +199,11 @@ We are different from these and other groups primarily because of our strong int
 
 We're most like a traditional academic incubator model mixed with the newer coworking model. Entreprenuers and skilled tradespeople who don't wish to work in an office alone but would rather work side by side with the other brightest minds in the community in order to build their workspace in public
 
-We are part of a larger maker/diy culture exemplified by Make Magazine These spaces are popping up throughout the united states, and globally, all with different visions and goals, but most recently many converging on non profit which of them becoming non profitare listed at hackerspaces.org
+More specifically, we are part of a larger maker/do-it-yourself culture exemplified by Make Magazine. There are spaces are popping up throughout the united states, and globally, all with different visions and goals, but all listing themselves at hackerspaces.org.
 
-Locally we are most like our peer coworking/collaboration sister and landlord, Gangplank. Gangplank, much like us, intends to revolutionize education, community, and collaboration. Hardware and access to tools is on their agenda, but for us its THE reason for our existence. Providing wifi, people, community are all necessary but Its the much more difficult INFRASTRUCTURE of tools and the expertise to go with them that we focus on.
+Locally we are most like our peer coworking/collaboration sister and landlord, Gangplank. Gangplank, much like us, intends to revolutionize education, community, and collaboration. Hardware and access to tools is on their agenda, but only superficially.
+
+What makes us different from all these is our focus on infrastructure. It has become very vogue to open a space, provide wifi and try to build community around Bring-Your-Own-Computer concepts. These purposely dodge the challenges of infrastructure. Even our schools are pulling out of this area in frustration. We refuse to back down. The infrastructure is indeed the hard part, but it is also the difference. The infrastructure, the safety, training, liability, skills and experience to make these things open to the public are the key to bringing creation back to our throw away society.
 
 # Participants
 
