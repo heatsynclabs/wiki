@@ -118,7 +118,7 @@ The mission of School Turnaround is to reverse decline in failing public schools
 
 ## Draft
 
-HeatSync Labs' mission is to provide the tools, space and the community for students, entrepreneur, artists and garage tinkerers to come together and create their dreams. We aim reinstate an understanding of the tools of creation in our modern throwaway society. Community workshop. DIY science and education. Application in addition to theory.
+HeatSync Labs' mission is to provide the tools, space and the community for students, entrepreneur, artists and garage tinkerers to come together and create their dreams. We are a community workshop which promotes Do-It-Yourself science and education. We pride ourselves on application -in addition- to theory. We aim to reinstate an understanding of the tools of creation in our modern throwaway society.
 
 # Achievements
 
