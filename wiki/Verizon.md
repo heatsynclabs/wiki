@@ -72,7 +72,7 @@ The focus of this project is directed towards the blind and/or low vision. For t
 
 Specifically state for whom you will address this cause.
 
-## For Whom Will You Address This Cause Description
+## For Whom Will You Address This Cause
 
 The program will directly effect the blind and low vision technology enthusiasts around the world who have never before had access to programming or building on a micro processor. As an open source program the Arduino IDE will benefit blind users around the world with a simple download. The Arduino hardware is a micro processor that is low in cost ranging any where from \$30 to \$80 depending on the components included.
 
