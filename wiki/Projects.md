@@ -20,6 +20,7 @@
 - [NightVision](NightVision)
 - [ToolsDB](ToolsDB)
 - [Starting a Non-Profit](Starting-a-Non-Profit)
+- [SyncSwag](SyncSwag)
 
 ## Project Idea Wall
 
