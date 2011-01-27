@@ -6,7 +6,7 @@ Existing Swag:
 - Large stickers
 - T-shirts
 
-Proposed Swag
+Proposed Swag:
 
 - Posters
 - Small stickers
@@ -15,5 +15,7 @@ Proposed Swag
 - HSL "boy scout" patches
 - HSL-patched lab coats
 - Laser-etched paper (not PVC) maker notebooks
+- Scratch-proof keychain
+- Kits of our own design and branding
 
 We could use a Rails app to create a ThinkGeek-esque online store. Andrew B and David H may be able to work together on this.
