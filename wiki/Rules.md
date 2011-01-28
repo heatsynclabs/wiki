@@ -10,7 +10,7 @@ Membership to HSL is on an application/approval basis. Each application will be 
 
 ### Membership Fees
 
-Membership dues are \$50.00 per month due on the first of the month. Membership is payable up to one year in advance. There are three ways to make payments: in cash (in person to the Treasurer or Secretary at the space or public meeting) or by check (made payable to “HeatSync Labs” and given to Treasurer or Secretary at the space or mailed to HeatSync Labs c/o Member Dues, PO Box 24143 Tempe, AZ 85285), or via reoccurring PayPal payment. Check and cash are due on the 1st of the month. PayPal is subject to enrollment date.
+Membership dues are due on the first of the month. Membership is payable up to one year in advance. There are three ways to make payments: in cash (in person to the Treasurer or Secretary at the space or public meeting) or by check (made payable to “HeatSync Labs” and given to Treasurer or Secretary at the space or mailed to HeatSync Labs c/o Member Dues, PO Box 24143 Tempe, AZ 85285), or via reoccurring PayPal payment. Check and cash are due on the 1st of the month. PayPal is subject to enrollment date.
 
 ### Membership Privileges and Responsibilities
 
