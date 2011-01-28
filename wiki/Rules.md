@@ -10,19 +10,19 @@ Membership to HSL is on an application/approval basis. Each application will be 
 
 ### Membership Tiers
 
-- \*\*Associate Membership\*\* is \$25 per month, and confers only the right to have your name on the list of members, and access to the lab and shared equipment during the published hours of operation. Other membership rights, such as voting rights, do not apply.
+- **Associate Membership** is \$25 per month, and confers only the right to have your name on the list of members, and access to the lab and shared equipment during the published hours of operation. Other membership rights, such as voting rights, do not apply.
 
 <!-- -->
 
-- \*\*Basic Membership\*\* is \$50 per month, and confers the right to have your name on the list of members, 24/7 access to the lab, including a key to the building and security code, and personal project space for a banker box (first box provided by HeatSync Labs.) It includes all the membership rights listed herein unless otherwise specified.
+- **Basic Membership** is \$50 per month, and confers the right to have your name on the list of members, 24/7 access to the lab, including a key to the building and security code, and personal project space for a banker box (first box provided by HeatSync Labs.) It includes all the membership rights listed herein unless otherwise specified.
 
 <!-- -->
 
-- \*\*Plus Membership\*\* is \$75 per month, and confers the right to have your name on the list of members, 24/7 access to the lab, including a key to the building and security code, and personal project space for a banker box (first box provided by HeatSync Labs), \*\*plus a locker.\*\* It includes all the membership rights listed herein unless otherwise specified.
+- **Plus Membership** is \$75 per month, and confers the right to have your name on the list of members, 24/7 access to the lab, including a key to the building and security code, and personal project space for a banker box (first box provided by HeatSync Labs), \*\*plus a locker.\*\* It includes all the membership rights listed herein unless otherwise specified.
 
 <!-- -->
 
-- \*\*Sponsorships\*\* are any amount over \$75 per month, and confers the right to have your name on the list of members, 24/7 access to the lab, including a key to the building and security code, and personal project space for a banker box (first box provided by HeatSync Labs), \*\*plus a locker, and opportunity for promotion. Contact the Board for more information about promotion.\*\* It includes all the membership rights listed herein unless otherwise specified.
+- **Sponsorships** are any amount over \$75 per month, and confers the right to have your name on the list of members, 24/7 access to the lab, including a key to the building and security code, and personal project space for a banker box (first box provided by HeatSync Labs), \*\*plus a locker, and opportunity for promotion. Contact the Board for more information about promotion.\*\* It includes all the membership rights listed herein unless otherwise specified.
 
 ### Membership Fees
 
