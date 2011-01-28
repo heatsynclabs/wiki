@@ -86,7 +86,20 @@ This is a list of responsibilities (what is expected of the position), as well a
 
 ## Marketing/PR
 
-- Ensuring sales items are displayed well
+- Facebook, Twitter (social media management)
+  - Event hype (before, during, after)
+  - Personality
+  - Finding and re-sharing community content
+  - Community involvement
+  - Additional streams (with IT help)
+- Promote HeatSync
+- Ensuring sales items are displayed well (tables/sales are pretty)
+- Branding/Image/Logo/Elevator Pitch (consistency, applied everywhere)
+- Swag, Collateral, promo/info materials
 - Final review of content?
+- News/PR contacts
+- Demographics, marketing to the right crowd
+  - Metrics/Analytics/Effectiveness
+  - Conversion & Retention
 
 ## IT
