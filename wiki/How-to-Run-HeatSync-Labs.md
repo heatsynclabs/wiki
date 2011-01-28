@@ -25,3 +25,56 @@ This is a list of responsibilities (what is expected of the position), as well a
 - Presentation
 
 ## Resource Manager
+
+- In charge of Tear Apart Nights
+- Handle incoming items (donations,
+- Handle outgoing items (recycling, auctioning, donating, trashing)
+- Inventory management (resource tracking, sellable item tracking, toolshare, with IT's help)
+- Responsible for space (organization, cleanliness)
+- Manage storage (onsite, offsite)
+- Submit orders to Treasurer
+- Policies/guidelines, lab safety, waivers, signage
+- Facilities management
+- Tool buildouts/installation
+- Utilities management (with treasurer's help)
+
+## Treasurer
+
+- Manage bank accounts (with accountant's help)
+- Collect dues and monetary donations
+- Initiating and revoking memberships (with secretary's help)
+- Timely updates to the board
+- Taxes, IRS communication
+- Collecting receipts for sales
+- Delivering receipts to donators, with tax exempt notification (as easy as possible)
+- Improving sales process to make it easy for customers (with IT/Marketing help)
+- Set up accounts with vendors
+- Purchasing (processing orders)
+- Capital value (asset tracking with resource manager's help)
+- Budgets
+- Expenses (monthly/yearly)
+- Building and debt management
+- Accounts payable
+- 501c3 status (account switchovers)
+
+## Secretary
+
+- Initiating and revoking memberships (keys, documents, etc, with treasurer's help)
+- Templatize meeting minutes, make minutes easy
+- Agendas
+- Document storage, recordkeeping
+- Reminders (reporting, taxes, due dates)
+- Calendar (operational, events, point of contact)
+- Coordinate presenters (before, during, after)
+- Operations/Events accountability
+- Contacting lawyer/insurance
+
+## Editor
+
+- 
+
+## Marketing/PR
+
+- Ensuring sales items are displayed well
+
+## IT
