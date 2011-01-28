@@ -63,11 +63,7 @@
 <ul>
 <li><a href="Community-Involvement"> Press</a></li>
 </ul></li>
-<li>How to Run HeatSync Labs
-<ul>
-<li><a href="Editor-Howto"> Office of Editor</a></li>
-<li><a href="Treasurer-Howto"> Office of Treasurer</a></li>
-</ul></li>
+<li><a href="How-to-Run-HeatSync-Labs">How to Run HeatSync Labs</a></li>
 </ul></li>
 <li>Money
 <ul>
