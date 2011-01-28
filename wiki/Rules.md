@@ -36,10 +36,7 @@ The Member will have an equal right to voice their opinion with a single vote. T
 - have business hour access to HeatSync Labs space and access to HeatSync Labs equipment; (tbd)
 - ability to self-nominate for member elections;
 - may serve on the board of the organization;
-- may vouch for guests, taking responsibility for the property of the organization's upon
-
-themselves;
-
+- may vouch for guests, taking responsibility for the property of the organization's upon themselves;
 - may request keyed access to the HeatSync Labs facility;
 - retain control over own intellectual property rights; and
 - may lend, donate or store property brought to the HeatSync Labs space.
