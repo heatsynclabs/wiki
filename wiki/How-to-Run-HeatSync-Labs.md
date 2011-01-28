@@ -62,7 +62,7 @@ This is a list of responsibilities (what is expected of the position), as well a
 - Initiating and revoking memberships (keys, documents, etc, with treasurer's help)
 - Templatize meeting minutes, make minutes easy
 - Agendas
-- Document storage, recordkeeping
+- Document storage, recordkeeping, publishing documents (with help of editor)
 - Reminders (reporting, taxes, due dates)
 - Calendar (operational, events, point of contact)
 - Coordinate presenters (before, during, after)
