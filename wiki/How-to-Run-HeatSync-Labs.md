@@ -71,7 +71,20 @@ This is a list of responsibilities (what is expected of the position), as well a
 
 ## Editor
 
-- 
+- Blog management
+- Creating content
+
+` * Photojournalism`\
+` * Written journalism`\
+` * Regularly published focus pieces`\
+`   * Monthly news stories (focused articles)`\
+`   * "Happening this week" (photos of wacky things that happened)`\
+`   * Project updates`
+
+- Publicization and evangelism
+- Copyediting, review (with marketing help)
+- Wiki content
+- Publishing official documents (with help of secretary)
 
 ## Marketing/PR
 
