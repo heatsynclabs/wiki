@@ -87,5 +87,6 @@ This is a list of responsibilities (what is expected of the position), as well a
 ## Marketing/PR
 
 - Ensuring sales items are displayed well
+- Final review of content?
 
 ## IT
