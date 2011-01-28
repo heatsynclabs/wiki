@@ -1,8 +1,5 @@
 This is a list of responsibilities (what is expected of the position), as well as a knowledgebase of how to practically accomplish those responsibilities.
 
-- - [ Office of Editor](Editor-Howto)
-  - [ Office of Treasurer](Treasurer-Howto)
-
 ## Champion
 
 - Physical face of HeatSync, primary contact point
@@ -40,6 +37,8 @@ This is a list of responsibilities (what is expected of the position), as well a
 
 ## Treasurer
 
+Also see [ Office of Treasurer HowTo](Treasurer-Howto)
+
 - Manage bank accounts (with accountant's help)
 - Collect dues and monetary donations
 - Initiating and revoking memberships (with secretary's help)
@@ -70,6 +69,8 @@ This is a list of responsibilities (what is expected of the position), as well a
 - Contacting lawyer/insurance
 
 ## Editor
+
+Also see: [ Office of Editor HowTo](Editor-Howto)
 
 - Blog management
 - Creating content
