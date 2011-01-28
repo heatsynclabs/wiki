@@ -99,7 +99,9 @@ This is a list of responsibilities (what is expected of the position), as well a
 - Final review of content?
 - News/PR contacts
 - Demographics, marketing to the right crowd
+  - Obtain marketing lists
   - Metrics/Analytics/Effectiveness
   - Conversion & Retention
+- Looking into other/new media, outlets, news, press
 
 ## IT
