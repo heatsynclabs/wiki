@@ -96,6 +96,7 @@ This is a list of responsibilities (what is expected of the position), as well a
 - Ensuring sales items are displayed well (tables/sales are pretty)
 - Branding/Image/Logo/Elevator Pitch (consistency, applied everywhere)
 - Swag, Collateral, promo/info materials
+- Sales
 - Final review of content?
 - News/PR contacts
 - Demographics, marketing to the right crowd
