@@ -8,6 +8,22 @@ You must have attended a minimum of three HeatSync Labs events (public meetings,
 
 Membership to HSL is on an application/approval basis. Each application will be reviewed by a committee (currently the board of directors) to see if granting membership is in the best interest of the organization. We do not discriminate based on age, gender, sexual preference, race, religion, or geek factor. Denied applications can be appealed.
 
+### Membership Tiers
+
+- Associate Membership is \$25 per month, and confers only the right to have your name on the list of members, and access to the lab and shared equipment during the published hours of operation. Other membership rights, such as voting rights, do not apply.
+
+<!-- -->
+
+- Basic Membership is \$50 per month, and confers the right to have your name on the list of members, 24/7 access to the lab, including a key to the building and security code, and personal project space for a banker box (first box provided by HeatSync Labs.) It includes all the membership rights listed herein unless otherwise specified.
+
+<!-- -->
+
+- Plus Membership is \$75 per month, and confers the right to have your name on the list of members, 24/7 access to the lab, including a key to the building and security code, and personal project space for a banker box (first box provided by HeatSync Labs), \*\*plus a locker.\*\* It includes all the membership rights listed herein unless otherwise specified.
+
+<!-- -->
+
+- Sponsorship: Sponsorships are any amount over \$75 per month, and confers the right to have your name on the list of members, 24/7 access to the lab, including a key to the building and security code, and personal project space for a banker box (first box provided by HeatSync Labs), \*\*plus a locker, and opportunity for promotion. Contact the Board for more information about promotion.\*\* It includes all the membership rights listed herein unless otherwise specified.
+
 ### Membership Fees
 
 Membership dues are due on the first of the month. Membership is payable up to one year in advance. There are three ways to make payments: in cash (in person to the Treasurer or Secretary at the space or public meeting) or by check (made payable to “HeatSync Labs” and given to Treasurer or Secretary at the space or mailed to HeatSync Labs c/o Member Dues, PO Box 24143 Tempe, AZ 85285), or via reoccurring PayPal payment. Check and cash are due on the 1st of the month. PayPal is subject to enrollment date.
