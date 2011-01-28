@@ -10,7 +10,7 @@ Membership to HSL is on an application/approval basis. Each application will be 
 
 ### Membership Tiers
 
-- **Associate Membership** is \$25 per month, and confers only the right to have your name on the list of members, and access to the lab and shared equipment during the published hours of operation. Other membership rights, such as voting rights, do not apply.
+- **Associate Membership** is \$25 per month, and confers only the right to have your name on the list of members, and access to the lab and shared equipment during the published hours of operation. Other membership rights listed herein, such as voting rights, do not apply.
 
 <!-- -->
 
