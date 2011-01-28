@@ -58,21 +58,10 @@ Member may not transfer their membership or any right arising therefrom. All rig
 
 The membership of a member shall terminate upon the following events:
 
-- Upon the Members notice of termination delivered to the president or secretary of the
-
-corporation personally or by mail, email, or other written communication, such membership to terminate upon the date of delivery of the notice or date of postmark if deposited in the US mail.
-
-- The Board of Directors may terminate the membership of a member at a Board Meeting
-
-with cause by consensus vote.
-
-- Notice shall be given by any method reasonably calculated to provide actual notice to the
-
-member. The member shall be given an opportunity to be heard, either orally or in writing, within 7 business days of the effective date of the termination. The hearing shall be held, or the written statement considered, by the Board of Directors.
-
-- All rights of a member in the corporation shall cease on termination of membership as
-
-herein provided. All access cards and keys must be returned to HeatSync Labs
+- Upon the Members notice of termination delivered to the president or secretary of the corporation personally or by mail, email, or other written communication, such membership to terminate upon the date of delivery of the notice or date of postmark if deposited in the US mail.
+- The Board of Directors may terminate the membership of a member at a Board Meeting with cause by consensus vote.
+- Notice shall be given by any method reasonably calculated to provide actual notice to the member. The member shall be given an opportunity to be heard, either orally or in writing, within 7 business days of the effective date of the termination. The hearing shall be held, or the written statement considered, by the Board of Directors.
+- All rights of a member in the corporation shall cease on termination of membership as herein provided. All access cards and keys must be returned to HeatSync Labs.
 
 ## General Space Safety Rules
 
