@@ -1,5 +1,13 @@
 This is a list of responsibilities (what is expected of the position), as well as a knowledgebase of how to practically accomplish those responsibilities.
 
+## Everyone
+
+- Try to be physically at the lab as often as possible
+- Convert strangers into members
+- Serve on committees
+- Fundraise
+- Evangelize HeatSync
+
 ## Champion
 
 - Physical face of HeatSync, primary contact point
