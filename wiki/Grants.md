@@ -1,18 +1,49 @@
+The search term you seem to want for this is community, like business name and community, or community grants, community outreach, community giving, community involvement etc.
+
 - <http://grants.gov/> government grants for research and development
 - <http://www.sbir.gov/> SBIR for FOR PROFIT groups, STTR grants for FOR profit small businesses
-
-<!-- -->
-
 - <http://www.refresheverything.com/>
 - <http://www.lincnet.net/artist-space/ford-foundation-planning-and-pre-development-grants> Specifically for attaining a space
-
-<!-- -->
-
 - <http://www.bankofamerica.com/neighborhoodexcellence> Neighborhood Builder starts March 1
-
-<!-- -->
-
 - <http://www.verizonfoundation.org/grant/index.shtml>
 - <http://www.intel.com/about/corporateresponsibility/community/matchgrants.htm> - Intel Matching Grants, 10k from intel for having an employ donate 20 hours to us! 501c3 needed
 - <http://www.intel.com/about/corporateresponsibility/community/giving/usgrants.htm>
 - <http://responsibility.motorola.com/index.php/society/comminvest/education/igg/> Innovation Generation funding is designed to inspire students to learn about science and generate interest in science-related careers. Innovation Generation Collaborative Grants – Support medium- to large-scale STEM education collaborations between two or more non-profit organizations, schools and/or school districts, with joint requests ranging from \$150,000 to \$500,000
+- [Microchip Academic Program](http://www.microchip.com/stellent/idcplg?IdcService=SS_GET_PAGE&nodeId=1440&redirects=university#P927_1843) Not really a grant but they'll deck out your educational lab [Brochure](http://www.microchip.com/stellent/groups/sitecomm_sg/documents/universitycorner/en534919.pdf) Not sure how to get in?
+- [Lowes](http://www.toolboxforeducation.com/faq.html) Toolbox for education. For 501c3's benefiting schools only.
+- [Home Depot Opportunities](http://corporate.homedepot.com/wps/portal/Grants)
+  - Our national partners help us build healthy communities through activities like the construction and preservation of affordable housing, the construction of playgrounds and the planting of native trees. To learn more, please visit our national partners’ page on The Home Depot Foundation’s Web site.
+  - Through the Affordable Housing Built Responsibly grant program, The Home Depot Foundation gives grants to nonprofit organizations whose missions support the production and preservation of affordable, efficient and healthy housing. Visit The Home Depot Foundation’s Web site for more information.
+  - In-kind product donations are handled through our Framing Hope program in partnership with Gifts In Kind International. Please visit the program’s Web site to find out how your nonprofit organization could be matched to receive donations from a local Home Depot store.
+  - Our stores have a limited supply of \$25 donation coupons to assist local nonprofits with their small donation needs. Please see a member of the store management team or the Team Depot Captain for more information.
+  - Team Depot, our associate volunteer force, uses the time and talents of our associates to meet community needs through hands-on service. Team \*\*Depot Captains at our retail locations actively seek great nonprofit partners to work with throughout the year. Visit our page on The Home Depot Foundation’s Web site for further information.
+  - Organizations requesting event and sports sponsorships should apply at www.homedepotproposals.com.
+  - The National Gardening Association, in partnership with The Home Depot, awards Youth Garden Grants to schools and community organizations with child-centered garden programs. Please visit the National Gardening Association’s Web site for more information or to apply.
+- [Freescale](http://www.freescale.com/webapp/sps/site/homepage.jsp?code=ABUCMMINVOLVEMNT)
+  - Education
+    - Focus on kindergarten through grade 12 science, technology, engineering and math (STEM) programs
+    - Enable student participation in math and science programs
+    - Provide mentors and tutors for middle and high schools
+    - Equip learning labs and provide school supplies
+  - The Environment
+    - Attend to and invest in environment, health and safety programs
+    - Support environmental protection and restoration initiatives in public parks and lands
+    - Align community support with sustainable solutions
+    - Health and Human Services
+    - Sponsor programs that raise awareness and funds to eradicate disabilities and disease
+    - Partner with organizations committed to reducing systemic violence and/or neglect
+    - Support local and global outreach programs to meet basic needs across the community
+  - To request support for your organization or project, please download and complete the Community Involvement Application. Application reviews occur twice a year – in January and in July. Please note the following deadlines for submission of your organization's application:
+  - 1 December for consideration in January
+  - 1 June for consideration in July
+- [Walmart](http://walmartstores.com/communitygiving/238.aspx) Check Back Feb 2011
+- [1](http://info.cvscaremark.com/community/our-impact/community-grants)
+- [SRP Grants](http://www.srpnet.com/community/contributions/)
+- [SRP Volunteering](http://www.srpnet.com/community/volunteer.aspx)
+- [Avnet](http://www.avnet.com/sta/home/0,6948,RID%253D0%2526CID%253D0%2526SCR%253DN%2526CCD%253DUSA%2526SID%253D9356%2526DID%253DDF3%2526LID%253D9405%2526BID%253DDF3%2526CTP%253DSTA,00.html)
+- [Avnet Dollars for Doers](http://aux.avnet.com/avnet_com_assets/community_relations/files/dollarsfordoers.pdf) - Like intel's volunteering program
+- [General Dynamics](http://www.gdc4s.com/about/community/index.cfm) seems to have many programs, including a volunteering program like Intel?
+- How do we partner with organizations like
+  - [Brothers Big Sisters](http://www.bbbs.org/Big)
+  - [Boys and Girls](http://bgca.org/)
+  - [United Way](http://liveunited.org/)
