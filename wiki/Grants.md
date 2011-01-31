@@ -1,5 +1,6 @@
 The search term you seem to want for this is community, like business name and community, or community grants, community outreach, community giving, community involvement etc.
 
+- [Techsoup](http://home.techsoup.org/pages/default.aspx) looks like a good collection of software (and [hardware](http://home.techsoup.org/Stock/Pages/Category.aspx?category=get-computers-and-electronics-nonprofits)) donations for nonprofits
 - <http://grants.gov/> government grants for research and development
 - <http://www.sbir.gov/> SBIR for FOR PROFIT groups, STTR grants for FOR profit small businesses
 - <http://www.refresheverything.com/>
@@ -40,9 +41,15 @@ The search term you seem to want for this is community, like business name and c
 - [1](http://info.cvscaremark.com/community/our-impact/community-grants)
 - [SRP Grants](http://www.srpnet.com/community/contributions/)
 - [SRP Volunteering](http://www.srpnet.com/community/volunteer.aspx)
+- [Motorola](http://responsibility.motorolasolutions.com/index.php/society/comminvest/motofoundation/) Doesn't seem to be doing anything since the split
+- [State Farm](http://www.statefarm.com/aboutus/community/grants/company/company.asp)
+- [Raytheon](http://www.raytheon.com/responsibility/community/grants/index.html) Grants and Volunteer matching donations
 - [Avnet](http://www.avnet.com/sta/home/0,6948,RID%253D0%2526CID%253D0%2526SCR%253DN%2526CCD%253DUSA%2526SID%253D9356%2526DID%253DDF3%2526LID%253D9405%2526BID%253DDF3%2526CTP%253DSTA,00.html)
 - [Avnet Dollars for Doers](http://aux.avnet.com/avnet_com_assets/community_relations/files/dollarsfordoers.pdf) - Like intel's volunteering program
 - [General Dynamics](http://www.gdc4s.com/about/community/index.cfm) seems to have many programs, including a volunteering program like Intel?
+- [Lockheed Martin](http://www.lockheedmartin.com/aboutus/community/philanthropy/funding.html)
+- [Boeing](http://www.boeing.com/companyoffices/aboutus/community/ecf_apply_mesa.html)
+- [Best Buy](http://www.bestbuy-communityrelations.com/community_grants_rfp.htm)
 - How do we partner with organizations like
   - [Brothers Big Sisters](http://www.bbbs.org/Big)
   - [Boys and Girls](http://bgca.org/)
