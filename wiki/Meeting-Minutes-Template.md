@@ -23,7 +23,7 @@ A reminder, all issues for consideration must be provided to the Secretary in wr
 
 ## Call to Order and Roll Call
 
-Members Present:
+Members Present: Mark those late and not present as well.
 
 ## Comments From Members
 
