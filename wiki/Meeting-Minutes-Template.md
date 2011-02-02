@@ -73,6 +73,7 @@ Presenter has the floor to present on an update.
 - If there is an objection each board member has 1 min for discussion.
 - If board member speaks under time they may forfeit their time to another board member or member to extend that persons speaking time.
 - During discussion amendments can be proposed. Amendments must be seconded.
+- Amendments not turned in prior to the meeting should be written down and passed to the Secretary. The secretary must restate the amendment to ensure everyone is clear as to what they will be voting on.
 
 **Vote for Amendment of Original Motion:** List of Names for Yay or Nay.\
 **Amendment of Original Motion Voting Result:** Pass, Fail, Or Unanimously Passed
