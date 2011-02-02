@@ -9,7 +9,9 @@ The goal of the meeting should be to receive reports, pass motions, hold electio
 - Meetings start and stop on time.
 - There are three primary rolls that need to be fulfilled for the meetings:
 
-**Chairman:** To Keep The Meeting Running Smoothly **Secretary:** Take Meeting Minutes and Ensure The Resolutions are Worded Without Later Problems of Interpretation **Time Keeper:** Time the Meeting and People Speaking To Ensure We Complete on Time
+**Chairman:** To Keep The Meeting Running Smoothly\
+**Secretary:** Take Meeting Minutes and Ensure The Resolutions are Worded Without Later Problems of Interpretation\
+**Time Keeper:** Time the Meeting and People Speaking To Ensure We Complete on Time
 
 - Idle chit chat and extended discussion should be tabled by the chairman to ensure the meeting gets done on time and we hit every topic.
 - Votes and who voted for what needs to be documented.
