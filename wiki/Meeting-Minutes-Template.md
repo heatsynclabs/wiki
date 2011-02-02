@@ -1,4 +1,25 @@
-HeatSync Labs Non-Profit Organization
+# General Rules
+
+The goal of the meeting should be to receive reports, pass motions, hold elections.
+
+- Agenda items should be turned in no later than 7 days before the meeting is to take place.
+- Agenda items are turned into the Secretary
+- During this 7 days board members have the opportunity to construct amendments to be added to the agenda as well as allow members and board members to familiarize themselves with the topics at hand.
+- Post meeting times and agenda physically on the door 24hours before the meeting.
+- Meetings start and stop on time.
+- There are three primary rolls that need to be fulfilled for the meetings:
+
+**Chairman:** To Keep The Meeting Running Smoothly **Secretary:** Take Meeting Minutes and Ensure The Resolutions are Worded Without Later Problems of Interpretation **Time Keeper:** Time the Meeting and People Speaking To Ensure We Complete on Time
+
+- Idle chit chat and extended discussion should be tabled by the chairman to ensure the meeting gets done on time and we hit every topic.
+- Votes and who voted for what needs to be documented.
+- Minutes typically signed by the champion and secretary and approved by the board(for example avoid pay \*insert office here\* a million dollar silliness)
+- There should be a board meeting minute sanitation process(to ensure that minutes are legible outside of context)
+- If amendments to motions are given during a meeting they are restated by the Secretary as written to ensure clarity and ease later sanitation.
+
+## Agenda Heading
+
+    HeatSync Labs Non-Profit Organization
     Board of Administration
     Open Session
     Day of Month, Year
