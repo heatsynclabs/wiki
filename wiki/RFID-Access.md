@@ -1,5 +1,7 @@
 Attempt at creating an RFID access control shield for Arduino, both for doors and for pieces of equipment.
 
+Video of current state: <http://www.twitvid.com/O548T>
+
 Todo:
 
 - piezo/led feedback
