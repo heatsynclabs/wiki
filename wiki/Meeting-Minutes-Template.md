@@ -23,7 +23,11 @@ A reminder, all issues for consideration must be provided to the Secretary in wr
 
 ## Call to Order and Roll Call
 
-Members Present: Mark those late and not present as well.
+Members Present: Members Late: Members Absent:
+
+## Approval of Last Meetings Minutes
+
+Approval of the **Day of Month, Year** Meeting Minutes. Vote: Does anyone object to unanimous consent?
 
 ## Comments From Members
 
@@ -47,6 +51,10 @@ Each board member has 2 minutes to report on the status of their office. Please 
 
 **IT:**
 
+## Financial Report
+
+Done Quarterly - Can announce our current financial status for reference if relevant to a Proposal/Motion
+
 ## Old Business
 
 Committees that promised to present information for the board, motions that were tabled, etc.
@@ -55,20 +63,28 @@ Committees that promised to present information for the board, motions that were
 
 ## New Business
 
-1\. Approval of the **Day of Month, Year** Meeting Minutes. Vote:
+1\. First Last Name of Person Making Motion - Motion submitted to Secretary prior to the meeting and added to the agenda.
 
-2\. First Last Name of Person Making Motion - Motion submitted to Secretary prior to the meeting and added to the agenda.
-
-- Vote for Unanimous decision.
+- Person making the motion will speak first.
+- Does anyone object to unanimous consent?
 - If there is an objection each board member has 1 min for discussion.
-- During discussion amendments can be proposed. Amendments must have a second.
+- During discussion amendments can be proposed. Amendments must be seconded.
 
 Vote for Amendment of Original Motion: List of Names for Yay or Nay.\
-Amendment Voting Result: Pass, Fail, Or Unanimously Passed
+Amendment of Original Motion Voting Result: Pass, Fail, Or Unanimously Passed
 
-Vote for Final Motion: List of Names for Yay or Nay.\
+Vote for Amended or Final Motion: List of Names for Yay or Nay.\
 Result: Pass, Fail, Or Unanimously Passed
 
+2\. Follow the same structure as motion number one.
+
+In the event that it appears that there is not enough time to get the meeting completed in the allotted time someone can motion to extend the meeting.\
 Vote: To Extend Meeting - Unanimously Passed to extend until \*time\*
 
-**Adjournment**
+## Adjournment
+
+To end a meeting you move to adjourn.
+
+- Does anyone object to unanimous consent?
+- If no than end the meeting if yes than everyone has 1 min to discuss where a board member can move to exted.
+- You can't run late unless there is a motion to extend the meeting like above.
