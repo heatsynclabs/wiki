@@ -71,11 +71,11 @@ Presenter has the floor to present on an update.
 - If there is an objection each board member has 1 min for discussion.
 - During discussion amendments can be proposed. Amendments must be seconded.
 
-Vote for Amendment of Original Motion: List of Names for Yay or Nay.\
-Amendment of Original Motion Voting Result: Pass, Fail, Or Unanimously Passed
+**Vote for Amendment of Original Motion:** List of Names for Yay or Nay.\
+**Amendment of Original Motion Voting Result:** Pass, Fail, Or Unanimously Passed
 
-Vote for Amended or Final Motion: List of Names for Yay or Nay.\
-Result: Pass, Fail, Or Unanimously Passed
+**Vote for Amended or Final Motion:** List of Names for Yay or Nay.\
+**Result:** Pass, Fail, Or Unanimously Passed
 
 2\. Follow the same structure as motion number one.
 
