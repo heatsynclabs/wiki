@@ -57,9 +57,10 @@ Done Quarterly - Can announce our current financial status for reference if rele
 
 ## Old Business
 
-Committees that promised to present information for the board, motions that were tabled, etc.
+Committees that promised during a previous meeting to present information for the board, motions postponed to a certain date or indefinitely, etc.
 
-1\. First and Last Name of Person Presenting - Summary of Old Business
+1\. First and Last Name of Person Presenting - Summary of Old Business\
+Presenter has the floor to present on an update.
 
 ## New Business
 
