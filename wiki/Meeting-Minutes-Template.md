@@ -53,7 +53,7 @@ Each board member has 2 minutes to report on the status of their office. Please 
 
 ## Financial Report
 
-Done Quarterly - Can announce our current financial status for reference if relevant to a Proposal/Motion
+Done Quarterly and presented by the Treasurer - Can announce our current financial status for reference if relevant to a Proposal/Motion
 
 ## Old Business
 
