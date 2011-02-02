@@ -19,7 +19,7 @@ HeatSync Labs Non-Profit Organization
     Joyce Tang
     Andrea Young
 
-A reminder, all issues for consideration must be provided to the Secretary in written form at least one week prior to the necessary posting date for that meeting. Any written materials distributed to the Board in connection with this agenda will be made available at the meeting location located at the address at or just prior to the meeting.
+A reminder, all issues for consideration must be provided to the Secretary in written form at least 7 days prior to the necessary posting date for that meeting. Any written materials distributed to the Board in connection with this agenda will be made available at the meeting location located at the address at or just prior to the meeting.
 
 ## Call to Order and Roll Call
 
