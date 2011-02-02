@@ -71,6 +71,7 @@ Presenter has the floor to present on an update.
 - Person making the motion will speak first.
 - Does anyone object to unanimous consent?
 - If there is an objection each board member has 1 min for discussion.
+- If board member speaks under time they may forfeit their time to another board member or member to extend that persons speaking time.
 - During discussion amendments can be proposed. Amendments must be seconded.
 
 **Vote for Amendment of Original Motion:** List of Names for Yay or Nay.\
