@@ -23,7 +23,9 @@ A reminder, all issues for consideration must be provided to the Secretary in wr
 
 ## Call to Order and Roll Call
 
-Members Present: Members Late: Members Absent:
+Members Present:\
+Members Late:\
+Members Absent:
 
 ## Approval of Last Meetings Minutes
 
