@@ -25,7 +25,7 @@ Todo:
     String code = ""; 
     int bytesread = 0; 
     String allowed = "0F03039364";
-    String allowedName = "Will Bradley";
+    String allowedName = "Gordon Freeman";
     String strTag = "TAG ";
     String strAuth = "Authorized ";
     String strUnauth = "Unauthorized ";
