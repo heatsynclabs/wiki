@@ -59,7 +59,7 @@ Approval of the **Day of Month, Year** Meeting Minutes. Vote: Does anyone object
 
 ## Comments From Members
 
-At this time Members whose dues are in good and current standing shall have an opportunity to comment on any item relevant to the subject matter jurisdiction of the Board. This opportunity is non-transferable and speakers are limited to a single one (1) minute comment.
+At this time Members whose dues are in good and current standing shall have an opportunity to comment on any item relevant to the subject matter jurisdiction of the Board. This opportunity is non-transferable and speakers are limited to a single one (1) minute comment. Members have the option of presenting a special report to the board based on an agenda item but this special report should be turned in to the secretary 7 days prior to the meeting and will be included at the Secretary's discretion time permitting.
 
 ## Director Report
 
