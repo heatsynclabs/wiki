@@ -95,16 +95,15 @@ Presenter has the floor to present on an update.
 1\. First Last Name of Person Making Motion - Motion submitted to Secretary prior to the meeting and added to the agenda.
 
 - Person making the motion will speak first.
-- Does anyone object to unanimous consent?
-- If there is an objection each board member has 1 min for discussion.
-- If board member speaks under time they may forfeit their time to another board member or member to extend that persons speaking time.
+- Is there anyone who would like to discuss the motion?
+- If yes each person willing to discuss the motion will have 1 minute for discussion.
 - During discussion amendments can be proposed. Amendments must be seconded.
 - Amendments not turned in prior to the meeting should be written down and passed to the Secretary. The secretary must restate the amendment to ensure everyone is clear as to what they will be voting on.
 
-**Vote for Amendment of Original Motion:** List of Names for Yay or Nay.\
+**Vote for Amendment of Original Motion:** List of Names for Yay or Nay(All in favor raise their hand. All opposed raise your hand).\
 **Amendment of Original Motion Voting Result:** Pass, Fail, Or Unanimously Passed
 
-**Vote for Amended or Final Motion:** List of Names for Yay or Nay.\
+**Vote for Amended or Final Motion:** List of Names for Yay or Nay(All in favor raise their hand. All opposed raise your hand).\
 **Result:** Pass, Fail, Or Unanimously Passed
 
 2\. Follow the same structure as motion number one.
