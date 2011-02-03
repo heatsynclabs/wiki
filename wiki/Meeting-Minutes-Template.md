@@ -18,6 +18,7 @@ The goal of the meeting should be to receive reports, pass motions, hold electio
 - Minutes typically signed by the champion and secretary and approved by the board(for example avoid pay \*insert office here\* a million dollar silliness)
 - There should be a board meeting minute sanitation process(to ensure that minutes are legible outside of context)
 - If amendments to motions are given during a meeting they are restated by the Secretary as written to ensure clarity and ease later sanitation.
+- In the event of a tie the Chairman will start another round of discussion to help resolve the issue.
 
 ## Agenda Heading
 
