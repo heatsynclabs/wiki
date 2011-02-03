@@ -63,7 +63,7 @@ At this time Members whose dues are in good and current standing shall have an o
 
 ## Director Report
 
-Each board member has 2 minutes to report on the status of their office. Please email details of this report to the secretary if relevant to aid in meeting minute note taking.
+Each board member has 2 minutes to report on the status of their office which may be extended per request and at the Secretary's discretion per time permitting. Please email details of this report to the secretary if relevant to aid in meeting minute note taking.
 
 **Champion:**
 
