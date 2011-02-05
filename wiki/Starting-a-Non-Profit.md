@@ -1,6 +1,6 @@
-## 1) Select the Name of the Corporation
+## Select the Name of the Corporation
 
-### 1.a) Name Guidelines
+### Name Guidelines
 
 When choosing a name ensure that it:\
 
@@ -9,7 +9,7 @@ When choosing a name ensure that it:\
 - Will describe your products or services(often not possible and not proffered)
 - Will allow you to obtain .com, .net., .org, .biz, .info and .us domain names
 
-### 1.b) Name Regulations
+### Name Regulations
 
 It will probably be easiest to just choose a name and then make sure it fits within these rules:
 
@@ -18,25 +18,36 @@ To check the availability of a name and for some naming and for some naming stan
 
 Name must abide by these Arizona rules: <http://www.azleg.state.az.us/ars/10/03401.htm>
 
-### 1.c) Check for infringement
+### Check for infringement
 
 Use <http://tess2.uspto.gov/bin/gate.exe?f=tess&state=4005:6leu8n.1.1> to search Federal database for names that aren't trademarked already
 
 Use <http://starpas.azcc.gov/scripts/cgiip.exe/WService=wsbroker1/connect.p?app=names-report.p> to search Arizona database
 
-## 2) Create the Non-profit organization
+## Create the Non-profit organization
 
-### 2.a) Prepare the Articles of Incorporation
+### Benefits
 
-Example Articles of Incorporation of a Tax-Exempt Non Profit:\
+- Generally, we're not exempt on sales tax (its complicated, especially in arizona)
+- Can be exempt from property tax (its complicated, must apply)
+- The big exemption is income (state follows federal guidelines)
+- We also get reduced postage!
+
+### Prepare the Articles of Incorporation
+
+Articles are amended rarely.
+
+- Example Articles of Incorporation of a Tax-Exempt Non Profit:\
+
 <http://www.azcc.gov/divisions/corporations/filings/forms/cf0041.pdf>
 
-Arizona Corporate Filings FAQ:\
+- Arizona Corporate Filings FAQ:\
+
 <http://www.cc.state.az.us/divisions/corporations/faqmanual.asp#cf>
 
 Be sure to note that the corporation will not practice discrimination so as to be eligible for tax exemption!
 
-### 2.b) Memberships
+### Memberships
 
 The Articles of Incorporation must state whether or not the corporation will have members. An Arizona nonprofit corporation is not required to have members. The choice to have members or not have members is a decision for the founders and depends on the nature of the proposed activities and the desires of the founders. Nonprofit corporations without members are governed by the corporation's board of directors.
 
@@ -46,7 +57,7 @@ All members have the same rights and obligations with respect to voting, dissolu
 
 A nonprofit corporation shall notify voting members of the date, time and place of each annual, regular and special members' meeting at least ten days but not more than sixty days before the meeting date.
 
-### 2.c) Directors
+### Directors
 
 All corporate powers are exercised by or under the authority of and the affairs of the corporation are managed by its board of directors, subject to any limitation set forth in the articles of incorporation.
 
@@ -54,11 +65,32 @@ If a nonprofit corporation has members, \*\*the members elect all the directors 
 
 If the corporation does not have members, all the directors except the initial directors are elected, appointed or designated as provided in the articles of incorporation or bylaws. If no method of designation or appointment is set forth in the articles of incorporation or bylaws, the board of directors shall elect the directors (other than the initial directors).
 
-### 2.d) Officers
+### Officers
 
 A nonprofit corporation shall have the officers described in its articles of incorporation or bylaws or appointed by the board of directors in accordance with the articles of incorporation or bylaws. \*\*The bylaws or the board of directors shall delegate to one of the officers responsibility for preparing minutes of the directors' and members' meetings and for authenticating records of the corporation\*\*. The same individual may simultaneously hold more than one office in the corporation.
 
-### 2.e) Governance Issues
+### Conflict of Interest
+
+You do not HAVE to create a conflict of interest policy, but you REALLY SHOULD. It protects the organization by putting the liability back onto the parties who did not properly disclose or act.
+
+An 'insider' or 'disqualified person' is someone who has persona and private interests within the taxable exempt organization. We cast this net as wide as possible in our disclosure statement which every board member must sign each year, which includes:
+
+- spouses, parents or sibling of the spouse, of the director; child grandchild sibling parent or spouse of a director
+- child, grandchild, sibling or parent or spouse of a child, grandchild, sibling or parent of the director
+- an individual having the same home as the director
+- a trust or estate of which an individual specified above is a substantial beneficiary
+- a trust, estate, incompetent, conservatee or minor of which the director is a fiduciary
+- and anyone else with substantial influence
+
+Each board member is subject to sign conflict policy annually! Make sure net is cast 'wide' to protect you. Must include
+
+- acknowledge they received a copy
+- that they read and understood
+- that they agree to comply
+- that they understand the entity is tax exempt and must engage primarily in actives which accomplish its tax-exempt purposes.
+- their signature
+
+### Governance Issues
 
 The general rule is that a nonprofit corporation may not make any distributions. It must keep as permanent records minutes of all meetings of its members and board of directors, a record of all actions taken by the members or board of directors without a meeting and a record of all actions taken by a committee of the board of directors on behalf of the corporation. The corporation shall maintain appropriate accounting records. The corporation or its agent shall maintain a record of its members in a form that permits preparation of a list of the names and addresses of all members and in alphabetical order by class of membership showing the number of votes each member is entitled to cast and the class of memberships held by each member.
 
@@ -77,7 +109,7 @@ Each year a nonprofit corporation must pay a \$10 fee and file an annual report 
 - A statement that all corporate income tax returns required under Arizona law have been filed with the Arizona Department of Revenue.
 - A statement of its financial condition consisting of one of the following documents: (i) the corporation's most recent copy of page 2, Form 99 filed with the Arizona Department of Revenue; (ii) a copy of the corporation's Charitable Organization Financial Statement as filed with the Arizona Secretary of State pursuant to A.R.S. §44-6552; (iii) a copy of the corporation's Treasurer's Report/Financial Statement prepared for the current fiscal year; (iv) a copy of the financial statement prepared for the corporation's members; or (v) a statement that the corporation conducted no business in Arizona in the past year.
 
-### 2.f) Choose a Statutory Agent - Not it!
+### Choose a Statutory Agent - Not it!
 
 Every nonprofit corporation formed in Arizona or qualified to do business in Arizona must have and maintain a statutory agent located in Arizona. The purpose of a statutory agent is to give notice to the public of a person or entity authorized by the corporation that can be served with legal documents as the agent of the corporation. The statutory agent is the person or entity that can be served with a summons and complaint filed in a lawsuit.
 
@@ -91,11 +123,11 @@ Every nonprofit corporation formed in Arizona or qualified to do business in Ari
 
 The corporation must notify the ACC if it changes its known place of business or statutory agent. If the statutory agent changes its street address, the statutory agent must give written notice to the corporation of the change and sign, either manually or in facsimile, and deliver to the ACC for filing a statement that includes the new address and that recites that the corporation has been given written notice of the change.
 
-### 2.g) Prepare a Cover Sheet
+### Prepare a Cover Sheet
 
 Fill this out: <http://corporations.azcc.gov/filings/forms/cfcvlr.pdf>
 
-### 2.h) Prepare Certificate of Disclosure
+### Prepare Certificate of Disclosure
 
 Certificate found here: <http://www.azcc.gov/divisions/corporations/filings/forms/cf0001.pdf>
 
@@ -103,17 +135,21 @@ When you file the articles of incorporation with the ACC, you must also submit a
 
 If within sixty days after delivering the articles of incorporation to the ACC any person becomes an officer, director or trustee of the corporation and the person was not the subject of the disclosures set forth in a certificate of disclosure previously filed with the ACC, the incorporator or incorporators or, if the organization of the corporation has been completed, the corporation shall sign and deliver to the ACC within the sixty day period a declaration, sworn to under penalty of law, setting forth all information required by A.R.S. Section 10-3202.D(1), regarding the person. If the incorporator or incorporators or, as applicable, the corporation do not comply with this requirement, the ACC may administratively dissolve the corporation.
 
-### 2.i) Publish the Articles of Incorporation
+- You should warn them their answers will become public.
+- Email them 2 months notice, and 1 month out, print the email for due diligence
+- If they don't answer and you've asked at 60 days and followed up at 30 days, you've made a good faith effort.(note non compliance does not mean you need to let the director go, oddly enough)
+
+### Publish the Articles of Incorporation
 
 - In a newspaper of general circulation the required number of times
 - Within 60 days after the Commission files (approves) the Articles of Incorporation, you must publish a copy of the Articles in a newspaper of general circulation in the county of the known place of business in Arizona for three consecutive publications. A list of acceptable newspapers in each county will be enclosed with your approval letter and is also available on the Commission website. The corporation may be subject to administrative dissolution if it fails to publish. You do not need to file the Affidavit of Publication you will receive from the newspaper.
 - Copied from the example articles of incorporation
 
-## 3) Public Disclosure of Information of Tax Exempt Organizations
+## Public Disclosure of Information of Tax Exempt Organizations
 
 A tax-exempt organization is required to provide copies of its three most recent information returns, its exemption letter, and its approved application with supporting documentation, without charge (other than a reasonable fee for any reproduction and mailing costs), to persons requesting copies (with certain exceptions), unless it has made these forms widely available by publishing them on the Internet in accordance with IRS regulations.
 
-## 4) Submit an affidavit of publication to the ACC
+## Submit an affidavit of publication to the ACC
 
 ### Annual Report
 
@@ -121,11 +157,11 @@ This annual report must be correctly filled out and submitted by the assigned du
 
 Annual Report Instruction Sheet: <http://www.cc.state.az.us/divisions/corporations/annrpts/arinstruct.asp>
 
-## 5) Obtain Tax Exempt Status
+## Obtain Tax Exempt Status
 
 Being a non profit organization does not mean you are tax exempt. You have to file separately for this status.
 
-### 5.a) Must meet these requirements
+### Must meet these requirements
 
 - Must meet requirements set forth in the Internal Revenue Code
 
@@ -141,7 +177,7 @@ The organization must not be organized or operated for the benefit of private in
 
 Section 501(c)(3) organizations are restricted in how much political and legislative (lobbying) activities they may conduct. For a detailed discussion, see Political and Lobbying Activities. For more information about lobbying activities by charities, see the article Lobbying Issues; for more information about political activities of charities, see the FY-2002 CPE topic Election Year Issues.
 
-### 5.b Application Process Step by Step
+### Application Process Step by Step
 
 <http://www.irs.gov/charities/charitable/article/0,,id=96099,00.html> <http://www.irs.gov/pub/irs-pdf/f1023.pdf>
 
@@ -174,7 +210,7 @@ Section 501(c)(3) organizations are restricted in how much political and legisla
   - We may be eligible to influence legislature in certain situations, we DO NOT wish to pursue this
 - All other attachments, including explanations, financial data, and printed materials or publications. Label each page with name and EIN.
 
-### 5.c Costs
+### Costs
 
 <http://www.irs.gov/charities/article/0,,id=212562,00.html>
 
@@ -193,13 +229,49 @@ Cyber Assistant, a Web-based software program designed to help 501(c)(3) applica
 
 IRS will announce when Cyber Assistant is available and the effective date of the user fee change. Sign up for the Exempt Organization (EO) Update, EO’s subscription newsletter, at www.irs.gov/charities, to automatically receive an alert that Cyber Assistant is available.
 
+## BEFORE you fund-raise
+
+- You must REGISTER in any state you wish to solicit (raise funds) in!! You also have to be careful soliciting on the internet. You must not target any specific state, and if you regularly obtain funds from a single state, you must register THERE too! Look into the Charleston Principles for guidance. NOTE: Even those Coldstone/Applebees/etc 10% nights are considered solicitation.
+
+<!-- -->
+
+- Look into UPMIFA - Restricted use of funds. If you solicit donations for a specific purpose, they LEGALLY have to be used for that purpose. You may wish to be vague, or specifically itemize a bunch of stuff you intend to use the funds for, to allow you to spend your raised funds as you wish.
+
+<!-- -->
+
+- RAFFLES ARE VERY DANGEROUS in most states. They're considered gambling, and therefore a CRIME, without the proper allowances. In Arizona non profits are not allowed to raffle until they've been operating for 5 years. Also note that directors officers, employees or agents are of the nonprofit are LEGALLY DISALLOWED from participating in a raffle. Finally note that ONLY directors officers, employees or agents are of the nonprofit are allowed to administer the raffle, you may not hire any outside agents to do so.
+
 ## Non-Profit Organization Upkeep
 
-- Have a regular meeting with possibly all members.
-- Have an agenda and set goals.
+- Have a regular meeting with the whatever your bylaws/articles decide is necessary to proceed. In Arizona this meeting does not have to be public.
+
+You CAN have meetings over email, with one BIG stipulation. The only motions that can pass are by UNANIMOUS CONSENT, and everyone MUST explicitly reply to email with their vote.
+
+- Have at least 1 'annual' meeting, generally the anniversary of the incorporation and the meeting you hold elections
+- Have an agenda and set goals. Don't actually have to publicly post an agenda or notice requirements if your Bylaws or Articles don't specify it! Also if your bylaws don't mention it the standare is a 24 hour notice to call a 'special' session in between regularly scheduled sessions.
+- Can have an Executive committee-- a small agile committee which acts when board is out of session (probably ~3 members for a board of ~10). They keep another set of minutes.
 - Make people commit themselves to tasks.
-- Write down minutes of the meeting and post them on a mailing list and/or Wiki.
-- Go for the only date that works: once a week. Weird dates like “first full-moon after the third Friday” will never work. Likewise doesn’t every other week or anything similar.
+- Keep good minutes of meetings, these only need be posted in accordance with state compliance.
+- You're paying your professional's (lawyer and CPA, etc) Do NOT let them bully you. Make them make you understand and keep asking questions.
+- Non profit Compliance--An organization will not be public nonprofit if more than a substantial amount (10-15%????) of its activities do not further an exempt purpose.
+
+ANYONE can request
+
+- 1023 (and attachments), determination letter(1023 acceptance), all correspondence!(the letter that told us to fix stuff) and last 3 filed 990 and 990ts at any time (not including donors schedule (b?))
+- if in person, same day! per day(\$20/day capped at 10k per document) penalties!,
+- (can ASK reasonable copying fee, but can't withhold for payment)
+- request by writing 30 days compliance
+- don't have to comply if 'widely available' (on guidestar for instance)
+- also don't have to comply if harassment(ddos basically)
+
+MEMBERS (have been for at least 6 months, made in good faith, tell us why, and the records must be connected to the purpose) are able to demand:
+
+- Articles, bylaws, resolutions dealing with member rights, minutes for past 3 years,actions taken by committees, written communications to members for 3 years, names and business addresses of current directors and officers, most recent annual report(state corporation commission report), member agreements, accounting records, membership list, most recent financial statements (very broad discretion here...)
+- (no fines associated with non compliance)
+
+DIRECTORS
+
+- can request whatever document is necessary to fulfill their fiduciary duties(basically anything)
 
 ## Links
 
