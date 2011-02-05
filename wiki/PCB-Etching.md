@@ -10,41 +10,122 @@ haven't tried them but <http://www.goldphoenixpcb.biz> <http://www.expresspcb.co
 
 some good but perhaps outdated info from ladyada <http://www.ladyada.net/library/pcb/manufacturers.html>
 
-## HOMEMADE
+## Homebrew
 
-Several options, but they all boil down to covering up the copper you DONT want to take off, and bathing the rest in acid
+There are several options for home etching, but they all boil down to covering up the copper you DON'T want to take off, and bathing the rest in acid.
 
-photo resist-using light to affix your pattern heat transfer-using heat straight sharpie on copper-yep sharpie will resist etching, too
+- photo resist - using light to affix your pattern
+- heat transfer - using heat
+- permanent marker - yep sharpie will resist etching, too
 
-youll need some copper clad, available at fry, radio shack, elsewhere (several places are also selling flexible pcb material called Kapton!)
+### Preparation
 
-yowl also need some chemicals
+You will need:
 
-etching chemicals ferric chloride-radio shack --don't get powder and deal with mixing it--realize you cant just toss this stuff down the drain when you're done with it (after a bunch of etches mind you)-- hence: cupric chloride <http://www.instructables.com/id/Stop-using-Ferric-Chloride-etchant!--A-better-etc/> <http://members.optusnet.com.au/~eseychell/PCB/etching_CuCl/index.html> more…
+- copper clad board
+  - Available at Fry's Electronics, Radio Shack, and other electronics supply shops.
+  - Several places are also selling flexible PCB material called Kapton.
+- transfer material
+  - Some use magazines or transparencies.
+  - Special-purpose toner transfer paper is available.
+    - Pulsar Pro FX - <http://pulsarprofx.com>
+    - Press'n'Peel - <http://www.techniks.com/>
+- sealing foil (optional) - <http://pulsarprofx.com>
+- source of either UV light or heat
+  - Desktop paper laminator works great.
+  - Clothes/craft iron also works.
+- laser printer
+  - Ink jet will NOT work.
+- scouring pad (NOT steel wool)
+- chemicals
+  - dish soap
+  - ferric chloride (FeCl)
+    - Use this OR CuCl.
+    - Get liquid so you don't have to mix the powder.
+    - You can't just dump this down the drain when you're done with it (after several of etches).
+  - cupric chloride (CuCl)
+    - Use this OR FeCl
+    - Easier to work with
+    - <http://www.instructables.com/id/Stop-using-Ferric-Chloride-etchant!--A-better-etc/>
+    - <http://members.optusnet.com.au/~eseychell/PCB/etching_CuCl/index.html>
+- non-metal container(s) and/or bubble tank larger than your board
+  - <http://www.instructables.com/id/Build-your-own-PCB-bubble-tank!/>
+- protective gloves
+  - latex or nitrile
+- paper cutter to trim board (optional)
+  - only use for thinner boards (0.032-)
+  - abuses blade
 
-Im a fan of the heatsync transfer. method.
+### Print
 
-Youll need a laserjet printer, not the common home inkjet kind, but the kind you have at work and kinks
+When printing your design, there are two critical things to keep in mind.
 
-You typically buy a transfer paper from someone, I like pulsar prefix but I've seen reference to pressnpeel as well
+- Print a mirror image.
+- Set printer to maximum density. Use Transparency setting, if available.
 
-press-n-peel <http://www.techniks.com/>
+These instructions assume you're using toner transfer paper.
 
-pulsarprofx-LOTS of info on the process on their site <http://www.pulsarprofx.com/>
+1.  Mark top sheet in paper tray for side and orientation.
+2.  Print circuit.
+3.  Cut transfer paper slightly larger than image.
+4.  Tape transfer paper over image, shiny side exposed.
+    - Be sure not to cover important parts with tape!
+    - Cover entire leading edge with tape to avoid jams.
+5.  Place paper back in tray, noting orientation.
+6.  Print image again with darkest setting.
+7.  Remove transfer paper.
 
-Because toner doesn't apply densely enough, you probably want to seal as well, pulsar sells a green foil for this too.
+### Transfer
 
-Youll need some non metal container to etch in, and some gloves as ferric chloride at least stains your hands. I do small work so I can agitate in a dixie cup
+1.  Scour copper surface
+    - Use scouring pad and a dab of soap
+    - Use very light pressure. You're trying to roughen the copper, not remove it.
+    - Surface should be slightly dull, with no gouges.
+2.  Rinse/dry board.
+3.  Partially fill one container with clean, cool tap water.
+4.  Align image on transfer paper with board.
+5.  Carefully trim excess paper with a razor or sharp scissors.
+6.  Maintaining alignment, apply heat with either laminator or iron.
+    - Laminator - Depending on the power of your machine, run your board through 2-6 times.
+    - Iron - I have no experience with this method. The more heat and pressure, the better.
+7.  Place board in water. Paper will release after a few seconds.
+8.  Remove board from water, ensuring all paper has been removed.
+    - Be careful not to remove toner.
+9.  Inspect traces for excess/light toner.
+    - If small amounts of toner are missing, use fine-point permanent marker to carefully draw them in.
+    - If large amounts of toner are missing, wipe the toner off and restart.
 
-bubble tank <http://www.instructables.com/id/Build-your-own-PCB-bubble-tank!/>
+If not using sealing foil, proceed to Etch section.
 
-You generally then apply the transferred image over to your board. The cheap way is with an iron, I prefer the pulsarprofx laminator method. I found their laminator on ebay for 20-30 shipped
+If using sealing foil:
 
-with pulsarprofx .032 boards a Simple paper cutter from staples works well for cutting, though I think the blade is degrading quickly
+1.  Allow board to dry. (Do NOT wipe dry!)
+2.  Cut piece of foil slightly narrower, and 1"-2" longer than board.
+3.  Place foil such that all the toner is covered, and a large flap is folded under the board. This will prevent slipping when applying heat.
+4.  Being careful to avoid folds and wrinkles, run foil-wrapped board through laminator ONCE.
 
-Now you etch!
+Traces should now be covered in green. If there are still black portions, this should be fine. Toner is sufficient to mask; the sealant is merely added protection.
 
-Theres been a lot of hullabo about etching with just a sponge--MEH My results have been very messy and annoying and slow like this. I find the main lesson to learn here is to break the surface tension with your gloved finger occasionally while you're regularly agitating in order to speed up the process. <http://www.instructables.com/id/Sponge-Ferric-Chloride-Method-Etch-Circuit-Bo/>
+### Etch
+
+Some prefer using a sponge to apply the etchant. This is messy and slow, so we will use the submersion method. If you're interested in the sponge method, more information is at [Instructibles](http://www.instructables.com/id/Sponge-Ferric-Chloride-Method-Etch-Circuit-Bo/)
+
+1.  If only using one container, dump water out.
+2.  Fill container with enough etchant to cover board.
+3.  Place board in etchant bath.
+    - Be careful to avoid splashing. This stuff stains, and is a skin/eye irritant. Reading the MSDS for unfamiliar chemicals is always a great idea.
+4.  Agitate bath 5-10 minutes. (unless using bubble tank)
+    - Shake container
+    - Gently rub board with (gloved!) finger.
+    - Check board frequently.
+    - Most of the visible etching happens very quickly toward the end of the process.
+5.  Submerge board in water or rinse in sink to remove all etchant.
+6.  Pour used etchant back into bottle for reuse.
+    - You can get several boards from a single batch of etchant.
+    - Do not dispose of used etchant down drain.
+7.  Dry board.
+
+Congratulations! Your board is now ready for drilling, if necessary, and population.
 
 ## The Homemade Process
 
