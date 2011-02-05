@@ -54,6 +54,7 @@
 - [Pick and Place](http://hackaday.com/2010/03/03/vacuum-pick-and-place-for-smd-parts/)
 - [Flux Paste Applicator](http://hackaday.com/2010/04/08/flux-paste-applicator-gun/)
 - [Reflow Toaster](http://www.sparkfun.com/commerce/tutorial_info.php?tutorials_id=60)
+- [IdeaPad S10-3t](IdeaPad-S10-3t)
 
 ### Workshops
 
