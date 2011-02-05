@@ -8,6 +8,6 @@ So, Intel gave us all these cool netbook tablets. What can we do with them?
 
 ### Install KDE
 
-For those of you who don't RAGE RAGE RAGE about KDE, you can install KDE on to the Ideapad, including experimental KDEPIM mobile packages, which are freaking sexy.
+For those of you who don't RAGE RAGE RAGE about KDE, you can install KDE on to MeeGo, including experimental KDEPIM mobile packages, which are freaking sexy.
 
 [installation details](http://userbase.kde.org/Kontact_Touch/MeeGo)
