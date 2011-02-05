@@ -243,10 +243,7 @@ IRS will announce when Cyber Assistant is available and the effective date of th
 
 ## Non-Profit Organization Upkeep
 
-- Have a regular meeting with the whatever your bylaws/articles decide is necessary to proceed. In Arizona this meeting does not have to be public.
-
-You CAN have meetings over email, with one BIG stipulation. The only motions that can pass are by UNANIMOUS CONSENT, and everyone MUST explicitly reply to email with their vote.
-
+- Have a regular meeting with the whatever your bylaws/articles decide is necessary to proceed. In Arizona this meeting does not have to be public. You CAN have meetings over email, with one BIG stipulation. The only motions that can pass are by UNANIMOUS CONSENT, and everyone MUST explicitly reply to email with their vote.
 - Have at least 1 'annual' meeting, generally the anniversary of the incorporation and the meeting you hold elections
 - Have an agenda and set goals. Don't actually have to publicly post an agenda or notice requirements if your Bylaws or Articles don't specify it! Also if your bylaws don't mention it the standare is a 24 hour notice to call a 'special' session in between regularly scheduled sessions.
 - Can have an Executive committee-- a small agile committee which acts when board is out of session (probably ~3 members for a board of ~10). They keep another set of minutes.
