@@ -71,7 +71,7 @@ A nonprofit corporation shall have the officers described in its articles of inc
 
 ### Conflict of Interest
 
-You do not HAVE to create a conflict of interest policy, but you REALLY SHOULD. It protects the organization by putting the liability back onto the parties who did not properly disclose or act.
+You do not HAVE to create a conflict of interest policy, but you REALLY SHOULD. It protects the organization by putting the liability back onto the parties who did not properly disclose or act. Conflict of interest is TOTALLY OK. You just need to treat it properly. Disclose it, recuse yourself from committee or vote if necessary. You may still act with the disqualified party on a deal you just need to have a paper trail on why the deal was better than the others you didn't take. Note; The penalties are HUGE here, lookup Excess Benefit (something like 200% penalty on excess. There is NO statute of limitations. Also NOTE: A board member is still a disqualified person until 5 years after they leave the board, So you can't step down to make a deal.
 
 An 'insider' or 'disqualified person' is someone who has persona and private interests within the taxable exempt organization. We cast this net as wide as possible in our disclosure statement which every board member must sign each year, which includes:
 
