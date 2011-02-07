@@ -1,6 +1,6 @@
 So, Intel gave us all these cool netbook tablets. What can we do with them?
 
-## MeeGo
+## MeeGo Hax
 
 ### Its a Linux box, put Linux stuff on it
 
