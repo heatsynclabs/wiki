@@ -12,6 +12,14 @@ Zypper is the default package management system for MeeGo. Many standard GNU uti
 - ruby
 - ruby-irb
 
+Searching for packages is fairly straightforward:
+
+    $ zypper search ruby
+
+Installing packages requires root privies, which you can use sudo to gain using the password that was assigned by default (1234):
+
+    $ sudo zypper install ruby
+
 ### Make Tablet Less Suck
 
 - Install [chromeTouch](http://www.chromeextensions.org/appearance-functioning/chrometouch/) extension.
