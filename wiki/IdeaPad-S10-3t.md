@@ -2,6 +2,16 @@ So, Intel gave us all these cool netbook tablets. What can we do with them?
 
 ## MeeGo
 
+### Its a Linux box, put Linux stuff on it
+
+Zypper is the default package management system for MeeGo. Many standard GNU utilities are included in the default repos. You should install these if you're a developer:
+
+- vim
+- gcc
+- git
+- ruby
+- ruby-irb
+
 ### Make Tablet Less Suck
 
 - Install [chromeTouch](http://www.chromeextensions.org/appearance-functioning/chrometouch/) extension.
