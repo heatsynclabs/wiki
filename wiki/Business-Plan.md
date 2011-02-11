@@ -20,7 +20,7 @@ Our Strategy is to empower, one on one, our members with the tools, resources, s
 
 # Experience and Capabilities
 
-## Principals (the team)
+## Principals (The Team)
 
 - List the Board Members and Their Experience Levels - This was included and can be updated for our f1023
 
