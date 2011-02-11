@@ -79,7 +79,11 @@ Please note that the meeting minutes for the monthly meetings are now being docu
 
 ### December
 
-[ Emergency Mtg Dec 4 2010](4-Dec-10)\
+[ Special Mtg Dec 4 2010](4-Dec-10)\
 [ Dec 21 2010](21-Dec-2010)
 
 ## 2011
+
+### January
+
+[ Jan 13 2011](Board-Meeting-01-13-11.pdf)
