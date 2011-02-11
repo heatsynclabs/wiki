@@ -132,7 +132,7 @@ Putting on tech talks and having free food doesn't build a community, it simply 
 
 ### Hackerspaces
 
-Global Phenomenon
+It's a Global Phenomenon.
 
 We're most like a traditional academic incubator model mixed with the newer coworking model. Entreprenuers and skilled tradespeople who don't wish to work in an office alone but would rather work side by side with the other brightest minds in the community in order to build their workspace in public More specifically, we are part of a larger maker/do-it-yourself culture exemplified by Make Magazine. There are spaces are popping up throughout the united states, and globally, all with different visions and goals, but all listing themselves at hackerspaces.org.
 
