@@ -111,7 +111,7 @@ A second target market segment would include up and coming engineers. Technical 
 
 ### Incubators
 
-Skysong's Hackspace
+- Skysong's Hackspace
 
 High schools pulling out of access to the tools of creation because of safety, budget cuts, etc.
 
@@ -121,7 +121,8 @@ Build large buildings off campus, offer offices, more closed off spaces.
 
 Putting on tech talks and having free food doesn't build a community, it simply attracts an audience that prefers to be fed.
 
-techstars 500 startups
+- Techstars
+- 500 Startups
 
 ### Co-Working/Collaboration
 
