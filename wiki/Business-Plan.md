@@ -34,6 +34,22 @@ Who is our population-this is all really old and can be radically changed The ma
 
 - competitive analysis
 
+-schools, tech schools mcc, evit, asu, u of a -incubators skysong's hackspace,
+
+High schools pulling out of access to tools the tools of creation because of safety, budget cuts, etc.
+
+Colleges continue to be silos. Inter-departmental bickering and inability to communicate leads to an institution will all the tools present which are necessary to succeed, yet frustratingly kept at arms length.
+
+Build large buildings off campus, offer offices, more closed off spaces.
+
+Putting on tech talks and having free food doesn't build a community, it simply attracts an audience that prefers to be fed.
+
+techstars 500 startups
+
+-coworking/collaboration az disruptors gangplank cohoots
+
+-hackerspaces global phenomenon
+
 We're most like a traditional academic incubator model mixed with the newer coworking model. Entreprenuers and skilled tradespeople who don't wish to work in an office alone but would rather work side by side with the other brightest minds in the community in order to build their workspace in public More specifically, we are part of a larger maker/do-it-yourself culture exemplified by Make Magazine. There are spaces are popping up throughout the united states, and globally, all with different visions and goals, but all listing themselves at hackerspaces.org. Locally we are most like our peer coworking/collaboration sister and landlord, Gangplank. Gangplank, much like us, intends to revolutionize education, community, and collaboration. Hardware and access to tools is on their agenda, but only superficially. What makes us different from all these is our focus on infrastructure. It has become very vogue to open a space, provide wifi and try to build community around Bring-Your-Own-Computer concepts. These purposely dodge the challenges of infrastructure. Even our schools are pulling out of this area in frustration. We refuse to back down. The infrastructure is indeed the hard part, but it is also the difference. The infrastructure, the safety, training, liability, skills and experience to make these things open to the public are the key to bringing creation back to our throw away society.
 
 - marketing plan
