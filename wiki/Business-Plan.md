@@ -20,13 +20,28 @@ Our Strategy is to empower, one on one, our members with the tools, resources, s
 
 # Experience and Capabilities
 
-- Principals (the team)
-- Partners, Community Partners
-- Current Business Accomplishments
+## Principals (the team)
+
+- List the Board Members and Their Experience Levels - This was included and can be updated for our f1023
+
+## Partners, Community Partners
+
+Who do we partner with for activities?:
+
+- ASU
+- Elementary Schools
+- Gangplank
+- etc.
+
+## Current Business Accomplishments
+
+### Workshops
 
 Monthly we run a free to attend Arduino workshop where we train kids to adults how to program micro-controllers. Hundreds of people, from children to adults have attended our monthly meetings with the goal of empowering themselves with technology to solve their own problems. MORE HERE
 
 Most recently we had been asked to create a workshop series on soldering and programing for UrbanStew another local nonprofit. Again, we wanted to instill the values of creation, having our attendees actually BUILD the computer they would eventually program. Demystifying these devices which are increasingly becoming ubiquitous.
+
+### Public Meetings
 
 We have hosted over 24 free public educational events this year. Every 1st and 3rd Thursday we invite in a speaker to invigorate us, and them. From materials, to tools, to processes we want to empower our people with the knowledge they need to succeed. Topics have included:
 
@@ -53,9 +68,13 @@ We have hosted over 24 free public educational events this year. Every 1st and 3
 - CAD/CAM Introduction
 - Home Brewing
 
-Most recently our community raised \$10,000 to aquire a laser cutter in order to further expand our ability to create. For our birthday we hosted a science fair / music show titled the mustache party. Hundreds of attendees, many new to us, came to see what the local mad scientists were up to.
+### Weekly Events
 
 We host weekly 3d printing meetup event where we foster the innovative field of personal manufacturing. These devices are finally realizing the promises of the Star Trek Replicator, creating 3d, multi material, objects before your eyes! Even more intersting is the idea of the machine creating the machine. This is the promise delivering Moore's Law for computer chips (exponential increase as the computer designs the next computer) to the mechanical realm!
+
+### Large Scale Projects
+
+Most recently our community raised \$10,000 to aquire a laser cutter in order to further expand our ability to create. For our birthday we hosted a science fair / music show titled the mustache party. Hundreds of attendees, many new to us, came to see what the local mad scientists were up to.
 
 Our members have put a balloon payload into nearspace! A team of XXX People planned and executed the development of a payload to survive a trip to ~75k feet and safely return. Anyone from the public was welcome to join the team and learn the multidisciplinary fundamentals necessary to launch an object into nearspace! More than 40 people attended our balloon launch, from children to adults, and helped us 'chase' down the landing.
 
@@ -63,9 +82,11 @@ A new team have decided to tackling issues related to solar power generation and
 
 Throughout this past year we also took time out to coach a pair of First Lego League teams. Our kids, mostly 9r olds, worked throughout 2010 Body Forward Challenge, as the FLL put its to "explore the cutting-edge world of Biomedical Engineering to discover innovative ways to repair injuries, overcome genetic predispositions, and maximize the body's potential, with the intended purpose of leading happier and healthier lives." They learned computer programming, mechanical engineering and biological engineering concepts culminating in a team presentation and robot competition! The goal, again here, was to empower them to solve THEIR OWN problems. It was entirely discovery learning and the adults were only there to supervise and answer questions. It was the first year for our kids and they had amazing fun. In addition our mentor won best mentor for the season.
 
-- Related Past Businesses, their accomplishments
-- Work Force Experience and Capabilities
-- Business Assets
+### Related Past Businesses and Their Accomplishments
+
+### Work Force Experience and Capabilities
+
+### Business Assets
 
 # Marketing Plan and Forecast
 
