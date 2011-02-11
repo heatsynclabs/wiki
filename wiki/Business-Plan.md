@@ -46,23 +46,23 @@ Most recently we had been asked to create a workshop series on soldering and pro
 We have hosted over 24 free public educational events this year. Every 1st and 3rd Thursday we invite in a speaker to invigorate us, and them. From materials, to tools, to processes we want to empower our people with the knowledge they need to succeed. Topics have included:
 
 - Astronomy
-- Eagle PCB Layout and Design
-- PCB Chemical Etching,Heat Transfer, with FeCl
+- PCB Layout and Design with Eagle Cad
+- PCB Chemical Etching, Heat Transfer, with FeCl
 - Haptic Interfaces
 - Lock Picking
-- Cube.ly 3D printer
+- Cube.ly 3D printer Design
 - PaperCraft
 - Thermoforming
-- Idaho Near Space Project Balloon Communications Payload
+- Near Space Project Balloon - Idaho Communications Payload
 - High Speed Photography
-- Haystack Project
+- Haystack Project - Internet Search Anonymity Project
 - Working with Acrylic
 - Glass Working
-- Rep Rap Made Easy
-- Tear Down Party(everyone brings a piece of electronics to tear down for parts in order to understand)
+- Rep Rap Made Easy - Open Source 3D Printer Design
+- Tear Down Party(everyone brings a piece of electronics to tear down for parts in order to understand the underlying components)
 - Lathing for fun and profit
-- Electro Wire
-- Monster Plush Party (Disassembling plush dolls and sewing them back together with electronics)
+- Electroluminescent Wire
+- Monster Plush Party (Disassembling plush dolls and sewing them back together with electronics - Recycling Old Toys)
 - Coffee Science and Arduino
 - Arduino and VOIP - Dial-a-Lulz
 - CAD/CAM Introduction
