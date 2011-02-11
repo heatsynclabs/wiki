@@ -142,7 +142,7 @@ What makes us different from all these is our focus on infrastructure. It has be
 
 ## Marketing Plan
 
-# Development plan (execution of marketing strategy)
+# Development plan (Execution of Marketing Strategy)
 
 - 
 
