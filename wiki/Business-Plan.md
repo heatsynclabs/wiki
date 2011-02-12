@@ -4,13 +4,15 @@
 
 HeatSync Labs provides a collaborative workspace where engineers, entrepreneurs, students and tinkerers come together to imagine and build tomorrow’s innovations.
 
-We break down barriers to innovation by providing equipment and facilities to people interested in programming, hardware hacking, physics, chemistry, mathematics, photography, security, robotics, and of course technology. Our facility includes professional grade tools and industrial equipment that are very costly and typically out of reach for the student, entrepreneur and garage tinkerer.
+We break down barriers to innovation by providing equipment and facilities to people interested in programming, hardware hacking, physics, chemistry, mathematics, photography, security, robotics, and of course technology.
 
-We encourage hands-on development of exciting new creations. We host talks, workshops, and encourage knowledge exchange through collaborative development projects. And we stimulate learning by providing mentoring and cross-disciplinary educational opportunities.
+We encourage hands-on development of exciting new creations. We host talks, workshops, and encourage knowledge exchange through collaborative development projects, and we stimulate learning by providing mentoring and cross-disciplinary educational opportunities.
 
-HeatSync Labs' mission is to provide the tools, space and the community for students, entrepreneur, artists and garage tinkerers to come together and create their dreams. We are a community workshop which promotes Do-It-Yourself science and education and prides ourselves on application -in addition- to theory. Our vision is a world where we re-awaken our population and reinstate the knowledge of creation in opposition to our throw-away society. We will empower our population delivering the confidence to once compete on a global scale.
+We reject cubicles, offices, partitions, and silos.
 
-Our Strategy is to empower, one on one, our members with the tools, resources, space, and if possible money to bring their dreams to fruition. The organization itself has no purpose but to support these missions. Beuracracy and overhead are to be avoided. We want to program in cell death so that if we ever lose our focus or have no reason to exist anymore, that we finally die. Apoptosis.
+We are a community workshop which promotes Do-It-Yourself science and education and prides ourselves on application -in addition- to theory.
+
+Our vision is a world where we re-awaken our population and reinstate the knowledge of creation in opposition to our throw-away society. We will empower our population delivering the confidence to once compete on a global scale.
 
 # Overview and Plan Objectives
 
