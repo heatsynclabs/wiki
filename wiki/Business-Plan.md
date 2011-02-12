@@ -76,13 +76,19 @@ We host weekly 3d printing meetup event where we foster the innovative field of 
 
 ### Large Scale Projects
 
-Most recently our community raised \$10,000 to aquire a laser cutter in order to further expand our ability to create. For our birthday we hosted a science fair / music show titled the mustache party. Hundreds of attendees, many new to us, came to see what the local mad scientists were up to.
+Write it as a story?
 
-Our members have put a balloon payload into nearspace! A team of XXX People planned and executed the development of a payload to survive a trip to ~75k feet and safely return. Anyone from the public was welcome to join the team and learn the multidisciplinary fundamentals necessary to launch an object into nearspace! More than 40 people attended our balloon launch, from children to adults, and helped us 'chase' down the landing.
+#### Outreach
 
-A new team have decided to tackling issues related to solar power generation and storage. The goal is to adapt MIT designs for a solar collector to leverage our location in the Arizona desert to further understand renewable energy solutions and problems.
+Our 501c3 chartered mission is education, but its also our passion.
 
-Throughout this past year we also took time out to coach a pair of First Lego League teams. Our kids, mostly 9r olds, worked throughout 2010 Body Forward Challenge, as the FLL put its to "explore the cutting-edge world of Biomedical Engineering to discover innovative ways to repair injuries, overcome genetic predispositions, and maximize the body's potential, with the intended purpose of leading happier and healthier lives." They learned computer programming, mechanical engineering and biological engineering concepts culminating in a team presentation and robot competition! The goal, again here, was to empower them to solve THEIR OWN problems. It was entirely discovery learning and the adults were only there to supervise and answer questions. It was the first year for our kids and they had amazing fun. In addition our mentor won best mentor for the season.
+Throughout this past year we focused on education, not only internally, but externally. It was our joy to mentor our first First Lego League teams. Our kids, mostly 9r olds, worked throughout 2010 Body Forward Challenge, as the FLL put its to "explore the cutting-edge world of Biomedical Engineering to discover innovative ways to repair injuries, overcome genetic predispositions, and maximize the body's potential, with the intended purpose of leading happier and healthier lives." They learned computer programming and mechanical and biological engineering concepts culminating in a team presentation and robot competition. The goal, again here, was to empower them to solve THEIR OWN problems. Our technique was entirely discovery learning and the adults were only there to supervise and answer questions. It was the first year for our kids and they had amazing fun. In addition our mentor won best mentor for the season.
+
+Recently we've waded into science education waters. We've been working with a local teacher to help develop, implement and fund science courseware. Our first two labs included an earthquake simulation for student built toothpick structures, and an examination of strawberry DNA.
+
+August 28th was the culmination of several months of preparation. More than 40 people attended our near space balloon launch, from children to adults, to help us 'chase' down the landing. A team of XXX People planned and executed the development of a payload to survive a trip to ~75k feet into the upper atmosphere, and see it safely return. Anyone from the public was welcome to join the development team and learn the multidisciplinary fundamentals necessary to launch an object into nearspace!
+
+A new team has formed around tackling issues related to solar power generation and storage. A rocket engineer, turbine engineer, electrical engineers, students and hobbyists are all working to adapt an MIT design for a solar collector. The goal is to leverage our location in the Arizona desert to further understand renewable energy problems and solutions.
 
 ### Related Past Businesses and Their Accomplishments
 
