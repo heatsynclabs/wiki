@@ -4,15 +4,11 @@
 
 HeatSync Labs provides a collaborative workspace where engineers, entrepreneurs, students and tinkerers come together to imagine and build tomorrow’s innovations.
 
-We break down barriers to innovation by providing equipment and facilities to people interested in programming, hardware hacking, physics, chemistry, mathematics, photography, security, robotics, and of course technology.
+We break down barriers to innovation by providing equipment and facilities to people interested in programming, hardware hacking, physics, chemistry, mathematics, photography, security, robotics, and art.
 
-We encourage hands-on development of exciting new creations. We host talks, workshops, and encourage knowledge exchange through collaborative development projects, and we stimulate learning by providing mentoring and cross-disciplinary educational opportunities.
+We encourage hands-on development of exciting new creations, we host talks, workshops, and encourage knowledge exchange through collaborative development projects, and we stimulate learning by providing mentoring and cross-disciplinary educational opportunities.
 
-We reject cubicles, offices, partitions, and silos.
-
-We are a community workshop which promotes Do-It-Yourself science and education and prides ourselves on application -in addition- to theory.
-
-Our vision is a world where we re-awaken our population and reinstate the knowledge of creation in opposition to our throw-away society. We will empower our population delivering the confidence to once compete on a global scale.
+Our vision is a world where we re-awaken our population and reinstate the knowledge of creation in opposition to our throw-away society. We aim to empower our population, delivering the confidence and skills to compete in a globalized economy.
 
 # Overview and Plan Objectives
 
