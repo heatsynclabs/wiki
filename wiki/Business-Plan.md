@@ -198,4 +198,10 @@ As for mechanicals these can be gotten to through local groups like Valley Metal
 
 # Financials
 
--
+- Membership
+
+X percent growth year over year, last 2 month shown X percent grown. Attrition at X percent.
+
+- Donations
+
+Rep Rap Pledge Drive - 1k in 5 days 1 year ago Laser Cutter Pledge Drive - 10 in 25 days. 2 months ago
