@@ -194,7 +194,19 @@ As for mechanicals these can be gotten to through local groups like Valley Metal
 
 # Plan of Action
 
-- 
+Shortfall of Xthousand currently, over a 6 month period,
+
+Current actions are being taken to raise that money prior to move to ensure stability.
+
+Based on projected membership numbers, we will be stable within our space at XXX members, and will be able to grow to XX members and Xsq ft of tooling within Xthousand square feet ensuring our next location for XX years.
+
+This space will allow XX type of activity(meetings, presentations, rock shows?)
+
+The next tool acquisitions proposed include shopbot (wood working computerized 2d cutter) plasma cutter(metal working computerized 2d cutter) cnc milling machine(metal working computerized 3d cutter) injection molding industrial sewing
+
+Within that space intend to have desks rentable for X amount of time continue to allow storage for members
+
+It is our intention to find a city to partner with long term so that the move after this one will last 5 years on lease and allow for growth during that time.
 
 # Financials
 
