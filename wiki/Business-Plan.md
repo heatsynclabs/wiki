@@ -30,6 +30,14 @@ Our vision is a world where we re-awaken our population and reinstate the knowle
 
 ## Our Product
 
+Most importantly, what we provide is a community for these people to be a part of. A small subset of tools can be readily purchased and accessed, but more and more people are moving away from working alone in their garages to connecting with their communities and on the internet. We broaden horizons by having all these people and resources in the same room, breaking down the mental block that these tools are not unavailable or unapproachable. We bring the tools of creation OUT of the industrial districts.
+
+We also bring these tools out of the silos of our tech school and college brethren. True cross discipline work can not happen via meetings, tech talks, etc. We work side by side whenever possible. When specialized tools or knowledge is needed our people may graduate briefly to silod learning, but the starting point must be working side by side.
+
+Secondly we push people to get involved. There are no wallflowers at HeatSync Labs. You bring your project and work on it, or we put a hammer in your hand and we put you to work.
+
+Lastly, we provide access to the tools of creation. We provide application IN ADDITION to theory. Truly the best way to learn XXX is via doing. Owning a true spread of tools from all disciplines of manufacturing is still hardly viable. Tools can be expensive, dirty, loud, and dangerous for the home or garage.
+
 ## Our Goals
 
 # Experience and Capabilities
