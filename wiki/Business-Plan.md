@@ -12,7 +12,16 @@ Our vision is a world where we re-awaken our population and reinstate the knowle
 
 # Overview and Plan Objectives
 
-- Market Need
+## Market Research
+
+Who is our population-this is all really old and can be radically changed The market for a technical work space would segment into engineers, artists, designers, students, overall creatives, and makers. The difficultly in this may be up front costs of the variation in tools necessary. For this reason it would be wise to first target the segment of these users most able and willing to pay. In my research, wood and metal working tools may be found without too much trouble as the tools are commoditized fairly well. Electrical design and simulation equipment, however, are pricey and can be difficult to locate. Finally, Phoenix has a nearly unique concentration of engineers. The target market should thus be engineers and technical people.
+
+The IEEE Phoenix membership is 3,600 members. These members are professionals well into their careers and should have some income to be 'invested' in their future. We will want to sell them on setting out to peruse their dream rather than staying at the same job they may be dissatisfied with. Another interesting concept to be exploited is that engineers who use their companies equipment may find themselves mired in IP rights issues. The way to reach these users will be through their professional society and through professional publications including IEEE publications, Circuit Cellar, Nuts and Volts, Wired and possibly Linux publications.
+
+Another good avenue will be trade shows and strategic partnerships. It may be possible to work with the big electronics vendors including Jameco, Digikey, and Newark to cross promote by being a local presence for these online companies.
+
+A second target market segment would include up and coming engineers. Technical students are becoming more and more disenfranchised with the opportunities and equipment available to them in academia. There was a day many years ago where the only place you could find a 'computer' was in academia, but that time has passed. There may be as many as 300,000 college and technical school students in the phoenix metro area, with only maybe 5% with arts/ design/technical backgrounds, leading to 15,000 possible customers. These customers are going to be more eager to get their hands on professional equipment, but also more sensitive to price. It will be important to stress the experience and connections membership in our elite organization can bring them, connections to local jobs and internships, as well as a start upon the career of an entrepreneur. TechCrunch and other online sites have fetishized the startup lifestyle and it will be important to capitalize on this. Outreach to students should be done on campus. Poster advertising is free, and student ambassadors would be cheap to hire. Another method of reaching these users could be through ad-vertainment in the form of speeches and presentations on campus. Student groups will be another excellent way of reaching the correct demographic. Groups including Linux Users Groups, On campus Engineering fraternities and societies, will be a valuable resource.
+
 - Our Product
 - Goals
 
