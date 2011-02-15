@@ -128,7 +128,7 @@ Traces should now be covered in green. If there are still black portions, this s
 
 ### Etch
 
-Some prefer using a sponge to apply the etchant. This is messy and slow, so we will use the submersion method. If you're interested in the sponge method, more information is at [Instructibles](http://www.instructables.com/id/Sponge-Ferric-Chloride-Method-Etch-Circuit-Bo/)
+![pcb_etched.jpg](files/Pcb_etched.jpg) Some prefer using a sponge to apply the etchant. This is messy and slow, so we will use the submersion method. If you're interested in the sponge method, more information is at [Instructibles](http://www.instructables.com/id/Sponge-Ferric-Chloride-Method-Etch-Circuit-Bo/)
 
 1.  Trim excess copper board to avoid wasting etchant.
 2.  If only using one container, dump water out.
