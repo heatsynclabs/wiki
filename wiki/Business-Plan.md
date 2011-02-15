@@ -225,13 +225,13 @@ We have a membership model at HeatSync Labs that has been the core of our suppor
 - Basic Member - \$50 per month, and you get the benefits of associate membership, plus 24/7 access to the lab, including a key to the building and security code. This also includes personal project space for a banker box (box provided by HeatSync Labs.)
 - Plus Member - \$75 per month, and you get all the benefits of basic membership, plus a locker in the lab!
 
-As we were working towards our tax exempt status through out this year these memberships set up in a recurring fashion have already helped us a lot as we wait for the ability for pushing for larger scale funding. With memberships we can strive to offset the leasing costs for a location and use fundraising to help fund building up the shop and putting on workshops and events for the community. Based off of our metrics we see that:
+As we were working towards our tax exempt status through out this year these memberships set up in a recurring fashion have already helped us a lot as we wait for the ability for pushing for larger scale funding. With memberships we can strive to offset the leasing costs for a location and use fundraising to help fund building up the shop and putting on workshops and events for the community. Based off of our metrics we see:
 
-- we added an average of 2 members per month over past year
-- with recent marketing we've seen a spike in member growth per month
-- last 3 months we've seen a sustained growth rate average of over 200%
-- 77% of members are the basic (middle rate plan)
-- seen attrition of only 2 members so far over the entire year.
+- An average of 2 members per month added over the past year.
+- A spike in member growth per month with improved marketing campaigns.
+- Sustained growth rate average of over 200% in the last 3 months.
+- 77% of members are in the basic (middle rate plan)
+- Lost only 2 members to attrition over the entire year.
 
 ## Donations
 
