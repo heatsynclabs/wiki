@@ -201,15 +201,21 @@ As for mechanicals these can be gotten to through local groups like Valley Metal
 
 # Plan of Action
 
-averaging \$50 a month, at 20 members, we're grossing ~1k a month.
+Current projections require 500+ sq./ft. to safely house our workshop with our current equipment and our newest addition(laser cutter) coming in next month. and some further space for meetings, etc.
+
+With our members contributing an average of \$50 a month, at 20 members, we're grossing ~1k a month.
 
 That is not by any means our only source of income, but it is our most stable and we prefer to work from a worst case scenario. We will detail others further down.
 
-Current projections require XX amount of sq ft to safely house our workshop and some further space for meetings, etc.
-
 This space will allow XX type of activity(meetings, presentations, rock shows?)
 
-The next tool acquisitions proposed include shopbot (wood working computerized 2d cutter) plasma cutter(metal working computerized 2d cutter) cnc milling machine(metal working computerized 3d cutter) injection molding industrial sewing
+The next tool acquisitions proposed include:
+
+- Shopbot (Wood Working Computerized 2D Cutter)
+- Plasma Cutter(Metal Working Computerized 2D Cutter)
+- CNC Milling Machine(Metal Working Computerized 3D Cutter)
+- Injection Molding
+- Industrial Sewing
 
 Current estimates of cost at XX amount of sq ft come to ~\$2k a month with utilities.
 
