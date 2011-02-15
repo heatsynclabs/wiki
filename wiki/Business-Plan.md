@@ -40,11 +40,11 @@ Lastly, we provide access to the tools of creation. We provide application IN AD
 
 ## Our Goals
 
-### 1 year
+### 1 Year
 
-### 5 yr
+### 5 Year
 
-### 10yr
+### 10 Year
 
 # Experience and Capabilities
 
