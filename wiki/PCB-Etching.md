@@ -90,6 +90,10 @@ These instructions assume you're using toner transfer paper.
 
 ### Transfer
 
+![](files/Pcb_transfer.jpg)
+
+*pcb_transfer.jpg*
+
 1.  Cut board to appropriate size
     - Leave enough board to push through laminator; At least two inches.
 2.  Scour copper surface
