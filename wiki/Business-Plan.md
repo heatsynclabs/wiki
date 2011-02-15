@@ -201,11 +201,9 @@ As for mechanicals these can be gotten to through local groups like Valley Metal
 
 # Plan of Action
 
-Current projections require 500+ sq./ft. to safely house our workshop with our current equipment and our newest addition of a laser cutter coming in next month. Our public meetings have presentations that bring in about 30 people or more on average so we would also require a space that can accommodate them. In our current location we fill up about 1000+ sq./ft. for these events which allows us to have room for
+Current projections require 500+ sq./ft. to safely house our workshop with our current equipment and our newest addition of a laser cutter coming in next month. Our public meetings have presentations that bring in about 30 people or more on average so we would also require a space that can accommodate them. In our current location we fill up about 1000+ sq./ft.
 
-With our members contributing an average of \$50 a month, at 20 members, we're grossing ~1k a month.
-
-That is not by any means our only source of income, but it is our most stable and we prefer to work from a worst case scenario. We will detail others further down.
+With our members contributing an average of \$50 a month, at 20 members, we're grossing ~1k a month. We are currently basing our leasing ability by these numbers as they are more reliable recurring source of income. The memberships are by no means our only source of income, however, we prefer to work from a worst case scenario to ensure our leasing arrangement is secure. Our other forms of income will be detailed in the Financial section further down.
 
 This space will allow XX type of activity(meetings, presentations, rock shows?)
 
