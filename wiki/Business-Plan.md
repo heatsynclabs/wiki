@@ -20,7 +20,7 @@ Our vision is a world where we re-awaken our population and reinstate the knowle
 
 -photographers-like minded and good stuff to shoot
 
-- Professionals(Engineers)- need space outside of company to grow and work, need space where they can work with others outside company, and bring kids
+- Professionals(Engineers) - Need space outside of company to grow and work, need space where they can work with others outside company, and bring kids. Working for large corporations the work performed often limits engineers to working on things that the company needs and not something that the engineer is interested in.
 
 -electrical Electrical design and simulation equipment, however, are pricey and can be difficult to locate -mechanical -wood and metal, fairly comodotized, but they yearn for community, the garage is lonely!
 
