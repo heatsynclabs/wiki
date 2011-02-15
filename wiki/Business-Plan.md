@@ -201,19 +201,29 @@ As for mechanicals these can be gotten to through local groups like Valley Metal
 
 # Plan of Action
 
-Shortfall of Xthousand currently, over a 6 month period,
+averaging \$50 a month, at 20 members, we're grossing ~1k a month.
 
-Current actions are being taken to raise that money prior to move to ensure stability.
+That is not by any means our only source of income, but it is our most stable and we prefer to work from a worst case scenario. We will detail others further down.
 
-Based on projected membership numbers, we will be stable within our space at XXX members, and will be able to grow to XX members and Xsq ft of tooling within Xthousand square feet ensuring our next location for XX years.
+Current projections require XX amount of sq ft to safely house our workshop and some further space for meetings, etc.
 
 This space will allow XX type of activity(meetings, presentations, rock shows?)
 
 The next tool acquisitions proposed include shopbot (wood working computerized 2d cutter) plasma cutter(metal working computerized 2d cutter) cnc milling machine(metal working computerized 3d cutter) injection molding industrial sewing
 
-Within that space intend to have desks rentable for X amount of time continue to allow storage for members
+Current estimates of cost at XX amount of sq ft come to ~\$2k a month with utilities.
 
-It is our intention to find a city to partner with long term so that the move after this one will last 5 years on lease and allow for growth during that time.
+At that rate we're clearly projecting a shortfall of \$6000 over 6 months, worst case (no growth). Stagnant growth seems unlikely however. Based on current growth rates we expect to be able to cover this shortfall (40 members averaging \$50 a month) to clear
+
+This is why we are shooting for a space that can house at least 40-50 members, allowing us to grow out of the next space within a year into a more final location (75-100 members) which it is expected we may max out at based on research (community intimacy issues, space and safety constraints)
+
+Current actions are being taken to raise that money prior to move to ensure stability. We have done previous work with donations to raise larger sums, but we again want to find consistent realistic sources of revenue. Worst case scenario that type of campaign lets us run the final 6 months of our lease and allows us reevaluate our strategies.
+
+Other revenue sources: Donations-last case scenario is a push to fund the space, our goals are to keep donations funding the TOOLS, PROJECTS, and PEOPLE. Workshops - We've seen workshops generate XXX Sales - Most recently we've also begun selling more directed tools, accessories and kits based on our workshop series. We've seen sales of XXXX
+
+These all pad that 6k shortfall to nearly nothing.
+
+Further, a new space opens up new funding options. For instance, there are further membership tiers to be considered based on amount of space that becomes available. Ideas include renting benches and 'studio' space to artists, continuing to host fundraising nightlife events.
 
 # Financials
 
