@@ -217,3 +217,7 @@ added average of 2 members per month over past year most recently seeing per mon
 - Donations
 
 Rep Rap Pledge Drive - 1k in 5 days 1 year ago Laser Cutter Pledge Drive - 10 in 25 days. 2 months ago
+
+- Fundraiser
+
+Our last fundraiser, in September, a mix of birthday party, science fair and electronic music show, targeted 100 donors for \$10 each and was monetarily successful and is still regarded and spoken highly of in the community.
