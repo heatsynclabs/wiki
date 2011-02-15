@@ -212,7 +212,7 @@ It is our intention to find a city to partner with long term so that the move af
 
 - Membership
 
-added average of 2 members per month over past year most recently seeing per month growth numbers spike last 3 month seen sustained growth rate average of over 200% 77% of members are the basic (middle rate plan) seen 8 percent attrition over entire past year (2 members leaving)
+added average of 2 members per month over past year most recently seeing per month growth numbers spike last 3 month seen sustained growth rate average of over 200% 77% of members are the basic (middle rate plan) seen attrition of 2 members so far over the entire year.
 
 - Donations
 
