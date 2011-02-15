@@ -245,7 +245,9 @@ As we were working towards our tax exempt status through out this year these mem
 
 ## Donations
 
-Our history Rep Rap Pledge Drive - 1k in 5 days 1 year ago Laser Cutter Pledge Drive - 10 in 25 days. 2 months ago
+Our history shows great success with the donation drives that we have put on. One year ago when we
+
+Rep Rap Pledge Drive - 1k in 5 days 1 year ago Laser Cutter Pledge Drive - 10 in 25 days. 2 months ago
 
 ## Fundraisers
 
