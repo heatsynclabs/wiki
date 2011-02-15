@@ -201,7 +201,7 @@ As for mechanicals these can be gotten to through local groups like Valley Metal
 
 # Plan of Action
 
-Current projections require 500+ sq./ft. to safely house our workshop with our current equipment and our newest addition(laser cutter) coming in next month. and some further space for meetings, etc.
+Current projections require 500+ sq./ft. to safely house our workshop with our current equipment and our newest addition of a laser cutter coming in next month. Our public meetings have presentations that bring in about 30 people or more on average so we would also require a space that can accommodate them. In our current location we fill up about 1000+ sq./ft. for these events which allows us to have room for
 
 With our members contributing an average of \$50 a month, at 20 members, we're grossing ~1k a month.
 
