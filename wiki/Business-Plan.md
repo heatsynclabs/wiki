@@ -217,14 +217,28 @@ It is our intention to find a city to partner with long term so that the move af
 
 # Financials
 
-- Membership
+## Membership
 
-added average of 2 members per month over past year most recently seeing per month growth numbers spike last 3 month seen sustained growth rate average of over 200% 77% of members are the basic (middle rate plan) seen attrition of 2 members so far over the entire year.
+We have a membership model at HeatSync Labs that has been the core of our support over our first year of expansion. Starting with the founders pitching in money to jump start the organization we now have a multi-tiered offering that allows people some options for their commitment level. Our current tiers are defined below:
 
-- Donations
+- Associate Member - \$25 per month, and you get your name on the list of members and access to the lab and shared equipment during the hours of operation.
+- Basic Member - \$50 per month, and you get the benefits of associate membership, plus 24/7 access to the lab, including a key to the building and security code. This also includes personal project space for a banker box (box provided by HeatSync Labs.)
+- Plus Member - \$75 per month, and you get all the benefits of basic membership, plus a locker in the lab!
 
-Rep Rap Pledge Drive - 1k in 5 days 1 year ago Laser Cutter Pledge Drive - 10 in 25 days. 2 months ago
+As we were working towards our tax exempt status through out this year these memberships set up in a recurring fashion have already helped us a lot as we wait for the ability for pushing for larger scale funding. With memberships we can strive to offset the leasing costs for a location and use fundraising to help fund building up the shop and putting on workshops and events for the community. Based off of our metrics we see that:
 
-- Fundraiser
+- we added an average of 2 members per month over past year
+- with recent marketing we've seen a spike in member growth per month
+- last 3 months we've seen a sustained growth rate average of over 200%
+- 77% of members are the basic (middle rate plan)
+- seen attrition of only 2 members so far over the entire year.
+
+## Donations
+
+Our history Rep Rap Pledge Drive - 1k in 5 days 1 year ago Laser Cutter Pledge Drive - 10 in 25 days. 2 months ago
+
+## Fundraisers
 
 Our last fundraiser, in September, a mix of birthday party, science fair and electronic music show, targeted 100 donors for \$10 each and was monetarily successful and is still regarded and spoken highly of in the community.
+
+## Grants
