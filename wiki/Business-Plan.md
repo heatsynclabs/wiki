@@ -221,9 +221,9 @@ It is our intention to find a city to partner with long term so that the move af
 
 We have a membership model at HeatSync Labs that has been the core of our support over our first year of expansion. Starting with the founders pitching in money to jump start the organization we now have a multi-tiered offering that allows people some options for their commitment level. Our current tiers are defined below:
 
-- Associate Member - \$25 per month, and you get your name on the list of members and access to the lab and shared equipment during the hours of operation.
-- Basic Member - \$50 per month, and you get the benefits of associate membership, plus 24/7 access to the lab, including a key to the building and security code. This also includes personal project space for a banker box (box provided by HeatSync Labs.)
-- Plus Member - \$75 per month, and you get all the benefits of basic membership, plus a locker in the lab!
+- **Associate Member** - \$25 per month, and you get your name on the list of members and access to the lab and shared equipment during the hours of operation.
+- **Basic Member** - \$50 per month, and you get the benefits of associate membership, plus 24/7 access to the lab, including a key to the building and security code. This also includes personal project space for a banker box (box provided by HeatSync Labs.)
+- **Plus Member** - \$75 per month, and you get all the benefits of basic membership, plus a locker in the lab!
 
 As we were working towards our tax exempt status through out this year these memberships set up in a recurring fashion have already helped us a lot as we wait for the ability for pushing for larger scale funding. With memberships we can strive to offset the leasing costs for a location and use fundraising to help fund building up the shop and putting on workshops and events for the community. Based off of our metrics we see:
 
