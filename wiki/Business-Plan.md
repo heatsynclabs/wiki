@@ -99,7 +99,9 @@ We have hosted over 24 free public educational events this year. Every 1st and 3
 
 ### Weekly Events
 
-We host weekly 3d printing meetup event where we foster the innovative field of personal manufacturing. These devices are finally realizing the promises of the Star Trek Replicator, creating 3d, multi material, objects before your eyes! Even more intersting is the idea of the machine creating the machine. This is the promise delivering Moore's Law for computer chips (exponential increase as the computer designs the next computer) to the mechanical realm!
+Every Monday we host a meetup that we have title Augmented Humanity Night.
+
+Every Wednesday we host a 3d Printing meetup event where we foster the innovative field of personal manufacturing. These devices are finally realizing the promises of the Star Trek Replicator, creating 3d, multi material, objects before your eyes! Even more intersting is the idea of the machine creating the machine. This is the promise delivering Moore's Law for computer chips (exponential increase as the computer designs the next computer) to the mechanical realm!
 
 ### Large Scale Projects
 
