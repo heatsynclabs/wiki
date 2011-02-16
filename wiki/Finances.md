@@ -39,6 +39,7 @@ Run this is a for profit operation! Just because its a non profit doesn't mean i
 - Shared Purchase Plan - Reimbursement Program – Buy a tool and get it payed back
 - Merchandise Income - T-Shirts, Hats, Posters, Stickers, Crafts, Electronics Kits, etc.
 - Advertising Revenue from Website
+- Dedicated inventors desk where you can leave your stuff out
 
 ## Loans
 
