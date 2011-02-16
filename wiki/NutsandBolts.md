@@ -15,11 +15,11 @@ When reordering, dont necessarily buy the same part if price has gone up substan
 
 # hex nuts metric (course)
 
-- m3 90592A009 .99 x100
-- m4 90591A141 1.33 x100
-- m5 90592A012 1.65 x100
-- m6 90591A151 2.19 x100
-- m8 90591A161 4.83 x100
+- m3-.5 90592A009 .99 x100
+- m4-.7 90591A141 1.33 x100
+- m5-.8 90592A012 1.65 x100
+- m6-1.0 90591A151 2.19 x100
+- m8-1.25 90591A161 4.83 x100
 
 # hex nuts standard
 
