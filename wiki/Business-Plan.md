@@ -12,11 +12,15 @@ Our vision is a world where we re-awaken our population and reinstate the knowle
 
 # Overview and Plan Objectives
 
-## Market Research
+## Market Analysis
 
-- Entrepreneurs-need access to a talent pool to start building their team, need resources and connections to create their prototype
-- Students and hobbyists-want to be a part of something big, want to run into big projects and be invited to help and learn
-- Artists-studio space and tools
+We define our 'market' rather broadly as our mission is nonprofit and educational in nature. In short we want to collect entrepreneurs, creatives, professionals, hobbysits and students together under one roof. Age, gender, ethnicity, etc are of no import to us.
+
+Entrepreneurs need access to a talent pool to start building their team. They need resources and connections to create their prototype, wander the IP minefield, and find funding to bring their product to market.
+
+Students and hobbyists want to be a part of something big. They want to run into big projects and be invited to help and learn. Hopefully they want to become entrepreneurs themselves.
+
+Artists biggest request so far has been studio space. Further cross discipline connections and resources can help in trying new avenues of creation.
 
 -photographers-like minded and good stuff to shoot
 
