@@ -233,19 +233,18 @@ Further, a new space opens up new funding options. For instance, there are furth
 
 ## Membership
 
-We have a membership model at HeatSync Labs that has been the core of our support over our first year of expansion. Starting with the founders pitching in money to jump start the organization we now have a multi-tiered offering that allows people some options for their commitment level. Our current tiers are defined below:
+A membership model has been the core of our support over our first year. This recurring income is the backbone of our financial support. It is our intention to utilize this stable income to pay all fixed costs.
 
 - **Associate Member** - \$25 per month, and you get your name on the list of members and access to the lab and shared equipment during the hours of operation.
 - **Basic Member** - \$50 per month, and you get the benefits of associate membership, plus 24/7 access to the lab, including a key to the building and security code. This also includes personal project space for a banker box (box provided by HeatSync Labs.)
 - **Plus Member** - \$75 per month, and you get all the benefits of basic membership, plus a locker in the lab!
 
-As we were working towards our tax exempt status through out this year these memberships set up in a recurring fashion have already helped us a lot as we wait for the ability for pushing for larger scale funding. With memberships we can strive to offset the leasing costs for a location and use fundraising to help fund building up the shop and putting on workshops and events for the community. Based off of our metrics we see:
+Metrics based on our current membership data include:
 
 - An average of 2 members per month added over the past year.
-- A spike in member growth per month with improved marketing campaigns.
-- Sustained growth rate average of over 200% in the last 3 months.
+- Average growth rate of greater than 200% over the previous 3 months.
 - 77% of members are in the basic (middle rate plan)
-- Lost only 2 members to attrition over the entire year.
+- Only 2 members to attrition over the entire year.
 
 ## Donations
 
