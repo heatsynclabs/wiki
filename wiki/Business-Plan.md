@@ -18,19 +18,19 @@ We define our 'market' rather broadly as our mission is nonprofit and educationa
 
 Entrepreneurs need access to a talent pool to start building their team. They need resources and connections to create their prototype, wander the IP minefield, and find funding to bring their product to market.
 
-Students and hobbyists want to be a part of something big. They want to run into big projects and be invited to help and learn. Hopefully they want to become entrepreneurs themselves.
+Students and hobbyists want to be a part of something big. They want to bump into big thinkers working on big projects and be invited to help and learn. Hopefully they want to become entrepreneurs themselves.
 
-Artists biggest request so far has been studio space. Further cross discipline connections and resources can help in trying new avenues of creation.
+Artists' biggest request so far has been studio space. Further cross discipline connections and resources can also help in trying new avenues of expression.
 
--photographers-like minded and good stuff to shoot
+Professional engineers are hungry for this, too. They need space outside of their companies to grow and work as innovations made inside their company can lead to problematic IP rights. They also need a place to bring their kids and family to interest them in science and technolog education.
 
-- Professionals(Engineers) - Need space outside of company to grow and work, need space where they can work with others outside company, and bring kids. Working for large corporations the work performed often limits engineers to working on things that the company needs and not something that the engineer is interested in.
+-electrical Electrical design and simulation equipment, however, are pricey and can be difficult to locate
 
--electrical Electrical design and simulation equipment, however, are pricey and can be difficult to locate -mechanical -wood and metal, fairly comodotized, but they yearn for community, the garage is lonely!
+The Mechanical Engineers we've met, on both the wood and metal side, have found many of their tools fairly commoditzed. However more and more they yearn for community. The garage is lonely place to innovate.
 
-- Scientists?
 - Kids!-we need to stop hiding the tools of creation from them. They need to grow up in worlds, around tools and the creators in the community, so they understand that these things are available to them and can begin building their knowledge network early.
-- The curious and motivated! - We get away with this vagary because of our non profit status. We want to target anyone interested! We want to challenge passers by into walking in and we want to put a tool in their hand. It is time to return to the tools of creation to our people!
+
+Thats not all the groups we target! Photographers, Scientists, the curious and motivated! - We get away with this vagary because of our non profit status. We want to target anyone interested! We want to challenge passers by into walking in and we want to put a tool in their hand. It is time to return to the tools of creation to our people!
 
 ## Our Product
 
