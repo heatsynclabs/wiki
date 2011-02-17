@@ -249,9 +249,19 @@ As we were working towards our tax exempt status through out this year these mem
 
 ## Donations
 
-Our history shows great success with the donation drives that we have put on. One year ago we compiled all of our general garage and workshop tools together. While having a great collection of common tools between all of us we wanted to push the boundaries to offer equipment that the every day person normally doesn't have access to. We decided to get involved with the Open Source Hardware project called Rep Rap which is a design for a 3D Printer for the masses. To jump into this project, however, we needed to collect a little over \$1000. Pushing out our project idea to the group and explaining the direction we wanted to go with the group we were able to raise the \$1000 in just 5 days.
+Donations have been a key to our success from the outset. They are how the majority of our community show their support. Usually these donations are not necessarily monetary, but rather equipment based.
 
-Since then we've filled the shop with a lot more Wood and Metal working tools that you would find in a common shop. But to continue the trend we felt we needed to push for equipment on a whole other level. In December we started a donation drive to collect \$7500 so we could purchase a 700lb. Laser Cutter and Etcher for the community. Often equipment like the 3D Printer above and Laser Cutters are locked away in University Centers and Corporate Research Labs. We wanted to provide the appropriate training for this equipment and open use up to the public to foster new creative innovation. Our goal was to receive \$7500 in 30 days. And we nearly made \$10,000 in 25 days!
+When we finally started pulling the space together in 2009, the first donations to come in were standard hand tools including hammers, wrenches, drivers, saws, etc.
+
+With hand tools covered our community moved on to create our electronics lab. Thousands of dollars in electronics and test equipment rolled into the space over the course of several months. These donations included oscilloscopes, dc power supplies, soldering equipment, and standard electronic components.
+
+What we really needed at this point was pieces of high priced and attention grabbing equipment that couldn't necessarily be found in anyones garage. Historically, 3D prototyping had been priced out of reach of the general public at \$10,000 and up. A new device was changing that though. The Rep Rap is a free design for an affordable 3D Printer that claims it can be built with simple hand tools and electronics equipment for around \$1000 in parts. We raised that \$1000 in 5 days.
+
+By summer we were months into working on our 3d printing technology and had serious needs in the mechanical engineering department. The community turned its attention to larger metal working equipment. Again thousands of dollars in metal working equipment including a band saw, 7x10 lathe and drill presses arrived. At the same time our members approached the local manufacturer Taig about a deal on their beautiful Mini Lathes. We were apprehensive about our ability to convince them as our 501c3 still had not cleared. We walked away the same day with a machine worth \$400.
+
+In December we started a donation drive to collect \$7500 to purchase a 700lb. Laser Cutter. Often equipment like the 3D Printer above and Laser Cutters are locked away in University Centers and Corporate Research Labs. We wanted to provide the appropriate training for this equipment and open use up to the public to foster new creative innovation. Our goal was to receive \$7500 in 30 days. And we nearly made \$10,000 in 25 days!
+
+In January there was nothing to do but wait for our Laser Cutter to be manufactured and shipped. During this time Welding became a hot topic in the lab. A Mig welder, welding cart, and welding table, at least \$500 in value, were donated allowing us to begin holding welding workshops.
 
 ## Fundraisers
 
