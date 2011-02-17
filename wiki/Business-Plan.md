@@ -259,8 +259,16 @@ Our last fundraiser, in September, a mix of birthday party, science fair and ele
 
 ## Grants
 
-The completion of our 501c3 process opens up the door to local and national grants for our organization. With our research in accessibility, education, neurosciences, mechanical and electrical engineering and more our community has the opportunity to push for grants in many areas. We have the benefit of having many large scale technology companies in the area that are looking to fund innovative new ideas. Companies and organizations like:
+The completion of our 501c3 process opens up the door to local and national grants for our organization. With our research in accessibility, education, neurosciences, mechanical and electrical engineering and more our community has the opportunity to push for grants in many areas. Most importantly we have the benefit of having many large scale technology companies nearby that are looking to fund innovative new ideas. We have located and are targeting opportunities with:
 
 - Intel
 - Honeywell
 - Avnet
+- Verizon
+- Motorola
+- Microchip
+- Freescale
+- Raytheon
+- General Dynamics
+- Lockheed Martin
+- Boeing
