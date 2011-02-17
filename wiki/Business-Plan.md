@@ -125,11 +125,51 @@ August 28th was the culmination of several months of preparation. More than 40 p
 
 A new team has formed around tackling issues related to solar power generation and storage. A rocket engineer, turbine engineer, electrical engineers, students and hobbyists are all working to adapt an MIT design for a solar collector. The goal is to leverage our location in the Arizona desert to further understand renewable energy problems and solutions.
 
-### Related Past Businesses and Their Accomplishments
-
-### Work Force Experience and Capabilities
-
 ### Business Assets
+
+It won't be surprising to know that the totality of our assets include our tools and equipment. In addition to a great set of standard hand tools we have tools ranging from metal working to wood working to prototyping and more.
+
+#### Metal
+
+- 7x10 Lathe
+- Taig Micro Lathe
+- CNC Lathe
+- Drill Presses
+- Band Saw
+- Complete Mig welding setup
+
+#### Wood
+
+- Scroll Saw
+- Skill Saw
+
+#### Prototyping
+
+- 100 Watt 4'x2' Laser Cutter
+- Rep Rap 3D Printer
+- Makerbot Cupcake-clone 3D Printer
+
+#### Electronics
+
+- Wide selection of electronics components (DIP and SMD)
+- 2 Oscilloscopes, analog and digital
+- 4 DC power supplies
+- Complete Soldering (DIP and Reflow) setup
+- 10+ sets of soldering equipment for workshops and training
+
+#### Microcontrollers
+
+- Large and diverse stock of Microcontrollers and programmers (PIC, ATMEL(arduino), Texas Instruments)
+- Large stock of sensors and actuators for microcontroller projects
+
+#### Material Handling
+
+- Palette Jack
+- Lift Table
+
+#### Misc
+
+- Mechanical Engraver
 
 # Marketing Plan and Forecast
 
