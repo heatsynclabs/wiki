@@ -255,9 +255,9 @@ Since then we've filled the shop with a lot more Wood and Metal working tools th
 
 ## Fundraisers
 
-Our last fundraiser, in September, a mix of birthday party, science fair and electronic music show, targeted 100 donors for \$10 each and was monetarily successful and is still regarded and spoken highly of in the community. It is our intention to both continue, and grow, these 'nightlife' style fundraisers
+We tried many innovative fundraisers throughout the past year including Water Balloon fights, LAN parties, Barbecues, and a Poker Night. We continue to adapt and deliver our community value for their donation.
 
-In December we tried our hand at a new and innovative internet based fundraising called Kickstarter.com. Kickstarter allows users to find and fund projects which are important to them. We created a project to ask for funding for a new professional grade Laser Cutter for the lab. The project asked for \$7,500 in under 30 days and was wildly successful in raising almost \$10,000.
+Our last fundraiser, a mix of birthday party, science fair and electronic music show, targeted 100 donors for \$10 each and reached that goal easily. More importantly, it is still regarded highly in the community. It is our intention to both continue, and grow, these 'nightlife' style fundraisers.
 
 Further, there are many more traditional fundraising options that we have yet to attempt. Dinners, Raffles, and Auctions are all being considered this year.
 
