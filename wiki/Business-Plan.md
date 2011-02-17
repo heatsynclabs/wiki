@@ -148,7 +148,7 @@ Colleges continue to be silos. Inter-departmental bickering and inability to com
 
 Build large buildings off campus, offer offices, more closed off spaces.
 
-Putting on tech talks and having free food doesn't build a community, it simply attracts an audience that prefers to be fed.
+Putting on tech talks and having free food doesn't build a community, it simply attracts an audience that prefers to be fed--literally and metaphorically.
 
 - Techstars
 - 500 Startups
