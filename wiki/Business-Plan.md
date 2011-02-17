@@ -264,7 +264,9 @@ In January there was nothing to do but wait for our Laser Cutter to be manufactu
 
 ## Fundraisers
 
-We tried many innovative fundraisers throughout the past year including Water Balloon fights, LAN parties, Barbecues, and a Poker Night. We continue to adapt and deliver our community value for their donation.
+While memberships pay the rent, and donations fill the space with tools, fundraising has been important in raising funds to cover any further operational costs.
+
+Throughout the past year we tried many innovative fundraisers including Water Balloon fights, LAN parties, Barbecues, and a Poker Night. We continue to adapt and deliver our community value for their donation.
 
 Our last fundraiser, a mix of birthday party, science fair and electronic music show, targeted 100 donors for \$10 each and reached that goal easily. More importantly, it is still regarded highly in the community. It is our intention to both continue, and grow, these 'nightlife' style fundraisers.
 
