@@ -258,3 +258,9 @@ Since then we've filled the shop with a lot more Wood and Metal working tools th
 Our last fundraiser, in September, a mix of birthday party, science fair and electronic music show, targeted 100 donors for \$10 each and was monetarily successful and is still regarded and spoken highly of in the community.
 
 ## Grants
+
+The completion of our 501c3 process opens up the door to local and national grants for our organization. With our research in accessibility, education, neurosciences, mechanical and electrical engineering and more our community has the opportunity to push for grants in many areas. We have the benefit of having many large scale technology companies in the area that are looking to fund innovative new ideas. Companies and organizations like:
+
+- Intel
+- Honeywell
+- Avnet
