@@ -249,9 +249,9 @@ As we were working towards our tax exempt status through out this year these mem
 
 ## Donations
 
-Our history shows great success with the donation drives that we have put on. One year ago when we
+Our history shows great success with the donation drives that we have put on. One year ago we compiled all of our general garage and workshop tools together. While having a great collection of common tools between all of us we wanted to push the boundaries to offer equipment that the every day person normally doesn't have access to. We decided to get involved with the Open Source Hardware project called Rep Rap which is a design for a 3D Printer for the masses. To jump into this project, however, we needed to collect a little over \$1000. Pushing out our project idea to the group and explaining the direction we wanted to go with the group we were able to raise the \$1000 in just 5 days.
 
-Rep Rap Pledge Drive - 1k in 5 days 1 year ago Laser Cutter Pledge Drive - 10 in 25 days. 2 months ago
+Since then we've filled the shop with a lot more Wood and Metal working tools that you would find in a common shop. But to continue the trend we felt we needed to push for equipment on a whole other level. In December we started a donation drive to collect \$7500 so we could purchase a 700lb. Laser Cutter and Etcher for the community. Often equipment like the 3D Printer above and Laser Cutters are locked away in University Centers and Corporate Research Labs. We wanted to provide the appropriate training for this equipment and open use up to the public to foster new creative innovation. Our goal was to receive \$7500 in 30 days. And we nearly made \$10,000 in 25 days!
 
 ## Fundraisers
 
