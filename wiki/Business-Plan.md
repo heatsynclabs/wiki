@@ -201,19 +201,27 @@ As for mechanicals these can be gotten to through local groups like Valley Metal
 
 # Plan of Action
 
-Current projections require 500+ sq./ft. to safely house our workshop with our current equipment and our newest addition of a laser cutter coming in next month. Our public meetings have presentations that bring in about 30 people or more on average so we would also require a space that can accommodate them. In our current location we fill up about 1000+ sq./ft.
+We have outgrown our current home at Gangplank and as such have created a committee to begin searching for new space in the Phoenix Metro region. This move has the possibility of being very stressful to the organization so it has been decided that we would approach the cities themselves looking for a longterm partner to make sure this next move would be the one that puts either in our final home, or one clear step away from it.
 
-With our members contributing an average of \$50 a month, at 20 members, we're grossing ~1k a month. We are currently basing our leasing ability by these numbers as they are more reliable recurring source of income. The memberships are by no means our only source of income, however, we prefer to work from a worst case scenario to ensure our leasing arrangement is secure. Our other forms of income will be detailed in the Financial section further down.
+The attributes necessary to make HeatSync successful include access to transportation, centrality, vitality and finally the proper mix of industrial and 'retail' space.
 
-This space will allow XX type of activity(meetings, presentations, rock shows?)
+Transportation: The current goal is to align ourselves around the north 202, 101, 60 and or the light rail project. This should allow easy access for the entire valley.
 
-The next tool acquisitions proposed include:
+In our current location we fill up about 1000+ sq./ft., though we utilize project rooms and the main room for presentations and meetings so we're used to having access to more than 5000+ sq./ft.
+
+Current projections require 500+ sq./ft. to safely house our workshop with our current equipment and our newest addition of a laser cutter. Further we intend to grow over the next year or two adding another 500+sq.ft of space for tools including:
 
 - Shopbot (Wood Working Computerized 2D Cutter)
 - Plasma Cutter(Metal Working Computerized 2D Cutter)
 - CNC Milling Machine(Metal Working Computerized 3D Cutter)
 - Injection Molding
 - Industrial Sewing
+
+With our members contributing an average of \$50 a month, at 20 members, we're grossing ~1k a month. We are currently basing our leasing ability by these numbers as they are our most reliable recurring source of income. Our other forms of income are detailed in the Financial section further down.
+
+This space will allow XX type of activity(meetings, presentations, rock shows?)
+
+Our public meetings have presentations that bring in 30 people on average so we would also require a space that can accommodate them.
 
 Current estimates of cost at XX amount of sq ft come to ~\$2k a month with utilities.
 
