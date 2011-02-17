@@ -274,7 +274,7 @@ Further, there are many more traditional fundraising options that we have yet to
 
 ## Grants
 
-The completion of our 501c3 process opens up the door to local and national grants for our organization. With our research in accessibility, education, neurosciences, mechanical and electrical engineering and more our community has the opportunity to push for grants in many areas. Most importantly we have the benefit of having many large scale technology companies nearby that are looking to fund innovative new ideas. We have located and are targeting opportunities with:
+As we've previously shown, our Membership, Donations and Fundraising fully support the organization. We could simply stop there, but it was our goal early on to become something bigger. The completion of our 501c3 process opens the door to local and national grants for original science and technology research. Members are currently doing innovative research in accessibility, education, neurosciences, and renewable energy and it is our goal to find ways to fund these projects. Most importantly we have the amazing benefit of many large scale technology companies nearby that are looking to fund innovative new ideas. We have located and are targeting opportunities with:
 
 - Intel
 - Honeywell
