@@ -310,7 +310,7 @@ What we really needed at this point was pieces of high priced and attention grab
 
 By summer we were months into working on our 3d printing technology and had serious needs in the mechanical engineering department. The community turned its attention to larger metal working equipment. Again thousands of dollars in metal working equipment including a band saw, 7x10 lathe and drill presses arrived. At the same time our members approached the local manufacturer Taig about a deal on their beautiful Mini Lathes. We were apprehensive about our ability to convince them as our 501c3 still had not cleared. We walked away the same day with a machine worth \$400.
 
-In December we continued our started campaign to bring it exclusive and approachable tools. We began an innovative donation drive to collect \$7500 to purchase a 700lb. Laser Cutter. We utilized the online fundraising platform Kickstarter.com and we're able to beat our fundraising goal of \$7500 in under 30 days, by bringing in almost \$10,000!
+In December we continued our started campaign to bring in exclusive and approachable tools. We began an innovative donation drive to collect \$7500 to purchase a 700lb. Laser Cutter. We utilized the online fund-raising platform Kickstarter.com and were able to beat our fundraising goal of \$7500 in under 30 days, by bringing in almost \$10,000!
 
 In January there was nothing to do but wait for our Laser Cutter to be manufactured and shipped. During this time Welding became a hot topic in the lab. A Mig welder, welding cart, and welding table, at least \$500 in value, were donated allowing us to begin holding welding workshops.
 
