@@ -2,9 +2,9 @@ The HeatSync Labs Community Involvement page is intended to document articles re
 
 ## Blogs
 
-The ANSR Near Space Balloon Launch on Make Featuring one of our founders, Rick Osgood:
+The ANSR Near Space Balloon launch written up by our very own Todd Harrison and reposted on Make Featuring one of our founders, Rick Osgood:
 
-<http://blog.makezine.com/archive/2010/04/ansr_near_space_balloon_launch.html>
+<http://www.toddfun.com/page/2/> and <http://blog.makezine.com/archive/2010/04/ansr_near_space_balloon_launch.html>
 
 Write Up on Our Monday Augmented Humanity Nights by Michael Burnham-Fink and reposted on Consortium for Science, Policy, and Outcomes at ASU:
 
