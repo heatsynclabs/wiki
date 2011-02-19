@@ -1,13 +1,21 @@
-The HeatSync Labs Community Involvement page is intended to document articles regarding HSL events around the valley.
+The HeatSync Labs Community Involvement page is intended to document articles regarding HSL events and news from around the valley/nation/world.
 
 ## Blogs
 
-The ANSR Near Space Balloon Launch on Make Featuring our HSL Marketing Director, Rick Osgood:
+The ANSR Near Space Balloon Launch on Make Featuring one of our founders, Rick Osgood:
 
 <http://blog.makezine.com/archive/2010/04/ansr_near_space_balloon_launch.html>
 
+Write Up on Our Monday Augmented Humanity Nights:
+
+<http://wealoneonearth.blogspot.com/>
+
+Reposted on Consortium for Science, Policy, and Outcomes at ASU here:
+
+<http://www.cspo.org/soapbox/view/110208P2NI/augmenting-humanity-heatsync-labs/>
+
 ## Local News
 
-Feature on Serial Entrepreneurs and Gangplank(clicks from HSL members and lab):
+Downtown Phoenix ASU Online Publication "Downtown Devil" featured a story on their front page about our location search:
 
-<http://link.brightcove.com/services/player/bcpid40280768001?bclid=35150280001&bctid=680491868001>
+<http://downtowndevil.com/2011/02/17/heatsync-innovation-lab-downtown-phoenix/>
