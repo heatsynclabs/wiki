@@ -8,11 +8,7 @@ The ANSR Near Space Balloon Launch on Make Featuring one of our founders, Rick O
 
 Write Up on Our Monday Augmented Humanity Nights by Michael Burnham-Fink and reposted on Consortium for Science, Policy, and Outcomes at ASU:
 
-<http://wealoneonearth.blogspot.com/>
-
-and
-
-<http://www.cspo.org/soapbox/view/110208P2NI/augmenting-humanity-heatsync-labs/>
+<http://wealoneonearth.blogspot.com/> and <http://www.cspo.org/soapbox/view/110208P2NI/augmenting-humanity-heatsync-labs/>
 
 East Valley Tribune Nerdvana blog post on if Mesa would be a good home for HeatSync Labs:
 
