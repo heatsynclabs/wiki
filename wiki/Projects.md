@@ -2,6 +2,7 @@
 
 **Please add links to your projects here, in reverse chronological order!**
 
+- [SEM Microscopy](SEM-Microscopy)
 - [RFID_Access](RFID-Access) control system in Arduino
 - [Accessibility](Accessibility) grant research
 - [Pebble](Pebble) Arduino workshop resources
