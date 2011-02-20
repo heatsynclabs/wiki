@@ -22,6 +22,5 @@ Downtown Phoenix ASU Online Publication "Downtown Devil" featured a story on the
 
 ## Presentations
 
-Amazing presentation by by Schuyler St. Leger at Ignite Phoenix \#9 - "Why I LOVE My 3D Printer (and you will too!)" which includes a shot of our Rep Rap and a Shout Out to HeatSync Labs:
-
-<http://www.youtube.com/watch?v=fP2hl6CO-T0>
+- <http://igniteshow.com/videos/surprise-your-child-has-autism-now-what> Jim St. Leger name drops us at Ignite Phoenix \#8 - "Surprise Your Child Has Autism, Now What?"
+- <http://www.youtube.com/watch?v=fP2hl6CO-T0> Amazing presentation by by Schuyler St. Leger at Ignite Phoenix \#9 - "Why I LOVE My 3D Printer (and you will too!)" which includes a shot of our Rep Rap and a Shout Out to HeatSync Labs:
