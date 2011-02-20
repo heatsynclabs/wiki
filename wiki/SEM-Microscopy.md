@@ -1,5 +1,7 @@
 ## Project Description
 
+- Insert Awesome Description Here...Slides and Pictures from Brandon and Jasper's talks?\*
+
 Here's the recorded stream from Brandon's and Jasper's presentations:
 
 <http://www.ustream.tv/recorded/12763200>
