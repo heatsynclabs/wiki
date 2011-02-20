@@ -6,6 +6,10 @@ Here's the recorded stream from Brandon's and Jasper's presentations:
 
 <http://www.ustream.tv/recorded/12763200>
 
+![](files/560px-Schema_MEB_(en).svg.png)
+
+*560px-Schema_MEB\_(en).svg.png*
+
 ## Parts Needed
 
 - Vacuum Chamber(Acquired)
