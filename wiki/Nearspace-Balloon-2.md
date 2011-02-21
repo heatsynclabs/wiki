@@ -51,7 +51,7 @@ Blackjack II cell phone IS a radio. It even has two way radio capabilities. Molo
 
 #### Camera
 
-We can potentially use a used or donated digital camera. Some of these have built in time-lapse functions. If we can't find one that does, we can built a simple timer circuit to push the shutter button every few minutes. We may also be able to write an app for the Blackjack II cell phone to use the camera's built-in camera.
+We can potentially use a used or donated digital camera. Some of these have built in time-lapse functions. If we can't find one that does, we can build a simple timer circuit to push the shutter button every few minutes. We may also be able to write an app for the Blackjack II cell phone to use the phone's built-in camera.
 
 #### Flight Computer
 
