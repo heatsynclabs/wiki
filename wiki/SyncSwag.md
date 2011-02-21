@@ -18,7 +18,8 @@ Proposed Swag:
 - Scratch-proof keychain
 - Kits of our own design and branding
 
-\- Components/bog inside shiny anti-static bag - Small orange HSL sticker on one side, descriptive labeling/nutrition facts on the other
+`- Components/bog inside shiny anti-static bag`\
+`- Small orange HSL sticker on one side, descriptive labeling/nutrition facts on the other`
 
 - Orange/grey circuit-patterned bandanna; Bandanas are currently en vogue among PHX kids and useful for haboobs (dust storms).
 
