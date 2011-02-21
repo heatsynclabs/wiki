@@ -17,10 +17,8 @@ Proposed Swag:
 - Laser-etched paper (not PVC) maker notebooks
 - Scratch-proof keychain
 - Kits of our own design and branding
-
-`- Components/bog inside shiny anti-static bag`\
-`- Small orange HSL sticker on one side, descriptive labeling/nutrition facts on the other`
-
+  - Components/bog inside shiny anti-static bag
+  - Small orange HSL sticker on one side, descriptive labeling/nutrition facts on the other
 - Orange/grey circuit-patterned bandanna; Bandanas are currently en vogue among PHX kids and useful for haboobs (dust storms).
 
 We could use a Rails app to create a ThinkGeek-esque online store. Andrew B and David H may be able to work together on this.
