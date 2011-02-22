@@ -14,9 +14,7 @@ The HeatSync Labs Community Involvement page is intended to document articles re
 
 ## Local News
 
-- Downtown Phoenix ASU Online Publication "Downtown Devil" featured a story on their front page about our location search:
-
-<http://downtowndevil.com/2011/02/17/heatsync-innovation-lab-downtown-phoenix/>
+- <http://downtowndevil.com/2011/02/17/heatsync-innovation-lab-downtown-phoenix/Downtown> Phoenix ASU Online Publication "Downtown Devil" featured a story on their front page about our location search:
 
 ## Presentations
 
