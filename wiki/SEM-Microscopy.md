@@ -1,6 +1,8 @@
 ## Project Description
 
-- Insert Awesome Description Here...Slides and Pictures from Brandon and Jasper's talks?\*
+### Lets build an SEM from scratch!
+
+The field of SEM means big bucks. The cheapest SEM just came on the market a few years ago and costs \$70,000 US. The accelerating voltage is limited to 5kV and the sample chamber is micro-miniature. On the other end of things a full sized SEM is going to run you millions of dollars. Let's laugh a lot and make our own unit with a generous sample chamber and whatever accelerating voltage that we want (20kV would be more than enough). -Jasper
 
 Here's the recorded stream from Brandon's and Jasper's presentations (sorry for the crappy quality!):
 
@@ -8,26 +10,39 @@ Here's the recorded stream from Brandon's and Jasper's presentations (sorry for 
 
 ![](files/560px-Schema_MEB_(en).svg.png)
 
-*560px-Schema_MEB\_(en).svg.png*
+*X-ray detector might come after everything else ;)*
 
 ## Parts Needed
 
 - Vacuum Chamber(Acquired)
-- Vacuum Pump(Acquired)
-- Pressure Hose(Acquired)
+  - 23"x11"
+  - Aluminum
+- Vacuum Pump, Dual-Stage Dual-Vane Rotary, Welch 1402, 10^-4 mTorr (Acquired)
+  - Belt Drive Vacuum Pump Oil
+- Basic Hose for testing(Acquired)
 - Fittings for feed-throughs
-  - 1/2" diameter? 1"x1" desired "playroom"
+  - 1/2" to ~1" fittings, 1"x1" desired "playroom" for filling with epoxies etc
+  - Large feedthrough flanges welded on eventually
 - Vacuum hose, clear is ok, reddish is better (6 feet, 1" ID)
 - Material for lenses (silicon steel? permeable iron/steel alloy? must be round stock)
-- Electron Emitter
-- Hose Clamps
-- ???
+- Electron Emitters (Acquired)
+  - HT power supply
+    - Flyback transformer with variable duty cycle (to vary output voltage)
+    - Digital interface for varying the duty cycle
+- Hose Clamps(Acquired)
 
 ## Completed
 
-We created a vacuum with the Pump, Chamber, and Hose setup that we purchased the other day. Looks like we have a bit of leakage from the hose connections at the moment.
+### Feb 20th
+
+We created a vacuum with the Pump, Chamber, and Hose setup that we purchased the other day. The DV-6M thermocouple gauge is strange, but we managed to figure out how to get a useful reading out of it. It still has some weird parts that we need to figure out in order to correlate against a known vacuum level, but for now we have a relative baseline established of [198.207.0.5](Special-Contributions-198.207.0.5)1 Torr. Looks like we have a bit of leakage from the hose connections at the moment.
+
+### Feb 21st
+
+Upon discovery of the leak using the water pour and vacuum gauge method, and an attempt was made to reseal the threads. Unfortunately a crack was discovered which caused the main valve (Swagelok Whitey Ball Valve SS 45S8) to shear off leaving half of the adapter fitting inside of the chamber and the other half in the valve.
 
 ## Next Steps
 
-- Fix the vacuum hose fitting which broke off
-- ...?
+- Fix the vacuum hose fitting which broke off and attempt to get a better vacuum
+- Build permanent circuit and enclosure for driving the gauge heater to 20mA.
+- Provide a digital readout of the thermocouple voltage as well as output the data onto a digital interface line for future incorporation.
