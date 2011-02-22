@@ -29,6 +29,5 @@ We created a vacuum with the Pump, Chamber, and Hose setup that we purchased the
 
 ## Next Steps
 
-- Stop the leakage using vaseline and hose clamps for the hose.
-- Build circuit to monitor pressure inside pressure chamber.
+- Fix the vacuum hose fitting which broke off
 - ...?
