@@ -2,17 +2,15 @@ The HeatSync Labs Community Involvement page is intended to document articles re
 
 ## Blogs
 
-- The ANSR Near Space Balloon launch written up by our very own Todd Harrison and reposted on Make Featuring one of our founders, Rick Osgood:
+- <http://wealoneonearth.blogspot.com/> and <http://www.cspo.org/soapbox/view/110208P2NI/augmenting-humanity-heatsync-labs/> Write up on our Monday Augmenting Humanity nights by Michael Burnham-Fink and reposted on Consortium for Science, Policy, and Outcomes at ASU:
+- <http://blogs.evtrib.com/nerdvana/2011/02/04/heatsync/> East Valley Tribune Nerdvana blog post on if Mesa would be a good home for HeatSync Labs:
 
-<http://www.toddfun.com/page/2/> and <http://blog.makezine.com/archive/2010/04/ansr_near_space_balloon_launch.html>
+### Make
 
-- Write Up on Our Monday Augmented Humanity Nights by Michael Burnham-Fink and reposted on Consortium for Science, Policy, and Outcomes at ASU:
-
-<http://wealoneonearth.blogspot.com/> and <http://www.cspo.org/soapbox/view/110208P2NI/augmenting-humanity-heatsync-labs/>
-
-- East Valley Tribune Nerdvana blog post on if Mesa would be a good home for HeatSync Labs:
-
-<http://blogs.evtrib.com/nerdvana/2011/02/04/heatsync/>
+- <http://blog.makezine.com/archive/2010/10/mechanical-moustache.html>
+- <http://blog.makezine.com/archive/2010/09/arduino-motorcycle-motoduino.html>
+- <http://blog.makezine.com/archive/2010/03/cubely-a-new-3d-printer.html>
+- <http://blog.makezine.com/archive/2010/02/hacking-a-honda-tail-light.html>
 
 ## Local News
 
