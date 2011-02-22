@@ -16,6 +16,10 @@ The HeatSync Labs Community Involvement page is intended to document articles re
 
 - <http://downtowndevil.com/2011/02/17/heatsync-innovation-lab-downtown-phoenix/Downtown> Phoenix ASU Online Publication "Downtown Devil" featured a story on their front page about our location search:
 
+<!-- -->
+
+- <http://www.azcentral.com/community/mesa/articles/2011/02/22/20110222mesa-editorial-imesa-residents0222.html>
+
 ## Presentations
 
 - <http://igniteshow.com/videos/surprise-your-child-has-autism-now-what> Jim St. Leger name drops us at Ignite Phoenix \#8 - "Surprise Your Child Has Autism, Now What?"
