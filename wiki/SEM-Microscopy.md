@@ -26,10 +26,11 @@ Here's the recorded stream from Brandon's and Jasper's presentations (sorry for 
 - Vacuum hose, clear is ok, reddish is better (6 feet, 1" ID)
 - Material for lenses (silicon steel? permeable iron/steel alloy? must be round stock)
 - Electron Emitters (Acquired)
-  - HT power supply
-    - Flyback transformer with variable duty cycle (to vary output voltage)
+  - HT power supply (1-20kVDC, 1-5kVDC OK for now)
+    - Flyback transformer with variable duty cycle (to vary output voltage) and output capacitor to smooth waveform
     - Digital interface for varying the duty cycle
 - Hose Clamps(Acquired)
+- Webcam + White LED to mount inside of chamber
 
 ## Completed
 
