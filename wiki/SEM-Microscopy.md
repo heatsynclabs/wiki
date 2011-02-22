@@ -15,10 +15,12 @@ Here's the recorded stream from Brandon's and Jasper's presentations (sorry for 
 - Vacuum Chamber(Acquired)
 - Vacuum Pump(Acquired)
 - Pressure Hose(Acquired)
+- Fittings for feed-throughs
+  - 1/2" diameter? 1"x1" desired "playroom"
+- Vacuum hose, clear is ok, reddish is better (6 feet, 1" ID)
+- Material for lenses (silicon steel? permeable iron/steel alloy? must be round stock)
 - Electron Emitter
 - Hose Clamps
-- Vaseline
-- ...
 - ???
 
 ## Completed
