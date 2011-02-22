@@ -25,6 +25,4 @@ The HeatSync Labs Community Involvement page is intended to document articles re
 
 ## Radio and Podcasts
 
-- Los Angeles resident Matt Clymer was on an epic trip across the nation to tour many of the creative spaces sprouting up recently. Jeremy and Jacob had the opportunity to sit down with him for awhile and answer some questions he had about the group:
-
-<http://www.exoscopicsolutions.com/?p=11>
+- <http://www.exoscopicsolutions.com/?p=11> Los Angeles resident Matt Clymer was on an epic trip across the nation to tour many of the creative spaces sprouting up recently. Jeremy and Jacob had the opportunity to sit down with him for awhile and answer some questions he had about the group:
