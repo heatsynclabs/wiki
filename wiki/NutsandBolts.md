@@ -65,19 +65,19 @@ On mcmaster carr I drilled down to socket cap screws-\>standard head-\>drive by 
 
 # hex cap bolts standard
 
-- 4-40 91251A114 9.55 x100 7/8" black oxide
-- 6-32 91251A153 9.83 x100 1" black oxide
-- 8-32 92196A199 6.93 x100 1" stainless plain
-- 10-24 92196A247 8.87 x100 1" stainless plain
-- 10-32 92196A274 8.87 x100 1" stainless plain
-- 1/4-20 91251A542 14.43 x100 1" black oxide
-- 5/16-18 91251A583 9.79 x50 1" black oxide
-- 3/8 -16 91251A624 6.25 x 25 1" black oxide
-- 1/2 -13 91251A712 5.24 x 10 1" black oxide
+- 4-40 91251A114 \$9.55 x100 7/8" black oxide
+- 6-32 91251A153 \$9.83 x100 1" black oxide
+- 8-32 92196A199 \$6.93 x100 1" stainless plain
+- 10-24 92196A247 \$8.87 x100 1" stainless plain
+- 10-32 92196A274 \$8.87 x100 1" stainless plain
+- 1/4-20 91251A542 \$14.43 x100 1" black oxide
+- 5/16-18 91251A583 \$9.79 x50 1" black oxide
+- 3/8 -16 91251A624 \$6.25 x 25 1" black oxide
+- 1/2 -13 91251A712 \$5.24 x 10 1" black oxide
 
-=hex cap bolts metric
+# hex cap bolts metric
 
-- m4 91290A168 6.39 x100 20mm
-- m5 91290A242 7.67 x100 20mm
-- m6 91290A326 8.23 x100 20mm
-- m8 91290A168 6.39 x100 20mm
+- m4 91290A168 \$6.39 x100 20mm black oxide
+- m5 91290A242 \$7.67 x100 20mm black oxide
+- m6 91290A326 \$8.23 x100 20mm black oxide
+- m8 91290A168 \$6.39 x100 20mm black oxide
