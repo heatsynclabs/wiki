@@ -12,6 +12,10 @@ Here's the recorded stream from Brandon's and Jasper's presentations (sorry for 
 
 *X-ray detector might come after everything else ;)*
 
+## Vacuum Information
+
+A tungsten filament will burn out at 10^-2 Torr or higher. Therefore, it is absolutely neccesary that we get our vacuum system working to a sufficient degree that we reach the mreasurement limit of our DV-6M thermocouple gauge (10^-3 Torr).
+
 ## Parts Needed
 
 - Vacuum Chamber(Acquired)
