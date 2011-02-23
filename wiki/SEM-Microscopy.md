@@ -24,13 +24,16 @@ Here's the recorded stream from Brandon's and Jasper's presentations (sorry for 
   - 1/2" to ~1" fittings, 1"x1" desired "playroom" for filling with epoxies etc
   - Large feedthrough flanges welded on eventually
 - Vacuum hose, clear is ok, reddish is better (6 feet, 1" ID)
-- Material for lenses (silicon steel? permeable iron/steel alloy? must be round stock)
+- Material for lenses (silicon steel? permeable iron/steel alloy? must be available in round stock)
 - Electron Emitters (Acquired)
   - HT power supply (1-20kVDC, 1-5kVDC OK for now)
     - Flyback transformer with variable duty cycle (to vary output voltage) and output capacitor to smooth waveform
     - Digital interface for varying the duty cycle
 - Hose Clamps(Acquired)
 - Webcam + White LED to mount inside of chamber
+- Vacuum Gauges (Acquired)
+  - Driver/meter for the DV-6M thermocouple gauge (Jasper)
+  - Driver/meter for the Bayard-Alpert hot cathode ionization gauge
 
 ## Completed
 
@@ -41,6 +44,10 @@ We created a vacuum with the Pump, Chamber, and Hose setup that we purchased the
 ### Feb 21st
 
 Upon discovery of the leak using the water pour and vacuum gauge method, and an attempt was made to reseal the threads. Unfortunately a crack was discovered which caused the main valve (Swagelok Whitey Ball Valve SS 45S8) to shear off leaving half of the adapter fitting inside of the chamber and the other half in the valve.
+
+### Feb 22nd
+
+Bayard-Alpert hot cathode ionization gauge came in the mail today. Looks pretty sexy. We will need two more power supplies (+200VDC, -50VDC) a pico-amp meter, and a way to attach the glass tube to a metal flange. Looks like this will probably require some TIG welding, hopefully the MCC welding shop can help us out here.
 
 ## Next Steps
 
