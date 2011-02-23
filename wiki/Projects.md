@@ -57,6 +57,7 @@
 - [Flux Paste Applicator](http://hackaday.com/2010/04/08/flux-paste-applicator-gun/)
 - [Reflow Toaster](http://www.sparkfun.com/commerce/tutorial_info.php?tutorials_id=60)
 - [IdeaPad S10-3t](IdeaPad-S10-3t)
+- Arduino Twilio Library
 
 ### Workshops
 
