@@ -2,10 +2,10 @@
 
 The goal of the meeting should be to receive reports, pass motions, hold elections.
 
-- Agenda items should be turned in no later than 7 days before the meeting is to take place.
-- Agenda items are turned into the Secretary
-- During this 7 days board members have the opportunity to construct amendments to be added to the agenda as well as allow members and board members to familiarize themselves with the topics at hand.
-- Post meeting times and agenda physically on the door 24hours before the meeting.
+- Agenda items should be turned in to the secretary no later than 7 days (i.e. 7pm the previous Thursday) before the meeting is to take place.
+- Secretary to provide agenda to board 96 hours prior to the meeting
+- During this time frame board members have the opportunity to construct amendments to be added to the agenda as well as allow members and board members to familiarize themselves with the topics at hand.
+- Post meeting times and agenda physically on the door 24 hours before the meeting.
 - Meetings start and stop on time.
 - There are three primary rolls that need to be fulfilled for the meetings:
 
