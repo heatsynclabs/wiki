@@ -1,3 +1,7 @@
+![](files/560px-Schema_MEB_(en).svg.png)
+
+*X-ray detector might come after everything else ;)*
+
 ## Project Description
 
 ### Lets build an SEM from scratch!
@@ -8,17 +12,18 @@ Here's the recorded stream from Brandon's and Jasper's presentations (sorry for 
 
 <http://www.ustream.tv/recorded/12763200>
 
-![](files/560px-Schema_MEB_(en).svg.png)
-
-*X-ray detector might come after everything else ;)*
-
 ## Vacuum Information
 
 A tungsten filament will burn out at 10^-2 Torr or higher. Therefore, it is absolutely neccesary that we get our vacuum system working to a sufficient degree that we reach the mreasurement limit of our DV-6M thermocouple gauge (10^-3 Torr).
 
+### Flanges
+
+![QF/KF Flange Operation](files/QF_Flange.jpg)\
+For the best vacuum, we should use either conflats or QF/KF fittings. QF/KF is good to 10^-8 Torr which is more than enough. Conflat would be nice, but is more expensive and more hassle as the seals are only good for a single mate.
+
 ### Hose To Chamber Fitting
 
-For the best vacuum, we should weld on a [QF40-150-ALF](http://www.ancorp.com/product.aspx?id=3606) (KF40 half nipple, 6061-T6 Aluminum, \$15.50) onto the chamber and use a [KF40-HA](http://www.duniway.com/images/pdf/pg/p-06-to-08-hard-kf-fit-quick-flange.pdf) (KF40 Flange To Hose (1 1/2” or 1 5/8” ID) Adaptor, Aluminum, \$17) to link up the hose. For hose we should use 1.5" gum rubber which is ~\$17 per foot new. Surplus would be a good thing here as we need about 3 feet.
+We should weld on a [QF40-150-ALF](http://www.ancorp.com/product.aspx?id=3606) (KF40 half nipple, 6061-T6 Aluminum, \$15.50) onto the chamber and use a [KF40-HA](http://www.duniway.com/images/pdf/pg/p-06-to-08-hard-kf-fit-quick-flange.pdf) (KF40 Flange To Hose (1 1/2” or 1 5/8” ID) Adaptor, Aluminum, \$17) to link up the hose. For hose we should use 1.5" gum rubber which is ~\$17 per foot new. Surplus would be a good thing here as we need about 3 feet.
 
 ### B-A Gauge
 
