@@ -76,9 +76,10 @@ Bayard-Alpert hot cathode ionization gauge came in the mail today. Looks pretty 
 
 ## Cost Breakdown
 
-| Description                                | Cost  |
-|--------------------------------------------|-------|
-| Welch 1402 Rotary Vane Pump                | \$300 |
-| 1/2 Gallon of mineral oil                  | \$10  |
-| 23"x11" Vacuum Chamber, Al, W/ DV-6m Gauge | \$500 |
-| Bayard-Alpert Glass Gauge                  | \$35  |
+| Description                                | Cost                    |
+|--------------------------------------------|-------------------------|
+| Welch 1402 Rotary Vane Pump                | \$300                   |
+| 1/2 Gallon of mineral oil                  | \$10                    |
+| 23"x11" Vacuum Chamber, Al, W/ DV-6m Gauge | \$500                   |
+| Bayard-Alpert Glass Gauge                  | \$35                    |
+|                                            | Total Cost So Far \$880 |
