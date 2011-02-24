@@ -19,7 +19,7 @@ A tungsten filament will burn out at 10^-2 Torr or higher. Therefore, it is abso
 ### Flanges
 
 ![QF/KF Flange Operation](files/QF_Flange.jpg)\
-For the best vacuum, we should use either conflats or QF/KF fittings. QF/KF is good to 10^-8 Torr which is more than enough. Conflat would be nice, but is more expensive and more hassle as the seals are only good for a single mate.
+For the best vacuum, we should use either conflats or QF/KF fittings. QF/KF is good to 10^-8 Torr which is more than enough. Conflat would be nice, but is more expensive and more hassle as the seals are only good for a single mate. QF uses a viton O-ring (Isopropanol, but not methanol or acetone, can be used to wipe Viton o-rings clean) while conflat uses a single-use-only copper gasket with biting metal knife edges on either side to form a gas tight metal-metal seal.
 
 ### Hose To Chamber Fitting
 
