@@ -22,7 +22,7 @@ For the best vacuum, we should weld on a [QF40-150-ALF](http://www.ancorp.com/pr
 
 ### B-A Gauge
 
-The gauge we have has a 3/4" glass interface. Reccomend we weld a [QF25-100-ALF](http://www.ancorp.com/product.aspx?id=3605) (KF25 half nipple, 6061-T6 Aluminum, \$14) to the chamber and use a [KF25-CP75](http://www.duniway.com/images/pdf/pg/p-06-to-08-hard-kf-fit-quick-flange.pdf) (KF25 Flange To 3/4” Compression Port, \$68) as a glass to metal interface.
+The [Bayard-Alpert hot cathode ionization gauge we have](http://www.flickr.com/photos/nebarnix/5470607516/) has a 3/4" glass interface. Reccomend we weld a [QF25-100-ALF](http://www.ancorp.com/product.aspx?id=3605) (KF25 half nipple, 6061-T6 Aluminum, \$14) to the chamber and use a [KF25-CP75](http://www.duniway.com/images/pdf/pg/p-06-to-08-hard-kf-fit-quick-flange.pdf) (KF25 Flange To 3/4” Compression Port, \$68) as a glass to metal interface.
 
 ## Parts Needed
 
