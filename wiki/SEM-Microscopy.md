@@ -16,9 +16,13 @@ Here's the recorded stream from Brandon's and Jasper's presentations (sorry for 
 
 A tungsten filament will burn out at 10^-2 Torr or higher. Therefore, it is absolutely neccesary that we get our vacuum system working to a sufficient degree that we reach the mreasurement limit of our DV-6M thermocouple gauge (10^-3 Torr).
 
+### Hose To Chamber Fitting
+
+For the best vacuum, we should weld on a [QF40-150-ALF](http://www.ancorp.com/product.aspx?id=3606) (KF40 half nipple, \$15.50) onto the chamber and use a [KF40-HA](http://www.duniway.com/images/pdf/pg/p-06-to-08-hard-kf-fit-quick-flange.pdf) (KF40 Flange To Hose (1 1/2” or 1 5/8” ID) Adaptor, Aluminum, \$17) to link up the hose. For hose we should use 1.5" gum rubber which is ~\$17 per foot new. Surplus would be a good thing here as we need about 3 feet.
+
 ### B-A Gauge
 
-The gauge we have has a 3/4" glass interface. Reccomend we weld a KF25-HN (KF25 half nipple, \$15) to the chamber and use a KF25-CP75 (KF25 Flange To 3/4” Compression Port, \$68) as a glass to metal interface. See [Duniway Stockroom](http://www.duniway.com/images/pdf/pg/p-06-to-08-hard-kf-fit-quick-flange.pdf) for cheap prices.
+The gauge we have has a 3/4" glass interface. Reccomend we weld a [QF25-100-ALF](http://www.ancorp.com/product.aspx?id=3605) (KF25 half nipple, \$14) to the chamber and use a [KF25-CP75](http://www.duniway.com/images/pdf/pg/p-06-to-08-hard-kf-fit-quick-flange.pdf) (KF25 Flange To 3/4” Compression Port, \$68) as a glass to metal interface.
 
 ## Parts Needed
 
