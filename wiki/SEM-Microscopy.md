@@ -16,6 +16,10 @@ Here's the recorded stream from Brandon's and Jasper's presentations (sorry for 
 
 A tungsten filament will burn out at 10^-2 Torr or higher. Therefore, it is absolutely neccesary that we get our vacuum system working to a sufficient degree that we reach the mreasurement limit of our DV-6M thermocouple gauge (10^-3 Torr).
 
+### B-A Gauge
+
+The gauge we have has a 3/4" glass interface. Reccomend we weld a KF25-HN (KF25 half nipple, \$15) to the chamber and use a KF25-CP75 (KF25 Flange To 3/4” Compression Port, \$68) as a glass to metal interface. See [Duniway Stockroom](http://www.duniway.com/images/pdf/pg/p-06-to-08-hard-kf-fit-quick-flange.pdf) for cheap prices.
+
 ## Parts Needed
 
 - Vacuum Chamber(Acquired)
