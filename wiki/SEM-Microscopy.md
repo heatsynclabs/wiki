@@ -73,3 +73,13 @@ Bayard-Alpert hot cathode ionization gauge came in the mail today. Looks pretty 
 - Build permanent circuit and enclosure for driving the gauge heater to 20mA.
 - Provide a digital readout of the thermocouple voltage as well as output the data onto a digital interface line for future incorporation.
 - Weld on the QF/KF flanges and mount the B-A gauge
+
+## Cost Breakdown
+
+|                                                               |       |
+|---------------------------------------------------------------|-------|
+| Desc                                                          | Cost  |
+| Welch 1402 Rotary Vane Pump                                   | \$300 |
+| 1/2 Gallon of mineral oil                                     | \$10  |
+| 23"x11" Cylindrical Vacuum Chamber, Al, W/ thermocouple gauge | \$500 |
+| Bayard-Alpert Glass Gauge                                     | \$35  |
