@@ -72,3 +72,4 @@ Bayard-Alpert hot cathode ionization gauge came in the mail today. Looks pretty 
 - Fix the vacuum hose fitting which broke off and attempt to get a better vacuum
 - Build permanent circuit and enclosure for driving the gauge heater to 20mA.
 - Provide a digital readout of the thermocouple voltage as well as output the data onto a digital interface line for future incorporation.
+- Weld on the QF/KF flanges and mount the B-A gauge
