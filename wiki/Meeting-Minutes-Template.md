@@ -99,7 +99,7 @@ Presenter has the floor to present on an update.
 - Is there anyone who would like to discuss the motion?
 - If yes each person willing to discuss the motion will have 1 minute for discussion.
 - During discussion amendments can be proposed. Amendments must be seconded.
-- Amendments not turned in prior to the meeting should be written down and passed to the Secretary. The secretary must restate the amendment to ensure everyone is clear as to what they will be voting on.
+- Amendments not turned in prior to the meeting should be written down and provided to the Secretary. The secretary must restate the amendment to ensure everyone is clear as to what they will be voting on.
 
 **Vote for Amendment of Original Motion:** List of Names for Yay or Nay(All in favor raise their hand. All opposed raise your hand).\
 **Amendment of Original Motion Voting Result:** Pass, Fail, Or Unanimously Passed
