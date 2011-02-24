@@ -1,4 +1,4 @@
-# General Rules
+# General Rules and Definitions
 
 The goal of the meeting should be to receive reports, pass motions, hold elections.
 
