@@ -21,6 +21,11 @@ The goal of the meeting should be to receive reports, pass motions, hold electio
 - If amendments to motions are given during a meeting they are restated by the Secretary as written to ensure clarity and ease later sanitation.
 - In the event of a tie the Chairman will start another round of discussion to help resolve the issue. If no quorum can be found the motion will be tabled until the following meeting.
 
+<u>Definitions</u>
+
+- Motion: Any official action to be enacted by the board. These must be submitted to the secretary 7 days prior to the official board meeting.\
+- Amendment: Any modifcation to a motion. These can be submitted to the secretary 3 days before the meeting.\
+
 ## Agenda Heading
 
     HeatSync Labs Non-Profit Organization
