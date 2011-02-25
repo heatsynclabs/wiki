@@ -25,6 +25,11 @@ The goal of the meeting should be to receive reports, pass motions, hold electio
 
 - Motion: Any official action to be enacted by the board. These must be submitted to the secretary 7 days prior to the official board meeting.\
 - Amendment: Any modifcation to a motion. These can be submitted to the secretary 3 days before the meeting.\
+- Committee: A committee entails an officer of the board electing to create a specialty group focused on a particular task along with other members and/or volunteers. These can be formed ad-hoc.\
+
+<u> Time Frame </u> Motions and committee report requests must be submitted to the secretary 7 days prior to the meeting. (Thursday, midnight)\
+Secretary to email out agenda Monday by midnight and post in space no later than 24 hours prior to board meeting.\
+Amendments can be emailed to secretary up until the motion comes to vote.\
 
 ## Agenda Heading
 
