@@ -24,8 +24,7 @@ This is so the board can't be sued
 
 ### Quotes
 
-- Waiting on Cheeney Insurance--application received, Jacob is processing
-- Waiting on Theirren's contact--petered out when we didn't take up residence there
+- Waiting on Cheeney Insurance--\$836.00 yr, no medical, only 14 members?
 - Waiting on Carolina, or whoever Jose's contact can find for us -- Unable to find us anyone willing
 
 ## Theft
