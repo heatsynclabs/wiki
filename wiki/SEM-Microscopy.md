@@ -42,6 +42,7 @@ The [Bayard-Alpert hot cathode ionization gauge we have](http://www.flickr.com/p
 - Vacuum Chamber, \$500
   - 23"x11"
   - Aluminum
+- CF-218 right angle manual valve
 - Vacuum Pump, Dual-Stage Dual-Vane Rotary, Welch 1402, 10^-4 mTorr, \$300
 - Basic Hose for testing, Free
   - Hose Clamps, \$7.50
@@ -61,7 +62,8 @@ The [Bayard-Alpert hot cathode ionization gauge we have](http://www.flickr.com/p
 - Fittings
   - KF-25 half-nipples for playing with feedthroughs
     - These might be lathable
-  - KF-25 half nipple
+  - KF/CF half nipple for exhausting the chamber.
+    - Will require an adapter to connect to the CF valve if not CF-218
 - Vacuum hose, clear is ok, reddish is better (6 feet, 1" ID)
 - Material for lenses (silicon steel? permeable iron/steel alloy? must be available in round stock)
   - HT power supply (1-20kVDC, 1-5kVDC OK for now)
