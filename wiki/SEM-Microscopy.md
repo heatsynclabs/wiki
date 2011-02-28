@@ -37,28 +37,38 @@ The DV-6M is a thermocouple vacuum gauge which relies on the thermal conductivit
 ![Bayard-Alpert hot cathode ionization gauge](files/BA_Gauge.jpg)\
 The [Bayard-Alpert hot cathode ionization gauge we have](http://www.flickr.com/photos/nebarnix/5470607516/) has a 3/4" glass interface. Reccomend we weld a [QF25-100-ALF](http://www.ancorp.com/product.aspx?id=3605) (KF25 half nipple, 6061-T6 Aluminum, \$14) to the chamber and use a [KF25-CP75](http://www.duniway.com/images/pdf/pg/p-06-to-08-hard-kf-fit-quick-flange.pdf) (KF25 Flange To 3/4” Compression Port, \$68) as a glass to metal interface.
 
-## Parts Needed
+## Acquired
 
-- Vacuum Chamber(Acquired)
+- Vacuum Chamber, \$500
   - 23"x11"
   - Aluminum
-- Vacuum Pump, Dual-Stage Dual-Vane Rotary, Welch 1402, 10^-4 mTorr (Acquired)
-  - Belt Drive Vacuum Pump Oil
-- Basic Hose for testing(Acquired)
-- Fittings for feed-throughs
-  - 1/2" to ~1" fittings, 1"x1" desired "playroom" for filling with epoxies etc
-  - Large feedthrough flanges welded on eventually
+- Vacuum Pump, Dual-Stage Dual-Vane Rotary, Welch 1402, 10^-4 mTorr, \$300
+- Basic Hose for testing, Free
+  - Hose Clamps, \$7.50
+- Electron Emitters, Donated, used
+- Vacuum Gauges
+  - DV-6M, Free with Chamber
+  - B-A Glass, \$35
+
+## In Progress
+
+- - Driver/meter for the DV-6M thermocouple gauge, (Jasper)
+  - Boring hole in chamber for the KF-25 to be welded in (Corey)
+
+## Needed
+
+- Belt Drive Vacuum Pump Oil
+- Fittings
+  - KF-25 half-nipples for playing with feedthroughs
+    - These might be lathable
+  - KF-25 half nipple
 - Vacuum hose, clear is ok, reddish is better (6 feet, 1" ID)
 - Material for lenses (silicon steel? permeable iron/steel alloy? must be available in round stock)
-- Electron Emitters (Acquired)
   - HT power supply (1-20kVDC, 1-5kVDC OK for now)
     - Flyback transformer with variable duty cycle (to vary output voltage) and output capacitor to smooth waveform
     - Digital interface for varying the duty cycle
-- Hose Clamps(Acquired)
 - Webcam + White LED to mount inside of chamber
-- Vacuum Gauges (Acquired)
-  - Driver/meter for the DV-6M thermocouple gauge (Jasper)
-  - Driver/meter for the Bayard-Alpert hot cathode ionization gauge
+- Driver/meter for the Bayard-Alpert hot cathode ionization gauge
 
 ## Completed
 
@@ -73,6 +83,10 @@ Upon discovery of the leak using the water pour and vacuum gauge method, and an 
 ### Feb 22nd
 
 Bayard-Alpert hot cathode ionization gauge came in the mail today. Looks pretty sexy. We will need two more power supplies (+200VDC, -50VDC) a pico-amp meter, and a way to attach the glass tube to a metal flange. Looks like this will probably require some TIG welding, hopefully the MCC welding shop can help us out here.
+
+### Feb 25th
+
+Paul has contacted a TIG welder at MCC who has previous experience with vacuum chambers and who has offered to help us for free (and possibly beer). We need him to weld on some aluminum KF-25 / CF half-nipples for exhausting the chamber as well as for feedthrough prototypes.
 
 ## Next Steps
 
