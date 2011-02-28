@@ -27,10 +27,10 @@ We should weld on a [QF40-150-ALF](http://www.ancorp.com/product.aspx?id=3606) (
 
 ### DV-6M Gauge
 
-![Interruptible Heater Supply](files/Dv6m_supply.png)\
+\
 The DV-6M is a thermocouple vacuum gauge which relies on the thermal conductivity of the air to measure a vacuum between 10 Torr and 10^-3 Torr. At atmospheric pressure the tiny hair sized thermocouple wires dissapate all of their heat into the air and the thermocouple reads a lot ambient measurement (0.6mV). At 10^-3 Torr the conductivity of the air drops to a point where all of the heat is retained in the heating element and the gauge reaches its full-scale reading. To read below this the B-A Gauge described below.
 
-The DV-6M contains the thermocouples in series with the heating element so a DC heating current of 21mA (0.380V across the 19.2Ω Heater) needs to be interrupted for ~5ms in order to take the reading of the thermocouple. A prototype interruptible supply was made which appears to work but will need further integration into the thermocouple amplification circuitry.
+![Interruptible Heater Supply](files/Dv6m_supply.png) ![Interruptible Heater Protoshield](files/DV-6M_Supply_Protoshield.jpg) The DV-6M contains the thermocouples in series with the heating element so a DC heating current of 21mA (0.380V across the 19.2Ω Heater) needs to be interrupted for ~5ms in order to take the reading of the thermocouple. A prototype interruptible supply was made which appears to work but will need further integration into the thermocouple amplification circuitry.
 
 ### B-A Gauge
 
