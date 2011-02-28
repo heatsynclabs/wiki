@@ -25,6 +25,13 @@ For the best vacuum, we should use either conflats or QF/KF fittings. QF/KF is g
 
 We should weld on a [QF40-150-ALF](http://www.ancorp.com/product.aspx?id=3606) (KF40 half nipple, 6061-T6 Aluminum, \$15.50) onto the chamber and use a [KF40-HA](http://www.duniway.com/images/pdf/pg/p-06-to-08-hard-kf-fit-quick-flange.pdf) (KF40 Flange To Hose (1 1/2” or 1 5/8” ID) Adaptor, Aluminum, \$17) to link up the hose. For hose we should use 1.5" gum rubber which is ~\$17 per foot new. Surplus would be a good thing here as we need about 3 feet.
 
+### DV-6M Gauge
+
+![Interruptible Heater Supply](files/Dv6m_supply.png)\
+The DV-6M is a thermocouple vacuum gauge which relies on the thermal conductivity of the air to measure a vacuum between 10 Torr and 10^-3 Torr. At atmospheric pressure the tiny hair sized thermocouple wires dissapate all of their heat into the air and the thermocouple reads a lot ambient measurement (0.6mV). At 10^-3 Torr the conductivity of the air drops to a point where all of the heat is retained in the heating element and the gauge reaches its full-scale reading. To read below this the B-A Gauge described below.
+
+The DV-6M contains the thermocouples in series with the heating element so a DC heating current of 21mA (0.380V across the 19.2Ω Heater) needs to be interrupted for ~5ms in order to take the reading of the thermocouple. A prototype interruptible supply was made which appears to work but will need further integration into the thermocouple amplification circuitry.
+
 ### B-A Gauge
 
 ![Bayard-Alpert hot cathode ionization gauge](files/BA_Gauge.jpg)\
