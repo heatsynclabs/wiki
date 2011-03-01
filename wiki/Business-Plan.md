@@ -143,8 +143,6 @@ Every Wednesday we host a 3d Printing meetup event where we foster the innovativ
 
 ### Large Scale Projects
 
-Write it as a story?
-
 #### Outreach
 
 Not only is education our 501c3 chartered mission, its also our passion.
