@@ -66,7 +66,7 @@ Lastly, we provide access to the tools of creation. We provide application IN AD
 
 ### Jose Diaz - Treasurer
 
-**Qualifications:** Insert Qualifications Here!!!
+**Qualifications:** Jose Diaz joined the HeatSync Labs Team as Treasurer in 2010. Having started his career as a Controls Engineer within AlliedSignal's Aerospace Division he now works for a top Engineering and Information Technology outsourcing firm. His responsibilities have included developing financial dashboards and reporting applications as well as helping business units integrate technology into their normal workflows. With an extensive background in information technology, engineering and business, Jose Diaz holds a Bachelor of Science degree in Electrical Engineering from Purdue University and enjoys helping his wife run their small business.
 
 **Duties:** Responsible for managing financial assets and liabilities and collecting membership dues, donations, and other revenue.
 
