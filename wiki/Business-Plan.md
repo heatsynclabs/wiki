@@ -153,7 +153,7 @@ Recently we've waded into science education waters. We've been working with a lo
 
 #### Internal
 
-August 28th was the culmination of several months of preparation. More than 40 people attended our near space balloon launch, from children to adults, to help us 'chase' down the landing. A team of XXX People planned and executed the development of a payload to survive a trip to ~75k feet into the upper atmosphere, and see it safely return. Anyone from the public was welcome to join the development team and learn the multidisciplinary fundamentals necessary to launch an object into nearspace!
+August 28th was the culmination of several months of preparation. More than 40 people attended our near space balloon launch, from children to adults, to help us 'chase' down the landing. A team of 6 People planned and executed the development of a payload to survive a trip to ~75k feet into the upper atmosphere, and see it safely return. Anyone from the public was welcome to join the development team and learn the multidisciplinary fundamentals necessary to launch an object into nearspace!
 
 A new team has formed around tackling issues related to solar power generation and storage. A rocket engineer, turbine engineer, electrical engineers, students and hobbyists are all working to adapt an MIT design for a solar collector. The goal is to leverage our location in the Arizona desert to further understand renewable energy problems and solutions.
 
