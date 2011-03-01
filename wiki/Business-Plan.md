@@ -92,10 +92,12 @@ Lastly, we provide access to the tools of creation. We provide application IN AD
 
 Who do we partner with for activities?:
 
-- ASU
-- Elementary Schools
-- Gangplank
-- Urban Stew
+- ASU - Cubic Lab
+- Elementary Schools(Julia's and Chandler School District - Julia for Earthquake and Strawberry DNA Experiment
+- Gangplank - Lego League, Intel Meego Event,
+- Urban Stew - Two Workshops and One First Friday event.
+- No Starch and O'Reilly Press - Maker Faire and
+- Hackerspace - Umbrella and collaboration with other states and countries
 - etc.
 
 ## Current Business Accomplishments
