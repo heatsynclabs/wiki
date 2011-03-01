@@ -66,13 +66,13 @@ Lastly, we provide access to the tools of creation. We provide application IN AD
 
 ### Jose Diaz - Treasurer
 
-**Qualifications:**
+**Qualifications:** Insert Qualifications Here!!!
 
 **Duties:** Responsible for managing financial assets and liabilities and collecting membership dues, donations, and other revenue.
 
 ### Joyce Tang - Marketing Director
 
-**Qualifications:** A native of New York City, Little Miss Joyce is an ardent perfectionist transplanted into the wild west of Arizona at a young age, bringing order to chaos in her wake. In her early years, she actively encouraged women to pursue the computational sciences by founding the ASU School of Computing and Informatics High School Outreach program as President of the Women in Computer Science (WCS). In 2009, she defended her undergraduate thesis on Algorithms for the Distributed Intel Linux Security Robot. Currently a grad student, she spends time studying the IBM Cell Broadband Engine (the thing inside your PS3) and other multi-core architectures at ASU's Computer Systems Research Lab.
+**Qualifications:** Insert Qualifications Here!!!
 
 **Duties:** Responsible for press releases, endeavors in social media, and promotion of HSL in general.
 
