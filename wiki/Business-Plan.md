@@ -92,13 +92,13 @@ Lastly, we provide access to the tools of creation. We provide application IN AD
 
 Who do we partner with for activities?:
 
-- ASU - Cubic Lab
-- Elementary Schools(Julia's and Chandler School District - Julia for Earthquake and Strawberry DNA Experiment
+- ASU's Cubic Lab - Haptic Sensors Project
+- Larry C. Kennedy Elementary School - Julia Tisdale(Teacher) - Earthquake and Strawberry DNA Experiment
+- Chandler School District -
 - Gangplank - Lego League, Intel Meego Event,
 - Urban Stew - Two Workshops and One First Friday event.
-- No Starch and O'Reilly Press - Maker Faire and
-- Hackerspace - Umbrella and collaboration with other states and countries
-- etc.
+- No Starch and O'Reilly Press - Maker Faire
+- World Hackerspaces - Umbrella and collaboration with other states and countries
 
 ## Current Business Accomplishments
 
