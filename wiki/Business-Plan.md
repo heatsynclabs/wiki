@@ -14,19 +14,17 @@ Our vision is a world where we re-awaken our population and reinstate the knowle
 
 ## Market Analysis
 
-We define our 'market' rather broadly as our mission is nonprofit and educational in nature. In short we want to collect entrepreneurs, creatives, professionals, hobbysits and students together under one roof. Age, gender, ethnicity, etc are of no import to us.
+We define our 'market' rather broadly as our mission is nonprofit and educational in nature. In short we want to collect entrepreneurs, creatives, professionals, hobbysits and students together under one roof. Age, gender, ethnicity, etc are of no importance to us.
 
 Entrepreneurs need access to a talent pool to start building their team. They need resources and connections to create their prototype, wander the IP minefield, and find funding to bring their product to market.
 
 Students and hobbyists want to be a part of something big. They want to bump into big thinkers working on big projects and be invited to help and learn. Hopefully they want to become entrepreneurs themselves.
 
-Artists' biggest request so far has been studio space. Further cross discipline connections and resources can also help in trying new avenues of expression.
+Artists' biggest requests so far have been studio space. Further cross discipline connections and resources can also help in trying new avenues of expression.
 
-Professional engineers are hungry for this, too. They need space outside of their companies to grow and work as innovations made inside their company can lead to problematic IP rights. They also need a place to bring their kids and family to interest them in science and technolog education.
+Professional engineers are hungry for this, too. They need space outside of their companies to grow and work as innovations made inside their company can lead to problematic IP rights. They also need a place to bring their kids and family to interest them in science and technology education. Electrical design and simulation equipment, however, are pricey and can be difficult to locate.
 
--electrical Electrical design and simulation equipment, however, are pricey and can be difficult to locate
-
-The Mechanical Engineers we've met, on both the wood and metal side, have found many of their tools fairly commoditzed. However more and more they yearn for community. The garage is lonely place to innovate.
+The Mechanical Engineers we've met, on both the wood and metal side, have found many of their tools fairly commoditized. However, more and more they yearn for community. The garage is a lonely place to innovate.
 
 - Kids!-we need to stop hiding the tools of creation from them. They need to grow up in worlds, around tools and the creators in the community, so they understand that these things are available to them and can begin building their knowledge network early.
 
