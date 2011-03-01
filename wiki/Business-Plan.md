@@ -46,25 +46,29 @@ Lastly, we provide access to the tools of creation. We provide application IN AD
 
 - List the Board Members and Their Experience Levels - This was included and can be updated for our f1023
 
-### Jeremy Leung
+### Jeremy Leung - Champion
 
 **Qualifications:** A self-proclaimed jack of all trades stemming from his interest in any thing he can get his hands on, Jeremy Leung is a maker. Whether that involves music, art, inventions, code, written work, or a mixture of all of the above, you'll find him dabbling in it. His current passion lies in teaching and the intricacies of communication -- how to properly convey ideas and concepts through the available means. This has led him to a slight career change with his long-term employer, from Senior Systems Administrator to developing training programs for Technicians, System’s Administrators and Engineers. He brings his passion for learning and teaching to HeatSync Labs; striving to push the organization forward as a “third place” where people can fill in the gaps of learning that our traditional education system often cannot provide.
 
 **Duties:** Responsible for coordinating between the different board members. Helps maintain the primary goal of the organization (the mission statement). Also helps to support all members with various tasks and is responsible for public and board meeting agendas.
 
-### Jacob Rosenthal
+### Jacob Rosenthal - Champion
 
 **Qualifications:** Jacob’s background is in project management which he utilizes in his current position as Application Systems Analyst for Arizona State University and as an Undergraduate student with ASU’s Cognitive Center for Ubiquitous Computing (CUbiC). His work with the CUbiC lab recently resulted in a paper accepted to the IEEE HAVE 2009 conference and this fall he was asked to return to CUbiC to mentor two newly formed Capstone teams as they begin their two-semester projects. Jacob endeavors to surround himself with brilliant people and as such is an active member of the ASU Linux User’s Group, the ASU Software Developers Associations, and the IEEE Phoenix Chapter.
 
 **Duties:** Responsible for coordinating between the different board members. Helps maintain the primary goal of the organization (the mission statement). Also helps to support all members with various tasks and is responsible for public and board meeting agendas.
 
-### Andrea Young
+### Andrea Young - Secretary
 
 **Qualifications:** Andrea Young is a founding member of HeatSync Labs. She holds a Bachelor of Science in Justice Studies with an emphasis on Law from Arizona State University. Young has a strong background in the financial industry, having worked for Bank of America for 5 years. She has previously worked with a non-profit organization, Southwest Youth of Unity, for which she still volunteers as an adult sponsor and mentor. Young is currently working on an additional Bachelor of Arts in English with an emphasis on Education. She is also an avid gamer, comic enthusiast, and is eager to learn more about electrical engineering.
 
 **Duties:** Responsible for maintaining records of all meetings and other paperwork for the organization, including membership applications.
 
-### Jose Diaz
+### Jose Diaz - Treasurer
+
+**Qualifications:**
+
+**Duties:** Responsible for managing financial assets and liabilities and collecting membership dues, donations, and other revenue.
 
 ### Joyce Tang - Marketing Director
 
@@ -72,13 +76,13 @@ Lastly, we provide access to the tools of creation. We provide application IN AD
 
 **Duties:** Responsible for press releases, endeavors in social media, and promotion of HSL in general.
 
-### David Huerta
+### David Huerta - Editor
 
 **Qualifications:** As a member of DECA at American Falls High School, David Huerta was a newsletter editor who kept the student body updated with the latest news from his student chapter. Continuing his education at DeVry in Phoenix, David joined the DeVry Times student newspaper team, and wrote on a variety of topics of interest to the student body with a form of investigative and engaging journalism that became his distinctions in the paper. Also at DeVry, David co-founded the DeVry Linux User Group in 2003, after which he was elected for several terms as its president. As president, he organized bi-monthly meetings on various topics relating to open source technology and created promotional materials, membership packages, and organized promotional and fundraising events, some of which were co-hosted in collaboration with other local technology groups. During his time as DeLUG president, David also helped restart the IEEE Computer Society student branch at DeVry and served it as its Chair in 2005 until graudating in 2006 when he joined the IEEE Graduates of Last Decade Affinity group, volunteering in website administration, becoming elected Vice Chair in 2009, and Chair in 2010. David currently serves HeatSync Labs as its content editor and manages HeatSync Labs's written and aesthetic communications to related organizations and the public at large.
 
 **Duties:** Responsible for monitoring the blog and wiki. Edits submissions for publication and recruits contributors for entries.
 
-### Will Bradley
+### Will Bradley - IT Director
 
 **Qualifications:** Will Bradley has demonstrated years of experience in the IT Industry as evidenced by his current position where he designed, implemented, and manages a 15 site, 25 server, 100 client network for a local residential company. Will also offers a background in software programming which he displays passionately through his work improving his skills day by day writing in languages like: XHTML/CSS, Javascript, C#, Java, PHP, and Ruby on Rails. All of which he hopes to bring to HeatSync Labs in support of its technological infrastructure.
 
