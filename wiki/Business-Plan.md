@@ -26,7 +26,7 @@ Professional engineers are hungry for this, too. They need space outside of thei
 
 The Mechanical Engineers we've met, on both the wood and metal side, have found many of their tools fairly commoditized. However, more and more they yearn for community. The garage is a lonely place to innovate.
 
-- Kids!-we need to stop hiding the tools of creation from them. They need to grow up in worlds, around tools and the creators in the community, so they understand that these things are available to them and can begin building their knowledge network early.
+Kids! - We need to stop hiding the tools of creation from them. They need to grow up in worlds, around tools and the creators in the community, so they understand that these things are available to them and can begin building their knowledge network early.
 
 Thats not all the groups we target! Photographers, Scientists, the curious and motivated! - We get away with this vagary because of our non profit status. We want to target anyone interested! We want to challenge passers by into walking in and we want to put a tool in their hand. It is time to return to the tools of creation to our people!
 
