@@ -104,9 +104,9 @@ Who do we partner with for activities?:
 
 ### Workshops
 
-Monthly we run a free to attend Arduino workshop where we train kids to adults how to program micro-controllers. Hundreds of people, from children to adults have attended our monthly meetings with the goal of empowering themselves with technology to solve their own problems. MORE HERE
+Monthly we run a free to attend Arduino workshop where we train kids to adults how to program micro-controllers. Hundreds of people have attended our monthly meetings with the goal of empowering themselves with technology to solve their own problems. The Arduino development platform was created in a classroom setting and it's community is based around using the technology for educational purposes. People with no programming or electronics experience can sit down with us for a couple hours and learn to code their own program to flash LEDs, send messages to screens, actuate motors, and more.
 
-Most recently we had been asked to create a workshop series on soldering and programing for UrbanStew another local nonprofit. Again, we wanted to instill the values of creation, having our attendees actually BUILD the computer they would eventually program. Demystifying these devices which are increasingly becoming ubiquitous.
+Most recently we had been asked to create a workshop series on soldering and programing for UrbanStew, another local nonprofit. Again, we wanted to instill the values of creation, having our attendees actually BUILD the computer they would eventually program. We did this with a goal of demystifying these devices which are increasingly becoming ubiquitous.
 
 ### Public Meetings
 
