@@ -94,7 +94,6 @@ Who do we partner with for activities?:
 
 - **ASU's Cubic Lab** - Haptic Sensors Project
 - **Larry C. Kennedy Elementary School** - Julia Tisdale(Teacher) - Provided the tools and consumables required for two experiments: Earthquake simulation studies(building structures that can withstand a simulated earthquake) and Strawberry DNA Extraction Experiment
-- **Chandler School District** - ???
 - **Gangplank HQ** - Administered and mentored two First Lego League robotics teams and had Intel host their Meego Development event on one of our public nights.
 - **Urban Stew** - Various electronics workshops at the MadCap Theatre in Tempe and a First Friday event in downtown Phoenix where we had a table available teaching people to make miniature simplistic robots.
 - **O'Reilly Press** - Working to host a Maker Faire event in the Phoenix Area
