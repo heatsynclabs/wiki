@@ -8,4 +8,4 @@
 
 ## Description
 
-Full size version of ![SEM_sketch,\_brainstorming.jpg](files/SEM_sketch,_brainstorming.jpg)
+Full size version of [:File:SEM sketch, brainstorming.jpg](files/SEM_sketch,_brainstorming.jpg)
