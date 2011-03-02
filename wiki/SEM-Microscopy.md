@@ -94,6 +94,10 @@ Bayard-Alpert hot cathode ionization gauge came in the mail today. Looks pretty 
 
 Paul has contacted a TIG welder at MCC who has previous experience with vacuum chambers and who has offered to help us for free (and possibly beer). We need him to weld on some aluminum KF-25 / CF half-nipples for exhausting the chamber as well as for feedthrough prototypes.
 
+### Mar 1st
+
+Jasper and Will whiteboarded next steps, and tried to de-gunk the secondary vacuum pump with 50% success and relative lack of injury. Corey returned the vacuum chamber, along with a \$5 nipple extractor that unfortunately didn't work to remove abovementioned nipple.
+
 ## Next Steps
 
 - Achieving a good vacuum
