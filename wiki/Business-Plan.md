@@ -208,8 +208,6 @@ It won't be surprising to know that the totality of our assets include our tools
 
 ### Universities and Tech Schools
 
-Popular examples in the valley:
-
 - MCC
 - EVIT
 - ASU
@@ -228,7 +226,7 @@ All offer course ware focused on electrical/mechanical engineering and arts, how
 - 500 Startups
 - Innovations
 
-Putting on tech talks and having free food doesn't build a community, it simply attracts an audience that prefers to be fed--literally and metaphorically.
+These companies benefit in being able to direct entrepreneurs down the path of starting their own business as well as helping them find the investors needed to kickstart their ideas. However, putting on tech talks and having free food doesn't build a community, it simply attracts an audience that prefers to be fed--literally and metaphorically. On top of that most incubators end up just being extensions of the silos that universities are already creating with separation between different disciplines.
 
 ### Co-Working/Collaboration
 
