@@ -653,7 +653,7 @@ Here is a useful function you can use to check which buttons are being pressed. 
       // 10k towards VCC and a parallel network of resistors to GND.
       // If we represent the parallel resistor by x, the value v that will
       // be read by the A/D converter will be close to the following:
-      // x=1/(1/(L*39k)+1/(M*22k)+1/(10k))      [law of parallel resistors]
+      // x=1/(1/(L*39k)+1/(M*22k)+1/(R*10k))    [law of parallel resistors]
       // v=(x/(x+10k))*1024      [voltage divider between value 1023 and 0]
       // This results in the following approximate values:
       // L=0 M=0 R=0 ->       -> v=           =1023
