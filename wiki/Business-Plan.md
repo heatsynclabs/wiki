@@ -208,25 +208,27 @@ It won't be surprising to know that the totality of our assets include our tools
 
 ### Universities and Tech Schools
 
+Popular examples in the valley:
+
 - MCC
 - EVIT
 - ASU
 - U of A
 
+High schools are pulling out of access to the tools of creation because of safety, budget cuts, etc.
+
+Colleges continue to be silos. Inter-departmental bickering and inability to communicate leads to an institution with all the tools present which are necessary to succeed, yet frustratingly kept at arms length. They build large buildings off campus offering offices and even more closed off spaces.
+
+All offer course ware focused on electrical/mechanical engineering and arts, however, cost thousands of dollars and several years to gain access to equipment and get the applied learning. With the amount of people in these programs it is often the case that even if you are in the program at the institution you have to wait in a very long queue of peers to gain access to equipment. Access may be granted past project deadlines and alternatives are needed.
+
 ### Incubators
 
 - Skysong's Hackspace
-
-High schools pulling out of access to the tools of creation because of safety, budget cuts, etc.
-
-Colleges continue to be silos. Inter-departmental bickering and inability to communicate leads to an institution will all the tools present which are necessary to succeed, yet frustratingly kept at arms length.
-
-Build large buildings off campus, offer offices, more closed off spaces.
-
-Putting on tech talks and having free food doesn't build a community, it simply attracts an audience that prefers to be fed--literally and metaphorically.
-
 - Techstars
 - 500 Startups
+- Innovations
+
+Putting on tech talks and having free food doesn't build a community, it simply attracts an audience that prefers to be fed--literally and metaphorically.
 
 ### Co-Working/Collaboration
 
@@ -234,11 +236,15 @@ Putting on tech talks and having free food doesn't build a community, it simply 
 - Gangplank
 - Co-Hoots
 
+These all provide collaborative spaces where startups can save on costs for space by sharing a location. Most offer an area for the general public to come in and do their work which allows people to find like minded individuals or partners for projects/business. These locations currently focus on software, design, or marketing companies that only require some space for their desktop/laptop and then they are good to go. While the above is something we would like to retain, none of these spaces, except for Gangplank as long as we are an anchor there, offer areas that provide the tools and space necessary for creating things in the physical world.
+
 ### Hackerspaces
 
 It's a Global Phenomenon.
 
-We're most like a traditional academic incubator model mixed with the newer coworking model. Entreprenuers and skilled tradespeople who don't wish to work in an office alone but would rather work side by side with the other brightest minds in the community in order to build their workspace in public More specifically, we are part of a larger maker/do-it-yourself culture exemplified by Make Magazine. There are spaces are popping up throughout the united states, and globally, all with different visions and goals, but all listing themselves at hackerspaces.org.
+We're most like a traditional academic incubator model mixed with the newer coworking model. Entreprenuers and skilled tradespeople who don't wish to work in an office alone but would rather work side by side with the other brightest minds in the community in order to build their workspace in public.
+
+More specifically, we are part of a larger maker/do-it-yourself culture exemplified by Make Magazine. There are spaces popping up throughout the United States, and globally, all with different visions and goals, but all listing themselves at hackerspaces.org.
 
 Locally we are most like our peer coworking/collaboration sister and landlord, Gangplank. Gangplank, much like us, intends to revolutionize education, community, and collaboration. Hardware and access to tools is on their agenda, but only superficially.
 
