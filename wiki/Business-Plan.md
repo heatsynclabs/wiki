@@ -250,23 +250,29 @@ What makes us different from all these is our focus on infrastructure. It has be
 
 ## Marketing Plan
 
-- Entrepreneurs
+### Entrepreneurs
 
-TechCrunch and other online sites have fetishized the startup lifestyle and it will be important to capitalize on this, tech stars, students and student groups
+TechCrunch and other online sites have fetishized the startup lifestyle and it will be important to capitalize on this, tech stars, students and student groups.
 
-- Students and hobbyists-
+### Students and Hobbyists
 
-Make culture is the big way to reach these people. Make Magazine, make blog, hackaday, hackerspace advertising are the way to reach these. On campuses, Technical students are becoming more and more disenfranchised with the opportunities and equipment available to them in academia. There was a day many years ago where the only place you could find a 'computer' was in academia, but that time has passed. There may be as many as 300,000 college and technical school students in the phoenix metro area, with only maybe 5% with arts/ design/technical backgrounds, leading to 15,000 possible customers. These customers are going to be more eager to get their hands on professional equipment, but also more sensitive to price. It will be important to stress the experience and connections membership in our elite organization can bring them, connections to local jobs and internships, as well as a start upon the career of an entrepreneur.Outreach to students should be done on campus. Poster advertising is free, and student ambassadors would be cheap to hire. Another method of reaching these users could be through ad-vertainment in the form of speeches and presentations on campus. Student groups will be another excellent way of reaching the correct demographic. Groups including Linux Users Groups, On campus Engineering fraternities and societies, will be a valuable resource.
+Make culture is the big way to reach these people. Make Magazine, make blog, hackaday, hackerspace advertising are the way to reach these.
 
-- Artists
+On campuses, Technical students are becoming more and more disenfranchised with the opportunities and equipment available to them in academia. There was a day many years ago where the only place you could find a 'computer' was in academia, but that time has passed. There may be as many as 300,000 college and technical school students in the phoenix metro area, with only maybe 5% with arts/ design/technical backgrounds, leading to 15,000 possible customers. These customers are going to be more eager to get their hands on professional equipment, but also more sensitive to price. It will be important to stress the experience and connections membership in our elite organization can bring them, connections to local jobs and internships, as well as a start upon the career of an entrepreneur.Outreach to students should be done on campus. Poster advertising is free, and student ambassadors would be cheap to hire. Another method of reaching these users could be through ad-vertainment in the form of speeches and presentations on campus.
+
+Student groups will be another excellent way of reaching the correct demographic. Groups including Linux Users Groups, On campus Engineering fraternities and societies, will be a valuable resource.
+
+### Artists
 
 Find these people through the local groups. First friday, Urban Stew, colleges. Art stores. Photography competitions, showings, free nights for groups to use tools.
 
 Also want to target craft/diy communities. Geek Girls are a huge group of girls doing interesting work in the valley.
 
-- Professionals (Engineers) -
+### Professionals (Engineers)
 
-The IEEE Phoenix membership is 3,600 members. These members are professionals well into their careers and should have some income to be 'invested' in their future. We will want to sell them on setting out to peruse their dream rather than staying at the same job they may be dissatisfied with. Another interesting concept to be exploited is that engineers who use their companies equipment may find themselves mired in IP rights issues. The way to reach these users will be through their professional society and through professional publications including IEEE publications, Circuit Cellar, Nuts and Volts, Wired and possibly Linux publications. Another good avenue will be trade shows and strategic partnerships. It may be possible to work with the big electronics vendors including Jameco, Digikey, and Newark to cross promote by being a local presence for these online companies.
+The IEEE Phoenix membership is 3,600 members. These members are professionals well into their careers and should have some income to be 'invested' in their future. We will want to sell them on setting out to peruse their dream rather than staying at the same job they may be dissatisfied with. Another interesting concept to be exploited is that engineers who use their companies equipment may find themselves mired in IP rights issues. The way to reach these users will be through their professional society and through professional publications including IEEE publications, Circuit Cellar, Nuts and Volts, Wired and possibly Linux publications.
+
+Another good avenue will be trade shows and strategic partnerships. It may be possible to work with the big electronics vendors including Jameco, Digikey, and Newark to cross promote by being a local presence for these online companies.
 
 As for mechanicals these can be gotten to through local groups like Valley Metal and XX wood workers.
 
