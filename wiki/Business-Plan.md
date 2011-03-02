@@ -276,11 +276,19 @@ The IEEE Phoenix membership is 3,600 members. These members are professionals we
 
 Another good avenue will be trade shows and strategic partnerships. It may be possible to work with the big electronics vendors including Jameco, Digikey, and Newark to cross promote by being a local presence for these online companies.
 
-As for mechanicals these can be gotten to through local groups like Valley Metal and XX wood workers.
+As for mechanicals these can be gotten to through local groups like Valley Metal and local wood workers.
 
-- Scientists?
-- Kids! - Our public schools need help!
-- The curious and motivated! - Walk by traffic, press, word of mouth, social networking (twitter, linked in, facebook)
+### Scientists
+
+?
+
+### Kids
+
+Our public schools need help! Schools can't afford to fund many experiments and projects that would help solidify learned concepts at a younger age. It is often left up to teachers and parents to fund these things. By working with the teachers and parents in the community we have been able to supply their kids with the tools and consumables needed to complete these projects. Through programs like Lego League and the electronics/mechanical workshops we host we can start to groom the next generation inventors/engineers/artists.
+
+### The Curious and Motivated!
+
+All those not lumped into the above categories we end up pulling in from walk by traffic, press, ads, word of mouth, and social networking (twitter, linked in, facebook).
 
 # Development plan (Execution of Marketing Strategy)
 
