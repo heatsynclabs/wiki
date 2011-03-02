@@ -292,8 +292,6 @@ All those not lumped into the above categories we end up pulling in from walk by
 
 # Development plan (Execution of Marketing Strategy)
 
-- 
-
 # Plan of Action
 
 We have outgrown our current home at Gangplank and as such have created a committee to begin searching for new space in the Phoenix Metro region. This move has the possibility of being very stressful to the organization so it has been decided that we would approach the cities themselves looking for a longterm partner to make sure this next move would be the one that puts either in our final home, or one clear step away from it.
