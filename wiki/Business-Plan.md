@@ -256,9 +256,11 @@ TechCrunch and other online sites have fetishized the startup lifestyle and it w
 
 ### Students and Hobbyists
 
-Make culture is the big way to reach these people. Make Magazine, make blog, hackaday, hackerspace advertising are the way to reach these.
+Being ingrained in the Make culture is the big way to reach these people. Make Magazine, blog.makezine.com, hackaday.com, and hackerspace advertising are the way to reach these grass roots entrepreneur types.
 
-On campuses, Technical students are becoming more and more disenfranchised with the opportunities and equipment available to them in academia. There was a day many years ago where the only place you could find a 'computer' was in academia, but that time has passed. There may be as many as 300,000 college and technical school students in the phoenix metro area, with only maybe 5% with arts/ design/technical backgrounds, leading to 15,000 possible customers. These customers are going to be more eager to get their hands on professional equipment, but also more sensitive to price. It will be important to stress the experience and connections membership in our elite organization can bring them, connections to local jobs and internships, as well as a start upon the career of an entrepreneur.Outreach to students should be done on campus. Poster advertising is free, and student ambassadors would be cheap to hire. Another method of reaching these users could be through ad-vertainment in the form of speeches and presentations on campus.
+On campuses, Technical students are becoming more and more disenfranchised with the opportunities and equipment available to them in academia. There was a day many years ago where the only place you could find a 'computer' was in academia, but that time has passed. There may be as many as 300,000 college and technical school students in the phoenix metro area, with only maybe 5% with arts/ design/technical backgrounds, leading to 15,000 possible customers. These customers are going to be more eager to get their hands on professional equipment, but also more sensitive to price. It will be important to stress the experience and connections membership in our elite organization can bring them, connections to local jobs and internships, as well as a start upon the career of an entrepreneur.
+
+Outreach to students should be done on campus. Poster advertising is free, and student ambassadors would be cheap to hire. Another method of reaching these users could be through ad-vertainment in the form of speeches and presentations on campus.
 
 Student groups will be another excellent way of reaching the correct demographic. Groups including Linux Users Groups, On campus Engineering fraternities and societies, will be a valuable resource.
 
