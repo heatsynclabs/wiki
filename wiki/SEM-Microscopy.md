@@ -64,7 +64,7 @@ The [Bayard-Alpert hot cathode ionization gauge we have](http://www.flickr.com/p
 
 - Belt Drive Vacuum Pump Oil
 - Fittings
-  - KF-25 half-nipples for playing with feedthroughs
+  - KF-25 half-nipples and caps for playing with feedthroughs
     - These might be lathable
   - KF/CF half nipple for exhausting the chamber.
     - Will require an adapter to connect to the CF valve if not CF-218
