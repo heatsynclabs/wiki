@@ -92,7 +92,7 @@ Lastly, we provide access to the tools of creation. We provide application IN AD
 
 Who do we partner with for activities?:
 
-- **ASU's Cubic Lab** - Haptic Sensors Project
+- **ASU's Cubic Lab** - Haptic Sensors Project - Provided an off site lab for further development of the project.
 - **Larry C. Kennedy Elementary School** - Julia Tisdale(Teacher) - Provided the tools and consumables required for two experiments: Earthquake simulation studies(building structures that can withstand a simulated earthquake) and Strawberry DNA Extraction Experiment
 - **Gangplank HQ** - Administered and mentored two First Lego League robotics teams and had Intel host their Meego Development event on one of our public nights.
 - **Urban Stew** - Various electronics workshops at the MadCap Theatre in Tempe and a First Friday event in downtown Phoenix where we had a table available teaching people to make miniature simplistic robots.
