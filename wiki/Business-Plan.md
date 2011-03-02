@@ -252,7 +252,7 @@ What makes us different from all these is our focus on infrastructure. It has be
 
 ### Entrepreneurs
 
-TechCrunch and other online sites have fetishized the startup lifestyle and it will be important to capitalize on this, tech stars, students and student groups.
+TechCrunch and other online sites have fetishized the startup lifestyle and it will be important to capitalize on this, organizations like tech stars, students and student groups. Participating in and speaking on panels for events like ASU's Global Entrepreneur Week will advertise us as the obvious place to go when first developing product prototypes and looking for partners on a startup team..
 
 ### Students and Hobbyists
 
