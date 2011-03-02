@@ -266,9 +266,9 @@ Student groups will be another excellent way of reaching the correct demographic
 
 ### Artists
 
-Find these people through the local groups. First friday, Urban Stew, colleges. Art stores. Photography competitions, showings, free nights for groups to use tools.
+Find these people throughout the local groups spread across the valley. Events like First Friday in downtown phoenix are teaming with artists. From what we've gathered talking to artists at these events what they are mainly looking for is space to work in. Organizations like Urban Stew pair art and technology for public art shows. Targeting students on the campuses can draw in artists. Pairing with vendors and local art stores for discounts can help those establishments and be incentive to join our community. We can pull in artists with photography competitions, showings/galleries, and free nights for groups to use tools.
 
-Also want to target craft/diy communities. Geek Girls are a huge group of girls doing interesting work in the valley.
+We want to also target the craft/DIY communities. Groups like PHY DIY and Geek Girls have huge groups of crafters doing interesting work in the valley.
 
 ### Professionals (Engineers)
 
