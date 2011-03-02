@@ -13,3 +13,5 @@
 Whiteboard photo of Scanning Electron Microscope project planning.
 
 Just brainstorming -- in the sketch, purple is status as of 3/2/2011, blue and green are welding needs, and orange is post-welding.
+
+For a better resolution, see [:File:SEM sketch, brainstorming (large).jpg](files/SEM_sketch,_brainstorming_(large).jpg)
