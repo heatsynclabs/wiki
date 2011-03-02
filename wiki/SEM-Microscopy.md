@@ -96,10 +96,22 @@ Paul has contacted a TIG welder at MCC who has previous experience with vacuum c
 
 ## Next Steps
 
-- Fix the vacuum hose fitting which broke off and attempt to get a better vacuum
-- Build permanent circuit and enclosure for driving the gauge heater to 20mA.
-- Provide a digital readout of the thermocouple voltage as well as output the data onto a digital interface line for future incorporation.
-- Weld on the QF/KF flanges and mount the B-A gauge
+- Achieving a good vacuum
+  - Fix the vacuum hose fitting which broke off and attempt to get a better vacuum
+    - Current strategy: replace with welded KF flanges, a KF-Hose adapter, and a new red gum-rubber hose
+  - Build permanent circuit and enclosure for driving the gauge heater to 20mA.
+  - Provide a digital readout of the thermocouple voltage as well as output the data onto a digital interface line for future incorporation.
+  - Weld on the QF/KF flanges and mount the B-A gauge
+    - If possible to weld on round surface, weld a 2-4 inch ISO or ANSI mount for oil diffusion pump to increase vacuum? Also consider adding a KF mount on top for detector feed-through to avoid RF noise.
+    - Ask welder if welding on lid will cause warping. Discuss optimal KF mounting technique (seat KF mount in machined pit, so weld is not stressed during vacuum?)
+- Getting power/data into the chamber
+  - Develop and test KF feed-throughs that can support up to 20KV (estimated \>2cm of insulation to avoid arcing -- vacuum-capable epoxy that doesn't outgas? Corey's idea?)
+  - Advise welder on optimal placement of feed-throughs to avoid electrical problems (voltage differences, electrical noise, insulation \[plastic is not allowed inside chamber\])
+- Obtain scanning electron data
+  - Deflector control
+  - Detector, detector shielding
+- Translating electron data into images
+  - Magic?
 
 ## Cost Breakdown
 
