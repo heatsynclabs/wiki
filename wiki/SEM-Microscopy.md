@@ -1,3 +1,7 @@
+![](files/SEM_sketch,_brainstorming.jpg)
+
+*Just brainstorming -- in the sketch, purple is status as of 3/2/2011, blue and green are welding needs, and orange is post-welding.*
+
 ![](files/560px-Schema_MEB_(en).svg.png)
 
 *X-ray detector might come after everything else ;)*
