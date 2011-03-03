@@ -54,6 +54,11 @@ You will need:
     - Easier to work with
     - <http://www.instructables.com/id/Stop-using-Ferric-Chloride-etchant!--A-better-etc/>
     - <http://members.optusnet.com.au/~eseychell/PCB/etching_CuCl/index.html>
+  - vinegar, peroxide (H2O2, table salt (NaCl)
+    - Inexpensive
+    - Much less toxic
+    - Easier cleanup
+    - <http://www.stephenhobley.com/blog/2011/03/02/still-messing-with-forces-i-dont-understand-the-formula/>
 - non-metal container(s) and/or bubble tank larger than your board
   - <http://www.instructables.com/id/Build-your-own-PCB-bubble-tank!/>
 - protective gloves
@@ -62,8 +67,7 @@ You will need:
   - only use for thinner boards (0.032-)
   - abuses blade
 
-1.  30 minutes prior to transfer, turn on laminator.
-    - Use thickest setting for highest heat.
+30 minutes prior to transfer, turn on laminator. Use thickest setting for highest heat.
 
 ### Print
 
