@@ -86,7 +86,7 @@ Lastly, we provide access to the tools of creation. We provide application IN AD
 
 **Qualifications:** Will Bradley has demonstrated years of experience in the IT Industry as evidenced by his current position where he designed, implemented, and manages a 15 site, 25 server, 100 client network for a local residential company. Will also offers a background in software programming which he displays passionately through his work improving his skills day by day writing in languages like: XHTML/CSS, Javascript, C#, Java, PHP, and Ruby on Rails. All of which he hopes to bring to HeatSync Labs in support of its technological infrastructure.
 
-**Duties:** Responsible for maintaining the HSL server. Also will gain additional responsibilities once a physical space is obtained.
+**Duties:** Responsible for maintaining HeatSync information technology resources from wifi to laptops to websites and servers.
 
 ## Partners, Community Partners
 
