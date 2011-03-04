@@ -399,3 +399,5 @@ As we've previously shown, our Membership, Donations and Fundraising fully suppo
 - General Dynamics
 - Lockheed Martin
 - Boeing
+
+Many of those companies already have employees that frequent our space.
