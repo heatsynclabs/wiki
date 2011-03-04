@@ -72,7 +72,7 @@ Lastly, we provide access to the tools of creation. We provide application IN AD
 
 ### Joyce Tang - Marketing Director
 
-**Qualifications:** Insert Qualifications Here!!!
+**Qualifications:** Joyce Tang is a computer science and systems engineering student who is looking to transition into a marketing position pending my graduation in May 2011. My qualifications include working as a Technical Rep. for Microsoft Student Partners on campus 2007-2008 and 2009-2010. During this time I organized popular on-campus events, campaigned extensively with student organizations to deploy technical marketing, and encouraged students to discuss the idea of technology on social networks such as Facebook and Twitter.
 
 **Duties:** Responsible for press releases, endeavors in social media, and promotion of HSL in general.
 
