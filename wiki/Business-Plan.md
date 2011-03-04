@@ -294,11 +294,11 @@ All those not lumped into the above categories we end up pulling in from walk by
 
 # Plan of Action
 
-We have outgrown our current home at Gangplank and as such have created a committee to begin searching for new space in the Phoenix Metro region. This move has the possibility of being very stressful to the organization so it has been decided that we would approach the cities themselves looking for a longterm partner to make sure this next move would be the one that puts either in our final home, or one clear step away from it.
+We have outgrown our current home at Gangplank and as such have created a committee to begin searching for new space in the Phoenix Metro region. This move has the possibility of being very stressful to the organization so it has been decided that we would approach the cities themselves looking for a longterm partner to make sure this next move would be the one that puts us either in our final home, or one clear step away from it.
 
 The attributes necessary to make HeatSync successful include access to transportation, centrality, vitality and finally the proper mix of industrial and 'retail' space.
 
-Transportation: The current goal is to align ourselves around the north 202, 101, 60 and or the light rail project. This should allow easy access for the entire valley.
+The current goal is to align ourselves around the north 202, 101, 60 and or the light rail project. This should allow easy access for the entire valley.
 
 In our current location we fill up about 1000+ sq./ft., though we utilize project rooms and the main room for presentations and meetings so we're used to having access to more than 5000+ sq./ft.
 
@@ -312,19 +312,28 @@ Current projections require 500+ sq./ft. to safely house our workshop with our c
 
 With our members contributing an average of \$50 a month, at 20 members, we're grossing ~1k a month. We are currently basing our leasing ability by these numbers as they are our most reliable recurring source of income. Our other forms of income are detailed in the Financial section further down.
 
-This space will allow XX type of activity(meetings, presentations, rock shows?)
+Our goal is for this space to allow for the following types of activity:
+
+- Meetings
+- Presentations
+- Workshops
+- Periodic Events/Celebrations
 
 Our public meetings have presentations that bring in 30 people on average so we would also require a space that can accommodate them.
 
-Current estimates of cost at XX amount of sq ft come to ~\$2k a month with utilities.
+Current estimates of cost at around 1500 sq ft come to ~\$2k a month with utilities.
 
-At that rate we're clearly projecting a shortfall of \$6000 over 6 months, worst case (no growth). Stagnant growth seems unlikely however. Based on current growth rates we expect to be able to cover this shortfall (40 members averaging \$50 a month) to clear
+At that rate we're clearly projecting a shortfall of \$6000 over 6 months(this would be worst case with no growth). Stagnant growth seems unlikely however. Based on current growth rates we expect to be able to cover this shortfall (40 members averaging \$50 a month).
 
-This is why we are shooting for a space that can house at least 40-50 members, allowing us to grow out of the next space within a year into a more final location (75-100 members) which it is expected we may max out at based on research (community intimacy issues, space and safety constraints)
+This is why we are shooting for a space that can house at least 40-50 members, allowing us to grow out of the next space within a year into a more final location (75-100 members) which it is expected we may max out at based on research (community intimacy issues, space and safety constraints).
 
-Current actions are being taken to raise that money prior to move to ensure stability. We have done previous work with donations to raise larger sums, but we again want to find consistent realistic sources of revenue. Worst case scenario that type of campaign lets us run the final 6 months of our lease and allows us reevaluate our strategies.
+Current actions are being taken to raise that money prior to the move to ensure stability. We have done previous work with donations to raise larger sums, but we again want to find consistent realistic sources of revenue. Worst case scenario that type of campaign lets us run the final 6 months of our lease and allows us reevaluate our strategies.
 
-Other revenue sources: Donations-last case scenario is a push to fund the space, our goals are to keep donations funding the TOOLS, PROJECTS, and PEOPLE. Workshops - We've seen workshops generate XXX Sales - Most recently we've also begun selling more directed tools, accessories and kits based on our workshop series. We've seen sales of XXXX
+Last case scenario is a push to fund the space with donations, our goals are to keep donations funding the TOOLS, PROJECTS, and PEOPLE.
+
+Workshops - We've seen workshops generate XXX
+
+Sales - Most recently we've also begun selling more directed tools, accessories and kits based on our workshop series. We've seen sales of XXXX
 
 These all pad that 6k shortfall to nearly nothing.
 
