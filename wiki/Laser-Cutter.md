@@ -141,6 +141,8 @@ Chinese lasers are often found on ebay shipped for as low as ~\$1500. I'm findin
 
 However, there are some companies in the US who have begun importing and supporting lasers
 
+Rabbit Laser Mexico www.rabbitlaser.com.mx resseler in Mexico.
+
 ### Rabbit Laser Cutters USA
 
 This guy is reselling \[Rabbit Laser cutters <http://www.hxlaser.com/>\] which might be worth investigating. They participate on the Techzone CNC forums and I can only find posts with people recommending them. They claim to test and support each unit. All their machines include a Dell PC for operation Apparently they, along with most chinese lasers, ship with Lasercut 5.3, which is produced by Leetro <http://www.leetro.com/english/sale/23.html> Seems like most people are using Corel along with Lasercut 5.3. Sadly it looks to be windows only
