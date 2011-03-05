@@ -141,7 +141,9 @@ Chinese lasers are often found on ebay shipped for as low as ~\$1500. I'm findin
 
 However, there are some companies in the US who have begun importing and supporting lasers
 
-**===Rabbit Laser Mexico===** <http://www.rabbitlaser.com.mx/> resseler in Mexico. They sell the next models.. HX-40B HX-3040 HX-4060SE HX-6090SE HX-1290SE They participate on the Techzone CNC forums and I can only find posts with people recommending them. They claim to test and support each unit.All their machines include a Dell PC for operation.
+## **===Rabbit Laser Mexico===**
+
+<http://www.rabbitlaser.com.mx/> resseler in Mexico. They sell the next models.. HX-40B HX-3040 HX-4060SE HX-6090SE HX-1290SE They participate on the Techzone CNC forums and I can only find posts with people recommending them. They claim to test and support each unit.All their machines include a Dell PC for operation.
 
 ### Rabbit Laser Cutters USA
 
