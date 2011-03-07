@@ -22,13 +22,11 @@ Students and hobbyists want to be a part of something big. They want to bump int
 
 Artists' biggest requests so far have been studio space. Further cross discipline connections and resources can also help in trying new avenues of expression.
 
-Professional engineers are hungry for this, too. They need space outside of their companies to grow and work as innovations made inside their company can lead to problematic IP rights. They also need a place to bring their kids and family to interest them in science and technology education. Electrical design and simulation equipment, however, are pricey and can be difficult to locate.
+Professional engineers are hungry for this, too. They need space outside of their companies to grow and work as innovations made inside their company can lead to problematic IP rights. They also need a place to bring their kids and family to interest them in science and technology education. The Mechanical Engineers we've met, on both the wood and metal side, have found many of their tools fairly commoditized. However, more and more they yearn for community. The garage is a lonely place to innovate.
 
-The Mechanical Engineers we've met, on both the wood and metal side, have found many of their tools fairly commoditized. However, more and more they yearn for community. The garage is a lonely place to innovate.
+Kids are really important to HeatSync Labs, too. We need to stop hiding the tools of creation from them. They need to grow up in a world around tools and the creators in the community so they understand that these these options are available to them and so they can begin building their knowledge network early.
 
-Kids! - We need to stop hiding the tools of creation from them. They need to grow up in worlds, around tools and the creators in the community, so they understand that these things are available to them and can begin building their knowledge network early.
-
-Thats not all the groups we target! Photographers, Scientists, the curious and motivated! - We get away with this vagary because of our non profit status. We want to target anyone interested! We want to challenge passers by into walking in and we want to put a tool in their hand. It is time to return to the tools of creation to our people!
+Thats not all the groups we target, however. Photographers, Scientists, the curious and motivated are all important! We want to challenge any passerby into walking in and we want to put a tool in their hand. It is time to return to the tools of creation to our people!
 
 ## Our Product
 
@@ -44,8 +42,6 @@ Lastly, we provide access to the tools of creation. We provide application IN AD
 
 ## Principals (The Team)
 
-- List the Board Members and Their Experience Levels - This was included and can be updated for our f1023
-
 ### Jeremy Leung - Champion
 
 **Qualifications:** A self-proclaimed jack of all trades stemming from his interest in any thing he can get his hands on, Jeremy Leung is a maker. Whether that involves music, art, inventions, code, written work, or a mixture of all of the above, you'll find him dabbling in it. His current passion lies in teaching and the intricacies of communication -- how to properly convey ideas and concepts through the available means. This has led him to a slight career change with his long-term employer, from Senior Systems Administrator to developing training programs for Technicians, System’s Administrators and Engineers. He brings his passion for learning and teaching to HeatSync Labs; striving to push the organization forward as a “third place” where people can fill in the gaps of learning that our traditional education system often cannot provide.
@@ -54,9 +50,9 @@ Lastly, we provide access to the tools of creation. We provide application IN AD
 
 ### Jacob Rosenthal - Champion
 
-**Qualifications:** Jacob’s background is in project management which he utilizes in his current position as Application Systems Analyst for Arizona State University and as an Undergraduate student with ASU’s Cognitive Center for Ubiquitous Computing (CUbiC). His work with the CUbiC lab recently resulted in a paper accepted to the IEEE HAVE 2009 conference and this fall he was asked to return to CUbiC to mentor two newly formed Capstone teams as they begin their two-semester projects. Jacob endeavors to surround himself with brilliant people and as such is an active member of the ASU Linux User’s Group, the ASU Software Developers Associations, and the IEEE Phoenix Chapter.
+**Qualifications:** Jacob is a freelance embedded developer and engineer for hire. As a research assistant with ASU’s Cognitive Center for Ubiquitous Computing (CUbiC) his work was accepted to the IEEE HAVE 2009 conference and more recently he was published in the 2011 issue of IEEE Transactions on Haptics. Jacob endeavors to surround himself with brilliant people and as such is an active member of the ASU Linux User’s Group, the ASU Software Developers Associations, and the IEEE Phoenix Chapter.
 
-**Duties:** Responsible for coordinating between the different board members. Helps maintain the primary goal of the organization (the mission statement). Also helps to support all members with various tasks and is responsible for public and board meeting agendas.
+**Duties:** Jacob is the feet on the ground of the organization. He sets the vision, brings order to chaos, and manages the day to day of the lab. Call it Director of Operations -- or HeatSync Dad if you like.
 
 ### Andrea Young - Secretary
 
@@ -90,14 +86,14 @@ Lastly, we provide access to the tools of creation. We provide application IN AD
 
 ## Partners, Community Partners
 
-Who do we partner with for activities?:
+Community partnership is very important to HeatSync. Our goal isn't to obtain and duplicate everything around us, but rather to connect our users with existing resources.
 
-- **ASU's Cubic Lab** - Haptic Sensors Project - Provided an off site lab for further development of the project.
-- **Larry C. Kennedy Elementary School** - Julia Tisdale(Teacher) - Provided the tools and consumables required for two experiments: Earthquake simulation studies(building structures that can withstand a simulated earthquake) and Strawberry DNA Extraction Experiment
-- **Gangplank HQ** - Administered and mentored two First Lego League robotics teams and had Intel host their Meego Development event on one of our public nights.
-- **Urban Stew** - Various electronics workshops at the MadCap Theatre in Tempe and a First Friday event in downtown Phoenix where we had a table available teaching people to make miniature simplistic robots.
-- **O'Reilly Press** - Working to host a Maker Faire event in the Phoenix Area
-- **Global Hacker Spaces** - Working to create templates and tips to aid people in creating hacker spaces in their locations. Collaborating with teams around the world to get the best minds working on solutions for projects.
+- **ASU's CUbiC Lab** - Have strong ties to ASU in general, and the CUbiC in specific. We share a love for accessibility and ubiquitous computing and are currently looking into grant opportunities.
+- **Larry C. Kennedy Elementary School** - We've begun partnering with schools as well. In early 2011 we began working with Julia Tisdale, a science teacher, who reached out requesting donations of money tools and consumables required for class experiments. So far we have assisted on an earthquake simulation study where kids build structures that can withstand a simulated earthquake, and a strawberry DNA extraction experiment where kids learned to extract DNA!
+- **Gangplank HQ** - We partnered with Gangplank beginning in 2010 and grew along with them. We're most proud of our mentoring partnership for the 2010 FIRST Lego League robotics competition and our partnership on the Intel Meego Development event.
+- **Urban Stew** - Urban Stew is a nonprofit which explores synergies between art, technology, and culture. We have now partnered for various electronics workshops hosted by MadCap Theatre in Tempe and a First Friday event in downtown Phoenix where we partnered to teach basic electronics and robotics.
+- **O'Reilly Press** - The O'Rielly group has long worked within the maker community with their Make and Craft publications and their MakerFaire national conference/science fair. We've got strong ties to their group and we are now working to host a Maker Faire event in the Phoenix Area.
+- **Global Hacker Spaces** - The hackerspace movement is a global phenomenon and as such we have partners throughout the United States, and the world. We're working to create a nonprofit umbrella organization to aid people around the world in creating hacker spaces in their locations. Collaborating with teams around the world allows us to find the best minds to work on solutions for projects.
 
 ## Current Business Accomplishments
 
