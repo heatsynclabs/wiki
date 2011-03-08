@@ -105,30 +105,20 @@ Most recently we had been asked to create a workshop series on soldering and pro
 
 ### Public Meetings
 
-We have hosted over 24 free public educational events this year. Every 1st and 3rd Thursday we invite in a speaker to invigorate us, and them. From materials, to tools, to processes we want to empower our people with the knowledge they need to succeed. Topics have included:
+We have hosted over 24 free public educational events this year. Every 1st and 3rd Thursday we invite in a speaker to invigorate both our audience and usually the speaker! From materials, to tools, to processes we want to empower our people with the knowledge they need to succeed. Topics have included:
 
-- Astronomy
+- PaperCraft
+- Glass Working
+- Working with Acrylic
+- Thermoforming plastics
+- Lathing metals
+- CAD/CAM Introduction
+- 3D prototyping and fabrication
 - PCB Layout and Design with Eagle Cad
 - PCB Chemical Etching, Heat Transfer, with FeCl
-- Haptic Interfaces
-- Lock Picking
-- Cube.ly 3D printer Design
-- PaperCraft
-- Thermoforming
-- Near Space Project Balloon - Idaho Communications Payload
+- Near Space Project Ballooning
 - High Speed Photography
-- Haystack Project - Internet Search Anonymity Project
-- Working with Acrylic
-- Glass Working
-- Rep Rap Made Easy - Open Source 3D Printer Design
-- Tear Down Party(everyone brings a piece of electronics to tear down for parts in order to understand the underlying components)
-- Lathing for fun and profit
-- Electroluminescent Wire
-- Monster Plush Party (Disassembling plush dolls and sewing them back together with electronics - Recycling Old Toys)
-- Coffee Science and Arduino
-- Arduino and VOIP - Dial-a-Lulz
-- CAD/CAM Introduction
-- Home Brewing
+- Monster Plush Party - Recycling old toys by sewing them together with electronics
 
 ### Weekly Events
 
