@@ -1,6 +1,6 @@
 "Non-profit, as well as government agency business plans tend to focus on the "organizational mission" which is the basis for their governmental status or their non-profit, tax-exempt status, respectively." - Wikipedia
 
-# Idea
+# Executive Summary
 
 HeatSync Labs provides a collaborative workspace where engineers, entrepreneurs, students and tinkerers come together to imagine and build tomorrow’s innovations.
 
@@ -10,9 +10,9 @@ We encourage hands-on development of exciting new creations, we host talks, work
 
 Our vision is a world where we re-awaken our population and reinstate the knowledge of creation in opposition to our throw-away society. We aim to empower our population, delivering the confidence and skills to compete in a globalized economy.
 
-# Overview and Plan Objectives
+# Industry Overview (industry sector,trends,major players,overall industry sales,our place)
 
-## Market Analysis
+# Market Analysis(target market)
 
 We define our 'market' rather broadly as our mission is nonprofit and educational in nature. In short we want to collect entrepreneurs, creatives, professionals, hobbysits and students together under one roof. Age, gender, ethnicity, etc are of no importance to us.
 
@@ -38,7 +38,106 @@ Secondly we push people to get involved. There are no wallflowers at HeatSync La
 
 Lastly, we provide access to the tools of creation. We provide application IN ADDITION to theory. Truly the best way to learn is by doing.
 
-# Experience and Capabilities
+# Competitive Analysis(analyze direct and indirect competitors
+
+We are part of a larger maker/do-it-yourself culture exemplified by Make Magazine. There are spaces popping up throughout the United States, and globally, all with different visions and goals, but all listing themselves at hackerspaces.org. Nothing is new in the world, though. We're most like a traditional academic incubator model mixed with the newer coworking model. These spaces target entrepreneurs and skilled tradespeople who don't wish to work in an office alone but would rather work side by side with the other brightest minds in the community. Locally we are most like our peer co-working/collaboration sister and landlord, Gangplank. Gangplank, much like us, intends to revolutionize education, community, and collaboration. Hardware and access to tools is on their agenda, but only superficially.
+
+### Universities and Tech Schools
+
+High schools are pulling out of access to the tools of creation because of safety, budget cuts, etc. Colleges continue to be silos. Inter-departmental bickering and inability to communicate leads to an institution with all the tools present which are necessary to succeed, yet frustratingly kept at arms length. They build large buildings off campus offering offices and even more closed off spaces. All offer course ware focused on electrical/mechanical engineering and arts, however, cost thousands of dollars and several years to gain access to equipment and get the applied learning. With the amount of people in these programs it is often the case that even if you are in the program at the institution you have to wait in a very long queue of peers to gain access to equipment. Access may be granted past project deadlines and alternatives are needed. Local titans include ASU, U of A, MCC and EVIT.
+
+### Incubators/Accelerators
+
+Incubators benefit in being able to direct entrepreneurs down the path of starting their own business as well as helping them find the investors needed to kickstart their ideas. However, putting on tech talks and having free food doesn't build a community, it simply attracts an audience that prefers to be fed--literally and metaphorically. On top of that most incubators end up being extensions of the silos that universities are already creating with separation between different disciplines. More recently Accelerators have become vogue. They tend to take the 'academic' out of 'incubator'. The players here locally include Skysong's Hackspace, Innovations Chandler, and recently AZ Disruptors. Nationally Techstars and 500 Startups have made a name for themselves.
+
+### Co-Working/Collaboration
+
+Co-working locations tend to provide collaborative spaces where startups and individuals can save on office space costs by sharing. Many offer an area for the general public to work creating a community of like minded individuals or partners for projects and business. Many locations currently focus on computer programming, design, or marketing companies that only require desk space. Recently the line between co-working, incubators and accelerators are blurring. Local spaces that self-identify in this area include Gangplank and Co-Hoots.
+
+What makes us different from all these is our focus on infrastructure. Even our schools are pulling out of this area in frustration. It has become very vogue to open a space, provide wifi and try to build community around bring-your-own-computer concepts. These purposely dodge the challenges of infrastructure where we refuse to back down. The infrastructure is indeed the hard part, but it is also the difference. The infrastructure safety, training, liability, skills and experience are the key to bringing creation back to our throw away society.
+
+# Marketing Plan(sales strategy, pricing, advertising, and promotion)
+
+As we're a nonprofit we get to be fairly broad in who we target. We're looking to find the curious and motivated, be it by word of mouth, walk by traffic, press, advertising or social networking via twitter, linked in, or facebook.
+
+### Entrepreneurs
+
+TechCrunch and other online sites have fetishized the startup lifestyle and it will be important to capitalize on this with students, hobbyists and entrepreneurs. Participating in and speaking on panels for events like ASU's Global Entrepreneur Week and at the Arizona Tech Council will advertise us as the obvious place to go when first developing product prototypes and looking for partners on a startup team.
+
+### Students and Hobbyists
+
+On campuses, technical students are becoming more and more disenfranchised with the opportunities and equipment available to them in academia. There was a day many years ago where the only place you could find a 'computer' was in academia, but that time has passed. There may be as many as 300,000 college and technical school students in the phoenix metro area, with only maybe 5% with arts/ design/technical backgrounds, leading to 15,000 possible customers. These customers are going to be more eager to get their hands on professional equipment, but also more sensitive to price. It will be important to stress the experience and connections membership in our elite organization can bring them, connections to local jobs and internships, as well as a start upon the career of an entrepreneur.
+
+Outreach to students should be done on campus. Poster advertising is free, and student ambassadors would be cheap to hire. Another method of reaching these users could be through speeches and presentations on campus. Student groups will be another excellent way of reaching the demographic. Linux Users Groups and on campus engineering fraternities and societies will be a valuable resource.
+
+Being ingrained in the Make culture is the big way to reach hobbyists. Make Magazine, blog.makezine.com, hackaday.com, and hackerspace advertising are the way to reach these part time inventors. Nuts and Volts, other?
+
+### Artists
+
+Find these people throughout the local groups spread across the valley. Events like First Friday in downtown phoenix are teaming with artists. From what we've gathered talking to artists at these events what they are mainly looking for is space to work in. Organizations like Urban Stew pair art and technology for public art shows. Targeting students on the campuses can draw in artists. Pairing with vendors and local art stores for discounts can help those establishments and be incentive to join our community. We can pull in artists with photography competitions, showings/galleries, and free nights for groups to use tools.
+
+We want to also target the craft/DIY communities. Groups like PHY DIY and Geek Girls have huge groups of crafters doing interesting work in the valley.
+
+### Professionals (Engineers)
+
+These members are professionals well into their careers and should have some income to be invested in their future. We will want to sell them on setting out to pursue their dream rather than staying at a job they may be dissatisfied with. Another interesting concept to be exploited is that engineers who use their companies equipment may find themselves mired in IP rights issues. The way to reach these users will be through their professional society and through professional publications. Electrical engineers utilize resources such as IEEE publications, Circuit Cellar, Nuts and Volts, Wired and possibly Linux publications and the IEEE Phoenix membership is 3,600 members strong. Mechanical engineers have local users groups throughout the valley already. Groups like Valley Metal and XXX bring together hobbyist mechanical engineers to
+
+Another good avenue will be trade shows and strategic partnerships. It may be possible to work with the big electronics vendors including Jameco, Digikey, and Newark to cross promote by being a local presence for these online companies.
+
+### Scientists and Academics
+
+### Kids
+
+Our public schools need help! Schools can't afford to fund many experiments and projects that would help solidify learned concepts at a younger age. It is often left up to teachers and parents to fund these things. By working with the teachers and parents in the community we have been able to supply their kids with the tools and consumables needed to complete these projects. Through programs like Lego League and the electronics/mechanical workshops we host we can start to groom the next generation inventors/engineers/artists.
+
+# Development plan (Execution of Marketing Strategy) (plan of action?)
+
+We have outgrown our current home at Gangplank and as such have created a committee to begin searching for new space in the Phoenix Metro region. This move has the possibility of being very stressful to the organization so it has been decided that we would approach the cities themselves looking for a longterm partner to make sure this next move would be the one that puts us either in our final home, or one clear step away from it.
+
+The attributes necessary to make HeatSync successful include access to transportation, centrality, vitality and finally the proper mix of industrial and 'retail' space.
+
+The current goal is to align ourselves around the north 202, 101, 60 and or the light rail project. This should allow easy access for the entire valley.
+
+In our current location we fill up about 1000+ sq./ft., though we utilize project rooms and the main room for presentations and meetings so we're used to having access to more than 5000+ sq./ft.
+
+Current projections require 500+ sq./ft. to safely house our workshop with our current equipment and our newest addition of a laser cutter. Further we intend to grow over the next year or two adding another 500+sq.ft of space for tools including:
+
+- Shopbot (Wood Working Computerized 2D Cutter)
+- Plasma Cutter(Metal Working Computerized 2D Cutter)
+- CNC Milling Machine(Metal Working Computerized 3D Cutter)
+- Injection Molding
+- Industrial Sewing
+
+With our members contributing an average of \$50 a month, at 20 members, we're grossing ~1k a month. We are currently basing our leasing ability by these numbers as they are our most reliable recurring source of income. Our other forms of income are detailed in the Financial section further down.
+
+Our goal is for this space to allow for the following types of activity:
+
+- Meetings
+- Presentations
+- Workshops
+- Periodic Events/Celebrations
+
+Our public meetings have presentations that bring in 30 people on average so we would also require a space that can accommodate them.
+
+Current estimates of cost at around 1500 sq ft come to ~\$2k a month with utilities.
+
+At that rate we're clearly projecting a shortfall of \$6000 over 6 months(this would be worst case with no growth). Stagnant growth seems unlikely however. Based on current growth rates we expect to be able to cover this shortfall (40 members averaging \$50 a month).
+
+This is why we are shooting for a space that can house at least 40-50 members, allowing us to grow out of the next space within a year into a more final location (75-100 members) which it is expected we may max out at based on research (community intimacy issues, space and safety constraints).
+
+Current actions are being taken to raise that money prior to the move to ensure stability. We have done previous work with donations to raise larger sums, but we again want to find consistent realistic sources of revenue. Worst case scenario that type of campaign lets us run the final 6 months of our lease and allows us reevaluate our strategies.
+
+Last case scenario is a push to fund the space with donations, our goals are to keep donations funding the TOOLS, PROJECTS, and PEOPLE.
+
+Workshops - We've seen workshops generate XXX
+
+Sales - Most recently we've also begun selling more directed tools, accessories and kits based on our workshop series. We've seen sales of XXXX
+
+These all pad that 6k shortfall to nearly nothing.
+
+Further, a new space opens up new funding options. For instance, there are further membership tiers to be considered based on amount of space that becomes available. Ideas include renting benches and 'studio' space to artists, continuing to host fundraising nightlife events.
+
+# Management Plan
 
 ## Principals (The Team)
 
@@ -191,118 +290,11 @@ It won't be surprising to know that the majority of our assets include our tools
 
 - Mechanical Engraver
 
-# Marketing Plan and Forecast
-
-## Competitive Analysis
-
-We are part of a larger maker/do-it-yourself culture exemplified by Make Magazine. There are spaces popping up throughout the United States, and globally, all with different visions and goals, but all listing themselves at hackerspaces.org. Nothing is new in the world, though. We're most like a traditional academic incubator model mixed with the newer coworking model. These spaces target entrepreneurs and skilled tradespeople who don't wish to work in an office alone but would rather work side by side with the other brightest minds in the community. Locally we are most like our peer co-working/collaboration sister and landlord, Gangplank. Gangplank, much like us, intends to revolutionize education, community, and collaboration. Hardware and access to tools is on their agenda, but only superficially.
-
-### Universities and Tech Schools
-
-High schools are pulling out of access to the tools of creation because of safety, budget cuts, etc. Colleges continue to be silos. Inter-departmental bickering and inability to communicate leads to an institution with all the tools present which are necessary to succeed, yet frustratingly kept at arms length. They build large buildings off campus offering offices and even more closed off spaces. All offer course ware focused on electrical/mechanical engineering and arts, however, cost thousands of dollars and several years to gain access to equipment and get the applied learning. With the amount of people in these programs it is often the case that even if you are in the program at the institution you have to wait in a very long queue of peers to gain access to equipment. Access may be granted past project deadlines and alternatives are needed. Local titans include ASU, U of A, MCC and EVIT.
-
-### Incubators/Accelerators
-
-Incubators benefit in being able to direct entrepreneurs down the path of starting their own business as well as helping them find the investors needed to kickstart their ideas. However, putting on tech talks and having free food doesn't build a community, it simply attracts an audience that prefers to be fed--literally and metaphorically. On top of that most incubators end up being extensions of the silos that universities are already creating with separation between different disciplines. More recently Accelerators have become vogue. They tend to take the 'academic' out of 'incubator'. The players here locally include Skysong's Hackspace, Innovations Chandler, and recently AZ Disruptors. Nationally Techstars and 500 Startups have made a name for themselves.
-
-### Co-Working/Collaboration
-
-Co-working locations tend to provide collaborative spaces where startups and individuals can save on office space costs by sharing. Many offer an area for the general public to work creating a community of like minded individuals or partners for projects and business. Many locations currently focus on computer programming, design, or marketing companies that only require desk space. Recently the line between co-working, incubators and accelerators are blurring. Local spaces that self-identify in this area include Gangplank and Co-Hoots.
-
-What makes us different from all these is our focus on infrastructure. Even our schools are pulling out of this area in frustration. It has become very vogue to open a space, provide wifi and try to build community around bring-your-own-computer concepts. These purposely dodge the challenges of infrastructure where we refuse to back down. The infrastructure is indeed the hard part, but it is also the difference. The infrastructure safety, training, liability, skills and experience are the key to bringing creation back to our throw away society.
-
-## Marketing Plan
-
-As we're a nonprofit we get to be fairly broad in who we target. We're looking to find the curious and motivated, be it by word of mouth, walk by traffic, press, advertising or social networking via twitter, linked in, or facebook.
-
-### Entrepreneurs
-
-TechCrunch and other online sites have fetishized the startup lifestyle and it will be important to capitalize on this with students, hobbyists and entrepreneurs. Participating in and speaking on panels for events like ASU's Global Entrepreneur Week and at the Arizona Tech Council will advertise us as the obvious place to go when first developing product prototypes and looking for partners on a startup team.
-
-### Students and Hobbyists
-
-On campuses, technical students are becoming more and more disenfranchised with the opportunities and equipment available to them in academia. There was a day many years ago where the only place you could find a 'computer' was in academia, but that time has passed. There may be as many as 300,000 college and technical school students in the phoenix metro area, with only maybe 5% with arts/ design/technical backgrounds, leading to 15,000 possible customers. These customers are going to be more eager to get their hands on professional equipment, but also more sensitive to price. It will be important to stress the experience and connections membership in our elite organization can bring them, connections to local jobs and internships, as well as a start upon the career of an entrepreneur.
-
-Outreach to students should be done on campus. Poster advertising is free, and student ambassadors would be cheap to hire. Another method of reaching these users could be through speeches and presentations on campus. Student groups will be another excellent way of reaching the demographic. Linux Users Groups and on campus engineering fraternities and societies will be a valuable resource.
-
-Being ingrained in the Make culture is the big way to reach hobbyists. Make Magazine, blog.makezine.com, hackaday.com, and hackerspace advertising are the way to reach these part time inventors. Nuts and Volts, other?
-
-### Artists
-
-Find these people throughout the local groups spread across the valley. Events like First Friday in downtown phoenix are teaming with artists. From what we've gathered talking to artists at these events what they are mainly looking for is space to work in. Organizations like Urban Stew pair art and technology for public art shows. Targeting students on the campuses can draw in artists. Pairing with vendors and local art stores for discounts can help those establishments and be incentive to join our community. We can pull in artists with photography competitions, showings/galleries, and free nights for groups to use tools.
-
-We want to also target the craft/DIY communities. Groups like PHY DIY and Geek Girls have huge groups of crafters doing interesting work in the valley.
-
-### Professionals (Engineers)
-
-These members are professionals well into their careers and should have some income to be invested in their future. We will want to sell them on setting out to pursue their dream rather than staying at a job they may be dissatisfied with. Another interesting concept to be exploited is that engineers who use their companies equipment may find themselves mired in IP rights issues. The way to reach these users will be through their professional society and through professional publications. Electrical engineers utilize resources such as IEEE publications, Circuit Cellar, Nuts and Volts, Wired and possibly Linux publications and the IEEE Phoenix membership is 3,600 members strong. Mechanical engineers have local users groups throughout the valley already. Groups like Valley Metal and XXX bring together hobbyist mechanical engineers to
-
-Another good avenue will be trade shows and strategic partnerships. It may be possible to work with the big electronics vendors including Jameco, Digikey, and Newark to cross promote by being a local presence for these online companies.
-
-### Scientists and Academics
-
-### Kids
-
-Our public schools need help! Schools can't afford to fund many experiments and projects that would help solidify learned concepts at a younger age. It is often left up to teachers and parents to fund these things. By working with the teachers and parents in the community we have been able to supply their kids with the tools and consumables needed to complete these projects. Through programs like Lego League and the electronics/mechanical workshops we host we can start to groom the next generation inventors/engineers/artists.
-
-# Development plan (Execution of Marketing Strategy)
-
-# Plan of Action
-
-We have outgrown our current home at Gangplank and as such have created a committee to begin searching for new space in the Phoenix Metro region. This move has the possibility of being very stressful to the organization so it has been decided that we would approach the cities themselves looking for a longterm partner to make sure this next move would be the one that puts us either in our final home, or one clear step away from it.
-
-The attributes necessary to make HeatSync successful include access to transportation, centrality, vitality and finally the proper mix of industrial and 'retail' space.
-
-The current goal is to align ourselves around the north 202, 101, 60 and or the light rail project. This should allow easy access for the entire valley.
-
-In our current location we fill up about 1000+ sq./ft., though we utilize project rooms and the main room for presentations and meetings so we're used to having access to more than 5000+ sq./ft.
-
-Current projections require 500+ sq./ft. to safely house our workshop with our current equipment and our newest addition of a laser cutter. Further we intend to grow over the next year or two adding another 500+sq.ft of space for tools including:
-
-- Shopbot (Wood Working Computerized 2D Cutter)
-- Plasma Cutter(Metal Working Computerized 2D Cutter)
-- CNC Milling Machine(Metal Working Computerized 3D Cutter)
-- Injection Molding
-- Industrial Sewing
-
-With our members contributing an average of \$50 a month, at 20 members, we're grossing ~1k a month. We are currently basing our leasing ability by these numbers as they are our most reliable recurring source of income. Our other forms of income are detailed in the Financial section further down.
-
-Our goal is for this space to allow for the following types of activity:
-
-- Meetings
-- Presentations
-- Workshops
-- Periodic Events/Celebrations
-
-Our public meetings have presentations that bring in 30 people on average so we would also require a space that can accommodate them.
-
-Current estimates of cost at around 1500 sq ft come to ~\$2k a month with utilities.
-
-At that rate we're clearly projecting a shortfall of \$6000 over 6 months(this would be worst case with no growth). Stagnant growth seems unlikely however. Based on current growth rates we expect to be able to cover this shortfall (40 members averaging \$50 a month).
-
-This is why we are shooting for a space that can house at least 40-50 members, allowing us to grow out of the next space within a year into a more final location (75-100 members) which it is expected we may max out at based on research (community intimacy issues, space and safety constraints).
-
-Current actions are being taken to raise that money prior to the move to ensure stability. We have done previous work with donations to raise larger sums, but we again want to find consistent realistic sources of revenue. Worst case scenario that type of campaign lets us run the final 6 months of our lease and allows us reevaluate our strategies.
-
-Last case scenario is a push to fund the space with donations, our goals are to keep donations funding the TOOLS, PROJECTS, and PEOPLE.
-
-Workshops - We've seen workshops generate XXX
-
-Sales - Most recently we've also begun selling more directed tools, accessories and kits based on our workshop series. We've seen sales of XXXX
-
-These all pad that 6k shortfall to nearly nothing.
-
-Further, a new space opens up new funding options. For instance, there are further membership tiers to be considered based on amount of space that becomes available. Ideas include renting benches and 'studio' space to artists, continuing to host fundraising nightlife events.
-
-# Financials
+# Financial Plan(funding requirements, financial statements, analysis)
 
 ## Membership
 
 A membership model has been the core of our support over our first year. This recurring income is the backbone of our financial support. It is our intention to utilize this stable income to pay all fixed costs.
-
-- **Associate Member** - \$25 per month, and you get your name on the list of members and access to the lab and shared equipment during the hours of operation.
-- **Basic Member** - \$50 per month, and you get the benefits of associate membership, plus 24/7 access to the lab, including a key to the building and security code. This also includes personal project space for a banker box (box provided by HeatSync Labs.)
-- **Plus Member** - \$75 per month, and you get all the benefits of basic membership, plus a locker in the lab!
 
 Metrics based on our current membership data include:
 
