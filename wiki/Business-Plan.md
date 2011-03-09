@@ -195,63 +195,37 @@ It won't be surprising to know that the majority of our assets include our tools
 
 ## Competitive Analysis
 
+We are part of a larger maker/do-it-yourself culture exemplified by Make Magazine. There are spaces popping up throughout the United States, and globally, all with different visions and goals, but all listing themselves at hackerspaces.org. Nothing is new in the world, though. We're most like a traditional academic incubator model mixed with the newer coworking model. These spaces target entrepreneurs and skilled tradespeople who don't wish to work in an office alone but would rather work side by side with the other brightest minds in the community. Locally we are most like our peer co-working/collaboration sister and landlord, Gangplank. Gangplank, much like us, intends to revolutionize education, community, and collaboration. Hardware and access to tools is on their agenda, but only superficially.
+
 ### Universities and Tech Schools
 
-- MCC
-- EVIT
-- ASU
-- U of A
+High schools are pulling out of access to the tools of creation because of safety, budget cuts, etc. Colleges continue to be silos. Inter-departmental bickering and inability to communicate leads to an institution with all the tools present which are necessary to succeed, yet frustratingly kept at arms length. They build large buildings off campus offering offices and even more closed off spaces. All offer course ware focused on electrical/mechanical engineering and arts, however, cost thousands of dollars and several years to gain access to equipment and get the applied learning. With the amount of people in these programs it is often the case that even if you are in the program at the institution you have to wait in a very long queue of peers to gain access to equipment. Access may be granted past project deadlines and alternatives are needed. Local titans include ASU, U of A, MCC and EVIT.
 
-High schools are pulling out of access to the tools of creation because of safety, budget cuts, etc.
+### Incubators/Accelerators
 
-Colleges continue to be silos. Inter-departmental bickering and inability to communicate leads to an institution with all the tools present which are necessary to succeed, yet frustratingly kept at arms length. They build large buildings off campus offering offices and even more closed off spaces.
-
-All offer course ware focused on electrical/mechanical engineering and arts, however, cost thousands of dollars and several years to gain access to equipment and get the applied learning. With the amount of people in these programs it is often the case that even if you are in the program at the institution you have to wait in a very long queue of peers to gain access to equipment. Access may be granted past project deadlines and alternatives are needed.
-
-### Incubators
-
-- Skysong's Hackspace
-- Techstars
-- 500 Startups
-- Innovations
-
-These companies benefit in being able to direct entrepreneurs down the path of starting their own business as well as helping them find the investors needed to kickstart their ideas. However, putting on tech talks and having free food doesn't build a community, it simply attracts an audience that prefers to be fed--literally and metaphorically. On top of that most incubators end up just being extensions of the silos that universities are already creating with separation between different disciplines.
+Incubators benefit in being able to direct entrepreneurs down the path of starting their own business as well as helping them find the investors needed to kickstart their ideas. However, putting on tech talks and having free food doesn't build a community, it simply attracts an audience that prefers to be fed--literally and metaphorically. On top of that most incubators end up being extensions of the silos that universities are already creating with separation between different disciplines. More recently Accelerators have become vogue. They tend to take the 'academic' out of 'incubator'. The players here locally include Skysong's Hackspace, Innovations Chandler, and recently AZ Disruptors. Nationally Techstars and 500 Startups have made a name for themselves.
 
 ### Co-Working/Collaboration
 
-- AZ Disruptors
-- Gangplank
-- Co-Hoots
+Co-working locations tend to provide collaborative spaces where startups and individuals can save on office space costs by sharing. Many offer an area for the general public to work creating a community of like minded individuals or partners for projects and business. Many locations currently focus on computer programming, design, or marketing companies that only require desk space. Recently the line between co-working, incubators and accelerators are blurring. Local spaces that self-identify in this area include Gangplank and Co-Hoots.
 
-These all provide collaborative spaces where startups can save on costs for space by sharing a location. Most offer an area for the general public to come in and do their work which allows people to find like minded individuals or partners for projects/business. These locations currently focus on software, design, or marketing companies that only require some space for their desktop/laptop and then they are good to go. While the above is something we would like to retain, none of these spaces, except for Gangplank as long as we are an anchor there, offer areas that provide the tools and space necessary for creating things in the physical world.
-
-### Hackerspaces
-
-It's a Global Phenomenon.
-
-We're most like a traditional academic incubator model mixed with the newer coworking model. Entreprenuers and skilled tradespeople who don't wish to work in an office alone but would rather work side by side with the other brightest minds in the community in order to build their workspace in public.
-
-More specifically, we are part of a larger maker/do-it-yourself culture exemplified by Make Magazine. There are spaces popping up throughout the United States, and globally, all with different visions and goals, but all listing themselves at hackerspaces.org.
-
-Locally we are most like our peer coworking/collaboration sister and landlord, Gangplank. Gangplank, much like us, intends to revolutionize education, community, and collaboration. Hardware and access to tools is on their agenda, but only superficially.
-
-What makes us different from all these is our focus on infrastructure. It has become very vogue to open a space, provide wifi and try to build community around Bring-Your-Own-Computer concepts. These purposely dodge the challenges of infrastructure. Even our schools are pulling out of this area in frustration. We refuse to back down. The infrastructure is indeed the hard part, but it is also the difference. The infrastructure, the safety, training, liability, skills and experience to make these things open to the public are the key to bringing creation back to our throw away society.
+What makes us different from all these is our focus on infrastructure. Even our schools are pulling out of this area in frustration. It has become very vogue to open a space, provide wifi and try to build community around bring-your-own-computer concepts. These purposely dodge the challenges of infrastructure where we refuse to back down. The infrastructure is indeed the hard part, but it is also the difference. The infrastructure safety, training, liability, skills and experience are the key to bringing creation back to our throw away society.
 
 ## Marketing Plan
 
+As we're a nonprofit we get to be fairly broad in who we target. We're looking to find the curious and motivated, be it by word of mouth, walk by traffic, press, advertising or social networking via twitter, linked in, or facebook.
+
 ### Entrepreneurs
 
-TechCrunch and other online sites have fetishized the startup lifestyle and it will be important to capitalize on this, organizations like tech stars, students and student groups. Participating in and speaking on panels for events like ASU's Global Entrepreneur Week will advertise us as the obvious place to go when first developing product prototypes and looking for partners on a startup team..
+TechCrunch and other online sites have fetishized the startup lifestyle and it will be important to capitalize on this with students, hobbyists and entrepreneurs. Participating in and speaking on panels for events like ASU's Global Entrepreneur Week and at the Arizona Tech Council will advertise us as the obvious place to go when first developing product prototypes and looking for partners on a startup team.
 
 ### Students and Hobbyists
 
-Being ingrained in the Make culture is the big way to reach these people. Make Magazine, blog.makezine.com, hackaday.com, and hackerspace advertising are the way to reach these grass roots entrepreneur types.
+On campuses, technical students are becoming more and more disenfranchised with the opportunities and equipment available to them in academia. There was a day many years ago where the only place you could find a 'computer' was in academia, but that time has passed. There may be as many as 300,000 college and technical school students in the phoenix metro area, with only maybe 5% with arts/ design/technical backgrounds, leading to 15,000 possible customers. These customers are going to be more eager to get their hands on professional equipment, but also more sensitive to price. It will be important to stress the experience and connections membership in our elite organization can bring them, connections to local jobs and internships, as well as a start upon the career of an entrepreneur.
 
-On campuses, Technical students are becoming more and more disenfranchised with the opportunities and equipment available to them in academia. There was a day many years ago where the only place you could find a 'computer' was in academia, but that time has passed. There may be as many as 300,000 college and technical school students in the phoenix metro area, with only maybe 5% with arts/ design/technical backgrounds, leading to 15,000 possible customers. These customers are going to be more eager to get their hands on professional equipment, but also more sensitive to price. It will be important to stress the experience and connections membership in our elite organization can bring them, connections to local jobs and internships, as well as a start upon the career of an entrepreneur.
+Outreach to students should be done on campus. Poster advertising is free, and student ambassadors would be cheap to hire. Another method of reaching these users could be through speeches and presentations on campus. Student groups will be another excellent way of reaching the demographic. Linux Users Groups and on campus engineering fraternities and societies will be a valuable resource.
 
-Outreach to students should be done on campus. Poster advertising is free, and student ambassadors would be cheap to hire. Another method of reaching these users could be through ad-vertainment in the form of speeches and presentations on campus.
-
-Student groups will be another excellent way of reaching the correct demographic. Groups including Linux Users Groups, On campus Engineering fraternities and societies, will be a valuable resource.
+Being ingrained in the Make culture is the big way to reach hobbyists. Make Magazine, blog.makezine.com, hackaday.com, and hackerspace advertising are the way to reach these part time inventors. Nuts and Volts, other?
 
 ### Artists
 
@@ -261,23 +235,15 @@ We want to also target the craft/DIY communities. Groups like PHY DIY and Geek G
 
 ### Professionals (Engineers)
 
-The IEEE Phoenix membership is 3,600 members. These members are professionals well into their careers and should have some income to be 'invested' in their future. We will want to sell them on setting out to peruse their dream rather than staying at the same job they may be dissatisfied with. Another interesting concept to be exploited is that engineers who use their companies equipment may find themselves mired in IP rights issues. The way to reach these users will be through their professional society and through professional publications including IEEE publications, Circuit Cellar, Nuts and Volts, Wired and possibly Linux publications.
+These members are professionals well into their careers and should have some income to be invested in their future. We will want to sell them on setting out to pursue their dream rather than staying at a job they may be dissatisfied with. Another interesting concept to be exploited is that engineers who use their companies equipment may find themselves mired in IP rights issues. The way to reach these users will be through their professional society and through professional publications. Electrical engineers utilize resources such as IEEE publications, Circuit Cellar, Nuts and Volts, Wired and possibly Linux publications and the IEEE Phoenix membership is 3,600 members strong. Mechanical engineers have local users groups throughout the valley already. Groups like Valley Metal and XXX bring together hobbyist mechanical engineers to
 
 Another good avenue will be trade shows and strategic partnerships. It may be possible to work with the big electronics vendors including Jameco, Digikey, and Newark to cross promote by being a local presence for these online companies.
 
-As for mechanicals these can be gotten to through local groups like Valley Metal and local wood workers.
-
-### Scientists
-
-?
+### Scientists and Academics
 
 ### Kids
 
 Our public schools need help! Schools can't afford to fund many experiments and projects that would help solidify learned concepts at a younger age. It is often left up to teachers and parents to fund these things. By working with the teachers and parents in the community we have been able to supply their kids with the tools and consumables needed to complete these projects. Through programs like Lego League and the electronics/mechanical workshops we host we can start to groom the next generation inventors/engineers/artists.
-
-### The Curious and Motivated!
-
-All those not lumped into the above categories we end up pulling in from walk by traffic, press, ads, word of mouth, and social networking (twitter, linked in, facebook).
 
 # Development plan (Execution of Marketing Strategy)
 
