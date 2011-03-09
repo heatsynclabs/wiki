@@ -310,12 +310,13 @@ It won't be surprising to know that the majority of our assets include our tools
 
 ### Metal
 
-- 7x10 Lathe
+- Sieg Mini Mill
+- 7x10 Mini Lathe
 - Taig Micro Lathe
-- CNC Lathe
+- CNC Mini Lathe
 - Drill Presses
 - Band Saw
-- Complete Mig welding setup
+- Mig welder
 
 ### Wood
 
