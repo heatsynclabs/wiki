@@ -54,6 +54,8 @@ Thats not all the groups we target, however. Photographers, Scientists, the curi
 
 # Marketing Plan(sales strategy, pricing, advertising, and promotion)
 
+We're looking to find the curious and motivated, be it by word of mouth, walk by traffic, press, advertising or social networking via twitter, linked in, or facebook.
+
 - **Associate Member** - \$25 per month, and you get your name on the list of members and access to the lab and shared equipment during the hours of operation.
 - **Basic Member** - \$50 per month, and you get the benefits of associate membership, plus 24/7 access to the lab, including a key to the building and security code. This also includes personal project space for a banker box (box provided by HeatSync Labs.)
 - **Plus Member** - \$75 per month, and you get all the benefits of basic membership, plus a locker in the lab!
@@ -64,29 +66,23 @@ TechCrunch and other online sites have fetishized the startup lifestyle and it w
 
 ### Students and Hobbyists
 
-On campuses, technical students are becoming more and more disenfranchised with the opportunities and equipment available to them in academia. There was a day many years ago where the only place you could find a 'computer' was in academia, but that time has passed. There may be as many as 300,000 college and technical school students in the phoenix metro area, with only maybe 5% with arts/ design/technical backgrounds, leading to 15,000 possible customers. These customers are going to be more eager to get their hands on professional equipment, but also more sensitive to price. It will be important to stress the experience and connections membership in our elite organization can bring them, connections to local jobs and internships, as well as a start upon the career of an entrepreneur.
-
 Outreach to students should be done on campus. Poster advertising is free, and student ambassadors would be cheap to hire. Another method of reaching these users could be through speeches and presentations on campus. Student groups will be another excellent way of reaching the demographic. Linux Users Groups and on campus engineering fraternities and societies will be a valuable resource.
 
 Being ingrained in the Make culture is the big way to reach hobbyists. Make Magazine, blog.makezine.com, hackaday.com, and hackerspace advertising are the way to reach these part time inventors. Nuts and Volts, other?
 
 ### Artists
 
-Find these people throughout the local groups spread across the valley. Events like First Friday in downtown phoenix are teaming with artists. From what we've gathered talking to artists at these events what they are mainly looking for is space to work in. Organizations like Urban Stew pair art and technology for public art shows. Targeting students on the campuses can draw in artists. Pairing with vendors and local art stores for discounts can help those establishments and be incentive to join our community. We can pull in artists with photography competitions, showings/galleries, and free nights for groups to use tools.
-
-We want to also target the craft/DIY communities. Groups like PHY DIY and Geek Girls have huge groups of crafters doing interesting work in the valley.
+Find these people throughout the local groups spread across the valley. Events like First Friday in downtown phoenix are teaming with artists. From what we've gathered talking to artists at these events what they are mainly looking for is space to work in. Organizations like Urban Stew pair art and technology for public art shows. Targeting students on the campuses can draw in artists. Pairing with vendors and local art stores for discounts can help those establishments and be incentive to join our community. We can pull in artists with photography competitions, showings/galleries, and free nights for groups to use tools. We want to also target the craft/DIY communities. Groups like PHY DIY and Geek Girls have huge groups of crafters doing interesting work in the valley.
 
 ### Professionals (Engineers)
 
-These members are professionals well into their careers and should have some income to be invested in their future. We will want to sell them on setting out to pursue their dream rather than staying at a job they may be dissatisfied with. Another interesting concept to be exploited is that engineers who use their companies equipment may find themselves mired in IP rights issues. The way to reach these users will be through their professional society and through professional publications. Electrical engineers utilize resources such as IEEE publications, Circuit Cellar, Nuts and Volts, Wired and possibly Linux publications and the IEEE Phoenix membership is 3,600 members strong. Mechanical engineers have local users groups throughout the valley already. Groups like Valley Metal and XXX bring together hobbyist mechanical engineers to
+The way to reach these users will be through their professional society and through professional publications. Electrical engineers utilize resources such as IEEE publications, Circuit Cellar, Nuts and Volts, Wired and possibly Linux publications and the IEEE Phoenix membership is 3,600 members strong. Mechanical engineers have local users groups throughout the valley already. Groups like Valley Metal and XXX bring together hobbyist mechanical engineers to
 
 Another good avenue will be trade shows and strategic partnerships. It may be possible to work with the big electronics vendors including Jameco, Digikey, and Newark to cross promote by being a local presence for these online companies.
 
 ### Scientists and Academics
 
 ### Kids
-
-Our public schools need help! Schools can't afford to fund many experiments and projects that would help solidify learned concepts at a younger age. It is often left up to teachers and parents to fund these things. By working with the teachers and parents in the community we have been able to supply their kids with the tools and consumables needed to complete these projects. Through programs like Lego League and the electronics/mechanical workshops we host we can start to groom the next generation inventors/engineers/artists.
 
 # Current Business Accomplishments
 
