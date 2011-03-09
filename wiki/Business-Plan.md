@@ -167,50 +167,25 @@ We don't necessarily know what the big donation drive will be, but when this com
 
 # Development plan (Execution of Marketing Strategy) (plan of action?)
 
-We have outgrown our current home at Gangplank and as such have created a committee to begin searching for new space in the Phoenix Metro region. This move has the possibility of being very stressful to the organization so it has been decided that we would approach the cities themselves looking for a longterm partner to make sure this next move would be the one that puts us either in our final home, or one clear step away from it.
+HeatSync has already shown to be a successfully entity throughout its almost 2 years of operation. We're proud of our current accomplishments, but have much more we want to do. We've finally outgrown our current home at Gangplank and as such the board has created a committee to begin searching for new space in the Phoenix Metro region. Moving is very stressful to a membership based organization and as such we are seeking a longterm partner to make sure this next move will be the one that puts us in either in our final home, or one clear step away from it.
 
-The attributes necessary to make HeatSync successful include access to transportation, centrality, vitality and finally the proper mix of industrial and 'retail' space.
+The attributes necessary to make HeatSync successful include access to transportation, centrality, vitality of community and finally the proper mix of 'industrial' and 'retail' space, and room for growth.
 
-The current goal is to align ourselves around the north 202, 101, 60 and or the light rail project. This should allow easy access for the entire valley.
+Centrality and transportation to us means aligning ourselves around the north 202, 101, 60 and the light rail project to allow allow us to continue to target the brightest minds in the entire valley.
 
-In our current location we fill up about 1000+ sq./ft., though we utilize project rooms and the main room for presentations and meetings so we're used to having access to more than 5000+ sq./ft.
+Further the location should have a 'story to tell.' We're building something bigger than HeatSync labs itself and community is a bit part of that. The point of HeatSync is to bring the tools of creation out of the industrial districts and back to the people. Communities that have been brainstormed so far include the Phoenix Roosevelt Row Arts District, the Tempe Farmer Arts District, and the Mesa Main Street District. These area are all thriving cultural locations indicative of what we're looking for.
 
-Current projections require 500+ sq./ft. to safely house our workshop with our current equipment and our newest addition of a laser cutter. Further we intend to grow over the next year or two adding another 500+sq.ft of space for tools including:
+What makes our search difficult is a need for an ackward mix of 'light industrial' and 'retail' type space. On the industrial side we are a workshop and so we need heavy power, 210 or even 3phase, either bay doors or double doors, and to be a little bit noisy and messy. On the retail side we intend to provide a face to the world that is approachable and comfortable. We host public meetings, presentations, technical workshops and periodic events/celebrations which typically bring in 30 people on average but have brought in more than a hundred on occasion. Note not all these activities need be on site. It is also acceptable and sometimes preferable to utilize nearby 'community' space for events.
 
-- Shopbot (Wood Working Computerized 2D Cutter)
-- Plasma Cutter(Metal Working Computerized 2D Cutter)
-- CNC Milling Machine(Metal Working Computerized 3D Cutter)
-- Injection Molding
-- Industrial Sewing
+Finally, we need room for growth. We currently have around 25 members and we fill up about 1000+ sq./ft., though we utilize project rooms and the main room for presentations and meetings so we're used to having access to approximately 5000+ sq./ft. Our current workshop needs require 500+ sq./ft. to safely house our workshop with our current equipment and our newest addition of a laser cutter. Further we intend to grow over the next year or two adding another 500+sq.ft of space for tools including a Shopbot, Plasma Cutter, Injection molder and Industrial Sewers.
 
-With our members contributing an average of \$50 a month, at 20 members, we're grossing ~1k a month. We are currently basing our leasing ability by these numbers as they are our most reliable recurring source of income. Our other forms of income are detailed in the Financial section further down.
+Further we intend to grow over the next year to 40-50 members and we intend for this location to be able to support that growth.
 
-Our goal is for this space to allow for the following types of activity:
+Final membership growth looks aims to reach approximately 75-100 members which it is expected to max out at based on research into community intimacy issues, space and safety constraints. Ideally there will be a clear next step or a growth opportunity at the location to be able to handle that eventuality as well.
 
-- Meetings
-- Presentations
-- Workshops
-- Periodic Events/Celebrations
+Estimates put our current space needs at at least 1000 sq feet with available community space, but more realistically as much as 3000 sq ft. could easily be utilized.
 
-Our public meetings have presentations that bring in 30 people on average so we would also require a space that can accommodate them.
-
-Current estimates of cost at around 1500 sq ft come to ~\$2k a month with utilities.
-
-At that rate we're clearly projecting a shortfall of \$6000 over 6 months(this would be worst case with no growth). Stagnant growth seems unlikely however. Based on current growth rates we expect to be able to cover this shortfall (40 members averaging \$50 a month).
-
-This is why we are shooting for a space that can house at least 40-50 members, allowing us to grow out of the next space within a year into a more final location (75-100 members) which it is expected we may max out at based on research (community intimacy issues, space and safety constraints).
-
-Current actions are being taken to raise that money prior to the move to ensure stability. We have done previous work with donations to raise larger sums, but we again want to find consistent realistic sources of revenue. Worst case scenario that type of campaign lets us run the final 6 months of our lease and allows us reevaluate our strategies.
-
-Last case scenario is a push to fund the space with donations, our goals are to keep donations funding the TOOLS, PROJECTS, and PEOPLE.
-
-Workshops - We've seen workshops generate XXX
-
-Sales - Most recently we've also begun selling more directed tools, accessories and kits based on our workshop series. We've seen sales of XXXX
-
-These all pad that 6k shortfall to nearly nothing.
-
-Further, a new space opens up new funding options. For instance, there are further membership tiers to be considered based on amount of space that becomes available. Ideas include renting benches and 'studio' space to artists, continuing to host fundraising nightlife events.
+A current survey of pricing puts a space meeting our requirements at between \$1500 and \$200 a month including utilities. At that rate we're clearly projecting a shortfall of around \$6000 over the first 6 months assuming no growth. Stagnant growth seems unlikely however. Based on current growth rates we expect to be able to cover this shortfall within that 6 months. However, current actions are being taken to save money prior to the move to ensure stability. We have also raised larger sums from our community in the past, but we again want to find consistent realistic sources of revenue.
 
 # Management Plan
 
