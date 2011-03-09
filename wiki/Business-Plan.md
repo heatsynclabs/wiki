@@ -336,7 +336,7 @@ It won't be surprising to know that the majority of our assets include our tools
 - Wide selection of electronics components (DIP and SMD)
 - 2 Oscilloscopes, analog and digital
 - 4 DC power supplies
-- Complete Soldering (DIP and Reflow) setup
+- Complete Soldering (DIP and reflow) setup
 - 10+ sets of soldering equipment for workshops and training
 
 ### Microcontrollers
