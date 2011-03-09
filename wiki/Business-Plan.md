@@ -2,14 +2,6 @@
 
 # Executive Summary
 
-HeatSync Labs provides a collaborative workspace where engineers, entrepreneurs, students and tinkerers come together to imagine and build tomorrow’s innovations.
-
-We break down barriers to innovation by providing equipment and facilities to people interested in programming, hardware hacking, physics, chemistry, mathematics, photography, security, robotics, and art.
-
-We encourage hands-on development of exciting new creations, we host talks, workshops, and encourage knowledge exchange through collaborative development projects, and we stimulate learning by providing mentoring and cross-disciplinary educational opportunities.
-
-Our vision is a world where we re-awaken our population and reinstate the knowledge of creation in opposition to our throw-away society. We aim to empower our population, delivering the confidence and skills to compete in a globalized economy.
-
 # Industry Overview (industry sector,trends,major players,overall industry sales,our place)
 
 # Market Analysis(target market)
