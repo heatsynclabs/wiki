@@ -165,7 +165,7 @@ In January there was nothing to do but wait for our Laser Cutter to be manufactu
 
 We don't necessarily know what the big donation drive will be, but when this community needs something, it reaches it's goals.
 
-# Development plan (Execution of Marketing Strategy) (plan of action?)
+# Development plan
 
 HeatSync has already shown to be a successfully entity throughout its almost 2 years of operation. We're proud of our current accomplishments, but have much more we want to do. We've finally outgrown our current home at Gangplank and as such the board has created a committee to begin searching for new space in the Phoenix Metro region. Moving is very stressful to a membership based organization and as such we are seeking a longterm partner to make sure this next move will be the one that puts us in either in our final home, or one clear step away from it.
 
