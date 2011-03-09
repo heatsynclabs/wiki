@@ -266,48 +266,9 @@ www.omlaw.com
 
 # Financial Plan(funding requirements, financial statements, analysis)
 
-## Membership
+## Capital(Our monetary status and funds?)
 
-A membership model has been the core of our support over our first year. This recurring income is the backbone of our financial support. It is our intention to utilize this stable income to pay all fixed costs. Metrics based on our current membership data include:
-
-- An average of 2 members per month added over the past year.
-- Average growth rate of greater than 200% over the previous 3 months.
-- 77% of members are in the basic (middle rate plan)
-- Only 2 members to attrition over the entire year.
-
-## Donations
-
-Quantify dollar amount for donations received
-
-## Fundraisers
-
-While memberships pay the rent, and donations fill the space with tools, fundraising has been important in raising funds to cover any further operational costs.
-
-Throughout the past year we tried many innovative fundraisers including Water Balloon fights, LAN parties, Barbecues, and a Poker Night. We continue to adapt and deliver our community value for their donation.
-
-Our last fundraiser, a mix of birthday party, science fair and electronic music show, targeted 100 donors for \$10 each and reached that goal easily. More importantly, it is still regarded highly in the community. It is our intention to both continue, and grow, these 'nightlife' style fundraisers.
-
-Further, there are many more traditional fundraising options that we have yet to attempt. Dinners, Raffles, and Auctions are all being considered this year.
-
-## Grants
-
-As we've previously shown, our Membership, Donations and Fundraising fully support the organization. We could simply stop there, but it was our goal early on to become something bigger. The completion of our 501c3 process opens the door to local and national grants for original science and technology research. Members are currently doing innovative research in accessibility, education, neurosciences, and renewable energy and it is our goal to find ways to fund these projects. Most importantly we have the amazing benefit of many large scale technology companies nearby that are looking to fund innovative new ideas. We have located and are targeting opportunities with:
-
-- Intel
-- Honeywell
-- Avnet
-- Verizon
-- Motorola
-- Microchip
-- Freescale
-- Raytheon
-- General Dynamics
-- Lockheed Martin
-- Boeing
-
-Many of those companies already have employees that frequent our space.
-
-## Business Assets
+## Assets
 
 It won't be surprising to know that the majority of our assets include our tools and equipment. In addition to a great set of standard hand tools we have tools ranging from metal working to wood working to prototyping and more.
 
@@ -356,3 +317,38 @@ It won't be surprising to know that the majority of our assets include our tools
 
 - Mechanical Engraver
 - Air Compressor
+
+## Membership
+
+A membership model has been the core of our support over our first year. This recurring income is the backbone of our financial support. It is our intention to utilize this stable income to pay all fixed costs. Metrics based on our current membership data include:
+
+- An average of 2 members per month added over the past year.
+- Average growth rate of greater than 200% over the previous 3 months.
+- 77% of members are in the basic (middle rate plan)
+- Only 2 members to attrition over the entire year.
+
+## Donations
+
+Quantify dollar amount for donations received
+
+## Fundraisers
+
+While memberships pay the rent, and donations fill the space with tools, fundraising has been important in raising funds to cover any further operational costs. Throughout the past year we tried many innovative fundraisers including Water Balloon fights, LAN parties, Barbecues, and a Poker Night. We continue to adapt and deliver our community value for their donation. Further, there are many more traditional fundraising options that we have yet to attempt. Dinners, Raffles, and Auctions are all being considered this year. Our last fundraiser, a mix of birthday party, science fair and electronic music show, targeted 100 donors for \$10 each and reached that goal easily. More importantly, it is still regarded highly in the community. It is our intention to both continue, and grow, these 'nightlife' style fundraisers.
+
+## Grants
+
+As we've previously shown, our Membership, Donations and Fundraising fully support the organization. We could simply stop there, but it was our goal early on to become something bigger. The completion of our 501c3 process opens the door to local and national grants for original science and technology research. Members are currently doing innovative research in accessibility, education, neurosciences, and renewable energy and it is our goal to find ways to fund these projects. Most importantly we have the amazing benefit of many large scale technology companies nearby that are looking to fund innovative new ideas. We have located and are targeting opportunities with:
+
+- Intel
+- Honeywell
+- Avnet
+- Verizon
+- Motorola
+- Microchip
+- Freescale
+- Raytheon
+- General Dynamics
+- Lockheed Martin
+- Boeing
+
+Further, many of those companies already have employees that frequent our space who have expressed interest in helping us pursue these opportunities. We don't intend to ever rely on such an unstable source of income, but we do look forward to adding it to our revenue stream.
