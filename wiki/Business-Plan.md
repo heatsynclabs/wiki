@@ -6,7 +6,7 @@
 - quick summary of accomplishments
 - quick explanation of our needs (the move)
 
-# Business Description(should we tie this into vision/mission?)
+# Business Description
 
 HeatSync Labs provides a collaborative workspace where engineers, entrepreneurs, students and tinkerers come together to imagine and build tomorrow’s innovations.
 
@@ -15,14 +15,6 @@ We break down barriers to innovation by providing equipment and facilities to pe
 We encourage hands-on development of exciting new creations, we host talks, workshops, and encourage knowledge exchange through collaborative development projects, and we stimulate learning by providing mentoring and cross-disciplinary educational opportunities.
 
 Our vision is a world where we re-awaken our population and reinstate the knowledge of creation in opposition to our throw-away society. We aim to empower our population, delivering the confidence and skills to compete in a globalized economy.
-
-Most importantly, what we provide is a community for these people to be a part of. A small subset of tools can be readily purchased and accessed, but more and more people are moving away from working alone in their garages to connecting with their communities and on the internet. We broaden horizons by having all these people and resources in the same room, breaking down the mental block that these tools are not unavailable or unapproachable. We bring the tools of creation OUT of the industrial districts.
-
-We also bring these tools out of the silos of our tech school and college brethren. True cross discipline work can not happen via meetings, tech talks, etc. We work side by side whenever possible. When specialized tools or knowledge is needed our people may graduate briefly to silod learning, but the starting point must be working side by side.
-
-Secondly we push people to get involved. There are no wallflowers at HeatSync Labs. You bring your project and work on it, or we put a hammer in your hand and we put you to work.
-
-Lastly, we provide access to the tools of creation. We provide application IN ADDITION to theory. Truly the best way to learn is by doing.
 
 # Industry Overview (industry sector,trends,major players,overall industry sales,our place-look at it from the industry level (breakfast foods, not pop tarts))
 
