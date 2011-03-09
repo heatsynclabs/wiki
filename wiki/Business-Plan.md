@@ -146,7 +146,7 @@ Recently we've waded into science education waters. Many classrooms can't afford
 
 ### Business Assets
 
-It won't be surprising to know that the totality of our assets include our tools and equipment. In addition to a great set of standard hand tools we have tools ranging from metal working to wood working to prototyping and more.
+It won't be surprising to know that the majority of our assets include our tools and equipment. In addition to a great set of standard hand tools we have tools ranging from metal working to wood working to prototyping and more.
 
 #### Metal
 
@@ -162,11 +162,12 @@ It won't be surprising to know that the totality of our assets include our tools
 - Scroll Saw
 - Skill Saw
 
-#### Prototyping
+#### Plastic and Prototyping
 
 - 100 Watt 4'x2' Laser Cutter
 - Rep Rap 3D Printer
 - Makerbot Cupcake-clone 3D Printer
+- Vacuum forming Table
 
 #### Electronics
 
@@ -178,7 +179,7 @@ It won't be surprising to know that the totality of our assets include our tools
 
 #### Microcontrollers
 
-- Large and diverse stock of Microcontrollers and programmers (PIC, ATMEL(arduino), Texas Instruments)
+- Large and diverse stock of Microcontrollers and programmers (PIC, ATMEL(Arduino), Texas Instruments)
 - Large stock of sensors and actuators for microcontroller projects
 
 #### Material Handling
