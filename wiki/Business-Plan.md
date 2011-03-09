@@ -2,7 +2,7 @@
 
 # Executive Summary(We write this last)
 
-# Industry Overview (industry sector,trends,major players,overall industry sales,our place)
+# Business Description(should we tie this into vision/mission?)
 
 HeatSync Labs provides a collaborative workspace where engineers, entrepreneurs, students and tinkerers come together to imagine and build tomorrow’s innovations.
 
@@ -12,24 +12,6 @@ We encourage hands-on development of exciting new creations, we host talks, work
 
 Our vision is a world where we re-awaken our population and reinstate the knowledge of creation in opposition to our throw-away society. We aim to empower our population, delivering the confidence and skills to compete in a globalized economy.
 
-# Market Analysis(target market)
-
-We define our 'market' rather broadly as our mission is nonprofit and educational in nature. In short we want to collect entrepreneurs, creatives, professionals, hobbysits and students together under one roof. Age, gender, ethnicity, etc are of no importance to us.
-
-Entrepreneurs need access to a talent pool to start building their team. They need resources and connections to create their prototype, wander the IP minefield, and find funding to bring their product to market.
-
-Students and hobbyists want to be a part of something big. They want to bump into big thinkers working on big projects and be invited to help and learn. Hopefully they want to become entrepreneurs themselves.
-
-Artists' biggest requests so far have been studio space. Further cross discipline connections and resources can also help in trying new avenues of expression.
-
-Professional engineers are hungry for this, too. They need space outside of their companies to grow and work as innovations made inside their company can lead to problematic IP rights. They also need a place to bring their kids and family to interest them in science and technology education. The Mechanical Engineers we've met, on both the wood and metal side, have found many of their tools fairly commoditized. However, more and more they yearn for community. The garage is a lonely place to innovate.
-
-Kids are really important to HeatSync Labs, too. We need to stop hiding the tools of creation from them. They need to grow up in a world around tools and the creators in the community so they understand that these these options are available to them and so they can begin building their knowledge network early.
-
-Thats not all the groups we target, however. Photographers, Scientists, the curious and motivated are all important! We want to challenge any passerby into walking in and we want to put a tool in their hand. It is time to return to the tools of creation to our people!
-
-## Our Product
-
 Most importantly, what we provide is a community for these people to be a part of. A small subset of tools can be readily purchased and accessed, but more and more people are moving away from working alone in their garages to connecting with their communities and on the internet. We broaden horizons by having all these people and resources in the same room, breaking down the mental block that these tools are not unavailable or unapproachable. We bring the tools of creation OUT of the industrial districts.
 
 We also bring these tools out of the silos of our tech school and college brethren. True cross discipline work can not happen via meetings, tech talks, etc. We work side by side whenever possible. When specialized tools or knowledge is needed our people may graduate briefly to silod learning, but the starting point must be working side by side.
@@ -37,6 +19,10 @@ We also bring these tools out of the silos of our tech school and college brethr
 Secondly we push people to get involved. There are no wallflowers at HeatSync Labs. You bring your project and work on it, or we put a hammer in your hand and we put you to work.
 
 Lastly, we provide access to the tools of creation. We provide application IN ADDITION to theory. Truly the best way to learn is by doing.
+
+# Industry Overview (industry sector,trends,major players,overall industry sales,our place-look at it from the industry level (breakfast foods, not pop tarts))
+
+What is our industry? - Education, Incubation, Startup Accelerators Vocational schools, mechanical shops, prototyping labs, academic and for profit research and development Make, Oreilly, Hackaday, Hackerspaces, Sparkfun
 
 # Competitive Analysis(analyze direct and indirect competitors
 
@@ -55,6 +41,22 @@ Incubators benefit in being able to direct entrepreneurs down the path of starti
 Co-working locations tend to provide collaborative spaces where startups and individuals can save on office space costs by sharing. Many offer an area for the general public to work creating a community of like minded individuals or partners for projects and business. Many locations currently focus on computer programming, design, or marketing companies that only require desk space. Recently the line between co-working, incubators and accelerators are blurring. Local spaces that self-identify in this area include Gangplank and Co-Hoots.
 
 What makes us different from all these is our focus on infrastructure. Even our schools are pulling out of this area in frustration. It has become very vogue to open a space, provide wifi and try to build community around bring-your-own-computer concepts. These purposely dodge the challenges of infrastructure where we refuse to back down. The infrastructure is indeed the hard part, but it is also the difference. The infrastructure safety, training, liability, skills and experience are the key to bringing creation back to our throw away society.
+
+# Market Analysis(target market)
+
+We define our 'market' rather broadly as our mission is nonprofit and educational in nature. In short we want to collect entrepreneurs, creatives, professionals, hobbysits and students together under one roof. Age, gender, ethnicity, etc are of no importance to us.
+
+Entrepreneurs need access to a talent pool to start building their team. They need resources and connections to create their prototype, wander the IP minefield, and find funding to bring their product to market.
+
+Students and hobbyists want to be a part of something big. They want to bump into big thinkers working on big projects and be invited to help and learn. Hopefully they want to become entrepreneurs themselves.
+
+Artists' biggest requests so far have been studio space. Further cross discipline connections and resources can also help in trying new avenues of expression.
+
+Professional engineers are hungry for this, too. They need space outside of their companies to grow and work as innovations made inside their company can lead to problematic IP rights. They also need a place to bring their kids and family to interest them in science and technology education. The Mechanical Engineers we've met, on both the wood and metal side, have found many of their tools fairly commoditized. However, more and more they yearn for community. The garage is a lonely place to innovate.
+
+Kids are really important to HeatSync Labs, too. We need to stop hiding the tools of creation from them. They need to grow up in a world around tools and the creators in the community so they understand that these these options are available to them and so they can begin building their knowledge network early.
+
+Thats not all the groups we target, however. Photographers, Scientists, the curious and motivated are all important! We want to challenge any passerby into walking in and we want to put a tool in their hand. It is time to return to the tools of creation to our people!
 
 # Marketing Plan(sales strategy, pricing, advertising, and promotion)
 
