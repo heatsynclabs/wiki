@@ -38,7 +38,7 @@ What makes us different from all these is our focus on infrastructure. Even our 
 
 # Market Analysis(target market)
 
-We define our 'market' rather broadly as our mission is nonprofit and educational in nature. In short we want to collect entrepreneurs, creatives, professionals, hobbysits and students together under one roof. Age, gender, ethnicity, etc are of no importance to us. We're looking to find the curious and motivated, be it by word of mouth, walk by traffic, press, advertising or social networking via twitter, linked in, or facebook.
+We define our 'market' rather broadly as our mission is nonprofit and educational in nature. In short we want to collect entrepreneurs, creatives, professionals, hobbysits and students together under one roof. Age, gender, ethnicity, etc are of no importance to us.
 
 Entrepreneurs need access to a talent pool to start building their team. They need resources and connections to create their prototype, wander the IP minefield, and find funding to bring their product to market.
 
