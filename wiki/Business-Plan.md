@@ -189,7 +189,7 @@ A current survey of pricing puts a space meeting our requirements at between \$1
 
 # Management Plan
 
-## Principals (The Team)
+## Principals (The Board of Directors)
 
 ### Jeremy Leung - Champion
 
