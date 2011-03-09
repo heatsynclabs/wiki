@@ -341,7 +341,7 @@ It won't be surprising to know that the majority of our assets include our tools
 
 ### Microcontrollers
 
-- Large and diverse stock of Microcontrollers and programmers (PIC, ATMEL(Arduino), Texas Instruments)
+- Large and diverse stock of microcontrollers and programmers (PIC, ATMEL(Arduino), Texas Instruments)
 - Large stock of sensors and actuators for microcontroller projects
 
 ### Material Handling
