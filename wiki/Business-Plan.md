@@ -2,6 +2,10 @@
 
 # Executive Summary(We write this last)
 
+- Quick elevator
+- quick summary of accomplishments
+- quick explanation of our needs (the move)
+
 # Business Description(should we tie this into vision/mission?)
 
 HeatSync Labs provides a collaborative workspace where engineers, entrepreneurs, students and tinkerers come together to imagine and build tomorrow’s innovations.
