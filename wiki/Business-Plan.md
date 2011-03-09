@@ -16,9 +16,9 @@ We encourage hands-on development of exciting new creations, we host talks, work
 
 Our vision is a world where we re-awaken our population and reinstate the knowledge of creation in opposition to our throw-away society. We aim to empower our population, delivering the confidence and skills to compete in a globalized economy.
 
-# Industry Overview (industry sector,trends,major players,overall industry sales,our place-look at it from the industry level (breakfast foods, not pop tarts))
+# Industry Overview
 
-What is our industry? - Education, Incubation, Startup Accelerators Vocational schools, mechanical shops, prototyping labs, academic and for profit research and development Make, Oreilly, Hackaday, Hackerspaces, Sparkfun
+We are part of a larger maker/do-it-yourself culture exemplified by Make Magazine. There are spaces popping up throughout the United States, and globally, all with different visions and goals, but all listing themselves at hackerspaces.org. Nothing is new in the world, though. We're most like a traditional academic incubator model mixed with the newer coworking model. These spaces target entrepreneurs and skilled tradespeople who don't wish to work in an office alone but would rather work side by side with the other brightest minds in the community.
 
 # Competitive Analysis(analyze direct and indirect competitors
 
