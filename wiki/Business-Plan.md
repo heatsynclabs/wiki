@@ -40,15 +40,31 @@ What makes us different from all these is our focus on infrastructure. Even our 
 
 We define our 'market' rather broadly as our mission is nonprofit and educational in nature. In short we want to collect entrepreneurs, creatives, professionals, hobbysits and students together under one roof. Age, gender, ethnicity, etc are of no importance to us.
 
-Entrepreneurs need access to a talent pool to start building their team. They need resources and connections to create their prototype, wander the IP minefield, and find funding to bring their product to market.
+## Students
+
+On campuses, technical students are becoming more and more disenfranchised with the opportunities and equipment available to them in academia. There was a day many years ago where the only place you could find a 'computer' was in academia, but that time has passed. There may be as many as 300,000 college and technical school students in the phoenix metro area, with only maybe 5% with arts/ design/technical backgrounds, leading to 15,000 possible customers. These customers are going to be more eager to get their hands on professional equipment, but also more sensitive to price. It will be important to stress the experience and connections membership in our elite organization can bring them, connections to local jobs and internships, as well as a start upon the career of an entrepreneur.
 
 Students and hobbyists want to be a part of something big. They want to bump into big thinkers working on big projects and be invited to help and learn. Hopefully they want to become entrepreneurs themselves.
 
+## Entrepreneurs
+
+Entrepreneurs need access to a talent pool to start building their team. They need resources and connections to create their prototype, wander the IP minefield, and find funding to bring their product to market.
+
+## Artists and Crafters
+
 Artists' biggest requests so far have been studio space. Further cross discipline connections and resources can also help in trying new avenues of expression.
+
+## Professional Engineers
+
+These members are professionals well into their careers and should have some income to be invested in their future. We will want to sell them on setting out to pursue their dream rather than staying at a job they may be dissatisfied with. Another interesting concept to be exploited is that engineers who use their companies equipment may find themselves mired in IP rights issues.
 
 Professional engineers are hungry for this, too. They need space outside of their companies to grow and work as innovations made inside their company can lead to problematic IP rights. They also need a place to bring their kids and family to interest them in science and technology education. The Mechanical Engineers we've met, on both the wood and metal side, have found many of their tools fairly commoditized. However, more and more they yearn for community. The garage is a lonely place to innovate.
 
+## Kids
+
 Kids are really important to HeatSync Labs, too. We need to stop hiding the tools of creation from them. They need to grow up in a world around tools and the creators in the community so they understand that these these options are available to them and so they can begin building their knowledge network early.
+
+Our public schools need help! Schools can't afford to fund many experiments and projects that would help solidify learned concepts at a younger age. It is often left up to teachers and parents to fund these things. By working with the teachers and parents in the community we have been able to supply their kids with the tools and consumables needed to complete these projects. Through programs like Lego League and the electronics/mechanical workshops we host we can start to groom the next generation inventors/engineers/artists.
 
 Thats not all the groups we target, however. Photographers, Scientists, the curious and motivated are all important! We want to challenge any passerby into walking in and we want to put a tool in their hand. It is time to return to the tools of creation to our people!
 
