@@ -260,21 +260,7 @@ A membership model has been the core of our support over our first year. This re
 
 ## Donations
 
-Donations have been a key to our success from the outset. They are how the majority of our community show their support. Usually these donations are not necessarily monetary, but rather equipment based.
-
-When we finally started pulling the space together in 2009, the first donations to come in were standard hand tools including hammers, wrenches, drivers, saws, etc.
-
-With hand tools covered our community moved on to create our electronics lab. Thousands of dollars in electronics and test equipment rolled into the space over the course of several months. These donations included oscilloscopes, dc power supplies, soldering equipment, and standard electronic components.
-
-What we really needed at this point was pieces of high priced and attention grabbing equipment that couldn't necessarily be found in anyones garage. Historically, 3D prototyping had been priced out of reach of the general public at \$10,000 and up. A new device was changing that though. The Rep Rap is a free design for an affordable 3D Printer that claims it can be built with simple hand tools and electronics equipment for around \$1000 in parts. We raised that \$1000 in 5 days.
-
-By summer we were months into working on our 3d printing technology and had serious needs in the mechanical engineering department. The community turned its attention to larger metal working equipment. Again thousands of dollars in metal working equipment including a band saw, 7x10 lathe and drill presses arrived. At the same time our members approached the local manufacturer Taig about a deal on their beautiful Mini Lathes. We were apprehensive about our ability to convince them as our 501c3 still had not cleared. We walked away the same day with a machine worth \$400.
-
-In December we continued our started campaign to bring in exclusive and approachable tools. We began an innovative donation drive to collect \$7500 to purchase a 700lb. Laser Cutter. We utilized the online fund-raising platform Kickstarter.com and were able to beat our fundraising goal of \$7500 in under 30 days, by bringing in almost \$10,000!
-
-In January there was nothing to do but wait for our Laser Cutter to be manufactured and shipped. During this time Welding became a hot topic in the lab. A Mig welder, welding cart, and welding table, at least \$500 in value, were donated allowing us to begin holding welding workshops.
-
-We don't necessarily know what the big donation drive will be, but when this community needs something, it reaches it's goals.
+Quantify dollar amount for donations received
 
 ## Fundraisers
 
