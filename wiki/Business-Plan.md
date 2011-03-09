@@ -44,7 +44,7 @@ What makes us different from all these is our focus on infrastructure. Even our 
 
 # Market Analysis(target market)
 
-We define our 'market' rather broadly as our mission is nonprofit and educational in nature. In short we want to collect entrepreneurs, creatives, professionals, hobbysits and students together under one roof. Age, gender, ethnicity, etc are of no importance to us.
+We define our 'market' rather broadly as our mission is nonprofit and educational in nature. In short we want to collect entrepreneurs, creatives, professionals, hobbysits and students together under one roof. Age, gender, ethnicity, etc are of no importance to us. We're looking to find the curious and motivated, be it by word of mouth, walk by traffic, press, advertising or social networking via twitter, linked in, or facebook.
 
 Entrepreneurs need access to a talent pool to start building their team. They need resources and connections to create their prototype, wander the IP minefield, and find funding to bring their product to market.
 
@@ -60,7 +60,9 @@ Thats not all the groups we target, however. Photographers, Scientists, the curi
 
 # Marketing Plan(sales strategy, pricing, advertising, and promotion)
 
-As we're a nonprofit we get to be fairly broad in who we target. We're looking to find the curious and motivated, be it by word of mouth, walk by traffic, press, advertising or social networking via twitter, linked in, or facebook.
+- **Associate Member** - \$25 per month, and you get your name on the list of members and access to the lab and shared equipment during the hours of operation.
+- **Basic Member** - \$50 per month, and you get the benefits of associate membership, plus 24/7 access to the lab, including a key to the building and security code. This also includes personal project space for a banker box (box provided by HeatSync Labs.)
+- **Plus Member** - \$75 per month, and you get all the benefits of basic membership, plus a locker in the lab!
 
 ### Entrepreneurs
 
@@ -249,9 +251,7 @@ Community partnership is very important to HeatSync. Our goal isn't to obtain an
 
 ## Membership
 
-A membership model has been the core of our support over our first year. This recurring income is the backbone of our financial support. It is our intention to utilize this stable income to pay all fixed costs.
-
-Metrics based on our current membership data include:
+A membership model has been the core of our support over our first year. This recurring income is the backbone of our financial support. It is our intention to utilize this stable income to pay all fixed costs. Metrics based on our current membership data include:
 
 - An average of 2 members per month added over the past year.
 - Average growth rate of greater than 200% over the previous 3 months.
