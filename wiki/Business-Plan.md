@@ -90,6 +90,55 @@ Another good avenue will be trade shows and strategic partnerships. It may be po
 
 Our public schools need help! Schools can't afford to fund many experiments and projects that would help solidify learned concepts at a younger age. It is often left up to teachers and parents to fund these things. By working with the teachers and parents in the community we have been able to supply their kids with the tools and consumables needed to complete these projects. Through programs like Lego League and the electronics/mechanical workshops we host we can start to groom the next generation inventors/engineers/artists.
 
+# Current Business Accomplishments
+
+### Workshops
+
+Monthly we run a free to attend Arduino workshop where we train kids to adults how to program micro-controllers. Hundreds of people have attended our monthly meetings with the goal of empowering themselves with technology to solve their own problems. The Arduino development platform was created in a classroom setting and it's community is based around using the technology for educational purposes. People with no programming or electronics experience can sit down with us for a couple hours and learn to code their own program to flash LEDs, send messages to screens, actuate motors, and more.
+
+Most recently we had been asked to create a workshop series on soldering and programing for UrbanStew, another local nonprofit. Again, we wanted to instill the values of creation, having our attendees actually BUILD the computer they would eventually program. We did this with a goal of demystifying these devices which are increasingly becoming ubiquitous.
+
+### Public Meetings
+
+We have hosted over 24 free public educational events this year. Every 1st and 3rd Thursday we invite in a speaker to invigorate both our audience and usually the speaker! From materials, to tools, to processes we want to empower our people with the knowledge they need to succeed. Topics have included:
+
+- PaperCraft
+- Glass Working
+- Working with Acrylic
+- Thermoforming plastics
+- Lathing metals
+- CAD/CAM Introduction
+- 3D prototyping and fabrication
+- PCB Layout and Design with Eagle Cad
+- PCB Chemical Etching, Heat Transfer, with FeCl
+- Near Space Project Ballooning
+- High Speed Photography
+- Monster Plush Party - Recycling old toys by sewing them together with electronics
+
+### Weekly Events
+
+In addition to our Thursday bi-weekly speaker series, we host events all week long. The two recurring series to note are our Augmenting Humanity and 3D Printing nights. Augmented Humanity consists of a blend of ubiquitous computing, wearable computing and research and development into accessibility through technology. Notable projects include Bryan Duarte's work with the Arduino development platform to aid himself and other blind individuals to solve their own problems themselves by utilizing technology. Bryan's work is just one of the many fascinating projects that happen on Mondays.
+
+Every Wednesday we host a 3D Printing event where we foster the innovative field of personal manufacturing. 3D printers have long been out of reach of the individual inventor and entrepreneur, but falling costs and several open source projects are changing all that. These devices are finally realizing the promises of the Star Trek Replicator, creating 3d, multi material objects before your eyes! Even more mind bending is the idea of the machine creating the machine which is a focus of the open source Replicating Rapid Prototyper (RepRap) project we are involved with.
+
+### Large Scale Projects
+
+Our weekly work feeds into our larger scale mission of educating and fostering entrepreneurism among our population.
+
+#### Internal
+
+Throughout the summer of 2009 HeatSync members planned and developed a 4lb payload which they intended to send to around 90,000ft using only a helium balloon. Anyone from the public was welcome to join the development team and learn the multidisciplinary fundamentals necessary to launch an object into near-space! The package was fitted with sensors, cameras and radios to store data and communicate with the ground. August 28th 2009 was the culmination of several months of preparation for the SyncFleet team. In the end the balloon burst at ~75k feet into the upper atmosphere and returned safely home on its parachute. More than 40 people attended launch, from children to adults, who then helped us 'chase' down the landing. <http://www.flickr.com/photos/teamdroid/4935433891/> <http://www.flickr.com/photos/teamdroid/4935422607/> <http://www.flickr.com/photos/25968780@N03/4936065787/> <http://www.flickr.com/photos/25968780@N03/4936064759/> <http://www.flickr.com/photos/teamdroid/4936018950/>
+
+Two new teams, HelioSync and HeatSEM, have formed around new goals. HelioSync aims to investigate issues related to solar power generation and storage. A rocket engineer, turbine engineer, electrical engineers, students and hobbyists are all working to adapt an MIT design for a solar collector. The goal is to leverage our location in the Arizona desert to further understand renewable energy problems and solutions.
+
+Our other project, HeatSEM, was formed when we heard from high schools, colleges and hobby scientists that Scanning Electron Microscopy (SEM) was costly and out of reach. SEM microscopy works a lot like a traditional CRT television by aiming electrons at the material to be magnified. The electrons that are converted to alternate forms of energy are measured and turned into a visible image! HeatSEM will bring down the cost of SEM microscopy by a magnitude or more over this next year.
+
+#### Outreach
+
+Throughout this past year we focused on education, not only internally, but externally. It was our joy to mentor our first First Lego League(FLL) teams. Our kids, mostly 9-year-olds, worked throughout 2010 Body Forward Challenge, as the FLL puts it, to "explore the cutting-edge world of Biomedical Engineering to discover innovative ways to repair injuries, overcome genetic predispositions, and maximize the body's potential, with the intended purpose of leading happier and healthier lives." They learned computer programming and mechanical and biological engineering concepts culminating in a team presentation and robot competition. The goal, again here, was to empower them to solve THEIR OWN problems. Our technique was entirely discovery learning and the adults were only there to supervise and answer questions. It was the first year for our kids and they had amazing fun. In addition our mentor won best mentor for the season.
+
+Recently we've waded into science education waters. Many classrooms can't afford to put money down for the equipment needed to perform hands on experiments that shine light on the theory that kids learn in the classroom. We found a local teacher on [donorschoose.org](http://www.donorschoose.org/) looking for help funding science education materials. Since then we've been working with her to help develop, implement and fund her science course ware. Our first two labs included an earthquake simulation on student built toothpick structures and an examination of strawberry DNA. Further, we've found that these labs are only needed once per year and storage is also a challenge for teachers so we've begun building a storehouse of lab materials which we intend to provide to more classrooms throughout this year.
+
 # Development plan (Execution of Marketing Strategy) (plan of action?)
 
 We have outgrown our current home at Gangplank and as such have created a committee to begin searching for new space in the Phoenix Metro region. This move has the possibility of being very stressful to the organization so it has been decided that we would approach the cities themselves looking for a longterm partner to make sure this next move would be the one that puts us either in our final home, or one clear step away from it.
@@ -194,102 +243,6 @@ Community partnership is very important to HeatSync. Our goal isn't to obtain an
 - **O'Reilly Press** - The O'Rielly group has long worked within the maker community with their Make and Craft publications and their MakerFaire national conference/science fair. We've got strong ties to their group and we are now working to host a Maker Faire event in the Phoenix Area.
 - **Global Hacker Spaces** - The hackerspace movement is a global phenomenon and as such we have partners throughout the United States, and the world. We're working to create a nonprofit umbrella organization to aid people around the world in creating hacker spaces in their locations. Collaborating with teams around the world allows us to find the best minds to work on solutions for projects.
 
-## Current Business Accomplishments
-
-### Workshops
-
-Monthly we run a free to attend Arduino workshop where we train kids to adults how to program micro-controllers. Hundreds of people have attended our monthly meetings with the goal of empowering themselves with technology to solve their own problems. The Arduino development platform was created in a classroom setting and it's community is based around using the technology for educational purposes. People with no programming or electronics experience can sit down with us for a couple hours and learn to code their own program to flash LEDs, send messages to screens, actuate motors, and more.
-
-Most recently we had been asked to create a workshop series on soldering and programing for UrbanStew, another local nonprofit. Again, we wanted to instill the values of creation, having our attendees actually BUILD the computer they would eventually program. We did this with a goal of demystifying these devices which are increasingly becoming ubiquitous.
-
-### Public Meetings
-
-We have hosted over 24 free public educational events this year. Every 1st and 3rd Thursday we invite in a speaker to invigorate both our audience and usually the speaker! From materials, to tools, to processes we want to empower our people with the knowledge they need to succeed. Topics have included:
-
-- PaperCraft
-- Glass Working
-- Working with Acrylic
-- Thermoforming plastics
-- Lathing metals
-- CAD/CAM Introduction
-- 3D prototyping and fabrication
-- PCB Layout and Design with Eagle Cad
-- PCB Chemical Etching, Heat Transfer, with FeCl
-- Near Space Project Ballooning
-- High Speed Photography
-- Monster Plush Party - Recycling old toys by sewing them together with electronics
-
-### Weekly Events
-
-In addition to our Thursday bi-weekly speaker series, we host events all week long. The two recurring series to note are our Augmenting Humanity and 3D Printing nights. Augmented Humanity consists of a blend of ubiquitous computing, wearable computing and research and development into accessibility through technology. Notable projects include Bryan Duarte's work with the Arduino development platform to aid himself and other blind individuals to solve their own problems themselves by utilizing technology. Bryan's work is just one of the many fascinating projects that happen on Mondays.
-
-Every Wednesday we host a 3D Printing event where we foster the innovative field of personal manufacturing. 3D printers have long been out of reach of the individual inventor and entrepreneur, but falling costs and several open source projects are changing all that. These devices are finally realizing the promises of the Star Trek Replicator, creating 3d, multi material objects before your eyes! Even more mind bending is the idea of the machine creating the machine which is a focus of the open source Replicating Rapid Prototyper (RepRap) project we are involved with.
-
-### Large Scale Projects
-
-Our weekly work feeds into our larger scale mission of educating and fostering entrepreneurism among our population.
-
-#### Internal
-
-Throughout the summer of 2009 HeatSync members planned and developed a 4lb payload which they intended to send to around 90,000ft using only a helium balloon. Anyone from the public was welcome to join the development team and learn the multidisciplinary fundamentals necessary to launch an object into near-space! The package was fitted with sensors, cameras and radios to store data and communicate with the ground. August 28th 2009 was the culmination of several months of preparation for the SyncFleet team. In the end the balloon burst at ~75k feet into the upper atmosphere and returned safely home on its parachute. More than 40 people attended launch, from children to adults, who then helped us 'chase' down the landing. <http://www.flickr.com/photos/teamdroid/4935433891/> <http://www.flickr.com/photos/teamdroid/4935422607/> <http://www.flickr.com/photos/25968780@N03/4936065787/> <http://www.flickr.com/photos/25968780@N03/4936064759/> <http://www.flickr.com/photos/teamdroid/4936018950/>
-
-Two new teams, HelioSync and HeatSEM, have formed around new goals. HelioSync aims to investigate issues related to solar power generation and storage. A rocket engineer, turbine engineer, electrical engineers, students and hobbyists are all working to adapt an MIT design for a solar collector. The goal is to leverage our location in the Arizona desert to further understand renewable energy problems and solutions.
-
-Our other project, HeatSEM, was formed when we heard from high schools, colleges and hobby scientists that Scanning Electron Microscopy (SEM) was costly and out of reach. SEM microscopy works a lot like a traditional CRT television by aiming electrons at the material to be magnified. The electrons that are converted to alternate forms of energy are measured and turned into a visible image! HeatSEM will bring down the cost of SEM microscopy by a magnitude or more over this next year.
-
-#### Outreach
-
-Throughout this past year we focused on education, not only internally, but externally. It was our joy to mentor our first First Lego League(FLL) teams. Our kids, mostly 9-year-olds, worked throughout 2010 Body Forward Challenge, as the FLL puts it, to "explore the cutting-edge world of Biomedical Engineering to discover innovative ways to repair injuries, overcome genetic predispositions, and maximize the body's potential, with the intended purpose of leading happier and healthier lives." They learned computer programming and mechanical and biological engineering concepts culminating in a team presentation and robot competition. The goal, again here, was to empower them to solve THEIR OWN problems. Our technique was entirely discovery learning and the adults were only there to supervise and answer questions. It was the first year for our kids and they had amazing fun. In addition our mentor won best mentor for the season.
-
-Recently we've waded into science education waters. Many classrooms can't afford to put money down for the equipment needed to perform hands on experiments that shine light on the theory that kids learn in the classroom. We found a local teacher on [donorschoose.org](http://www.donorschoose.org/) looking for help funding science education materials. Since then we've been working with her to help develop, implement and fund her science course ware. Our first two labs included an earthquake simulation on student built toothpick structures and an examination of strawberry DNA. Further, we've found that these labs are only needed once per year and storage is also a challenge for teachers so we've begun building a storehouse of lab materials which we intend to provide to more classrooms throughout this year.
-
-### Business Assets
-
-It won't be surprising to know that the majority of our assets include our tools and equipment. In addition to a great set of standard hand tools we have tools ranging from metal working to wood working to prototyping and more.
-
-#### Metal
-
-- 7x10 Lathe
-- Taig Micro Lathe
-- CNC Lathe
-- Drill Presses
-- Band Saw
-- Complete Mig welding setup
-
-#### Wood
-
-- Scroll Saw
-- Skill Saw
-
-#### Plastic and Prototyping
-
-- 100 Watt 4'x2' Laser Cutter
-- Rep Rap 3D Printer
-- Makerbot Cupcake-clone 3D Printer
-- Vacuum forming Table
-
-#### Electronics
-
-- Wide selection of electronics components (DIP and SMD)
-- 2 Oscilloscopes, analog and digital
-- 4 DC power supplies
-- Complete Soldering (DIP and Reflow) setup
-- 10+ sets of soldering equipment for workshops and training
-
-#### Microcontrollers
-
-- Large and diverse stock of Microcontrollers and programmers (PIC, ATMEL(Arduino), Texas Instruments)
-- Large stock of sensors and actuators for microcontroller projects
-
-#### Material Handling
-
-- Palette Jack
-- Lift Table
-
-#### Misc
-
-- Mechanical Engraver
-
 # Financial Plan(funding requirements, financial statements, analysis)
 
 ## Membership
@@ -348,3 +301,50 @@ As we've previously shown, our Membership, Donations and Fundraising fully suppo
 - Boeing
 
 Many of those companies already have employees that frequent our space.
+
+## Business Assets
+
+It won't be surprising to know that the majority of our assets include our tools and equipment. In addition to a great set of standard hand tools we have tools ranging from metal working to wood working to prototyping and more.
+
+### Metal
+
+- 7x10 Lathe
+- Taig Micro Lathe
+- CNC Lathe
+- Drill Presses
+- Band Saw
+- Complete Mig welding setup
+
+### Wood
+
+- Scroll Saw
+- Skill Saw
+
+### Plastic and Prototyping
+
+- 100 Watt 4'x2' Laser Cutter
+- Rep Rap 3D Printer
+- Makerbot Cupcake-clone 3D Printer
+- Vacuum forming Table
+
+### Electronics
+
+- Wide selection of electronics components (DIP and SMD)
+- 2 Oscilloscopes, analog and digital
+- 4 DC power supplies
+- Complete Soldering (DIP and Reflow) setup
+- 10+ sets of soldering equipment for workshops and training
+
+### Microcontrollers
+
+- Large and diverse stock of Microcontrollers and programmers (PIC, ATMEL(Arduino), Texas Instruments)
+- Large stock of sensors and actuators for microcontroller projects
+
+### Material Handling
+
+- Palette Jack
+- Lift Table
+
+### Misc
+
+- Mechanical Engraver
