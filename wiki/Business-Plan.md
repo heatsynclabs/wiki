@@ -143,6 +143,24 @@ Throughout this past year we focused on education, not only internally, but exte
 
 Recently we've waded into science education waters. Many classrooms can't afford to put money down for the equipment needed to perform hands on experiments that shine light on the theory that kids learn in the classroom. We found a local teacher on [donorschoose.org](http://www.donorschoose.org/) looking for help funding science education materials. Since then we've been working with her to help develop, implement and fund her science course ware. Our first two labs included an earthquake simulation on student built toothpick structures and an examination of strawberry DNA. Further, we've found that these labs are only needed once per year and storage is also a challenge for teachers so we've begun building a storehouse of lab materials which we intend to provide to more classrooms throughout this year.
 
+### Donations
+
+Donations have been a key to our success from the outset. They are how the majority of our community show their support. Usually these donations are not necessarily monetary, but rather equipment based.
+
+When we finally started pulling the space together in 2009, the first donations to come in were standard hand tools including hammers, wrenches, drivers, saws, etc.
+
+With hand tools covered our community moved on to create our electronics lab. Thousands of dollars in electronics and test equipment rolled into the space over the course of several months. These donations included oscilloscopes, dc power supplies, soldering equipment, and standard electronic components.
+
+What we really needed at this point was pieces of high priced and attention grabbing equipment that couldn't necessarily be found in anyones garage. Historically, 3D prototyping had been priced out of reach of the general public at \$10,000 and up. A new device was changing that though. The Rep Rap is a free design for an affordable 3D Printer that claims it can be built with simple hand tools and electronics equipment for around \$1000 in parts. We raised that \$1000 in 5 days.
+
+By summer we were months into working on our 3d printing technology and had serious needs in the mechanical engineering department. The community turned its attention to larger metal working equipment. Again thousands of dollars in metal working equipment including a band saw, 7x10 lathe and drill presses arrived. At the same time our members approached the local manufacturer Taig about a deal on their beautiful Mini Lathes. We were apprehensive about our ability to convince them as our 501c3 still had not cleared. We walked away the same day with a machine worth \$400.
+
+In December we continued our started campaign to bring in exclusive and approachable tools. We began an innovative donation drive to collect \$7500 to purchase a 700lb. Laser Cutter. We utilized the online fund-raising platform Kickstarter.com and were able to beat our fundraising goal of \$7500 in under 30 days, by bringing in almost \$10,000!
+
+In January there was nothing to do but wait for our Laser Cutter to be manufactured and shipped. During this time Welding became a hot topic in the lab. A Mig welder, welding cart, and welding table, at least \$500 in value, were donated allowing us to begin holding welding workshops.
+
+We don't necessarily know what the big donation drive will be, but when this community needs something, it reaches it's goals.
+
 # Development plan (Execution of Marketing Strategy) (plan of action?)
 
 We have outgrown our current home at Gangplank and as such have created a committee to begin searching for new space in the Phoenix Metro region. This move has the possibility of being very stressful to the organization so it has been decided that we would approach the cities themselves looking for a longterm partner to make sure this next move would be the one that puts us either in our final home, or one clear step away from it.
