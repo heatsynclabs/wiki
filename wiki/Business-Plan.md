@@ -265,6 +265,24 @@ Community partnership is very important to HeatSync. Our goal isn't to obtain an
 - **O'Reilly Press** - The O'Rielly group has long worked within the maker community with their Make and Craft publications and their MakerFaire national conference/science fair. We've got strong ties to their group and we are now working to host a Maker Faire event in the Phoenix Area.
 - **Global Hacker Spaces** - The hackerspace movement is a global phenomenon and as such we have partners throughout the United States, and the world. We're working to create a nonprofit umbrella organization to aid people around the world in creating hacker spaces in their locations. Collaborating with teams around the world allows us to find the best minds to work on solutions for projects.
 
+## Professional Resources
+
+- Shelley Detwiller DiGiacomo - Lawyer
+
+  
+Osborn Maledon
+
+\(602\) 640-9358
+
+www.omlaw.com
+
+- Carolyn Sechler - CPA
+
+  
+\(602\) 230-2700
+
+<http://www.azcpa.com/>
+
 # Financial Plan(funding requirements, financial statements, analysis)
 
 ## Membership
