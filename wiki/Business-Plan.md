@@ -1,6 +1,6 @@
 "Non-profit, as well as government agency business plans tend to focus on the "organizational mission" which is the basis for their governmental status or their non-profit, tax-exempt status, respectively." - Wikipedia
 
-# Executive Summary
+# Executive Summary(We write this last)
 
 # Industry Overview (industry sector,trends,major players,overall industry sales,our place)
 
