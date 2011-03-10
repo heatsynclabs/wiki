@@ -2,7 +2,7 @@
 
 **Please add links to your projects here, in reverse chronological order!**
 
-- [Microwave_Furnace](Microwave-Furnace) Microwave-Oven Smelting Furnace
+- [ Microwave-Oven Smelting Furnace](Microwave-Furnace)
 - [SEM Microscopy](SEM-Microscopy)
 - [RFID_Access](RFID-Access) control system in Arduino
 - [Accessibility](Accessibility) grant research
