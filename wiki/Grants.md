@@ -41,9 +41,7 @@ Not really a grant but they'll deck out your educational lab, offer discounts, e
 
 - [Home Depot Opportunities](http://corporate.homedepot.com/wps/portal/Grants)
 
-`production and preservation of affordable, efficient and healthy housing.`
-
-In-kind product donations through Framing Hope program in partnership with Gifts In Kind International stores have a limited supply of \$25 donation coupons to assist local nonprofits with their small donation needs. Please see a member of the store management team or the Team Depot Captain for more information. Team Depot, our associate volunteer force, uses the time and talents of our associates to meet community needs through hands-on service Organizations requesting event and sports sponsorships should apply at www.homedepotproposals.com. The National Gardening Association, in partnership with The Home Depot, awards Youth Garden Grants to schools and community organizations with child-centered garden programs. Please visit the National Gardening Association’s Web site for more information or to apply.
+Production and preservation of affordable, efficient and healthy housing. In-kind product donations through Framing Hope program in partnership with Gifts In Kind International stores have a limited supply of \$25 donation coupons to assist local nonprofits with their small donation needs. Please see a member of the store management team or the Team Depot Captain for more information. Team Depot, our associate volunteer force, uses the time and talents of our associates to meet community needs through hands-on service Organizations requesting event and sports sponsorships should apply at www.homedepotproposals.com. The National Gardening Association, in partnership with The Home Depot, awards Youth Garden Grants to schools and community organizations with child-centered garden programs. Please visit the National Gardening Association’s Web site for more information or to apply.
 
 - [Freescale](http://www.freescale.com/webapp/sps/site/homepage.jsp?code=ABUCMMINVOLVEMNT)
 
