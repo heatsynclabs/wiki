@@ -80,4 +80,4 @@ On mcmaster carr I drilled down to socket cap screws-\>standard head-\>drive by 
 - m4 91290A168 \$6.39 x100 20mm black oxide
 - m5 91290A242 \$7.67 x100 20mm black oxide
 - m6 91290A326 \$8.23 x100 20mm black oxide
-- m8 91290A168 \$6.39 x100 20mm black oxide
+- m8 91290A426 \$9.22 x50 20mm black oxide
