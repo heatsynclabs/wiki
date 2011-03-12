@@ -51,7 +51,7 @@ Request for money/volunteers for an event Education (STEM), The Environment, Hea
 
 Education, Workforce Development, Health and Wellness, Environmental Stability, Hunger Relief, Small Business Support, Youth Entrepreneurship. \$250-\$5k February to Dec 1
 
-- [1](http://info.cvscaremark.com/community/our-impact/community-grants)
+- [CVS Caremark](http://info.cvscaremark.com/community/our-impact/community-grants)
 
 For children with disabilities, health care for the uninsured or underserved, or public schools) Up to \$5k funded January 1 and ending on October 31.
 
