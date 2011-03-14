@@ -1,8 +1,11 @@
-There are a lot of community grants out there from the local business that you and your friend and family may work at! The search term you seem to want for this is community, like business name and community, or community grants, community outreach, community giving, community involvement etc.
+There are a lot of community grants out there from the local business that you and your friends and family may work at! The search term you seem to want for this is community, like business name and community, or community grants, community outreach, community giving, community involvement etc.
 
 - <http://grants.nih.gov/grants/guide/rfa-files/RFA-DA-11-013.html>
 - <http://grants.gov/> government grants for research and development
-- <http://www.sbir.gov/> SBIR for FOR PROFIT groups, STTR grants for FOR profit small businesses
+
+-http://www.grants.gov/search/search.do;jsessionid=YpXfN9sRq3hhyLKjvsb8VYgg9xcQ1kzFqkS8hVpvTBtCsQLgnrPD!-162783228?oppId=76953&mode=VIEW (1) Improve results for children with disabilities by promoting the development, demonstration, and use of technology; (2) support educational media services activities designed to be of educational value in the classroom setting to children with disabilities; and (3) provide support for captioning and video description that are appropriate for use in the classroom setting -http://www.grants.gov/search/search.do;jsessionid=YpXfN9sRq3hhyLKjvsb8VYgg9xcQ1kzFqkS8hVpvTBtCsQLgnrPD!-162783228?oppId=55774&mode=VIEW Inspire the next generation of scientists and engineers. \[Grades K-10\]● Engage students in STEM-related hands-on learning activities using Navy content. \[Grades 3-12\]● Educate students to be well-prepared for employment in STEM disciplines in the Navy or in supporting academic institutions or the Naval contractor community. \[Higher Education\]● Employ, retain and develop Naval STEM professionals. \[Higher Education, Professional Development, Faculty\]● Collaborate across Naval STEM programs to maximize benefits to participants and the Navy. -http://www.grants.gov/search/search.do;jsessionid=YpXfN9sRq3hhyLKjvsb8VYgg9xcQ1kzFqkS8hVpvTBtCsQLgnrPD!-162783228?oppId=58675&mode=VIEW applications for research and development of technologies that monitor health or deliver care in a real-time, accessible, effective, and minimally obtrusive way. These systems are expected to integrate, process, analyze, communicate, and present data so that the individuals are engaged and empowered in their own healthcare with reduced burden to care providers.
+
+- <http://www.sbir.gov/> SBIR for FOR PROFIT groups, STTR grants for for profit small businesses or research non profits
 - <http://www.refresheverything.com/>
 
 Social Media based funding Starts up again April 4th
