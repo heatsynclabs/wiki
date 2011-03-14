@@ -1,11 +1,3 @@
-Still like this stuff even though it doesn't fit currently:
-
-# Idea
-
-We reject cubicles, offices, partitions, and silos.
-
-We are a community workshop which promotes Do-It-Yourself science and education and prides ourselves on application -in addition- to theory.
-
 # NEEDS
 
 I've got a lot of the 'poetry' written, though feel free to go through and make edits you feel necessary. What we need comes down to some hard research and brainstorming.
@@ -99,3 +91,10 @@ Hackerspaces
 - Hackerspaces by the numbers--Interesting if not academic and slightly messy
 
 <http://extreme.ajatukseni.net/2010/07/19/hackerspaces-members-and-involvement-survey-study/>
+
+# Castoffs
+
+Still like this stuff even though it doesn't fit currently:
+
+- We reject cubicles, offices, partitions, and silos.
+- We are a community workshop which promotes Do-It-Yourself science and education and prides ourselves on application -in addition- to theory.
