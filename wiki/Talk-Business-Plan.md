@@ -8,7 +8,7 @@ We are a community workshop which promotes Do-It-Yourself science and education 
 
 # Industry
 
-Sparkfun 1,000,000 widget! over 10+ million in revenue
+Sparkfun 1,000,000 widget! 3/14 <http://www.sparkfun.com/news/566> over 10+ million in revenue
 
 Adafruit Over 1+ million in revenue
 
