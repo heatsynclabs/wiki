@@ -73,7 +73,8 @@ Makershed
 Parallax
 
 - Over 1+ million in revenue
-- <http://www.slideshare.net/adafruit/open-source-hardware-foo-camp-east-2010-3995472>
+
+<http://www.slideshare.net/adafruit/open-source-hardware-foo-camp-east-2010-3995472>
 
 Make Magazine
 
