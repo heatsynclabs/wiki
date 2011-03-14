@@ -14,7 +14,7 @@ INDUSTRY - need numbers, overall trends, specifically what and who are the playe
 - other hackerspaces growth?
 - ?
 
-MARKET ANALYSIS - need numbers, specifically who and how many are the DIYers we are targeting
+TARGET MARKET - need numbers, specifically who and how many are the DIYers we are targeting
 
 - engineers (ieee) who need to work on their prototype
 - high schools within x miles who don't have shop programs
@@ -22,7 +22,7 @@ MARKET ANALYSIS - need numbers, specifically who and how many are the DIYers we 
 - home tinkerer/hobbyist
 - ?
 
-Marketing Plan-how do we reach our previously established market
+MARKETING PLAN-how do we reach our previously established market
 
 - presentations at high schools and colleges - free
 - magazines - make, craft, nuts and volts, circuit cellar, machinist magazine? How much?
