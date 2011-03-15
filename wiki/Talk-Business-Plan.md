@@ -83,8 +83,7 @@ Makerfaire
 - 2008 San Mateo 65,000 people, Austin Tx
 - 2009 Bay Area 78,000, New York, Detroit, UK Newcastle upon Tyne, Rhode island
 - 2010 North Carolina, Detroit, New York, Bay Area attendance estimated 160,000 <http://www.google.com/url?sa=t&source=web&cd=1&ved=0CBYQFjAA&url=http%3A%2F%2Fmakezine.com%2Fimages%2Fadvertise%2FSellSheets2010-MakerFaire.pdf&rct=j&q=makerfaire%20attendence&ei=Imd-TYf0CY71rAHYvqDmBQ&usg=AFQjCNE3GyvCtALBIJmC5XKHvP7MVizmUg&sig2=CExASrwXBGq6hOqMM9HxGw&cad=rja>
-
-2011 UK, San Mateo, North Carolina, Vancouver, Detroit, New York
+- 2011 UK, San Mateo, North Carolina, Vancouver, Detroit, New York
 
 Hackerspaces
 
