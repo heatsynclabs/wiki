@@ -9,6 +9,7 @@ INDUSTRY - need numbers, overall trends, specifically what and who are the playe
 - defcon / ccck attendence over last years--are we really hackers though?
 - diy tv? like bob vila? what else?
 - art?
+- music?
 - vocational schools? like evit?
 - sparkfun, adafruit, etc? growth?
 - other hackerspaces growth?
