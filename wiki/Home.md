@@ -36,6 +36,7 @@
 <ul>
 <li><a href="Local-Resources">Local Resources</a></li>
 <li><a href="Podcasts">Podcasts</a></li>
+<li><a href="Press-Kit">Press Kit</a></li>
 </ul>
 <div style="margin:0;background-color:#e0ffe0;font-size:120%;font-weight:bold;border:1px solid #80e080;text-align:left;color:#000;padding:0.2em 0.4em;">
 <p>Serious Business</p>
@@ -82,5 +83,3 @@
 </table>
 
 <small>Newly... [edited articles](Special-Recentchanges), [created articles](Special-Newpages), [uploaded images](Special-Newimages)</small>
-
-<small>New Server..Horray -- New Domain..Horray -- And Redirects in place.</small>
