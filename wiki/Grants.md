@@ -110,3 +110,5 @@ Looks like a good collection of software hardware donations for nonprofits - We 
   - [Brothers Big Sisters](http://www.bbbs.org/Big)
   - [Boys and Girls](http://bgca.org/)
   - [United Way](http://liveunited.org/)
+
+Science Foundation of Arizona [1](http://www.sfaz.org/live/collection/grant-opportunities)
