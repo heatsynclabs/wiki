@@ -22,7 +22,7 @@ Membership to HSL is on an application/approval basis. Each application will be 
 
 <!-- -->
 
-- **Sponsorships** are any amount over \$75 per month, and confers the right to have your name on the list of members, 24/7 access to the lab, including a key to the building and security code, and personal project space for a banker box (first box provided by HeatSync Labs), **plus a locker, and opportunity for promotion. Contact the Board for more information about promotion.** It includes all the membership rights listed herein unless otherwise specified.
+- **Sponsorships** are simply monthly recurring donations which confer no rights.
 
 ### Membership Fees
 
@@ -62,24 +62,29 @@ The membership of a member shall terminate upon the following events:
 
 ## General Space Safety Rules
 
+The workshop is considered the HeatSync labs doors, proceeding beyond that line (actually mark a yellow line) constitutes agreement with these guidelines.
+
 ### General
 
-- All accidents are to be reported to any Officer as soon as possible
-- Safety violations you witness should be reported to any Officer as soon as possible.
-  - Or, if it minor and you are sure of the best practice, show it the member to spread the knowledge.
-- Use correct tools for your work.
+- Clean up after yourself after using any machine, including cleaning machine and floor area around it and returning any items to their proper location.
+- Do not use a machine if you have not been shown how to operate it safely by the teacher.
+- All accidents are to be reported to any Officer as soon as possible, within 24 hours at the latest.
+- Safety violations you witness should be reported to any Officer as soon as possible, within 24 hours at the latest.
+- Only use correct tools for your work.
 - When carrying tools, sharp edges should be pointed downwards.
 - Be patient and do not rush.
 - Avoid distractions.
 - Don’t work on anything when you are angry or upset.
+- Only use tools you’ve been trained and/or approved to work with/on.
+- Familiarize yourself with the location and contents of the first aid station and report any outage of first aid materials
 
 ### Workshop
 
-- Avoid working alone in the workshop.
+- Avoid working alone in the workshop whenever possible.
 - Avoid creating a cluttered work area while working, especially if others are working in the workshop at the same time.
 - Be aware when working with long items such as 2x4s as to not hit equipment or people
 - When multiple tools are in being utilized on a single workbench, only one tool should be in operation at a time.
-- Only one splitter or surge protector per outlet. Do not “daisy chain” them.
+- Only one splitter or surge protector per outlet. Do not “daisy chain” them or overload the outlet.
 
 ### Equipment
 
@@ -98,7 +103,136 @@ The membership of a member shall terminate upon the following events:
 - Safety goggles or a face shield must be worn when using any equipment that expels debris (saws, routers, etc...)
 - Remove any dangling jewelry such as neck chains or bracelets.
 - Roll up sleeves.
-- Tie up long hair.
+- Tie back long hair
+
+## Equipment Use Guidelines
+
+### General Hand Tools
+
+- Use these tools only for their intended purposes.
+
+### Woodworking/Saws
+
+- Tool is in a safe position (won't tip/fall,
+- Cut away from you, think "where are my hands and fingers going to end up?"
+- Check the people around you, and any electric cords or unsafe things that may be in the way
+  - Alert them before you begin (glasses, dust, noise)
+- Adjust saw when it's unplugged
+
+<!-- -->
+
+- Remember actual lumber size (1x4 isn't actually 1"x4")
+- Measuring & planning, taking into account geometry of joins and size of material
+
+### Laser Cutter
+
+- HeatSync Training required for use
+- Restrict access to trained, waivered, and authorized members.
+- Access will be monitored to bill usage.
+- Do NOT leave machine unattended
+
+### Lathe
+
+- HeatSync Training required for use
+- To clean, gently vacuum and/or brush the chips away from the ways to prevent damage.
+- Always wear eye protection - preferably industrial quality safety glasses with side-shields. The lathe can throw off sharp, hot metal chips at considerable speed as well as spin off spirals of metal that can be quite hazardous. Don't take chances with your eyes.
+- Wear short sleeve shirts, if possible, or shirts with snugly fitting cuffs if long sleeve. Loose sleeves can catch on rotating work and quickly pull your hand or arm into harm's way.
+- Wear shoes - preferably leather work shoes - to protect your feet from sharp metal chips on the shop floor and from tools and chunks of metal that may get dropped.
+- Remove wrist watches, necklaces, chains and other jewelry. It's a good idea even to remove your wedding ring since it can catch on rotating work and severely damage your ring finger and hand.
+- Tie back long hair so it can't get caught in the rotating work. Think about what happens to your face if your hair gets entangled.
+- Always double check to make sure your work is securely clamped in the chuck or between centers before starting the lathe. Start the lathe at low speed and increase the speed gradually.
+- Get in the habit of removing the chuck key immediately after use. Some users recommend never removing your hand from the chuck key when it is in the chuck. The chuck key can be a lethal projectile if the lathe is started with the chuck key in the chuck.
+- Keep your fingers clear of the rotating work and cutting tools. This sounds obvious, but I am often tempted to break away metal spirals as they form at the cutting tool.
+- Avoid reaching over the spinning chuck. For filing operations, hold the tang end of the file in your left hand so that your hand and arm are not above the spinning chuck.
+- Never use a file with a bare tang - the tang could be forced back into your wrist or palm. Inexpensive wooden handles are readily available for common file sizes.
+  - You must clean up dust AND/OR you must not grind aluminum
+    - Aluminum dust can ignite and cause extreme injury
+
+### Welder
+
+- HeatSync Training required for use
+- Welding emits dangerous levels of visible and invisible wavelength light, use of TIG-approved goggles/helmet and only TIG-approved goggles/helmet is necessary when TIG welding
+  - Acetylene goggles are dangerous to use on TIG welders
+- Wear Flame retardant gloves, apron and if necessary hang flame retardant curtain to protect yourself and the workshop
+
+### 3D Printing
+
+- For standard setup (ABS plastic, and the DC motor) set motor speed and PWM to 255 and extruder target temperature to 225 and bed temperature to 110.
+- Run the extruder heater for as long as it takes for the heated bed to reach temperature in order to clear the nozzle and obtain proper flow
+- Be careful to be aware of your ‘zero’ location, both in the digital file and in the software, so as not to crash the x stage into the nozzle or any of the limits
+- Do NOT leave machine unattended
+
+### Soldering
+
+- Clean your tips by using tip tinner, and brief and rare applications of the damp sponge or the brass cleaning wool
+- Before finishing, tin the tip fully to prevent oxidation when not in use
+- Never leave iron on and not in use for long periods of time
+- Keep hot surfaces away from burnable, meltable, or injurable areas.
+- When using hot air reflow, avoid extended low speed airflow and high temperature, as the unit can overheat.
+- Utilize the air filter, if available, on your iron to protect you from solder/flux fumes or only solder in well ventilated rooms
+
+### Bandsaw
+
+- Use the appropriate type of blade (wood, metal)
+  - Coarser blades are better for harder wood.
+
+### Laptops
+
+### Bench Grinder
+
+- Keep away from electronics due to conductive dust
+- Wheels can shatter simply by being bumped
+- DO NOT STAND in front of it when turning on and turning off, as a shattering wheel can and will kill you.
+  - You must clean up dust AND/OR you must not grind aluminum
+    - Aluminum dust can ignite and cause extreme injury
+
+### Angle Grinder
+
+- Ear Protection is advised
+  - You must clean up dust AND/OR you must not grind aluminum
+    - Aluminum dust can ignite and cause extreme injury
+
+### Pallet Jack
+
+- Certified Weights (we have a 1ton?)
+- No standing, riding
+
+### Lift Table
+
+- Certified Weights (we have a 1ton?)
+- No standing, riding
+
+### Air Compressor
+
+### Blow Torch
+
+### Dremel
+
+- Eye protection must be observed
+
+### Oscilloscope
+
+- Don’t connect to high voltage sources(define high)
+- Be careful with oscilloscope probes as they are sensitive devices!
+
+### Hand Drill & Drill Press
+
+- Appropriate speed based on diameter and hardness(define)
+- How do they know if a bit is good
+- What to do with bad bits (put them in upside down for resharpening?)
+- Types of bits (general vs precision)
+
+### Hand Driver
+
+### Books
+
+- Buy: “Metalworking: Sink or Swim” and “Machine Shop Trade Secrets” -- training/reference material rec’d by Corey
+
+### Consumables
+
+- Consumables are not a part of membership. However, spare stock from projects is stored in the rear-left corner and may be used (and is encouraged to be refilled).
+- Expensive consumable usage will be tracked (RFID?)--wouldn’t even say this, nothing in place yet
+- Expenses that go above a certain amount will be charged back to the member in order to finance replacement consumables.--wouldn’t even say this, nothing in place yet
 
 ---
 *Categories: [Rules and Policies](Category-Rules-and-Policies)*
