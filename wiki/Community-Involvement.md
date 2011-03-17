@@ -21,6 +21,10 @@ The HeatSync Labs Community Involvement page is intended to document articles re
 
 - <http://www.azcentral.com/community/mesa/articles/2011/02/22/20110222mesa-editorial-imesa-residents0222.html> AZ Central briefly mentions us in an opinion article relating to HSL's surge to the top of Mesa's people's voice forum called iMesa.
 
+<!-- -->
+
+- <http://blogs.phoenixnewtimes.com/jackalope/2011/03/heatsync_labs_gains_nonprofit.php>
+
 ## Presentations
 
 - <http://igniteshow.com/videos/surprise-your-child-has-autism-now-what> Jim St. Leger name drops us at Ignite Phoenix \#8 - "Surprise Your Child Has Autism, Now What?"
