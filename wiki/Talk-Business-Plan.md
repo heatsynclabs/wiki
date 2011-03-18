@@ -95,6 +95,10 @@ Hackerspaces
 
 <http://extreme.ajatukseni.net/2010/07/19/hackerspaces-members-and-involvement-survey-study/>
 
+# Marketing Plan Brainstorming
+
+Mechanical Engineers--there is SAE mag, Invention & Techonology Mag and SciAM
+
 # Castoffs
 
 Still like this stuff even though it doesn't fit currently:
