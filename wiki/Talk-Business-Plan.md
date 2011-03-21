@@ -113,7 +113,7 @@ Hackerspaces
 # Marketing Plan Brainstorming
 
 - Presentations at high schools and colleges, for students target parent and teacher, leave materials behind, presentations at supply places like Tempe Yarn, hobby shops, more?, bring other DIY groups in (geek girls, valley metal) and have one of their meetings here
-- Magazines - Makers - make zine and blog, EE's --nuts and volts, circuit cellar, Machinists--machinist magazines (SAE mag, Invention & Technology Mag and SciAM), Crafters- ravelry, craft blog, other crafting magazines blogs?, Music?
+- Magazines/blogs - Makers - make zine and blog, EE's --nuts and volts, circuit cellar, Machinists--machinist magazines (SAE mag, Invention & Technology Mag and SciAM), Crafters- ravelry, craft blog, other crafting magazines blogs?, Music - Matrix Synth <http://matrixsynth.blogspot.com/> Synth-DIY <http://www.synthdiy.com/>?
 - Flyers and costumes for art walks?-how much?
 - Google adwords? which and for how much?
 - Sponsorships - for students and makers, for FRC teams, Makersfaire trips, other projects
