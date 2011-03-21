@@ -102,11 +102,15 @@ In order to raise awareness, excitement and understanding of technology amoung k
 
 Current Opportunities
 
-First Lego League / First Robotics Competition
+- First Lego League / First Robotics Competition
+- Electronics / Mechanical Engineering Workshops
 
-Electronics / Mechanical Engineering Workshops
+Additional Activities
 
-Additional Activities - Participating and promoting in local science fairs / Makers Fair - Engaging Science/Technology teachers by conducting classroom demonstrations. Showcasing past/current and future projects. They can then provide the information to interested students and parents - Hosting and promoting STEM activities at the local school and district levels - Presentations to parent-teacher organizations
+- Participating and promoting in local science fairs / Makers Fair
+- Engaging Science/Technology teachers by conducting classroom demonstrations. Showcasing past/current and future projects. They can then provide the information to interested students and parents
+- Hosting and promoting STEM activities at the local school and district levels
+- Presentations to parent-teacher organizations
 
 # Current Business Accomplishments
 
