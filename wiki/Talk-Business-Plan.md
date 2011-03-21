@@ -22,14 +22,16 @@ TARGET MARKET - need numbers, specifically who and how many are the DIYers we ar
 - high schools within x miles who don't have shop programs
 - colleges disenfranchised
 - home tinkerer/hobbyist
+- FRC participants
 - ?
 
 MARKETING PLAN-how do we reach our previously established market
 
 - presentations at high schools and colleges - free
-- magazines - make, craft, nuts and volts, circuit cellar, machinist magazine? How much?
+- magazines - make, craft, nuts and volts, circuit cellar, machinist magazines? How much?
 - flyers and costumes for art walks?-how much?
 - google adwords? how much?
+- 
 - ?
 
 # Industry Brainstorming
