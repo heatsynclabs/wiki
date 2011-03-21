@@ -36,8 +36,12 @@ MARKETING PLAN-how do we reach our previously established market
 
 # Industry Brainstorming
 
-Techshop Just opened San Fran and" New York, Detroit and San Jose, California locations are coming soon, the company says." stopping the franchise model, Re opening the Portland franchise and taking over the north carolina franchise <http://www.wired.com/gadgetlab/2011/03/techshop-san-francisco-video/> <http://blog.oregonlive.com/siliconforest/2010/04/techshop_portland_goes_chapter.html> <http://techshop.ws/ts_sanjose.html> <http://techshop.ws/ts_detroit.html>
+Techshop Just opened San Fran and" New York, Detroit and San Jose, California locations are coming soon, the company says." stopping the franchise model, Re opening the Portland franchise and taking over the north carolina franchise:
 
+<http://www.wired.com/gadgetlab/2011/03/techshop-san-francisco-video/>\
+<http://blog.oregonlive.com/siliconforest/2010/04/techshop_portland_goes_chapter.html>\
+<http://techshop.ws/ts_sanjose.html>\
+<http://techshop.ws/ts_detroit.html>\
 Sparkfun
 
 - 1,000,000 widget! 3/14 <http://www.sparkfun.com/news/566>
