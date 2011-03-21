@@ -110,6 +110,8 @@ Hackerspaces
 
 <http://extreme.ajatukseni.net/2010/07/19/hackerspaces-members-and-involvement-survey-study/>
 
+# Target Market Brainstorming
+
 # Marketing Plan Brainstorming
 
 - Presentations at high schools and colleges, for students target parent and teacher, leave materials behind, presentations at supply places like Tempe Yarn, hobby shops, more?, bring other DIY groups in (geek girls, valley metal) and have one of their meetings here
