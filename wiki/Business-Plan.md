@@ -74,6 +74,8 @@ We're looking to find the curious and motivated, be it by word of mouth, walk by
 - **Basic Member** - \$50 per month, and you get the benefits of associate membership, plus 24/7 access to the lab, including a key to the building and security code. This also includes personal project space for a banker box (box provided by HeatSync Labs.)
 - **Plus Member** - \$75 per month, and you get all the benefits of basic membership, plus a locker in the lab!
 
+In general wed like to advertise on location with presentations and discussion groups. Advertising in magazines, blogs, and utilizing google adwords will also be important. Finally we would like to look into sponsorships of local makers, from students to FRC teams to trips to conventions and funding projects, wed like to make sure local Makers are getting the resources they need.
+
 ### Entrepreneurs
 
 TechCrunch and other online sites have fetishized the startup lifestyle and it will be important to capitalize on this with students, hobbyists and entrepreneurs. Participating in and speaking on panels for events like ASU's Global Entrepreneur Week and at the Arizona Tech Council will advertise us as the obvious place to go when first developing product prototypes and looking for partners on a startup team.
@@ -82,19 +84,21 @@ TechCrunch and other online sites have fetishized the startup lifestyle and it w
 
 Outreach to students should be done on campus. Poster advertising is free, and student ambassadors would be cheap to hire. Another method of reaching these users could be through speeches and presentations on campus. Student groups will be another excellent way of reaching the demographic. Linux Users Groups and on campus engineering fraternities and societies will be a valuable resource.
 
-Being ingrained in the Make culture is the big way to reach hobbyists. Make Magazine, blog.makezine.com, hackaday.com, and hackerspace advertising are the way to reach these part time inventors. Nuts and Volts, other?
+Being ingrained in the Make culture is the big way to reach hobbyists. Make Magazine, blog.makezine.com, hackaday.com, and hackerspace advertising are the way to reach these part time inventors. Visits and promotions through local hobby shops will also be important.
 
 ### Artists
 
-Find these people throughout the local groups spread across the valley. Events like First Friday in downtown phoenix are teaming with artists. From what we've gathered talking to artists at these events what they are mainly looking for is space to work in. Organizations like Urban Stew pair art and technology for public art shows. Targeting students on the campuses can draw in artists. Pairing with vendors and local art stores for discounts can help those establishments and be incentive to join our community. We can pull in artists with photography competitions, showings/galleries, and free nights for groups to use tools. We want to also target the craft/DIY communities. Groups like PHY DIY and Geek Girls have huge groups of crafters doing interesting work in the valley.
+Find these people throughout the local groups spread across the valley. Events like First Friday in downtown phoenix are teaming with artists. From what we've gathered talking to artists at these events what they are mainly looking for is space to work in. Organizations like Urban Stew pair art and technology for public art shows. Targeting students on the campuses can draw in artists. Pairing with vendors and local art stores for discounts can help those establishments and be incentive to join our community. We can pull in artists with photography competitions, showings/galleries, and free nights for groups to use tools. We want to also target the craft/DIY communities. We can reach these groups through web sites like Ravelry and the Craft Blog, and visits to local shops like Tempe Yarn. Groups like PHY DIY and Geek Girls have huge groups of crafters doing interesting work in the valley already. It will be necessary to offer to host one of their monthly events at our location to acclimate them to our offerings. Finally, DIY music mainly happens online. Matrix Synth (http://matrixsynth.blogspot.com/) and Synth-DIY (http://www.synthdiy.com/) are popular music communities. Promotions at local music shops and college music groups will also be important.
 
 ### Professionals (Engineers)
 
-The way to reach these users will be through their professional society and through professional publications. Electrical engineers utilize resources such as IEEE publications, Circuit Cellar, Nuts and Volts, Wired and possibly Linux publications and the IEEE Phoenix membership is 3,600 members strong. Mechanical engineers have local users groups throughout the valley already. Groups like Valley Metal and XXX bring together hobbyist mechanical engineers to
+The way to reach these users will be through their professional society and through professional publications. Electrical engineers utilize resources such as IEEE publications, Circuit Cellar, Nuts and Volts, Wired and possibly Linux publications and the IEEE Phoenix membership is 3,600 members strong. Mechanical engineers have local users groups throughout the valley already. Groups like Valley Metal bring together hobbyist mechanical engineers to talk about their projects. Inviting them into our location to host their monthly meeting will be important. They can also be reached through publications like SAE, Invention & Technology Mag and SciAM.
 
 Another good avenue will be trade shows and strategic partnerships. It may be possible to work with the big electronics vendors including Jameco, Digikey, and Newark to cross promote by being a local presence for these online companies.
 
 ### Scientists and Academics
+
+Novel papers, conferences, good work.
 
 ### Kids
 
