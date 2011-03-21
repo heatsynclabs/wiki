@@ -13,7 +13,7 @@ INDUSTRY - need numbers, overall trends, specifically what and who are the playe
 - vocational schools? like evit?
 - sparkfun, adafruit, etc? growth?
 - other hackerspaces growth?
-- Lowes, Ace, Home Depot?
+- Lowes, Ace, Home Depot, Harbor Freight?
 - ?
 
 TARGET MARKET - need numbers, specifically who and how many are the DIYers we are targeting
