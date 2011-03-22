@@ -102,19 +102,7 @@ Novel papers, conferences, good work.
 
 ### Kids
 
-In order to raise awareness, excitement and understanding of technology amoung kids aged 5-17 and their parents we provide educational opportunities for students, educators, and parents.
-
-Current Opportunities
-
-- First Lego League / First Robotics Competition
-- Electronics / Mechanical Engineering Workshops
-
-Additional Activities
-
-- Participating and promoting in local science fairs / Makers Fair
-- Engaging Science/Technology teachers by conducting classroom demonstrations. Showcasing past/current and future projects. They can then provide the information to interested students and parents
-- Hosting and promoting STEM activities at the local school and district levels
-- Presentations to parent-teacher organizations
+In order to raise awareness, excitement and understanding of HeatSync amoung kids aged 5-17 we mainly target their parents and educators. Current opportunities include Sponsorship and volunteering with First Lego League and First Robotics Competition. Additionally we may present to parent-teacher organizations and host STEM activities within the local school and district levels.
 
 # Current Business Accomplishments
 
