@@ -26,6 +26,10 @@ Grants to obtain a space for established arts organizations
 
 501c3 required Education and Literacy, Safety and Health avg \$10k Matching programs: Team Incentive Program (TIP) - Teams of 10 or more employees who collectively raise funds for a qualified nonprofit or public school can apply for a grant that matches their fundraising, up to \$10,000 per event location. TIP Rules \>\>Matching Incentive Program (MIP) - Employees and retirees can have their contributions matched in one or more categories of giving that meet eligibility criteria. Payroll Incentive Program (PIP) - Employees can donate a portion of their paychecks to health and human service agencies, including United Way.
 
+- <http://www.smartm.com/files/community/Request_for_Corporate_Grant.pdf>
+
+Corporate and Matching donation grants--have one employee in our midst, too
+
 - <http://www.intel.com/about/corporateresponsibility/community/matchgrants.htm>
 
 Volunteering - Intel Matching Grants, 10k from intel for having an employ donate 20 hours to us! 501c3 needed
