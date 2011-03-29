@@ -38,7 +38,7 @@ By now you should be freely flowing plastic or you've got a blocked heater barre
 
 Run the plastic for at least a few minutes, making sure the plastic doesn't pile up and touch the tip.
 
-### Zero machine
+## Zero machine
 
 fakerbot doesn't know or care where it starts, you pick your zero before you print.
 
