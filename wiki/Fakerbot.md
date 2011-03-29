@@ -16,7 +16,7 @@ The X and Y stages on the MakerBot are pretty good aside from being too tall, ho
 - \(1\) Platform
 - \(2\) Extruder Mounts (Dragons)
 - \(4\) All-thread Rods (leadscrews)
-- \(4\) Driven nuts
+- \(4\) Driven nuts (leadnuts)
 - assorted screws and hardware
 
 **That giant steaming pile of hardware was replaced with:**
