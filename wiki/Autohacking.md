@@ -30,3 +30,10 @@ These links are basically for commercial versions of the obdII interface. Almost
 - [AutoEnginuity.com](http://autoenginuity.com/)
 
 **Hardware**
+
+| Adapter | Form factor | Other features | Cost(at time of writing) | Comments |
+|----|----|----|----|----|
+| Scantool.net [OBDLink](http://www.scantool.net/scan-tools/smart-phone/obdlink-bluetooth.html) | Adapter and cable (adapter can be separated from cable) | Rx/Tx Host\<-\>ECU status lights | \$149.90(Special offer), \$199.90 Normal | Flash upgradable firmware, Powersave/sleep function, [Support forums](https://www.scantool.net/forum/) Reports of good customer support. This is the best adapter if you want the fastest PID read speed. |
+| PLX Devices [Kiwi Bluetooth](http://www.plxkiwi.com/kiwibluetooth/) | Adapter and cable (adapter cannot be separated from cable) | On/off switch, link light | \$99.99 | [Support forums](http://www.plxdevices.com/forum/index.php) |
+| [OBDKey](http://www.obdkey.com/) | Single moulded unit, smallest adapter | Status/activity LED on side | £103.56 |  |
+| [Adapter from China/via ebay/amazon](http://www.ebay.com/) | Single moulded unit | Rx/Tx Host\<-\>ECU status lights | \$20.00 to \$60.00 | Many units seem to suffer poor build quality and reliability issues. Some units are perfectly fine. Make sure you purchase with a buyer who has a decent returns policy should the unit turn out to be defective. **I would recommend avoiding this adapter, \*especially\* if you intend to use it on a Ford or other vehicle which uses the J1850-PWM protocol** |
