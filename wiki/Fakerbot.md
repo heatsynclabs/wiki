@@ -27,7 +27,7 @@ The X and Y stages on the MakerBot are pretty good aside from being too tall, ho
 - \(1\) Cantilever arm (laser cut)
 - \(1\) Linear rail with truck
 
-**So an overall reduction from (27) functional components down to (5**) If you count every bolt and screw the reduction is even greater, but you get the idea.
+**So an overall reduction from (27) functional components down to (5**) If you count every bolt and screw the reduction is even greater, but you get the idea. The new Z-stage is a big improvement and has eleminated all of the jamming and wobbling problems that we had previously. It also looks better.
 
 The extruder is Corey's design hosted at <http://www.thingiverse.com/thing:4579>. It is a clean-sheet of paper design that sprang from the frustration of dealing with the shortcomings of earlier designs. So far the CoreyStruder and its derivatives have been downloaded on Thingiverse over 250 times.
 
