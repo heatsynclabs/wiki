@@ -8,13 +8,26 @@ The X and Y stages on the MakerBot are pretty good aside from being too tall, ho
 
 The following parts from the Makerbot design were removed:
 
-\- (1) Belt - (8) Bearings - (1) Driving Pulley - (4) Driven Pulleys - (2) Idler Pulleys - (1) Platform - (2) Extruder Mounts (Dragons) - (4) All-thread Rods - (4) Driven nuts - assorted screws and hardware
+- \(1\) Belt
+- \(8\) Bearings
+- \(1\) Driving Pulley
+- \(4\) Driven Pulleys
+- \(2\) Idler Pulleys
+- \(1\) Platform
+- \(2\) Extruder Mounts (Dragons)
+- \(4\) All-thread Rods
+- \(4\) Driven nuts
+- assorted screws and hardware
 
 That giant pile of hardware was replaced with:
 
-\(1\) 1/4-20 Acme leadscrew (1) Antibacklash nut (1) shaft coupler (1) Cantilever arm (laser cut) (1) Linear rail with truck
+- \(1\) 1/4-20 Acme leadscrew
+- \(1\) Antibacklash nut
+- \(1\) shaft coupler
+- \(1\) Cantilever arm (laser cut)
+- \(1\) Linear rail with truck
 
-So an overall reduction from (27) functional components down to (5). If you could every bolt and screw the reduction is even greater, but you get the idea.
+**So an overall reduction from (27) functional components down to (5**) If you count every bolt and screw the reduction is even greater, but you get the idea.
 
 The extruder is Corey's design hosted at <http://www.thingiverse.com/thing:4579>. It is a clean-sheet of paper design that sprang from the frustration of dealing with the shortcomings of earlier designs. So far the CoreyStruder and its derivatives have been downloaded on Thingiverse over 250 times.
 
