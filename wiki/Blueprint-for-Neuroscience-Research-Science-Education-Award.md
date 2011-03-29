@@ -4,6 +4,12 @@ The NIH [Blueprint for Neuroscience Research Science Education Award](http://gra
 
 Because of the disproportionately low representation of underrepresented individuals in biomedical, behavioral and clinical fields, applications that will foster science education among underrepresented racial and ethnic groups, individuals with disabilities, individuals from socially, culturally, economically, or educationally disadvantaged backgrounds that have inhibited their ability to pursue a career in health-related research are encouraged.
 
+## Letter of Intent
+
+[HeatsyncLabsLoI.pdf](files/HeatsyncLabsLoI.pdf)
+
+*HeatsyncLabsLoI.pdf*
+
 ## Phase One
 
 1.  We build a passive and opto isolated amp and electrode rig of at least 2 channels based on the OpenEEG project. This is a known safe design that won't require further testing other than to assure our quality control produces a safe product.
