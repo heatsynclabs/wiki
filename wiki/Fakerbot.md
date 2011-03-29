@@ -2,7 +2,7 @@
 
 # About
 
-The machine is called a FakerBot, because it's not quite a MakerBot, but there is a direct lineage. Since we didn't have access to a laser-cutter and we wanted to do it on the cheap, the frame was slightly redesigned so that it could be cut on a tablesaw from inch material. The tongue and groove construction was replaced with dado-cut slots. All holes were made with a 7/8" forstner bit, this allows them to take a skate board bearing (a paper shim is required) or anything else that we wanted through the use of adapter plates since we knew that mods were likely. Total cost of the enclosure was \$13 for a sheet of 1/4" Luan from Home Despot (actually 5.2mm)
+The machine is called a FakerBot, because it's not quite a MakerBot, but there is a direct lineage. Since we didn't have access to a laser-cutter and we wanted to do it on the cheap, the frame was slightly redesigned so that it could be cut on a tablesaw from inch material. The tongue and groove construction was replaced with dado-cut slots. All holes were made with a 7/8" forstner bit, this allows them to take a skate board bearing (a paper shim is required) or anything else that we wanted through the use of adapter plates since we knew that mods were likely. Total cost of the enclosure was \$13 for a sheet of 1/4" (actually 5.2mm) Luan from Home Despot which provided enough material to make four even though we only made one.
 
 The X and Y stages on the MakerBot are pretty good aside from being too tall, however the Z-stage is a horrible design. It is overly complex, wobbly, prone to jamming, etc. A replacement z-stage was designed by Corey with the goal of making Z simple and reliable:
 
