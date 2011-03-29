@@ -7,6 +7,6 @@ With the variety of tools at HeatSync, this page is intended to keep a running r
 - [Toaster Oven Reflow Soldering](Toaster-Oven-Reflow-Soldering)
 - [Vacuum Forming](Vacuum-Forming)
 - [Microfiche](Microfiche)
-- [RepRapping](RepRapping)
+- [ 3D Printing!](Fakerbot)
 - [Tapping](Tapping)
 - [NutsandBolts](NutsandBolts)
