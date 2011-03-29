@@ -19,7 +19,7 @@ The X and Y stages on the MakerBot are pretty good aside from being too tall, ho
 - \(4\) Driven nuts
 - assorted screws and hardware
 
-**That giant pile of hardware was replaced with:**
+**That giant steaming pile of hardware was replaced with:**
 
 - \(1\) 1/4-20 Acme leadscrew
 - \(1\) Antibacklash nut
