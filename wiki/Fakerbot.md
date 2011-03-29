@@ -6,7 +6,7 @@ The machine is called a FakerBot, because it's not quite a MakerBot, but there i
 
 The X and Y stages on the MakerBot are pretty good aside from being too tall, however the Z-stage is a horrible design. It is overly complex, wobbly, prone to jamming, etc. A replacement z-stage was designed by Corey with the goal of making Z simple and reliable:
 
-The following parts from the Makerbot design were removed:
+**The following parts from the Makerbot design were removed:**
 
 - \(1\) Belt
 - \(8\) Bearings
@@ -19,7 +19,7 @@ The following parts from the Makerbot design were removed:
 - \(4\) Driven nuts
 - assorted screws and hardware
 
-That giant pile of hardware was replaced with:
+**That giant pile of hardware was replaced with:**
 
 - \(1\) 1/4-20 Acme leadscrew
 - \(1\) Antibacklash nut
