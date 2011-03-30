@@ -88,6 +88,10 @@ The build may take a bit to start while it achieves optimal temperatures. Note w
 
 # Status Updates
 
-## 3/29/2010
+## 3/29/2011
 
 We will hope to keep updates here. Most recently Jacob adjusted the z and one of the x/y reference voltages down to keep the motors coolor. So far everything seems fine. Will want to adjust the other X/Y voltage down as well if everything remains awesome. I've also restricted the build envelope a bit more to hopefully match the machine. Finally we had an issue with Z stage binding during prints. I found the feedrate was set to 1000 in the machines.xml file, and I've moved this down to 100. I'm sure we can bump this a bit eventually but for now its good.
+
+## 3/30/2011
+
+We are slimming down the Build Platform to give us another 3/4" of vertical build room. [1](http://www.thingiverse.com/thing:4056) Also modifying the the Z-Stage to give another 2"-2.5" of vertical build room.
