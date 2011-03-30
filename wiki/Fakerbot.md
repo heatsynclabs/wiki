@@ -34,7 +34,9 @@ If you count every nut and screw the reduction is far greater, but you get the i
 
 The extruder is Corey's design hosted at <http://www.thingiverse.com/thing:4579>. It is a clean-sheet of paper design that sprang from the frustration of dealing with the shortcomings of other extruders. So far the CoreyStruder and its derivatives have been downloaded on Thingiverse over 250 times.
 
-The hot-end is Corey's copy of the hot-end used on the UP! printer which he later discovered is actually a copy of Nophead's design. It is very compact and works well.
+The hot-end is Corey's copy of the hot-end used on the UP! printer which he later discovered is actually a copy of Nophead's design. It is very compact and works well. Nophead does awesome work, his blog is a must-read:
+
+<http://hydraraptor.blogspot.com/>
 
 # Usage
 
