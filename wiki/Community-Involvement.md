@@ -12,6 +12,7 @@ The HeatSync Labs Community Involvement page is intended to document articles re
 - <http://blog.makezine.com/archive/2010/09/arduino-motorcycle-motoduino.html>
 - <http://blog.makezine.com/archive/2010/03/cubely-a-new-3d-printer.html>
 - <http://blog.makezine.com/archive/2010/02/hacking-a-honda-tail-light.html>
+- <http://blog.makezine.com/archive/2011/03/hackerspace-happenings-make-interviews-tokyos-akiba.html>
 
 ## Local News
 
