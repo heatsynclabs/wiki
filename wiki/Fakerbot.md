@@ -94,4 +94,4 @@ We will hope to keep updates here. Most recently Jacob adjusted the z and one of
 
 ## 3/30/2011
 
-We are slimming down the Build Platform to give us another 3/4" of vertical build room. [1](http://www.thingiverse.com/thing:4056) Also modifying the the Z-Stage to give another 2"-2.5" of vertical build room.
+We are slimming down the Build Platform to give us another 3/4" of vertical build room. [1](http://www.thingiverse.com/thing:4056) Also modifying the the Z-Stage arm to give another 2"-2.5" of vertical build room.
