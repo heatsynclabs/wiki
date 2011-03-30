@@ -28,7 +28,7 @@ The X and Y stages on the MakerBot are pretty good aside from being too tall, ho
 - \(1\) Linear rail
 - \(1\) Truck for linear rail
 
-**So an overall reduction from (27) functional components down to (6) !**
+**An overall reduction from (27) functional components down to (6) !**
 
 If you count every nut and screw the reduction is far greater, but you get the idea. The new Z-stage is a big improvement and has eleminated all of the jamming and wobbling problems that we had previously. It also looks far better.
 
