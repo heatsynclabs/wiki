@@ -18,7 +18,7 @@ INDUSTRY - need numbers, overall trends, specifically what and who are the playe
 
 TARGET MARKET - need numbers, specifically who and how many are the DIYers we are targeting
 
-- engineers (ieee) who need to work on their prototype
+- engineers (ieee) who need to work on their prototype -- Took a week to get this: 14,194 IEEE members in the PHX Section
 - high schools within x miles who don't have shop programs
 - colleges disenfranchised
 - home tinkerer/hobbyist
