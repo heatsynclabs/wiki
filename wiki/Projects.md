@@ -24,6 +24,7 @@
 - [ToolsDB](ToolsDB)
 - [Starting a Non-Profit](Starting-a-Non-Profit)
 - [SyncSwag](SyncSwag)
+- [Epilog](Epilog)
 
 ## Project Idea Wall
 
