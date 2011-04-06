@@ -20,6 +20,8 @@ I looked into the organization and its pretty cool. Theyre a non profit I guess?
 
 <http://www.hmgf.org>
 
+There is a \$350 application fee which isnt that much, but right now we can't expect to see that back shortly
+
 ### Corporate
 
 Please compile a list of corporations and entities we would like to approach, and things we would ask for. From some initial research local seems to be big. Local companies, and even local arms of global companies are interested in showing they are part of their community so it will be important to target these. From the same research, it seems like it will be extremely difficult to get anything until our 501c3 has cleared.
