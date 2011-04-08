@@ -104,4 +104,4 @@ We are slimming down the Build Platform to give us another 3/4" of vertical buil
 
 ## 4/7/2011
 
-After adding the Z-axis modification, ![http://farm6.static.flickr.com/5148/5599963114_7b87a40664_b.jpg](files/Http://farm6.static.flickr.com/5148/5599963114_7b87a40664_b.jpg) there are some programming things that need to be cleaned up. Some objects print well, some print great, and others, are complete crap. [Flickr flickrpage](http://www.flickr.com/photos/61355910@N04/)
+After adding the Z-axis modification, [Mods of z-axis](http://farm6.static.flickr.com/5148/5599963114_7b87a40664_b.jpg) there are some programming things that need to be cleaned up. Some objects print well, some print great, and others, are complete crap. [Flickr page](http://www.flickr.com/photos/61355910@N04/)
