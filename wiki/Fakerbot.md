@@ -101,3 +101,7 @@ We will hope to keep updates here. Most recently Jacob adjusted the z and one of
 ## 3/30/2011
 
 We are slimming down the Build Platform to give us another 3/4" of vertical build room. [1](http://www.thingiverse.com/thing:4056) Also modifying the the Z-Stage arm to give another 2"-2.5" of vertical build room.
+
+## 4/7/2011
+
+After adding the Z-axis modification, there are some programming things that need to be cleaned up. Some objects print well, some print great, and others, are complete crap.
