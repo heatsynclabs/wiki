@@ -5,11 +5,16 @@ Wat: Red Bull gave away mystery boxes to hackerspaces across the US, and challen
 Ideas for projects:
 
 - Virtual Babbage Difference Engine or Analytical Engine emulated in Arduino with historically accurate analog inputs and outputs
+  - Virtual Enigma machine or Bombe (bonus points for Churchill tie in)
 - Reinvented wheel that moves under its own power
 - Virtual sun-dial (light sensors and an LCD display)
 - Punchcard reader or compiler ( makes Arduino code and puts it on the chip?)
   - Old school census tabulation
 - Arduino-powered radar
+
+<!-- -->
+
+- Vinyl-to-mp3 encoder
 
 <!-- -->
 
