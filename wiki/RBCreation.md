@@ -8,7 +8,8 @@ Ideas for projects:
 - Self-moving reinvented wheel
 - Virtual sun-dial with lots of photo sensors
 - Virtual difference engine emulated in Arduino with analog brass output
-- Punchcard compiler that makes Arduino code and puts it on the chip\* Old school census
+- Punchcard compiler that makes Arduino code and puts it on the chip
+- Old school census
 - Arduino-powered radar
 
 <!-- -->
