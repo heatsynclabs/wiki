@@ -4,12 +4,11 @@ Wat: Red Bull gave away mystery boxes to hackerspaces across the US, and challen
 
 Ideas for projects:
 
-- Virtual Babbage engine emulated in Arduino with analog brass output
-- Self-moving reinvented wheel
-- Virtual sun-dial with lots of photo sensors
-- Virtual difference engine emulated in Arduino with analog brass output
-- Punchcard compiler that makes Arduino code and puts it on the chip
-- Old school census
+- Virtual Babbage Difference Engine or Analytical Engine emulated in Arduino with historically accurate analog inputs and outputs
+- Reinvented wheel that moves under its own power
+- Virtual sun-dial (light sensors and an LCD display)
+- Punchcard reader or compiler ( makes Arduino code and puts it on the chip?)
+  - Old school census tabulation
 - Arduino-powered radar
 
 <!-- -->
@@ -19,7 +18,8 @@ Ideas for projects:
 - Abacus with digital readout
 - Tweet a smoke signal generator
 - Suit of armor with damage sensors and HUD
-- 8-Track-Duino, full room sized pong game
+- 8-Track-Duino
+- Full room sized pong game
 - Ice Box with LCD and tweet to tell you when it needs more ice
 - Flintlock with laser targeting range finder
 
