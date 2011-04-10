@@ -38,9 +38,15 @@ The blog post should always include the event location address with a link to a 
 
 Activity is a huge part of the draw that gets people into the lab, so promoting the stuff that happens every day in the lab helps keep bringing new people through the door. Will-san added the NextGEN gallery to Werdpress to help accomplish this on a weekly basis, preferrably Sunday since Monday is generally a good day for people to waste time at work going through their RSS feeds.
 
-There's a few steps involved in creating the post...
+### How do I blagged photos?
 
-1\. From the Wordpress admin console, find the gallery button on the left column and click Add Gallery/Images. 2. Each week will constitute a new gallery. The naming convention for each is "picsbecauseithappened-YYYY-MM-DD". 3. The display order of the photos depend on the order each photo was uploaded, so the one you upload first will be the first to display in a left-to-right order. 4. Once you've completed uploaded photos to the gallery, you can use a code snippet from a previous photo post and just replace the unique gallery ID with the one you just made; e.g. "\[nggallery id=2\]". 5. Create a short description in a bulleted list that describes the photo. Make it sound exciting, but keep it short and sweet and aim for the size of a tweet. 6. In each description, include a link to the photo and credits to the person who shot the photo. 7. Publish!
+1.  From the Wordpress admin console, find the gallery button on the left column and click Add Gallery/Images.
+2.  Each week will constitute a new gallery. The naming convention for each is "picsbecauseithappened-YYYY-MM-DD".
+3.  The display order of the photos depend on the order each photo was uploaded, so the one you upload first will be the first to display in a left-to-right order.
+4.  Once you've completed uploaded photos to the gallery, you can use a code snippet from a previous photo post and just replace the unique gallery ID with the one you just made; e.g. "\[nggallery id=2\]".
+5.  Create a short description in a bulleted list that describes the photo. Make it sound exciting, but keep it short and sweet and aim for the size of a tweet.
+6.  In each description, include a link to the photo and credits to the person who shot the photo.
+7.  Publish!
 
 ## Shooting and Sharing Pretty Pictures
 
