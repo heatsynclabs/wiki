@@ -34,6 +34,14 @@ The blog post should always include the event location address with a link to a 
 
 - Share-friendly, in this case means that when someone shared the blag post link on Facebook/Reddit/Stumbleupon/etc, the photo will show up in the link summary, which makes it more attention-getting than just a plain link with a summary that most people aren't actually going to bother reading until a cool photo catches their attention.
 
+## Writing This Week in Pics Because it Happened
+
+Activity is a huge part of the draw that gets people into the lab, so promoting the stuff that happens every day in the lab helps keep bringing new people through the door. Will-san added the NextGEN gallery to Werdpress to help accomplish this on a weekly basis, preferrably Sunday since Monday is generally a good day for people to waste time at work going through their RSS feeds.
+
+There's a few steps involved in creating the post...
+
+1\. From the Wordpress admin console, find the gallery button on the left column and click Add Gallery/Images. 2. Each week will constitute a new gallery. The naming convention for each is "picsbecauseithappened-YYYY-MM-DD". 3. The display order of the photos depend on the order each photo was uploaded, so the one you upload first will be the first to display in a left-to-right order. 4. Once you've completed uploaded photos to the gallery, you can use a code snippet from a previous photo post and just replace the unique gallery ID with the one you just made; e.g. "\[nggallery id=2\]". 5. Create a short description in a bulleted list that describes the photo. Make it sound exciting, but keep it short and sweet and aim for the size of a tweet. 6. In each description, include a link to the photo and credits to the person who shot the photo. 7. Publish!
+
 ## Shooting and Sharing Pretty Pictures
 
 Our Flickr stream is full of awesome photos that let the world know how active we are and what sort of cool stuff we do.
@@ -60,6 +68,10 @@ When uploading to Flickr, please be sure to specify the following for each photo
 - Groups: Cool photos about HSL events should be added to the HSL Flickr group, as well as other groups that the photo might be appropriate for if invited, such as Hackerspace Whiteboards. More eyeballs, etc.
 
 A lot of things like tags, license, or geolocation will identical across sets of photos, so I recommend using Flickr's batch edit utility to set those things.
+
+## HSL Photo Sync
+
+The Office of Editor got itself an Eye-fi to totally copy Crashspace's CRASH cam and let random people take photos in the lab and have them automatically upload. Once they're uploaded, the photos should go through the same process described in "Sharing is Caring," except in this case, only the best of the bunch should be added to the HSL Flickr group. Attribution for photos taken with hslphotosync should be attributed to HeatSync Labs in general.
 
 ## Making Arizona Makers Internet-Famous
 
