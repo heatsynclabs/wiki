@@ -26,6 +26,10 @@ The HeatSync Labs Community Involvement page is intended to document articles re
 
 - <http://blogs.phoenixnewtimes.com/jackalope/2011/03/heatsync_labs_gains_nonprofit.php>
 
+<!-- -->
+
+- <http://blogs.evtrib.com/nerdvana/2011/04/12/thank-the-makers/>
+
 ## Presentations
 
 - <http://igniteshow.com/videos/surprise-your-child-has-autism-now-what> Jim St. Leger name drops us at Ignite Phoenix \#8 - "Surprise Your Child Has Autism, Now What?"
