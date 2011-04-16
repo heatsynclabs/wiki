@@ -95,6 +95,8 @@ Also see: [ Office of Editor HowTo](Editor-Howto)
 
 ## Marketing/PR
 
+Also see [ Office of Marketing/PR HowTo](MarketingPR-Howto)
+
 - Facebook, Twitter (social media management)
   - Event hype (before, during, after)
   - Personality
