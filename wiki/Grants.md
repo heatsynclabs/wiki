@@ -2,7 +2,7 @@ There are a lot of community grants out there from the local business that you a
 
 # For You
 
-## For for profit busines
+## Funding for profit businesses
 
 - [SBIR](http://www.sbir.gov/)
 
