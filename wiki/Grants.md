@@ -62,6 +62,7 @@ This is the stuff that the grantors might find too big for our britches until we
 - [Intel Involved](http://www.intel.com/about/corporateresponsibility/community/intelinvolved.htm) - 10/hr up to 10k after first 20
 - [Avnet Dollars for Doers](http://aux.avnet.com/avnet_com_assets/community_relations/files/dollarsfordoers.pdf) Volunteer Program - 20 hours before Sept 30 \$200, 40 hours is \$400
 - [General Dynamics Volunteer Initiatives Program](http://www.gdc4s.com/content/detail.cfm?item=4265a0f0-30c2-46b3-ae3f-09cf05a3c43a&page=10)
+- Wells Fargo -We can receive \$1000 for hours volunteered
 
 ## Volunteers/equipment/in kind/event based
 
