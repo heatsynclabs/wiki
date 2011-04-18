@@ -4,7 +4,7 @@ There are a lot of community grants out there from the local business that you a
 
 ## For for profit busines
 
-- <http://www.sbir.gov/> SBIR
+- [SBIR](http://www.sbir.gov/)
 
 ## Smaller Project based
 
