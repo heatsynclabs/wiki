@@ -10,7 +10,7 @@ There are a lot of community grants out there from the local business that you a
 
 These opportunities require a nonprofit to submit a project with a very specific scope, IE your project! Most are based around some public need like education, environment, community, health care, etc. How it works is you write it up your project and HeatSync signs on for 15% for operational expenses, with the rest administered to you based on your proposal.
 
-- Fedora - fedora grant - 5k for open source education
+- Fedora - fedora grant - 5k for open source education - we have a member
 - [Ambrose Monell Foundation](http://www.monellvetlesen.org/monell/default.htm)
 - [Smart](http://www.smartm.com/files/community/Request_for_Corporate_Grant.pdf) (we have an employee)
 - [Intel](http://www.intel.com/about/corporateresponsibility/community/giving/usgrants.htm) - 501c3 required,Education, Environment, and Community
