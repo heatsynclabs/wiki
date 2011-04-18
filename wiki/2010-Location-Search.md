@@ -1,3 +1,5 @@
+# NOTE-this is the archived 2010 location search
+
 # Motivation
 
 [Gangplank](http://gangplankhq.com/) will be relocating within the next few months. While this move will mean a lot more space for [gangplank](http://gangplankhq.com/), the space [ HeatSync Labs](HeatSync-Labs) will occupy at the new [gangplank](http://gangplankhq.com/) location will either remain the same or become less permanent for our tools and resources. Since the primary objective of our nonprofit organization is to acquire tools we can have available and ready to use 24/7, the presiding [ Board of Directors](Board-Members) feel that any move should represent a step forward, not sideways or backwards. This, along with the amazing growth in our membership and some interesting opportunities, has led to a search for a home for [ HeatSync Labs](HeatSync-Labs).
