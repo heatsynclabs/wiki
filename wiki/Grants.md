@@ -86,6 +86,10 @@ This means these organization should be willing to fund HeatSync labs -in genera
 - [Bank of America Neighborhood Builders](http://www.bankofamerica.com/foundation/index.cfm?template=fd_neighborbuilders) focused on local neighborhood priorities
 - [Techsoup](http://home.techsoup.org/pages/default.aspx) - Looks like a good collection of software hardware donations for nonprofits - We don't show up in database yet.
 
+## Very Small Contributions
+
+- Home Depot offers limited \$25 vouchers at the store for nonprofits
+
 ## Todo
 
 How do we partner with organizations like
