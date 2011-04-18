@@ -12,9 +12,6 @@ These opportunities generally speaking require a project with a very specific sc
 
 - <http://www.monellvetlesen.org/monell/default.htm>
 - <http://www.smartm.com/files/community/Request_for_Corporate_Grant.pdf> (we have an employee)
-
-Corporate and Matching donation grants--have one employee in our midst, too
-
 - <http://www.intel.com/about/corporateresponsibility/community/giving/usgrants.htm>
 
 501c3 required Education, Environment, and Community
