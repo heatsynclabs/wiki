@@ -73,7 +73,7 @@ This is the stuff that the grantors might find too big for our britches until we
 - [Home Depot Event Sponsorship](https://hdepot.sponsor.com/)
 - [Freescale](http://www.freescale.com/webapp/sps/site/homepage.jsp?code=ABUCMMINVOLVEMNT) Request for money/volunteers for an event, Education (STEM), The Environment, Health and Human Services, 1 December for consideration in January, 1 June for consideration in July
 
-## General Operating allowed
+## Grants for general operating expenses
 
 This means these organization should be willing to fund HeatSync labs -in general- based on the work we do including any specific project we might be working on.
 
