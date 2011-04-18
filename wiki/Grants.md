@@ -30,14 +30,9 @@ These opportunities generally speaking require a project with a very specific sc
 
 These opportunities generally speaking require a project with a very specific scope, IE your project! Most are also based around some public need like education, environment, community, health care, etc. Write it up your project get funded!
 
-- [Motorola](http://responsibility.motorolasolutions.com/index.php/society/comminvest/motofoundation/)
-
-STEM Education, especially for girls and underrepresented groups Request must be between \$25,000 and \$50,000 Apply by April 22
-
-- <http://www.monellvetlesen.org/monell/default.htm>
-- [Avnet Contributions Council](http://www.avnet.com/sta/home/0,6948,RID%253D0%2526CID%253D0%2526SCR%253DN%2526CCD%253DUSA%2526SID%253D9356%2526DID%253DDF3%2526LID%253D9405%2526BID%253DDF3%2526CTP%253DSTA,00.html)
-
-501c3 required Children, Education, Community
+- [Motorola](http://responsibility.motorolasolutions.com/index.php/society/comminvest/motofoundation/) STEM Education, especially for girls and underrepresented groups, Request must be between \$25,000 and \$50,000, Apply by April 22
+- [Ambrose Monell Foundation](http://www.monellvetlesen.org/monell/default.htm)
+- [Avnet Contributions Council](http://www.avnet.com/sta/home/0,6948,RID%253D0%2526CID%253D0%2526SCR%253DN%2526CCD%253DUSA%2526SID%253D9356%2526DID%253DDF3%2526LID%253D9405%2526BID%253DDF3%2526CTP%253DSTA,00.html) 501c3 required, Children, Education, Community
 
 ## Big Stuff
 
