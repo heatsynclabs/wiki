@@ -28,7 +28,7 @@ These opportunities require a nonprofit to submit a project with a very specific
 
 ## Medium Project Based
 
-These opportunities generally speaking require a project with a very specific scope, IE your project! Most are also based around some public need like education, environment, community, health care, etc. Write it up your project get funded!
+These opportunities require a nonprofit to submit a project with a very specific scope, IE your project! Most are based around some public need like education, environment, community, health care, etc. How it works is you write it up your project and HeatSync signs on for 15% for operational expenses, with the rest administered to you based on your proposal.
 
 - [Motorola](http://responsibility.motorolasolutions.com/index.php/society/comminvest/motofoundation/) STEM Education, especially for girls and underrepresented groups, Request must be between \$25,000 and \$50,000, Apply by April 22
 - [Ambrose Monell Foundation](http://www.monellvetlesen.org/monell/default.htm)
