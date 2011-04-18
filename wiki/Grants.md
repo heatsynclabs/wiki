@@ -64,20 +64,14 @@ This is the stuff that the grantors might find too big for our britches until we
 
 ## Volunteers/equipment/in kind/event based
 
-- Team Home Depot - associate led volunteer program - they come build stuff - <http://www.homedepotfoundation.org/how-we-help/team-depot.html>
-- Intel Skill Based Volunteering - <http://www.intel.com/Assets/PDF/Article/community-323988001.pdf>
-- [SRP Volunteering](http://www.srpnet.com/community/volunteer.aspx)
-
-You can request volunteers on a project basis
-
-- Raytheon Employees volunteer through [Volunteer Match](https://volunteer.raytheon.com/) How do we get listed?
-- [General Dynamics](http://www.gdc4s.com/about/community/index.cfm)
-- General Dynamics <http://www.gdc4s.com/content/detail.cfm?item=4265a0f0-30c2-46b3-ae3f-09cf05a3c43a&page=10>
-- Lockheed Martin event funding <http://www.cybergrants.com/pls/cybergrants/ao_login.login?x_gm_id=2023&x_proposal_type_id=6773>
-- <https://hdepot.sponsor.com/>
-- [Freescale](http://www.freescale.com/webapp/sps/site/homepage.jsp?code=ABUCMMINVOLVEMNT)
-
-Request for money/volunteers for an event Education (STEM), The Environment, Health and Human Services 1 December for consideration in January, 1 June for consideration in July
+- [Team Home Depot](http://www.homedepotfoundation.org/how-we-help/team-depot.html) - associate led volunteer program - they come build stuff -
+- [Intel Skill Based Volunteering](http://www.intel.com/Assets/PDF/Article/community-323988001.pdf) -
+- [SRP Volunteering](http://www.srpnet.com/community/volunteer.aspx) You can request volunteers on a project basis
+- [Raytheon Volunteer Match](https://volunteer.raytheon.com/) -- How do we get listed?
+- [General Dynamics](http://www.gdc4s.com/content/detail.cfm?item=4265a0f0-30c2-46b3-ae3f-09cf05a3c43a&page=10)
+- [Lockheed Martin](http://www.cybergrants.com/pls/cybergrants/ao_login.login?x_gm_id=2023&x_proposal_type_id=6773) event funding
+- [Home Depot Event Sponsorship](https://hdepot.sponsor.com/)
+- [Freescale](http://www.freescale.com/webapp/sps/site/homepage.jsp?code=ABUCMMINVOLVEMNT) Request for money/volunteers for an event, Education (STEM), The Environment, Health and Human Services, 1 December for consideration in January, 1 June for consideration in July
 
 ## General Operating allowed
 
