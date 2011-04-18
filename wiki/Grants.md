@@ -95,7 +95,7 @@ This means these organization should be willing to fund HeatSync labs -in genera
 
 ## Very Small Contributions
 
-- Home Depot offers limited \$25 vouchers at the store for nonprofits
+- Home Depot offers limited \$25 vouchers at the store for nonprofits-seems to differ per store, but you may have to submit written request
 
 ## Todo
 
