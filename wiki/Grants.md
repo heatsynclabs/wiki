@@ -58,6 +58,7 @@ This is the stuff that the grantors might find too big for our britches until we
 - [Smart](http://www.smartm.com/files/community/SMARTMatching_DonationForm.pdf)(we have an employee) up to \$2500/yr
 - [Raytheon](https://webauth.raytheon.com/login.fcc?TYPE=33554433&REALMOID=06-000be445-880f-1367-b394-83c185750000&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=-SM-Evtpnpols5n5k4pwnj%2bQMj5ThWuekIxTr28u5LMSVMwBCObvA8%2fEYZZNwyq506xi&TARGET=-SM-https%3a%2f%2fgiving%2eraytheon%2ecom%2f) matches donations from employees
 - Wells Fargo - Wells Fargo will match employee donations up to \$5000.
+- [MGC Pure Chemicals](http://www.mgcpure.com/) - Charitable donation program for salaried exempt employees. Company will donate \$100 per employee, \$500 per manager to 501(c)3 organizations of each employee's choosing. (we have a member)
 
 ## Employer pays us for volunteerism
 
