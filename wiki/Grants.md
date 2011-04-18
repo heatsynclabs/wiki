@@ -8,7 +8,7 @@ There are a lot of community grants out there from the local business that you a
 
 ## Smaller Project based
 
-These opportunities generally speaking require a project with a very specific scope, IE your project! Most are also based around some public need like education, environment, community, health care, etc. Write it up your project get funded!
+These opportunities require a nonprofit to submit a project with a very specific scope, IE your project! Most are based around some public need like education, environment, community, health care, etc. How it works is you write it up your project and HeatSync signs on for 15% for operational expenses, with the rest administered to you based on your proposal.
 
 - [Ambrose Monell Foundation](http://www.monellvetlesen.org/monell/default.htm)
 - [Smart](http://www.smartm.com/files/community/Request_for_Corporate_Grant.pdf) (we have an employee)
