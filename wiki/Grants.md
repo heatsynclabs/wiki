@@ -96,7 +96,7 @@ How do we partner with organizations like
 
 ## Future Opportunities
 
-- <http://www.lincnet.net/artist-space/ford-foundation-planning-and-pre-development-grants>, Grants to obtain a space for established arts organizations
+- [Ford Foundation](http://www.lincnet.net/artist-space/ford-foundation-planning-and-pre-development-grants) Grants to obtain a space for -established arts- organizations
 
 ## Closed or ambiguous
 
