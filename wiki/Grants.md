@@ -12,48 +12,27 @@ These opportunities generally speaking require a project with a very specific sc
 
 - <http://www.monellvetlesen.org/monell/default.htm>
 - <http://www.smartm.com/files/community/Request_for_Corporate_Grant.pdf> (we have an employee)
-- <http://www.intel.com/about/corporateresponsibility/community/giving/usgrants.htm>
-
-501c3 required Education, Environment, and Community
-
-- [CVS Caremark](http://info.cvscaremark.com/community/our-impact/community-grants)
-
-For children with disabilities, health care for the uninsured or underserved, or public schools) Up to \$5k funded January 1 and ending on October 31.
-
-- [SRP Grants](http://www.srpnet.com/community/contributions/)
-
-501c3 required Education, Health and Human Services, Arts and Culture, Civic Leadership
-
-- [Avnet Contributions Council](http://www.avnet.com/sta/home/0,6948,RID%253D0%2526CID%253D0%2526SCR%253DN%2526CCD%253DUSA%2526SID%253D9356%2526DID%253DDF3%2526LID%253D9405%2526BID%253DDF3%2526CTP%253DSTA,00.html)
-
-501c3 required Children, Education, Community
-
+- <http://www.intel.com/about/corporateresponsibility/community/giving/usgrants.htm> - 501c3 required,Education, Environment, and Community
+- [CVS Caremark](http://info.cvscaremark.com/community/our-impact/community-grants) For children with disabilities, health care for the uninsured or underserved, or public schools), Up to \$5k funded, January 1 and ending on October 31.
+- [SRP Grants](http://www.srpnet.com/community/contributions/) 501c3 required, Education, Health and Human Services, Arts and Culture, Civic Leadership
+- [Avnet Contributions Council](http://www.avnet.com/sta/home/0,6948,RID%253D0%2526CID%253D0%2526SCR%253DN%2526CCD%253DUSA%2526SID%253D9356%2526DID%253DDF3%2526LID%253D9405%2526BID%253DDF3%2526CTP%253DSTA,00.html) 501c3 required, Children, Education, Community
 - General Dynamics - seems to grant financial contributions? <http://www.gdc4s.com/content/detail.cfm?item=4265a0f0-30c2-46b3-ae3f-09cf05a3c43a&page=10>
 - [Boeing](http://www.boeing.com/companyoffices/aboutus/community/ecf_apply_mesa.html)
 
-501c3 required Education: Agency's mission is focused on providing occupational or scholastic education and/or educational resources to people of all ages. Also includes educational institutions that are dedicated solely to people with disabilities. Accepted March 1 - March 31 Avg \$5k
+501c3 required, Education: Agency's mission is focused on providing occupational or scholastic education and/or educational resources to people of all ages. Also includes educational institutions that are dedicated solely to people with disabilities., Accepted March 1 - March 31 , Avg \$5k
 
-- <http://www.verizonfoundation.org/grant/index.shtml>
+- <http://www.verizonfoundation.org/grant/index.shtml> 501c3 required, Education and Literacy, Safety and Health
 
-501c3 required Education and Literacy, Safety and Health avg \$10k
+avg \$10k
 
 - <https://www.bankofthewest.com/about-us/community-support/charitable-investments.html>
 
-501c3 Required Community and Economic Development, Education and Job Training, Health and Human Care, Civic and Cultural
+501c3 Required, Community and Economic Development, Education and Job Training, Health and Human Care, Civic and Cultural
 
-- [Walmart](http://walmartstores.com/communitygiving/238.aspx)
-
-Education, Workforce Development, Health and Wellness, Environmental Stability, Hunger Relief, Small Business Support, Youth Entrepreneurship. \$250-\$5k February to Dec 1
-
+- [Walmart](http://walmartstores.com/communitygiving/238.aspx) Education, Workforce Development, Health and Wellness, Environmental Stability, Hunger Relief, Small Business Support, Youth Entrepreneurship., \$250-\$5k, February to Dec 1
 - [Raytheon](http://www.raytheon.com/responsibility/community/grants/index.html) Grants for math and science education
-- [State Farm](http://www.statefarm.com/aboutus/community/grants/company/company.asp)
-
-501c3 required Safety, Community (economic development included), Education(Teacher Development, Service-Learning and Systemic Improvement) Period is January 2 through October 31
-
-- [Best Buy](http://www.bestbuy-communityrelations.com/community_grants_rfp.htm)
-
-501c3 required Serve a diverse population in local or regional communities Build social, academic, leadership and/or life skills in early adolescents (primarily ages 13-18) Show positive results against a demonstrated community need Reach at-risk children in working families Avg \$3-5K, \$10K Max
-
+- [State Farm](http://www.statefarm.com/aboutus/community/grants/company/company.asp) 501c3 required, Safety, Community (economic development included), Education(Teacher Development, Service-Learning and Systemic Improvement), Period is January 2 through October 31
+- [Best Buy](http://www.bestbuy-communityrelations.com/community_grants_rfp.htm) 501c3 required, Serve a diverse population in local or regional communities, Build social, academic, leadership and/or life skills in early adolescents (primarily ages 13-18), Show positive results against a demonstrated community need, Reach at-risk children in working families, Avg \$3-5K, \$10K Max
 - <http://www.refresheverything.com/> Social Media based funding, Starts up again April 4th "How can you use art to energize a community?"
 
 ## Medium Project Based
