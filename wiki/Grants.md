@@ -25,6 +25,9 @@ These opportunities require a nonprofit to submit a project with a very specific
 - [State Farm](http://www.statefarm.com/aboutus/community/grants/company/company.asp) 501c3 required, Safety, Community (economic development included), Education(Teacher Development, Service-Learning and Systemic Improvement), Period is January 2 through October 31
 - [Best Buy](http://www.bestbuy-communityrelations.com/community_grants_rfp.htm) 501c3 required, Serve a diverse population in local or regional communities, Build social, academic, leadership and/or life skills in early adolescents (primarily ages 13-18), Show positive results against a demonstrated community need, Reach at-risk children in working families, Avg \$3-5K, \$10K Max
 - [Pepsi Refresh Everything](http://www.refresheverything.com) Social Media based funding, Starts up again April 4th "How can you use art to energize a community?"
+- [Wells Fargo](https://www.wellsfargo.com/about/charitable/az_guidelines) - Create and sustain affordable housing
+
+Promote economic development, Provide job training and workforce development, Revitalize and stabilize communities
 
 ## Medium Project Based
 
