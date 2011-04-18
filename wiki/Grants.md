@@ -100,4 +100,4 @@ How do we partner with organizations like
 
 ## Closed or ambiguous
 
-[Science Foundation of Arizona](http://www.sfaz.org/live/collection/grant-opportunities)
+- [Science Foundation of Arizona](http://www.sfaz.org/live/collection/grant-opportunities)
