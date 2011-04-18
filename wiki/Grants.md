@@ -77,22 +77,14 @@ This is the stuff that the grantors might find too big for our britches until we
 
 This means these organization should be willing to fund HeatSync labs -in general- based on the work we do including any specific project we might be working on.
 
-- <http://www.monellvetlesen.org/monell/default.htm>
-- <http://www.smartm.com/files/community/Request_for_Corporate_Grant.pdf> (we have an employee)
-- <http://www.bankofamerica.com/foundation/index.cfm?template=fd_localheroes> Bank of America Local Heroes - Direct a \$5,000 contribution (or local market currency equivalent) to an eligible nonprofit/charitable organization of the hero's choice
-- General Dynamics - maybe??? <http://www.gdc4s.com/content/detail.cfm?item=4265a0f0-30c2-46b3-ae3f-09cf05a3c43a&page=10>
-- <https://www.bankofthewest.com/about-us/community-support/charitable-investments.html>
-
-501c3 Required Community and Economic Development, Education and Job Training, Health and Human Care, Civic and Cultural
-
-- [Walmart](http://walmartstores.com/communitygiving/238.aspx)
-
-Education, Workforce Development, Health and Wellness, Environmental Stability, Hunger Relief, Small Business Support, Youth Entrepreneurship. \$250-\$5k February to Dec 1
-
-- <http://www.bankofamerica.com/foundation/index.cfm?template=fd_neighborbuilders> Neighborhood Builders Are focused on local neighborhood priorities
-- [Techsoup](http://home.techsoup.org/pages/default.aspx)
-
-Looks like a good collection of software hardware donations for nonprofits - We don't show up in database yet.
+- [Ambrose Monell Foundation](http://www.monellvetlesen.org/monell/default.htm)
+- [Smart](http://www.smartm.com/files/community/Request_for_Corporate_Grant.pdf) (we have an employee)
+- [Bank of America Local Heroes](http://www.bankofamerica.com/foundation/index.cfm?template=fd_localheroes)- Direct a \$5,000 contribution (or local market currency equivalent) to an eligible nonprofit/charitable organization of the hero's choice
+- [General Dynamics](http://www.gdc4s.com/content/detail.cfm?item=4265a0f0-30c2-46b3-ae3f-09cf05a3c43a&page=10) - maybe???
+- [Bank of the West](https://www.bankofthewest.com/about-us/community-support/charitable-investments.html) 501c3 Required, Community and Economic Development, Education and Job Training, Health and Human Care, Civic and Cultural
+- [Walmart](http://walmartstores.com/communitygiving/238.aspx) Education, Workforce Development, Health and Wellness, Environmental Stability, Hunger Relief, Small Business Support, Youth Entrepreneurship. \$250-\$5k, February to Dec 1
+- [Bank of America Neighborhood Builders](http://www.bankofamerica.com/foundation/index.cfm?template=fd_neighborbuilders) focused on local neighborhood priorities
+- [Techsoup](http://home.techsoup.org/pages/default.aspx) - Looks like a good collection of software hardware donations for nonprofits - We don't show up in database yet.
 
 ## Todo
 
