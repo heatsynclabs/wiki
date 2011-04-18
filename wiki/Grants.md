@@ -49,11 +49,11 @@ This is the stuff that the grantors might find too big for our britches until we
 
 ## Matching (including United Way)
 
-- verizon tip 10 employees, 1k raised each, matched <http://foundation.verizon.com/employee/tip.shtml>
-- verizon mip 1k matching donation <http://foundation.verizon.com/employee/mip.shtml>
+- [TIP](http://foundation.verizon.com/employee/tip.shtmlVerizon)10 employees, 1k raised each, matched
+- [Verizon MIP](http://foundation.verizon.com/employee/mip.shtml) 1k matching donation
 - Intel United Way matching
-- <http://www.smartm.com/files/community/SMARTMatching_DonationForm.pdf> (we have an employee) up to \$2500/yr
-- Raytheon matches donations from employees <https://webauth.raytheon.com/login.fcc?TYPE=33554433&REALMOID=06-000be445-880f-1367-b394-83c185750000&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=-SM-Evtpnpols5n5k4pwnj%2bQMj5ThWuekIxTr28u5LMSVMwBCObvA8%2fEYZZNwyq506xi&TARGET=-SM-https%3a%2f%2fgiving%2eraytheon%2ecom%2f>
+- [Smart](http://www.smartm.com/files/community/SMARTMatching_DonationForm.pdf)(we have an employee) up to \$2500/yr
+- [Raytheon](https://webauth.raytheon.com/login.fcc?TYPE=33554433&REALMOID=06-000be445-880f-1367-b394-83c185750000&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=-SM-Evtpnpols5n5k4pwnj%2bQMj5ThWuekIxTr28u5LMSVMwBCObvA8%2fEYZZNwyq506xi&TARGET=-SM-https%3a%2f%2fgiving%2eraytheon%2ecom%2f) matches donations from employees
 
 ## Employer pays us for volunteerism
 
