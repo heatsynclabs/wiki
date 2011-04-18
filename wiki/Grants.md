@@ -36,7 +36,7 @@ These opportunities require a nonprofit to submit a project with a very specific
 
 ## Big Stuff
 
-This is the stuff that the grantors might find too big for our britches until we get some big name partners, or some smaller grants under our belt. However if you think you've got the credentials and the partners, lets try it!
+This is the stuff that the grantors might find too big for our britches until we get some big name partners, or some smaller grants under our belt. However if you think you've got the credentials and the partners, lets try it! These opportunities require a nonprofit to submit a project with a very specific scope and measurable outcomes over sometimes years. Most are based around some public need like education, environment, community, health care, etc. How it works is you write it up your project and HeatSync signs on for 15% for operational expenses, with the rest administered to you based on your proposal.
 
 - <http://grants.gov/> government grants for research and development
 - [Blueprint for Neuroscience Research Science Education Award](Blueprint-for-Neuroscience-Research-Science-Education-Award)
