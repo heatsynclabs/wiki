@@ -21,18 +21,10 @@ The HeatSync Labs Community Involvement page is intended to document articles re
 ## Local News
 
 - <http://downtowndevil.com/2011/02/17/heatsync-innovation-lab-downtown-phoenix/Downtown> Phoenix ASU Online Publication "Downtown Devil" featured a story on their front page about our location search.
-
-<!-- -->
-
 - <http://www.azcentral.com/community/mesa/articles/2011/02/22/20110222mesa-editorial-imesa-residents0222.html> AZ Central briefly mentions us in an opinion article relating to HSL's surge to the top of Mesa's people's voice forum called iMesa.
-
-<!-- -->
-
 - <http://blogs.phoenixnewtimes.com/jackalope/2011/03/heatsync_labs_gains_nonprofit.php>
-
-<!-- -->
-
 - <http://blogs.evtrib.com/nerdvana/2011/04/12/thank-the-makers/>
+- Phoenix Magazine May 2011 ![ 200px](files/Phoenix_Magazine_May_2011.jpg)
 
 ## Presentations
 
