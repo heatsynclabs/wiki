@@ -1,3 +1,5 @@
+=For an ongoing account, see the Buildblog -\> <http://hsl-sem.tumblr.com/=>
+
 ![](files/SEM_sketch,_brainstorming.jpg)
 
 *Just brainstorming -- in the sketch, purple is status as of 3/2/2011, blue and green are welding needs, and orange is post-welding. [ High-Res](files/SEM_sketch,_brainstorming_(large).jpg)*
