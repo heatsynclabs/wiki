@@ -105,3 +105,32 @@ We are slimming down the Build Platform to give us another 3/4" of vertical buil
 ## 4/7/2011
 
 After adding the Z-axis modification, [Mods of z-axis](http://farm6.static.flickr.com/5148/5599963114_7b87a40664_b.jpg) there are some programming things that need to be cleaned up. Some objects print well, some print great, and others, are complete crap. [Flickr page](http://www.flickr.com/photos/61355910@N04/)
+
+## 4/20/2011
+
+- pid was very noisy, followed <http://wiki.makerbot.com/thingomatic-doc:calibration> and set it to standard mk5 settings P : 6.25 I : 0.4140625 D : 100.0 (which we should be very close to) and it looks great now
+
+<!-- -->
+
+- took off probably 4/5 of the heatsink compound. There appeared to be too much and it was actually drying out. Theres a small sheen on both sides now (which i fear is still probabyl 2x too much) but I think will help
+
+<!-- -->
+
+- Finally got the outline module on! just took the 35 version and enabled it for 39. This draws a box around the print first which lets the extruder catch up and plastic to stick to platform -before- it enters your object
+
+# Todo
+
+- a lot of play in x/y (screw caps are undersized)
+- a lot of play in z (cantilever unstable?)
+- wobble in z axis???
+- z 'bubble' is pretty bad. Need to speed up z axis...
+- fix spindle box -- needs new 'posts' to constrain plastic.. Frankly needs half as much plastic in there, too
+- 'magnetic' cables on build platform would be awesome
+- standard makerbot calibration really needs to be done
+- looks like too much plastic being laid down? feed rate, flow rate, travel rate?
+- looooots of ooze -- reversal params? or might only be correctable with a stepper?
+- limit switches installed
+- stepper extruder (wade? something else)
+- pick up a digital indicator for leveling platform
+- light ring around extruder to light platform
+- need to move build platform connections to the right side of platform to 'center' up \*platform(cantilever is already stealing room on left side)
