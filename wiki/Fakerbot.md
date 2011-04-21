@@ -122,6 +122,10 @@ After adding the Z-axis modification, [Mods of z-axis](http://farm6.static.flick
 
 - I've taken over 50mm away from the x axis as it was massively oversized and crashing the heated build platform connectors into the cantilever.
 
+<!-- -->
+
+- Used Dave Durant's suggestions at <http://davedurant.wordpress.com/2010/11/06/configuring-skeinforge-making-a-new-profile/> and without any real tweaking the 20mm test cubes look REALLY good
+
 # Todo
 
 - a lot of play in x/y (screw caps are undersized)
