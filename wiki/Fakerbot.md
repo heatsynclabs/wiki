@@ -118,6 +118,10 @@ After adding the Z-axis modification, [Mods of z-axis](http://farm6.static.flick
 
 - Finally got the outline module on! just took the 35 version and enabled it for 39. This draws a box around the print first which lets the extruder catch up and plastic to stick to platform -before- it enters your object
 
+<!-- -->
+
+- I've taken over 50mm away from the x axis as it was massively oversized and crashing the heated build platform connectors into the cantilever.
+
 # Todo
 
 - a lot of play in x/y (screw caps are undersized)
