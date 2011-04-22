@@ -142,3 +142,4 @@ After adding the Z-axis modification, [Mods of z-axis](http://farm6.static.flick
 - pick up a digital indicator for leveling platform
 - light ring around extruder to light platform
 - need to move build platform connections to the right side of platform to 'center' up \*platform(cantilever is already stealing room on left side)
+- hook up an estop
