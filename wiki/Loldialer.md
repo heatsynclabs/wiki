@@ -19,7 +19,7 @@ Hhhhhhhokay, so the idea here kiddies, is to build a device that can make a call
 
 ## Current choices for audio trolling
 
-- BILLY MAYS
+- ITS FRIDAY ITS FRIDAY
 - Rickroll
 - Keyboard cat
 - Benny Lava
