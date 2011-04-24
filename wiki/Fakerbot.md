@@ -126,6 +126,14 @@ After adding the Z-axis modification, [Mods of z-axis](http://farm6.static.flick
 
 - Used Dave Durant's suggestions at <http://davedurant.wordpress.com/2010/11/06/configuring-skeinforge-making-a-new-profile/> and without any real tweaking the 20mm test cubes look REALLY good
 
+## 4/24/2011
+
+- Did some work on the spindle filament holder. Had some notches in the circular base and top that were catching on the sides that I filed down.
+
+<!-- -->
+
+- Bolts and nuts were too small connecting the circular bearing for the lazy susan to the chassis. Drilled out holes and replace with bigger bolts and nuts.
+
 # Todo
 
 - a lot of play in x/y (screw caps are undersized)
