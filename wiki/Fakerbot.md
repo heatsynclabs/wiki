@@ -144,20 +144,16 @@ After adding the Z-axis modification, [Mods of z-axis](http://farm6.static.flick
 
 # Todo
 
-- redo a heated platform (minus the automated build platform)
-- a lot of play in x/y (screw caps are undersized)
-- a lot of play in z (cantilever unstable?)
-- wobble in z axis???
+- wobble in z axis???--need to buy new acme rod
 - z 'bubble' is pretty bad. Need to speed up z axis...
 - fix spindle box -- needs new 'posts' to hold filament and needs new acrylic window
 - 'magnetic' cables on build platform would be awesome
+- functional lighting (build platform is red when hot, blue when cold, yellow when heating
+- stepper extruder (wade? something else)
 - looooots of ooze -- reversal params? or might only be correctable with a stepper?
 - limit switches installed
-- stepper extruder (wade? something else)
 - pick up a digital indicator for leveling platform
 - light ring around extruder to light platform
-- functional lighting (build platform is red when hot, blue when cold, yellow when heating
-- need to move build platform connections to the right side of platform to 'center' up \*platform(cantilever is already stealing room on left side)
 - hook up an estop
 - second (or even third) entire extruder ready to go
 - quick change extruder assembly
