@@ -134,6 +134,14 @@ After adding the Z-axis modification, [Mods of z-axis](http://farm6.static.flick
 
 - Bolts and nuts were too small connecting the circular bearing for the lazy susan to the chassis. Drilled out holes and replace with bigger bolts and nuts.
 
+4/28/2011
+
+- Corey designed a new Cantilever to gain more z height. He's staining it before installing.
+
+<!-- -->
+
+- Jacob created a new heated build platform plate. We were using the automated build platform, but it reduces our z and we're not ready to implement it yet. The main hold up was the files online weren't fitting our platform. Corey's design files in some areas differ from Makerbot's as he had to reverse engineer them. I used Corey's files which fit fine. I also scaled down the bolt holes to fit our bolts to remove the x/y wobble. Sadly, theres still some wobble that must have to just do with their implementation. The wires from the heated platform were moved to the right as well, adding some x. The makerbot file was updated for the extra room.
+
 # Todo
 
 - redo a heated platform (minus the automated build platform)
