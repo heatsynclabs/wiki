@@ -134,7 +134,7 @@ After adding the Z-axis modification, [Mods of z-axis](http://farm6.static.flick
 
 - Bolts and nuts were too small connecting the circular bearing for the lazy susan to the chassis. Drilled out holes and replace with bigger bolts and nuts.
 
-4/28/2011
+## 4/28/2011
 
 - Corey designed a new Cantilever to gain more z height. He's staining it before installing.
 
