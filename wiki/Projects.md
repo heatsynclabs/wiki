@@ -1,7 +1,10 @@
 ## Current Projects
 
-**Please add links to your projects here, in reverse chronological order!**
+**Please add links to your projects here, in *reverse chronological* order!**
 
+- [RBCreation](RBCreation)
+- [SyncSwag](SyncSwag)
+- [Epilog](Epilog)
 - [ Microwave-Oven Smelting Furnace](Microwave-Furnace)
 - [SEM Microscopy](SEM-Microscopy)
 - [RFID_Access](RFID-Access) control system in Arduino
@@ -23,9 +26,6 @@
 - [NightVision](NightVision)
 - [ToolsDB](ToolsDB)
 - [Starting a Non-Profit](Starting-a-Non-Profit)
-- [SyncSwag](SyncSwag)
-- [Epilog](Epilog)
-- [RBCreation](RBCreation)
 
 ## Project Idea Wall
 
