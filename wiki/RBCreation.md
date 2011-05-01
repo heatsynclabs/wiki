@@ -40,4 +40,24 @@ Original Ideas for projects:
 
 Our project's aim is to provide a means to connect one of the newest forms of human mass-communication (Twitter) into the oldest (smoke signals). Our team, the Triad, was made up of a mix of different skillsets and talents which came in handy when dealing with both JSON parsing and fog machine smoke shaping. It boils down to a few steps:
 
-We created a Twitter account, @TweetToSmoke, which could be used to send @replies to. Using some code based on the open-source Ruby-based retjilp retweeting bot, we were able to set up an oath-enabled application to view TweetToSmoke's @replies on an rackspace cloud instance using plain Ruby CGI (no Rails needed). The CGI script returned the latest reply's text. From there, an Arduino with an ethernet shield was programmed to parse out the text and convert each character into morse code and from there, into an audio tone which would be amplified and sent to a large bass subwoofer pointed in the center near the top of the inside of a trash can with a fog machine stuffed inside. The frequencies used and the placement of the sound system allowed us to generate small rings and long puffs of smoke which were viewable indoors, but not so thick that we would end up getting a visit from the Fire Department (again).
+### Twitter Parsing
+
+We created a Twitter account, @TweetToSmoke, which could be used to send @replies to. Using some code based on the open-source Ruby-based retjilp retweeting bot, we were able to set up an oath-enabled application to view TweetToSmoke's @replies on an Ubuntu cloud server using plain Ruby CGI over Apache (no Rails needed). The CGI script returned the latest reply's text.
+
+### Web-to-Morse
+
+An Arduino with an ethernet shield was programmed to connect to the cloud server via HTTP and parse out the text (handily delimited with a \$) and convert each character into morse code. From there, text-to-morse-code scripts were found and the Arduino Tone library was used to translate the tweet into an audio tone which would be sent out via a normal 3.5mm headphone jack.
+
+### Audio-to-Smoke
+
+The Arduino output 100 Hz tones of varying lengths to a large subwoofer speaker placed inside a trash can with a fog machine stuffed on top. The frequencies used and the placement of the sound system allowed us to generate small rings and long puffs of smoke which were viewable indoors, but not so thick that we would fill our Fire Department visit quota for the week.
+
+#### Room for improvement
+
+Scale up this model into something that would actually communicate well over long distances, we would need much more smoke and a more pronounced method of releasing dots and dashes into the sky. With some high-power relays and either servo motors, solenoids, or hydraulics we could build a bonfire-sized canopy system that would gather smoke inside the canopy and release it by opening the canopy.
+
+#### Further ideas
+
+- Using a series of smaller smoke apertures, emulate an LED matrix in smoke and thereby "print" actual letters instead of morse code.
+- Scale it down to tabletop size or smaller, with a different type of "smoke", and put it in front of a webcam so people can communicate with it and see the results 24/7.
+  - Or better yet, implement a larger one in a remote location with a 24/7 bonfire, thus realizing the dream of mass public communication in smoke (and possibly attracting the attention of the EPA!)
