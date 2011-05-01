@@ -92,10 +92,11 @@ This means these organization should be willing to fund HeatSync labs -in genera
 - [Bank of the West](https://www.bankofthewest.com/about-us/community-support/charitable-investments.html) 501c3 Required, Community and Economic Development, Education and Job Training, Health and Human Care, Civic and Cultural
 - [Walmart](http://walmartstores.com/communitygiving/238.aspx) Education, Workforce Development, Health and Wellness, Environmental Stability, Hunger Relief, Small Business Support, Youth Entrepreneurship. \$250-\$5k, February to Dec 1
 - [Bank of America Neighborhood Builders](http://www.bankofamerica.com/foundation/index.cfm?template=fd_neighborbuilders) focused on local neighborhood priorities
+
+## In Kind Donations
+
 - [Techsoup](http://home.techsoup.org/pages/default.aspx) - Looks like a good collection of software hardware donations for nonprofits - We don't show up in database yet.
-
-## Very Small Contributions
-
+- [Good360](http://www.giftsinkind.org/) is "growing the world’s largest online product donation marketplace, where product donations from America’s top brands and retailers become goods for the greater good."--From cookware to software!
 - Home Depot offers limited \$25 vouchers at the store for nonprofits-seems to differ per store, but you may have to submit written request
 
 ## Todo
