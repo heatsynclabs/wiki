@@ -6,8 +6,6 @@
 - [SEM Microscopy](SEM-Microscopy)
 - [RFID_Access](RFID-Access) control system in Arduino
 - [Accessibility](Accessibility) grant research
-- [Pebble](Pebble) Arduino workshop resources
-- [Laser Cutter Kickstarter](Laser-Cutter-Kickstarter)
 - [Solar Concentrator Power Generation](Solar-Concentrator)
 - [Loldialer](Loldialer)
 - [Arduino IR Pet](Arduino-IR-Pet) "Tamogachi" Arduino workshop resources
