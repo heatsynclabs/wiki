@@ -56,7 +56,7 @@ Whatever you use you need to export or save to STL format
 
 Make sure fakerbot is turned on (switch on power supply in back). The usb cable should be plugged in to your computer and the power supply should of course be plugged in.
 
-Boot the laptop on the desk and open replicatorg which should automatically connect to the board. Otherwise there is a connect button.
+Boot the machine on the desk and open ReplicatorG which should automatically connect to the board. Otherwise there is a connect button.
 
 ## Warm up
 
