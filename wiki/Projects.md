@@ -21,8 +21,6 @@
 - [3D Scanner](3D-Scanner)
 - [Autohacking](Autohacking)
 - [NightVision](NightVision)
-- [ToolsDB](ToolsDB)
-- [Starting a Non-Profit](Starting-a-Non-Profit)
 
 ## Project Idea Wall
 
