@@ -2,7 +2,6 @@
 
 **Please add links to your projects here, in *reverse chronological* order!**
 
-- [RBCreation](RBCreation)
 - [SyncSwag](SyncSwag)
 - [Epilog](Epilog)
 - [ Microwave-Oven Smelting Furnace](Microwave-Furnace)
