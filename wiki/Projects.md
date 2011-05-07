@@ -19,6 +19,23 @@
 - [Autohacking](Autohacking)
 - [NightVision](NightVision)
 
+## Completed Projects / Halls of Fame
+
+- Potato Cannons
+- [ 2000 ASU EAP Grant Proposal](2kproposal)
+- [RBCreation](RBCreation)
+- [hack our Rigol](http://mightyohm.com/blog/2010/03/rigol-ds1052e-50mhz-to-100mhz-scope-conversion/) to change it from 50mhz to 100mhz (we already did this!)
+- Cameras at HeatSync
+- [Epilog](Epilog)
+- [ Microwave-Oven Smelting Furnace](Microwave-Furnace)
+- [ToolsDB](ToolsDB)
+- [Starting a Non-Profit](Starting-a-Non-Profit)
+- [Pebble](Pebble) Arduino workshop resources
+- [Laser Cutter Kickstarter](Laser-Cutter-Kickstarter)
+- [Nearspace Balloon](Nearspace-Balloon)
+- [Reflow Toaster](http://www.sparkfun.com/commerce/tutorial_info.php?tutorials_id=60)
+- [IdeaPad S10-3t](IdeaPad-S10-3t)
+
 ## Project Idea Wall
 
 ### Logistics
@@ -56,20 +73,3 @@
 - **Post Apocalyptic World**: How to Survive
 - **Take it Apart!**: It would be fun to invite people who have never taken anything apart, and walk them through whats inside the electronic junk they might have just thrown away. Each participant could bring one or two things to take apart and then show-and-tell what they found. Not sure if there would be safety concerns with this. Might need a waiver.
 - End to End construction of say an Arduino. Component education to soldering to burning the arduino code to writing arduino sketches.
-
-## Completed Projects
-
-- Potato Cannons
-- [ 2000 ASU EAP Grant Proposal](2kproposal)
-- [RBCreation](RBCreation)
-- [hack our Rigol](http://mightyohm.com/blog/2010/03/rigol-ds1052e-50mhz-to-100mhz-scope-conversion/) to change it from 50mhz to 100mhz (we already did this!)
-- Cameras at HeatSync
-- [Epilog](Epilog)
-- [ Microwave-Oven Smelting Furnace](Microwave-Furnace)
-- [ToolsDB](ToolsDB)
-- [Starting a Non-Profit](Starting-a-Non-Profit)
-- [Pebble](Pebble) Arduino workshop resources
-- [Laser Cutter Kickstarter](Laser-Cutter-Kickstarter)
-- [Nearspace Balloon](Nearspace-Balloon)
-- [Reflow Toaster](http://www.sparkfun.com/commerce/tutorial_info.php?tutorials_id=60)
-- [IdeaPad S10-3t](IdeaPad-S10-3t)
