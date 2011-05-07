@@ -38,8 +38,6 @@
 
 ### Other
 
-- [hack our Rigol](http://mightyohm.com/blog/2010/03/rigol-ds1052e-50mhz-to-100mhz-scope-conversion/) to change it from 50mhz to 100mhz (we already did this!)
-- Cameras at HeatSync
 - Video wall to other hackerspaces at HeatSync
 - [CNC](CNC)
 - Digital Audio Mixer/Converter/Splitter
