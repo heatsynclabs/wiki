@@ -62,7 +62,7 @@ Boot the machine on the desk and open ReplicatorG which should automatically con
 
 We need to heat up the tip for ~5 minutes and extrude some plastic in order to get the machine operational.
 
-Click the Control panel button (arrows) and set Motor Speed PWM to 255, target temp to 240. You must press enter or click your cursor outside of that input box in order to make this take effect. You're probably using a heated bed as well so set that temperature to 100. Note: You'll need to wait quite a while for this to reach its final temperature. Make sure that it is a consistent temperature across the entire surface to prevent corners form peeling. Use the laser thermometer to check its at 85-100 C
+Click the Control panel button (arrows) and set Motor Speed PWM to 255, target temp to 230. You must press enter or click your cursor outside of that input box in order to make this take effect. You're probably using a heated bed as well so set that temperature to 100. Note: You'll need to wait quite a while for this to reach its final temperature. Make sure that it is a consistent temperature across the entire surface to prevent corners form peeling.
 
 The machine should immediately begin moving towards temp (theres a temperature graph below, with red as your temperature) and reach it within a minute or two tops.
 
