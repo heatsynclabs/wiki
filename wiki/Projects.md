@@ -72,3 +72,4 @@
 - [Starting a Non-Profit](Starting-a-Non-Profit)
 - [Pebble](Pebble) Arduino workshop resources
 - [Laser Cutter Kickstarter](Laser-Cutter-Kickstarter)
+- [Nearspace Balloon](Nearspace-Balloon)
