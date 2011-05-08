@@ -6,11 +6,14 @@ Hhhhhhhokay, so the idea here kiddies, is to build a device that can make a call
 
 ## Ingredients
 
-- Arduino Uno
-- Arduino Ethernet Shield
-- Twilio
-- 16x2 LCD Screen (Serial)
-- Phone keypad
+- [Arduino Uno](http://www.heatsynclabs.org/store/electronics/)
+- [Arduino Ethernet Shield](http://www.sparkfun.com/products/9026)
+- [Twilio](http://www.sparkfun.com/products/8653) (or Tropo I guess)
+- [16x2 LCD Screen (Serial)](http://www.sparkfun.com/products/9395)
+- [Phone keypad](http://www.sparkfun.com/products/8653)
+- [Wires, lots of wires](http://www.sparkfun.com/products/9386)
+- Breadboard (for holding resistors)
+- [Resistors (4 total, 5 Kohm)](http://www.sparkfun.com/products/8803)
 - Basic Ruby web \[page\|service\]
 - Internets
 - Obligatory LEDs
