@@ -8,13 +8,12 @@ Hhhhhhhokay, so the idea here kiddies, is to build a device that can make a call
 
 - Arduino Uno
 - Arduino Ethernet Shield
-- SD Card
 - Twilio
 - 16x2 LCD Screen (Serial)
 - Phone keypad
-- Basic Ruby or PHP web \[page\|service\]
+- Basic Ruby web \[page\|service\]
 - Internets
-- Obligatory blue LEDs
+- Obligatory LEDs
 - Letter of legal absolution from Rick Astley and the dude that uploaded Keyboard Cat
 
 ## Current choices for audio trolling
