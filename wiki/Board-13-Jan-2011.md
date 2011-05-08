@@ -20,10 +20,12 @@ A reminder, all issues for consideration must be provided to the Secretary in wr
 Jeremy Leung call to order 7:09\
 Jacob Rosenthal acting secretary, Jeremy acting as chairman, vote will be voting, discussion 1 min per person, counterclockwise, for amendments request people write down amendment and forward to acting secretary, David Huerta timekeeper
 
-Members Present: Corey Renner\
+Members Present:\
+Corey Renner\
 David Uhlman\
 Zach Giles\
-Guests Present: Pro Bono Lawyer (Emily)\
+Guests Present:\
+Pro Bono Lawyer (Emily)\
 Raymond Gage\
 
 ## Comments From Members
