@@ -35,7 +35,22 @@ At this time Members whose dues are in good and current standing shall have an o
 
 ## Director Report
 
-Each board member has 2 minutes to report on the status of their office. Please email details of this report to the secretary if relevant to aid in meeting minute note taking. **Champion:** Jacob Lease, terms, etc: There is no lease nor will there be a lease for HeatSync at Gangplank. Firstly, GP's mission statement includes the need to put relationships over formality. Secondly, GP sees us as an anchor company here, and no other anchor company is given a lease either. Back Door Entrance: The back door has never been available to us for regular entrance and remains unavailable to us. The first person to enter may use it as a method of unlocking the space, but it is not to be used as an entrance otherwise. If we have need of the bay door it is recommended to call someone on inside to the bay door. Who do our members report to, respond to in the GP staff, community: Any member of Gangplank, inclusive of members of HeatSync, are encouraged to discuss disputes personally with other community members. To that end we should expect Conrey, Katie, or any other gangplank member to do so with us and we are encouraged to discuss our disputes individually with any other GP community member. Current state of GP Second Building: The current status of the next door space, and by extension our ability to expand into our previously discussed location of in front of the bay door, is between 3 and 6 months away, still held up in paperwork with no real date of initiation or completion. Future of HSL in Gangplank: In trying to align our futures GP asked where we see ourselves in 2 years to which we replied a space at least the size of the current Gangplank Space. Given that goal and trajectory, GP doesn't feel like our current path of growth is accomadatable by their space (2 years) without changes in our organizational goals, which they would never ask us to make. ON laser cutter build out: This is held up by previously mentioned hold ups to next door build out, and we currently have no guarantee we will be built out and prepared to house our new laser cutter in ~1 month when it arrives. Further there is no current eta on when that conversation can happen locking in that date.
+Each board member has 2 minutes to report on the status of their office. Please email details of this report to the secretary if relevant to aid in meeting minute note taking. **Champion:** Jacob Lease, terms, etc: There is no lease nor will there be a lease for HeatSync at Gangplank. Firstly, GP's mission statement includes the need to put relationships over formality. Secondly, GP sees us as an anchor company here, and no other anchor company is given a lease either.
+
+Back Door Entrance:\
+The back door has never been available to us for regular entrance and remains unavailable to us. The first person to enter may use it as a method of unlocking the space, but it is not to be used as an entrance otherwise. If we have need of the bay door it is recommended to call someone on inside to the bay door.
+
+Who do our members report to, respond to in the GP staff, community:\
+Any member of Gangplank, inclusive of members of HeatSync, are encouraged to discuss disputes personally with other community members. To that end we should expect Conrey, Katie, or any other gangplank member to do so with us and we are encouraged to discuss our disputes individually with any other GP community member.
+
+Current state of GP Second Building:\
+The current status of the next door space, and by extension our ability to expand into our previously discussed location of in front of the bay door, is between 3 and 6 months away, still held up in paperwork with no real date of initiation or completion.
+
+Future of HSL in Gangplank:\
+In trying to align our futures GP asked where we see ourselves in 2 years to which we replied a space at least the size of the current Gangplank Space. Given that goal and trajectory, GP doesn't feel like our current path of growth is accomadatable by their space (2 years) without changes in our organizational goals, which they would never ask us to make.
+
+ON laser cutter build out:\
+This is held up by previously mentioned hold ups to next door build out, and we currently have no guarantee we will be built out and prepared to house our new laser cutter in ~1 month when it arrives. Further there is no current eta on when that conversation can happen locking in that date.
 
 **Treasurer:** Jose Packet enclosed, 2010 Year end Summary and purchase approval form submitted prior to purchase, Champion and Treasurer must approve Laser cutter funds 8425.70 transferred within this past week pushing that to 2011 income
 
