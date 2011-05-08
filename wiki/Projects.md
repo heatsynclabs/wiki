@@ -19,7 +19,7 @@
 - [Autohacking](Autohacking)
 - [NightVision](NightVision)
 
-## Completed Projects / Halls of Fame
+## Completed Projects / Hall of Fame
 
 - Potato Cannons
 - [ 2000 ASU EAP Grant Proposal](2kproposal)
