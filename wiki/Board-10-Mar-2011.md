@@ -1,10 +1,29 @@
-HeatSync Labs Non-Profit Organization Board of Administration Open Session 10 of March 2011 7:00p.m. til 8:30p.m. Location: Gangplank 260 S. Arizona Avenue Chandler, AZ 85225
+HeatSync Labs Non-Profit Organization
+    Board of Administration
+    Open Session
+    10 of March 2011
+    7:00p.m. til 8:30p.m.
+    Location: Gangplank
+    260 S. Arizona Avenue
+    Chandler, AZ 85225
 
-Board Members (Alphabetical by Last Name): Will Bradley Jose Diaz David Huerta Jeremy Leung Jacob Rosenthal Matt Shepard Joyce Tang Andrea Young
+    Board Members (Alphabetical by Last Name):
+    Will Bradley
+    Jose Diaz
+    David Huerta
+    Jeremy Leung
+    Jacob Rosenthal
+    Matt Shepard
+    Joyce Tang
+    Andrea Young
 
 A reminder, all issues for consideration must be provided to the Secretary in written form at least 7 days prior to the necessary posting date for that meeting. Any written materials distributed to the Board in connection with this agenda will be made available at the meeting location located at the address at or just prior to the meeting.
 
-Call to Order and Roll Call 7:02pm Members Present: Leung, Huerta, Bradley, Tang, Young, Rosenthal (board). Giles. Members Late: Diaz Board Members Absent: Shepard
+    Call to Order and Roll Call
+    7:02pm
+    Members Present: Leung, Huerta, Bradley, Tang, Young, Rosenthal (board). Giles.
+    Members Late: Diaz
+    Board Members Absent: Shepard
 
 Approval of Last Meetings Minutes Approval of the 13 January 2011 and 10 February 2011 Meeting Minutes. Vote: Does anyone object to unanimous consent? 13 January 2011 – Unanimous consent 10 February 2011 – Unanimous consent
 
