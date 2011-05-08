@@ -32,13 +32,16 @@ Committees that promised during a previous meeting to present information for th
 
 ## New Business
 
-1\. Bradley - Motion to remove Matt from the board, per the bylaws requiring attendence and participation.
+### Motion 1
 
+- Bradley - Motion to remove Matt from the board, per the bylaws requiring attendence and participation.
 - Leung – Has spoken with Matt and he expressed the need to step down. Was asked to submit a written statement to the board entirely. Nothing was received.
 
 Unanimous consent on passing to remove Matt Shepard as Resource Director from Board of Directors.
 
-2\. Motion to review the current top recommendations of the Location/Spaces committee and vote for a tentative, nonbinding, preferred location.
+### Motion 2
+
+Motion to review the current top recommendations of the Location/Spaces committee and vote for a tentative, nonbinding, preferred location.
 
 - Jacob – How do we clarify the need to have this report. Concern that this would get continually pushed back.
 - Bradley – Intention to have something but was unable to compile things by then. Amendment proposed – “Motion to compel the Locations committee to produce a recommendation report on ideal locations by next board meeting, April 7, 2011.”
@@ -48,7 +51,9 @@ Unanimous consent on passing to remove Matt Shepard as Resource Director from Bo
 
 Motion to TABLE by Leung. Vote – Unanimous opposition. Amendment vote - Unanimous consent. Motion vote - Unanimous consent.
 
-3\. Motion to give Jeremy Leung full authority for selecting a new location for Heatsync Labs, and executing lease agreements or other location-related contracts on HeatSync Labs' behalf.
+### Motion 3
+
+Motion to give Jeremy Leung full authority for selecting a new location for Heatsync Labs, and executing lease agreements or other location-related contracts on HeatSync Labs' behalf.
 
 - Giles – Minute Allowed – No on this because he would ask that the committee give you the report and that we elect Jeremy to make the decisions without all the knowledge. Doesn’t like the idea that the decision can be made without the board. Would like to see this tabled until after the spaces committee reports.
 - Rosenthal – Agree with giving him authority to do lease agreement on behalf of HSL. Issue with location selection related authority.
