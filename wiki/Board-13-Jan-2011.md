@@ -35,7 +35,12 @@ At this time Members whose dues are in good and current standing shall have an o
 
 ## Director Report
 
-Each board member has 2 minutes to report on the status of their office. Please email details of this report to the secretary if relevant to aid in meeting minute note taking. **Champion:** Jacob Lease, terms, etc: There is no lease nor will there be a lease for HeatSync at Gangplank. Firstly, GP's mission statement includes the need to put relationships over formality. Secondly, GP sees us as an anchor company here, and no other anchor company is given a lease either.
+Each board member has 2 minutes to report on the status of their office. Please email details of this report to the secretary if relevant to aid in meeting minute note taking.
+
+**Champion:** Jacob
+
+Lease, terms, etc:\
+There is no lease nor will there be a lease for HeatSync at Gangplank. Firstly, GP's mission statement includes the need to put relationships over formality. Secondly, GP sees us as an anchor company here, and no other anchor company is given a lease either.
 
 Back Door Entrance:\
 The back door has never been available to us for regular entrance and remains unavailable to us. The first person to enter may use it as a method of unlocking the space, but it is not to be used as an entrance otherwise. If we have need of the bay door it is recommended to call someone on inside to the bay door.
