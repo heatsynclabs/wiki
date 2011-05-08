@@ -10,7 +10,6 @@
 - [Loldialer](Loldialer)
 - [Arduino IR Pet](Arduino-IR-Pet) "Tamogachi" Arduino workshop resources
 - [Nearspace Balloon II](Nearspace-Balloon-2)
-- [Tesla Coil](Tesla-Coil)
 - [Phoenix RepRap](Phoenix-RepRap)
 - [Magomatic V2](Magomatic-V2)
 - [Hax0r Candy Machine](Hax0r-Candy-Machine)
