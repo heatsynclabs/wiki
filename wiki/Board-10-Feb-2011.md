@@ -1,7 +1,19 @@
-HeatSync Labs Non-Profit Organization Board of Administration Open Session Day of Month, Year 7:00p.m. til 8:30p.m. Location: Gangplank 260 S. Arizona Avenue Chandler, AZ 85225
-
-Board Members (Alphabetical by Last Name): Will Bradley Jose Diaz David Huerta Jeremy Leung Jacob Rosenthal Matt Shepard Joyce Tang Andrea Young
-
+HeatSync Labs Non-Profit Organization\
+Board of Administration\
+Open Session\
+Day of Month, Year\
+7:00p.m. til 8:30p.m.\
+Location: Gangplank\
+260 S. Arizona Avenue\
+Chandler, AZ 85225\
+Board Members (Alphabetical by Last Name): Will Bradley\
+Jose Diaz\
+David Huerta\
+Jeremy Leung\
+Jacob Rosenthal\
+Matt Shepard\
+Joyce Tang\
+Andrea Young\
 A reminder, all issues for consideration must be provided to the Secretary in written form at least 7 days prior to the necessary posting date for that meeting. Any written materials distributed to the Board in connection with this agenda will be made available at the meeting location located at the address at or just prior to the meeting.
 
 Call to Order and Roll Call Time: 7:12pm Members Present: Board - Jeremy Leung, David Huerta, Jose Diaz, Andrea Young, Joyce Tang, Jacob Rosenthal. Members - Zach Giles, David Good. Members Late: Will Bradley Members Absent: Matt Shepard
