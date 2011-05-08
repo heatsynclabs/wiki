@@ -1,4 +1,5 @@
-HeatSync Labs Non-Profit Organization Board of Administration Open Session 10 of March 2011 7:00p.m. til 8:30p.m. Location: Gangplank 260 S. Arizona Avenue Chandler, AZ 85225
+HeatSync Labs Non-Profit Organization\
+Board of Administration Open Session 10 of March 2011 7:00p.m. til 8:30p.m. Location: Gangplank 260 S. Arizona Avenue Chandler, AZ 85225
 
 ## Board Members (Alphabetical by Last Name)
 
