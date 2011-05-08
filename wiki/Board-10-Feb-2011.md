@@ -21,7 +21,12 @@ A reminder, all issues for consideration must be provided to the Secretary in wr
 
 ## Call to Order and Roll Call
 
-Time: 7:12pm Members Present: Board - Jeremy Leung, David Huerta, Jose Diaz, Andrea Young, Joyce Tang, Jacob Rosenthal. Members - Zach Giles, David Good. Members Late: Will Bradley Members Absent: Matt Shepard
+**Time:** 7:12pm\
+**Members Present:**\
+Board - Jeremy Leung, David Huerta, Jose Diaz, Andrea Young, Joyce Tang, Jacob Rosenthal.\
+Members - Zach Giles, David Good.\
+**Members Late:** Will Bradley\
+**Members Absent:** Matt Shepard
 
 ## Approval of Last Meetings Minutes
 
