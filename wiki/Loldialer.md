@@ -12,8 +12,8 @@ Hhhhhhhokay, so the idea here kiddies, is to build a device that can make a call
 - [16x2 LCD Screen (Serial)](http://www.sparkfun.com/products/9395)
 - [Phone keypad](http://www.sparkfun.com/products/8653)
 - [Wires, lots of wires](http://www.sparkfun.com/products/9386)
-- Breadboard (for holding resistors)
-- [Resistors (4 total, 5 Kohm)](http://www.sparkfun.com/products/8803)
+- [Breadboard (for holding resistors)](http://www.sparkfun.com/products/8803)
+- Resistors (4 total, 5 Kohm)
 - Basic Ruby web \[page\|service\]
 - Internets
 - Obligatory LEDs
