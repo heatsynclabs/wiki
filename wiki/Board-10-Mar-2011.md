@@ -21,19 +21,34 @@ Giles: (minute to be used on motion 3)
 
 ## Director Report
 
-Champion Jacob – 3D printer; waiting for part to come in. Publicity clarification review: please keep personal and HSL supports separate. Jeremy – trying to format resources team. Talking with the laser cutter manufacturer to get our customs paperwork through. 501c3 timeline – working with tax exempt representative who communicate with the IRS for us and their deadline is 3/11 (tomorrow). Still having difficult time but should be able to provide timeline by the weekend.
+Champion
 
-Secretary Drea – keep waivers in corp binder in locker. Membership form updated for new membership tiers and redirects to paypal.
+- Jacob – 3D printer; waiting for part to come in. Publicity clarification review: please keep personal and HSL supports separate.
+- Jeremy – trying to format resources team. Talking with the laser cutter manufacturer to get our customs paperwork through. 501c3 timeline – working with tax exempt representative who communicate with the IRS for us and their deadline is 3/11 (tomorrow). Still having difficult time but should be able to provide timeline by the weekend.
 
-Treasurer Growing and changing membership - \$
+Secretary
 
-Resource Director absent
+- Drea – keep waivers in corp binder in locker. Membership form updated for new membership tiers and redirects to paypal.
 
-Marketing/PR Joyce – Working on a website redesign with Will. Keeping close eye on publicly supporting political and/or religious figures.
+Treasurer
 
-Editor Working on managing the photo posts. Would like to have a camera in the lab for taking photos with auto upload. Trying to get membership badges out the door.
+- Growing and changing membership - \$
 
-IT Director Fixed Twitterbot and added motion sensor. Organized workshops, lining up more (SEM and metalworking). Fixed a few tools – mill. Working to manage physical space in Resource Manager absence.
+Resource Director
+
+- absent
+
+Marketing/PR
+
+- Joyce – Working on a website redesign with Will. Keeping close eye on publicly supporting political and/or religious figures.
+
+Editor
+
+- Working on managing the photo posts. Would like to have a camera in the lab for taking photos with auto upload. Trying to get membership badges out the door.
+
+IT Director
+
+- Fixed Twitterbot and added motion sensor. Organized workshops, lining up more (SEM and metalworking). Fixed a few tools – mill. Working to manage physical space in Resource Manager absence.
 
 ## Financial Report
 
