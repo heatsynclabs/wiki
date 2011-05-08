@@ -33,7 +33,7 @@ Hhhhhhhokay, so the idea here kiddies, is to build a device that can make a call
 
 ## Use case
 
-PLUG IT IN PLUG IT IN\[to an ethernet port\], thus jacking into the Matrix, choose a horrible audio file to play, then enter a victim's phone number, \[somehow\] tell that the user has picked up, giggle like a schoolboy, then end the call if the victim is still on the line.
+PLUG IT IN PLUG IT IN\[to an ethernet port\], thus jacking into the Matrix, choose a horrible audio file to play, then enter a victim's phone number, \[somehow\] tell that the user has picked up, giggle like a schoolboy, then end the call if the victim is still on the line. If purchasing a phone number from Twilio/Tropo, configure the number to robo-voice rick roll them when they return their call.
 
 ## BONUS
 
@@ -44,5 +44,9 @@ Twilio can do transcription, so it would be cool to record what the user says wh
 > FFFFFFFFFFUUUUUUUUUUUU-
 
 ...and that will never get old.
+
+## Truly Evil Mad Scientist BONUS
+
+Randomly generate a phone number that isn't part of an emergency service or public utility on Friday at midnight and Fridayroll it.
 
 --[Huertanix](User-Huertanix) 19:59, 7 November 2010 (UTC)
