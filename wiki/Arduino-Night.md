@@ -27,7 +27,7 @@ Here are the current Arduino models that we have available to play with at the l
 
 ## Arduino Shields
 
-- Ethernet Shield v.1.1 - Older version of this.
+- Ethernet Shield v.1.1 - Older version of this. (The white ethernet shield) [EtherShield.zip](files/EtherShield.zip)
 - [Wave Shield](http://www.adafruit.com/index.php?main_page=product_info&cPath=17_21&products_id=94) - Play any uncompressed 22KHz, 16bit, mono Wave (.wav) files of any size.
 - [Adafruit Ethernet (XPort/WIZnet) shield for Arduino kit - v1.2](http://www.adafruit.com/index.php?main_page=product_info&cPath=17_21&products_id=83)
 - Sparkfun Arduino ProtoShield v2 - Older version of [this.](http://www.sparkfun.com/commerce/product_info.php?products_id=7914)
