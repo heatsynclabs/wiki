@@ -16,6 +16,8 @@ Hhhhhhhokay, so the idea here kiddies, is to build a device that can make a call
 - Resistors (4 total, 5 Kohm)
 - Basic Ruby web \[page\|service\]
 - Internets
+- Metal tin box with window from the Container Store
+- Frosted 1/4" thick translucent acrylic bummed from Jacob
 - Obligatory LEDs
 - Letter of legal absolution from Rick Astley and the dude that uploaded Keyboard Cat
 
