@@ -8,5 +8,6 @@ With the variety of tools at HeatSync, this page is intended to keep a running r
 - [Vacuum Forming](Vacuum-Forming)
 - [Microfiche](Microfiche)
 - [ 3D Printing!](Fakerbot)
+- [ Laser Cutting](Lasering)
 - [Tapping](Tapping)
 - [NutsandBolts](NutsandBolts)
