@@ -40,12 +40,12 @@ Here are the current Arduino models that we have available to play with at the l
 - Various DC Motors
 - [Continuous Rotation Servos](http://www.adafruit.com/index.php?main_page=product_info&cPath=34&products_id=154) x4
 - Wheels x4
-- [PIR Sensor Module](http://www.sparkfun.com/commerce/product_info.php?products_id=8630) x1 - Motion Detection
+- [PIR Sensor Module](http://www.sparkfun.com/commerce/product_info.php?products_id=8630) x1 - Motion Detection - [Adafruit tutorial](http://www.ladyada.net/learn/sensors/pir.html)
 - [RFID Reader and Tags](http://www.parallax.com/StoreSearchResults/tabid/768/txtSearch/rfid/List/0/SortField/4/ProductID/114/Default.aspx) x1
 - [LV-MaxSonar-EZ1](http://www.sparkfun.com/commerce/product_info.php?products_id=639) x1 - High Performance Ultrasonic Range Finder
 - Piezos and Speakers
 - [Alcohol Gas Sensor](http://www.sparkfun.com/commerce/product_info.php?products_id=8880) x1
-- Wii Remote Nun-chuck
+- Wii Remote Nun-chuck and adapter pcb [Information and tutorial](http://todbot.com/blog/2008/02/18/wiichuck-wii-nunchuck-adapter-available/)
 - Piezo Film Vibra Tab Sensor - Similar to [this.](http://www.sparkfun.com/commerce/product_info.php?products_id=9196)
 - [7 Segment RED LED](http://www.sparkfun.com/commerce/product_info.php?products_id=8546)
 - [Bluetooth SMD Module - Roving Networks](http://www.sparkfun.com/commerce/product_info.php?products_id=8497) - With Headers setup to communicate with Funnel IO
