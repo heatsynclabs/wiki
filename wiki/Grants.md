@@ -10,6 +10,7 @@ There are a lot of community grants out there from the local business that you a
 
 These opportunities require a nonprofit to submit a project with a very specific scope, IE your project! Most are based around some public need like education, environment, community, health care, etc. How it works is you write it up your project and HeatSync signs on for 15% for operational expenses, with the rest administered to you based on your proposal.
 
+- [Godaddy](http://www.godaddycares.com/go-daddy-cares%C2%AE-charitable-application-form/)
 - Fedora - fedora grant - 5k for open source education - we have a member
 - [Lego](http://www.legochildrensfund.org/Guidelines.html) - 500-5k
 - [Ambrose Monell Foundation](http://www.monellvetlesen.org/monell/default.htm)
