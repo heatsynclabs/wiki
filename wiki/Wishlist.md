@@ -12,14 +12,14 @@ Lets pick out a list of 'essential' tools in each category. The [Fab Lab](http:/
 - Lathe - We have 3 at this point, but someone suggests Harrison Alpha Model
 - Plasma Cutter --\> <http://www.plasmacam.com/products-index.php>
 - Waterjet Cutter - Omax?
-- 3D Scanner - Nextgen?
-- Pick and Place - APS?
 - Drill Press - we have 2, but presumably a better one
 - Circular Saw - We're eyeing a [Hitachi C8FSHE 8-1/2](http://www.google.com/products/catalog?q=sliding+compound+miter+saw&um=1&hl=en&bav=on.2,or.r_gc.r_pw.&biw=770&bih=588&ie=UTF-8&cid=7814405329451054227&sa=X&ei=x_bITZquCKn20gHd34jcCA&ved=0CJYBEPMCMAI)
 - Table Saw - we get a [ryobi](http://www.good360.org/productdetails.aspx?ItemNumber=150649) from home depot for free!
 - Air Compressor - we have a cheap Ace Hardware version, but its a little rough
 - Band Saw - We have the Harbor Freight model, but its a little rough..
 - Air filtration - for wood projects and routers, etc. Can we
+- 3D Scanner - Nextgen?
+- Pick and Place - APS?
 
 # Software
 
