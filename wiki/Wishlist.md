@@ -23,7 +23,7 @@ Lets pick out a list of 'essential' tools in each category. The [Fab Lab](http:/
 
 # Software
 
-When purchasing we do not want non commercial versions of software as a rule
+When purchasing we, as a rule, do not want non commercial versions of software as we are prototyping and creating
 
 - Matlab - 1 license 2k at mathworks
 - Corel draw 399 at corel
@@ -31,9 +31,10 @@ When purchasing we do not want non commercial versions of software as a rule
 - (OR) CS5 Design (inc photoshop extended, flash catalyst and professional) for 170(mac) on techsoup
 - Eagle standard (4x6) \$750, pro \$1500
 - Or Alibre? something else?
-- Mach CNC control software - \$175 + \$50
 - Autocad 2012 w subscription \$4425, w/o \$3995 download only on autodesk - 2011 mac \$? on techsoup
 - Autocad inventor only in packages now.. (windows) \$? on techsoup
+- SolidWorks - 4k, 5.5k, or 8k - or education version but that requires nothing designed be made commercially so no
+- Mach CNC control software - \$175 + \$50 - Generously offered to us by developer, ArtSoft
 - flickr pro accounts \$6 on techsoup
 
 ## Research facts
