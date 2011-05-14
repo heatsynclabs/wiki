@@ -21,7 +21,7 @@ These opportunities require a nonprofit to submit a project with a very specific
 - [Avnet Contributions Council](http://www.avnet.com/sta/home/0,6948,RID%253D0%2526CID%253D0%2526SCR%253DN%2526CCD%253DUSA%2526SID%253D9356%2526DID%253DDF3%2526LID%253D9405%2526BID%253DDF3%2526CTP%253DSTA,00.html) 501c3 required, Children, Education, Community
 - [General Dynamics](http://www.gdc4s.com/content/detail.cfm?item=4265a0f0-30c2-46b3-ae3f-09cf05a3c43a&page=10) - seems to grant financial contributions?
 - [Boeing](http://www.boeing.com/companyoffices/aboutus/community/ecf_apply_mesa.html) 501c3 required, Education: Agency's mission is focused on providing occupational or scholastic education and/or educational resources to people of all ages. Also includes educational institutions that are dedicated solely to people with disabilities., Accepted March 1 - March 31 , Avg \$5k
-- [Verizon](http://www.verizonfoundation.org/grant/index.shtml) 501c3 required, Education and Literacy, Safety and Health, avg \$10k
+- [Verizon](http://www.verizonfoundation.org/grant/index.shtml) 501c3 required, Education and Literacy, Safety and Health, avg \$10k -We've started an application [ Here](Verizon)
 - [Bank of the West](https://www.bankofthewest.com/about-us/community-support/charitable-investments.html) 501c3 Required, Community and Economic Development, Education and Job Training, Health and Human Care, Civic and Cultural
 - [Walmart](http://walmartstores.com/communitygiving/238.aspx) Education, Workforce Development, Health and Wellness, Environmental Stability, Hunger Relief, Small Business Support, Youth Entrepreneurship., \$250-\$5k, February to Dec 1
 - [Raytheon](http://www.raytheon.com/responsibility/community/grants/index.html) Grants for math and science education
