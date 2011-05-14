@@ -6,8 +6,6 @@ If you are interested in presenting a topic at one of our meetings, please conta
 
 If you have something you'd like to see, please add it in a bullet here. Maybe tie in a monthly theme regarding a particular item or technique (i.e. casting, milling, or spinning) and include a monthly demo. Try to focus on fundamental materials or methods to build on previously covered topics.
 
-- CAD/CAM
-- Home Brewing/ Arduino
 - Human Powered Vehicles
 - Remote-LAN Microcontroller HAX with Arduino
 
