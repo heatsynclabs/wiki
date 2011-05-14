@@ -2,9 +2,12 @@ The HeatSync Labs Community Involvement page is intended to document articles re
 
 ## Blogs
 
-- <http://wealoneonearth.blogspot.com/> and <http://www.cspo.org/soapbox/view/110208P2NI/augmenting-humanity-heatsync-labs/> Write up on our Monday Augmenting Humanity nights by Michael Burnham-Fink and reposted on Consortium for Science, Policy, and Outcomes at ASU:
-- <http://blogs.evtrib.com/nerdvana/2011/02/04/heatsync/> East Valley Tribune Nerdvana blog post on if Mesa would be a good home for HeatSync Labs:
-- <http://blogs.evtrib.com/nerdvana/2011/04/12/thank-the-makers/> East Valley Tribune Nerdvana blog post titled Thank The Makers
+- [Augmenting Humanity @HeatSync Labs](http://www.cspo.org/soapbox/view/110208P2NI/augmenting-humanity-heatsync-labs/)
+- [Is Mesa the perfect new home for Heatsync Labs?](http://blogs.evtrib.com/nerdvana/2011/02/04/heatsync/)
+- [Thank The Makers](http://blogs.evtrib.com/nerdvana/2011/04/12/thank-the-makers/)
+- [HeatSync Labs board to vote on proposal to lease space in downtown Mesa](http://blogs.evtrib.com/nerdvana/2011/05/10/heatsync-labs-considers-mesa/)
+- [Craft for Japan at HeatSync Labs](http://blogs.evtrib.com/nerdvana/2011/05/12/craft-for-japan-at-heatsync-labs/)
+- [HeatSync Labs board unanimous in approving proposed Mesa lease](http://blogs.evtrib.com/nerdvana/2011/05/12/heatsync-mesa/)
 
 <!-- -->
 
