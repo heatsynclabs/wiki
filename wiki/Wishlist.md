@@ -34,7 +34,7 @@ When purchasing we, as a rule, do not want non commercial versions of software a
 - VCarve - CAD/CAM system for making signs and art
 - Autocad 2012 w subscription \$4425, w/o \$3995 download only on autodesk - 2011 mac \$? on techsoup
 - Autocad inventor only in packages now.. (windows) \$? on techsoup
-- SolidWorks - \$4k standard should be sufficient - or education version but that requires nothing designed be made commercially so...--in contact on lowest price for us
+- SolidWorks - \$4k standard should be sufficient - education version requires nothing designed be made commercially so...--contacted rep, 4k is lowest price
 - MasterCam -10k-15? - in contact for lowest price for us
   - OR Cam bam? \$150 - \$300
 - Mach CNC control software - \$175 + \$50 - Generously offered to us free by developer, ArtSoft
