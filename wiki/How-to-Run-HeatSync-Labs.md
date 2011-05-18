@@ -66,6 +66,7 @@ Also see [ Office of Treasurer HowTo](Treasurer-Howto)
 
 ## Secretary
 
+- Check PO box
 - Initiating and revoking memberships (keys, documents, etc, with treasurer's help)
 - find presenters for biweekly thursday talks
   - get bio, info on talk, picture for blog post and calendar
