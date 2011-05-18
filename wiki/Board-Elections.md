@@ -42,6 +42,10 @@ Three questions for everyone!\
 
 ## Current Board Members
 
+See this [link](http://www.heatsynclabs.org/contact/board/) for current members.
+
+## Previous Board Members
+
 |  |  |
 |----|----|
 | **Position** | **People Interested** |
