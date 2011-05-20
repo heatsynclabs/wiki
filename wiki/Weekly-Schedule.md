@@ -1,17 +1,22 @@
-This is deprecated. See [the main website events page](http://www.heatsynclabs.org/events/) instead.
+See [the main website events page](http://www.heatsynclabs.org/events/) for more details.
 
 - Monday
-  - **7:30PM - ?** : [Augmenting Humanity](Augmenting-Humanity)
+  - **7:00PM - 10:00PM** : [Augmenting Humanity](Augmenting-Humanity) & Normal Hours
+    - Staffed by Jacob & Jeremy
 - Tuesday
+  - **7:00PM - 10:00PM** : Normal Hours
+    - Staffed by Will & Jose
 - Wednesday
-  - **7:00PM - ?** : Arduino Night (1st Wednesdays)
-  - **7:00PM - ?** : Nearspace
-  - **7:00PM - ?** : Makerbot/ Rep Rap / 3d Fabrication Meetup
-  - **6:00PM - ?** : Gangplank's Hacknight
+  - **7:00PM - 10:00PM** : Arduino Night (1st Wednesdays)
+  - **7:00PM - 10:00PM** : 3D Printing & Normal Hours
+    - Staffed by Jacob & Jeremy
 - Thursday
-  - **7:00PM - ?** : HSL Meeting (1st and 3rd Thursdays)
-  - **7:00PM - 8:00PM** : HSL Board Meetings (2nd and 4th Thursdays)
+  - **7:00PM - 10:00PM** : Public Meeting (1st and 3rd Thursdays)
+  - **7:00PM - 8:00PM** : HSL Board Meetings (2nd Thursdays of each quarter)
+  - **7:00PM - 10:00PM** : Normal Hours
+    - Staffed by entire board (Jacob, Jeremy, Jose, Joyce, David, Will)
 - Friday
+  - **7:00PM - 10:00PM** : Normal Hours
+    - Staffed by Joyce & David
 - Saturday
 - Sunday
-  - **3:00PM - 6:00PM** : Gangplank Jr. FIRST Lego League
