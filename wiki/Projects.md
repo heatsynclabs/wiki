@@ -19,6 +19,7 @@
 
 ## Completed Projects / Hall of Fame
 
+- [Loldialer](Loldialer)
 - Potato Cannons
 - [ 2000 ASU EAP Grant Proposal](2kproposal)
 - [RBCreation](RBCreation)
