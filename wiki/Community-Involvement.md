@@ -19,6 +19,7 @@ The HeatSync Labs Community Involvement page is intended to document articles re
 
 ## Print
 
+- <http://www.azcentral.com/news/articles/2011/05/20/20110520mesa-downtown-technology-heatsync.html>
 - [Mesa Mayor's Press Release](http://apps.mesaaz.gov/News/ArticleView.aspx?id=29974)
 - <http://www.azcentral.com/community/mesa/articles/2011/02/22/20110222mesa-editorial-imesa-residents0222.html> AZ Central briefly mentions us in an opinion article relating to HSL's surge to the top of Mesa's people's voice forum called iMesa.
 - Phoenix Magazine May 2011 ![ 200px](files/Phoenix_Magazine_May_2011.jpg)
