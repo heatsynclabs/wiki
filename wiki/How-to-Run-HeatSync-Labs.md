@@ -112,6 +112,7 @@ Also see: [ Office of Editor HowTo](Editor-Howto)
 
 Also see [ Office of Marketing/PR HowTo](MarketingPR-Howto)
 
+- Monitor press via google alerts, add to Press page
 - Facebook, Twitter (social media management)
   - Event hype (before, during, after)
   - Personality
