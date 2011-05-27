@@ -23,15 +23,15 @@ Hhhhhhhokay, so the idea here kiddies, is to build a device that can make a call
 
 ## Current choices for audio trolling
 
-- ITS FRIDAY ITS FRIDAY
-- Rickroll
-- Keyboard cat
-- Benny Lava
-- Boxxy
-- PIRATE SONG
-- Bananaphone
-- Trololololol
-- Badger badger badger...
+- [ITS FRIDAY ITS FRIDAY](http://www.youtube.com/watch?v=CD2LRROpph0)
+- [Rickroll](http://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [Keyboard cat](http://www.youtube.com/watch?v=J---aiyznGQ)
+- [Benny Lava](http://www.youtube.com/watch?v=sdyC1BrQd6g)
+- [Boxxy](http://www.youtube.com/watch?v=0SCVbv5buKw)
+- [PIRATE SONG](http://www.youtube.com/watch?v=3AzpByR3MvI)
+- [Bananaphone](http://www.youtube.com/watch?v=Oqq6jppAYFo)
+- [Trololololol](http://www.youtube.com/watch?v=T3n0vBcW5fc&feature=related)
+- [Badger badger badger...](http://www.youtube.com/watch?v=EIyixC9NsLI)
 
 ## Use case
 
