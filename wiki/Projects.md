@@ -7,7 +7,6 @@
 - [RFID_Access](RFID-Access) control system in Arduino
 - [Accessibility](Accessibility) grant research
 - [Solar Concentrator Power Generation](Solar-Concentrator)
-- [Arduino IR Pet](Arduino-IR-Pet) "Tamogachi" Arduino workshop resources
 - [Nearspace Balloon II](Nearspace-Balloon-2)
 - [Phoenix RepRap](Phoenix-RepRap)
 - [Magomatic V2](Magomatic-V2)
