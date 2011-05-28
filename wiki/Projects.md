@@ -34,6 +34,7 @@
 - [Reflow Toaster](http://www.sparkfun.com/commerce/tutorial_info.php?tutorials_id=60)
 - [IdeaPad S10-3t](IdeaPad-S10-3t)
 - [Tesla Coil](Tesla-Coil)
+- [Arduino IR Pet](Arduino-IR-Pet) "Tamogachi" Arduino workshop resources
 
 ## Project Idea Wall
 
