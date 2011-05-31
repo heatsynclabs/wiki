@@ -26,11 +26,11 @@ Lets pick out a list of 'essential' tools in each category. The [Fab Lab](http:/
 When purchasing we, as a rule, do not want non commercial versions of software as we are prototyping and creating
 
 - Matlab - 1 license \$2k at mathworks
-- Corel draw \$399 at corel
+- Corel draw \$399 at corel - \$130 if you upgrade (CorelDRAW, CorelDRAW Graphics Suite, Corel PHOTO-PAINT, Corel DESIGNER, Micrografx Designer, Micrografx Graphics Suite, Micrografx/Corel Picture Publisher, or Corel Painter. Trial, academic, OEM, and NFR versions are not eligible for an upgrade.)
 - Illustrator \$600 on adobe or cs5 premium design on techsoup (mac) \$55 esd
   - OR CS5 Design (inc photoshop extended, flash catalyst and professional) for 170(mac) on techsoup
 - Eagle standard (4x6) \$750, pro \$1500
-  - Or Alibre? something else?
+  - Or Alibre? Altium would be nice (5k)..
 - VCarve - CAD/CAM system for making signs and art
 - Autocad 2012 w subscription \$4425, w/o \$3995 download only on autodesk - 2011 mac \$? on techsoup
 - Autocad inventor only in packages now.. (windows) \$? on techsoup
