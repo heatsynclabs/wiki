@@ -10,7 +10,7 @@ Commons tables: [Ikea Vika Byske table top (beech wood)](http://www.ikea.com/us/
 
 Private work benches: [Galant combination desk with drawer (beech wood)](http://www.ikea.com/us/en/catalog/products/S49861168)
 
-Commons chairs: [RICKARD swivel chair (black)](http://www.ikea.com/us/en/catalog/products/10142693) or [SNILLE (black)](http://www.ikea.com/us/en/catalog/products/S79877709)
+Commons chairs: [RICKARD swivel chair (gray/black)](http://www.ikea.com/us/en/catalog/products/10142693) or [SNILLE (black)](http://www.ikea.com/us/en/catalog/products/S79877709)
 
 **NOTE**: Stock Ikea casters are designed for soft Swedish floors and not hard Arizona dead tree floors. Use [PARAGRAF](http://www.ikea.com/us/en/catalog/products/35093200) casters to prevent floor damage and ensure fast chair racing.
 
