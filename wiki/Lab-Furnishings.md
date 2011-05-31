@@ -15,3 +15,5 @@ Commons chairs: [RICKARD swivel chair (black)](http://www.ikea.com/us/en/catalog
 **NOTE**: Stock Ikea casters are designed for soft Swedish floors and not hard Arizona dead tree floors. Use [PARAGRAF](http://www.ikea.com/us/en/catalog/products/35093200) casters to prevent floor damage and ensure fast chair racing.
 
 HSL Library Bookshelf: [BESTÅ shelf unit (beech wood)](http://www.ikea.com/us/en/catalog/products/20102130) (stronger construction than the Billy shelves everyone has)
+
+Obligatory Sofa: [Target Orange Sofa](http://www.target.com/gp/detail.html/178-5530798-0803058?asin=B003515UP6&AFID=Froogle_df&LNM=%7CB003515UP6&CPNG=furniture&ci_src=14110944&ci_sku=B003515UP6&ref=tgt_adv_XSG10001)
