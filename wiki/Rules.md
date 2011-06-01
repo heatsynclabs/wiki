@@ -39,6 +39,8 @@ The Member will have an equal right to voice their opinion with a single vote. T
 
 In addition, we expect that all members will abide by the bylaws voted and in place for the organization which includes manners in which to conduct yourself while in the space. Please be sure to read and understand them prior to applying.
 
+Consumables such as stock, drill/mill bits, adhesives,etc are NOT a right of membership. Many consumables are available in the shop but are expected to be refilled by members, or not be available. Spare stock from projects may be stored in the space and is encouraged to be used--and refilled.
+
 ### Good Standing
 
 A member shall be considered in good standing if they are current on their dues.
@@ -218,17 +220,11 @@ The workshop is considered the HeatSync labs doors, proceeding beyond that line 
 - What to do with bad bits (put them in upside down for resharpening?)
 - Types of bits (general vs precision)
 
-### Hand Driver
-
-### Books
-
-- Buy: “Metalworking: Sink or Swim” and “Machine Shop Trade Secrets” -- training/reference material rec’d by Corey
-
 ### Consumables
 
-- Consumables are not a part of membership. However, spare stock from projects is stored in the rear-left corner and may be used (and is encouraged to be refilled).
-- Expensive consumable usage will be tracked (RFID?)--wouldn’t even say this, nothing in place yet
-- Expenses that go above a certain amount will be charged back to the member in order to finance replacement consumables.--wouldn’t even say this, nothing in place yet
+- Consumables are not a part of membership. However, spare stock from projects may be stored in the space and is encouraged to be used--and refilled.
+- Expensive consumable usage may be tracked (RFID?)
+- Expenses that go above a certain amount may be charged back to the member in order to finance replacement consumables.
 
 ---
 *Categories: [Rules and Policies](Category-Rules-and-Policies)*
