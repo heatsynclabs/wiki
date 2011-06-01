@@ -1,0 +1,3 @@
+- [Survey of member dues](SurveyOfPrices)
+- [ How to create a hackerspace](How-To-Hackerspace)
+- [ Survey of membership types ](Types)
