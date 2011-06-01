@@ -16,6 +16,7 @@ There are several options for home etching, but they all boil down to covering u
 
 - photo resist - using light to affix your pattern
 - heat transfer - using heat
+- [ LaserZ](PCBLaserEtch) - using paint and a laser
 - permanent marker - yep sharpie will resist etching, too
 
 ### Design
