@@ -2,11 +2,7 @@
 
 ### Eligibility
 
-HeatSync membership is open to the public, but use of certain equipment and key/security code may require further training, certification or approvals.
-
-### Application
-
-Membership to HSL is on an application/approval basis. Each application will be reviewed by a committee (currently the board of directors) to see if granting membership is in the best interest of the organization. We do not discriminate based on age, gender, sexual preference, race, religion, or geek factor. Denied applications can be appealed.
+HeatSync membership is open to the public, but use of certain equipment and key/security code may require further training, certification or approvals. We do not discriminate based on age, gender, sexual preference, race, religion, or geek factor. Denied applications may be appealed.
 
 ### Membership Tiers
 
@@ -26,7 +22,7 @@ Membership to HSL is on an application/approval basis. Each application will be 
 
 ### Membership Fees
 
-Membership dues are due on the first of the month. Membership is payable up to one year in advance. There are three ways to make payments: in cash (in person to the Treasurer or Secretary at the space or public meeting) or by check (made payable to “HeatSync Labs” and given to Treasurer or Secretary at the space or mailed to HeatSync Labs c/o Member Dues, PO Box 24143 Tempe, AZ 85285), or via reoccurring PayPal payment. Check and cash are due on the 1st of the month. PayPal is subject to enrollment date.
+If you sign up for membership via PayPal your recurring monthly dues will be subtracted from your account the same date you enrolled. If you chpose Cash/Check -- you can either mail your dues (HeatSync Labs PO Box 24143 Tempe, AZ 85284) or deliver it to Jose Diaz (jose @ heatsynclabs.org) at HeatSync. Please note recurring payments are -highly- encouraged-- remember we do not have staff. If cash/check are important please consider prepaying for 3,6 or 12 months up front.
 
 ### Membership Privileges and Responsibilities
 
