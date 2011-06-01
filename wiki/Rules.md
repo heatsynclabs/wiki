@@ -2,7 +2,7 @@
 
 ### Eligibility
 
-You must have attended a minimum of three HeatSync Labs events (public meetings, fundraisers, etc) to be eligible for membership. Exceptions can be granted by a board member based upon location or other circumstances. We look for members which will enhance our groups mission and who want to rock out the awesome projects and learning.
+HeatSync membership is open to the public, but use of certain equipment and key/security code may require further training, certification or approvals.
 
 ### Application
 
