@@ -10,7 +10,7 @@ Commons tables: [Ikea Vika Byske table top (beech wood)](http://www.ikea.com/us/
 
 **NOTE**: Ikea Tempe is fresh out of the Byske table tops, but the next size down is only two inches shorter, so its not a bad second choice.
 
-Private work benches: [Galant combination desk with drawer (beech wood)](http://www.ikea.com/us/en/catalog/products/S49861168)
+Private work desk (\$300/mo estimated pricing): [Galant combination desk with drawer (beech wood)](http://www.ikea.com/us/en/catalog/products/S49861168)
 
 Commons chairs: [RICKARD swivel chair (gray/black)](http://www.ikea.com/us/en/catalog/products/10142693) or [SNILLE (black)](http://www.ikea.com/us/en/catalog/products/S79877709)
 
