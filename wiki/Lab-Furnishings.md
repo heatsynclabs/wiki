@@ -21,3 +21,13 @@ Commons chairs: [RICKARD swivel chair (gray/black)](http://www.ikea.com/us/en/ca
 HSL Library Bookshelf: [BESTÅ shelf unit (beech wood)](http://www.ikea.com/us/en/catalog/products/20102130) (stronger construction than the Billy shelves everyone has)
 
 Obligatory Sofa: [Target Orange Sofa](http://www.target.com/gp/detail.html/178-5530798-0803058?asin=B003515UP6&AFID=Froogle_df&LNM=%7CB003515UP6&CPNG=furniture&ci_src=14110944&ci_sku=B003515UP6&ref=tgt_adv_XSG10001)
+
+## Vendors
+
+- <http://www.marketswest.com/store/pc/Folding-Tables-Chairs-c52.htm>
+- <http://www.abiaz.com/#/Pre_Owned_Seating-8-161.html>
+- <http://swofficefurniture.com/index.php?pr=Furniture>
+- <http://www.cort.com/furniture-clearance>
+- <http://www.buyusedcubes.com/used.htm>
+- <http://www.azoffice.com/uf_usedchairs.html>
+- <http://www.cornerofficeaz.com/preownedproducts.html>
