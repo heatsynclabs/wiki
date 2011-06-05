@@ -77,6 +77,7 @@ The [Bayard-Alpert hot cathode ionization gauge we have](http://www.flickr.com/p
     - Digital interface for varying the duty cycle
 - Webcam + White LED to mount inside of chamber
 - Driver/meter for the Bayard-Alpert hot cathode ionization gauge
+- Alterra Cyclone IV FPGA for near-real-time image processing needs
 
 ## Completed
 
