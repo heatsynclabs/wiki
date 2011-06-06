@@ -162,3 +162,29 @@ Regal -5 mon fri 602 437 1000
 - colors (y r g)
 - 1/8 \$69
 - 3/16 \$104
+
+Port plastics
+
+- Clear Acrylic - Paper Masking
+- .118" x 48" x 96"
+- 1 sheet - \$65.00/sheet
+- 10 sheets - \$62.00/sheet
+
+<!-- -->
+
+- .177" x 48" x 96"
+- 1 sheet - \$94.00/sheet
+- 10 sheets - \$90.00/sheet
+
+<!-- -->
+
+- .220" x 48" x 96"
+- \$120.00/sheet
+- \$116.00/sheet
+
+<!-- -->
+
+- Clear Acrylic -
+- .236" x 48" x 96"
+- 1 sheet - \$128.00/sheet
+- 10 sheets - \$122.00/sheet
