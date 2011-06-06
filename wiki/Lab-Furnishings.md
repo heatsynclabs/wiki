@@ -57,7 +57,22 @@ Cost: **\$180**
 - <http://www.buyusedcubes.com/used.htm>
 - <http://www.azoffice.com/uf_usedchairs.html>
 - <http://www.cornerofficeaz.com/preownedproducts.html>
+- <http://www.ikea.com/us/en/>
 
 ## Cost
 
 Total: **\$1905**
+
+## Optional Goodies
+
+### Antique phone booth
+
+Made of solid, sturdy Oak wood. [Found on eBay](http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=110695803190&ssPageName=STRK:MEWAX:IT#ht_500wt_1156).
+
+Cost: **\$1100**
+
+### PS BRUSE Coffee Table
+
+[IKEA PS BRUSE Coffee table](http://www.ikea.com/us/en/catalog/products/80141505). A fancier table that would substitute a \$10 black LACK table and match the beech wood main tables.
+
+Cost: **\$149**
