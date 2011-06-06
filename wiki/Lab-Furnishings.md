@@ -40,7 +40,7 @@ Cost: **\$342**
 
 [BESTÅ shelf unit (beech wood)](http://www.ikea.com/us/en/catalog/products/20102130) (stronger construction than the Billy shelves everyone has)
 
-Cost: **150**
+Cost: **\$150**
 
 ### Obligatory Sofa (1 total)
 
