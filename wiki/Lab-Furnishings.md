@@ -18,11 +18,11 @@ Event chairs: [Flash Furniture DAD-YCD-50-GG](http://www.bizchair.com/dad-ycd-50
 
 **NOTE**: Stock Ikea casters are designed for soft Swedish floors and not hard Arizona dead tree floors. Use [PARAGRAF](http://www.ikea.com/us/en/catalog/products/35093200) casters to prevent floor damage and ensure fast chair racing.
 
-**NOTE**: The casters built into RICKARD chairs work well on hard surfaces as-is, so if we choose those, we won't need to buy different casters. Also, the SNILLE chairs aren't ideal for butts larger than David's.
+**NOTE**: The casters built into RICKARD chairs work well on hard surfaces as-is, so if we choose those, we won't need to buy different casters. Also, the SNILLE chairs aren't ideal for butts larger than David's, maybe. **Update**: SNILLE chairs are used at Cartel Coffee Lab. They're the red plastic ones.
 
 HSL Library Bookshelf: [BESTÅ shelf unit (beech wood)](http://www.ikea.com/us/en/catalog/products/20102130) (stronger construction than the Billy shelves everyone has)
 
-Obligatory Sofa: [Target Orange Sofa](http://www.target.com/gp/detail.html/178-5530798-0803058?asin=B003515UP6&AFID=Froogle_df&LNM=%7CB003515UP6&CPNG=furniture&ci_src=14110944&ci_sku=B003515UP6&ref=tgt_adv_XSG10001)
+Obligatory Sofa: [Target Orange Sofa](http://www.target.com/gp/detail.html/178-5530798-0803058?asin=B003515UP6&AFID=Froogle_df&LNM=%7CB003515UP6&CPNG=furniture&ci_src=14110944&ci_sku=B003515UP6&ref=tgt_adv_XSG10001) or Julia T's sofa that she wants to get rid of. If the outer cover is standardized it might be possible to find an orange or black one.
 
 ## Vendors
 
