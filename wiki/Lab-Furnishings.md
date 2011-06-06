@@ -34,7 +34,7 @@ Cost: **\$108**
 
 **NOTE**: The casters built into RICKARD chairs work well on hard surfaces as-is, so if we choose those, we won't need to buy different casters. Also, the SNILLE chairs aren't ideal for butts larger than David's, maybe. **Update**: SNILLE chairs are used at Cartel Coffee Lab. They're the red plastic ones.
 
-Cost:'''
+Cost:**\$342**
 
 ### HSL Library Bookshelf (1 total)
 
