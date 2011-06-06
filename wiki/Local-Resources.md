@@ -222,3 +222,9 @@ Professional Plastics
 
 - colors 1/8 2x4 green, yellow or blue \$27.58
 - p95(light frost) \$33.79
+
+Other
+
+- lowes and home depot clear 4x2 \$22, \$26 .08 thick (2mm)
+- smallparts.com clear 12x12 1/8 \$12+shipping
+- mcmastercarr clear 24x24 1/8 \$20+shipping
