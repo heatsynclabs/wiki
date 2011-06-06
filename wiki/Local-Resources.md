@@ -188,3 +188,18 @@ Port plastics
 - .236" x 48" x 96"
 - 1 sheet - \$128.00/sheet
 - 10 sheets - \$122.00/sheet
+
+Piper Plastics
+
+Piper
+
+- Cast acrylic .1/16to 1/2inch (12mm) +-10% tolerances
+- most sizes actually metric
+- 1/8 3mm
+- 1/4 .236 6mm 1/4
+- cut fee \$10 a sheet
+
+<!-- -->
+
+- 1/8 \$100 a sheet (4x8ft)
+- 1/4 \$176
