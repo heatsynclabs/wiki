@@ -14,6 +14,8 @@ Private work desk (\$300/mo estimated pricing): [Galant combination desk with dr
 
 Commons chairs: [RICKARD swivel chair (gray/black)](http://www.ikea.com/us/en/catalog/products/10142693) or [SNILLE (black)](http://www.ikea.com/us/en/catalog/products/S79877709)
 
+Event chairs: [Flash Furniture DAD-YCD-50-GG](http://www.bizchair.com/dad-ycd-50-gg.html)
+
 **NOTE**: Stock Ikea casters are designed for soft Swedish floors and not hard Arizona dead tree floors. Use [PARAGRAF](http://www.ikea.com/us/en/catalog/products/35093200) casters to prevent floor damage and ensure fast chair racing.
 
 **NOTE**: The casters built into RICKARD chairs work well on hard surfaces as-is, so if we choose those, we won't need to buy different casters. Also, the SNILLE chairs aren't ideal for butts larger than David's.
