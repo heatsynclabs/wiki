@@ -139,3 +139,26 @@ Great pricing, Cliff was my top choice for waterjetting because he was eager, fl
 - Regal plastics 8-5 mon fri 602 437 1000 4ftx8ft .020 (20 thousandths) white - \$6.50 -prefer 25 dollar order but will do lower, cash only
 - Professional plastics - 602 437 4555 -100 minimum
 - Port 480 813 6118 - .060 4x8 in stock 17.75 no minimum
+
+#### Acrylic
+
+Regal -5 mon fri 602 437 1000
+
+- Cast acrylic -(costs more but preferred for laser cutting)
+- .060 to 1inch +-10% tolerances
+- Some colors in 1/8 3mm
+- most sizes actually metric
+- 1/8 3mm
+- 3/16 .177 4.25mm
+- 1/4 .236 6mm 1/4 .220 ~5.6mm
+- cut fee \$5, can stack sheets for same cut to several sheets for same cut fee
+
+<!-- -->
+
+- clear
+- 1/8 \$59 a sheet (4x8ft)
+- 3/16 \$90
+- 1/4 (.236) \$118
+- colors (y r g)
+- 1/8 \$69
+- 3/16 \$104
