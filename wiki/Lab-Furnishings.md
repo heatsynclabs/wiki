@@ -12,7 +12,7 @@ Commons tables: [Ikea Vika Byske table top (beech wood)](http://www.ikea.com/us/
 
 Private work desk (\$300/mo estimated pricing): [Galant combination desk with drawer (beech wood)](http://www.ikea.com/us/en/catalog/products/S49861168)
 
-Commons chairs: [RICKARD swivel chair (gray/black)](http://www.ikea.com/us/en/catalog/products/10142693) or [SNILLE (black)](http://www.ikea.com/us/en/catalog/products/S79877709)
+Commons chairs for hackers spending several hours hacking on code: [RICKARD swivel chair (gray/black)](http://www.ikea.com/us/en/catalog/products/10142693) or [SNILLE (black)](http://www.ikea.com/us/en/catalog/products/S79877709)
 
 Event chairs: [Flash Furniture DAD-YCD-50-GG](http://www.bizchair.com/dad-ycd-50-gg.html)
 
