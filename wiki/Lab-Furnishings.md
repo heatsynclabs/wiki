@@ -33,3 +33,7 @@ Obligatory Sofa (1 total): [Target Orange Sofa](http://www.target.com/gp/detail.
 - <http://www.buyusedcubes.com/used.htm>
 - <http://www.azoffice.com/uf_usedchairs.html>
 - <http://www.cornerofficeaz.com/preownedproducts.html>
+
+## Cost
+
+Total:
