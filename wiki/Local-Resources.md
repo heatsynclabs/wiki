@@ -203,3 +203,22 @@ Piper
 
 - 1/8 \$100 a sheet (4x8ft)
 - 1/4 \$176
+
+Professional Plastics
+
+- Cast acrylic -(costs more but preferred for laser cutting) .1/8to 1inch (12mm)
+- most sizes actually metric
+- no cut fee, sell by foot
+- quantity discount@20 (2x4) of 10%
+
+<!-- -->
+
+- clear
+- 1/8 a sheet (2x4ft) \$23.98
+- 3/16 29.50 (2x4)
+- 1/4 43.39 (2x4)
+
+<!-- -->
+
+- colors 1/8 2x4 green, yellow or blue \$27.58
+- p95(light frost) \$33.79
