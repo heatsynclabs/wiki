@@ -14,7 +14,7 @@ Private work desk (\$300/mo estimated pricing): [Galant combination desk with dr
 
 Commons chairs for hackers spending several hours hacking on code: [RICKARD swivel chair (gray/black)](http://www.ikea.com/us/en/catalog/products/10142693) or [SNILLE (black)](http://www.ikea.com/us/en/catalog/products/S79877709)
 
-Event chairs: [Flash Furniture DAD-YCD-50-GG](http://www.bizchair.com/dad-ycd-50-gg.html)
+Event chairs: [Flash Furniture DAD-YCD-50-GG](http://www.bizchair.com/dad-ycd-50-gg.html). These can be stored on a [Flash Folding Chair Dolly](http://www.bizchair.com/hf-700-dolly-gg.html)
 
 **NOTE**: Stock Ikea casters are designed for soft Swedish floors and not hard Arizona dead tree floors. Use [PARAGRAF](http://www.ikea.com/us/en/catalog/products/35093200) casters to prevent floor damage and ensure fast chair racing.
 
