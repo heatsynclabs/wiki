@@ -34,19 +34,19 @@ Cost: **\$108**
 
 **NOTE**: The casters built into RICKARD chairs work well on hard surfaces as-is, so if we choose those, we won't need to buy different casters. Also, the SNILLE chairs aren't ideal for butts larger than David's, maybe. **Update**: SNILLE chairs are used at Cartel Coffee Lab. They're the red plastic ones.
 
-Cost:**\$342**
+Cost: **\$342**
 
 ### HSL Library Bookshelf (1 total)
 
 [BESTÅ shelf unit (beech wood)](http://www.ikea.com/us/en/catalog/products/20102130) (stronger construction than the Billy shelves everyone has)
 
-Cost:'''
+Cost: **150**
 
 ### Obligatory Sofa (1 total)
 
-[Target Orange Sofa](http://www.target.com/gp/detail.html/178-5530798-0803058asin=B003515UP6&AFID=Froogle_df&LNM=%7CB003515UP6&CPNG=furniture&ci_src=14110944&ci_sku=B003515UP6&ref=tgt_adv_XSG10001) or Julia T's sofa that she wants to get rid of. If the outer cover is standardized it might be possible to find an orange or black one.
+[Target Orange Sofa](http://www.target.com/Sofa-Bed-Orange/dp/B003515UP6/ref=sc_qi_detailbutton) or Julia T's sofa that she wants to get rid of. If the outer cover is standardized it might be possible to find an orange or black one.
 
-Cost:'''
+Cost: **\$180**
 
 ## Vendors
 
