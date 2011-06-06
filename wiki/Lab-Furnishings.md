@@ -60,4 +60,4 @@ Cost: **\$180**
 
 ## Cost
 
-Total:
+Total: **\$1905**
