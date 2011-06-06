@@ -6,23 +6,47 @@ Our colors are a base of graphite gray and cloud gray with industrial orange and
 
 ## Proposed furniture
 
-Commons tables (4 total): [Ikea Vika Byske table top (beech wood)](http://www.ikea.com/us/en/catalog/products/50106773) + [Vika Lilleby Trestle legs (black)](http://www.ikea.com/us/en/catalog/products/10118971) (rated to 110 lbs, sturdier than single legs).
+### Commons tables (4 total)
+
+[Ikea Vika Byske table top (beech wood)](http://www.ikea.com/us/en/catalog/products/50106773) + [Vika Lilleby Trestle legs (black)](http://www.ikea.com/us/en/catalog/products/10118971) (rated to 110 lbs, sturdier than single legs).
 
 **NOTE**: Ikea Tempe is fresh out of the Byske table tops, but the next size down is only two inches shorter, so its not a bad second choice.
 
-Private work desk (3 total): [Galant combination desk with drawer (beech wood)](http://www.ikea.com/us/en/catalog/products/S49861168). Chair not included.
+Cost: \$440
 
-Commons chairs for hackers spending several hours hacking on code (6 total): [RICKARD swivel chair (gray/black)](http://www.ikea.com/us/en/catalog/products/10142693) or [SNILLE (black)](http://www.ikea.com/us/en/catalog/products/S79877709)
+### Private work desk (3 total)
 
-Event chairs (18 total): [Flash Furniture DAD-YCD-50-GG](http://www.bizchair.com/dad-ycd-50-gg.html). These can be stored on a [Flash Folding Chair Dolly](http://www.bizchair.com/hf-700-dolly-gg.html)
+[Galant combination desk with drawer (beech wood)](http://www.ikea.com/us/en/catalog/products/S49861168). Chair not included.
+
+Cost: \$585
+
+### Commons Chairs
+
+For hackers spending several hours hacking on code (6 total): [RICKARD swivel chair (gray/black)](http://www.ikea.com/us/en/catalog/products/10142693) or [SNILLE (black)](http://www.ikea.com/us/en/catalog/products/S79877709)
+
+Cost:
+
+### Event chairs (18 total)
+
+[Flash Furniture DAD-YCD-50-GG](http://www.bizchair.com/dad-ycd-50-gg.html). These can be stored on a [Flash Folding Chair Dolly](http://www.bizchair.com/hf-700-dolly-gg.html)
 
 **NOTE**: Stock Ikea casters are designed for soft Swedish floors and not hard Arizona dead tree floors. Use [PARAGRAF](http://www.ikea.com/us/en/catalog/products/35093200) casters to prevent floor damage and ensure fast chair racing.
 
 **NOTE**: The casters built into RICKARD chairs work well on hard surfaces as-is, so if we choose those, we won't need to buy different casters. Also, the SNILLE chairs aren't ideal for butts larger than David's, maybe. **Update**: SNILLE chairs are used at Cartel Coffee Lab. They're the red plastic ones.
 
-HSL Library Bookshelf (1 total): [BESTÅ shelf unit (beech wood)](http://www.ikea.com/us/en/catalog/products/20102130) (stronger construction than the Billy shelves everyone has)
+Cost:
 
-Obligatory Sofa (1 total): [Target Orange Sofa](http://www.target.com/gp/detail.html/178-5530798-0803058?asin=B003515UP6&AFID=Froogle_df&LNM=%7CB003515UP6&CPNG=furniture&ci_src=14110944&ci_sku=B003515UP6&ref=tgt_adv_XSG10001) or Julia T's sofa that she wants to get rid of. If the outer cover is standardized it might be possible to find an orange or black one.
+### HSL Library Bookshelf (1 total)
+
+[BESTÅ shelf unit (beech wood)](http://www.ikea.com/us/en/catalog/products/20102130) (stronger construction than the Billy shelves everyone has)
+
+Cost:
+
+### Obligatory Sofa (1 total)
+
+[Target Orange Sofa](http://www.target.com/gp/detail.html/178-5530798-0803058asin=B003515UP6&AFID=Froogle_df&LNM=%7CB003515UP6&CPNG=furniture&ci_src=14110944&ci_sku=B003515UP6&ref=tgt_adv_XSG10001) or Julia T's sofa that she wants to get rid of. If the outer cover is standardized it might be possible to find an orange or black one.
+
+Cost:
 
 ## Vendors
 
