@@ -163,6 +163,16 @@ Regal -5 mon fri 602 437 1000
 - 1/8 \$69
 - 3/16 \$104
 
+Laird
+
+- Cast acrylic -(costs more but preferred for laser cutting)
+- 1 time 25 cut fee
+- clear
+- 1/8 a sheet 56
+- 3/16 91
+- 1/4 127
+- no cast colors
+
 Port plastics
 
 - Clear Acrylic - Paper Masking
