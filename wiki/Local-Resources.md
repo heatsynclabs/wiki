@@ -199,9 +199,12 @@ Port plastics
 - 1 sheet - \$128.00/sheet
 - 10 sheets - \$122.00/sheet
 
-Piper Plastics
+EStreet
 
-Piper
+- good for colors you can't get locally
+- 2x2 transparent colors, 1/8,14 bucks + shipping, shipping and qty discount tend to cancel out as you go up
+
+Piper Plastics
 
 - Cast acrylic .1/16to 1/2inch (12mm) +-10% tolerances
 - most sizes actually metric
