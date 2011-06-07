@@ -76,3 +76,17 @@ Cost: **\$1100**
 [IKEA PS BRUSE Coffee table](http://www.ikea.com/us/en/catalog/products/80141505). A fancier table that would substitute a \$10 black LACK table and match the beech wood main tables.
 
 Cost: **\$149**
+
+## Sponsors
+
+HeatSync Labs is a 501c3 organization with a history of doing things that not only benefit Mesa and Arizona, but the world from Japan to Kenya as well. Many companies like that about us because it gives them a tax break and makes them look cool. We should approach companies to give us things. Here's a list of companies to contact. For privacy reasons, contacts are not listed on this page:
+
+- **Home Depot** - Paint, white-board-transforming-magic-paint, metallic spray paint, metallic tape, any tools they'd be willing to part with. Located at Baseline/Rural.
+- **IKEA** - BYSKE tables, private desks, cushioned chairs, coffee presses. Located on Warner/I-10.
+- **Thinkgeek.com** - Binary clock, books, anything cool they'd be willing to donate.
+- **Target** - Orange couch, coffee table, all-in-one printer, projector.
+- **Hermann Miller** - 3 Aeron chairs for private desks would be epic. A set of 6 high-end chairs would also be great to substitute the "hardcore hackers" cushioned chairs with too.
+- **Tropo** - Try anything not donated elsewhere; Might have to put Tropo stickers on it. huertanix has contact info for Tropo co-founder Johnny Diggz, a pretty cool dude.
+- **K-Zell** - giant metal slate that could be mounted on a wall to become a whiteboard.
+- **OfficeMax** - giant whiteboards (backup plan in case the metal one doesn't work), dry ease markers, all-in-one printer, projector. Located on Broadway/Rural.
+- **Sparkfun.com** - Array of shiftbrite lights.
