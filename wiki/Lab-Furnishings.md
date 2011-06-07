@@ -42,6 +42,8 @@ Cost: **\$442**
 
 Cost: **\$150**
 
+Alternate Options: <http://www.biglots.com/browseItem/bookcases-towers-1/1824#> (2) Cost: "\$60"
+
 ### Obligatory Sofa (1 total)
 
 [Target Orange Sofa](http://www.target.com/Sofa-Bed-Orange/dp/B003515UP6/ref=sc_qi_detailbutton) or Julia T's sofa that she wants to get rid of. If the outer cover is standardized it might be possible to find an orange or black one.
