@@ -101,5 +101,5 @@ HeatSync Labs is a 501c3 organization with a history of doing things that not on
 - **Tropo** - Try anything not donated elsewhere; Might have to put Tropo stickers on it. huertanix has contact info for Tropo co-founder Johnny Diggz, a pretty cool dude.
 - **K-Zell** - giant metal slate that could be mounted on a wall to become a whiteboard.
 - **OfficeMax** - giant whiteboards (backup plan in case the metal one doesn't work), dry ease markers, all-in-one printer, projector. Located on Broadway/Rural.
-- **Sparkfun.com** - Array of shiftbrite lights.
+- **Sparkfun.com** - Cash donations, gift certs, or maybe some Lilypad TechStyles Kits so that our wearable computing workshops are less ghetto.
 - **Michael's** - Post frames for orange propaganda posters.
