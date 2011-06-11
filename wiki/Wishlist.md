@@ -27,6 +27,7 @@ When purchasing we, as a rule, do not want non commercial versions of software a
 
 - Matlab - 1 license \$2k at mathworks
 - Corel draw \$399 at corel - \$130 if you upgrade (CorelDRAW, CorelDRAW Graphics Suite, Corel PHOTO-PAINT, Corel DESIGNER, Micrografx Designer, Micrografx Graphics Suite, Micrografx/Corel Picture Publisher, or Corel Painter. Trial, academic, OEM, and NFR versions are not eligible for an upgrade.)
+- Corel Draw x3 (maybe preferred for our laser 'driver') \$25 plus 5 shipping [here](http://www.vendio.com/stores/rockymtncomputers/item?lid=13900508&source=Vendio:Google%20Product%20Search)
 - Illustrator \$600 on adobe or cs5 premium design on techsoup (mac) \$55 esd
   - OR CS5 Design (inc photoshop extended, flash catalyst and professional) for 170(mac) on techsoup
 - Eagle standard (4x6) \$750, pro \$1500
