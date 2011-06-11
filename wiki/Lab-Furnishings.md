@@ -50,9 +50,11 @@ Cost: **\$60**
 
 [Target Orange Sofa](http://www.target.com/Sofa-Bed-Orange/dp/B003515UP6/ref=sc_qi_detailbutton) or Julia T's sofa that she wants to get rid of. If the outer cover is standardized it might be possible to find an orange or black one.
 
-Alternate Option: Julia.T's friend has a soda she can give us (\$0)
-
 Cost: **\$180**
+
+Alternate Option: Julia.T's friend has a soda she can give us. Its not orange, but we may be able to change the upholstery or just use it until money comes in for an orange soda.
+
+Cost: **\$0**
 
 ## Vendors
 
