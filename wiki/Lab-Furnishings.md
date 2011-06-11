@@ -82,6 +82,12 @@ Cost: **\$1100**
 
 Cost: **\$149**
 
+### Spare Projector
+
+[Epson EX7200 Projector](http://www.officemax.com/catalog/sku.jsp?skuId=22383118&csId=2-69-3289-56-3-79699-63980-56-3289-184-56-3289-734-0-2)
+
+Cost: **\$749.99**
+
 ## Sponsors
 
 HeatSync Labs is a 501c3 organization with a history of doing things that not only benefit Mesa and Arizona, but the world from Japan to Kenya as well. Many companies like that about us because it gives them a tax break and makes them look cool. We should approach companies to give us things. Here's a list of companies to contact. For privacy reasons, contacts are not listed on this page:
