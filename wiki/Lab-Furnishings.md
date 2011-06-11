@@ -44,7 +44,7 @@ Cost: **\$150**
 
 Alternate Options: [Big Lots bookcase (black, 2 total)](http://www.biglots.com/browseItem/bookcases-towers-1/1824#)
 
-Cost: "\$60"
+Cost: **\$60**
 
 ### Obligatory Sofa (1 total)
 
