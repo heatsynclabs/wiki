@@ -66,7 +66,7 @@ Cost: **\$180**
 
 ## Total Cost
 
-Total: **\$1905**
+**\$1905**
 
 ## Optional Goodies
 
