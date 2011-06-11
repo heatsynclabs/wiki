@@ -64,7 +64,7 @@ Cost: **\$180**
 - <http://www.ikea.com/us/en/>
 - <https://webapp3.asu.edu/spms/public.aspx>
 
-## Cost
+## Total Cost
 
 Total: **\$1905**
 
