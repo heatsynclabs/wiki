@@ -103,6 +103,8 @@ HeatSync Labs is a 501c3 organization with a history of doing things that not on
 - **Thinkgeek.com** - Binary clock, books, anything cool they'd be willing to donate.
   - ThinkGeek has a program in place to donate imperfect goods to hackerspaces. I applied for it on behalf of HSL. ~ huertanix
 - **Target** - Orange couch, coffee table, all-in-one printer, projector.
+- **Target Commercial Interiors** LED lamps, stacking chairs if we can't afford the discount ones, fancy electronic room scheduler
+  - Contacted, asked for 12 LED lamps, 18 stackable chairs, and the electronic room scheduler. ~ huertanix
 - **Herman Miller** - 3 Aeron chairs for private desks would be epic. A set of 6 high-end chairs would also be great to substitute the "hardcore hackers" cushioned chairs with too.
   - Got a reply, they have SIX chairs for us from Goodman's. Not Herman Miller chairs, but something of high quality. Pics should come in on 6/18/2011 ~ huertanix
 - **Tropo** - Try anything not donated elsewhere; Might have to put Tropo stickers on it. huertanix has contact info for Tropo co-founder Johnny Diggz, a pretty cool dude.
