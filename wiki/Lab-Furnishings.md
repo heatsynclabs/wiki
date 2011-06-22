@@ -20,11 +20,15 @@ Cost: **\$440**
 
 Cost: **\$585**
 
-### Commons Chairs(6 total)
+### Commons Chairs (6 total)
 
-For hackers spending several hours hacking on code: [RICKARD swivel chair (gray/black)](http://www.ikea.com/us/en/catalog/products/10142693) or [SNILLE (black)](http://www.ikea.com/us/en/catalog/products/S79877709)
+<s>For hackers spending several hours hacking on code: [RICKARD swivel chair (gray/black)](http://www.ikea.com/us/en/catalog/products/10142693) or [SNILLE (black)](http://www.ikea.com/us/en/catalog/products/S79877709)
 
-Cost: **\$108**
+Cost: **\$108**</s>
+
+**UPDATE**: Goodmans is donating six matching chairs for this, for free! We just need to coordinate a pickup once they give us a location.
+
+Cost: **\$0**
 
 ### Event chairs (18 total)
 
