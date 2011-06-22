@@ -103,7 +103,7 @@ HeatSync Labs is a 501c3 organization with a history of doing things that not on
 - **Home Depot** - Paint, white-board-transforming-magic-paint, metallic spray paint, metallic tape, any tools they'd be willing to part with. Located at Baseline/Rural.
   - Sam contacted the various Home Depots in the valley and they said they didn't have vouchers in for this quarter.
 - **IKEA** - BYSKE tables, private desks, cushioned chairs, coffee presses. Located on Warner/I-10.
-  - Waiting for a day when the person we need to talk to is there.
+  - Sam called them; Waiting for a day when the person we need to talk to is there.
 - **Thinkgeek.com** - Binary clock, books, anything cool they'd be willing to donate.
   - ThinkGeek has a program in place to donate imperfect goods to hackerspaces. I applied for it on behalf of HSL. ~ huertanix
 - **Target** - Orange couch, coffee table, all-in-one printer, projector.
