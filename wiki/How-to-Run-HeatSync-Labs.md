@@ -114,11 +114,36 @@ Also see [ Office of Marketing/PR HowTo](MarketingPR-Howto)
 
 - Monitor press via google alerts, add to Press page
 - Facebook, Twitter (social media management)
-  - Event hype (before, during, after)
-  - Personality
-  - Finding and re-sharing community content
-  - Community involvement
-  - Additional streams (with IT help)
+
+I want to see like 3-4 tweets a day. Maintain a default schedule of tweets at least a week out, and then add/edit that as we find things. Also want to see the heatsync acct logged in on your phone so you get messaged with @messages and can respond accordingly
+
+Posts in the order of importance:
+
+- posts advertising our big events, monthly events, thursday talks 7
+
+days before, 3 days before and day of
+
+- post for weekly events day of
+- posts of events WHILE they're happening - IE cool photos and updates
+
+of stuff while it happens at lab
+
+- find good exciting stuff in our stream
+
+--from our local hackers --from other hackerspaces, other cool projects people are working on
+
+- do posts of new tools we got, or do posts of old tools no one knows
+
+about. With pictures
+
+- find projects and pictures from flickr camera and at the space to be
+
+talking about
+
+- Not too sure what to do with already popular links (hackaday, make,
+
+ada, etc), on the one hand they're kind played, on the other theyre perfect for aspirational makers--your discretion
+
 - Promote HeatSync
 - Ensuring sales items are displayed well (tables/sales are pretty)
 - Branding/Image/Logo/Elevator Pitch (consistency, applied everywhere)
