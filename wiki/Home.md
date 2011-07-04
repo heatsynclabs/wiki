@@ -74,6 +74,7 @@
 <li><a href="Board-Elections">Board Elections</a> (historic)</li>
 <li><a href="Meeting-Minutes">Meeting Minutes</a></li>
 <li><a href="Forms">Forms</a></li>
+<li><a href="Procedures">Procedures</a></li>
 </ul></td>
 </tr>
 </tbody>
