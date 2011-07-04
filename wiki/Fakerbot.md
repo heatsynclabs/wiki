@@ -56,6 +56,16 @@ Make sure fakerbot is turned on (switch on power supply in back). The usb cable 
 
 Boot the machine on the desk and open ReplicatorG which should automatically connect to the board. Otherwise there is a connect button.
 
+## Get familiar with machine
+
+The little table on the inside of the machine will be referred to as the build platform, or heated build platform. This platform is often heated to aid in printing. The little nozzle above the table will be referred to as the extruder. The extruder is also heated in order to melt the plastic and push it through the nozzle 'extruding' it.
+
+## Generate GCode
+
+Open your stl file if you haven't already. Take a look at it in the preview window. It shouldn't be hovering off the ground or spilling outside of the box. Click the model tab, and then click the large "generate g code" button on the right. This generates your tool paths. Next select the coreybot profile and click 'Generate'. When this finishes youll see some code in your window.
+
+Next press the 'Upload to SD card' button. This will take a few minutes and forward all code over to the SD card so the machine can run headless. This is amazingly important as the little lenovo decides to take a break ruining prints.
+
 ## Warm up
 
 We need to heat up the tip for ~5 minutes and extrude some plastic in order to get the machine operational.
@@ -66,7 +76,7 @@ The machine should immediately begin moving towards temp (theres a temperature g
 
 While this happens get comfortable with the X, Y and Z controls. They move for the distance set in the Jog Size column. Be careful not to jam the head into the table or the sides!
 
-Move the extruder at least 10 or 20mm off the table. No need to be perfect(you can eyeball this). Go ahead and click forward on the motor control which is under the pinch wheel extruder tab. Watch the bearing and the gear on the extruder. Both should be turning. If not stop the motor and wait for the barrel to heat up more and or help the extruder along by twisting the filament.
+Using the controls make it so the extruder at least 10 or 20mm off the table. No need to be perfect(you can eyeball this). Go ahead and click forward on the motor control which is under the pinch wheel extruder tab. Watch the bearing and the gear on the extruder. Both should be turning. If not stop the motor and wait for the barrel to heat up more and or help the extruder along by twisting the filament.
 
 By now you should be freely flowing plastic or you've got a blocked heater barrel or your pinch wheel setup is not adjusted properly. You should find help or start googling (try the makerbot and or fakerbot sites).
 
@@ -74,19 +84,15 @@ Run the plastic for at least a few minutes, making sure the plastic doesn't pile
 
 ## Zero machine
 
-fakerbot doesn't know or care where it starts, you pick your zero before you print.
+Fakerbot doesn't know or care where it starts, you must pick your 'zero' before you print. For us thats the direct center of the platform with the nozzle touching the platform.
 
-Set the X and Y so the extruder is right in the center. Put a piece of paper down on the platform and slowly move the toolhead down. As you get closer you should lower the jog size to make sure you don't crash into the bed. You want to have the toolhead touch the paper and have a bit a drag, but still be able to remove the paper.
+Still in the control panel, set your 'jog' size (larger sizes are larger moves, BE CAREFUL YOU DON'T CRASH THE HEAD!). Click the arrows x+,x-,y+,y-,z+,z- to move the platform around so the nozzle is right in the center. Put a piece of paper down on the platform and slowly move the toolhead down using increasingly smaller jog sizes. You want to have the toolhead touch the paper and have a bit a drag, but still be able to remove the paper.
 
-When you think you have it, and your toolhead is in the middle of your x and y axis as well, press set zero. Finally move back up 20 in the z.
-
-## Generate GCode
-
-Open your stl file if you haven't already. Take a look at it in the preview window. It shouldn't be hovering off the ground or spilling outside of the box. Click the model tab, and then click the large "generate g code" button on the right. This generates your tool paths. Next select the coreybot profile and click 'Generate'. When this finishes youll see some code in your window.
+When you think you have it, and your toolhead is in the middle of your x and y axis as well, press 'Set Zero'.
 
 ## Print!
 
-Your machine should still be at temperature from your previous setup. You'll want to run the plastic out again as the chamber can empty from ooze. Clear the nozzle, click to zero the z, and click 'Build' from the main makerbot menu.
+Clear any the nozzle, click to zero the z, and click 'Build' from the main makerbot menu.
 
 The build may take a bit to start while it achieves optimal temperatures. Note where the stop button is on the control panel in case anything looks bad. Presumably the print will start, adhere to the bed well, and you can simply stick around until your print finishes.
 
