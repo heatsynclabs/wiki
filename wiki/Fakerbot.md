@@ -140,6 +140,10 @@ After adding the Z-axis modification, [Mods of z-axis](http://farm6.static.flick
 
 - Jacob created a new heated build platform plate. We were using the automated build platform, but it reduces our z and we're not ready to implement it yet. The main hold up was the files online weren't fitting our platform. Corey's design files in some areas differ from Makerbot's as he had to reverse engineer them. I used Corey's files which fit fine. I also scaled down the bolt holes to fit our bolts to remove the x/y wobble. Sadly, theres still some wobble that must have to just do with their implementation. The wires from the heated platform were moved to the right as well, adding some x. The makerbot file was updated for the extra room.
 
+## 7/04/2011
+
+- Heated Build platform solder points eventually work hardened and broke the solder pads from the board. Next build platform iteration needs through hole connectors for stability. Thermistor also gave massive trouble during this point but has been replaced and appears to be printing well again.
+
 # Todo
 
 - wobble in z axis???--need to buy new acme rod
