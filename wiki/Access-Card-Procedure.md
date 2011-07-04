@@ -3,7 +3,7 @@
 ### New Member
 
 - Members can receive cards when approved by a majority vote of the [operations team](Operations-team) (which is a private vote.)
-- Login to [hsl-access](Hsl-access) via SSH (172.16.2.15)
+- Login to [hsl-access](Hsl-access) via SSH
 - Run minicom
   - If you haven't set your settings yet, it must be /dev/ttyUSB0 57600 8N1.
 - Type e \#### where \# is the enable password.
@@ -25,7 +25,7 @@
 - Check the Access Control System Card Database.txt file in Dropbox.
   - Find the user's entry in the list, and update their UserMask to be 255 ("no access") instead of 1 ("full access") or vice versa.
     - I.e.: 9 255 a1b2c3d4 John Smith
-- Login to [hsl-access](Hsl-access) via SSH (172.16.2.15)
+- Login to [hsl-access](Hsl-access) via SSH
 - Run minicom
   - If you haven't set your settings yet, it must be /dev/ttyUSB0 57600 8N1.
 - Type e \#### where \# is the enable password.
