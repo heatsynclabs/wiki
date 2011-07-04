@@ -1,3 +1,5 @@
+It's very important that we train everyone similarly, in a culture of cleanliness, do-it-yourself, and safety otherwise the hackerspace can go to hell quickly.
+
 ## Walkthrough Checklist
 
 - Member agreement/rules
@@ -13,6 +15,10 @@
   - No taking equipment offsite or touching people's boxes/lockers.
 - How to fix/connect to wifi (hacktheplanet)
 - Parking (dedicated, hour enforcement, street parking)
+
+<!-- -->
+
+- Do it yourself: nobody else is going to create it, fix it, pick it up, clean it, or replace it but you. If you can't do it, email the Group so someone else can.
 
 <!-- -->
 
