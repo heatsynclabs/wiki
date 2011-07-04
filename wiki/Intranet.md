@@ -31,7 +31,7 @@ Point a web browser to <http://172.22.110.15> .
 
 Click on Access Control.
 
-Username is USER password is whatever you typed.
+Username is **USER**, password is whatever you typed.
 
 You have access to open the front and back door, as well as lock and unlock all doors.
 
