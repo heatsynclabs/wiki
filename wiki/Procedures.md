@@ -6,7 +6,7 @@ Put operational procedures here.
 
 - Have them fill out the [Membership Application](http://www.heatsynclabs.org/store/memberships/)
 - Either set up a PayPal recurring payment to hslfinances@gmail.com (an option is given at the end of the application form) or choose another method to send their payment. Automated, electronic, or prepaid months in advance is preferred.
-- **Treasurer:** Confirm form and payment, record details in membership spreadsheet, notify operations team of new member.
+- **Treasurer:** Confirm form and payment, record details in membership spreadsheet, *notify operations team of new member.*
 - **Operations Team:**
   - Email new member with [Member Welcome Letter](Member-Welcome-Letter) and suggest a time to come in for card access and orientation. Create calendar appointment with the appropriate operations team member.
   - Greet member at space; give them the [Walk Through Orientation](Walk-Through-Orientation).
