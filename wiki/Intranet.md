@@ -20,3 +20,9 @@ To add someone to the users database:
   - Highlight the first user's line and type yyp to duplicate.
   - Change the username and password hash to match the desired username and the hash you copied earlier. (Press i to enter edit mode, esc to exit.)
   - Save and Exit vim by pressing esc :x (or :q! to quit without saving.)
+
+Send them these instructions:
+
+You've been added to the intranet system! Just connect to the wifi: HeatSync Labs, password hacktheplanet . Point a web browser to <http://172.22.110.15> . Click on Access Control. Username is USER password is whatever you typed. You have access to open the front and back door, as well as lock and unlock all doors.
+
+If they are an admin, modify the last line to read: You have full access to open, lock, and unlock all doors as well as arm and disarm the alarm.
