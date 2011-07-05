@@ -68,9 +68,7 @@ Also see [ Office of Treasurer HowTo](Treasurer-Howto)
 
 - Check PO box
 - Initiating and revoking memberships (keys, documents, etc, with treasurer's help)
-- find presenters for biweekly thursday talks
-  - get bio, info on talk, picture for blog post and calendar
-  - put info in calendar
+- find and enter speakers using the [Speaker Process](Speaker-Process)
   - be point of contact on thursdays for these presenters, set up any resources they need (projector, mic, etc)
   - send thank yous, etc
   - post presentations on wiki and maybe a private list of emails so we can reschedule speakers <http://wiki.heatsynclabs.org/w/index.php?title=Presentations>
