@@ -34,6 +34,10 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 
 <!-- -->
 
+- Location and usage of fire extinguishers
+
+<!-- -->
+
 - Lockup/openup procedure
   - Turn off/on thermostat to 72'
   - Location of lightswitches, turn off when leaving
