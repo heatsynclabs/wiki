@@ -48,9 +48,11 @@ Cost: **\$442**
 
 ### HSL Library Bookshelf (1 total)
 
-[BESTÅ shelf unit (beech wood)](http://www.ikea.com/us/en/catalog/products/20102130) (stronger construction than the Billy shelves everyone has)
+<s>[BESTÅ shelf unit (beech wood)](http://www.ikea.com/us/en/catalog/products/20102130) (stronger construction than the Billy shelves everyone has)
 
-Cost: **\$150**
+Cost: **\$150**</s>
+
+**UPDATE**: Beech wood does not match the floors, but black looks nicely atop it.
 
 Alternate Options: [Big Lots bookcase (black, 2 total)](http://www.biglots.com/browseItem/bookcases-towers-1/1824#)
 
