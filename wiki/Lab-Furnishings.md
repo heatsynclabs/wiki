@@ -8,11 +8,17 @@ Our colors are a base of graphite gray and cloud gray with industrial orange and
 
 ### Commons tables (4 total)
 
-[Ikea Vika Byske table top (beech wood)](http://www.ikea.com/us/en/catalog/products/50106773) + [Vika Lilleby Trestle legs (black)](http://www.ikea.com/us/en/catalog/products/10118971) (rated to 110 lbs, sturdier than single legs).
+<s>[Ikea Vika Byske table top (beech wood)](http://www.ikea.com/us/en/catalog/products/50106773) + [Vika Lilleby Trestle legs (black)](http://www.ikea.com/us/en/catalog/products/10118971) (rated to 110 lbs, sturdier than single legs).
 
 **NOTE**: Ikea Tempe is fresh out of the Byske table tops, but the next size down is only two inches shorter, so its not a bad second choice.
 
-Cost: **\$440**
+Cost: **\$440**</s>
+
+**NOTE**: Beech wood doesn't actually match the sickly yellow color of the hardwood floor; Pine is the closest match.
+
+[Ikea Vika Furuskog table top (pine)](http://www.ikea.com/us/en/catalog/products/60136557) + [Vika Lerberg Trestle legs (charcoal gray)](http://www.ikea.com/us/en/catalog/products/80130776)
+
+Cost: **\$320**
 
 ### Private work desk (3 total)
 
