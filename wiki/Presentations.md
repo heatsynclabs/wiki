@@ -36,7 +36,8 @@ If you have something you'd like to see, please add it in a bullet here. Maybe t
 - Intel Meego App Up
 - Electron Microscopy
 - Arissat 1 - an amateur satellite launched from the International Space Station
-- Building a Scanning Electron Microscopy
+- Building a Scanning Electron Microscope
 - Food Science / Molecular Gastronomy
 - FIRST Robotics
 - [KZell Metal Fabrication Tour](http://www.kzell.com/)
+- Leatherworking
