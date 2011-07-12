@@ -37,6 +37,7 @@ If you have something you'd like to see, please add it in a bullet here. Maybe t
 - Electron Microscopy
 - Arissat 1 - an amateur satellite launched from the International Space Station
 - Building a Scanning Electron Microscope
+- Knitting, Soldering, and Origami for Japan
 - Food Science / Molecular Gastronomy
 - FIRST Robotics
 - [KZell Metal Fabrication Tour](http://www.kzell.com/)
