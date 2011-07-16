@@ -1,4 +1,4 @@
-# The Makerbot is currently \[working\]
+# The Makerbot is currently \[working without a heated bed\]
 
 # About
 
