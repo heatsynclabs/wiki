@@ -150,6 +150,10 @@ After adding the Z-axis modification, [Mods of z-axis](http://farm6.static.flick
 
 - Heated Build platform solder points eventually work hardened and broke the solder pads from the board. Next build platform iteration needs through hole connectors for stability. Thermistor also gave massive trouble during this point but has been replaced and appears to be printing well again.
 
+## 7/16/2011
+
+- Heated Build platform out again due to solder points.. Designed new one and sending out for printing.
+
 # Todo
 
 - wobble in z axis???--need to buy new acme rod
