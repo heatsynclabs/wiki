@@ -14,7 +14,10 @@
 </div>
 <ul>
 <li><a href="Projects">Projects</a></li>
-<li><a href="Rules">Rules and Guidelines</a></li>
+<li><a href="Rules">Rules and Guidelines</a>
+<ul>
+<li><a href="Operational-Policies">Operational Policies</a></li>
+</ul></li>
 <li><a href="Presentations">Presentations</a></li>
 <li><a href="Events">Events</a></li>
 <li><a href="Reference">Reference</a></li>
