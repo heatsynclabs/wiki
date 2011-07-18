@@ -45,19 +45,13 @@
 <p>Administration</p>
 </div>
 <ul>
-<li><a href="How-to-Run-HeatSync-Labs">How to Run HeatSync Labs</a>
+<li><a href="How-to-Run-HeatSync-Labs">How to Run HeatSync Labs</a></li>
+<li><a href="Operations-Team">Operations Team</a></li>
+</ul>
 <ul>
-<li><a href="How-to-Run-HeatSync-Labs#champion"> Champion</a></li>
-<li><a href="How-to-Run-HeatSync-Labs#resource-manager"> Resource_Manager</a></li>
-<li><a href="How-to-Run-HeatSync-Labs#treasurer"> Treasurer</a></li>
-<li><a href="How-to-Run-HeatSync-Labs#secretary"> Secretary</a></li>
-<li><a href="How-to-Run-HeatSync-Labs#editor"> Editor</a></li>
-<li><a href="How-to-Run-HeatSync-Labs#marketingpr"> Marketing and PR</a>
-<ul>
+<li><ul>
 <li><a href="Press-Kit">Press Kit</a></li>
 <li><a href="Community-Involvement"> Press</a></li>
-</ul></li>
-<li><a href="How-to-Run-HeatSync-Labs#it"> IT</a></li>
 </ul></li>
 </ul>
 <ul>
@@ -72,8 +66,6 @@
 </ul>
 <ul>
 <li><a href="Bylaws">Bylaws</a> (aka constitution, charter)</li>
-<li><a href="Board-Members">Board Members</a></li>
-<li><a href="Operations-Directors">Operations Directors</a></li>
 <li><a href="Board-Elections">Board Elections</a> (historic)</li>
 <li><a href="Meeting-Minutes">Meeting Minutes</a></li>
 <li><a href="Forms">Forms</a></li>
