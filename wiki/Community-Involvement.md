@@ -6,9 +6,9 @@ The HeatSync Labs Community Involvement page is intended to document articles re
 - [HeatSync Labs board unanimous in approving proposed Mesa lease](http://blogs.evtrib.com/nerdvana/2011/05/12/heatsync-mesa/)
 - [HeatSync Labs board to vote on proposal to lease space in downtown Mesa](http://blogs.evtrib.com/nerdvana/2011/05/10/heatsync-labs-considers-mesa/)
 - [Thank The Makers](http://blogs.evtrib.com/nerdvana/2011/04/12/thank-the-makers/)
-- <http://downtowndevil.com/2011/02/17/heatsync-innovation-lab-downtown-phoenix/Downtown> Phoenix ASU Online Publication "Downtown Devil" featured a story on their front page about our location search.
-- <http://blogs.phoenixnewtimes.com/jackalope/2011/03/heatsync_labs_gains_nonprofit.php>
-- <http://www.azcentral.com/members/Blog/MichaelWitham/121086> AZCentral Member Blog post on the community builders of phoenix. We're listed. :)
+- [Innovation lab looks at moving to Phoenix; downtown promoted as a possibility](http://downtowndevil.com/2011/02/17/4782/heatsync-innovation-lab-downtown-phoenix/)
+- [HeatSync Labs: A Nonprofit Hackerspace Looking for a New Home](http://blogs.phoenixnewtimes.com/jackalope/2011/03/heatsync_labs_gains_nonprofit.php)
+- [AZCentral Blossoming Phoenix](http://www.azcentral.com/members/Blog/MichaelWitham/121086)
 - [Augmenting Humanity @HeatSync Labs](http://www.cspo.org/soapbox/view/110208P2NI/augmenting-humanity-heatsync-labs/)
 - [Is Mesa the perfect new home for Heatsync Labs?](http://blogs.evtrib.com/nerdvana/2011/02/04/heatsync/)
 - <http://blog.makezine.com/archive/2010/10/mechanical-moustache.html>
