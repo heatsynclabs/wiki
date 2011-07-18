@@ -1,5 +1,19 @@
 The Wishlist is an area to add specific tool and material requests. Tools donated or acquired by HeatSync Labs can be found on the [Library](Library) page.
 
+## General Lab Needs
+
+- Paper Towels
+- Mounting brackets and visible signage for fire extinguishers
+- Badly needed: 1 Industrial shelving unit (member storage) (http://www.homedepot.com/h_d1/N-5yc1vZ1xg6/R-100095394/h_d2/ProductDisplay?langId=-1&storeId=10051&catalogId=10053)
+- Floor wet-mop stuff
+- New Plunger
+- New Toilet brush
+- Short garden hose (like 6 foot or something?) for filling mop buckets, etc
+- 2 ladders to reach 12ft ceilings (if the ladders here are yours, please indicate if you are donating them or not)
+- 1 desk for conference room, more desks, workbenches, or tables for front area
+- 1 couch up front
+- More matched nice computer chairs for up front
+
 ## Assets
 
 Lets pick out a list of 'essential' tools in each category. The [Fab Lab](http://en.wikipedia.org/wiki/Fab_lab) might be a good starting point for this. For those that are prohibitively expensive, lets choose the ACTUAL tool we ACTUALLY want to buy and post a kickstarter campaign for it. For cheaper tools [ Auctions](Local-Resources#auctions), [Craigslist](http://www.craigslist.com) and [Cheap Chinese Tools](Cheap-Chinese-Tools) are probably the way to go to start.
