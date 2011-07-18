@@ -69,10 +69,8 @@
 <p>Public Info</p>
 </div>
 <ul>
-<li><ul>
 <li><a href="Press-Kit">Press Kit</a></li>
 <li><a href="Community-Involvement"> Press</a></li>
-</ul></li>
 </ul></td>
 </tr>
 </tbody>
