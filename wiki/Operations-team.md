@@ -6,23 +6,11 @@ Chair (Board Member)
 
 - Will Bradley
 
-Secretary / Director of Operations / Events Coordinator / Social Networking
-
-- Erica Weems
-
-Photography / Blogging
+Blogging
 
 - Ryan Rix
 
-Design
+Photography
 
-- Samantha Christoff
-
-Facilities Management
-
-- Austin Kipp
-
-Resource Management
-
-- Jasper Nance (electronics)
-- Corey Renner (mechanical)
+- Ryan Rix
+- Jasper Nance
