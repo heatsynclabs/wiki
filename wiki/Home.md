@@ -46,13 +46,7 @@
 </div>
 <ul>
 <li><a href="How-to-Run-HeatSync-Labs">How to Run HeatSync Labs</a></li>
-<li><a href="Operations-Team">Operations Team</a></li>
-</ul>
-<ul>
-<li><ul>
-<li><a href="Press-Kit">Press Kit</a></li>
-<li><a href="Community-Involvement"> Press</a></li>
-</ul></li>
+<li><a href="Operations-team">Operations team</a></li>
 </ul>
 <ul>
 <li>Money
@@ -70,6 +64,15 @@
 <li><a href="Meeting-Minutes">Meeting Minutes</a></li>
 <li><a href="Forms">Forms</a></li>
 <li><a href="Procedures">Procedures</a></li>
+</ul>
+<div style="margin:0;background-color:#e0e0ff;font-size:120%;font-weight:bold;border:1px solid #a0a0ff;text-align:left;color:#000;padding:0.2em 0.4em;">
+<p>Public Info</p>
+</div>
+<ul>
+<li><ul>
+<li><a href="Press-Kit">Press Kit</a></li>
+<li><a href="Community-Involvement"> Press</a></li>
+</ul></li>
 </ul></td>
 </tr>
 </tbody>
