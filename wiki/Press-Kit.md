@@ -4,4 +4,4 @@ Download the branding guidelines here for proper use of our logo, etc: [Heatsync
 
 See a press-ready description of HeatSync here: <http://www.heatsynclabs.org/about/>
 
-Please remember the proper spelling/capitalization is HeatSync Labs or simply HeatSync and our preferred pronouns are hackerspace, makerspace, workshop, or community.
+Please remember the proper spelling/capitalization is HeatSync Labs or simply HeatSync, and our preferred pronouns are hackerspace, makerspace, workshop, or community.
