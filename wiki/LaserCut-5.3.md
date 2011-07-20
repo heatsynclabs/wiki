@@ -10,7 +10,8 @@ We contacted them on July 18th and they say they've basically given up on that d
 
 ## New Open Source Engineering
 
-Think Haus [created](http://www.thinkhaus.org/2010/06/24/howto-turn-a-cheap-chinese-laser-engraver-into-a-pretty-good-laser-cutter-2/) their own stepper driver board and are using linuxcnc to drive it with a custom inkscape plugin!
+- Think Haus [created](http://www.thinkhaus.org/2010/06/24/howto-turn-a-cheap-chinese-laser-engraver-into-a-pretty-good-laser-cutter-2/) their own stepper driver board and are using linuxcnc to drive it with a custom inkscape plugin!
+- [Open source Laser Interface Driver](http://www.boingboing.net/2011/07/11/diana-engs-laser-cut.html)
 
 ## Reverse Engineering
 
