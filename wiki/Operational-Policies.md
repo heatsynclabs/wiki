@@ -2,7 +2,7 @@
 
 - Public spaces, such as desks, workbenches, floorspace, and tools, must be kept clean when not actively being used.
   - Clean up after yourself as you work in different areas of the space, and don't hog everything! Do a once over before leaving, we don't have a janitor.
-  - Leave it cleaner and working better than you found it.
+  - Leave it cleaner and working better than you found it. Properly maintain any equipment you use, and do not leave equipment in a state where it is likely to be damaged.
 - Do not take anything out of the lab, or hack apart stuff that isn't yours or a consumable.
   - Example: taking home a screwdriver, or cutting the DC jack off of a power adapter, is not generally cool. Using stock wood or resistors in your project, however, is fine especially if you buy replacements if you use more than a tiny bit. In other words, don't deprive anyone else of a working lab.
 
