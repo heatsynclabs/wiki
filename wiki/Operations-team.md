@@ -6,6 +6,10 @@ Chair (Board Member)
 
 - Will Bradley
 
+Facilities
+
+- Austin Kipp
+
 Blogging
 
 - Ryan Rix
