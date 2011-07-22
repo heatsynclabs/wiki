@@ -14,3 +14,7 @@ Photography
 
 - Ryan Rix
 - Jasper Nance
+
+Design
+
+- Samantha Christoff
