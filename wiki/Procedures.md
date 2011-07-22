@@ -9,7 +9,8 @@ Put operational procedures here.
   - Jotform is sent to board@ notifying board
 - **Treasurer:** Confirm form and payment, record details in membership spreadsheet, and *notify [operations team](Operations-team) of new member.*
 - **Operations Team:**
-  - Email new member with [Member Welcome Letter](Member-Welcome-Letter) and suggest a time to come in for card access and orientation. Create calendar appointment with the appropriate [operations team](Operations-team) member.
+  - Jacob: Email new member with [Member Welcome Letter](Member-Welcome-Letter)
+  - Will: Email and suggest a time to come in for card access and orientation. Create calendar appointment with the appropriate [operations team](Operations-team) member.
   - Greet member at space; give them the [Walk Through Orientation](Walk-Through-Orientation).
   - Explain the [Access Card Procedure](Access-Card-Procedure) and when they can expect to receive a card.
   - Give them access to the [Intranet](Intranet) if a member of the [operations team](Operations-team) approves.
