@@ -19,7 +19,6 @@ The Wishlist is an area to add specific tool and material requests. Tools donate
 Lets pick out a list of 'essential' tools in each category. The [Fab Lab](http://en.wikipedia.org/wiki/Fab_lab) might be a good starting point for this. For those that are prohibitively expensive, lets choose the ACTUAL tool we ACTUALLY want to buy and post a kickstarter campaign for it. For cheaper tools [ Auctions](Local-Resources#auctions), [Craigslist](http://www.craigslist.com) and [Cheap Chinese Tools](Cheap-Chinese-Tools) are probably the way to go to start.
 
 - Embedded Circuit Design/Electronics Lab Tools
-- [Laser Cutter](Laser-Cutter) Success!
 - [ CNC Router](CNC) We might be able to do some fun stuff with laser in meantime (maybe 3/4" mdf?)
 - CNC Milling Machine -we can CNC our Mini Mill!
 - CNC Lathe -we're borrowing one of Corey's and we can CNC our 7x10!
