@@ -39,6 +39,8 @@
 ### File Design
 
 - Place any engrave ("raster/etch") projects towards the middle of the bed. Placing an engraving project along the edge of the bed will result in gouging the laser against the side of the bed because the laser will overrun a bit in engrave mode.
+- To engrave, you'll likely want to invert the image unless un-engraved areas might actually be darker that engraved areas. Normally, engraving darkens the material which is why you'll want to invert.
+- In Photoshop, you can convert an image to 2-bit (actually probably 1-bit) mode by resizing to your desired inches at 300dpi or higher. Then go to Image\>Mode\>Grayscale and Image\>Mode\>Bitmap. Choose Diffusion Dither. Save as a .bmp and import into the laser, it should import at the correct inch dimensions you set in Photoshop. If it whines about being 2-bit bitmap, you likely didn't do the bitmap mode correctly and it's 1 or 2 bits of color stored in a 32-bit format.
 
 ### Computer
 
