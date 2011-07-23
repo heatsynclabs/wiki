@@ -124,10 +124,7 @@ The workshop is considered the HeatSync labs doors, proceeding beyond that line 
 
 ### Laser Cutter
 
-- HeatSync Training required for use
-- Restrict access to trained, waivered, and authorized members.
-- Access will be monitored to bill usage.
-- Do NOT leave machine unattended
+See [Laser Cutter](Laser-Cutter)
 
 ### Lathe
 
