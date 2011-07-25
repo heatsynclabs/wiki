@@ -214,6 +214,15 @@ Remember, Cast acrylic is preferred for lasering. The cut makes extruded acrylic
 - no qty discount
 - rems/clearance?
 
+##### Midtown Plastics
+
+- clear 1/4 x4x8" \$153.12
+- clear 1/8 x4x8" \$84.60
+- bright orange 1/8 x4x8" \$96 (only 2 sheets when I called)--Listed for ~\$100+shipping on [estreet](http://www.estreetplastics.com/Orange_Plexiglass_Acrylic_Sheet_2119_1_4_Thick_p/l052501236.htm)
+- cut fee-none on small cuts(quarters, etc)
+- qty pricing work with you
+- rems out back - not much in them mostly extruded
+
 ##### Other
 
 - lowes and home depot clear 4x2 \$22, \$26 .08 thick (2mm)
