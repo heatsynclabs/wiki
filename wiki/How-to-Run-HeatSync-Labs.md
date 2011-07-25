@@ -3,6 +3,7 @@ This is a list of responsibilities (what is expected of the position), as well a
 ## Everyone
 
 - Try to be physically at the lab as often as possible
+- Specifically be at the lab for Hack Your Hackerspace night
 - Convert strangers into members
 - Serve on committees
 - Fundraise
