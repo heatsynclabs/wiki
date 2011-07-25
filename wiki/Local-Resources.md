@@ -142,102 +142,80 @@ Great pricing, Cliff was my top choice for waterjetting because he was eager, fl
 
 #### Acrylic
 
-Regal -5 mon fri 602 437 1000
+Remember, Cast acrylic is preferred for lasering. The cut makes extruded acrylic extremely brittle. Based on last research I'm recommending Port for their walk in remnant sales, Sabic for their overall low prices, and estreet for their funky colors at decent prices even with shipping.
 
-- Cast acrylic -(costs more but preferred for laser cutting)
-- .060 to 1inch +-10% tolerances
-- Some colors in 1/8 3mm
-- most sizes actually metric
-- 1/8 3mm
-- 3/16 .177 4.25mm
-- 1/4 .236 6mm 1/4 .220 ~5.6mm
+##### Port plastics 480-813-6118
+
+- clear .118" x 48" x 96" \$81.00
+- clear .220" x 48" x 96" \*\$161.00/
+- also available black, white, bronze, grey
+- qty discount @ 10
+- No cut fee no if in halves, quarters. \$20 if lots or small cuts
+- decent walk in rems/clearance section, clearance on site tends to be old so call <http://www.portplastics.com/clearance/index.html>
+
+##### Sabic 602-275-6542
+
+- clear 1/8 x4x8 58.67 4x8
+- clear 1/4 x4x8 73.33 4x8
+- also black,white, other opaques in stock
+- qty discount @ 10
+- no cut fee
+- no walk in rems/clearance section
+
+##### Regal/Piedmont 602 437 1000
+
+- clear 1/8 3mm x4x8" \$70.75
+- clear 1/4 6mm x4x8" \$137
+- green,red,white all~25% translucent, black 1/8 x4x8"
+- black 1/4 x4x8"
+- qty discount @ 10
 - cut fee \$5, can stack sheets for same cut to several sheets for same cut fee
+- rems? sort of, they recycle it
 
-<!-- -->
+##### Laird 866-262-7819
 
-- clear
-- 1/8 \$59 a sheet (4x8ft)
-- 3/16 \$90
-- 1/4 (.236) \$118
-- colors (y r g)
-- 1/8 \$69
-- 3/16 \$104
-
-Laird
-
-- Cast acrylic -(costs more but preferred for laser cutting)
+- clear 1/8 x4x8" \$65
+- clear 1/4 x4x8" \$133
+- black 1/8 x4x8" \$80
+- black 1/4 x4x8" \$148
+- other colors, same as black +75 freight fee to bring into states
+- qty discount?
 - 1 time 25 cut fee
-- clear
-- 1/8 a sheet 56
-- 3/16 91
-- 1/4 127
-- no cast colors
+- rems/clearance?
 
-Port plastics
-
-- Clear Acrylic - Paper Masking
-- .118" x 48" x 96"
-- 1 sheet - \$65.00/sheet
-- 10 sheets - \$62.00/sheet
-
-<!-- -->
-
-- .177" x 48" x 96"
-- 1 sheet - \$94.00/sheet
-- 10 sheets - \$90.00/sheet
-
-<!-- -->
-
-- .220" x 48" x 96"
-- \$120.00/sheet
-- \$116.00/sheet
-
-<!-- -->
-
-- Clear Acrylic -
-- .236" x 48" x 96"
-- 1 sheet - \$128.00/sheet
-- 10 sheets - \$122.00/sheet
-
-EStreet
+##### www.estreetplastics.com/
 
 - good for colors you can't get locally
-- 2x2 transparent colors, 1/8,14 bucks + shipping, shipping and qty discount tend to cancel out as you go up
+- transparent colors, 1/4 x2x4 \$48 or \$192 a sheet
+- qty discount at 6,11,etc
 
-Piper Plastics
+##### Montroy (877) 270-3709
 
-- Cast acrylic .1/16to 1/2inch (12mm) +-10% tolerances
-- most sizes actually metric
-- 1/8 3mm
-- 1/4 .236 6mm 1/4
-- cut fee \$10 a sheet
+- clear 1/8 x4x8" \$75.11
+- red,green,black,blue 1/8 x4x8" \$82.22
+- clear 1/4 x4x8" \$142.67
+- rems-work with
+- cut off-work with you
+- qty discount-work with
 
-<!-- -->
+##### Professional Plastics 888-995-7767
 
-- 1/8 \$100 a sheet (4x8ft)
-- 1/4 \$176
-
-Professional Plastics
-
-- Cast acrylic -(costs more but preferred for laser cutting) .1/8to 1inch (12mm)
-- most sizes actually metric
+- <http://www.professionalplastics.com/PLEXIGLASS-ACRYLICSHEET-EXTRUDED>
+- clear, transparents, and more 1/8 x 2x4ft \$28-43 (or \$112-172 /sheet)
+- clear, transparents, and more 1/4 x 2x4ft \$52-94 (or \$208-376 /sheet)
 - no cut fee, sell by foot
-- quantity discount@20 (2x4) of 10%
+- qty discount@20 (2x4) of 10%
+- no walk in rems/clearance section
 
-<!-- -->
+##### Interstate 602 272-3610
 
-- clear
-- 1/8 a sheet (2x4ft) \$23.98
-- 3/16 29.50 (2x4)
-- 1/4 43.39 (2x4)
+- clear 1/4 x4x8" \$162.57
+- no cuts
+- no qty discount
+- rems/clearance?
 
-<!-- -->
-
-- colors 1/8 2x4 green, yellow or blue \$27.58
-- p95(light frost) \$33.79
-
-Other
+##### Other
 
 - lowes and home depot clear 4x2 \$22, \$26 .08 thick (2mm)
-- smallparts.com clear 12x12 1/8 \$12+shipping
-- mcmastercarr clear 24x24 1/8 \$20+shipping
+- smallparts.com clear 1/8 x12x12" \$12+shipping
+- mcmastercarr clear 1/8 x24x24" \$20+shipping
