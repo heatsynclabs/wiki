@@ -15,7 +15,7 @@ Facilities
 - Wood & Metal Shop
   - Tim Moffat
 
-Blogging / Code
+Blogging & Code
 
 - Ryan Rix
 
