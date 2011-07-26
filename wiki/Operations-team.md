@@ -8,11 +8,20 @@ Chair (Board Member)
 
 Facilities
 
-- Austin Kipp
+- General
+  - Austin Kipp
+- Laser
+  - Nate Caine
+- Wood & Metal Shop
+  - Tim Moffat
 
-Blogging
+Blogging / Code
 
 - Ryan Rix
+
+Social Media
+
+- Erica Weems
 
 Photography
 
