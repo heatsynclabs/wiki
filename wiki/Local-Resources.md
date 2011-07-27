@@ -152,6 +152,7 @@ Remember, Cast acrylic is preferred for lasering. The cut makes extruded acrylic
 - qty discount @ 10
 - No cut fee no if in halves, quarters. \$20 if lots or small cuts
 - decent walk in rems/clearance section, clearance on site tends to be old so call <http://www.portplastics.com/clearance/index.html>
+- will ship from out of state (CA) for half freight if you wait a week (\$50)
 
 ##### Sabic 602-275-6542
 
