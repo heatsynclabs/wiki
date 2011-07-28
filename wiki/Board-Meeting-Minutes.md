@@ -106,4 +106,4 @@ Please note that the meeting minutes for the monthly meetings are now being docu
 
 ### July
 
-[July 14 2011](July-14-2011)
+[July 14 2011](July-14-2011) --draft, not yet ratified
