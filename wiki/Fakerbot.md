@@ -60,7 +60,7 @@ When properly connected the Status Bar will turn green. \[Picture of green bar\]
 
 ## Get familiar with machine
 
-The little table on the inside of the machine will be referred to as the build platform, or heated build platform. This platform is often heated to aid in printing. The little nozzle above the table will be referred to as the extruder. The extruder is also heated in order to melt the plastic and push it through the nozzle 'extruding' it.
+The little table on the inside of the machine will be referred to as the build platform, or heated build platform. \[Picture of platform\] This platform is often heated to aid in printing. The little nozzle above the table will be referred to as the extruder. \[Picture of extruder\] The extruder is also heated in order to melt the plastic and push it through the nozzle 'extruding' it.
 
 ## Generate GCode
 
