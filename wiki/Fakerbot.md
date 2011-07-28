@@ -70,19 +70,19 @@ Next press the 'Upload to SD card' button. \[Upload to SD card button\] This wil
 
 ## Warm up
 
-We need to heat up the tip for ~5 minutes and extrude some plastic in order to get the machine operational.
+Next, we need to heat up the extruder for ~5 minutes and extrude some plastic in order to get the machine operational.
 
-Click the Control panel button (arrows) and set Motor Speed PWM to 255, target temp to 230. You must press enter or click your cursor outside of that input box in order to make this take effect. You're probably using a heated bed as well so set that temperature to 100 and wait for it to reach at least 90 to 95C. Note: You'll need to wait quite a while for this to reach its final temperature. Make sure that it is a consistent temperature across the entire surface to prevent corners form peeling.
+Click the Control panel button \[Arrows\] and set Motor Speed PWM to 255, target temp to 230 and heated bed temperature to 100 \[Motor and Temp Config\]. You must press enter or click your cursor outside of that input box in order to make a change take effect.
 
-The machine should immediately begin moving towards temp (theres a temperature graph below, with red as your temperature) and reach it within a minute or two tops.
+You should immediately see the numbers climb towards your goal and a graph showing your progress. \[picture of temps and graph\]. The extruder will arrive quickly, but the heated bed may take some time.
 
-While this happens get comfortable with the X, Y and Z controls. They move for the distance set in the Jog Size column. Be careful not to jam the head into the table or the sides!
+While this happens use this time to get comfortable moving the X, Y and Z controls. \[XYZ controls\] When the + and - buttons are pressed the axis moves for the distance set in the Jog Size column.\[jog size\] Be very careful not to jam the head into the table or the sides! Use small jog increments like 1mm until you are comfortable.
 
-Using the controls make it so the extruder at least 10 or 20mm off the table. No need to be perfect(you can eyeball this). Go ahead and click forward on the motor control which is under the pinch wheel extruder tab. Watch the bearing and the gear on the extruder. Both should be turning. If not stop the motor and wait for the barrel to heat up more and or help the extruder along by twisting the filament.
+Using the controls make it so the extruder is approximately centered in the platform and at least 10 or 20mm (an inch or so) off the table. \[Picture of extruder in right spot\] If you've reached extruder temperature, go ahead and click forward on the motor control. \[Picture of Forward\] Watch the bearing and the gear on the extruder. \[Picture of bearing and gear\] Both should be turning. If not stop the motor and wait for the barrel to heat up more and or help the extruder along by twisting the filament--never PUSH DOWN on the extruder or the filament, it doesn't help and it can hurt.
 
-By now you should be freely flowing plastic or you've got a blocked heater barrel or your pinch wheel setup is not adjusted properly. You should find help or start googling (try the makerbot and or fakerbot sites).
+By now you should be freely flowing plastic \[picture of plastic\] or you've got a blocked heater barrel or your pinch wheel setup is not adjusted properly. You should find help or start googling (try the makerbot and or fakerbot sites).
 
-Run the plastic for at least a few minutes, making sure the plastic doesn't pile up and touch the tip.
+Run the plastic for at least a few minutes, clearing it out as it begins to build up. Never leave the makerbot unattended as plastic can build up and destroy the extruder!
 
 ## Zero machine
 
