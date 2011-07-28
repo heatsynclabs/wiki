@@ -103,3 +103,7 @@ Please note that the meeting minutes for the monthly meetings are now being docu
 ### May
 
 [May 12 2011](May-12-2011)
+
+### July
+
+[July 14 2011](July-14-2011)
