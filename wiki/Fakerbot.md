@@ -86,11 +86,11 @@ Run the plastic for at least a few minutes, clearing it out as it begins to buil
 
 ## Zero machine
 
-Fakerbot doesn't know or care where it starts, you must pick your 'zero' before you print. For us thats the direct center of the platform with the nozzle touching the platform.
+Fakerbot doesn't know or care where it starts, you must pick your 'zero' before you print. For us thats usually the direct center of the platform with the extruder nozzle touching the platform.
 
-Still in the control panel, set your 'jog' size (larger sizes are larger moves, BE CAREFUL YOU DON'T CRASH THE HEAD!). Click the arrows x+,x-,y+,y-,z+,z- to move the platform around so the nozzle is right in the center. Put a piece of paper down on the platform and slowly move the toolhead down using increasingly smaller jog sizes. You want to have the toolhead touch the paper and have a bit a drag, but still be able to remove the paper.
+In the control panel \[arrows\], set your 'jog' size to something small like 1mm \[jog size\] (larger sizes are larger moves, BE CAREFUL YOU DON'T CRASH THE HEAD!). Click the arrows x+,x-,y+,y-,z+,z- \[jog arrows\]to move the platform around so the nozzle is right in the center. Next, put a piece of paper down on the platform and slowly move the toolhead down using increasingly smaller jog sizes. You want to have the toolhead touch the paper and have a bit a drag, but still be able to remove the paper.
 
-When you think you have it, and your toolhead is in the middle of your x and y axis as well, press 'Set Zero'.
+When you think you have it, and your toolhead is in the middle of your x and y axis as well, press 'Set Zero'. \[set zero button\]
 
 ## Print!
 
