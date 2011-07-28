@@ -102,4 +102,4 @@ Please note that the meeting minutes for the monthly meetings are now being docu
 
 ### May
 
-[May 12 2011](May-12-2011) - Draft, not yet ratified
+[May 12 2011](May-12-2011)
