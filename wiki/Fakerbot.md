@@ -68,22 +68,6 @@ Choose File Open and open your stl file if you haven't already. Take a look at i
 
 Next press the 'Upload to SD card' button. \[Upload to SD card button\] This will take a few minutes and forward all code over to the SD card so the machine can run all by itself, removing any delays the computer might cause. This is amazingly important as the little lenovo decides to take a break sometimes, ruining prints.
 
-## Warm up
-
-Next, we need to heat up the extruder for ~5 minutes and extrude some plastic in order to get the machine operational.
-
-Click the Control panel button \[Arrows\] and set Motor Speed PWM to 255, target temp to 230 and heated bed temperature to 100 \[Motor and Temp Config\]. You must press enter or click your cursor outside of that input box in order to make a change take effect.
-
-You should immediately see the numbers climb towards your goal and a graph showing your progress. \[picture of temps and graph\]. The extruder will arrive quickly, but the heated bed may take some time.
-
-While this happens use this time to get comfortable moving the X, Y and Z controls. \[XYZ controls\] When the + and - buttons are pressed the axis moves for the distance set in the Jog Size column.\[jog size\] Be very careful not to jam the head into the table or the sides! Use small jog increments like 1mm until you are comfortable.
-
-Using the controls make it so the extruder is approximately centered in the platform and at least 10 or 20mm (an inch or so) off the table. \[Picture of extruder in right spot\] If you've reached extruder temperature, go ahead and click forward on the motor control. \[Picture of Forward\] Watch the bearing and the gear on the extruder. \[Picture of bearing and gear\] Both should be turning. If not stop the motor and wait for the barrel to heat up more and or help the extruder along by twisting the filament--never PUSH DOWN on the extruder or the filament, it doesn't help and it can hurt.
-
-By now you should be freely flowing plastic \[picture of plastic\] or you've got a blocked heater barrel or your pinch wheel setup is not adjusted properly. You should find help or start googling (try the makerbot and or fakerbot sites).
-
-Run the plastic for at least a few minutes, clearing it out as it begins to build up. Never leave the makerbot unattended as plastic can build up and destroy the extruder!
-
 ## Zero machine
 
 Fakerbot doesn't know or care where it starts, you must pick your 'zero' before you print. For us thats usually the direct center of the platform with the extruder nozzle touching the platform.
@@ -91,6 +75,24 @@ Fakerbot doesn't know or care where it starts, you must pick your 'zero' before 
 In the control panel \[arrows\], set your 'jog' size to something small like 1mm \[jog size\] (larger sizes are larger moves, BE CAREFUL YOU DON'T CRASH THE HEAD!). Click the arrows x+,x-,y+,y-,z+,z- \[jog arrows\]to move the platform around so the nozzle is right in the center. Next, put a piece of paper down on the platform and slowly move the toolhead down using increasingly smaller jog sizes. You want to have the toolhead touch the paper and have a bit a drag, but still be able to remove the paper.
 
 When you think you have it, and your toolhead is in the middle of your x and y axis as well, press 'Set Zero'. \[set zero button\]
+
+## Warm up
+
+Next, we need to heat up the extruder for ~5 minutes and extrude some plastic in order to get the machine operational.
+
+Set Motor Speed PWM to 255, target temp to 230 and heated bed temperature to 100 \[Motor and Temp Config\]. You must press enter or click your cursor outside of that input box in order to make a change take effect.
+
+You should immediately see the numbers climb towards your goal and a graph showing your progress. \[picture of temps and graph\]. The extruder will arrive quickly, but the heated bed may take some time.
+
+Now set jog size to 20 and press z+. This will bring us off the bed again, allowing us to spit some plastic out safely.
+
+If you've reached extruder temperature, go ahead and click forward on the motor control. \[Picture of Forward\] Watch the bearing and the gear on the extruder. \[Picture of bearing and gear\] Both should be turning. If not stop the motor and wait for the barrel to heat up more and or help the extruder along by twisting the filament--never PUSH DOWN on the extruder or the filament, it doesn't help and it can hurt.
+
+By now you should be freely flowing plastic \[picture of plastic\] or you've got a blocked heater barrel or your pinch wheel setup is not adjusted properly. You should find help or start googling (try the makerbot and or fakerbot sites).
+
+Run the plastic for at least a few minutes, clearing it out as it begins to build up. Never leave the makerbot unattended as plastic can build up and destroy the extruder!
+
+When you're ready, push stop \[motor stop\] on the motor, and press the center z button \[center z\] to return the z axis back to zero.
 
 ## Print!
 
