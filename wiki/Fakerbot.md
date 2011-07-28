@@ -94,9 +94,9 @@ When you think you have it, and your toolhead is in the middle of your x and y a
 
 ## Print!
 
-Clear any the nozzle, click to zero the z, and click 'Build' from the main makerbot menu.
+When all your temperatures are ready and your plastic is flowing well, you should be ready! Note where the stop button is on the control panel in case anything looks bad. Also note the power switch in back of the machine. If something goes wrong, these are your friends. Now click 'Build from sd card' \[build from sd card\] from the main makerbot menu.
 
-The build may take a bit to start while it achieves optimal temperatures. Note where the stop button is on the control panel in case anything looks bad. Presumably the print will start, adhere to the bed well, and you can simply stick around until your print finishes.
+The build may take a bit to start while it achieves optimal temperatures. Presumably the print will start, adhere to the bed well, and you can simply stick around until your print finishes. If it messes up stay calm, cancel the print and start back over at warm up and zero machine.
 
 # Status Updates
 
