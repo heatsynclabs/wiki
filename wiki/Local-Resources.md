@@ -156,10 +156,10 @@ Remember, Cast acrylic is preferred for lasering. The cut makes extruded acrylic
 
 ##### Sabic 602-275-6542
 
-- clear 1/8 x4x8 58.67 4x8
-- clear 1/4 x4x8 73.33 4x8
+- clear 1/8 x4x8 \$63
+- clear 1/4 x4x8 \$122 (.236)
 - also black,white, other opaques in stock
-- qty discount @ 10
+- qty discount @ 5 or 10 (5%)
 - no cut fee
 - no walk in rems/clearance section
 
