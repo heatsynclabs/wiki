@@ -147,7 +147,7 @@ Remember, Cast acrylic is preferred for lasering. The cut makes extruded acrylic
 ##### Port plastics 480-813-6118
 
 - clear .118" x 48" x 96" \$67
-- clear .220" x 48" x 96" \*\$135.00/
+- clear .236" x 48" x 96" \*\$135.00/ (have a .220 as well)
 - also available black, white, bronze, grey
 - qty discount @ 10
 - No cut fee no if in halves, quarters. \$20 if lots or small cuts
