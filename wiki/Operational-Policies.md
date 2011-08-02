@@ -12,3 +12,7 @@
   - Even if you've used a tool elsewhere before, approval is needed because HeatSync frequently operates differently than a normal garage, shop or lab.
 - Ask an operations team member before using a tool you haven't used before.
 - Everything in the lab should have a home. Put everything back in it's home so everyone else can find it.
+
+#### Behavior
+
+- Sleeping in the lab is only acceptable for 2 consecutive nights. Three nights in a row is not acceptable.
