@@ -19,10 +19,14 @@ If you're not using the Lenovo that is at the sound station, or you cannot find 
 4.  Open that downloaded file
 5.  Make sure that the player is set to repeat
 
-## Adding Music
+## Controlling the Playlist
 
 Anyone at the space can connect to the Ampache instance and log in (either using the HSL credentials, or a login on request) and add music to the democratic playlist, or vote on tracks in the existing playlist.
 
 To add music, either search, or browse for the tracks you want, add it to your local playlist.
 
 When you're done with the local playlist, hit the play button (looks like a radio antenna), and it will be added to the democratic playlist
+
+## Adding Music
+
+Any legally acquired music can be added to the Ampache instance. Ask Ryan for details on how to set this up.
