@@ -2,6 +2,7 @@ The HeatSync Labs Community Involvement page is intended to document articles re
 
 ## Blogs
 
+- [HeatSync Labs, an inventors' co-op](http://www.examiner.com/video-game-industry-in-phoenix/heatsync-labs-an-inventors-co-op)
 - [Craft for Japan at HeatSync Labs](http://blogs.evtrib.com/nerdvana/2011/05/12/craft-for-japan-at-heatsync-labs/)
 - [HeatSync Labs board unanimous in approving proposed Mesa lease](http://blogs.evtrib.com/nerdvana/2011/05/12/heatsync-mesa/)
 - [HeatSync Labs board to vote on proposal to lease space in downtown Mesa](http://blogs.evtrib.com/nerdvana/2011/05/10/heatsync-labs-considers-mesa/)
