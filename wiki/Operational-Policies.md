@@ -16,3 +16,7 @@
 #### Behavior
 
 - Sleeping in the lab is only acceptable for 2 nights per week or less.
+
+#### Card Access
+
+- Members can receive cards when approved by a majority vote of members at an operations meeting ("Hack your Hackerspace" night.) Ensure their card access proposal is posted publicly via email (subject prefix "Proposal:") at least 1 week prior to the meeting.
