@@ -15,4 +15,4 @@
 
 #### Behavior
 
-- Sleeping in the lab is only acceptable for 2 consecutive nights. Three nights in a row is not acceptable.
+- Sleeping in the lab is only acceptable for 2 nights per week or less.
