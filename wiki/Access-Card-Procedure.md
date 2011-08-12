@@ -2,7 +2,7 @@
 
 ### New Member
 
-- Members can receive cards when approved by a majority vote of the [operations team](Operations-team) (which is a private vote.)
+- Members can receive cards when approved by a majority vote of members at an operations meeting ("Hack your Hackerspace" night.)
 - Login to [hsl-access](Hsl-access) via SSH
 - Run minicom
   - If you haven't set your settings yet, it must be /dev/ttyUSB0 57600 8N1.
