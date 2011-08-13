@@ -64,7 +64,7 @@ The workshop is considered the HeatSync labs doors, proceeding beyond that line 
 
 ### General
 
-- Clean up after yourself after using any machine, including cleaning machine and floor area around it and returning any items to their proper location.
+- Clean up after yourself after using any public space or machine, including cleaning tables, machines and floor area around it and returning any items to their proper location.
 - Do not use a machine if you have not been shown how to operate it safely by the teacher.
 - All accidents are to be reported to any Officer as soon as possible, within 24 hours at the latest.
 - Safety violations you witness should be reported to any Officer as soon as possible, within 24 hours at the latest.
@@ -123,6 +123,8 @@ The workshop is considered the HeatSync labs doors, proceeding beyond that line 
 - Measuring & planning, taking into account geometry of joins and size of material
 
 ### Laser Cutter
+
+- HeatSync Training required for use
 
 See [Laser Cutter](Laser-Cutter)
 
