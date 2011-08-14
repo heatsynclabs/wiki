@@ -1,5 +1,9 @@
 # Local Laser Availability
 
+## HeatSync Labs
+
+We now have our own 100-watt laser! See the [Laser Cutter](Laser-Cutter) page for more info.
+
 ## ASU Tempe
 
 We may have limited access to a cutter at ASU Tempe campus at the Arts Media and Engineering (AME) group
