@@ -4,9 +4,9 @@
 - HeatSync certified adults only, no exceptions.
 - Safety zone around laser, keep people out.
 - Location of fire extinguisher and water bottle.
-- The Emergency Stop button will always stop everything. Memorize its location.
-- Pressing the laser button will always fire the laser even if the lid is up.
-- Pressing pause and then lifting the lid will resume, and fire the laser. If you want to truly pause, simply lift the lid. Never press pause, because leaving the machine paused is actually leaving the laser armed and will fire on anyone who lifts the lid.
+- The Emergency Stop button will always stop everything. It turns off the machine's power. Memorize its location.
+- Pressing the laser button will always fire the laser.
+- If you want to pause a cut, simply lift the lid. Never press pause, because the machine will resume the job if the lid is lifted for some reason.
 - The Z axis has no limit switches and is a pinch hazard. It will keep going and not stop, stripping the screws and crashing the head into the bed. Keep hands free of the unit when anyone is near the control panel or computer.
 
 ### Control Panel
@@ -14,7 +14,7 @@
 - Main thing to remember is that the speed and the power are in reference to what you set them to in your file. If it's at 100% on the control panel, that's 100% of whatever you've set on the computer. I.e. you can slow it down or decrease it on the panel, not increase it.
 - The Datum button is "Home". It'll bring the laser back to the top right based on the limit switches. (the "laser origin" not the "program origin" which is the bottom left.)
 - To "Home" to the z-axis (bed) enter Z mode by pressing the center Z button. You can then press the Datum button to home or the up/down arrows to adjust the bed. To exit, press the Z button again.
-- The Laser button is always live and will fire at 100% power for as long as you hold the button. Treat it carefully and never push it with the lid up to avoid eye damage.
+- The Laser button is always live and will fire at 100% power for as long as you hold the button. Treat it carefully and never push it with the lid up.
 - The Stop button will stop any cutting from happening while in the main menu. There are two modes where the Stop button will not function immediately: when in Z-axis mode, or if you've got a "soft stop" error (i.e. you've gone off the edge, corrected the error, and continue to cut, but still made a mistake and wish to stop, you'll have to press Esc and then Stop.) In other words, clear any errors on the screen before cutting.
 - The Test button moves the laser along the rectangular perimeter of your project.
 - To run a project, highlight it under the File menu option and press the the Start button. Beware of pressing the pause button, because if you open the lid it will automatically resume and cause a hazardous situation for your eyes.
@@ -28,13 +28,13 @@
 
 ### Turn Off / Turn On
 
-- To turn on, get key from lockbox.
+- To turn on, get the key.
   - Plug in the big extension cord (twist before pulling)
   - The chiller and ventilation blower will have power supplied
-  - When the laser key is turned, the laser will boot up and the air assist compressor will start.
+  - When the laser key is turned, the laser will boot up and the air assist compressor will start. If not, twist the emergency stop button.
   - Do not play with the electrical wiring; don't plug anything into the wall, everything is 220v volt.
 - To turn off, wait for 5 minutes to let the laser tube cool, and then turn off the key and unplug the big twist extension cord.
-  - Place key in lockbox.
+  - Place key back in its place.
 
 ### File Design
 
@@ -55,7 +55,7 @@
 - X, Y, and Z control buttons operate as expected. Datum and Z Datum also work.
 - Never push the Laser button on the computer. Once you push it, the laser will fire until you push the stop button on the physical machine. The computer can't stop the laser from firing.
 - Run Box and Clip Box outline the outer rectangle of your project. Run is with the laser off, Clip is with the laser on.
-- The Pause button has the same problem as the machine; never use it, as the laser will fire as soon as the lid is opened.
+- The Pause button has the same problem as the machine; never use it, as the laser will fire.
 - The Start button starts cutting the file currently displayed on the laser's display screen.
 - The Stop button, unlike on the machine, only restarts the cut. It goes back to the program's origin and begins again. To stop, press the stop button on the machine or the Emergency Stop button in an emergency.
 - The DownLoad button opens the file manager.
@@ -69,7 +69,7 @@
 
 ### Maintenance
 
-- Store spares inside left panel, DO NOT TOUCH \*\* contact laser team if
+- Store spare parts inside left panel. DO NOT TOUCH. Contact laser team to do maintenance or repairs.
 - Every use
   - Write in the logfile
   - Empty the bucket and clean up any debris
@@ -78,3 +78,7 @@
   - Water
   - Chiller air filters (both sides, just wash them)
   - Laser air filter
+- If there are major problems with the machine:
+  - Place a lockout tag or out of order note on machine
+  - Log the problem in the machine log
+  - Contact a laser team member
