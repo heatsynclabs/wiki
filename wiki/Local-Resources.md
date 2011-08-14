@@ -51,7 +51,7 @@ From Bankruptcy to Surplus to Seizure these are the local guys we've come across
 
 ### Laser Engraving / Cutting
 
-Remember HeatSync has its own [laser cutter](Laser-cutter) too!
+Remember HeatSync has its own [Laser Cutter](Laser-Cutter) too!
 
 #### Phoenix Laser Engraving
 
