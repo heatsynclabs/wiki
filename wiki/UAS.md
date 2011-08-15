@@ -8,6 +8,8 @@ Arduino based auto-flight, auto-land drone.
 
 # Why
 
+Because it interests us.
+
 # How
 
 ## Bill of Materials
