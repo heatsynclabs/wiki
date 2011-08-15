@@ -4,6 +4,8 @@
 
 # What
 
+Arduino based auto-flight, auto-land drone.
+
 # Why
 
 # How
