@@ -8,8 +8,8 @@
 
 #### Tools
 
-- Most tools require approval before you can use them.
-  - Even if you've used a tool elsewhere before, approval is needed because HeatSync frequently operates differently than a normal garage, shop or lab.
+- Most tools require certification before you can use them.
+  - Even if you've used a tool elsewhere before, certification is needed because HeatSync frequently operates differently than a normal garage, shop or lab.
 - Ask an operations team member before using a tool you haven't used before.
 - Everything in the lab should have a home. Put everything back in it's home so everyone else can find it.
 
