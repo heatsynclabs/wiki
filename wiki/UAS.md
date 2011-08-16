@@ -88,7 +88,8 @@ Where is autoland? Is this part of the pilot or it's own subsystem?
   - Note: make sure to get a redundant craft. I, or my s/w defect, will surely crash and destroy one...
 - [Servos](http://www3.towerhobbies.com/cgi-bin/wti0001p?&I=LXHHB0&P=0) X 3 (two control surfaces plus throttle)
 - [Bixler](http://www.hobbyking.com/hobbyking/store/__18083__Hobbyking_Bixler_EPO_1400mm_ARF_USA_Warehouse_.html) Alternate craft?
-- [Predator](http://www.hobbyking.com/hobbyking/store/__5455__Predator_UAV_74in_Spy_Plane_ARF.html)
+- [Predator](http://www.hobbyking.com/hobbyking/store/__5455__Predator_UAV_74in_Spy_Plane_ARF.html) Fairly large. Lots of goodness?
+  - [review](http://www.hobbyking.com/hobbyking/forum/forum_posts.asp?TID=719) great info.
 - [Reaper](http://www.hobbyking.com/hobbyking/store/__17988__MQ_9_Reaper_Fiberglass_2500mm_FPV_ARF_.html) cool.
 
 ### Misscelaneous
