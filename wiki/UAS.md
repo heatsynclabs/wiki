@@ -86,6 +86,11 @@ Where is autoland? Is this part of the pilot or it's own subsystem?
 - [HobbyKing SkyFun](http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=9614) as the craft
   - Note: make sure to get a redundant craft. I, or my s/w defect, will surely crash and destroy one...
 - [Servos](http://www3.towerhobbies.com/cgi-bin/wti0001p?&I=LXHHB0&P=0) X 3 (two control surfaces plus throttle)
+- \[ <http://www.hobbyking.com/hobbyking/store/__18083__Hobbyking_Bixler_EPO_1400mm_ARF_USA_Warehouse_.html> Bixler\] Alternate craft?
+
+### Misscelaneous
+
+- [Camera?](http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=13987)
 
 #### Assumptions
 
