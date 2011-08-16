@@ -2,17 +2,19 @@
 
 </div>
 
-# What
+## What
 
 Arduino based auto-flight, auto-land drone.
 
-# Why
+## Why
 
 Because it interests us.
 
-# Who
+## Who
 
-# How
+## Design
+
+going to take an arduino, or arduino like system, and have it control a model airplane. This drone will have an on board GPS for position (3D), heading, and speed. Will need the Gyro to know if we are level, or to hold a certain position in a bank or turning maneuver.
 
 ## Bill of Materials (BOM)
 
@@ -20,7 +22,7 @@ Because it interests us.
 
 - [Maple Mini](http://leaflabs.com/devices/#Maple-Mini) as the in craft controller?
 - [GPS Receiver](http://www.sparkfun.com/products/465) ~\$60.00
-- accelerometer (3 axis)
+- accelerometer or Gyro (3 axis)
 
 ### Plane
 
