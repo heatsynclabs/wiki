@@ -48,7 +48,7 @@ Somehow, COMS should probably be allowed to command the craft. This might go thr
 
 #### Communications (COMS)
 
-= This is a 2 part subsystem: USB and RF. behavior shall be different in USB vs RF mode. Also will be different if we are on ground.
+This is a 2 part subsystem: USB and RF. behavior shall be different in USB vs RF mode. Also will be different if we are on ground.
 
 #### Random Thoughts
 
