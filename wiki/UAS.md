@@ -80,6 +80,7 @@ Where is autoland? Is this part of the pilot or it's own subsystem?
 - [Maple Mini](http://leaflabs.com/devices/#Maple-Mini) as the in craft controller?
 - [GPS Receiver](http://www.sparkfun.com/products/465) ~\$60.00
 - accelerometer or Gyro (3 axis)
+- Proximity sensors (for autoland)
 
 ### Plane
 
