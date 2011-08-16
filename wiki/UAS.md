@@ -6,6 +6,19 @@
 
 Arduino based auto-flight, auto-land drone.
 
+### Goals
+
+- Command surfaces.
+- Command throttle.
+- Demonstrate RTS/preflight.
+- Short, straight line flight coupled with "safe" landing.
+- Fly an oval retaining a static altitude
+- Circle up to altitude, then circle back down and land.
+- Circle up to altitude, then dive down and land.
+- Perform multiple "Go Around" test landing passes.
+- Fly a longer flight plan.
+- Test failure modes.
+
 ## Why
 
 Because it interests us.
@@ -57,6 +70,8 @@ This is a 2 part subsystem: USB and RF. behavior shall be different in USB vs RF
 What do our emergency modes look like and where do they go?
 
 How do we monitor the battery? (Shut the engine off and glide in for a landing?)
+
+Where is autoland? Is this part of the pilot or it's own subsystem?
 
 ## Bill of Materials (BOM)
 
