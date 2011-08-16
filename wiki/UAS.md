@@ -92,6 +92,10 @@ Where is autoland? Is this part of the pilot or it's own subsystem?
   - [review](http://www.hobbyking.com/hobbyking/forum/forum_posts.asp?TID=719) great info.
 - [Reaper](http://www.hobbyking.com/hobbyking/store/__17988__MQ_9_Reaper_Fiberglass_2500mm_FPV_ARF_.html) cool.
 
+### Coms
+
+- XBee PRO 900 XSC? or...?
+
 ### Misscelaneous
 
 - [Camera?](http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=13987)
