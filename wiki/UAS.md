@@ -10,6 +10,8 @@ Arduino based auto-flight, auto-land drone.
 
 Because it interests us.
 
+Of course, this is nothing new. It's all been done before, but not by us.
+
 ## Who
 
 ## Design
