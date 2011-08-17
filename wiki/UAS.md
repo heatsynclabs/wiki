@@ -108,3 +108,5 @@ Some other fun aircraft:
 #### Assumptions
 
 # See Also
+
+- [INS](http://en.wikipedia.org/wiki/Inertial_navigation_system) @ Wikipedia
