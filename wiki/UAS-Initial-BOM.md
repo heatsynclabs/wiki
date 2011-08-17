@@ -18,6 +18,10 @@ Return to [Drone](Drone)
 
 - [Bixler](http://www.hobbyking.com/hobbyking/store/__18083__Hobbyking_Bixler_EPO_1400mm_ARF_USA_Warehouse_.html) Looks like a good place to start. Lots of surfaces to control, plenty of room for avionics, and reasonably priced.
 
+Alternates:
+
+- [Phoenix Glider](http://www.hobbyking.com/hobbyking/store/__13994__Phoenix_2000_EPO_Composite_R_C_Glider_Plug_Fly_.html) Pretty cool name... If the avionics fit inot the cockpit I say go for it.
+
 Some other fun aircraft:
 
 - [HobbyKing SkyFun](http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=9614) as the craft
