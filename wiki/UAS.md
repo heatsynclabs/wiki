@@ -28,6 +28,9 @@ Of course, this is nothing new. It's all been done before, but not by us.
 
 ## Who
 
+- Scott B.
+- Jeremy M. (AKA JT-Money)
+
 ## Design
 
 going to take an arduino, or arduino like system, and have it control a model airplane. This drone will have an on board GPS for position (3D), heading, and speed. Will need the Gyro to know if we are level, or to hold a certain position in a bank or turning maneuver.
