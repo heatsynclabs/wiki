@@ -26,6 +26,14 @@ Because it interests us.
 
 Of course, this is nothing new. It's all been done before, but not by us.
 
+### Practical Uses
+
+This are some interesting, potentially practical uses:
+
+- RF data repeater
+- Search drone (e.g. missing hikers)
+- Wildfire spotter
+
 ## Who
 
 - Scott B.
