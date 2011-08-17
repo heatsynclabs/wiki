@@ -18,6 +18,7 @@ Arduino based auto-flight, auto-land drone.
 - Perform multiple "Go Around" test landing passes.
 - Fly a longer flight plan.
 - Test failure modes.
+- Bonus: attempt to fly thermals!
 
 ## Why
 
