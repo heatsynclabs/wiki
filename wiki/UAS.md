@@ -41,8 +41,6 @@ This are some interesting, potentially practical uses:
 
 ## Design
 
-The goal of this project is to create an Automatic Flight System for use, initially, on inexpensive R/C aircraft. We intend to do this using low cost Arduino (or Arduino-like) development boards, an [IMU](http://en.wikipedia.org/wiki/Inertial_navigation_system), and GPS. As our confidence in the system grows, we intend to grow the project to control larger drones capable of greater range and payload.
-
 See [Drone/Design](Drone-Design)
 
 ## Bill of Materials (BOM)
