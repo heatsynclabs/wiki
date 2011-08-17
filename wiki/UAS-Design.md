@@ -47,6 +47,8 @@ COMS should generally provide a way for the base station to talk to the various 
 - Changing the FP
 - subscribing to data (e.g. telemetry information, %to next waypoint)
 - return to base
+- Take Off
+- Go Around
 
 ## Random Thoughts
 
