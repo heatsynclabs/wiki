@@ -21,6 +21,7 @@ Return to [Drone](Drone)
 Alternates:
 
 - [Phoenix Glider](http://www.hobbyking.com/hobbyking/store/__13994__Phoenix_2000_EPO_Composite_R_C_Glider_Plug_Fly_.html) Pretty cool name... If the avionics fit inot the cockpit I say go for it.
+  - Alternate [source](http://store.economyrc.com/phoenix2000-rtf-arf-kit-glider-rcairplane.html)
 
 Some other fun aircraft:
 
