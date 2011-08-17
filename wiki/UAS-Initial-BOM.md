@@ -7,8 +7,11 @@ Return to [Drone](Drone)
 ## Avionics
 
 - [Maple Mini](http://leaflabs.com/devices/#Maple-Mini) as the in craft controller?
-- [GPS Receiver](http://www.sparkfun.com/products/465) ~\$60.00
-- accelerometer or Gyro (3 axis)
+- LS20031 GPS
+  - At [Sparkfun](http://www.sparkfun.com/products/8975)
+  - At [Pololu](http://www.pololu.com/catalog/product/1249/resources)
+- accelerometer (3 axis)
+- gyro (3 axis)
 - Proximity sensors (for autoland)
 
 ## Aircraft
