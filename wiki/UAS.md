@@ -33,7 +33,7 @@ Of course, this is nothing new. It's all been done before, but not by us.
 
 ## Design
 
-going to take an arduino, or arduino like system, and have it control a model airplane. This drone will have an on board GPS for position (3D), heading, and speed. Will need the Gyro to know if we are level, or to hold a certain position in a bank or turning maneuver.
+The goal of this project is to create an Automatic Flight System for use, initially, on inexpensive R/C aircraft. We intend to do this using low cost Arduino (or Arduino-like) development boards, an [IMU](http://en.wikipedia.org/wiki/Inertial_navigation_system), and GPS. As our confidence in the system grows, we intend to grow the project to control larger drones capable of greater range and payload.
 
 See [Drone/Design](Drone-Design)
 
