@@ -14,9 +14,13 @@ This subsystem calculates location, orientation, and--maybe--HAGL.
 
 ### Return to Service (RTS) and Preflight
 
-This subsystem should perform RTS (return to service)/preflight testing of the craft. I suppose it will come with a checklist so the maintenance person knows when to invert it, etc, so it can test it's various sensors.
+This subsystem should perform RTS (return to service) and preflight testing of the craft.
 
-RTS should not pass if Maintenance has stored a fault. Until formally cleared.
+RTS is only available via USB and should include instructions for the operator (e.g. invert the aircraft, visually confirm the elevator moves to maximum down position).
+
+RTS should not pass if Maintenance has stored a fault. Until formally cleared. Also, the aircraft should not take off with an active RTS fault.
+
+Preflight should be a standard, on ground operation of all control surfaces. It is activated via push button and cycles the test (with a few second timeout) until the operator pushes the button again, but only after a full preflight cycle.
 
 ### Maintenance (MAINT) and Logger
 
