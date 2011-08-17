@@ -73,6 +73,8 @@ How do we monitor the battery? (Shut the engine off and glide in for a landing?)
 
 Where is autoland? Is this part of the pilot or it's own subsystem?
 
+I think MAINT could be removed for a logger subsystem.
+
 ## Bill of Materials (BOM)
 
 ### Auto Pilot
