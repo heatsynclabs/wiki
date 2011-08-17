@@ -6,7 +6,7 @@
 
 Arduino based auto-flight, auto-land drone.
 
-### Goals
+### Demonstration Goals
 
 - Command surfaces.
 - Command throttle.
