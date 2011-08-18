@@ -2,7 +2,7 @@
 
 </div>
 
-**Unmanned Aerial Sensor (UAS)** or *'Unmanned Aircraft System*
+UAS is either **Unmanned Aerial Sensor** or **Unmanned Aircraft System**
 
 ## What
 
