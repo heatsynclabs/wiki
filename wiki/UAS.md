@@ -19,6 +19,7 @@ The goal of this project is to create an Automatic Flight System for use, initia
 - Fly a longer flight plan.
 - Test failure modes.
 - Bonus: attempt to fly thermals!
+- Bonus: aerobatics!
 
 ## Why
 
