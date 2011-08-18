@@ -32,11 +32,11 @@ This subsystem should feed the flight plan to the Pilot.
 
 This should interface w/ COMS to enable flight plan updating.
 
-### Pilot
+### Pilot (AP)
 
 This is the thing that takes inputs from NAV and FP and commands servos and throttles. This flys the craft.
 
-### Auto Land
+### Auto Land (AL)
 
 The auto land subsystem takes over (when directed) to provide inputs to the Pilot to create a safe, clean landing.
 
