@@ -8,7 +8,9 @@ Return to [Drone](Drone)
 
 ### Controller
 
-Embedded controller: Arduino or clone, we've identified the following as interesting and already in inventory: Arduino Decemilia, Arduino Uno, Arduino Mega 2560, [Maple Mini](http://leaflabs.com/devices/#Maple-Mini), Maple (Rev5)
+Embedded controller: Arduino or clone.
+
+The following as interesting and already in inventory: Arduino Decemilia, Arduino Uno, Arduino Mega 2560, [Maple Mini](http://leaflabs.com/devices/#Maple-Mini), Maple (Rev5).
 
 ### Sensors
 
