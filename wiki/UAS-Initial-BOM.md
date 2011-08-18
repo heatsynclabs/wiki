@@ -16,7 +16,7 @@ Embedded controller: Arduino or clone, we've identified the following as interes
 - [accelerometer](http://www.pololu.com/catalog/product/1250) (3 axis) also includes magnetometer
 - [gyro](http://www.pololu.com/catalog/product/1272) (3 axis)
 - [Proximity Sensor](http://www.pololu.com/catalog/product/723)
-- [Barometric Pressure Sensor](http://www.pololu.com/catalog/product/1646)
+- [Barometric Pressure Sensor](http://www.pololu.com/catalog/product/1646), should we have ordered [this one](http://www.pololu.com/catalog/product/1617)?
 
 This initial sensor package is ordered.
 
