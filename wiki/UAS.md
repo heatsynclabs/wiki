@@ -2,7 +2,7 @@
 
 </div>
 
-AKA Unmanned Aerial Sensor (UAS)
+**Unmanned Aerial Sensor (UAS)**
 
 ## What
 
@@ -44,11 +44,11 @@ This are some interesting, potentially practical uses:
 
 ## Design
 
-See [Drone/Design](Drone-Design)
+See [UAS/Design](UAS-Design)
 
 ## Bill of Materials (BOM)
 
-See [Drone/Initial_BOM](Drone-Initial-BOM)
+See [UAS/Initial_BOM](UAS-Initial-BOM)
 
 #### Assumptions
 
