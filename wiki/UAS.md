@@ -38,7 +38,7 @@ This are some interesting, potentially practical uses:
 ## Who
 
 - Scott B.
-- Jeremy M. (AKA JT-Money)
+- Jeremy M.
 
 ## Design
 
