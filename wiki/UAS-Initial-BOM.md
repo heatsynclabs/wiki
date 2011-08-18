@@ -38,7 +38,8 @@ The initial aircraft must forgive mediocre piloting. We want docile flight chara
 
 <!-- -->
 
-- [Servos](http://www3.towerhobbies.com/cgi-bin/wti0001p?&I=LXHHB0&P=0) X 4
+- [Servos](http://www.hobbypartz.com/standardservos.html) X 4
+  - want light ones, but strong enough to control the surfaces, might nee to get the craft before we get the servos
 
 ## Coms
 
