@@ -35,6 +35,7 @@ These are our top candidates:
 - [Phoenix Glider](http://www.hobbyking.com/hobbyking/store/__13994__Phoenix_2000_EPO_Composite_R_C_Glider_Plug_Fly_.html) Pretty cool name... If the avionics fit into the cockpit I say go for it. (Note that we can add flaps!)
   - Alternate [source](http://store.economyrc.com/phoenix2000-rtf-arf-kit-glider-rcairplane.html)
 - [Bixler](http://www.hobbyking.com/hobbyking/store/__18083__Hobbyking_Bixler_EPO_1400mm_ARF_USA_Warehouse_.html) Looks like a good place to start. Lots of surfaces to control, plenty of room for avionics, and reasonably priced.
+- Multiplex Cularis (2.6m)
 
 These are interesting alternatives:
 
