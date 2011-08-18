@@ -24,22 +24,29 @@ This is the initial sensor package:
 
 ## Aircraft
 
-The initial aircraft must forgive mediocre piloting. We want docile flight characteristics combined with a rugged air frame.
+### Airframe
 
-- Craft
-  - [Phoenix Glider](http://www.hobbyking.com/hobbyking/store/__13994__Phoenix_2000_EPO_Composite_R_C_Glider_Plug_Fly_.html) Pretty cool name... If the avionics fit inot the cockpit I say go for it.
-    - Alternate [source](http://store.economyrc.com/phoenix2000-rtf-arf-kit-glider-rcairplane.html)
-  - [Bixler](http://www.hobbyking.com/hobbyking/store/__18083__Hobbyking_Bixler_EPO_1400mm_ARF_USA_Warehouse_.html) Looks like a good place to start. Lots of surfaces to control, plenty of room for avionics, and reasonably priced.
-  - [HobbyKing SkyFun](http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=9614) as the craft
-    - Note: make sure to get a redundant craft. I, or my s/w defect, will surely crash and destroy one...
-  - [Predator](http://www.hobbyking.com/hobbyking/store/__5455__Predator_UAV_74in_Spy_Plane_ARF.html) Fairly large. Lots of goodness?
-    - [review](http://www.hobbyking.com/hobbyking/forum/forum_posts.asp?TID=719) great info.
-  - [Reaper](http://www.hobbyking.com/hobbyking/store/__17988__MQ_9_Reaper_Fiberglass_2500mm_FPV_ARF_.html) cool.
+The initial airframe must forgive mediocre piloting. We want docile flight characteristics combined with a rugged air frame.
 
-<!-- -->
+Try to select a craft with spares to reduce cost of reconstruction.
+
+These are our top candidates:
+
+- [Phoenix Glider](http://www.hobbyking.com/hobbyking/store/__13994__Phoenix_2000_EPO_Composite_R_C_Glider_Plug_Fly_.html) Pretty cool name... If the avionics fit into the cockpit I say go for it. (Note that we can add flaps!)
+  - Alternate [source](http://store.economyrc.com/phoenix2000-rtf-arf-kit-glider-rcairplane.html)
+- [Bixler](http://www.hobbyking.com/hobbyking/store/__18083__Hobbyking_Bixler_EPO_1400mm_ARF_USA_Warehouse_.html) Looks like a good place to start. Lots of surfaces to control, plenty of room for avionics, and reasonably priced.
+
+These are interesting alternatives:
+
+- [HobbyKing SkyFun](http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=9614) Flying wing. Minimal surfaces.
+- [Predator](http://www.hobbyking.com/hobbyking/store/__5455__Predator_UAV_74in_Spy_Plane_ARF.html) Fairly large. Lots of goodness?
+  - [review](http://www.hobbyking.com/hobbyking/forum/forum_posts.asp?TID=719) great info.
+- [Reaper](http://www.hobbyking.com/hobbyking/store/__17988__MQ_9_Reaper_Fiberglass_2500mm_FPV_ARF_.html) cool.
+
+### Surface Control
 
 - [Servos](http://www.hobbypartz.com/standardservos.html) X 4
-  - want light ones, but strong enough to control the surfaces, might nee to get the craft before we get the servos
+  - want light ones, but strong enough to control the surfaces, might need to get the craft before we order/change the servos
 
 ## Coms
 
