@@ -6,13 +6,20 @@ Return to [Drone](Drone)
 
 ## Avionics
 
-- [Maple Mini](http://leaflabs.com/devices/#Maple-Mini) as the in craft controller?
-- LS20031 GPS
-  - At [Sparkfun](http://www.sparkfun.com/products/8975)
-  - At [Pololu](http://www.pololu.com/catalog/product/1249/resources)
-- accelerometer (3 axis)
-- gyro (3 axis)
-- Proximity sensors (for autoland)
+### Controller
+
+Embedded controller: Arduino or clone, we've identified the following as interesting and already in inventory:
+
+- - Arduino Uno
+  - [Maple Mini](http://leaflabs.com/devices/#Maple-Mini) as the in craft controller?
+
+### Sensors
+
+- [LS20031 GPS](http://www.pololu.com/catalog/product/1249))
+- [accelerometer](http://www.pololu.com/catalog/product/1250) (3 axis) also includes magnetometer
+- [gyro](http://www.pololu.com/catalog/product/1272) (3 axis)
+- [Proximity Sensor](http://www.pololu.com/catalog/product/723)
+- [Barometric Pressure Sensor](http://www.pololu.com/catalog/product/1646)
 
 ## Aircraft
 
