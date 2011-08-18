@@ -18,6 +18,8 @@ Embedded controller: Arduino or clone, we've identified the following as interes
 - [Proximity Sensor](http://www.pololu.com/catalog/product/723)
 - [Barometric Pressure Sensor](http://www.pololu.com/catalog/product/1646)
 
+This initial sensor package is ordered.
+
 ## Aircraft
 
 The initial aircraft must forgive mediocre piloting. We want docile flight characteristics combined with a rugged air frame.
