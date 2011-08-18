@@ -55,3 +55,5 @@ See [UAS/Initial_BOM](UAS-Initial-BOM)
 # See Also
 
 - [INS](http://en.wikipedia.org/wiki/Inertial_navigation_system) @ Wikipedia
+- [American Model Aircraft](https://www.modelaircraft.org)
+- [DIYDrones Regulator page](http://diydrones.com/profiles/blog/show?id=705844%3ABlogPost%3A28583)
