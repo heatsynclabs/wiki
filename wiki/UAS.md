@@ -41,6 +41,7 @@ This are some interesting, potentially practical uses:
 
 - Scott B.
 - Jeremy M.
+- Mike M.
 
 ## Design
 
