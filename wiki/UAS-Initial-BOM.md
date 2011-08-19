@@ -23,7 +23,7 @@ The following as interesting and already in inventory: Arduino Decemilia, Arduin
 
 <!-- -->
 
-- [altimeter](http://wingedshadow.com/howhigh.html), good for 3000m, seems a better option than DTED for HAGL
+- still looking for a good altimeter, a replacement for DTED lookup
 
 ## Aircraft
 
