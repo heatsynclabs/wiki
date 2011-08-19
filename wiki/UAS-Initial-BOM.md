@@ -39,7 +39,7 @@ These are our top candidates:
   - Alternate [source](http://store.economyrc.com/phoenix2000-rtf-arf-kit-glider-rcairplane.html)
 - [Bixler](http://www.hobbyking.com/hobbyking/store/__18083__Hobbyking_Bixler_EPO_1400mm_ARF_USA_Warehouse_.html) Looks like a good place to start. Lots of surfaces to control, plenty of room for avionics, and reasonably priced.
 - Multiplex Cularis (2.6m)
-- [Radian Pro](http://www.parkzone.com/Products/Default.aspx?ProdID=PKZ5475)
+- [Radian Pro](http://www.parkzone.com/Products/Default.aspx?ProdID=PKZ5475) -- ([YouTube](http://www.youtube.com/watch?v=tDVpYsK9kww&feature=player_embedded))
 
 These are interesting alternatives:
 
