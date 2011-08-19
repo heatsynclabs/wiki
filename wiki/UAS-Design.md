@@ -59,3 +59,7 @@ COMS should generally provide a way for the base station to talk to the various 
 What do our emergency modes look like and where do they go?
 
 How do we monitor the battery? (Shut the engine off and glide in for a landing?)
+
+## Software Design
+
+How they system is layout in software. [UAS/Design/Software](UAS-Design-Software)
