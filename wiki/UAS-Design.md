@@ -38,7 +38,7 @@ This is the thing that takes inputs from NAV and FP and commands servos and thro
 
 ### Auto Land (AL)
 
-The auto land subsystem takes over (when directed) to provide inputs to the Pilot to create a safe, clean landing.
+The auto land subsystem takes over (when directed) to provide inputs to the Pilot to create a safe, clean landing. In all likely hood, AL is a mode inside AP, NOT a full subsystem...
 
 ### Communications (COMS)
 
