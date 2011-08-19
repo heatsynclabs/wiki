@@ -46,6 +46,7 @@ These are interesting alternatives:
 - [Reaper](http://www.hobbyking.com/hobbyking/store/__17988__MQ_9_Reaper_Fiberglass_2500mm_FPV_ARF_.html) cool.
 - [Van's RV-9](http://www.e-fliterc.com/Products/Default.aspx?ProdID=EFL2775) too cool, experimental!
 - [3m wingspan](http://sd-model.en.alibaba.com/product/290063229-200395223/rc_airplane_3000mm_fiberglass_glider.html) big and light
+- [4m wing span](http://hobbyfly.com/en/airplane-47/sailplanes-137/discus-cs-4000mm-glider-arf-2172.html) huge, does not look like 12 ft
 
 ### Surface Control
 
