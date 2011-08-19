@@ -45,6 +45,7 @@ These are interesting alternatives:
   - [review](http://www.hobbyking.com/hobbyking/forum/forum_posts.asp?TID=719) great info.
 - [Reaper](http://www.hobbyking.com/hobbyking/store/__17988__MQ_9_Reaper_Fiberglass_2500mm_FPV_ARF_.html) cool.
 - [Van's RV-9](http://www.e-fliterc.com/Products/Default.aspx?ProdID=EFL2775) too cool, experimental!
+- [3m wingspan](http://sd-model.en.alibaba.com/product/290063229-200395223/rc_airplane_3000mm_fiberglass_glider.html) big and light
 
 ### Surface Control
 
