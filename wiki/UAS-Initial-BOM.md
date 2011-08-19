@@ -44,6 +44,7 @@ These are interesting alternatives:
 - [Predator](http://www.hobbyking.com/hobbyking/store/__5455__Predator_UAV_74in_Spy_Plane_ARF.html) Fairly large. Lots of goodness?
   - [review](http://www.hobbyking.com/hobbyking/forum/forum_posts.asp?TID=719) great info.
 - [Reaper](http://www.hobbyking.com/hobbyking/store/__17988__MQ_9_Reaper_Fiberglass_2500mm_FPV_ARF_.html) cool.
+- [Van's RV-9](http://www.e-fliterc.com/Products/Default.aspx?ProdID=EFL2775) too cool, experimental!
 
 ### Surface Control
 
