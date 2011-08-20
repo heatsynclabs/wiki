@@ -63,3 +63,7 @@ How do we monitor the battery? (Shut the engine off and glide in for a landing?)
 ## Software Design
 
 How they system is layout in software. [UAS/Design/Software](UAS-Design-Software)
+
+# See Also
+
+- [Ardupilot Mega](http://code.google.com/p/ardupilot-mega/downloads/list) -- Can we reuse any libraries?
