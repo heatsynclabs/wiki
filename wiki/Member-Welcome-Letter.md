@@ -1,4 +1,4 @@
-Greetings Amre!
+Greetings \[Name\]!
 
 As the board member contact for operations, I'd like to welcome you to HeatSync Labs and thank you again for supporting us. We're open M-F 7pm-10pm, and often outside these hours as well. You may find the discussion board at <http://groups.google.com/group/heatsynclabs> , the webcams at live.heatsynclabs.org and the @heatsyncstatus twitter account helpful to get involved and monitor lab activity.
 
