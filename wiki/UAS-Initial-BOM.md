@@ -17,11 +17,19 @@ The following as interesting and already in inventory: Arduino Decemilia, Arduin
 - This is the initial sensor package:
   - [LS20031 GPS](http://www.pololu.com/catalog/product/1249)
   - [Accelerometer](http://www.pololu.com/catalog/product/1250) (3 axis) also includes magnetometer
+  - [Barometric Pressure/Temperature Sensor](http://www.pololu.com/catalog/product/1617) (We might need greater accuracy.)
   - [Gyro](http://www.pololu.com/catalog/product/1272) (3 axis)
   - [Proximity Sensor](http://www.pololu.com/catalog/product/723)
-  - [Barometric Pressure/Temperature Sensor](http://www.pololu.com/catalog/product/1617) (We might need greater accuracy.)
 
-<!-- -->
+|                                     |               |             |
+|-------------------------------------|---------------|-------------|
+| Sensor Type                         | Nominal Power | Voltage Req |
+| GPS Module (LS20031)                | 29.000 mA     | 3.0 - 4.2 V |
+| Compass & Accelerometer (LSM303DLH) | 00.830 mA     | 2.5 - 3.3 V |
+| Barometer (MPL115A1)                | 00.010 mA     | 2.4 - 5.5 V |
+| 3-Axis Gyro (L3G4200D)              | 06.100 mA     | 2.4 - 3.6 V |
+| Sonar Range Finder (MB1000)         | 02.000 mA     | 2.5 - 5.5 V |
+| Total                               | 37.940 mA     |             |
 
 - still looking for a good altimeter, a replacement for DTED lookup
 
@@ -56,10 +64,10 @@ These are interesting alternatives:
 - [Servos](http://www.hobbypartz.com/standardservos.html) X 4
   - want light ones, but strong enough to control the surfaces, might need to get the craft before we order/change the servos
 
-## Coms
+## Comms
 
 - XBee PRO 900 XSC? or...?
 
-## Misscelaneous
+## Miscellaneous
 
 - [Camera?](http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=13987)
