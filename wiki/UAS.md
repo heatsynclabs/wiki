@@ -13,7 +13,8 @@ The goal of this project is to create an Automatic Flight System for use, initia
 - Command surfaces.
 - Command throttle.
 - Demonstrate RTS/preflight.
-- Short, straight line flight coupled with "safe" landing.
+- Unpowered straight line flight coupled with "safe" landing.
+- Powered, short straight line flight coupled with "safe" landing.
 - Fly an oval retaining a static altitude
 - Circle up to altitude, then circle back down and land.
 - Circle up to altitude, then dive down and land.
