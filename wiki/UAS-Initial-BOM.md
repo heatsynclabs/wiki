@@ -18,7 +18,7 @@ The following as interesting and already in inventory: Arduino Decemilia, Arduin
   - [LS20031 GPS](http://www.pololu.com/catalog/product/1249)
   - [Accelerometer](http://www.pololu.com/catalog/product/1250) (3 axis) also includes magnetometer
   - [Barometric Pressure/Temperature Sensor](http://www.pololu.com/catalog/product/1617) (We might need greater accuracy.)
-  - [Gyro](http://www.pololu.com/catalog/product/1272) (3 axis)
+  - [L3G4200D Gyro](http://www.pololu.com/catalog/product/1272) (3 axis) also has a temp sensor
   - [Proximity Sensor](http://www.pololu.com/catalog/product/723)
 
 |  |  |  |  |
