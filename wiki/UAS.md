@@ -48,9 +48,10 @@ This are some interesting, potentially practical uses:
 
 See [UAS/Design](UAS-Design)
 
-## Bill of Materials (BOM)
+## Implementation
 
-See [UAS/Initial_BOM](UAS-Initial-BOM)
+- Hardware [UAS/Initial_BOM](UAS-Initial-BOM)
+- Software [UAS/Software](UAS-Software)
 
 #### Assumptions
 
