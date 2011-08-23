@@ -5,3 +5,7 @@ A lot of the information of this page comes from the datasheets, but it has been
 this units provides dps (degrees per seconds) as well as temperature
 
 ## Registers
+
+### WHO_AM_I (0x0F)
+
+writing to register 0x0f should return the value 0xD3 11010011(binary) D3(hex) or 211 (dec)
