@@ -55,6 +55,10 @@ See [UAS/Design](UAS-Design)
 
 #### Assumptions
 
+## Developers Notes
+
+- [UAS/Notes](UAS-Notes)
+
 # See Also
 
 - [INS](http://en.wikipedia.org/wiki/Inertial_navigation_system) @ Wikipedia
