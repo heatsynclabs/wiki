@@ -9,3 +9,11 @@ this units provides dps (degrees per seconds) as well as temperature
 ### WHO_AM_I (0x0F)
 
 writing to register 0x0f should return the value 0xD3 11010011(binary) D3(hex) or 211 (dec)
+
+### Register 4 (0x23)
+
+control register
+
+this is how we are configuring the device\
+BDU BLE FS1 FS0 --- ST1 ST0 SIM\
+0 0 1 1 0 0 0 0
