@@ -2,7 +2,7 @@
 
 This page is a place holder for a future Thursday Night Presentation.
 
-You really shouldn't read this, yet.
+**You really shouldn't read this, yet.**
 
 Here are some initial ideas for topics:
 
