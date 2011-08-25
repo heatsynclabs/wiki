@@ -30,3 +30,4 @@ Here are some initial ideas for topics:
   - typing
   - avoid setting default values, have the compiler tell you when a garbage value might get used (this is a defect)
   - avoid default in switches
+- if/else -- smaller goes near the test
