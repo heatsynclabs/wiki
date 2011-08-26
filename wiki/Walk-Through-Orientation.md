@@ -13,6 +13,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - Guest sponsorships
 - Public/private space
   - No taking equipment offsite or touching people's boxes/lockers.
+  - Public stuff shouldn't be left in your box, your stuff shouldn't be left laying around the lab.
 - How to fix/connect to wifi (hacktheplanet)
 - Parking (dedicated, hour enforcement, street parking)
 
@@ -26,6 +27,12 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - Training, culture
   - Cleaning supplies
   - Trash cans, bathroom, tool/floor cleaning
+
+<!-- -->
+
+- Some equipment requires certification before use.
+  - Generally speaking, ask a member prior to using a tool you haven't used in the lab before. We do things differently than at your home, ask so you know how to use OUR tools right.
+- Don't disassemble or borrow tools or workstation parts as it'll render the tool unusable/messy.
 
 <!-- -->
 
