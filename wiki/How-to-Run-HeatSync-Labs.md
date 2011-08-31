@@ -8,6 +8,7 @@ This is a list of responsibilities (what is expected of the position), as well a
 - Serve on committees
 - Fundraise
 - Evangelize HeatSync
+- Staff HSL personally or find someone to to make sure we're 'open' 7pm-10pm
 
 ## Champion
 
