@@ -13,23 +13,26 @@ This is a list of responsibilities (what is expected of the position), as well a
 ## Champion
 
 - Physical face of HeatSync, primary contact point
-- Present for most events
-- Host/life of the party
-- Leader
 - Checks/Balances (treasurer, etc)
 - Vision, on track and clearly conveyed, the "why"
-- Set and clarify expectations of positions
-- Understand/track all aspects of HeatSync
-- Accountability, Follow-up
-- Empower/motivate
-- Delegator
-- Focus
-- Mediate
+- Find holes in responsibility and plug them personally if need be
+- Lead or make sure initiatives important to HSL are lead, for instance (and entirely for example):
+  - Makerfaire committee
+  - build out of individual stations (3d printing, microcontrollers)
+  - grand opening/birthday party
+  - donor relations
+  - lego league/young inventors
 - Communication (to/from board, to new people "no wallflowers!", connect people, to partners, getting and keeping contacts)
-- Decider
-- Clarity
-- Soliciting for membership
-- Presentation
+- Be:
+  - Present for most events
+  - Host/life of the party
+  - a Leader
+  - able to understand/track all aspects of HeatSync
+  - in charge of Accountability, Follow-up
+  - Empowering/motivating
+  - Delegating
+  - Mediating
+  - Deciding
 
 ## Treasurer
 
