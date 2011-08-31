@@ -4,7 +4,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 
 - Member agreement/rules
   - Wiki
-- Liability waiver
+- [Liability waiver](Liability-waiver)
 
 <!-- -->
 
