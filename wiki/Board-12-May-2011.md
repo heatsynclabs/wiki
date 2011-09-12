@@ -17,7 +17,9 @@ HeatSync Labs
 
 **Members Present:** Nate Caine, Tim Moffat, Robert Bell, Zachary Giles, Jasper Nance, Harold Meier, Karl Kammerzell, Andrew Bowerman, Nathan Plamandon
 
-Jeremy Leung acting Chairman- will not be voting in order to resolve tie, Will Bradley AV, David Huerta timing, Jacob Rosenthal acting secretary. Call to order 7:18
+Jeremy Leung acting Chairman- will not be voting in order to resolve tie, Will Bradley AV, David Huerta timing, Jacob Rosenthal acting secretary.
+
+Call to order 7:18
 
 # Comments From Members
 
