@@ -21,15 +21,16 @@ The following as interesting and already in inventory: Arduino Decemilia, Arduin
   - [L3G4200D Gyro](http://www.pololu.com/catalog/product/1272) (3 axis) also has a temp sensor
   - [Proximity Sensor](http://www.pololu.com/catalog/product/723)
 
-|  |  |  |  |
-|----|----|----|----|
-| Sensor Type | Nominal Power | Voltage Req | Temp Ranges (C) |
-| GPS Module (LS20031) | 29.000 mA | 3.0 - 4.2 V |  |
-| Compass & Accelerometer (LSM303DLH) | 00.830 mA | 2.5 - 3.3 V |  |
-| Barometer (MPL115A1) | 00.010 mA | 2.4 - 5.5 V |  |
-| 3-Axis Gyro (L3G4200D) | 06.100 mA | 2.4 - 3.6 V | -40 to +85 |
-| Sonar Range Finder (MB1000) | 02.000 mA | 2.5 - 5.5 V |  |
-| **Total** | **37.940 mA** | **3.0 - 3.3 V** |  |
+|  |  |  |  |  |
+|----|----|----|----|----|
+| Sensor Type | Nominal Power | Voltage Req | Temp Ranges (C) | Data Pins Required |
+| GPS Module (LS20031) | 29.000 mA | 3.0 - 4.2 V |  |  |
+| Compass & Accelerometer (LSM303DLH) | 00.830 mA | 2.5 - 3.3 V | ??? | 2 (i2c) |
+| Barometer (MPL115A1) | 00.010 mA | 2.4 - 5.5 V |  |  |
+| 3-Axis Gyro (L3G4200D) | 06.100 mA | 2.4 - 3.6 V | -40 to +85 | 2 (i2c) |
+| Sonar Range Finder (MB1000) | 02.000 mA | 2.5 - 5.5 V |  |  |
+| Accelerometer (ADXL335) | 00.350 mA | 1.8 - 3.6 V | -40 + 85 | 3 (analog) |
+|  |  |  |  |  |
 
 - still looking for a good altimeter, a replacement for DTED lookup
 
