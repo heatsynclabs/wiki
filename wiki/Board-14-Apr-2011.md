@@ -22,11 +22,19 @@ Any written materials distributed to the Board in connection with this agenda w
 
 # Call to Order and Roll Call
 
-Board Members Present: Will Bradley, Jose Diaz, Jeremy Leung, Jacob Rosenthal, Joyce Tang Board Members Late: David Huerta
+Board Members Present: Will Bradley, Jose Diaz, Jeremy Leung, Jacob Rosenthal, Joyce Tang
 
-Members Present: David Good, Ryan Rix, Zach Giles Members Late:
+Board Members Late: David Huerta
 
-Jeremy Leung acting Chairman, Will Bradley timing, Jacob Rosenthal acting secretary. Call to order 7:06 Vote to approve March 10 Minutes. Unanimous consent. Approved.
+Members Present: David Good, Ryan Rix, Zach Giles
+
+Members Late:
+
+Jeremy Leung acting Chairman, Will Bradley timing, Jacob Rosenthal acting secretary.
+
+Call to order 7:06
+
+Vote to approve March 10 Minutes. Unanimous consent. Approved.
 
 # Comments From Members:
 
