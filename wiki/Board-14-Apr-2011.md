@@ -46,15 +46,15 @@ David Good would like to second this. Also concerned with liability insurance wi
 
 # Director Report:
 
-Champion: Jacob speaks to Ryan and David - Secrecy not ideal, looking where that line begins and ends. Asks memberships to push back and help us find that line. As to safety we are very interested in revising shop procedures as insurance is requesting this anyway. Looking for volunteers to help us do this.
+**Champion:** Jacob speaks to Ryan and David - Secrecy not ideal, looking where that line begins and ends. Asks memberships to push back and help us find that line. As to safety we are very interested in revising shop procedures as insurance is requesting this anyway. Looking for volunteers to help us do this.
 
-Marketing/PR: Joyce looking to clarify board member dues payment in financial hardship times
+**Marketing/PR:** Joyce looking to clarify board member dues payment in financial hardship times
 
-Treasurer: 990’s distributed to board members, jose is going to approve and send in. Around 24 members right now.
+**Treasurer:** 990’s distributed to board members, jose is going to approve and send in. Around 24 members right now.
 
-IT: Looking to run more classes/workshops even if they’re very informal to get everyone up to speed on safety and use of machines. Speaking to spaces committee worries, Worried to stress an entire community with possibilities. Maybe better to not know than to know sometimes.
+**IT:** Looking to run more classes/workshops even if they’re very informal to get everyone up to speed on safety and use of machines. Speaking to spaces committee worries, Worried to stress an entire community with possibilities. Maybe better to not know than to know sometimes.
 
-Champion: Jeremy speaks that another concern with spaces was misinformation. Disappointment. To safety, looking to ‘reset’ many things as we move to this new location.
+**Champion:** Jeremy speaks that another concern with spaces was misinformation. Disappointment. To safety, looking to ‘reset’ many things as we move to this new location.
 
 # Old Business
 
