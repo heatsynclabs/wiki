@@ -40,7 +40,9 @@ Vote to approve March 10 Minutes. Unanimous consent. Approved.
 
 At this time Members whose dues are in good and current standing shall have an opportunity to comment on any item relevant to the subject matter jurisdiction of the Board. This opportunity is non-transferable and speakers are limited to a single one (1) minute comment.
 
-Ryan Rix - Concerned with secrecy of spaces committee David Good would like to second this. Also concerned with liability insurance with recent spate of lathe accidents reported in national news.
+Ryan Rix - Concerned with secrecy of spaces committee
+
+David Good would like to second this. Also concerned with liability insurance with recent spate of lathe accidents reported in national news.
 
 # Director Report:
 
@@ -56,7 +58,11 @@ Champion: Jeremy speaks that another concern with spaces was misinformation. Dis
 
 # Old Business
 
-Report from Location Committee Jeremy -- Regret that leases have not come through yet and as previously stated feel we cant present. Will -- As the person who even made the original motion for this report, the recommendation from the locations committee simply can’t be presented yet as we don’t have the details.
+Report from Location Committee
+
+Jeremy -- Regret that leases have not come through yet and as previously stated feel we cant present.
+
+Will -- As the person who even made the original motion for this report, the recommendation from the locations committee simply can’t be presented yet as we don’t have the details.
 
 # New Business
 
@@ -64,7 +70,13 @@ Report from Location Committee Jeremy -- Regret that leases have not come throug
 
 David Huerta- Motion to suspend \$100 monthly tool budget Moving means paying rent, means no money to spend on other things. Tighten belts. Suspend until future date not specified.
 
-**Discussion:** Jacob - Supports motion. Sad to see it go. Big part of investing our people in their workshop. Dues only pays rent sadly. Jose - Supports motion. Fiscally can’t support right now, looking forward to bringing back in year or whatever when we’re financially stable. Will - Supports, but would like to see it brought back when possible. Jeremy - Likes original motion, but does support this repeal. Let community guide needs of lab, not the board. Would like to see brought back. Suggests the community continues this thread without board money.
+**Discussion:** Jacob - Supports motion. Sad to see it go. Big part of investing our people in their workshop. Dues only pays rent sadly.
+
+Jose - Supports motion. Fiscally can’t support right now, looking forward to bringing back in year or whatever when we’re financially stable.
+
+Will - Supports, but would like to see it brought back when possible.
+
+Jeremy - Likes original motion, but does support this repeal. Let community guide needs of lab, not the board. Would like to see brought back. Suggests the community continues this thread without board money.
 
 **Vote:** Jeremy calls for unanimous consent. Motion Approved Unanimously.
 
@@ -72,13 +84,21 @@ David Huerta- Motion to suspend \$100 monthly tool budget Moving means paying re
 
 Will Bradley - Motion to accept Andrea's resignation and appoint Jacob Rosenthal acting secretary.
 
-**Discussion:** Jacob talks about moving to split our board away from operations/staff and board (ethics, mission). Looking to remove secretary and resources manager next month unless hears otherwise from membership. David - Agrees board should not be operational. Should actively try to recruit people from inside community for these staff positions. Jeremy - Mentions this conflict is not unnatural, happens with all young boards. Will - Operational issues up to very large purchases should be handled by community not a board.
+**Discussion:** Jacob talks about moving to split our board away from operations/staff and board (ethics, mission). Looking to remove secretary and resources manager next month unless hears otherwise from membership.
+
+David - Agrees board should not be operational. Should actively try to recruit people from inside community for these staff positions.
+
+Jeremy - Mentions this conflict is not unnatural, happens with all young boards.
+
+Will - Operational issues up to very large purchases should be handled by community not a board.
 
 **Vote:** Jeremy calls for Unanimous vote. Motion passes unanimously.
 
 ## Motion 3
 
-Will Bradley - Motion to accept the Spaces Committee's recommended location. Will - Requests to table as we don’t have a recommendation at this time. As individuals pushes to get a recommendation as soon as possible and call a special session as soon as possible.
+Will Bradley - Motion to accept the Spaces Committee's recommended location.
+
+Will - Requests to table as we don’t have a recommendation at this time. As individuals pushes to get a recommendation as soon as possible and call a special session as soon as possible.
 
 **Discussion:** David-requests a special meeting before the next meeting.
 
@@ -86,10 +106,14 @@ Will Bradley - Motion to accept the Spaces Committee's recommended location. Wil
 
 ## Motion 4
 
-Will Bradley - Motion to give the office of the Champion authority to enter into location-related contracts on HeatSync's behalf. Will - Last time board felt wording was strong, bringing back with understanding that the intent that Jeremy or Jacob would be authorized to do specific things or make specific choices, but that they be authorized persons to put their names on contracts etc. Reason being unless authorized when time comes will not be legally able.
+Will Bradley - Motion to give the office of the Champion authority to enter into location-related contracts on HeatSync's behalf.
+
+Will - Last time board felt wording was strong, bringing back with understanding that the intent that Jeremy or Jacob would be authorized to do specific things or make specific choices, but that they be authorized persons to put their names on contracts etc. Reason being unless authorized when time comes will not be legally able.
 
 **Vote:** Jeremy calls for Unanimous vote. Motion passes unanimously.
 
 # Adjournment
 
-Vote: Jeremy calls for Unanimous vote on adjournment. Motion passes unanimously. Meeting Adjourned at 7:47.
+**Vote:** Jeremy calls for Unanimous vote on adjournment. Motion passes unanimously.
+
+Meeting Adjourned at 7:47.
