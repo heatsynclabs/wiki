@@ -15,3 +15,5 @@ some algorithum i found
 
 - Calculate the magnetic heading with this compensated components:
   - MAG_Heading = Atan(CMy/CMx)
+
+<http://code.google.com/p/sf9domahrs/> might have the code we are looking for.
