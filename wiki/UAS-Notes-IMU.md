@@ -2,6 +2,13 @@
 
 The IMU was are going to create will consist of an 3 axis acceleration, a 3axis gyroscope, a 3 axis magnetometer, and a barometer. These combined will give us 10 degrees of freedom.
 
+**6 dof algorithm**\
+Here is what our algorithm will do:\
+\- accelerometer tells us: "You are now at position Racc"\
+\- we say "Thank you, but let me check",\
+\- then correct this information with gyroscope data as well as with past Rest data and we output a new estimated vector Rest.\
+\- we consider Rest to be our "best bet" as to the current position of the device.\
+
 some algorithum i found
 
 - Read the 3 axis magnetometer data
