@@ -142,8 +142,6 @@ See [Laser Cutter](Laser-Cutter)
 - Keep your fingers clear of the rotating work and cutting tools. This sounds obvious, but I am often tempted to break away metal spirals as they form at the cutting tool.
 - Avoid reaching over the spinning chuck. For filing operations, hold the tang end of the file in your right with the elbow of the left arm held high above the headstock of the machine. Your body should be in front of the headstock, NOT the file itself in case the file snags and is thrown toward you.
 - Never use a file with a bare tang - the tang could be forced back into your wrist or palm. Inexpensive wooden handles are readily available for common file sizes.
-  - You must clean up dust AND/OR you must not grind aluminum
-    - Aluminum dust can ignite and cause extreme injury
 
 ### Welder
 
