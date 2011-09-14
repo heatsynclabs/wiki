@@ -135,12 +135,12 @@ See [Laser Cutter](Laser-Cutter)
 - Always wear eye protection - preferably industrial quality safety glasses with side-shields. The lathe can throw off sharp, hot metal chips at considerable speed as well as spin off spirals of metal that can be quite hazardous. Don't take chances with your eyes.
 - Wear short sleeve shirts, if possible, or shirts with snugly fitting cuffs if long sleeve. Loose sleeves can catch on rotating work and quickly pull your hand or arm into harm's way.
 - Wear shoes - preferably leather work shoes - to protect your feet from sharp metal chips on the shop floor and from tools and chunks of metal that may get dropped.
-- Remove wrist watches, necklaces, chains and other jewelry. It's a good idea even to remove your wedding ring since it can catch on rotating work and severely damage your ring finger and hand.
+- Remove wrist watches, necklaces, chains and other jewelry. Remove your wedding ring too; it can catch on rotating work and severely damage your ring finger and hand.
 - Tie back long hair so it can't get caught in the rotating work. Think about what happens to your face if your hair gets entangled.
 - Always double check to make sure your work is securely clamped in the chuck or between centers before starting the lathe. Start the lathe at low speed and increase the speed gradually.
 - Get in the habit of removing the chuck key immediately after use. Some users recommend never removing your hand from the chuck key when it is in the chuck. The chuck key can be a lethal projectile if the lathe is started with the chuck key in the chuck.
 - Keep your fingers clear of the rotating work and cutting tools. This sounds obvious, but I am often tempted to break away metal spirals as they form at the cutting tool.
-- Avoid reaching over the spinning chuck. For filing operations, hold the tang end of the file in your left hand so that your hand and arm are not above the spinning chuck.
+- Avoid reaching over the spinning chuck. For filing operations, hold the tang end of the file in your right with the elbow of the left arm held high above the headstock of the machine. Your body should be in front of the headstock, NOT the file itself in case the file snags and is thrown toward you.
 - Never use a file with a bare tang - the tang could be forced back into your wrist or palm. Inexpensive wooden handles are readily available for common file sizes.
   - You must clean up dust AND/OR you must not grind aluminum
     - Aluminum dust can ignite and cause extreme injury
