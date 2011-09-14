@@ -14,6 +14,9 @@ Facilities
   - Nate Caine
 - Wood & Metal Shop
   - Tim Moffat
+- Space Enforcers
+  - Marita Ogden
+  - Maya Kessler
 
 Blogging & Code
 
