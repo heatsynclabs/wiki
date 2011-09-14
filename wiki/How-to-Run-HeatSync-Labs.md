@@ -79,3 +79,16 @@ Also see [ Office of Treasurer HowTo](Treasurer-Howto)
 - MEMBER Accountability
 
 Articles, bylaws(WIKI), resolutions dealing with member rights(none atm?), minutes for past 3 years(in binder),actions taken by committees, written communications to members for 3 years(we dont have single channel for this, can we just say google groups?), names and business addresses of current directors and officers(make list), most recent annual report(state corporation commission report), member agreements, accounting records, membership list, most recent financial statements (very broad discretion here...)
+
+## Operations
+
+The Operations manager should be good at inspiring volunteers, delegating, following up, and taking tasks on themselves as necessary. In order to be effective and to keep HeatSync a community-oriented endeavor, they should not attempt to do everything themselves or dictate policy. Rather, they should help community members reach a productive consensus and achieve common goals together, only rarely stepping in to make decisions when the community is deeply divided.
+
+- Delegate and coordinate ongoing tasks including:
+  - Membership (welcoming, training, card access, suspension/revocation)
+  - Community Governance (community voting, mailing list moderation, mediation)
+  - IT (upkeep of tech behind website, wiki, internet, door access, wifi)
+  - Marketing (regular photo, video, and text content on blog, social media, signage, and print)
+  - Location (cleaning, maintenance, building projects, allocation, provisioning/placement, quoting and construction)
+- Facilitate communication between the community, volunteers, operations team, and board as necessary
+- Coordinate interaction with third parties such as vendors, landlord, city
