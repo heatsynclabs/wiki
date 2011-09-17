@@ -3,10 +3,12 @@
 - Chassis/pen holder
   - custom part, will need to build in house
 - 2 x suction cups (mount points for belts)
-- 2 x stepper drivers (or 1 that controls 2)
+- 2 x stepper drivers
+  - H Bridge power control [TI 1320](http://octopart.com/sn754410ne-texas+instruments-1320)
 - 2 x stepper motors
 - 2 x toothed belt pulleys
-- 2 x toothed belts (or 1 long one)
+- 20 ft toothed belt
+  - [7959521](http://www.mcmaster.com/#timing-belts/=e3syw4) -- Trapezoidal-Tooth Neoprene Belting Mxl Trade Size, .080" Pitch, 1/4" Width -- \$1.84/foot
 - 1 x servo (for controlling pen?)
 - 1 x Arduino
 
