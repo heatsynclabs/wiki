@@ -7,6 +7,7 @@
   - H Bridge power control [TI 1320](http://octopart.com/sn754410ne-texas+instruments-1320)
 - 2 x stepper motors
   - go w/ 5mm shaft
+  - need 40ish oz/in?
 - 2 x toothed belt pulleys
   - go w/ 5mm shaft
 - 20 ft toothed belt
