@@ -6,7 +6,9 @@
 - 2 x stepper drivers
   - H Bridge power control [TI 1320](http://octopart.com/sn754410ne-texas+instruments-1320)
 - 2 x stepper motors
+  - go w/ 5mm shaft
 - 2 x toothed belt pulleys
+  - go w/ 5mm shaft
 - 20 ft toothed belt
   - [7959521](http://www.mcmaster.com/#timing-belts/=e3syw4) -- Trapezoidal-Tooth Neoprene Belting Mxl Trade Size, .080" Pitch, 1/4" Width -- \$1.84/foot
 - 1 x servo (for controlling pen?)
