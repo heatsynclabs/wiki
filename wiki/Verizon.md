@@ -24,17 +24,9 @@ Join us.
 
 The focus of this project is directed towards the blind and/or low vision. For those with full vision or who can have nearly full vision with the assistance of aids such as magnifying glass or screen magnifier does not need such a program or modification in hardware. If the user is blind or unable to see a screen and relies on a screen reader the new interface of Arduino will give them full functionality of the programming tools. Also for someone who cannot accurately detect and make use of the hardware as needed, the new modified hardware will give the representation necessary to build proficiently. As a direct result of the program blind and low vision users who have not yet had equal access to building and programming a micro processor to date will now have complete and unequivocal independence in building and programming.
 
-## For Whom Will You Address This Cause Description
-
-Specifically state for whom you will address this cause.
-
 ## For Whom Will You Address This Cause
 
 The program will directly effect the blind and low vision technology enthusiasts around the world who have never before had access to programming or building on a micro processor. As an open source program the Arduino IDE will benefit blind users around the world with a simple download. The Arduino hardware is a micro processor that is low in cost ranging any where from \$30 to \$80 depending on the components included.
-
-## Providing Service Description
-
-What level of intensity (i.e. frequency of service) and duration (i.e. period in which you provide service for a person) are needed for your approach to deliver results? Once you give the number add your thought on rationale.
 
 ## Providing Service
 
@@ -48,7 +40,7 @@ A direct partner for our program should be blind schools such as state schools f
 
 I think this could be useful if we get to a point where we need drivers to locations, assistance in training, or in making calls for feedback and stats.
 
-# Mission
+## Mission
 
 HeatSync Labs' mission is to provide the tools, space and the community for students, entrepreneur, artists and garage tinkerers to come together and create their dreams. We are a community workshop which promotes Do-It-Yourself science and education and prides ourselves on application -in addition- to theory.
 
