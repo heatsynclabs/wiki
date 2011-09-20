@@ -106,6 +106,8 @@ We will utilize our members and connections to the blind community to leverage o
 
 Empower the blind to solve problems for themselves. Create the tools to open up embedded system design programs across the country for the blind.
 
+Be able to hold and understand a commodity microcontroller board, utilize the programming environment through their screen reader, hold commodity products and understand them and how they connect, read schematics, develop prototypes to enrich their lives.
+
 # How will you know?
 
 # Percentage user reached?
