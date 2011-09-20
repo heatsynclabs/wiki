@@ -118,9 +118,7 @@ To do this we will need to hire a software engineer to modify the IDE, a hardwar
 
 # Intended Outcomes
 
-Empower the blind to solve problems for themselves. Create the tools to open up embedded system design programs across the country for the blind.
-
-Be able to hold and understand a commodity microcontroller board, utilize the programming environment through their screen reader, hold commodity products and understand them and how they connect, read schematics, develop prototypes to enrich their lives.
+We will empower the blind to solve problems for themselves by making the tools of creation accessible. Specifically blind and low vision users will be able to hold and understand a commodity microcontroller board, utilize the programming environment through their screen reader, hold commodity products and understand them and how they connect, read schematics, and develop prototypes to enrich their lives.
 
 # How will you know?
 
