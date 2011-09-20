@@ -102,8 +102,6 @@ I think this could be useful if we get to a point where we need drivers to locat
 
 # Mission
 
-## Draft
-
 HeatSync Labs' mission is to provide the tools, space and the community for students, entrepreneur, artists and garage tinkerers to come together and create their dreams. We are a community workshop which promotes Do-It-Yourself science and education and prides ourselves on application -in addition- to theory.
 
 Our vision is a world where we re-awaken our population and reinstate the knowledge of creation in opposition to our throw-away society. We will empower our population delivering the confidence to once compete on a global scale.
@@ -111,8 +109,6 @@ Our vision is a world where we re-awaken our population and reinstate the knowle
 Our Strategy is to empower, one on one, our members with the tools, resources, space, and if possible money to bring their dreams to fruition. The organization itself has no purpose but to support these missions. Beuracracy and overhead are to be avoided. We want to program in cell death so that if we ever lose our focus or have no reason to exist anymore, that we finally die. Apoptosis.
 
 # Achievements
-
-## Draft
 
 Monthly we run a free to attend arduino workshop where we train kids to adults how to program microcontrollers. Hundreds of people, from children to adults have attended our monthly meetings with the goal of empowering themselves with technology to solve their own problems. MORE HERE
 
@@ -156,8 +152,6 @@ Throughout this past year we also took time out to coach a pair of First Lego Le
 
 # Similar Groups
 
-## Draft
-
 We're most like a traditional academic incubator model mixed with the newer coworking model. Entreprenuers and skilled tradespeople who don't wish to work in an office alone but would rather work side by side with the other brightest minds in the community in order to build their workspace in public
 
 More specifically, we are part of a larger maker/do-it-yourself culture exemplified by Make Magazine. There are spaces are popping up throughout the united states, and globally, all with different visions and goals, but all listing themselves at hackerspaces.org.
@@ -168,35 +162,21 @@ What makes us different from all these is our focus on infrastructure. It has be
 
 # Participants
 
-## Draft
-
 We will utilize our members and connections to the blind community to leverage our technological skills. We are technologists who have several blind in our midst, friends and families. In addition we will utilize our allies within the blind community including XXXX
 
 # Approach
 
-## Draft
-
 # Intensity of Approach
 
-## Draft
-
 # Intended Outcomes
-
-## Draft
 
 Empower the blind to solve problems for themselves. Create the tools to open up embedded system design programs across the country for the blind.
 
 # How will you know?
 
-## Draft
-
 # Percentage user reached?
 
-## Draft
-
 # Broader Gains?
-
-## Draft
 
 Our goal is to release all of our work as open source, available for any other people to use and improve upon, meaning this work will only need to be funded and completed once for everyone to begin to see the benefits. Our code will all be accepted in to the main Arduino project.
 
@@ -204,12 +184,6 @@ The design files will be available under open licenses, as well, allowing anyone
 
 # Half Way goal?
 
-## Draft
-
 # Key People
 
-## Draft
-
 # Key partners/intermediaries
-
-## Draft
