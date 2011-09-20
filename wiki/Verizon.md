@@ -22,7 +22,7 @@ Join us.
 
 ## Program Participants
 
-The focus of this project is directed towards the blind and/or low vision. For those with full vision or who can have nearly full vision with the assistance of aids such as magnifying glass or screen magnifier does not need such a program or modification in hardware. If the user is blind or unable to see a screen and relies on a screen reader the new interface of Arduino will give them full functionality of the programming tools. Also for someone who cannot accurately detect and make use of the hardware as needed, the new modified hardware will give the representation necessary to build proficiently. As a direct result of the program blind and low vision users who have not yet had equal access to building and programming a micro processor to date will now have complete and unequivocal independence in building and programming.
+The focus of this project is directed towards the blind and/or low vision. Students, professionals, kids, adults, it doesn't matter. Anyone with a passion for technology and a love of problem solving and learning.
 
 ## For Whom Will You Address This Cause
 
