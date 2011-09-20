@@ -1,5 +1,3 @@
-# Bryan's Journal
-
 ## Proposal Narrative
 
 It wasn't all easy, though. Yes, the Arduino language was very simple to use, they teach it to children to learn basic computer programming and engineering, but the user interface was not accessible at all. Also the hardware isn't designed for the blind to identify or connect components. I knew there was potential for this device for blind people, but some work would need to be done. This device and its programming language could be a huge break through for the blind community if it could just be made accessible. If the micro processor could control robots, access wifi, control cameras, lights, speakers, and lots of other components for the users who use it, why could it not do the same for the blind. There are devices out for the blind that cost hundreds of dollars if not thousands that assist them in measuring water, reading colors, and notifying them of things around them. With the Arduino the blind person could program their own device to do these same functions for a fraction of the cost, or solve NEW problems.
