@@ -3,6 +3,7 @@
 - Chassis/pen holder
   - custom part, will need to build in house
 - 2 x suction cups (mount points for belts)
+  - <http://www.mcmaster.com/#suction-cups/=e59uu8>
 - 2 x stepper drivers
   - H Bridge power control [TI 1320](http://octopart.com/sn754410ne-texas+instruments-1320)
 - 2 x stepper motors
