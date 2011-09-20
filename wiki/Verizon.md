@@ -32,10 +32,6 @@ LACK OF POWER. This led to one of the biggest disappointments in recent memory a
 
 Still to this day I have not been able to find a degree in what I truly want to do for the reason that access is not yet available for the blind in the technology world.
 
-## Proposal Narrative Discription
-
-Please provide us with a summary of your program or project in the spaces below. Please be very focused in your responses so that we may gain an understanding of your program/project. In "What you will do", for example, summarize what your program/project does to achieve results for those it serves.
-
 ## Proposal Narrative
 
 It wasn't all easy, though. Yes, the Arduino language was very simple to use, they teach it to children to learn basic computer programming and engineering, but the user interface was not accessible at all. Also the hardware isn't designed for the blind to identify or connect components. I knew there was potential for this device for blind people, but some work would need to be done. This device and its programming language could be a huge break through for the blind community if it could just be made accessible. If the micro processor could control robots, access wifi, control cameras, lights, speakers, and lots of other components for the users who use it, why could it not do the same for the blind. There are devices out for the blind that cost hundreds of dollars if not thousands that assist them in measuring water, reading colors, and notifying them of things around them. With the Arduino the blind person could program their own device to do these same functions for a fraction of the cost, or solve NEW problems.
@@ -60,10 +56,6 @@ The issue blind people are facing lies in accessibility to tools that would make
 
 Join us.
 
-## Program Participants Description
-
-Who are your program participants and how many will you serve? What are the key characteristics of these participants and are they in any way different from the full set of people who have the problem? In characteristics, we are interested not just in such factors as gender and race, but also defining who you serve by the degree of the challenge to get to the result you intend. We know, for example, that it is much harder to get children to the right literacy level if they are two, rather than one, grades behind in reading and if their primary language is not English. Please know that we view it as a sign of strength that a program/project has defined the people who are most likely to benefit from a particular approach. It is rare that one program is the best fit for everyone.
-
 ## Program Participants
 
 The focus of this project is directed towards the blind and/or low vision. For those with full vision or who can have nearly full vision with the assistance of aids such as magnifying glass or screen magnifier does not need such a program or modification in hardware. If the user is blind or unable to see a screen and relies on a screen reader the new interface of Arduino will give them full functionality of the programming tools. Also for someone who cannot accurately detect and make use of the hardware as needed, the new modified hardware will give the representation necessary to build proficiently. As a direct result of the program blind and low vision users who have not yet had equal access to building and programming a micro processor to date will now have complete and unequivocal independence in building and programming.
@@ -84,17 +76,9 @@ What level of intensity (i.e. frequency of service) and duration (i.e. period in
 
 The Arduino language has great tutorials found online, along with example scripts found right in the menu of the IDE. For the blind users we will provide a detailed layout and description of the hardware,. Also as a supplement to the description of the hardware we will have Braille or tactile labels for each component of the hardware. There are online forums and mailing lists directed towards programmers of the arduino found online at www.sparkfun.com.
 
-## Partners & Organizations Description
-
-The Arduino language has great tutorials found online, along with example scripts found right in the menu of the IDE. For the blind users we will provide a detailed layout and description of the hardware,. Also as a supplement to the description of the hardware we will have Braille or tactile labels for each component of the hardware. There are online forums and mailing lists directed towards programmers of the arduino found online at www.sparkfun.com.
-
 ## Partners & Organizations
 
 A direct partner for our program should be blind schools such as state schools for the Deaf and Blind, and training centers for the blind as in Colorado center for the Blind. Partners like this could be trained and deliver the training to many ethnic backgrounds, age groups, and genders of the blind community.
-
-## Verizon Volunteers Description
-
-Could you possibly use Verizon employees or retirees as volunteers in this or other programs/projects? (required) We'd like to alert Verizon employees and retirees who live or work in your area to your need for more help to go with any financial investment we might make. Please think creatively about how you might use additional hands-many of them are very skilled in a variety of ways as mothers and fathers and civic contributors-not just as productive members of our company.
 
 ## Verizon Volunteers
 
