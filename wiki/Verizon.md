@@ -100,6 +100,20 @@ We will utilize our members and connections to the blind community to leverage o
 
 # Approach
 
+We then must survey and poll the blind and low vision community to find out more about their needs. We intend to hold workshops documenting the struggles blind and low vision users have when attempting to utilize the Arduino platform.
+
+Our goal here is to specifically not reinvent the wheel. We will extend the existing Arduino hardware and software to make them accessible. Our approach will be to talk extensively with existing Arduino community on how to make our changes in such a way that they will be accepted with the least amount of resistance.
+
+Our work will be focused in three areas:
+
+Hardware-figure out a way to leverage existing technologies to represent braille on a pcb to identify components, inputs and outputs --through holes? --solder mask? --label chips somehow? -replace lights with motor or sound feedback
+
+Schematics -its like a map really, how might they see maps now -really should jump in with fritzing somehow
+
+Software-figure out how to make ide interface accessible -rewrite so screen readers can utilize all areas -debug and error messages, line numbers
+
+To do this we will need to hire a software engineer to modify the IDE, a hardware engineer to modify the hardware designs, and a blind liaison to connect with the community and work with us day to day as we develop our solutions.
+
 # Intensity of Approach
 
 # Intended Outcomes
