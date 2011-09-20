@@ -34,7 +34,13 @@ The Arduino language has great tutorials found online, along with example script
 
 ## Partners & Organizations
 
-A direct partner for our program should be blind schools such as state schools for the Deaf and Blind, and training centers for the blind as in Colorado center for the Blind. Partners like this could be trained and deliver the training to many ethnic backgrounds, age groups, and genders of the blind community.
+Locally we have ties with the CUBIC lab at Arizona State University. For a decade they've worked on accessibility problems from the user point of view.
+
+ACBVI locally works to enhance the quality of life for blind and visually impaired. Cubic has worked with them to understand the needs of the blind community and to evaluate products in development.
+
+Other important establishments to reach out to will be blind schools such as state schools for the Deaf and Blind, and training centers for the blind as in Colorado center for the Blind. Partners like this could be trained and deliver the training to many ethnic backgrounds, age groups, and genders of the blind community.
+
+Global community of other makerspaces.
 
 ## Verizon Volunteers
 
