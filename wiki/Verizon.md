@@ -144,9 +144,8 @@ Monthly we run a free to attend arduino workshop where we train kids to adults h
 
 Most recently we had been asked to create a workshop series on soldering and programing for UrbanStew another local nonprofit. Again, we wanted to instill the values of creation, having our attendees actaully BUILD the computer they would eventually program. Demystifying these devices which are increasingly becoming ubiquoutous.
 
-We have hosted over 24 free public educational events this year. Every 1st and 3rd Thursday we invite in a speaker to invigorate us, and them. From materials, to tools, to processes we want to empower our people with the knowledge they need to succeed. Topics have included:
+We have hosted over 24 free public educational events this year. Every 1st and 3rd Thursday we invite in a speaker to invigorate us, and them. From materials, to tools, to processes we want to empower our people with the knowledge they need to succeed. Topics have included: \*Astronomy
 
-- Astronomy
 - Eagle PCB Layout and Design
 - PCB Chemical Etching,Heat Transfer, with FeCl
 - Haptic interfaces
@@ -173,7 +172,9 @@ Most recently our community raised \$10,000 to aquire a laser cutter in order to
 
 We host weekly 3d printing meetup event where we foster the innovative field of personal manufacturing. These devices are finally realizing the promises of the Star Trek Replicator, creating 3d, multi material, objects before your eyes! Even more intersting is the idea of the machine creating the machine. This is the promise delivering Moore's Law for computer chips (exponential increase as the computer designs the next computer) to the mechanical realm!
 
-- Our members have put a balloon payload into nearspace! A team of XXX People planned and executed the development of a payload to survive a trip to ~75k feet and safely return. Anyone from the public was welcome to join the team and learn the multidisciplinary fundamentals necessary to launch an object into nearspace! More than 40 people attended our balloon launch, from children to adults, and helped us 'chase' down the landing.
+- Our members have put a balloon payload into nearspace! A team of XXX People
+
+planned and executed the development of a payload to survive a trip to ~75k feet and safely return. Anyone from the public was welcome to join the team and learn the multidisciplinary fundamentals necessary to launch an object into nearspace! More than 40 people attended our balloon launch, from children to adults, and helped us 'chase' down the landing.
 
 A new team have decided to tackling issues related to solar power generation and storage. The goal is to adapt MIT designs for a solar collector to leverage our location in the Arizona desert to further understand renewable energy solutions and problems.
 
