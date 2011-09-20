@@ -346,7 +346,9 @@ Another impact concerns our methodology. We are showing many education funders t
 
 ## Draft
 
-Our goal is to release all of our work into the public domain. The hardware design files and java patch changes will be accepted into the main project meaning this work will only need to be funded and completed once for all people everywhere to begin to see the benefits.
+Our goal is to release all of our work as open source, available for any other people to use and improve upon, meaning this work will only need to be funded and completed once for everyone to begin to see the benefits. Our code will all be accepted in to the main Arduino project.
+
+The design files will be available under open licenses, as well, allowing anyone to take our designs, modify them and have them manufactured.
 
 # Half Way goal?
 
