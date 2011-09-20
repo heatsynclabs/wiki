@@ -102,8 +102,6 @@ I think this could be useful if we get to a point where we need drivers to locat
 
 # Mission
 
-What is your mission and vision and any key points of approach? If you have any principles or values that are actively used in your programs and management please include them as well.
-
 ## Draft
 
 HeatSync Labs' mission is to provide the tools, space and the community for students, entrepreneur, artists and garage tinkerers to come together and create their dreams. We are a community workshop which promotes Do-It-Yourself science and education and prides ourselves on application -in addition- to theory.
@@ -113,8 +111,6 @@ Our vision is a world where we re-awaken our population and reinstate the knowle
 Our Strategy is to empower, one on one, our members with the tools, resources, space, and if possible money to bring their dreams to fruition. The organization itself has no purpose but to support these missions. Beuracracy and overhead are to be avoided. We want to program in cell death so that if we ever lose our focus or have no reason to exist anymore, that we finally die. Apoptosis.
 
 # Achievements
-
-What have you achieved in the past three years for persons in your programs that are most like the project for which you seek our support?
 
 ## Draft
 
@@ -160,8 +156,6 @@ Throughout this past year we also took time out to coach a pair of First Lego Le
 
 # Similar Groups
 
-In your geographic area what groups are most similar to you? And what differentiates you from them?
-
 ## Draft
 
 We're most like a traditional academic incubator model mixed with the newer coworking model. Entreprenuers and skilled tradespeople who don't wish to work in an office alone but would rather work side by side with the other brightest minds in the community in order to build their workspace in public
@@ -174,27 +168,19 @@ What makes us different from all these is our focus on infrastructure. It has be
 
 # Participants
 
-Who are your participants? What are the characteristics of the people you will actually include in your program and are they in any way different from the full set of people who have the problem within your geographic focus?
-
 ## Draft
 
 We will utilize our members and connections to the blind community to leverage our technological skills. We are technologists who have several blind in our midst, friends and families. In addition we will utilize our allies within the blind community including XXXX
 
 # Approach
 
-What approach are you using to achieve results?
-
 ## Draft
 
 # Intensity of Approach
 
-What level of intensity (i.e. frequency of service) and duration (i.e. period in which you provide service for a person) are needed for your approach to deliver results?
-
 ## Draft
 
 # Intended Outcomes
-
-What results are you committed to achieving — meaning outcomes from services — and for how many persons? Please put the number who achieve in the context of those who participate.
 
 ## Draft
 
@@ -202,19 +188,13 @@ Empower the blind to solve problems for themselves. Create the tools to open up 
 
 # How will you know?
 
-How will you know when your expected results have been achieved? What information or evidence will you use to verify success?
-
 ## Draft
 
 # Percentage user reached?
 
-About how many of the people in your result might reasonably achieve this gain if your program/project were not undertaken? How does your intended result compare with what would have happened without you? That is, how many people would get to the result you state if you did not exist?
-
 ## Draft
 
 # Broader Gains?
-
-Are there broader gains and benefits that will be realized if you are successful that we should be aware of when considering your project/program?
 
 ## Draft
 
@@ -224,18 +204,12 @@ The design files will be available under open licenses, as well, allowing anyone
 
 # Half Way goal?
 
-Half way through your project, how will you know if participants are on course to achieve results with the time and money remaining?
-
 ## Draft
 
 # Key People
 
-Who are the persons you see as critical to program/project achievement and what attributes of these people most predict success?
-
 ## Draft
 
 # Key partners/intermediaries
-
-Are any partners or intermediaries who must play a key role for you to achieve success? If so, please list them here along with the role must they play and the evidence that they are committed to play that role.
 
 ## Draft
