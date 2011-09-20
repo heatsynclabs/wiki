@@ -38,7 +38,7 @@ A direct partner for our program should be blind schools such as state schools f
 
 ## Verizon Volunteers
 
-I think this could be useful if we get to a point where we need drivers to locations, assistance in training, or in making calls for feedback and stats.
+I think this could be useful if we get to a point where we need drivers to locations, assistance in training, or in making calls for feedback and stats. We could also look into an accessibility tech support chatline and hotline to answer questions.
 
 ## Mission
 
