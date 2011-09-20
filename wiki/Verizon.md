@@ -52,8 +52,6 @@ HeatSync Labs' mission is to provide the tools, space and the community for stud
 
 Our vision is a world where we re-awaken our population and reinstate the knowledge of creation in opposition to our throw-away society. We will empower our population delivering the confidence to once compete on a global scale.
 
-Our Strategy is to empower, one on one, our members with the tools, resources, space, and if possible money to bring their dreams to fruition. The organization itself has no purpose but to support these missions. Beuracracy and overhead are to be avoided. We want to program in cell death so that if we ever lose our focus or have no reason to exist anymore, that we finally die. Apoptosis.
-
 # Achievements
 
 Monthly we run a free to attend arduino workshop where we train kids to adults how to program microcontrollers. Hundreds of people, from children to adults have attended our monthly meetings with the goal of empowering themselves with technology to solve their own problems. MORE HERE
