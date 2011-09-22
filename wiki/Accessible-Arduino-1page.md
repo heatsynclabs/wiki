@@ -6,7 +6,7 @@ The tool used outside and increasingly inside universities to teach computer eng
 
 Sadly, Arduino, like much of the rest of the Computer Engineering field, is not currently accessible. The programming environment is not screen reader friendly. Further the board contains no tactile clues to explain the connectors and polarity that a sighted user would simply read off the board. Finally, schematics are visual and inherently unusable for the blind.
 
-These things are fixable though! Arduino is open source hardware and software which means all of hardware and software schematics and code for the platform are available online. Further the Arduino team does it’s work in public, which means the best changes are integrated back into the final product.
+These things are fixable though! Arduino is open source hardware and software which means all of hardware and software schematics and code for the platform are available online. Further, the Arduino team does its work in their public community, which means they accept contributions from anyone who is interested in improving the final product.
 
 If an Arduino can be used as a prototyping platform to control robots, cameras, lights, speakers and other components for sighted users, why could it not do the same for the blind? By making the tools of creation accessible, we will allow the blind to participate in the conversation and empower them to solve their problems on their terms.
 
