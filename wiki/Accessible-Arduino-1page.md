@@ -14,5 +14,5 @@ Join us.
 
 References
 
-- <http://arduino.cc/blog/2011/09/16/arduino-confidential-open-hardware-summit/>
-- <http://www.google.com/events/io/2011/sessions/android-open-accessory-api-and-development-kit-adk.html>
+1.  <http://arduino.cc/blog/2011/09/16/arduino-confidential-open-hardware-summit/>
+2.  <http://www.google.com/events/io/2011/sessions/android-open-accessory-api-and-development-kit-adk.html>
