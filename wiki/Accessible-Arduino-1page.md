@@ -1,6 +1,8 @@
 # Accessible STEM education and retention
 
-Jacob Rosenthal - HeatSync Labs Ryan Rix - HeatSync Labs
+Jacob Rosenthal - HeatSync Labs
+
+Ryan Rix - HeatSync Labs
 
 Blind people love technology because it allows them to be self sufficient -- there are devices out for the blind, costing hundreds if not thousands of dollars, to assist them in measuring water, identifying colors, and notify them of things around them. The blind are great consumers of this technology but when it comes to solving their own day to day problems with technology the way a sighted person might they’re left out. For example, STEM degrees are still largely unapproachable to the blind student.
 
