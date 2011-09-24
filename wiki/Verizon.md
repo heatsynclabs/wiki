@@ -22,7 +22,7 @@ Join us.
 
 ## Program Participants
 
-The focus of this project is directed towards the blind and/or low vision. Students, professionals, kids, adults, it doesn't matter. Anyone with a passion for technology and a love of problem solving and learning.
+The focus of this project is directed towards the blind and/or low vision. Students, professionals, kids, adults, it doesn't matter. Anyone with a passion for technology and a love of problem solving and learning. As a development project, though, we would need some software engineers with a knowledge of the Arduino software and the java langauge. We would also need hardware engineers that can make changes to the Arduino hardware.
 
 ## For Whom Will You Address This Cause
 
