@@ -134,6 +134,10 @@ This is because Arduino is Open Source Hardware and Software. It is how the Ardu
 
 # Half Way goal?
 
+This project is naturally divided between hardware and software projects, which are about equal in time and effort required. The natural progression is that we would be halfway done when either the hardware prototype is ready to be manufactured, or when our software changes our in the mainline Arduino IDE.
+
+However, these efforts could also be done in parallel if more than one person is hired to work on the project. The general progression is an iterative development process, where a number of prototypes are developed before the final product is completed. After our initial design phase, we would have a good overview of how many iterations we would need, and would be able to define milestones and dates.
+
 # Key People
 
 # Key partners/intermediaries
