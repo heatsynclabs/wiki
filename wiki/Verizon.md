@@ -126,11 +126,11 @@ We will empower the blind to solve problems for themselves by making the tools o
 
 # Broader Gains?
 
-We will bootstrap an incredibly successful microcontroller project, make subtle changes to make it accessible, and push those changes back into the main branch for them to include in all releases of the hardware and software.
+We will bootstrap an incredibly successful microcontroller project, make subtle changes to make it accessible, and push those changes back into the main project for them to include in all future releases of the hardware and software.
 
-Not only will this work only need to be funded once, but not only the users we work with directly obtain the benefits of the project, but every arduino made from now on and every arduino downloaded by sighed users from now on will be accessible should the user be blind or visually impaired.
+As a result, this work will only need to be funded once. Every Arduino microcontroller made then now on and every download of the Development Tools by sighted users from now on will be accessible should the user be blind or visually impaired.
 
-This is called Open Source Hardware and Software. It is how the Arduino platform was built and why we're able to do this project, and why people after us will be able to build on our work. Because of this our work public and free only to be lost in a sea of research papers released this year.
+This is because Arduino is Open Source Hardware and Software. It is how the Arduino platform was built and why we're able to do this project, and why people after us will be able to build on our work.
 
 # Half Way goal?
 
