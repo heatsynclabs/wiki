@@ -4,27 +4,9 @@ As we incorporate and move to create some serious forward movement for this orga
 
 ## Position Ideas
 
-There is much written about how large a board should be. Some non profits will seek to have large boards which are meant to represent many different interests and donors in the community. Other advice argues to keep a board small and agile. For now it is expected our board will be small, agile, and targeted to the task at hand, creating a hackerspace out of nothing. As such these positions were chosen to represent what we should need now and are expected to be flattened down into maybe 5 overlapping roles.
+There is much written about how large a board should be. Some non profits will seek to have large boards which are meant to represent many different interests and donors in the community. Other advice argues to keep a board small and agile. For now it is expected our board will be small, agile, and targeted to the task at hand, creating a hackerspace out of nothing. As such these positions were chosen to represent what we should need now.
 
-**Champion**: Responsible for coordinating between the different board members. Helps maintain the primary goal of the organization (the mission statement). Also helps to support all members with various tasks and is responsible for public and board meeting agendas.
-
-**Secretary (Scribe)**: Responsible for maintaining records of all meetings and other paperwork for the organization, including membership applications.
-
-**Treasurer/CPA**: Responsible for handling finances for the organization and managing the bank account. This includes membership fees, operation fees, and donations.
-
-**PR/Marketing**: Responsible for press releases, social networking, and promotion of the organization in general.
-
-**Editor**: Responsible for monitoring the blog and wiki. Edits submissions for publication and recruits contributors for entries.
-
-**IT Administrator**: Responsible for maintaining the HSL server. Also will gain additional responsibilities once a physical space is obtained.
-
-**Event Coordinator**: Responsible for maintaining a calendar of events for the organization. This would include presentations, talks, conferences, projects, meetings, etc.
-
-**Fundraising/Social Coordinator**: Responsible for fundraisers and social events for the organization. Also responsible for fundraising as a whole.
-
-**Resource Manager**: Responsible for ordering supplies and updating/maintaining the tool share database.
-
-**Legal**: Responsible for legal matters for the organization, either in a lawyer capacity or as a liaison to a lawyer. This would also include handling waivers, insurance information, and other paperwork related to our liabilities.
+**Champion:** The office of Champion shall be responsible for coordinating tasks between each office of the Board of Directors, assisting HSL membership in membership-related tasks, and enforcing the bylaws. This office may be occupied by multiple officers, the total of which may not exceed two. Each officer will receive a full vote on the Board of Directors. **Treasurer:** The office of Treasurer shall be responsible for managing financial assets and liabilities and collecting membership dues, donations, and other revenue. **Secretary:** The office of Secretary shall be responsible for recording the proceedings of HeatSync Lab functions, such as events, fundraiser, and other official activities. Additionally, the office of the Secretary shall be responsible for the oversight of all records and papers produced in HSL's operations. **Operations:** The Office of Operations shall be responsible for the oversight of HSL operations and delegation of operational tasks to HSL volunteers.
 
 ## Board Meeting
 
