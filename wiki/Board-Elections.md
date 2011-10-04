@@ -44,9 +44,3 @@ See this [link](http://www.heatsynclabs.org/contact/board/) for current members.
 ## Interested Parties Nomination Speeches
 
 **Insert Nomination Speeches Here**
-
-## Future Position Ideas
-
-- Education- I see a real need to coordinate all our presentations and knowledge into modules which we can continually refine.
-- Safety - I foresee a real need here as we begin to obtain large industrial equipment to create safety guidelines and training procedures.
-- Facilities Management- Setup, repair and oversight of all our facilities needs
