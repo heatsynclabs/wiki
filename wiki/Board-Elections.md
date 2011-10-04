@@ -43,6 +43,8 @@ See this [link](http://www.heatsynclabs.org/contact/board/) for current members.
 
 ## Interested Parties Nomination Speeches
 
+- Insert Nomination Speeches\*
+
 ## Future Position Ideas
 
 - Education- I see a real need to coordinate all our presentations and knowledge into modules which we can continually refine.
