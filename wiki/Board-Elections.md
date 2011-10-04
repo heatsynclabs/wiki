@@ -43,7 +43,7 @@ See this [link](http://www.heatsynclabs.org/contact/board/) for current members.
 
 ## Interested Parties Nomination Speeches
 
-- Insert Nomination Speeches\*
+**Insert Nomination Speeches**
 
 ## Future Position Ideas
 
