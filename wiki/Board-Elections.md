@@ -30,6 +30,10 @@ Questions for everyone!\
 
 See this [link](http://www.heatsynclabs.org/contact/board/) for current members.
 
+## Interested Parties Nomination Speeches
+
+**Insert Nomination Speeches Here**
+
 ## Previous Board Members
 
 |  |  |
@@ -45,7 +49,3 @@ See this [link](http://www.heatsynclabs.org/contact/board/) for current members.
 | **Fundraising/Social Coordinator** | Split between Marketing and individual champions of fundraising ideas who will communicate with scribe. |
 | **Resource Manager** | Andre Sprague |
 | **Legal** | External Party |
-
-## Interested Parties Nomination Speeches
-
-**Insert Nomination Speeches Here**
