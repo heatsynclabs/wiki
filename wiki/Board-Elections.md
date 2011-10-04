@@ -28,10 +28,9 @@ There is much written about how large a board should be. Some non profits will s
 
 ## Board Meeting
 
-**When**: Thursdays in between standard meeting times\
-**Time**: 8 PM\
-**Place**: Solo Cafe -- www.solocafetempe.com\
-107 E. Baseline Rd. Tempe, AZ 85283 Mill Ave and Baseline in Tempe
+**When**: Quarterly\
+**Time**: 7pm **Place**: HeatSync Labs\
+140 West Main St. Tempe, AZ 85201
 
 ## Interested In Being a Board Member?
 
