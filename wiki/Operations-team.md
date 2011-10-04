@@ -129,3 +129,9 @@ ada, etc), on the one hand they're kind played, on the other theyre perfect for 
 - Technological recommendations/reviews/ordering (with resource manager and treasurer)
 - Technical training
 - On call?
+
+## Future Position Ideas
+
+- Education- I see a real need to coordinate all our presentations and knowledge into modules which we can continually refine.
+- Safety - I foresee a real need here as we begin to obtain large industrial equipment to create safety guidelines and training procedures.
+- Facilities Management- Setup, repair and oversight of all our facilities needs
