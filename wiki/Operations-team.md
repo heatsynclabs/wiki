@@ -132,6 +132,7 @@ ada, etc), on the one hand they're kind played, on the other theyre perfect for 
 
 ## Future Position Ideas
 
-- Education- I see a real need to coordinate all our presentations and knowledge into modules which we can continually refine.
+- Education - I see a real need to coordinate all our presentations and knowledge into modules which we can continually refine.
+- Facilities Management - Setup, repair and oversight of all our facilities needs.
+- Fundraising - With a goal of seeking out all avenues of possible fundraising possibilities and championing fundraising events.
 - Safety - I foresee a real need here as we begin to obtain large industrial equipment to create safety guidelines and training procedures.
-- Facilities Management- Setup, repair and oversight of all our facilities needs
