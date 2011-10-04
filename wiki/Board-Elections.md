@@ -19,7 +19,8 @@ There is much written about how large a board should be. Some non profits will s
 **When**: Quarterly\
 **Time**: 7pm\
 **Place**: HeatSync Labs\
-140 West Main St. Tempe, AZ 85201
+140 West Main St.\
+Tempe, AZ 85201
 
 ## Interested In Being a Board Member?
 
