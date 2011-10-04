@@ -1,6 +1,6 @@
 # Necessity for a Board
 
-As we incorporate and move to create some serious forward movement for this organization we'll need a team of people who have focused responsibilities that will aid in keeping HeatSync Labs in working order. Below are a list of position ideas that the founders brainstormed. Please feel free to add additional ideas to the list. Also feel free to add yourself to the "Interested Parties" table below if you're interested in a certain position. We'll be meeting up to discuss position ideas and who may be interested soon. Check out the date under "Board Meeting".
+Now that we've incorporated, been granted our 501c3, and grown into our own permanent location we have the tools and community to be able to do great things. We'll need a team of people who have focused responsibilities that will aid in keeping HeatSync Labs in working order. Check out the information under "Board Meeting" for when Board Meetings happen to get a feel for that structure.
 
 ## Position Ideas
 
