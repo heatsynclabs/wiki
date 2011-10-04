@@ -6,7 +6,13 @@ As we incorporate and move to create some serious forward movement for this orga
 
 There is much written about how large a board should be. Some non profits will seek to have large boards which are meant to represent many different interests and donors in the community. Other advice argues to keep a board small and agile. For now it is expected our board will be small, agile, and targeted to the task at hand, creating a hackerspace out of nothing. As such these positions were chosen to represent what we should need now.
 
-**Champion:** The office of Champion shall be responsible for coordinating tasks between each office of the Board of Directors, assisting HSL membership in membership-related tasks, and enforcing the bylaws. This office may be occupied by multiple officers, the total of which may not exceed two. Each officer will receive a full vote on the Board of Directors. **Treasurer:** The office of Treasurer shall be responsible for managing financial assets and liabilities and collecting membership dues, donations, and other revenue. **Secretary:** The office of Secretary shall be responsible for recording the proceedings of HeatSync Lab functions, such as events, fundraiser, and other official activities. Additionally, the office of the Secretary shall be responsible for the oversight of all records and papers produced in HSL's operations. **Operations:** The Office of Operations shall be responsible for the oversight of HSL operations and delegation of operational tasks to HSL volunteers.
+**Champion:** The office of Champion shall be responsible for coordinating tasks between each office of the Board of Directors, assisting HSL membership in membership-related tasks, and enforcing the bylaws. This office may be occupied by multiple officers, the total of which may not exceed two. Each officer will receive a full vote on the Board of Directors.
+
+**Treasurer:** The office of Treasurer shall be responsible for managing financial assets and liabilities and collecting membership dues, donations, and other revenue.
+
+**Secretary:** The office of Secretary shall be responsible for recording the proceedings of HeatSync Lab functions, such as events, fundraiser, and other official activities. Additionally, the office of the Secretary shall be responsible for the oversight of all records and papers produced in HSL's operations.
+
+**Operations:** The Office of Operations shall be responsible for the oversight of HSL operations and delegation of operational tasks to HSL volunteers.
 
 ## Board Meeting
 
