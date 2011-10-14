@@ -1,3 +1,11 @@
+## Concept
+
+Initially, the plan was to duplicate the Der Kritzler; however, one of the deign goals was affordability. Der Kritzler's toothed belts and pulleys add significant cost, but seem to deliver little advantage over a spooled line design.
+
+Also, a goal is to co-locate the motors with the embedded controller and pen on the chassis. The thought is that the system will be simpler and cleaner.
+
+Prototype plans call for an Arduino Uno and breadboard, with the final device as a custom PCB w/ ATMega328 or maybe ATTiny? Anyway, the PCB might be part of the chassis?
+
 ## Bill of Materials
 
 - Chassis/pen holder
@@ -7,14 +15,18 @@
 - 2 x stepper drivers
   - H Bridge power control [TI 1320](http://octopart.com/sn754410ne-texas+instruments-1320)
 - 2 x stepper motors
+- 1 x servo (for controlling pen?)
+- 1 x Arduino
+- Monofilament, 30# test?
+
+### Deprecated
+
+- 2 x stepper motors
   - go w/ 5mm shaft
   - need 40ish oz/in?
 - 2 x toothed belt pulleys
   - go w/ 5mm shaft
 - 20 ft toothed belt
-  - [7959521](http://www.mcmaster.com/#timing-belts/=e3syw4) -- Trapezoidal-Tooth Neoprene Belting Mxl Trade Size, .080" Pitch, 1/4" Width -- \$1.84/foot
-- 1 x servo (for controlling pen?)
-- 1 x Arduino
 
 # Links
 
