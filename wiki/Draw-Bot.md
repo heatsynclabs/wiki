@@ -1,6 +1,6 @@
 ## Concept
 
-Initially, the plan was to duplicate the Der Kritzler; however, one of the deign goals was affordability. Der Kritzler's toothed belts and pulleys add significant cost, but seem to deliver little advantage over a spooled line design.
+Initially, the plan was to duplicate the Der Kritzler; however, one of the design goals was affordability. Der Kritzler's toothed belts and pulleys add significant cost, but seem to deliver little advantage over a spooled line design.
 
 Also, a goal is to co-locate the motors with the embedded controller and pen on the chassis. The thought is that the system will be simpler and cleaner.
 
