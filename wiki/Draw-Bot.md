@@ -6,6 +6,8 @@ Also, a goal is to co-locate the motors with the embedded controller and pen on 
 
 Prototype plans call for an Arduino Uno and breadboard, with the final device as a custom PCB w/ ATMega328 or maybe ATTiny? Anyway, the PCB might be part of the chassis?
 
+Also, we'd like to change the design so the DrawBot reads it's commands from an SD card instead of a command station.
+
 ## Bill of Materials
 
 - Chassis/pen holder
