@@ -58,7 +58,7 @@ Never again will the jumper wall be allowed to fall in to disarray.
 
 *The GLORIOUS Empty Dead Jumper Hook*
 
-#### NOOOOOOOOOOOO[Rrix](User-Rrix) 01:19, 18 October 2011 (UTC)
+#### NOOOOOOOOOOOO~
 
 ![](files/NOOOOOOOOOOOOOOOOOO.jpg)
 
