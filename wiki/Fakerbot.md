@@ -1,43 +1,5 @@
 # The Makerbot is currently \[working without a heated bed\]
 
-# About
-
-The machine is called a FakerBot, because it's not quite a MakerBot, but there is a direct lineage. Since we didn't have access to a laser-cutter and we wanted to do it on the cheap, the frame was slightly redesigned by Corey so that it could be cut on a tablesaw from inch material. The tongue and groove construction was replaced with dado-cut slots. All holes were made with a 7/8" forstner bit, this allows them to take a skate bearing (a paper shim is required) or anything else that we wanted through the use of adapter plates since we knew that mods were likely. Total cost of the enclosure was \$13 for a sheet of 1/4" (actually 5.2mm) Luan from Home Despot which provided enough material to make four FakerBots even though we only made one. A laser-cut frame would have cost about \$200 form Makerbot, so we saved a lot here. The frame was finished with linseed oil and came out pretty nice. MakerBot specified precision shafting for the X&Y axis which is unnecessary for a low-tech motion control system like this one. Drill rod was substituted for all linear shafting at a total cost of about \$3 which is another \$20 or \$30 reduction. Similarly, low-cost nylon bushings were substituted for the more expensive MakerBot spec'd parts.
-
-The X and Y stages on the MakerBot are pretty good aside from being too tall, however the Z-stage is a horrible design. It is overly complex, wobbly, prone to jamming, etc. A replacement z-stage was designed by Corey with the goal of making Z simple and reliable:
-
-**The following parts from the Makerbot design were removed:**
-
-- \(1\) Belt
-- \(8\) Bearings
-- \(1\) Driving Pulley
-- \(4\) Driven Pulleys
-- \(2\) Idler Pulleys
-- \(1\) Platform
-- \(2\) Extruder Mounts (Dragons)
-- \(4\) All-thread Rods (leadscrews)
-- \(4\) Driven nuts (leadnuts)
-- assorted screws and hardware
-
-**That giant steaming pile of hardware was replaced with:**
-
-- \(1\) 1/4-20 Acme leadscrew
-- \(1\) Antibacklash nut
-- \(1\) shaft coupler
-- \(1\) Cantilever arm (laser cut)
-- \(1\) Linear rail
-- \(1\) Truck for linear rail
-
-**An overall reduction from (27) functional components down to (6) !**
-
-If you count every nut and screw the reduction is far greater, but you get the idea. The new Z-stage is a big improvement and has eleminated all of the jamming and wobbling problems that we had previously. It also looks far better.
-
-The extruder is Corey's design hosted at <http://www.thingiverse.com/thing:4579>. It is a clean-sheet of paper design that sprang from the frustration of dealing with the shortcomings of other extruders. So far the CoreyStruder and its derivatives have been downloaded on Thingiverse over 250 times.
-
-The hot-end is Corey's copy of the hot-end used on the UP! printer which he later discovered is actually a copy of Nophead's design. It is very compact and works well. Nophead does awesome work, his blog is a must-read:
-
-<http://hydraraptor.blogspot.com/>
-
 # Usage
 
 ## Get a file
@@ -54,51 +16,27 @@ Whatever you use you need to export or save to STL format
 
 Make sure fakerbot is turned on (switch on power supply in back). The usb cable should be plugged in to your computer and the power supply should of course be plugged in.
 
-Boot the machine on the desk and open ReplicatorG which should automatically connect to the board. Otherwise there is a connect button. \[picture of connect button\]
+Boot the computer on the desk and open ReplicatorG which should automatically connect to the board. Otherwise there is a connect button. \[picture of connect button\]
 
 When properly connected the Status Bar will turn green. \[Picture of green bar\]
 
 ## Get familiar with machine
 
-The little table on the inside of the machine will be referred to as the build platform, or heated build platform. \[Picture of platform\] This platform is often heated to aid in printing. The little nozzle above the table will be referred to as the extruder. \[Picture of extruder\] The extruder is also heated in order to melt the plastic and push it through the nozzle 'extruding' it.
+The little table on the inside of the machine will be referred to as the build platform, or heated build platform. \[Picture of platform\] This platform is often heated to aid in printing. The little nozzle above the table will be referred to as the extruder. \[Picture of extruder\] The extruder is also heated in order to melt the plastic and push it through the nozzle 'extruding' it. Click the arrow keys icon \[Picture of Control Panel Icon\] Here you can manually heat up machine or move the head around. Note that the X and Y movement directions are probably reversed from what you might think. X- moves to the right and X+ moves to the left! Y- moves backwards and Y+ moves towards you! Z+, however moves up as you'd expect, and Z- down. Close this window.
 
 ## Generate GCode
 
-Choose File Open and open your stl file if you haven't already. Take a look at it in the preview window. \[Picture of preview window\] The preview window is the same size and shape as your available print area. The object shouldn't be hovering off the ground or spilling outside of the box. Click the "generate g code" button on the lower right. \[Generate G Code button\] This generates your 'tool paths', slicing the model into slivers and deciding how to print it. Next select the fakerbot-heated profile and click 'Generate'. \[Picture of Skeinforge Selection\] This may take some time. When this finishes you'll see a new tab next to model. \[Picture of gcode tab\]
+Choose File-\>Open and open your stl file if you haven't already. Take a look at it in the preview window. \[Picture of preview window\] The preview window is the same size and shape as your available print area. The object shouldn't be hovering off the ground or spilling outside of the box at all! If all looks good click the "generate g code" button on the lower right. \[Generate G Code button\] This prepares the file for printing by slicing the model into slivers and deciding how best to print it. Next select the thingomatic-mk5-heated profile and click 'Generate'. \[Picture of Skeinforge Selection\] This may take some time. When this finishes you'll see a new tab next to model. \[Picture of gcode tab\]
+
+## Send to SD card
 
 Next press the 'Upload to SD card' button. \[Upload to SD card button\] This will take a few minutes and forward all code over to the SD card so the machine can run all by itself, removing any delays the computer might cause. This is amazingly important as the little lenovo decides to take a break sometimes, ruining prints.
 
-## Zero machine
-
-Fakerbot doesn't know or care where it starts, you must pick your 'zero' before you print. For us thats usually the direct center of the platform with the extruder nozzle touching the platform.
-
-In the control panel \[arrows\], set your 'jog' size to something small like 1mm \[jog size\] (larger sizes are larger moves, BE CAREFUL YOU DON'T CRASH THE HEAD!). Click the arrows x+,x-,y+,y-,z+,z- \[jog arrows\]to move the platform around so the nozzle is right in the center. Next, put a piece of paper down on the platform and slowly move the toolhead down using increasingly smaller jog sizes. You want to have the toolhead touch the paper and have a bit a drag, but still be able to remove the paper.
-
-When you think you have it, and your toolhead is in the middle of your x and y axis as well, press 'Set Zero'. \[set zero button\]
-
-## Warm up
-
-Next, we need to heat up the extruder for ~5 minutes and extrude some plastic in order to get the machine operational.
-
-Set Motor Speed PWM to 255, target temp to 230 and heated bed temperature to 100 \[Motor and Temp Config\]. You must press enter or click your cursor outside of that input box in order to make a change take effect.
-
-You should immediately see the numbers climb towards your goal and a graph showing your progress. \[picture of temps and graph\]. The extruder will arrive quickly, but the heated bed may take some time.
-
-Now set jog size to 20 and press z+. This will bring us off the bed again, allowing us to spit some plastic out safely.
-
-If you've reached extruder temperature, go ahead and click forward on the motor control. \[Picture of Forward\] Watch the bearing and the gear on the extruder. \[Picture of bearing and gear\] Both should be turning. If not stop the motor and wait for the barrel to heat up more and or help the extruder along by twisting the filament--never PUSH DOWN on the extruder or the filament, it doesn't help and it can hurt.
-
-By now you should be freely flowing plastic \[picture of plastic\] or you've got a blocked heater barrel or your pinch wheel setup is not adjusted properly. You should find help or start googling (try the makerbot and or fakerbot sites).
-
-Run the plastic for at least a few minutes, clearing it out as it begins to build up. Never leave the makerbot unattended as plastic can build up and destroy the extruder!
-
-When you're ready, push stop \[motor stop\] on the motor, and press the center z button \[center z\] to return the z axis back to zero.
-
 ## Print!
 
-When all your temperatures are ready and your plastic is flowing well, you should be ready! Note where the stop button is on the control panel in case anything looks bad. Also note the power switch in back of the machine. If something goes wrong, these are your friends. Now click 'Build from sd card' \[build from sd card\] from the main makerbot menu.
+You're ready! Note where the stop button is on the control panel in case anything looks bad. Also note the power switch in back of the machine. If something goes wrong, these are your friends. Now click 'Build from sd card' \[build from sd card\] from the main makerbot menu.
 
-The build may take a bit to start while it achieves optimal temperatures. Presumably the print will start, adhere to the bed well, and you can simply stick around until your print finishes. If it messes up stay calm, cancel the print and start back over at warm up and zero machine.
+The build may take a bit to start while it achieves optimal temperatures. Presumably the print will start, adhere to the bed well, and you can simply stick around until your print finishes. If it messes up stay calm, press the stop button or in the worst case turn the machine off and either try again or ask for help.
 
 # Status Updates
 
@@ -158,18 +96,63 @@ After adding the Z-axis modification, [Mods of z-axis](http://farm6.static.flick
 
 - Heated Build platform out again due to solder points.. Designed new one and sending out for printing.
 
+## 10/01/2011
+
+- New boards arrived, LOTS of trouble with thermistors dying now. Still haven't tracked it down. Another symptom is the extruder board losing its firmware and/or bootloader.....Still testing.
+
+## 10/19/2011
+
+Tried a new shipment of thermistors and another board and so far so good. Saw one oddity but it went away? Installed 3 new endstops on the machine and built homing code. This is allowing us to tap into the Thingomatic homing, and delete all the 'zero' calibration steps from above!
+
 # Todo
 
 - wobble in z axis???--need to buy new acme rod
 - z 'bubble' is pretty bad. Need to speed up z axis...
-- fix spindle box -- needs new 'posts' to hold filament and needs new acrylic window
+- fix spindle box -- needs new 'posts' to hold filament
 - 'magnetic' cables on build platform would be awesome
 - functional lighting (build platform is red when hot, blue when cold, yellow when heating
 - stepper extruder (wade? something else)
 - looooots of ooze -- reversal params? or might only be correctable with a stepper?
-- limit switches installed
 - pick up a digital indicator for leveling platform
 - light ring around extruder to light platform
 - hook up an estop
 - second (or even third) entire extruder ready to go
 - quick change extruder assembly
+
+# About
+
+The machine is called a FakerBot, because it's not quite a MakerBot, but there is a direct lineage. Since we didn't have access to a laser-cutter and we wanted to do it on the cheap, the frame was slightly redesigned by Corey so that it could be cut on a tablesaw from inch material. The tongue and groove construction was replaced with dado-cut slots. All holes were made with a 7/8" forstner bit, this allows them to take a skate bearing (a paper shim is required) or anything else that we wanted through the use of adapter plates since we knew that mods were likely. Total cost of the enclosure was \$13 for a sheet of 1/4" (actually 5.2mm) Luan from Home Despot which provided enough material to make four FakerBots even though we only made one. A laser-cut frame would have cost about \$200 form Makerbot, so we saved a lot here. The frame was finished with linseed oil and came out pretty nice. MakerBot specified precision shafting for the X&Y axis which is unnecessary for a low-tech motion control system like this one. Drill rod was substituted for all linear shafting at a total cost of about \$3 which is another \$20 or \$30 reduction. Similarly, low-cost nylon bushings were substituted for the more expensive MakerBot spec'd parts.
+
+The X and Y stages on the MakerBot are pretty good aside from being too tall, however the Z-stage is a horrible design. It is overly complex, wobbly, prone to jamming, etc. A replacement z-stage was designed by Corey with the goal of making Z simple and reliable:
+
+**The following parts from the Makerbot design were removed:**
+
+- \(1\) Belt
+- \(8\) Bearings
+- \(1\) Driving Pulley
+- \(4\) Driven Pulleys
+- \(2\) Idler Pulleys
+- \(1\) Platform
+- \(2\) Extruder Mounts (Dragons)
+- \(4\) All-thread Rods (leadscrews)
+- \(4\) Driven nuts (leadnuts)
+- assorted screws and hardware
+
+**That giant steaming pile of hardware was replaced with:**
+
+- \(1\) 1/4-20 Acme leadscrew
+- \(1\) Antibacklash nut
+- \(1\) shaft coupler
+- \(1\) Cantilever arm (laser cut)
+- \(1\) Linear rail
+- \(1\) Truck for linear rail
+
+**An overall reduction from (27) functional components down to (6) !**
+
+If you count every nut and screw the reduction is far greater, but you get the idea. The new Z-stage is a big improvement and has eleminated all of the jamming and wobbling problems that we had previously. It also looks far better.
+
+The extruder is Corey's design hosted at <http://www.thingiverse.com/thing:4579>. It is a clean-sheet of paper design that sprang from the frustration of dealing with the shortcomings of other extruders. So far the CoreyStruder and its derivatives have been downloaded on Thingiverse over 250 times.
+
+The hot-end is Corey's copy of the hot-end used on the UP! printer which he later discovered is actually a copy of Nophead's design. It is very compact and works well. Nophead does awesome work, his blog is a must-read:
+
+<http://hydraraptor.blogspot.com/>
