@@ -30,6 +30,10 @@ Also, we'd like to change the design so the DrawBot reads it's commands from an 
   - go w/ 5mm shaft
 - 20 ft toothed belt
 
+## Motor Control
+
+<http://arduino.cc/en/Reference/StepperBipolarCircuit>
+
 # Links
 
 - [Der Kritzler](http://tinkerlog.com/2011/09/02/der-kritzler/)
