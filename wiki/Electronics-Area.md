@@ -70,6 +70,8 @@ Who knows which cables go here??? Any cables that don't fit with the others!
 
 *The GLORIOUS Empty Dead Jumper Hook*
 
+The **GLORIOUS** Empty Dead Jumper Hook.
+
 #### NOOOOOOOOOOOO~
 
 ![](files/NOOOOOOOOOOOOOOOOOO.jpg)
@@ -84,6 +86,10 @@ This is where cables go to die. Cables shouldn't have to endure that fate.
 
 *This is what the wire drawer should look like!*
 
+This is what the wire drawer should look like!
+
 ![](files/Solder_Drawer.jpg)
 
 *This is what the solder drawer should look like!*
+
+This is what the solder drawer should look like!
