@@ -16,6 +16,8 @@
 
 *Wires. One is good, the other causes Chinese babies to starve.*
 
+Wires. One is good, the other causes Chinese babies to starve.
+
 Guess which one causes the babies to starve.
 
 ### The Mess of Jumpers From Hell
