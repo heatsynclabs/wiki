@@ -40,17 +40,37 @@ The build may take a bit to start while it achieves optimal temperatures. Presum
 
 # Status Updates
 
-## 3/29/2011
+## 10/19/2011
 
-We will hope to keep updates here. Most recently Jacob adjusted the z and one of the x/y reference voltages down to keep the motors coolor. So far everything seems fine. Will want to adjust the other X/Y voltage down as well if everything remains awesome. I've also restricted the build envelope a bit more to hopefully match the machine. Finally we had an issue with Z stage binding during prints. I found the feedrate was set to 1000 in the machines.xml file, and I've moved this down to 100. I'm sure we can bump this a bit eventually but for now its good.
+Tried a new shipment of thermistors and another board and so far so good. Saw one oddity but it went away? Installed 3 new endstops on the machine and built homing code. This is allowing us to tap into the Thingomatic homing, and delete all the 'zero' calibration steps from above! Also upgraded to ReplicatorG 26 and new firmware (no going back!) and went back down to the default skeinforge (6?) ditching old profiles and staying stock for now.
 
-## 3/30/2011
+## 10/01/2011
 
-We are slimming down the Build Platform to give us another 3/4" of vertical build room. [1](http://www.thingiverse.com/thing:4056) Also modifying the the Z-Stage arm to give another 2"-2.5" of vertical build room.
+- New boards arrived, LOTS of trouble with thermistors dying now. Still haven't tracked it down. Another symptom is the extruder board losing its firmware and/or bootloader.....Still testing.
 
-## 4/7/2011
+## 7/16/2011
 
-After adding the Z-axis modification, [Mods of z-axis](http://farm6.static.flickr.com/5148/5599963114_7b87a40664_b.jpg) there are some programming things that need to be cleaned up. Some objects print well, some print great, and others, are complete crap. [Flickr page](http://www.flickr.com/photos/61355910@N04/)
+- Heated Build platform out again due to solder points.. Designed new one and sending out for printing.
+
+## 7/04/2011
+
+- Heated Build platform solder points eventually work hardened and broke the solder pads from the board. Next build platform iteration needs through hole connectors for stability. Thermistor also gave massive trouble during this point but has been replaced and appears to be printing well again.
+
+## 4/28/2011
+
+- Corey designed a new Cantilever to gain more z height. He's staining it before installing.
+
+<!-- -->
+
+- Jacob created a new heated build platform plate. We were using the automated build platform, but it reduces our z and we're not ready to implement it yet. The main hold up was the files online weren't fitting our platform. Corey's design files in some areas differ from Makerbot's as he had to reverse engineer them. I used Corey's files which fit fine. I also scaled down the bolt holes to fit our bolts to remove the x/y wobble. Sadly, theres still some wobble that must have to just do with their implementation. The wires from the heated platform were moved to the right as well, adding some x. The makerbot file was updated for the extra room.
+
+## 4/24/2011
+
+- Did some work on the spindle filament holder. Had some notches in the circular base and top that were catching on the sides that I filed down.
+
+<!-- -->
+
+- Bolts and nuts were too small connecting the circular bearing for the lazy susan to the chassis. Drilled out holes and replace with bigger bolts and nuts.
 
 ## 4/20/2011
 
@@ -72,37 +92,17 @@ After adding the Z-axis modification, [Mods of z-axis](http://farm6.static.flick
 
 - Used Dave Durant's suggestions at <http://davedurant.wordpress.com/2010/11/06/configuring-skeinforge-making-a-new-profile/> and without any real tweaking the 20mm test cubes look REALLY good
 
-## 4/24/2011
+## 4/7/2011
 
-- Did some work on the spindle filament holder. Had some notches in the circular base and top that were catching on the sides that I filed down.
+After adding the Z-axis modification, [Mods of z-axis](http://farm6.static.flickr.com/5148/5599963114_7b87a40664_b.jpg) there are some programming things that need to be cleaned up. Some objects print well, some print great, and others, are complete crap. [Flickr page](http://www.flickr.com/photos/61355910@N04/)
 
-<!-- -->
+## 3/30/2011
 
-- Bolts and nuts were too small connecting the circular bearing for the lazy susan to the chassis. Drilled out holes and replace with bigger bolts and nuts.
+We are slimming down the Build Platform to give us another 3/4" of vertical build room. [1](http://www.thingiverse.com/thing:4056) Also modifying the the Z-Stage arm to give another 2"-2.5" of vertical build room.
 
-## 4/28/2011
+## 3/29/2011
 
-- Corey designed a new Cantilever to gain more z height. He's staining it before installing.
-
-<!-- -->
-
-- Jacob created a new heated build platform plate. We were using the automated build platform, but it reduces our z and we're not ready to implement it yet. The main hold up was the files online weren't fitting our platform. Corey's design files in some areas differ from Makerbot's as he had to reverse engineer them. I used Corey's files which fit fine. I also scaled down the bolt holes to fit our bolts to remove the x/y wobble. Sadly, theres still some wobble that must have to just do with their implementation. The wires from the heated platform were moved to the right as well, adding some x. The makerbot file was updated for the extra room.
-
-## 7/04/2011
-
-- Heated Build platform solder points eventually work hardened and broke the solder pads from the board. Next build platform iteration needs through hole connectors for stability. Thermistor also gave massive trouble during this point but has been replaced and appears to be printing well again.
-
-## 7/16/2011
-
-- Heated Build platform out again due to solder points.. Designed new one and sending out for printing.
-
-## 10/01/2011
-
-- New boards arrived, LOTS of trouble with thermistors dying now. Still haven't tracked it down. Another symptom is the extruder board losing its firmware and/or bootloader.....Still testing.
-
-## 10/19/2011
-
-Tried a new shipment of thermistors and another board and so far so good. Saw one oddity but it went away? Installed 3 new endstops on the machine and built homing code. This is allowing us to tap into the Thingomatic homing, and delete all the 'zero' calibration steps from above!
+We will hope to keep updates here. Most recently Jacob adjusted the z and one of the x/y reference voltages down to keep the motors coolor. So far everything seems fine. Will want to adjust the other X/Y voltage down as well if everything remains awesome. I've also restricted the build envelope a bit more to hopefully match the machine. Finally we had an issue with Z stage binding during prints. I found the feedrate was set to 1000 in the machines.xml file, and I've moved this down to 100. I'm sure we can bump this a bit eventually but for now its good.
 
 # Todo
 
