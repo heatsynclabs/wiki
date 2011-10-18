@@ -1,4 +1,4 @@
-# The Makerbot is currently \[working without a heated bed\]
+# The Makerbot is currently Awesome
 
 # Usage
 
