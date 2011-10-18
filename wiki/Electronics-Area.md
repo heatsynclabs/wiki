@@ -30,6 +30,8 @@ Never again will the jumper wall be allowed to fall in to disarray.
 
 *Monkeys freaking love banana plugs!*
 
+Monkeys freaking love banana plugs!
+
 #### Alligator Plugs
 
 ![](files/Alligator_Plugs.jpg)
