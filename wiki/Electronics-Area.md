@@ -46,6 +46,8 @@ Om nom nom clippy clippy.
 
 *You start with a banana plug and you end with a hook or an alligator plug. Oh god.*
 
+You start with a banana plug and you end with a hook or an alligator plug. Oh god. D:
+
 #### O-scope cables
 
 ![](files/Oscope_Cables.jpg)
