@@ -9,6 +9,7 @@
 
 - When you're finished, the space should look the same as when you started. If it does not or that does not mean "SPARKLIN FREAKING CLEAN," then make it "SPARKLIN FREAKING CLEAN."
 - SPARKLIN FREAKING CLEAN
+- If I have to clean this area you're doing it wrong.
 
 ### Wire should look like this!
 
