@@ -32,7 +32,8 @@ Also, we'd like to change the design so the DrawBot reads it's commands from an 
 
 ## Motor Control
 
-<http://arduino.cc/en/Reference/StepperBipolarCircuit>
+<http://arduino.cc/en/Reference/StepperBipolarCircuit>\
+<http://www.arduino.cc/en/Tutorial/MotorKnob>
 
 # Links
 
