@@ -54,6 +54,8 @@ You start with a banana plug and you end with a hook or an alligator plug. Oh go
 
 *Cables for the Oscopes.*
 
+Cables for the Oscopes.
+
 #### ????? PROFIT!
 
 ![](files/Myster_Cables.jpg)
