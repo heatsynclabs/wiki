@@ -38,6 +38,8 @@ Monkeys freaking love banana plugs!
 
 *Om nom nom clippy clippy*
 
+Om nom nom clippy clippy.
+
 #### Bastard Mutant Plugs
 
 ![](files/Mutant_Plugs.jpg)
