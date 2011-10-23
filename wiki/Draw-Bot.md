@@ -17,6 +17,7 @@ Also, we'd like to change the design so the DrawBot reads it's commands from an 
 - 2 x stepper drivers
   - H Bridge power control [TI 1320](http://octopart.com/sn754410ne-texas+instruments-1320)
 - 2 x stepper motors
+  - [2.4 kg-cm 4 Wire NEMA 17 Stepper Motor / 42BYGH011](http://www.circuitspecialists.com/nema_17_stepper_motor_42bygh011.html)
 - 1 x servo (for controlling pen?)
 - 1 x Arduino
 - Monofilament, 30# test?
