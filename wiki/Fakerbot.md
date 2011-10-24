@@ -80,6 +80,10 @@ Acetone is a good solvent for ABS plastic. Using pure acetone applied with a pai
 
 # Status Updates
 
+## 10/24/2011
+
+New Makerbot(tm) heated bed installed to see if its any more reliable than my home built set up. Before we could really find out though the Motherboard is losing its firmware??? I reflashed it but now the SD card doesn't work, and I hear it won't respond again now so needs reflashing again. The only thing I can think of is power supply issues, and separately a need to reflow the SD card.
+
 ## 10/19/2011
 
 Tried a new shipment of thermistors and another board and so far so good. Saw one oddity but it went away? Installed 3 new endstops on the machine and built homing code. This is allowing us to tap into the Thingomatic homing, and delete all the 'zero' calibration steps from above! Also upgraded to ReplicatorG 26 and new firmware (no going back!) and went back down to the default skeinforge (6?) ditching old profiles and staying stock for now.
