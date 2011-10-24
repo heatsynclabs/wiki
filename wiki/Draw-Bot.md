@@ -24,6 +24,7 @@ Also, we'd like to change the design so the DrawBot reads it's commands from an 
   - Monofilament, 30# test? or...
   - [Wire Rope](http://www.mcmaster.com/#wire-rope/)? (also at [Amazon](http://www.amazon.com/Stainless-Strands-Length-Breaking-Strength/dp/B0013HK1JO/ref=sr_1_3?s=industrial&ie=UTF8&qid=1319480900&sr=1-3)) or...
   - or the twine I already have in my garage for prototyping?
+- Eyelets (these are mounted to the chassis and provide both a pivot point for the cable and insurance the cable goes onto the pulley)
 
 ### Deprecated
 
