@@ -1,4 +1,4 @@
-# The Makerbot is currently Awesome
+# The Makerbot is currently \[sad\]
 
 # Usage
 
