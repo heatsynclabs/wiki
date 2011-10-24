@@ -146,18 +146,17 @@ We will hope to keep updates here. Most recently Jacob adjusted the z and one of
 
 # Todo
 
-- wobble in z axis???--need to buy new acme rod
+- wobble in z axis???--need to install new acme rod
 - z 'bubble' is pretty bad. Need to speed up z axis...
 - fix spindle box -- needs new 'posts' to hold filament
 - 'magnetic' cables on build platform would be awesome
 - functional lighting (build platform is red when hot, blue when cold, yellow when heating
-- stepper extruder (wade? something else)
 - looooots of ooze -- reversal params? or might only be correctable with a stepper?
-- pick up a digital indicator for leveling platform
+- pick up a digital indicator for leveling platform?
 - light ring around extruder to light platform
 - hook up an estop
-- second (or even third) entire extruder ready to go
 - quick change extruder assembly
+- echangable parts to keep machine running - another extruder assembly, heated bed assembly, etc
 
 # About
 
