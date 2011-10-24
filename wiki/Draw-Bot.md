@@ -20,7 +20,10 @@ Also, we'd like to change the design so the DrawBot reads it's commands from an 
   - [2.4 kg-cm 4 Wire NEMA 17 Stepper Motor / 42BYGH011](http://www.circuitspecialists.com/nema_17_stepper_motor_42bygh011.html)
 - 1 x servo (for controlling pen?)
 - 1 x Arduino
-- Monofilament, 30# test?
+- Suspension Cable
+  - Monofilament, 30# test? or...
+  - [Wire Rope](http://www.mcmaster.com/#wire-rope/)? or...
+  - or the twine I already have in my garage for prototyping?
 
 ### Deprecated
 
