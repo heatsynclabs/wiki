@@ -3,6 +3,22 @@
 - Maintainer: [Ryan Rix](User-Rrix)
 - Location: Four benches in center-east of main floor
 
+### Needs
+
+- .1" headers
+- Jumpers
+  - MF
+  - FF
+  - MM
+- IC Sockets
+- Flux
+- 1 sided PCB thin
+- Jumper wire kit (breadboard style)
+- Soldering Irons
+- New heating element or iron for soldering station
+- Arduino 9v Power Supply
+- 2 Channel o-scope
+
 ## Rules
 
 ### Keep Clean
