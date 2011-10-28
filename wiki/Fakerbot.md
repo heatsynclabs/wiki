@@ -1,4 +1,4 @@
-# The Makerbot is currently \[sad\]
+# The Makerbot is currently \[awesome\]
 
 # Usage
 
@@ -37,6 +37,10 @@ Next press the 'Upload to SD card' button. \[Upload to SD card button\] This wil
 You're ready! Note where the stop button is on the control panel in case anything looks bad. Also note the power switch in back of the machine. If something goes wrong, these are your friends. Now click 'Build from sd card' \[build from sd card\] from the main makerbot menu.
 
 The build may take a bit to start while it achieves optimal temperatures. Presumably the print will start, adhere to the bed well, and you can simply stick around until your print finishes. If it messes up stay calm, press the stop button or in the worst case turn the machine off and either try again or ask for help.
+
+# Putting Replicator G on your laptop
+
+You can indeed install replicatorg on your laptop for most likely superior performance to the lenovo. You may also be able to get away with not using an SD card. Go to replicat.org and download ReplicatorG 26 or higher. You'll need to change 2 files, [fakerbot.xml](files/Fakerbot.xml) and [start.txt](files/Start.txt). fakerbot.xml goes into the machines directorty. start.txt is a little more tough. It goes under skein_engines/skeinforge-0006/prefs/thingomatic-mk5-heated-abs AND skein_engines/skeinforge-0006/prefs/thingomatic-mk5-abs. Those will also be the profiles you will want to print from. One last, annoying change. When you go to generate your g code with those profiles, you need to go into each and go into the carve menu and change your layer height depending on the filament size. We're at .4 right now instead of the default .36.
 
 ## Post Processing of Printed Items
 
