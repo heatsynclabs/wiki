@@ -1,0 +1,47 @@
+# Q: What is HeatSync?
+
+HeatSync is a 501c3 community workshop, a hackerspace, where engineers, artists, students and hobbyists come to create their prototypes, their art, and their projects. It is a workshop for mad scientists and mad artists! We're bringing the tools of creation back to the people.
+
+# Q: What do you consider creation?
+
+We believe in a pretty broad sense of creation. We do not segregate based on 'gendered' tasks, noise levels, mess levels, or even safety. We have knitters next to web developers, next to embedded electronics designers, nearby people using lathes, laser cutters and welders.
+
+# Q: How do you pay for all this?
+
+HeatSync is entirely supported by donations of time and money, and member dues.
+
+# Q: What do I need to bring with me to HeatSync
+
+You need to bring your respect for and interest in the community, your curiosity and passion, and your project. You may be able to get along very well just paying your monthly membership and ingoring the community, but you will get more out of HeatSync, and
+
+# Q: So is it free, or do I have to be a member? or what?
+
+HeatSync is very soft sell. We is open to the public during our business hours (currently 7p-10p M-F) for the public to join us ENTIRELY FREE OF CHARGE. We invite you to come and bring your curiosity, passion and your project. In some sense it is more important that you come and do awesome things with us, than that we get your \$25. However we do need to pay rent and most people who join us for any amount of time end up approaching us asking if they can support us, and that is where membership and donations come in. Please support us any way you can whether it be money, time or some other way.
+
+# Q: Can I take a tool home?
+
+In almost all cases the answer is no. HeatSync is a place where we come and create. If tools are removed from the lab we have no guarantee of seeing them again, or of even knowing they are missing until they are needed. At that point stores may be closed and members may not be able to complete their project. Also in some rare cases, some tools may not owned by HeatSync.
+
+# Q: Why doesn't HeatSync have X tool/disposable? Why is HeatSync is out of X?
+
+`If we don't have something, generally its because you haven't bought it yet! HeatSync is entirely member supported, run, and maintained. Think of HeatSync as your garage. If you need a staple gun and staples you'll have to go out and buy it. However at HeatSync, someone else already bought the hammer, sawzall, and router :)  For bigger purchases talk to the other HeatSync members on the discussion board and in person and work to pool the money needed. For some requests the membership may compel the board to budget for the item via the Hack Your Hackerspace meetings.`
+
+# Q: Can HeatSync make my widget for me?
+
+No. HeatSync has no staff and contracts to create no goods. HeatSync is rather a community of creators who utilize the workshop to create their art, prototypes, and projects. However, you very well might find a member of the HeatSync community in person, or more likely on the discussion board, to help you for free o,r if the item is more complex, at their contract price. HeatSync does not promote or guarantee any member's work.
+
+# Q: Who is in charge?
+
+Practically speaking, nobody and everybody. HeatSync has no paid staff. Members do volunteer to help out with certain tasks and are empowered by the community to do so. There are station managers, ie in charge of the laser cutter, 3d printing, and metal workshop and they are empowered to make decisions about safety and training within those areas. Every 2nd and 4th thursday night at 7pm the group meets for Hack Your Hackerspace where they vote on any existing proposals, arbitrate any issues, and most importantly work to make the space better. Finally HeatSync is a 501c3 nonprofit which means it is legally compelled to have a Board of Directors. The board meets 4 times a year to deal with bigger issues on vision and direction and generally the Board take it upon themselves to sign for contracts on behalf of HeatSync and occasionally on behalf of themselves when for instance HeatSync's credit is insufficient. Unless a murder has taken place you probably don't want to contact the Board of Directors.
+
+# Q: What is Hack Your Hackerspace?
+
+Every 2nd and 4th thursday night at 7pm the group meets for Hack Your Hackerspace where they vote on any existing proposals, arbitrate any issues, and most importantly work to make the space better. Discussion is encouraged on the discussion boards where all members can participate and hash things out all week. HYH should be less a meeting and more a forum for action.
+
+# Q: What projects can I work on?
+
+# Q: What does HeatSync need?
+
+# Q: I lost something, do you know where it might be?
+
+# Q: I broke a tool, what do I do?
