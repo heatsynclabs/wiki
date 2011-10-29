@@ -7,8 +7,10 @@
 The best source online for files is probably [Thingiverse](http://www.thingiverse.com/) If you're feeling up to it you can design your own file!! You need some sort of cad program. Some free possibilities include:
 
 - [Google Sketchup](http://sketchup.google.com/)
-- [Blender](http://www.blender.org)
-- [OpenScad](http://openscad.org) - This is neat because its not googlehical, its a 3d compiler! Its a programming language.
+- [Blender](http://www.blender.org) Blender is TOUGH to learn so if you don't know it then skip it.
+- [OpenScad](http://openscad.org) - This is neat because its not visual, Its a functional programming language.
+- [1](http://www.3dtin.com/) - Browser based 3d modeling!
+- [2](http://http://tinkercad.com/) Another browser based 3d modeling.
 
 Whatever you use you need to export or save to STL format
 
@@ -146,7 +148,7 @@ After adding the Z-axis modification, [Mods of z-axis](http://farm6.static.flick
 
 ## 3/30/2011
 
-We are slimming down the Build Platform to give us another 3/4" of vertical build room. [1](http://www.thingiverse.com/thing:4056) Also modifying the the Z-Stage arm to give another 2"-2.5" of vertical build room.
+We are slimming down the Build Platform to give us another 3/4" of vertical build room. [3](http://www.thingiverse.com/thing:4056) Also modifying the the Z-Stage arm to give another 2"-2.5" of vertical build room.
 
 ## 3/29/2011
 
