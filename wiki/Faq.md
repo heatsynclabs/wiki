@@ -46,4 +46,6 @@ Check out the [Projects](Projects) page on the wiki for a (possibly outdated) li
 
 # Q: I lost something, do you know where it might be?
 
+Check in the lost and found box in the east side member box area. If it's not there, ask on the Google Groups to see if anyone has found what you are looking for.
+
 # Q: I broke a tool, what do I do?
