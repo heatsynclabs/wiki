@@ -22,7 +22,7 @@ HeatSync is very soft sell. We are open to the public during our business hours 
 
 In almost all cases the answer is no. HeatSync is a place where we come and create. If tools are removed from the lab we have no guarantee of seeing them again, or of even knowing they are missing until they are needed. At that point stores may be closed and members may not be able to complete their project. Also in some rare cases, some tools may not owned by HeatSync.
 
-# Q: Why doesn't HeatSync have X tool/disposable? Why is HeatSync is out of X?
+# Q: Why doesn't HeatSync have X tool/disposable? Why is HeatSync out of X?
 
 If we don't have something, generally its because you haven't bought it yet! HeatSync is entirely member-supported, run, and maintained. Think of HeatSync as your garage. If you need a staple gun and staples you'll have to go out and buy it. However at HeatSync, someone else already bought the hammer, sawzall, and router :) For bigger purchases, talk to the other HeatSync members on the discussion board and in person and work to pool the money needed. For some requests, the membership may compel the board to budget for the item via the Hack Your Hackerspace meetings.
 
