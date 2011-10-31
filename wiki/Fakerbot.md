@@ -9,8 +9,10 @@ The best source online for files is probably [Thingiverse](http://www.thingivers
 - [Google Sketchup](http://sketchup.google.com/)
 - [Blender](http://www.blender.org) Blender is TOUGH to learn so if you don't know it then skip it.
 - [OpenScad](http://openscad.org) - This is neat because its not visual, Its a functional programming language.
-- [1](http://www.3dtin.com/) - Browser based 3d modeling!
-- [2](http://http://tinkercad.com/) Another browser based 3d modeling.
+- [1](http://www.3dtin.com/) - 3D Tin, a browser based 3d modeling!
+- [2](http://http://tinkercad.com/) Tinkercad, another browser based 3d modeling.
+- [3](http://labs.autodesk.com/utilities/photo_scene_editor/) PhotoFly creates 3d images from pictures!
+- [4](http://i.materialise.com/creationcorner/sketch-to-3d) I.Materialise will generate you a 3d file from a napkin sketch!
 
 Whatever you use you need to export or save to STL format
 
@@ -42,7 +44,7 @@ The build may take a bit to start while it achieves optimal temperatures. Presum
 
 # Putting Replicator G on your laptop
 
-You can indeed install replicatorg on your laptop for most likely superior performance to the lenovo. You may also be able to get away with not using an SD card. Go to replicat.org and download ReplicatorG 26 or higher. You'll need to change 2 files, [fakerbot.xml](files/Fakerbot.xml) and [start.txt](files/Start.txt). fakerbot.xml goes into the machines directorty. start.txt is a little more tough. It goes under skein_engines/skeinforge-0006/prefs/thingomatic-mk5-heated-abs AND skein_engines/skeinforge-0006/prefs/thingomatic-mk5-abs. Those will also be the profiles you will want to print from. One last, annoying change. When you go to generate your g code with those profiles, you need to go into each and go into the carve menu and change your layer height depending on the filament size. We're at .4 right now instead of the default .36.
+You can indeed install replicatorg on your laptop for most likely superior performance to the lenovo. You may also be able to get away with not using an SD card. Go to replicat.org and download ReplicatorG 26 or higher. You'll need to change 2 files, [fakerbot.xml](files/Fakerbot.xml) and [start.txt](files/Start.txt). fakerbot.xml goes into the machines directorty. start.txt is a little more tough. It goes under skein_engines/skeinforge-0006/prefs/thingomatic-mk5-heated-abs AND skein_engines/skeinforge-0006/prefs/thingomatic-mk5-abs. Those will also be the profiles you will want to print from. One last, annoying change. When you go to generate your g code with those profiles, you need to go into each and go into the carve menu and change your layer height depending on the filament size. We're at .4 right now for black and uv red filament instead of the default .36.
 
 ## Post Processing of Printed Items
 
@@ -148,7 +150,7 @@ After adding the Z-axis modification, [Mods of z-axis](http://farm6.static.flick
 
 ## 3/30/2011
 
-We are slimming down the Build Platform to give us another 3/4" of vertical build room. [3](http://www.thingiverse.com/thing:4056) Also modifying the the Z-Stage arm to give another 2"-2.5" of vertical build room.
+We are slimming down the Build Platform to give us another 3/4" of vertical build room. [5](http://www.thingiverse.com/thing:4056) Also modifying the the Z-Stage arm to give another 2"-2.5" of vertical build room.
 
 ## 3/29/2011
 
