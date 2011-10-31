@@ -28,7 +28,7 @@ If we don't have something, generally its because you haven't bought it yet! Hea
 
 # Q: Can HeatSync make my widget for me?
 
-No. HeatSync has no staff and contracts to create no goods. HeatSync is rather a community of creators who utilize the workshop to create their art, prototypes, and projects. However, you very well might find a member of the HeatSync community in person, or more likely on the discussion board, to help you for free o,r if the item is more complex, at their contract price. HeatSync does not promote or guarantee any member's work.
+No. HeatSync has no staff and contracts to create no goods. HeatSync is rather a community of creators who utilize the workshop to create their art, prototypes, and projects. However, you very well might find a member of the HeatSync community in person, or more likely on the discussion board, to help you for free or, if the item is more complex, at their contract price. HeatSync does not promote or guarantee any member's work.
 
 # Q: Who is in charge?
 
