@@ -12,7 +12,7 @@ HeatSync is entirely supported by donations of time and money, and member dues.
 
 # Q: What do I need to bring with me to HeatSync
 
-You need to bring your respect for and interest in the community, your curiosity and passion, and your project. You may be able to get along very well just paying your monthly membership and ingoring the community, but you will get more out of HeatSync, and
+Bring your curiosity, passion, and your project. Bring your respect for and interest in the community. Bring your friends. HeatSync is the valleys best place to mingle with people of like and disparate interests. You will benefit the most if you bring an open mind and a willingness to involve yourself in the many and different kinds of people and projects here.
 
 # Q: So is it free, or do I have to be a member?
 
