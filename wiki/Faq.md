@@ -10,7 +10,7 @@ We believe in a pretty broad sense of creation. We do not segregate based on 'ge
 
 HeatSync is entirely supported by donations of time and money, and member dues.
 
-# Q: What do I need to bring with me to HeatSync
+# Q: What do I need to bring with me to HeatSync?
 
 Bring your curiosity, passion, and your project. Bring your respect for and interest in the community. Bring your friends. HeatSync is the valleys best place to mingle with people of like and disparate interests. You will benefit the most if you bring an open mind and a willingness to involve yourself in the many and different kinds of people and projects here.
 
