@@ -10,7 +10,7 @@ Hot Topics is scheduled to coincide with Mesa's monthly Second Friday event star
 
 It is an opportunity to :
 
-- keep up to date with eachother's projects
+- keep up to date with each other's projects
 - connect with other hackerspaces
 - explain to the world at large what 'hackers' get up to
 
