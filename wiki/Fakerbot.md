@@ -13,6 +13,7 @@ The best source online for files is probably [Thingiverse](http://www.thingivers
 - [2](http://http://tinkercad.com/) Tinkercad, another browser based 3d modeling.
 - [3](http://labs.autodesk.com/utilities/photo_scene_editor/) PhotoFly creates 3d images from pictures!
 - [4](http://i.materialise.com/creationcorner/sketch-to-3d) I.Materialise will generate you a 3d file from a napkin sketch!
+- [Autocad](http://news.cnet.com/8301-13772_3-57318231-52/autodesk-bringing-3d-modeling-to-the-masses/?part=rss&subj=news&tag=2547-1_3-0-20) just blew it up. 123D Sculpt, 123D Sketch and 123D Capture suite.
 
 Whatever you use you need to export or save to STL format
 
