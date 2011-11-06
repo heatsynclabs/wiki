@@ -1,4 +1,4 @@
-Feel free to brainstorm here on fund raising ideas and track their progress. The board has set a conservative goal of a single fundraiser per month that raises at least \$150.
+As we move towards solvency we have scaled back our fundraising efforts. More effort is intended to be spent on our mission, and occasionally there is opportunity for overlap with a fundraising idea.
 
 ## Previous Fundraisers
 
