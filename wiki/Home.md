@@ -22,7 +22,7 @@
 </ul></li>
 <li><a href="Presentations">Presentations</a></li>
 <li><a href="Events">Events</a></li>
-<li><a href="Reference">Reference</a></li>
+<li><a href="Faq">Faq</a></li>
 <li><a href="Suggestions">Suggestions</a></li>
 <li><a href="Workshops-DRAFT">Workshops **DRAFT**</a></li>
 </ul>
