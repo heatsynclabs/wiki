@@ -36,8 +36,6 @@ This is a list of responsibilities (what is expected of the position), as well a
 
 ## Treasurer
 
-Also see [ Office of Treasurer HowTo](Treasurer-Howto)
-
 - Manage bank accounts (with accountant's help)
 - Collect dues and monetary donations
 - Initiating and revoking memberships (with secretary's help)
