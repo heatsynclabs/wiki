@@ -59,7 +59,7 @@ Also see [ Office of Treasurer HowTo](Treasurer-Howto)
 
 - Check PO box
 - Initiating and revoking memberships (keys, documents, etc, with treasurer's help)
-- find and enter speakers using the [Speaker Process](Speaker-Process)
+- find and enter speakers using the [Procedures#Speaker_Process](Procedures#speaker-process)
   - be point of contact on thursdays for these presenters, set up any resources they need (projector, mic, etc)
   - send thank yous, etc
   - post presentations on wiki and maybe a private list of emails so we can reschedule speakers <http://wiki.heatsynclabs.org/w/index.php?title=Presentations>
