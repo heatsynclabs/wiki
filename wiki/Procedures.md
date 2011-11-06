@@ -25,3 +25,29 @@ When someone wants to use equipment they're not certified for:
 
 - If there's a class scheduled for that equipment, hook them up with that class/teacher.
 - If there is no class scheduled, suggest that the member email the group asking for a class. Alternatively, if there is time and a certified member is onsite, they may give an impromptu class according to the [Equipment Use Guidelines](Rules).
+
+### Sales and membership
+
+For any sales (i.e. t-shirts, Arduino boards, etc) the sales person (must be a board member) needs to ideally use Square process the payment. Please include
+
+- Name (first and last)
+- Email address
+- Item sold
+- Amount sold for
+
+If Square is unavailable record this information so that the sale can be tracked and an electronic receipt can be sent to the buyer via e-mail.
+
+### Speaker Process
+
+1.  Operations solidifies speaker date and explains the following:
+    1.  Meeting starts at 7pm
+    2.  Speakers start at 7:30pm
+    3.  Talks are \<30mins and we prefer inclusion of hands on activity
+    4.  Projector, sound and laptop connectors provided
+    5.  Ask if they need anything else from us, or if audience needs to bring in x
+2.  Request topic name, description (overview of what will be covered for marketing), and bio.
+3.  Once This Happens Operations replaces 'open hack' thursday meeting with new data on the google calendar.
+4.  Forward out same information to board@ and operations@ so everyone (including marketing) are up to date
+5.  Night of, arrive early, be point of contact for speaker, help setup, help tear down, Thank presenter
+6.  Send thank you via email, etc
+7.  Post presentations on wiki and maintain a private list of emails so we can reschedule speakers [Presentations](Presentations)
