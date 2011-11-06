@@ -20,7 +20,6 @@
 <ul>
 <li><a href="Operational-Policies">Operational Policies</a></li>
 </ul></li>
-<li><a href="Presentations">Presentations</a></li>
 <li><a href="Events">Events</a></li>
 <li><a href="Faq">Faq</a></li>
 <li><a href="Suggestions">Suggestions</a></li>
