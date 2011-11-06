@@ -12,6 +12,7 @@ Also, we'd like to change the design so the DrawBot reads it's commands from an 
 
 - Chassis/pen holder
   - custom part, will need to build in house
+- 2x [Spools for steppers](http://www.thingiverse.com/thing:13330)
 - 2 x suction cups (mount points for belts)
   - [10 lb suction cups?](http://www.mcmaster.com/#suction-cups/=e59uu8)
 - 2 x stepper drivers
