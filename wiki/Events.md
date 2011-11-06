@@ -9,6 +9,7 @@ If there is an event you would like us to host or make an appearance at, please 
 - [First Friday](First-Friday)
 - [Makerfaire](Makerfaire)
 - [One Year Anniversary Party](Laser-Mustache-Party)
+- [Hack_Your_Hackerspace](Hack-Your-Hackerspace)
 
 ## See Also
 
