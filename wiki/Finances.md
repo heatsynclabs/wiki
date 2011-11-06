@@ -1,5 +1,3 @@
-# Finances
-
 Finances are the domain of the Treasurer. HeatSync attempts to be as open book to our members as possible, and nearly that open to the public in general. The treasurer at the first [Hack_Your_Hackerspace](Hack-Your-Hackerspace) meeting of the month will give an update to the membership and answer any questions. Further you may contact the treasurer at any time to talk about our financial status.
 
 # Purchasing and Reimbursement Policy
