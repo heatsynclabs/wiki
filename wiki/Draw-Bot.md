@@ -40,6 +40,12 @@ Also, we'd like to change the design so the DrawBot reads it's commands from an 
 <http://arduino.cc/en/Reference/StepperBipolarCircuit>\
 <http://www.arduino.cc/en/Tutorial/MotorKnob>
 
+## H-Bridge Resources
+
+<http://en.wikipedia.org/wiki/H_bridge>\
+<http://www.ti.com/lit/ds/symlink/sn754410.pdf>\
+The steppers we have are R,G,Y,B for pins 1,2,3,4 respectively.
+
 # Links
 
 - [Der Kritzler](http://tinkerlog.com/2011/09/02/der-kritzler/)
