@@ -2,6 +2,7 @@ The HeatSync Labs Community Involvement page is intended to document articles re
 
 ## Blogs
 
+- [HeatSync Labs at Maker Faire Phoenix](http://julienauphotodesign.com/2011/10/maker-faire-phoenix/)
 - [HeatSync Labs, an inventors' co-op](http://www.examiner.com/video-game-industry-in-phoenix/heatsync-labs-an-inventors-co-op)
 - [Craft for Japan at HeatSync Labs](http://blogs.evtrib.com/nerdvana/2011/05/12/craft-for-japan-at-heatsync-labs/)
 - [HeatSync Labs board unanimous in approving proposed Mesa lease](http://blogs.evtrib.com/nerdvana/2011/05/12/heatsync-mesa/)
