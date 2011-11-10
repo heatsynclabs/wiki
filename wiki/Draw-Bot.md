@@ -36,6 +36,10 @@ Also, we'd like to change the design so the DrawBot reads it's commands from an 
   - go w/ 5mm shaft
 - 20 ft toothed belt
 
+## Spools
+
+Right now, the spools are mounted on the stepper spindles. A possible change: a small gear on the spindles that meshes with teeth on the spool. Gear reduction.
+
 ## Motor Control
 
 <http://arduino.cc/en/Reference/StepperBipolarCircuit>\
