@@ -22,7 +22,7 @@
 </ul></li>
 <li><a href="Events">Events</a>
 <ul>
-<li><a href="Hack-Your-Hackerspace">Hack_Your_Hackerspace</a></li>
+<li><a href="Hack-Your-Hackerspace">Hack Your Hackerspace</a></li>
 </ul></li>
 <li><a href="Faq">Faq</a></li>
 <li><a href="Suggestions">Suggestions</a></li>
