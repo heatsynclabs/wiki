@@ -20,7 +20,10 @@
 <ul>
 <li><a href="Operational-Policies">Operational Policies</a></li>
 </ul></li>
-<li><a href="Events">Events</a></li>
+<li><a href="Events">Events</a>
+<ul>
+<li><a href="Hack-Your-Hackerspace">Hack_Your_Hackerspace</a></li>
+</ul></li>
 <li><a href="Faq">Faq</a></li>
 <li><a href="Suggestions">Suggestions</a></li>
 <li><a href="Workshops-DRAFT">Workshops **DRAFT**</a></li>
