@@ -45,7 +45,7 @@ The asterisk and pound keys aren't used for anything in this, so they can be ign
 
 ## Sauce
 
-Source code is available at [this Github repo](https://github.com/huertanix/loldialer).
+Source code is available at [the loldialer Github repo](https://github.com/huertanix/loldialer). Source code that supports the Adafruit membrane keypad, Tropo, and Nyan cat is in the [Adafruit branch](https://github.com/huertanix/loldialer/tree/adafruit).
 
 ## BONUS
 
