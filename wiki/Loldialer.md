@@ -33,6 +33,10 @@ Hhhhhhhokay, so the idea here kiddies, is to build a device that can make a call
 - [Trololololol](http://www.youtube.com/watch?v=T3n0vBcW5fc&feature=related)
 - [Badger badger badger...](http://www.youtube.com/watch?v=EIyixC9NsLI)
 
+NEW NEW NEW in Adafruit branch
+
+- [Nyancat](http://nyan.cat/)
+
 ## Use case
 
 PLUG IT IN PLUG IT IN\[to an ethernet port\], thus jacking into the Matrix, choose a horrible audio file to play, then enter a victim's phone number, \[somehow\] tell that the user has picked up, giggle like a schoolboy, then end the call if the victim is still on the line. If purchasing a phone number from Twilio/Tropo, configure the number to robo-voice rick roll them when they return their call.
