@@ -8,11 +8,11 @@ Hhhhhhhokay, so the idea here kiddies, is to build a device that can make a call
 
 - [Arduino Uno](http://www.heatsynclabs.org/store/electronics/)
 - [Arduino Ethernet Shield](http://www.sparkfun.com/products/9026)
-- [Twilio](http://www.sparkfun.com/products/8653) (or Tropo I guess)
+- [Twilio](http://www.twilio.com/) (or [Tropo](http://www.tropo.com))
 - [16x2 LCD Screen (Serial)](http://www.sparkfun.com/products/9395)
 - [Phone keypad](http://www.sparkfun.com/products/8653)
 - [Wires, lots of wires](http://www.sparkfun.com/products/9386)
-- [Breadboard (for holding resistors)](http://www.sparkfun.com/products/8803)
+- [Breadboard](http://www.sparkfun.com/products/8803) (for holding resistors, not required if using [Adafruit membrane keypad](https://www.adafruit.com/products/419))
 - Resistors (4 total, 5 Kohm)
 - Basic Ruby web \[page\|service\]
 - Internets
