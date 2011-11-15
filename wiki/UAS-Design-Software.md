@@ -8,4 +8,11 @@ In order to fully describe a motion status of an object, 6 variables are needed,
 
 - code will be implemented in c++
 - application will be single threaded, design may or mayn't take this into consideration.
--
+- 
+
+## Main Loop
+
+- Sensor Reading
+- Sensor combing
+- Position Control
+- Telemetry & Datalogging
