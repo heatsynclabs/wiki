@@ -16,3 +16,5 @@ In order to fully describe a motion status of an object, 6 variables are needed,
 - Sensor combing
 - Position Control
 - Telemetry & Datalogging
+
+sensor the first three items will be run all the time, and the last will only be executed if there is enough time. We will put in ,some kind of check to ensure that telemetry is going out sometime, even if the timers are being overrun.
