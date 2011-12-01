@@ -32,7 +32,7 @@ Lets pick out a list of 'essential' tools in each category. The [Fab Lab](http:/
 - Band Saw - We have the Harbor Freight model, but its a little rough..
 - Air filtration - for wood projects and routers, etc. Can we
 - 3D Scanner - Nextgen?
-- Pick and Place - APS?
+- Pick and Place - APS? or <http://code.google.com/p/openpnp/>
 
 # Software
 
