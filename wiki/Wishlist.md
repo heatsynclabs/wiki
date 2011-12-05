@@ -27,7 +27,7 @@ Lets pick out a list of 'essential' tools in each category. The [Fab Lab](http:/
 - Air Compressor - we have a cheap Ace Hardware version, but its a little rough
 - Band Saw - We have the Harbor Freight model, but its a little rough..
 - Air filtration - for wood projects and routers, etc. Can we
-- 3D Scanner - Nextgen?
+- 3D Scanner - Nextgen? or [Fabscan?](http://hci.rwth-aachen.de/FabScan)
 - Pick and Place - APS? or <http://code.google.com/p/openpnp/>
 
 # Software
