@@ -1,27 +1,31 @@
-## Current Projects
+## Active Projects
 
 **Please add links to your projects here, in *reverse chronological* order!**
 
+- [Fakerbot](Fakerbot)
 - [Draw Bot](Draw-Bot)
 - [Drone](Drone)
 - [A-Frame](A-Frame)
-- [SyncSwag](SyncSwag)
 - [SEM Microscopy](SEM-Microscopy)
+- [Nearspace Balloon II](Nearspace-Balloon-2)
+- [Evoked Potential Eye Mask](Evoked-Potential-Eye-Mask)
+- [Autohacking](Autohacking)
+
+## Inactive Projects That Need Your Help
+
+- [Phoenix RepRap](Phoenix-RepRap)
+- [3D Scanner](3D-Scanner)
+- [NightVision](NightVision)
 - [Accessibility](Accessibility) grant research
 - [Solar Concentrator Power Generation](Solar-Concentrator)
-- [Nearspace Balloon II](Nearspace-Balloon-2)
-- [Phoenix RepRap](Phoenix-RepRap)
+- [SyncSwag](SyncSwag)
 - [Magomatic V2](Magomatic-V2)
 - [Hax0r Candy Machine](Hax0r-Candy-Machine)
-- [Evoked Potential Eye Mask](Evoked-Potential-Eye-Mask)
-- [3D Scanner](3D-Scanner)
-- [Autohacking](Autohacking)
 
 ## Completed Projects / Hall of Fame
 
 - [LED Whiteboard](LED-Whiteboard)
 - [Creeper Dress Shirt](Creeper-Dress-Shirt)
-- [NightVision](NightVision)
 - [RFID_Access](RFID-Access) control system in Arduino
 - [Loldialer](Loldialer)
 - Potato Cannons
