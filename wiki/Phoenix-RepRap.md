@@ -1,5 +1,7 @@
 # Project Synopsis
 
+CURRENT STATUS: In pieces, check out [Fakerbot](Fakerbot) instead.
+
 We've been trying to brainstorm a good project idea that we can focus on to present to ASU for the \$2000 grant we're aiming for. One project that would definitely put us on the map and would also allow us to reach out to the local community would be procuring a Rapid-Prototyping device. The RepRap project is a prime example of one whose initial creator's intention was not only to make a device that was as inexpensive as possible but also one that can replicate itself. Seeing the cost benefits analysis, as well as, the vast improvements with version II of this device(Mendel) we're thinking about going with that design.
 
 --Update - ASU did not fund us so we did it ourselves. Take that establishment.
