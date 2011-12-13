@@ -7,7 +7,6 @@
 - [A-Frame](A-Frame)
 - [SyncSwag](SyncSwag)
 - [SEM Microscopy](SEM-Microscopy)
-- [RFID_Access](RFID-Access) control system in Arduino
 - [Accessibility](Accessibility) grant research
 - [Solar Concentrator Power Generation](Solar-Concentrator)
 - [Nearspace Balloon II](Nearspace-Balloon-2)
@@ -17,10 +16,13 @@
 - [Evoked Potential Eye Mask](Evoked-Potential-Eye-Mask)
 - [3D Scanner](3D-Scanner)
 - [Autohacking](Autohacking)
-- [NightVision](NightVision)
 
 ## Completed Projects / Hall of Fame
 
+- [LED Whiteboard](LED-Whiteboard)
+- [Creeper Dress Shirt](Creeper-Dress-Shirt)
+- [NightVision](NightVision)
+- [RFID_Access](RFID-Access) control system in Arduino
 - [Loldialer](Loldialer)
 - Potato Cannons
 - [ 2000 ASU EAP Grant Proposal](2kproposal)
