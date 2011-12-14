@@ -10,6 +10,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 
 - Membership levels
   - What level are they?
+  - What do you get? (Box, etc)
 - Guest sponsorships
 - Public/private space
   - No taking equipment offsite or touching people's boxes/lockers.
