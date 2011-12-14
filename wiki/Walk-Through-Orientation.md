@@ -15,7 +15,13 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - No taking equipment offsite or touching people's boxes/lockers.
   - Public stuff shouldn't be left in your box, your stuff shouldn't be left laying around the lab.
 - How to fix/connect to wifi (hacktheplanet)
-- Parking (dedicated, hour enforcement, street parking)
+- Parking (dedicated, hour enforcement, street parking, passes)
+- HYH Meetings (agenda, vote on proposals, working on improving lab)
+  - Soda (donations, repurchasing)
+  - Member access card proposals
+  - Donations are accepted but stuff shouldn't stay in the public lab space without a vote.
+  - Monthly Treasurer report
+  - Proposals to the Board/Treasurer
 
 <!-- -->
 
