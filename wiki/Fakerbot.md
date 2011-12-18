@@ -89,6 +89,10 @@ Acetone is a good solvent for ABS plastic. Using pure acetone applied with a pai
 
 # Status Updates
 
+## 12/18/2011
+
+Heated Bed has been working good with none of that unreliability. Only problem is power wires work hardening and occasionally shorting because of it. Look forward to getting pins and connectors on there again. We switched out wood cantilever for the old acrylic one as wood is becoming 'spongy' This meant a start.txt change as we gained 6mm or so of Z height. We don't have the design files to cut a new one so Corey has been asked to upload those. Next we want a nema 17 stepper drive ala MK6 (100oz-in) on there, but most nema17s have a 5mm pin and the drive gear is a 6mm ID :( Makerbot sells a new 5mm drive gear for \$12 but its out of stock right now.
+
 ## 10/24/2011
 
 New Makerbot(tm) heated bed installed to see if its any more reliable than my home built set up. Before we could really find out though the Motherboard is losing its firmware??? I reflashed it but now the SD card doesn't work, and I hear it won't respond again now so needs reflashing again. The only thing I can think of is power supply issues, and separately a need to reflow the SD card.
