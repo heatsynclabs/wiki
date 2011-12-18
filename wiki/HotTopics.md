@@ -29,3 +29,10 @@ Send an email to info@heatsynclabs.org with your presentation topic and title an
 - [Killhamster, Introduction to Buttcoin](http://www.youtube.com/watch?v=xRFm-LCqL1w)
 - [Isaac Olson, Local Motors' Open Source Car](http://www.youtube.com/watch?v=OBh5y_NMHjQ)
 - [Clark Jones, Digital Altimeters](http://www.youtube.com/watch?v=QOcn3ORc9dw)
+
+## 11/11
+
+- [Scott Bailey, Draw bot build updates](http://www.youtube.com/watch?v=n7Jy0jDZACo)
+- [Chad Stearns, The Mathematics of Music](http://www.youtube.com/watch?v=Sd6d0mrdUKQ)
+- [Justin Benore, Anodized Screen Printing](http://www.youtube.com/watch?v=KOm-dmwaMBc)
+- [Katherine George, SouthWest Scrap Exchange](http://www.youtube.com/watch?v=ZjvOgjA9bLE)
