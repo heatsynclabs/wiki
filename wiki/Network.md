@@ -27,8 +27,6 @@ From the outside, hsl-border1 exposes the following ports:
   - zebra for dn42 running on hsl-border1
 - 2605/tcp open bgpd
   - bgp control daemon running on hsl-border1
-- 8090/tcp open unknown
-  - ???
 - 9000/tcp open cslistener
   - forwards to 172.22.110.11:80
 - 9001/tcp open tor-orport
