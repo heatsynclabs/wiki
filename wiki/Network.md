@@ -10,7 +10,7 @@ IT is organized and managed by the [Operations team](Operations-team), primarily
 From the outside, hsl-border1 exposes the following ports:
 
 - 22/tcp open ssh
-  - forwards to hsl1.hsl.dn42:9393
+  - forwards to hsl-access:22
 - 53/tcp open domain
   - DNS running on hsl-border1
 - 80/tcp open http
