@@ -14,6 +14,12 @@ The machine is a pfSense box running upstairs, labelled hsl-firewall
 - Gateway to internet
 - Gateway to dn42
 
+#### Responsible Parties
+
+- IT
+  - Will
+  - Ryan
+
 #### NMAP
 
     [rrix@stinkpad ~]$ nmap hsl-border1.hsl.dn42 -p1-65365
