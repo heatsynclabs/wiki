@@ -175,12 +175,21 @@ intranet.hsl.dn42 provides the heart of our infrastructure system. Responsible f
 
 #### Responsible For
 
+- Main web content
+  - www.heatsynclabs.org
+  - toolshare.heatsynclabs.org
+  - wiki.heatsynclabs.org
+  - mustacheparty.org
+
 #### Responsible Parties
 
 - IT
-  - Will
-  - Ryan
+  - Will (primary)
+  - Ryan (has root access)
 
 #### NMAP
 
-    did not run
+    did not run:
+
+    *:80 for http
+    *:9393 for ssh
