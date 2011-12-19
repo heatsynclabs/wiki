@@ -99,4 +99,36 @@ This is one of the two IP cameras in the space.
 
 ### intranet.heatsynclabs.org (172.22.110.15)
 
+#### Overview
+
+intranet.hsl.dn42 provides the heart of our infrastructure system. Responsible for managing access to the 23b [Open Access Control](Open-Access-Control) board which manages our door locks via port 80. This machine also hosts the UniFi control software which manages the wireless APs on our network.
+
+#### Responsible For
+
+- OAC web access
+- Ubiquity Wireless AP controls
+- SpaceAPI
+
+#### Responsible Parties
+
+- IT
+  - Will
+  - Ryan
+
+#### NMAP
+
+    [rrix@stinkpad ~]$ nmap 172.22.110.15 -p1-65365
+
+    Starting Nmap 5.51 ( http://nmap.org ) at 2011-12-18 18:59 MST
+    Nmap scan report for intranet.heatsynclabs.org (172.22.110.15)
+    Host is up (0.010s latency).
+    Not shown: 65359 closed ports
+    PORT     STATE SERVICE
+    22/tcp   open  ssh
+    80/tcp   open  http
+    8080/tcp open  http-proxy
+    8443/tcp open  https-alt
+    8843/tcp open  unknown
+    8880/tcp open  cddbp-alt
+
 ### 172.22.110.16
