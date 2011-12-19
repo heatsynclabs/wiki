@@ -132,3 +132,17 @@ intranet.hsl.dn42 provides the heart of our infrastructure system. Responsible f
     8880/tcp open  cddbp-alt
 
 ### 172.22.110.16
+
+#### Overview
+
+.16 is the server responsible for serving our main web presences of heatsynclabs.org and wiki.heatsynclabs.org.
+
+#### Responsible For
+
+#### Responsible Parties
+
+- IT
+  - Will
+  - Ryan
+
+#### NMAP
