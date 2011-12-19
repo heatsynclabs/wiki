@@ -45,4 +45,4 @@ The machine is a pfSense box running upstairs, labelled hsl-firewall
 
 ### intranet.heatsynclabs.org (172.22.110.15)
 
-Nmap scan report for 172.22.110.16
+### 172.22.110.16
