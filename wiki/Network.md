@@ -1,3 +1,41 @@
+## Overview
+
+IT is organized and managed by the [Operations team](Operations-team), primarily Will Bradley and Ryan Rix. Our network is a pretty standard network, all things considered, with a few caveats:
+
+- access to the [dn42](Dn42) hacker darknet
+- pfSense routing
+
+## From the Outside
+
+From the outside, hsl-border1 exposes the following ports:
+
+- 22/tcp open ssh
+  - forwards to hsl1.hsl.dn42:9393
+- 53/tcp open domain
+  - DNS running on hsl-border1
+- 80/tcp open http
+  - forwards to hsl1:80
+- 81/tcp open hosts2-ns
+  - forwards to hsl-access.hsl.dn42:81
+- 179/tcp open bgp
+  - bgp running on hsl-border1 for [dn42](Dn42)
+- 443/tcp open https
+  - hsl-border1 pfSense administration interface
+- 1999/tcp open tcp-id-port
+  - ssh access to hsl-boreder1
+- 2601/tcp open zebra
+  - zebra for dn42 running on hsl-border1
+- 2605/tcp open bgpd
+  - bgp control daemon running on hsl-border1
+- 8090/tcp open unknown
+  - ???
+- 9000/tcp open cslistener
+  - forwards to 172.22.110.11:80
+- 9001/tcp open tor-orport
+  - forwards to 172.22.110.12:80
+- 9002/tcp open dynamid
+  - forwards to 172.22.110.13:80 (inactive)
+
 ## Active Systems
 
 ### hsl-border1.hsl.dn42 (172.22.110.1)
