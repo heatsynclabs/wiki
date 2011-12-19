@@ -70,6 +70,33 @@ This is one of the two IP cameras in the space.
 
 ### 172.22.110.12
 
+#### Overview
+
+This is one of the two IP cameras in the space.
+
+#### Responsible For
+
+- Back of lab security coverage
+- Back of lab live.heatsynclabs.org coverage
+
+#### Responsible Parties
+
+- Will Bradley
+
+#### NMAP
+
+     
+    [rrix@stinkpad ~]$ nmap 172.22.110.12 -p1-65365
+
+    Starting Nmap 5.51 ( http://nmap.org ) at 2011-12-18 18:51 MST
+    Nmap scan report for 172.22.110.12
+    Host is up (0.0079s latency).
+    Not shown: 65364 closed ports
+    PORT   STATE SERVICE
+    80/tcp open  http
+
+    Nmap done: 1 IP address (1 host up) scanned in 305.68 seconds
+
 ### intranet.heatsynclabs.org (172.22.110.15)
 
 ### 172.22.110.16
