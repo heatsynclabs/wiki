@@ -5,3 +5,7 @@ Fabric based on Creeper texture straight from the Minecraft videogame, printed a
 Shirt design based on existing shirt I had, tore apart, scanned using a large copier, traced in Inkscape, laser cut the fabric, and uploaded the shirt design to [Thingiverse (click for DXF design files & instructions)](http://www.thingiverse.com/thing:13434).
 
 Sewed using normal sewing machine techniques (see Thingiverse for sewing instructions.)
+
+![](files/Classy_Creepers.jpg)
+
+*Classy_Creepers.jpg*
