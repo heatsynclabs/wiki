@@ -90,6 +90,8 @@ A point cloud can be brought into MeshLab as a PLY file, a simple ASCII format f
 
 From here you can merge scans together. The merging process is sometimes easier if you mark certain areas of the object with sharpy so you can align the dots from different scans.
 
+Also, this guy just started this project for a college project: <http://hci.rwth-aachen.de/fabscan>
+
 ### Videos
 
 systm Covered Cheap 3D Scanning in this Episode:\
