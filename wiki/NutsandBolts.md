@@ -77,7 +77,16 @@ On mcmaster carr I drilled down to socket cap screws-\>standard head-\>drive by 
 
 # hex cap bolts metric
 
+we use mainly metric for rep rap style open source projects, mainly small, m3 and m4
+
+- m3 91292A113 \$5.86x100 10mm stainless
+- m3 91292A114 \$3.15x100 12mm stainless
+- m3 91292A115 \$3.24x100 16mm stainless
+- m3 92125A136 \$4.83x100 20mm stainless
+- m3 91292A022 \$3.63x50 30mm stainless
 - m4 91290A168 \$6.39 x100 20mm black oxide
+- m4 91292A122 \$8.26x100 25mm stainless
+- m4 91290A186 \$12.71x100 50mm alloy steel
 - m5 91290A242 \$7.67 x100 20mm black oxide
 - m6 91290A326 \$8.23 x100 20mm black oxide
 - m8 91290A426 \$9.22 x50 20mm black oxide
