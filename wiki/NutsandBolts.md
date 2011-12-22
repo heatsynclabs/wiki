@@ -1,4 +1,4 @@
-We needed a way to fill up all of our component storage bins (which came cheap at like \$10 at harbor freight) with a good subset of hardware. Hardware assortment kits generally cost ~50+ just for a nut or bolt or washer set and only for subset of metric or standard using cheap components!
+This page is meant to document our hardware purchases for future generations.
 
 # Nuts and Washers Guidelines
 
@@ -55,13 +55,9 @@ When reordering, dont necessarily buy the same part if price has gone up substan
 - 3/8 91101A231 3.20 x100
 - 1/2 91101A233 5.53 x100
 
-# Total cost
-
-- \$68.30
-
 # Bolts Guidelines
 
-On mcmaster carr I drilled down to socket cap screws-\>standard head-\>drive by hex-\>right handed-\>no self locking. Go cheapest finish(black oxide or stainless is often cheapest). Just order a large length rather than stock all lengths. We can cut them down if we need to. Again it is more important to find the price break for size/qty than for matching sets
+On mcmaster carr I drilled down to socket cap screws-\>standard head-\>drive by hex-\>right handed-\>no self locking. Go cheapest finish(black oxide or stainless is often cheapest). Just order a large length (fully threaded if possible) rather than stock all lengths. We can cut them down if we need to. Again it is more important to find the price break for size/qty than for matching sets
 
 # hex cap bolts standard
 
