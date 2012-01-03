@@ -212,10 +212,11 @@ See [Laser Cutter](Laser-Cutter)
 
 ### Hand Drill & Drill Press
 
-- Appropriate speed based on diameter and hardness(define)
-- How do they know if a bit is good
-- What to do with bad bits (put them in upside down for resharpening?)
-- Types of bits (general vs precision)
+- Adjust pulleys to the appropriate speed based on diameter and hardness of material
+- If drill bits are bad, put them in the Broken Tools bin.
+- If you break a bit, stop and reevaluate what you're doing wrong.
+- Don't use precision bits for rough work.
+- Don't use TiN (yellow) bits for Aluminum
 
 ### Consumables
 
