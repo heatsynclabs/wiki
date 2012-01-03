@@ -89,6 +89,10 @@ Acetone is a good solvent for ABS plastic. Using pure acetone applied with a pai
 
 # Status Updates
 
+## 01/03/2012
+
+Created new combined endstop parts and swapped them so we're now standard xyz min, min, max! We will still need a machines.xml for our altered size and speeds, sadly, but we may be able to at least not make the start.txt (now called start.gcode) necessary. Only thing holding us might be tool temp. Freshly greased all x and y rods. Machine is currently down while we try to install and tune new Mk6 style extruder and newly cut cantilever (with better bolt tolerances and therefore less wiggle on the z).
+
 ## 12/18/2011
 
 Heated Bed has been working good with none of that unreliability. Only problem is power wires work hardening and occasionally shorting because of it. Look forward to getting pins and connectors on there again. We switched out wood cantilever for the old acrylic one as wood is becoming 'spongy' This meant a start.txt change as we gained 6mm or so of Z height. We don't have the design files to cut a new one so Corey has been asked to upload those. Next we want a nema 17 stepper drive ala MK6 (100oz-in) on there, but most nema17s have a 5mm pin and the drive gear is a 6mm ID :( Makerbot sells a new 5mm drive gear for \$12 but its out of stock right now.
