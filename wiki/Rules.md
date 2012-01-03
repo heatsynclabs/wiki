@@ -60,21 +60,20 @@ The membership of a member shall terminate upon the following events:
 
 ## General Space Safety Rules
 
-The workshop is considered the HeatSync labs doors, proceeding beyond that line (actually mark a yellow line) constitutes agreement with these guidelines.
+Proceeding into shop areas constitutes agreement with these and other posted guidelines.
 
 ### General
 
 - Clean up after yourself after using any public space or machine, including cleaning tables, machines and floor area around it and returning any items to their proper location.
 - Do not use a machine if you have not been shown how to operate it safely by the teacher.
-- All accidents are to be reported to any Officer as soon as possible, within 24 hours at the latest.
-- Safety violations you witness should be reported to any Officer as soon as possible, within 24 hours at the latest.
+- All accidents and safety violations are to be reported to any Officer as soon as possible, within 24 hours at the latest.
 - Only use correct tools for your work.
 - When carrying tools, sharp edges should be pointed downwards.
 - Be patient and do not rush.
 - Avoid distractions.
 - Don’t work on anything when you are angry or upset.
-- Only use tools you’ve been trained and/or approved to work with/on.
-- Familiarize yourself with the location and contents of the first aid station and report any outage of first aid materials
+- Only use tools you’ve been trained and/or approved to work with/on. Ask!
+- Familiarize yourself with the location and contents of the first aid station and report any usage or outage of first aid materials.
 
 ### Workshop
 
@@ -88,11 +87,11 @@ The workshop is considered the HeatSync labs doors, proceeding beyond that line 
 
 - Perform a visual inspection of the tool before using it looking for things like possible damage, missing or loose parts, or the previous user's materials
 - Do not use an equipment if it is marked as damaged or appears to be damaged
-- Damaged Equipment is to be reported to the Sergeant at Arms as soon as possible
+- Damaged Equipment is to be reported to an officer as soon as possible
 - Keep flammable and combustible items away from spark producing activities. Before using a grinder, look to see what is stored around that might respond to a spark. The same with welding or cutting.
 - Know where the emergency button is on all tools
-- Use of Equipment while intoxicated result in immediate expulsion of the member.
-- Misuse of any Equipment is to be reported to an Officer as soon as possible
+- Use of Equipment while intoxicated is grounds for immediate expulsion of the member.
+- Misuse of any equipment is to be reported to an Officer as soon as possible
 
 ### Clothing
 
