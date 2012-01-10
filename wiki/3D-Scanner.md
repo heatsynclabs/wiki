@@ -8,7 +8,7 @@ Once getting a basic functional setup we'll move towards commercial methods of d
 
 ## Budget
 
-Goal is to have the ultimate cost for this project to be less than commercially available products. The lowest that I've found so far is:
+Goal is to have the ultimate cost for this project to be less than commercially available products. The lowest commercial costing products that I've found so far is:
 
 **NextEngine** - \$2,995
 
