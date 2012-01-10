@@ -6,7 +6,7 @@ There is a community surrounding some free 3D scanner software called David Lase
 
 Once getting a basic functional setup we'll move towards commercial methods of doing multi-scans at the same time and combine the results after processing to ensure that we have the least amount of noise possible and the cleanest scan from the cheapest materials.
 
-## Budget
+# Budget
 
 Goal is to have the ultimate cost for this project to be less than commercially available products. The lowest commercial costing products that I've found so far is:
 
@@ -16,9 +16,9 @@ or
 
 **David 3D Package w/ Camera** - circa \$1,418.67
 
-## Trials
+# Trials
 
-### First Scan Setup
+## First Scan Setup
 
 Tried my first scan using the following materials:
 
@@ -30,7 +30,7 @@ Tried my first scan using the following materials:
 
 **Conclusion** - This was successful and surprisingly satisfying seeing the results pop up on the screen immediately. Scanned one side of a spray bottle and it was distinguishable in the resulting render. The precision and detail wasn't that great with hand holding the laser. Skipping around a bit. I would like to fix that in the second revision. Also, the laser is not diffracted as well as I would like. The laser line varies from a bright spot to very thin line. Looks like the background poster board could be made larger to fill the full frame of the camera's field of vision. The tape I used to tape down the calibration points ended up being detected by the software as calibration points. I need the tape not to show up in the frame or to use alternative adhesives. Lastly, I will need to play with controlled lighting in the scanning environment so that we don't have any stray shadows that take away from the scan. Possibly an enclosed environment? Possibly up the quality with an external [firewire camera](http://www.firewirecamera.org).
 
-### Second Scan Setup
+## Second Scan Setup
 
 With this revision I would like to attempt to create a rotational base for the objects that we want to scan. This time I can set up the laser in a fixed setup scanning vertically and taking out the user error of the scanning. With the steps from the motor we should get finer detail. For the laser itself I am upgrading to a 10mw Green Laser that will be diffracted through a line generator lens or a stem from a wine glass. Apparently green shows up better on camera CCDs(need to look a bit more into optics to verify this as I know green is at the peak of the optical spectrum for human beings). Finally, as the object we are scanning is no longer static we will need to take video instead of still shots and then stitch the frames together to create our object. The use of white paint on objects being scanned seems to heighten the quality of the scan as well.
 
@@ -40,9 +40,9 @@ With this revision I would like to attempt to create a rotational base for the o
 - Parts to create something similar to this commercial base - <http://ortery.com/products/photocapture360-360-degree-photo-animation-turntable.php>
 - White Spray Paint(Washable?)
 
-## Links
+# Links
 
-### Commercial Models
+## Commercial Models
 
 NextEngine:\
 <https://www.nextengine.com/indexSecure.htm>
@@ -50,7 +50,7 @@ NextEngine:\
 RapMan Is Selling a David Laser Scanner Package:\
 <http://www.rap-man.com/david3d.asp>
 
-### Open Source Projects
+## Open Source Projects
 
 MakerBot Industries Attempt at a Scanner:\
 <http://www.makerscanner.com/>\
@@ -59,11 +59,11 @@ MakerBot Industries Attempt at a Scanner:\
 MakerBot Cyclops - 3D Scanner Mount:\
 <http://www.thingiverse.com/thing:4271>
 
-### Current News
+## Current News
 
 <http://blog.makezine.com/archive/2010/03/letters_from_the_fab_academy_part_4.html>
 
-### Forums
+## Forums
 
 A lot of people have tried different combinations of camera, laser, and software to improve upon the scans. Saves time by cutting out things you don't have to try.
 
@@ -73,9 +73,9 @@ Primary Forums for David 3D Scanning Software:\
 MakerBot has a group discussing a MakerScan device that would be cost affordable and in a nice package:\
 <http://groups.google.com/group/makerscan/>
 
-### Software
+## Software
 
-#### David Laser Scanner
+### David Laser Scanner
 
 The actual scanning software(David 3D):\
 <http://www.david-laserscanner.com/>
@@ -85,12 +85,12 @@ People on Instructables using the software: <http://www.instructables.com/id/3-D
 <http://www.instructables.com/id/Structured-Light-3D-Scanning/>\
 <http://www.instructables.com/id/David-3D-scanner/>\
 
-#### Fab Scan
+### Fab Scan
 
 Main project page:\
 <http://hci.rwth-aachen.de/fabscan>
 
-#### Meshlab
+### Meshlab
 
 A point cloud can be brought into MeshLab as a PLY file, a simple ASCII format for 3D object description:\
 <http://meshlab.sourceforge.net/>
@@ -99,17 +99,17 @@ From here you can merge scans together. The merging process is sometimes easier 
 
 Also, this guy just started this project for a college project: <http://hci.rwth-aachen.de/fabscan>
 
-### Videos
+## Videos
 
 systm Covered Cheap 3D Scanning in this Episode:\
 <http://revision3.com/systm/laserscan>
 
-### Scanning Theory
+## Scanning Theory
 
 Structured Light 3D Scanning:\
 <http://www.instructables.com/id/Structured-Light-3D-Scanning/>
 
-### Links Pages
+## Links Pages
 
 The MakerBot Community Has Their Own Link Page For 3D Scanning Projects:\
 <http://wiki.makerbot.com/laser-scanner-links>
