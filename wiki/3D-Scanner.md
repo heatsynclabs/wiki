@@ -73,17 +73,24 @@ Primary Forums for David 3D Scanning Software:\
 MakerBot has a group discussing a MakerScan device that would be cost affordable and in a nice package:\
 <http://groups.google.com/group/makerscan/>
 
-### Instructables
+### Software
 
-<http://www.instructables.com/id/3-D-Laser-Scanner/>\
+#### David Laser Scanner
+
+The actual scanning software(David 3D):\
+<http://www.david-laserscanner.com/>
+
+People on Instructables using the software: <http://www.instructables.com/id/3-D-Laser-Scanner/>\
 <http://www.instructables.com/id/Make-your-own-3d-scanner/>\
 <http://www.instructables.com/id/Structured-Light-3D-Scanning/>\
 <http://www.instructables.com/id/David-3D-scanner/>\
 
-### Software
+#### Fab Scan
 
-The actual scanning software(David 3D):\
-<http://www.david-laserscanner.com/>
+Main project page:\
+<http://hci.rwth-aachen.de/fabscan>
+
+#### Meshlab
 
 A point cloud can be brought into MeshLab as a PLY file, a simple ASCII format for 3D object description:\
 <http://meshlab.sourceforge.net/>
