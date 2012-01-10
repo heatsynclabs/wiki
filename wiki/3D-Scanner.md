@@ -1,6 +1,6 @@
 To complement our 3D printer(Rep Rap)that we created it would be great if we had our very own affordable and accurate 3D scanning setup. At the moment we can create 3D models in software and print them or we can download pre-made models from websites like instructables.com. Having a 3D scanner would speed up the replication process for us if we have an object already.
 
-## Method
+# Method
 
 There is a community surrounding some free 3D scanner software called David LaserScanner. We'll acquire a web cam and laser level. And then install the David 3D scanner software to do a scan of a small object.
 
