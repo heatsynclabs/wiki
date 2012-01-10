@@ -40,6 +40,14 @@ With this revision I would like to attempt to create a rotational base for the o
 - Parts to create something similar to this commercial base - <http://ortery.com/products/photocapture360-360-degree-photo-animation-turntable.php>
 - White Spray Paint(Washable?)
 
+## Third Scan Setup
+
+Wanting to move towards a design where I could control the lighting environment as well as automate the rotation of the object being scanned, I've decided to play with the Fab Scan software developed by Francis Engelmann at the Media Computing Group.
+
+<http://hci.rwth-aachen.de/fabscan>
+
+Finished building the Chassis. Ordered all of the components. Exploring the software but at the moment the control for the laser, motors, and the actual scanning are all separate. So far looking to create a custom board for the motor controllers. Will take pictures and add more details as I go along.
+
 # Links
 
 ## Commercial Models
