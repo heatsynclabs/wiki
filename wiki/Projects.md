@@ -2,6 +2,7 @@
 
 **Please add links to your projects here, in *reverse chronological* order!**
 
+- [3D Scanner](3D-Scanner)
 - [Fakerbot](Fakerbot)
 - [Draw Bot](Draw-Bot)
 - [Drone](Drone)
@@ -14,7 +15,6 @@
 ## Inactive Projects That Need Your Help
 
 - [Phoenix RepRap](Phoenix-RepRap)
-- [3D Scanner](3D-Scanner)
 - [NightVision](NightVision)
 - [Accessibility](Accessibility) grant research
 - [Solar Concentrator Power Generation](Solar-Concentrator)
