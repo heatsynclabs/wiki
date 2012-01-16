@@ -1,5 +1,26 @@
 Notice: These documentations are being depreciated for [Laser Cutter Quick Guide](Laser-Cutter-Quick-Guide).
 
+## Documentation
+
+- [Exlas_Machine_Manual.pdf](files/Exlas_Machine_Manual.pdf)
+  *Exlas_Machine_Manual.pdf*
+- [Laser_Cutter_Training_Slides.pdf](files/Laser_Cutter_Training_Slides.pdf)
+  *Laser_Cutter_Training_Slides.pdf*
+- [LaserCut5.3_Manual.pdf](files/LaserCut5.3_Manual.pdf)
+  *LaserCut5.3_Manual.pdf*
+- [MPC6515_User_Manual.pdf](files/MPC6515_User_Manual.pdf)
+  *MPC6515_User_Manual.pdf*
+- [MPC6515_Manufacture_Manual.pdf](files/MPC6515_Manufacture_Manual.pdf)
+  *MPC6515_Manufacture_Manual.pdf*
+
+**BUT WAIT THERE'S MORE**
+
+- [Acrylic_Cutting_Tips.pdf](files/Acrylic_Cutting_Tips.pdf)
+  *Acrylic_Cutting_Tips.pdf*
+- [Raster to Vector in Corel.pdf](Raster-to-Vector-in-Corel.pdf)
+- [Vector Files in Corel.pdf](Vector-Files-in-Corel.pdf)
+- [Recommended Speed Settings.pdf](Recommended-Speed-Settings.pdf)
+
 ### Safety
 
 - Fire, Inhalation, Pinch, Electrical, and Eye/Laser Hazards
