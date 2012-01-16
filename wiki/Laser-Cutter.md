@@ -1,6 +1,6 @@
 Notice: These documentations are being depreciated for [Laser Cutter Quick Guide](Laser-Cutter-Quick-Guide).
 
-## Documentation
+### Documentation
 
 - [Exlas_Machine_Manual.pdf](files/Exlas_Machine_Manual.pdf)
   *Exlas_Machine_Manual.pdf*
