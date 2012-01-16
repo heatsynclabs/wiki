@@ -10,6 +10,7 @@ Notice: These documentations are being depreciated for [Laser Cutter Quick Guide
   *LaserCut5.3_Manual.pdf*
 - [MPC6515_User_Manual.pdf](files/MPC6515_User_Manual.pdf)
   *MPC6515_User_Manual.pdf*
+- [Aligning the Beam](http://www.rabbitlaserusa.com/Manuals/BeamAlignment.html)
 
 **BUT WAIT THERE'S MORE**
 
