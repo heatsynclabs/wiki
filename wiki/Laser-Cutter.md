@@ -17,8 +17,8 @@ Notice: These documentations are being depreciated for [Laser Cutter Quick Guide
 
 - [Acrylic_Cutting_Tips.pdf](files/Acrylic_Cutting_Tips.pdf)
   *Acrylic_Cutting_Tips.pdf*
-- [aster_to_Vector_in_Corel.pdf](files/Aster_to_Vector_in_Corel.pdf)
-  *aster_to_Vector_in_Corel.pdf*
+- [Raster_to_Vector_in_Corel.pdf](files/Raster_to_Vector_in_Corel.pdf)
+  *Raster_to_Vector_in_Corel.pdf*
 - [Vector_Files_in_Corel.pdf](files/Vector_Files_in_Corel.pdf)
   *Vector_Files_in_Corel.pdf*
 - [Recommended_Speed_Settings.pdf](files/Recommended_Speed_Settings.pdf)
