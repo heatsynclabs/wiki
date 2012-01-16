@@ -72,5 +72,5 @@
         3.  Drawer
         4.  Hood
     5.  Document!
-        1.  Add your results to [FIXME url](FIXME-url)
-        2.  Log any issues to [FIXME url](FIXME-url). Redtag device if necessary.
+        1.  Add your results to [logbook](https://docs.google.com/spreadsheet/viewform?formkey=dHdhRXhvektjU0NxYkpMeHF6dkRMRlE6MQ). These are visible [here](https://docs.google.com/spreadsheet/ccc?key=0Av0tmnI7oxt4dHdhRXhvektjU0NxYkpMeHF6dkRMRlE&hl=en_US#gid=0)
+        2.  Log any issues. Redtag device if necessary.
