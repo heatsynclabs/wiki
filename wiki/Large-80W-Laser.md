@@ -32,3 +32,11 @@
     2.  Close the download window
 5.  Prepare the material
     1.  Lower the table so that material doesn't hit the laser head
+    2.  Position material in center of bed (use squaring blocks if necessary)
+    3.  Jog laser head over to the material using computer or keypad
+    4.  AutoFocus
+        1.  Press Z
+        2.  Press Datum
+        3.  Focus will be 6mm below air cone
+        4.  **If you run the head through the table hit the E-STOP and see [Laser Cutter Emergency Guidelines](Laser-Cutter-Emergency-Guidelines)**
+        5.  Press Z again to exit Z-axist mode
