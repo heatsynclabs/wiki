@@ -1,3 +1,5 @@
+Notice: These documentations are being depreciated for [Laser Cutter Quick Guide](Laser-Cutter-Quick-Guide).
+
 ### Safety
 
 - Fire, Inhalation, Pinch, Electrical, and Eye/Laser Hazards
