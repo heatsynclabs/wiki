@@ -65,3 +65,12 @@
         2.  Chiller
         3.  Exhaust
         4.  Air Compressor
+    4.  Clean up the machine
+        1.  Rails
+            1.  Clean each rails with a rag and alcohol. Gloves are recommended.
+        2.  Scraps
+        3.  Drawer
+        4.  Hood
+    5.  Document!
+        1.  Add your results to [FIXME url](FIXME-url)
+        2.  Log any issues to [FIXME url](FIXME-url). Redtag device if necessary.
