@@ -193,3 +193,21 @@ intranet.hsl.dn42 provides the heart of our infrastructure system. Responsible f
 
     *:80 for http
     *:9393 for ssh
+
+### 172.22.111.240
+
+#### Overview
+
+Fletch's laptop, added a static DHCP reservation for him per request, to aid.
+
+#### Responsible For
+
+- Has port 15900 open on WAN to 1590 on .240 so that Fletch can have remote VNC
+
+#### Responsible Parties
+
+- Fletcher Fowler
+
+#### NMAP
+
+    Not a lab machine, did not run.
