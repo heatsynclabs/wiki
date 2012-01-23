@@ -49,3 +49,5 @@ Check out the [Projects](Projects) page on the wiki for a (possibly outdated) li
 Check in the lost and found box in the east side member box area. If it's not there, ask on the Google Groups to see if anyone has found what you are looking for.
 
 # Q: I broke a tool, what do I do?
+
+No big deal! If its a small hand tool or bit, place it in the broken tools bin. It is as of this writing a plastic bin placed on top of the yellow tool cart. Also notify the station head (indicated by a small whiteboard nearby the station) and/or post it to the discussion group.
