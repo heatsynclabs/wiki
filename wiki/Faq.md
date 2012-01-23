@@ -26,6 +26,10 @@ In almost all cases the answer is no. HeatSync is a place where we come and crea
 
 If we don't have something, generally its because you haven't bought it yet! HeatSync is entirely member-supported, run, and maintained. Think of HeatSync as your garage. If you need a staple gun and staples you'll have to go out and buy it. However at HeatSync, someone else already bought the hammer, sawzall, and router :) For bigger purchases, talk to the other HeatSync members on the discussion board and in person and work to pool the money needed. For some requests, the membership may compel the board to budget for the item via the Hack Your Hackerspace meetings.
 
+# Q: When is the next X class/workshop/certification?
+
+We don't know! Check the [calendar](http://www.heatsynclabs.org/events/) to see if something might be planned, but as stated many times, we have no staff. There are classes/certifications and workshop because you make them happen! Contact a station head (as indicated by a small whiteboard near the station) about holding a class or another member who might be able to teach you. Post to the group, or if need be research an outside instructor to come in and hold the workshop you're looking for.
+
 # Q: Can HeatSync make my widget for me?
 
 No. HeatSync has no staff and contracts to create no goods. HeatSync is rather a community of creators who utilize the workshop to create their art, prototypes, and projects. However, you very well might find a member of the HeatSync community in person, or more likely on the discussion board, to help you for free or, if the item is more complex, at their contract price. HeatSync does not promote or guarantee any member's work.
