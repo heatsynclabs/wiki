@@ -211,3 +211,39 @@ Fletch's laptop, added a static DHCP reservation for him per request, to aid.
 #### NMAP
 
     Not a lab machine, did not run.
+
+### 172.22.111.241
+
+#### Overview
+
+Fletch's laptop, added a static DHCP reservation for him per request, to aid.
+
+#### Responsible For
+
+- Has port 15901 open on WAN to VNC port on .241 so that Bob can have remote VNC
+
+#### Responsible Parties
+
+- Fletcher Fowler
+
+#### NMAP
+
+    Not a lab machine, did not run.
+
+### 172.22.111.242
+
+#### Overview
+
+Fletch's laptop, added a static DHCP reservation for him per request, to aid.
+
+#### Responsible For
+
+- Has port 15902 open on WAN to VNC port on .242 so that Fletch can have remote VNC
+
+#### Responsible Parties
+
+- Fletcher Fowler
+
+#### NMAP
+
+    Not a lab machine, did not run.
