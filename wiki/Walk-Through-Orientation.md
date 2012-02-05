@@ -27,35 +27,23 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 
 <!-- -->
 
-- Do it yourself: nobody else is going to create it, fix it, pick it up, clean it, or replace it but you. If you can't do it, email the Group so someone else can.
-
-<!-- -->
-
-- Clean up after yourself
-  - Training, culture
-  - Cleaning supplies
-  - Trash cans, bathroom, tool/floor cleaning
-
-<!-- -->
-
 - Some equipment requires certification before use.
-  - Generally speaking, ask a member prior to using a tool you haven't used in the lab before. We do things differently than at your home, ask so you know how to use OUR tools right.
-- Don't disassemble or borrow tools or workstation parts as it'll render the tool unusable/messy.
+- Members often teach certification classes. Teaching a class is a good way to strengthen your own skills.
+  - Generally speaking, ask another member prior to using a tool you haven't used in the lab before. We do things differently than at your home, ask so you know how to use OUR tools right.
+- Tools and workstations should be kept usable, operable, complete, and clean.
+- HeatSync property should stay at HeatSync.
 
 <!-- -->
 
-- Intranet
 - Location of tools
-
-<!-- -->
-
 - Location and usage of fire extinguishers
 
 <!-- -->
 
-- Lockup/openup procedure
-  - Turn off/on thermostat to 72'
+- First person in / last person out procedure
+  - Turn on/off thermostat to 72'
   - Location of lightswitches, turn off when leaving
+  - TV signage up front
   - Check door locks are all green, not red or off
   - When keeping the doors open, keep an eye on the door and make people who walk in your guest and responsibility
 
@@ -64,3 +52,11 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - Email list
 - Toolshare
 - Webcams & Video recording -- no expectation of privacy here.
+
+<!-- -->
+
+- Clean up after yourself
+  - Training, culture
+  - Cleaning supplies
+  - Trash cans, bathroom, tool/floor cleaning
+- Do it yourself: nobody else is going to create it, fix it, pick it up, clean it, or replace it but you. If you can't do it, email the Group so someone else can.
