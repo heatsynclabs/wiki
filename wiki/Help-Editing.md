@@ -13,7 +13,9 @@ Here are the most frequently used types of wiki markup. If you need more help se
 
 5 apostrophes will embolden and italicize ***the text***.
 
-(4 apostrophes don't do anything special -- there's just **'one left over**'.) \|
+(4 apostrophes don't do anything special -- there's just **'one left over**'.)
+
+You can strikethrough with the ~~del tag.~~ \|
 
     You can ''italicize text'' by putting 2 
     apostrophes on each side. 
@@ -26,6 +28,8 @@ Here are the most frequently used types of wiki markup. If you need more help se
     (4 apostrophes don't do anything
     special -- there's just ''''one left
     over''''.)
+
+    You can strikethrough with the <del>del tag.</del>
 
 \|- \| You should "sign" your comments on talk pages:
 
