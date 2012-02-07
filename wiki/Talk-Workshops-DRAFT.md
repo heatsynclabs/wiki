@@ -1,6 +1,7 @@
 Overall, this looks very good. However:
 
-- Preformatted text doesn't wrap, making for a side-scrolling page; no good.
+- ~~Preformatted text doesn't wrap, making for a side-scrolling page; no good.~~
+  - Wikified the format to make it easier to read. [Will](User-Will) 05:19, 7 February 2012 (UTC)
 - FAQ are answered in first-person, but don't specify who "I" is.
 - Conversational tone of FAQ answers is distracting.
 
