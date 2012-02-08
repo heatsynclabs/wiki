@@ -28,10 +28,10 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 <!-- -->
 
 - Some equipment requires certification before use.
-- Members often teach certification classes. Teaching a class is a good way to strengthen your own skills.
+  - Members often teach certification classes. You can too-- teaching a class is a good way to strengthen your own skills.
   - Generally speaking, ask another member prior to using a tool you haven't used in the lab before. We do things differently than at your home, ask so you know how to use OUR tools right.
 - Tools and workstations should be kept usable, operable, complete, and clean.
-- HeatSync property should stay at HeatSync.
+  - If a tool breaks, put it into the broken tools bin, let people know about it, look into replacement.
 
 <!-- -->
 
@@ -59,4 +59,5 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - Training, culture
   - Cleaning supplies
   - Trash cans, bathroom, tool/floor cleaning
+  - Parking passes/tickets
 - Do it yourself: nobody else is going to create it, fix it, pick it up, clean it, or replace it but you. If you can't do it, email the Group so someone else can.
