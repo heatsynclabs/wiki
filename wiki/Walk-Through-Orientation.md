@@ -18,12 +18,14 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - Public stuff shouldn't be left in your box, your stuff shouldn't be left laying around the lab.
 - How to fix/connect to wifi (hacktheplanet)
 - Parking (dedicated, hour enforcement, street parking, passes)
-- HYH Meetings (agenda, vote on proposals, working on improving lab)
+- Hack Your Hackerspace Meetings (agenda, vote on proposals, working on improving lab)
   - Soda (donations, repurchasing)
   - Member access card proposals
-  - Donations are accepted but stuff shouldn't stay in the public lab space without a vote.
+  - Proposals to keep or remove stuff in the lab
   - Monthly Treasurer report
   - Proposals to the Board/Treasurer
+- To make proposals, just send an email to the google group with the word proposal in the subject.
+  - A week before the next meeting, a community member should compile proposals into an agenda for voting.
 
 <!-- -->
 
