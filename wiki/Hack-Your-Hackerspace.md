@@ -15,7 +15,7 @@
 - Log the vote in the minutes section below.
 - The second part is getting stuff done; break out to clean/fix/replace/action anything else that has to happen at the lab. For example, may have broken equipment per station that needs to be evaluated. Is our stock of cups/tp/cleaning products sufficient for 2 weeks?
 - Review storage and process incoming donations and decide what to keep/store fix or sell, or recycle/throw away.
-- Review the lost and found box.
+- Review the lost and found box and post contents to the lost and found thread here: <http://groups.google.com/group/heatsynclabs/browse_thread/thread/7f7aac4217cbd24d>
 
 **Minutes:**
 
