@@ -37,7 +37,8 @@ From Bankruptcy to Surplus to Seizure these are the local guys we've come across
 
 ### Swaps
 
-- <http://www.scoutscomputerswapmeet.com/>
+- <http://electronicfest.com/> Third Sunday of the month
+- Apache Trail Swapmeet (Apache and 202) Every Sat and Sunday
 
 ### Surplus
 
