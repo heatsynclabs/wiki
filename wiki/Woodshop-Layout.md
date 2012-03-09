@@ -1,1 +1,1 @@
-![Initial Sketch](files/Woodshop-1.jpg) ![Extra Bench Stacked on The East Bench](files/Woodshop-stack-bench.jpg)
+![Woodshop-1.jpg](files/Woodshop-1.jpg) ![Woodshop-stack-bench.jpg](files/Woodshop-stack-bench.jpg)
