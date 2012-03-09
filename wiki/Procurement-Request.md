@@ -1,4 +1,4 @@
-To request an expense from the Treasurer, email purchasing@heatsynclabs.org with the following info:
+**To request an expense from the Treasurer, email purchasing@heatsynclabs.org with the following info:**
 
 REQUEST BY:
 
