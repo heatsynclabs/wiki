@@ -6,7 +6,7 @@ This first picture is just a screenshot of the woodshop Sketchup model.
 
 ------------------------------------------------------------------------
 
-This image shows the extra bench stacked on top of the East bench, forming a shelf unit until the extra bench can be moved to its new home. I kind of like the layout, so I tossed the stick lumber up there, which will let us remove the track shelving and install the French cleat system Brian has in mind on the South wall. Of course, if that bench is going somewhere else eventually, those shelves should probably be kept empty -- and the stick lumber should go elsewhere. Perhaps under the South bench as in the image after this one.
+This image shows the extra bench stacked on top of the East bench, forming a shelf unit until the extra bench can be moved to its new home. I kind of like the layout, so I tossed the stick lumber up there, which will let us remove the track shelving and install the French cleat system Brian has in mind on the South wall. Of course, if that bench is going somewhere else eventually, those shelves should probably be kept empty -- and the stick lumber should go elsewhere. Perhaps under the South bench.
 
 ![](files/Woodshop-stack-bench.jpg)
 
