@@ -26,16 +26,20 @@ When someone wants to use equipment they're not certified for:
 - If there's a class scheduled for that equipment, hook them up with that class/teacher.
 - If there is no class scheduled, suggest that the member email the group asking for a class. Alternatively, if there is time and a certified member is onsite, they may give an impromptu class according to the [Equipment Use Guidelines](Rules).
 
-### Sales and membership
+### Sales, membership payments, and donations
 
-For any sales (i.e. t-shirts, Arduino boards, etc) the sales person (must be a board member) needs to ideally use Square process the payment. Please include
+For any sales (i.e. t-shirts, Arduino boards, etc) the sales person (a board member or trained member) needs to ideally use Square to process the payment. Please include the following in the description or as an accompanying email to the Treasurer:
 
 - Name (first and last)
 - Email address
 - Item sold
 - Amount sold for
 
-If Square is unavailable record this information so that the sale can be tracked and an electronic receipt can be sent to the buyer via e-mail.
+If Square is unavailable record this information along with the payment so that the sale can be tracked and an electronic receipt can be sent to the buyer via e-mail.
+
+### Purchase Requests
+
+To request the Board to purchase something, follow instructions on the [Procurement Request](Procurement-Request) page.
 
 ### Event/Speaker Process
 
