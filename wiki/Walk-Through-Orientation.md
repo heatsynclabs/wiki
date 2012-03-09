@@ -16,6 +16,8 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - Public/private space
   - No taking equipment offsite or touching people's boxes/lockers.
   - Public stuff shouldn't be left in your box, your stuff shouldn't be left laying around the lab.
+  - If you need to leave something in the lab, put a parking pass on it so we know it's yours and how to contact you.
+  - Ideally, propose to the community that it be given space in the lab.
 - How to fix/connect to wifi (hacktheplanet)
 - Parking (dedicated, hour enforcement, street parking, passes)
 - HeatSync is a hackerspace, not a coworking space. Hackerspaces are places for using tools and creating things, and can be a loud place.
