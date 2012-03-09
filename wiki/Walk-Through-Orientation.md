@@ -28,6 +28,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - Proposals to the Board/Treasurer
 - To make proposals, just send an email to the google group with the word proposal in the subject.
   - A week before the next meeting, a community member should compile proposals into an agenda for voting.
+- Last rule the community passed: don't make us make more rules.
 
 <!-- -->
 
