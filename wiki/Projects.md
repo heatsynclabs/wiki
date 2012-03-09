@@ -2,6 +2,7 @@
 
 **Please add links to your projects here, in *reverse chronological* order!**
 
+- [Woodshop](Woodshop-Layout)
 - [3D Scanner](3D-Scanner)
 - [Fakerbot](Fakerbot)
 - [Draw Bot](Draw-Bot)
