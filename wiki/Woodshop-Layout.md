@@ -11,3 +11,19 @@ This image shows the extra bench stacked on top of the East bench, forming a she
 ![](files/Woodshop-stack-bench.jpg)
 
 *Stacked East Bench*
+
+![](files/Woodshop-table-saw-stand.jpg)
+
+*Table Saw on a Stand*
+
+![](files/Woodshop-table-saw-stowed-0.jpg)
+
+*North Bench Moved East to Allow Table Saw Stowage*
+
+![](files/Woodshop-table-saw-stowed-1.jpg)
+
+*Table Saw Stowed*
+
+![](files/Woodshop-table-saw-stowed-2.jpg)
+
+*Walkway With Table Saw Stowed*
