@@ -12,17 +12,33 @@ This image shows the extra bench stacked on top of the East bench, forming a she
 
 *Stacked East Bench*
 
+------------------------------------------------------------------------
+
+The next image shows the table saw on a stand, and with no material storage in the woodworking space.
+
 ![](files/Woodshop-table-saw-stand.jpg)
 
 *Table Saw on a Stand*
+
+------------------------------------------------------------------------
+
+In the previous image, it is not clear where the table saw would be stowed when not in use. There may be room against the West wall -- with the bandsaw, scroll saw, sander, and air compressor -- but those tools may fill that space. If so, another option is to slide the North bench hard up against the East wall, like this:
 
 ![](files/Woodshop-stow-table-saw-0.jpg)
 
 *North Bench Moved East to Allow Table Saw Stowage*
 
+------------------------------------------------------------------------
+
+Moving the North bench two feet East provides enough room to stow the table saw next to the radial arm when it is not in use.
+
 ![](files/Woodshop-stow-table-saw-1.jpg)
 
 *Table Saw Stowed*
+
+------------------------------------------------------------------------
+
+When the table saw is stowed, it leaves both the main walkway and the woodworking space open.
 
 ![](files/Woodshop-stow-table-saw-2.jpg)
 
