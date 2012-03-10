@@ -30,7 +30,7 @@ In the previous image, it is not clear where the table saw would be stowed when 
 
 ------------------------------------------------------------------------
 
-Moving the North bench 2' East provides enough room to stow the table saw next to the radial arm when it is not in use.
+Moving the North bench 2' East provides enough room next to the radial arm to stow the table saw when it is not in use.
 
 ![](files/Woodshop-stow-table-saw-1.jpg)
 
