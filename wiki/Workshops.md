@@ -58,6 +58,8 @@ For Members:
 
 ## GUIDELINES ON "Certification" WORKSHOPS
 
+Certification workshops are those which are used to train membership on usage of some of our more dangerous/expensive tools. The tools which require certification to use are chosen by the tools' station heads.
+
 - Whenever a "certification" workshop is presented it shall be presented as such.
 - The Instructor agrees to present the workshop according to the guidelines provided by HeatSync Labs.
 
