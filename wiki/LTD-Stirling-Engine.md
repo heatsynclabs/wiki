@@ -27,11 +27,3 @@ When cutting tuna cans with tin snips, if you back the snips out of the cut by e
 Therefore, if you maintain constant gentle pressure holding the snips against the end of the cut, you reduce your chance of getting an annoying metal sliver in your hand.
 
 Gloves probably would have helped too. :)
-
-### Solid White Albacore Is Better
-
-I got one can of chunk light tuna and one can of solid white albacore so I could do a shootout. The chunk light tuna is OK, but I think the solid white albacore is worth the 50% markup.
-
-After writing the previous paragraph, I decided I wanted to check the state of commercial tuna fishing. [Wikipeda: Tuna](https://en.wikipedia.org/wiki/Tuna) has good info. Bluefin tuna, the most prized, may already be collapsing. Albacore and some of the other relatively rare species are on the Greenpeace "red list," meaning they think those species are in trouble. Skipjack, which makes up most "light tuna" and other can and envelope tuna in the US, is not considered as being over-fished.
-
-Just providing the info, of course -- not saying if or how it should affect your tuna budget.
