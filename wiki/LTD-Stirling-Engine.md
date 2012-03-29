@@ -1,6 +1,6 @@
 I am noodling with an LTD Stirling engine. I have wanted to build one for a while, and it may work in as a project for K-12 students. I am creating this page to post some notes as I go through.
 
-Note: During initial writing, these are just field notes, not a set of instructions. For good step-by-step instructions, [http://www.scraptopower.co.uk/projects/the-30-minute-ltd-stirling-project check out Scrap To Power's build log](http://www.scraptopower.co.uk/projects/the-30-minute-ltd-stirling-project_check_out_Scrap_To_Power's_build_log).
+Note: During initial writing these are just field notes, not a set of instructions. For good step-by-step instructions, [http://www.scraptopower.co.uk/projects/the-30-minute-ltd-stirling-project check out Scrap To Power's build log](http://www.scraptopower.co.uk/projects/the-30-minute-ltd-stirling-project_check_out_Scrap_To_Power's_build_log).
 
 ## First Parts Picture
 
