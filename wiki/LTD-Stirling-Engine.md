@@ -1,4 +1,4 @@
-I am noodling with a Low Temperature Differential (LTD) Stirling engine. These are Stirling engines that can run on a cup of boiling water, but should not be exposed to flame because of the low-temperature materials used in their construction. I have wanted to build one for a while, and it may work as a project for K-12 students. I am creating this page to post some notes as I go through.
+I am noodling with a Low Temperature Differential (LTD) Stirling engine. These are Stirling engines that can run on a small temperature differential, like that between a cup of boiling water and room temperature. This particular design should not use a flame as the heat source because of the low-temperature materials used. I have wanted to build one for a while, and it may work as a project for K-12 students. I am creating this page to post some notes as I go through.
 
 These are just field notes, not a set of instructions. For good step-by-step instructions, [check out Scrap To Power's build log](http://www.scraptopower.co.uk/projects/the-30-minute-ltd-stirling-project).
 
