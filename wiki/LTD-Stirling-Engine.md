@@ -12,33 +12,7 @@ Power piston notes...
 
 Tuna cans and 2 liter notes...
 
-Displacer piston notes... The displacer piston is a little rough, but it's a first hack -- it is OK if it is not perfect. The second one will have refinements from what I learn on this one.
-
-I
-
-would
-
-like
-
-the
-
-right
-
-flowed
-
-text
-
-better
-
-if
-
-there
-
-were
-
-section
-
-breaks.
+Displacer piston notes... The displacer piston is a little rough, but it's a first hack -- it is OK if it is not perfect. The second one will have refinements from what I learn on this one.\
 
 ## Random Thoughts
 
