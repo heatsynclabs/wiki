@@ -14,7 +14,7 @@ Displacer piston notes... The displacer piston is a little rough, but it's a fir
 
 ## Random Thoughts
 
-### cut sheet steel is sharp
+### Cut Sheet Steel Is Sharp
 
 Cut sheet steel is sharp. Little slivers of cut sheet steel are sharp and nearly invisible.
 
