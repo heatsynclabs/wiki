@@ -10,7 +10,7 @@ Note: During initial writing, these are just field notes, not a set of instructi
 
 So far I have made the power piston, cut down two large tuna cans and a standard 2 liter, and made a displacer piston.
 
-The power piston (little orange thing on the lower right) is a diaphragm type using a gatorade bottle lid, 1/4-20 x 1" machine screw and nut, two 1 1/4" dia fender washers, a punching balloon, and two rubber bands just the right size to go around once. The gap between the fender washers and the wall seems pretty ideal. Wide enough to give a decent stroke without stretching when tight or wrinkling in mid stroke, but small enough that it should keep power loss reasonable.
+The power piston (little orange thing on the lower right) is a diaphragm type using a gatorade bottle lid, 1/4-20 x 1" machine screw and nut, two 1 1/4" dia fender washers, a punching balloon, and two rubber bands just the right size to go around once. The gap between the fender washers and the wall seems pretty ideal. Wide enough to give a decent stroke without stretching when tight or wrinkling in mid stroke, but small enough that it should keep power loss reasonable. There's a piece of steel wire wound around the screw in the picture -- I was testing the form-a-thread effect of winding the wire around the screw's threads, and it worked very nicely. You can screw the coupling rod on just like a nut.
 
 Large tuna cans and a standard 2 liter are just the right size for each other. I used a side-cutting can opener -- the weird ones that don't leave a sharp edge -- and I think I'm going to be able to get both cylinder heads out of a single can.
 
