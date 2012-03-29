@@ -10,7 +10,7 @@ So far I have made the power piston, cut down two large tuna cans and a standard
 
 The power piston (little orange thing on the lower right) is a diaphragm type using a gatorade bottle lid, 1/4-20 x 1" machine screw and nut, two 1 1/4" dia fender washers, a punching balloon, and two rubber bands just the right size to go around once. The gap between the fender washers and the wall seems pretty ideal. Wide enough to give a decent stroke without stretching when tight or wrinkling in mid stroke, but small enough that it should keep power loss reasonable.
 
-Large tuna cans and a standard 2 liter are just the right size for each other.
+Large tuna cans and a standard 2 liter are just the right size for each other. I used a side-cutting can opener -- the weird ones that don't leave a sharp edge -- and I think I'm going to be able to get both cylinder heads out of a single can.
 
 Displacer piston notes... The displacer piston is a little rough, but it's a first hack -- it is OK if it is not perfect. The second one will have refinements from what I learn on this one.\
 
@@ -30,6 +30,6 @@ Gloves probably would have helped too. :)
 
 I got one can of chunk light tuna and one can of solid white albacore so I could do a shootout. The chunk light tuna is OK, but I think the solid white albacore is worth the 50% markup.
 
-After writing the previous paragraph, I decided I wanted to check the state of commercial tuna fishing. [Wikipeda: Tuna](https://en.wikipedia.org/wiki/Tuna) has good info. Bluefin tuna, the most prized, may already be collapsing. Albacore is on the Greenpeace "red list," meaning they think Albacore is in trouble. Skipjack, which makes up most "light tuna" and other can and envelope tuna in the US, is not considered as being over-fished.
+After writing the previous paragraph, I decided I wanted to check the state of commercial tuna fishing. [Wikipeda: Tuna](https://en.wikipedia.org/wiki/Tuna) has good info. Bluefin tuna, the most prized, may already be collapsing. Albacore and some of the other relatively rare species are on the Greenpeace "red list," meaning they think those species are in trouble. Skipjack, which makes up most "light tuna" and other can and envelope tuna in the US, is not considered as being over-fished.
 
 Just providing the info, of course -- not saying if or how it should affect your tuna budget.
