@@ -20,7 +20,7 @@ I used the dumb-guy method of cutting the displacer out of a leftover piece of p
 
 Cut sheet steel is sharp. Little slivers of cut sheet steel are sharp and nearly invisible.
 
-When cutting tuna cans with tin snips, if you back the snips out of the cut by even a little bit, or don't keep them tight against the end of the cut when opening the handles for the next snip, it is really easy to catch a hair of metal on one side of the exiting cut -- which will create one of those sharp, nearly invisible slivers.
+When cutting tuna cans with tin snips, if you back the snips out of the cut by even a little bit, or don't keep them tight against the end of the cut when opening the handles for the next snip, it is really easy to catch a hair of metal on one side of the existing cut -- which will create one of those sharp, nearly invisible slivers.
 
 Therefore, if you maintain constant gentle pressure holding the snips against the end of the cut, you reduce your chance of getting an annoying metal sliver in your hand.
 
