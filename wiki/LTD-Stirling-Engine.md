@@ -4,7 +4,9 @@ I am noodling with an LTD Stirling engine. I have wanted to build one for a whil
 
 So far I have made the power piston, cut down two large tuna cans and a standard 2 liter, and made a displacer piston.
 
-Picture thumbnail and link...
+![](files/00-parts.jpg)
+
+*LTD Stirling Engine Parts*
 
 Power piston notes...
 
