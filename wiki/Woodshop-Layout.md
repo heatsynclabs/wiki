@@ -1,5 +1,9 @@
 This first picture is just a screenshot of the woodshop Sketchup model.
 
+See Also: [Sander Dust Collector](Sander-Dust-Collector)
+
+------------------------------------------------------------------------
+
 ![](files/Woodshop-1.jpg)
 
 *Model Screenshot*
