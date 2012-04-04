@@ -16,6 +16,14 @@ Large tuna cans and a standard 2 liter are nicely sized for each other; you get 
 
 I used the dumb-guy method of cutting the displacer out of a leftover piece of polystyrene packing material; cut a smooth edge on one of the tuna can walls and press it through cold. I think heating the can with a torch to hot-cut the foam would be worth the effort, but the cold method worked well enough for the first draft. To get the billet out of the tin can, I just lightly heated the sides of the can to shrink the polystyrene a bit. Once the puck was free of the cutter, I ran a low flame around the circumference to shrink and harden the edges a bit more, testing the fit in the tuna can as I went (it should fall under its own weight when you drop it in). After you run the flame around the circumference, it should harden enough that you can sand it to clean up the shaggies.\
 
+## Finished
+
+![](files/Ltd-stirling-finished.jpg)
+
+*LTD Stirling Engine Parts*
+
+\
+
 ## Random Thoughts
 
 ### Cut Sheet Steel Is Sharp
