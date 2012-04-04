@@ -24,14 +24,13 @@ I used the dumb-guy method of cutting the displacer out of a leftover piece of p
 
 This is the final state of the engine. Note the thermal failure at the base of the cylinder.
 
-The remainder of the build went smoothly. I used the hot tin can method of cutting a polystyrene plug to act as the hub of the flywheel. That is definitely the right way to do it. You get a very clean cut with nicely beveled sides.
-
-Once complete, I tested it with a cup of boiling water. It was putting power into the crank, but not enough to keep itself running. Some problems with the design were already apparent and serious enough that a scratch rebuild was inevitable, so I decided to give it a stronger heat source to work with; I fired up a propane torch, which really got its attention. It started spinning as soon as I put the bottom cylinder head over the flame. Then, about 3 seconds later, the epoxy melted as the cylinder wall overheated and shriveled. End of test.
+The remainder of the build went smoothly. Once complete, I tested it with a cup of boiling water. It was putting power into the crank, but not enough to keep itself running. Some problems with the design were already apparent and serious enough that a scratch rebuild was inevitable, so I decided to give it a stronger heat source to work with; I fired up a propane torch, which really got its attention. It started spinning as soon as I put the bottom cylinder head over the flame. Then, about 3 seconds later, the epoxy melted as the cylinder wall overheated and shriveled. End of test.
 
 Success -- I got it to run under its own power, and figured out the things I want to change for the refined model.
 
 #### Coming Refinements
 
+- Hot Cut The Displacer Cylinder: I used the hot tin can method of cutting a polystyrene plug to act as the hub of the flywheel. That is definitely the right way to cut the displacer net time. You get a very clean plug with nicely beveled sides
 - Lighter Displacer Linkage: I used the same brass rod from the crankshaft for the displacer linkage. It was much too heavy. I am going to try the extreme other end of the spectrum with the next version; fishing line. This will both reduce weight and address the next issue.
 - More Flexible Displacer Linkage: The displacer was tilting left and right due to the rigid linkage to the crankshaft. At the top and bottom of the displacement, this caused the displacer cylinder to bind up on the cylinder heads. I shortened the displacer stroke to solve the binding, but that prevented the displacer from reaching its extreme positions, reducing the efficiency of the heat cycle. A fishing line acting as a lifter-only linkage will allow the displacer to bottom out on the hot head without binding.
 - Lighter Power Piston: Two 1 1/4" pan washers and a 1" 1/4-20 machine screw are much heavier than this tiny power output needs. I am going to switch to plastic washers and a smaller, shorter screw -- maybe aluminum. The steel wire I used for the power linkage seemed about right, but I may look around for something a little lighter next time I'm at the hardware store.
