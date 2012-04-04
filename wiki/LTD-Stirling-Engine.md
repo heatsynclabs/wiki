@@ -30,7 +30,7 @@ Success -- I got it to run under its own power, and figured out the things I wan
 
 #### Coming Refinements
 
-- Hot Cut The Displacer Cylinder: I used the hot tin can method of cutting a polystyrene plug to act as the hub of the flywheel. That is definitely the right way to cut the displacer net time. You get a very clean plug with nicely beveled sides
+- Hot Cut The Displacer Cylinder: I used the hot tin can method of cutting a polystyrene plug to act as the hub of the flywheel. That is definitely the right way to cut the displacer next time. You get a very clean plug with nicely beveled sides
 - Lighter Displacer Linkage: I used the same brass rod from the crankshaft for the displacer linkage. It was much too heavy. I am going to try the extreme other end of the spectrum with the next version; fishing line. This will both reduce weight and address the next issue.
 - More Flexible Displacer Linkage: The displacer was tilting left and right due to the rigid linkage to the crankshaft. At the top and bottom of the displacement, this caused the displacer cylinder to bind up on the cylinder heads. I shortened the displacer stroke to solve the binding, but that prevented the displacer from reaching its extreme positions, reducing the efficiency of the heat cycle. A fishing line acting as a lifter-only linkage will allow the displacer to bottom out on the hot head without binding.
 - Lighter Power Piston: Two 1 1/4" pan washers and a 1" 1/4-20 machine screw are much heavier than this tiny power output needs. I am going to switch to plastic washers and a smaller, shorter screw -- maybe aluminum. The steel wire I used for the power linkage seemed about right, but I may look around for something a little lighter next time I'm at the hardware store.
