@@ -30,15 +30,15 @@ Once complete, I tested it with a cup of boiling water. It was putting power int
 
 Success -- I got it to run under its own power, and figured out the things I want to change for the refined model.
 
-### Coming Refinements
+#### Coming Refinements
 
 - Lighter Displacer Linkage: I used the same brass rod from the crankshaft for the displacer linkage. It was much too heavy. I am going to try the extreme other end of the spectrum with the next version; fishing line. This will both reduce weight and address the next issue.
-- More Flexible Displacer Linkage: The displacer was tilting left and right due to the rigid linkage to the crankshaft. At the top and bottom of the displacement, this was causing the displacer cylinder to bind up on the cylinder heads, causing significant resistance at the ends of each stroke. I shortened the displacer stroke to solve the binding, but that prevented the displacer from reaching its extremes, reducing the efficiency of the heat cycle. A fishing line acting as a lifter-only linkage will allow the displacer to bottom out on the hot head without binding.
-- Lighter Power Piston: Two 1 1/4" pan washers and a 1" 1/4-20 machine screw are much heavier than this tiny power output needs. I am going to switch to plastic washers and a smaller, shorter screw. The steel wire I used for the power linkage seemed about right, but I may look around for something a little lighter next time I'm at the hardware store.
+- More Flexible Displacer Linkage: The displacer was tilting left and right due to the rigid linkage to the crankshaft. At the top and bottom of the displacement, this caused the displacer cylinder to bind up on the cylinder heads. I shortened the displacer stroke to solve the binding, but that prevented the displacer from reaching its extreme positions, reducing the efficiency of the heat cycle. A fishing line acting as a lifter-only linkage will allow the displacer to bottom out on the hot head without binding.
+- Lighter Power Piston: Two 1 1/4" pan washers and a 1" 1/4-20 machine screw are much heavier than this tiny power output needs. I am going to switch to plastic washers and a smaller, shorter screw -- maybe aluminum. The steel wire I used for the power linkage seemed about right, but I may look around for something a little lighter next time I'm at the hardware store.
 
-Overall I'm very pleased with it. I would have liked the first version to run perfectly, of course, but hey, if it worked on the first time every time, it wouldn't be called "hacking."
+#### Summary
 
-\
+Overall I am quite pleased with it. I would have liked the first version to run perfectly, of course, but hey, if it worked on the first try every time, it wouldn't be worthy to be called "hacking." Such an elegant little machine, and it has been in the back of my mind for years. Nice to have done it, and I think the next one will be a significant improvement.\
 
 ## Process Notes
 
