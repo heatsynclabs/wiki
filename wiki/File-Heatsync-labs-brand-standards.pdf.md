@@ -6,4 +6,4 @@
 
 ## Description
 
-OUTDATED Brand guidelines / standards for HeatSync Labs
+Brand guidelines / standards for HeatSync Labs
