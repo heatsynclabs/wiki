@@ -72,6 +72,7 @@ The machine is a pfSense box running upstairs, labelled hsl-firewall
     1999/tcp open  tcp-id-port
     2601/tcp open  zebra
     2605/tcp open  bgpd
+    5666/tcp open nrpe
 
     Nmap done: 1 IP address (1 host up) scanned in 240.43 seconds
 
