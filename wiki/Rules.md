@@ -1,7 +1,5 @@
 ## Membership Guidelines
 
-//testedit
-
 ### Eligibility
 
 HeatSync membership is open to the public, but use of certain equipment and key/security code may require further training, certification or approvals. We do not discriminate based on age, gender, sexual preference, race, religion, or geek factor. Denied applications may be appealed.
