@@ -42,7 +42,7 @@ Blaine Bublitz
 
 Unanimous consent, prior meeting minutes pass
 
-# Comments From Members
+## Comments From Members
 
 At this time Members whose dues are in good and current standing shall have an opportunity to comment on any item relevant to the subject matter jurisdiction of the Board. This opportunity is non-transferable and speakers are limited to a single one (1) minute comment.
 
@@ -100,11 +100,11 @@ Jose will be discussing updated by-laws outside of meeting time, and we will be 
 
 Jeremy explains changes of by-laws as something our non-profit lawyers suggested to make them more legally standing
 
-# New Business
+## New Business
 
 None
 
-### Closing
+## Closing
 
 Jeremy says that it is important that we open discussion on procurement
 
