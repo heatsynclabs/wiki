@@ -1,7 +1,7 @@
 HeatSync Labs
     Non-Profit Organization
     Board of Administration
-    Open Session July 14, 2011
+    Open Session January 12, 2012
     7:00p.m. to 8:30p.m.
 
     Location:
