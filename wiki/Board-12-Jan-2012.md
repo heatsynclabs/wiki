@@ -1,3 +1,14 @@
+HeatSync Labs
+    Non-Profit Organization
+    Board of Administration
+    Open Session July 14, 2011
+    7:00p.m. to 8:30p.m.
+
+    Location:
+    HeatSync Labs 
+    140 W Main Street.
+    Mesa, AZ 85201
+
 ## Opening
 
 19:36 meeting called to order
@@ -24,7 +35,11 @@ Blaine Bublitz
 
 Unanimous consent, prior meeting minutes pass
 
-## Public Comments
+# Comments From Members
+
+At this time Members whose dues are in good and current standing shall have an opportunity to comment on any item relevant to the subject matter jurisdiction of the Board. This opportunity is non-transferable and speakers are limited to a single one (1) minute comment.
+
+Allowing full discussion today for these important topics. All members to speak to any topic at any time.
 
 None
 
@@ -77,6 +92,10 @@ Mirrors Will's commentary, suggests that we yield his time to Jose for discussio
 Jose will be discussing updated by-laws outside of meeting time, and we will be adopting the by-laws at our next meeting.
 
 Jeremy explains changes of by-laws as something our non-profit lawyers suggested to make them more legally standing
+
+# New Business
+
+None
 
 ### Closing
 
