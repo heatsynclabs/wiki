@@ -9,6 +9,13 @@ HeatSync Labs
     140 W Main Street.
     Mesa, AZ 85201
 
+    Board Members (Alphabetical by Last Name):
+    Will Bradley
+    Jose Diaz
+    Jeremy Leung
+    Ryan Rix
+    Jacob Rosenthal
+
 ## Opening
 
 19:36 meeting called to order
@@ -16,7 +23,7 @@ HeatSync Labs
 ## Roll Call
 
 Board Members Present:\
-Jeremey Leung (presides)\
+Jeremy Leung (presides)\
 Jacob Rosenthal (taking time)\
 Will Bradley\
 Jose Diaz\
