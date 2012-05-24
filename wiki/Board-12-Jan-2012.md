@@ -4,11 +4,21 @@
 
 ## Roll Call
 
-Board Members Present: Jeremey Leung presides Jacob Rosenthal taking time Will Bradley Jose Diaz Ryan Rix, taking notes
+Board Members Present:\
+Jeremey Leung (presides)\
+Jacob Rosenthal (taking time)\
+Will Bradley\
+Jose Diaz\
+Ryan Rix (taking notes)
 
-Members present: Clark Jones Prescott Ogden Paul Hickey Nate Caine
+Members present:\
+Clark Jones\
+Prescott Ogden\
+Paul Hickey\
+Nate Caine
 
-Guests: Blaine Bublitz
+Guests:\
+Blaine Bublitz
 
 ## Approval of Previous Minutes
 
