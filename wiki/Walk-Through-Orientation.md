@@ -11,8 +11,9 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 
 - Membership levels
   - What level are they?
-  - What do you get? (Box, etc)
+  - What do you get? (Box, voting rights, potential for card access, etc)
 - Guest sponsorships
+  - Keep an eye on your guests
 - Public/private space
   - No taking equipment offsite or touching people's boxes/lockers.
   - Public stuff shouldn't be left in your box, your stuff shouldn't be left laying around the lab.
@@ -28,6 +29,8 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - Proposals to keep or remove stuff in the lab
   - Monthly Treasurer report
   - Proposals to the Board/Treasurer
+  - Process Lost & Found, Broken Tools, missing consumables
+  - Clean up the lab
 - To make proposals, just send an email to the google group with the word proposal in the subject.
   - A week before the next meeting, a community member should compile proposals into an agenda for voting.
 - Last rule the community passed: don't make us make more rules.
@@ -48,7 +51,8 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 <!-- -->
 
 - First person in / last person out procedure
-  - Turn on/off thermostat to 72'
+  - Turn on/off thermostat to 72', turn off fans
+    - Thermostat resets every few hours, OK to turn it down
   - Location of lightswitches, turn off when leaving
   - TV signage up front
   - Check door locks are all green, not red or off
@@ -56,7 +60,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 
 <!-- -->
 
-- Email list
+- Email list is our main method of communicating
 - Toolshare
 - Webcams & Video recording -- no expectation of privacy here.
 
@@ -65,6 +69,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - Clean up after yourself
   - Training, culture
   - Cleaning supplies
+    - How & who to contact when supplies are out
   - Trash cans, dumpsters, bathroom, tool/floor cleaning
   - Parking passes/tickets
 - Do it yourself: nobody else is going to create it, fix it, pick it up, clean it, or replace it but you. If you can't do it, email the Group so someone else can.
