@@ -25,9 +25,7 @@ Future:
 
 You've been added to the intranet system!
 
-Just connect to the wifi: HeatSync Labs, password hacktheplanet .
-
-Point a web browser to <http://172.22.110.15> .
+Connect to the wifi and point a web browser to <http://172.22.110.15> .
 
 Click on Access Control.
 
