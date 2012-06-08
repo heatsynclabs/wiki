@@ -30,7 +30,8 @@ Jeremy proposes delaying until 8:00pm and technical issues have subsided. Unanim
 
 # Members Present:
 
-Nate Plamandon Jen Plamandon
+Nate Plamandon\
+Jen Plamandon
 
 ## Approval of Previous Minutes
 
