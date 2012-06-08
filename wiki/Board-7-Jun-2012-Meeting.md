@@ -45,7 +45,7 @@ None
 
 ### Jacob Rosenthal
 
-= elections are coming up oct 11. Encourage look at platforms. Board elections 2011 or nomination. Encourage you to run, even if contested, multiple vision, healthy for HSL.
+elections are coming up oct 11. Encourage look at platforms. Board elections 2011 or nomination. Encourage you to run, even if contested, multiple vision, healthy for HSL.
 
 ### Jose Diaz
 
