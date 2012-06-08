@@ -113,3 +113,7 @@ Please note that the meeting minutes for the monthly meetings are now being docu
 ### January
 
 [Jan 12 2012](Jan-12-2012)
+
+### June
+
+[Jun 7 2012](Jun-7-2012)
