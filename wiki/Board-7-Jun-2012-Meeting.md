@@ -22,7 +22,11 @@ Any written materials distributed to the Board in connection with this agenda wi
 
 # Opening
 
-7:30 Meeting called to order. Jeremy Leung presiding, Jacob Rosenthal taking notes, Jose timing. Jeremy proposes delaying until 8:00pm and technical issues have subsided. Unanimous consent.
+7:30 Meeting called to order.
+
+Jeremy Leung presiding, Jacob Rosenthal taking notes, Jose timing.
+
+Jeremy proposes delaying until 8:00pm and technical issues have subsided. Unanimous consent.
 
 # Members Present:
 
