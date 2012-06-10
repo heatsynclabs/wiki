@@ -13,5 +13,8 @@ The following is a list:
 
 Some of our local friends are supporting us with valuable discounts and reduced costs. Contact the [google group](http://groups.google.com/group/heatsynclabs) for access to these:
 
-- \$40 an hour waterjet for non commercial small jobs - \$70 an hour commercial
+- \$40 an hour waterjet for non commercial small jobs - \$70 an hour commercial - from [Local Motors](http://www.localmotors.com/)
+  - [Maximum 1515 Website](http://www.maxiemwaterjets.com/waterjet-cutting/machine/model/1515)
+  - [Maximum 1515 Data Sheet](http://www.maxiemwaterjets.com/uploads/machines/pdf/1MAXIEM_1515DOM(1015)sm.pdf)
+  - Contact Issac Olson at iolson \[at\] local-motors \[dot\] com or at (425) 330-9135.
 - Free hour of metal laser cutting (4000watt laser) from [KZell Metals](http://kzell.com/)!
