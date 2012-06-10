@@ -18,3 +18,4 @@ Some of our local friends are supporting us with valuable discounts and reduced 
   - [Maximum 1515 Data Sheet](http://www.maxiemwaterjets.com/uploads/machines/pdf/1MAXIEM_1515DOM(1015)sm.pdf)
   - Contact Issac Olson at iolson \[at\] local-motors \[dot\] com or at (425) 330-9135.
 - Free hour of metal laser cutting (4000watt laser) from [KZell Metals](http://kzell.com/)!
+  - Contact Karl Kammerzell at kkzell \[at\] gmail \[dot\] com
