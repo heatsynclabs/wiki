@@ -48,6 +48,8 @@ Check out the [Projects](Projects) page on the wiki for a (possibly outdated) li
 
 # Q: What does HeatSync need?
 
+YOU to do awesome things. No really. Come to HeatSync. Even when you're tired. Even if you're not a fully paid member. And not only when you need something. Come share your projects and your knowledge. Help others. Make awesome things. Run that workshop you can't understand why we aren't running. Fix all those things you post vehemently about online. No one is going to do it but you. See you @heatsync tonight!
+
 # Q: I lost something, do you know where it might be?
 
 Check in the lost and found box in the east side member box area. If it's not there, ask on the Google Groups to see if anyone has found what you are looking for.
