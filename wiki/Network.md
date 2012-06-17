@@ -82,7 +82,7 @@ The machine is a pfSense box running upstairs, labelled hsl-firewall
 
 #### Overview
 
-This is one of the two IP cameras in the space.
+This is one of the three IP cameras in the space.
 
 #### Responsible For
 
@@ -111,7 +111,7 @@ This is one of the two IP cameras in the space.
 
 #### Overview
 
-This is one of the two IP cameras in the space.
+This is one of the three IP cameras in the space.
 
 #### Responsible For
 
@@ -135,6 +135,21 @@ This is one of the two IP cameras in the space.
     80/tcp open  http
 
     Nmap done: 1 IP address (1 host up) scanned in 305.68 seconds
+
+### 172.22.110.13
+
+#### Overview
+
+This is one of the three IP cameras in the space.
+
+#### Responsible For
+
+- Machine Shop security coverage
+- Machine Shop live.heatsynclabs.org coverage
+
+#### Responsible Parties
+
+- Will Bradley
 
 ### intranet.heatsynclabs.org (172.22.110.15)
 
