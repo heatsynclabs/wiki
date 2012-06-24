@@ -5,7 +5,7 @@ NOTES:
 - We MUST order 10 cases of soda at a time.
 - If we want to get a decent price on cans of soda (we do) you need to select the code for a 12 pack and order TWO of them.
 
-Call your order into:
+Call your order into 480 642 7777
 
 - Our acct number is 38768
 - Address is HeatSync Labs 140 W Main St Mesa AZ 85201
