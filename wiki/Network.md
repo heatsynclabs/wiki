@@ -283,3 +283,17 @@ Steve Young's laptop, added a static DHCP reservation for him per request, to ai
 #### NMAP
 
     Not a lab machine, did not run.
+
+### 172.22.111.247
+
+#### Overview
+
+Raspberry Pi
+
+#### Responsible For
+
+Nothing, yet.
+
+#### Responsible Parties
+
+- Warren Hightower
