@@ -62,6 +62,10 @@ The membership of a member shall terminate upon the following events:
 
 Proceeding into shop areas constitutes agreement with these and other posted guidelines.
 
+**Certification:** Any class taught by an experienced person, that is hands-on, and that teaches the rules in the wiki as well as an emphasis on safety, should be good enough for the Board.
+
+Types of rules to consider implementing: - Preventing injury to the operator and bystanders - Preventing damage to the tool or facility - Keeping the tool clean and ready-to-use for the next person
+
 ### General
 
 - Clean up after yourself after using any public space or machine, including cleaning tables, machines and floor area around it and returning any items to their proper location.
