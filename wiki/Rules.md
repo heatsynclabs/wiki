@@ -172,6 +172,10 @@ See [Laser Cutter](Laser-Cutter)
 
 ### Bandsaw
 
+- Do not run the blade too fast for the material
+  - Highest speed is only suitable for aluminum (with coolant) or wood
+  - Avoiding hardened materials. Unknown steel alloys should be tested with a file. Avoid cutting ends that have been discolored (hardened) by heat.
+- There is no danger in going too slow, so when unsure, go with the slowest speed.
 - Use the appropriate type of blade (wood, metal)
   - Coarser blades are better for harder wood.
 
