@@ -178,6 +178,8 @@ See [Laser Cutter](Laser-Cutter)
 - There is no danger in going too slow, so when unsure, go with the slowest speed.
 - Use the appropriate type of blade (wood, metal)
   - Coarser blades are better for harder wood.
+- **Bandsaw blade longevity tip** Blades should always have AT LEAST three teeth engaged in the cut, actively cutting. So, for example, if the blade on the saw is 14tpi, then 3/14 = 0.214" thick material minimum. When possible, you should cut multiple pieces stacked together to try to achieve the minimum thickness for the blade, even backing-up the cut with sacrificial material works.
+  - If you decide to proceed with too-thin material anyway, care must be taken to feed the material into the blade slowly and gently, if it's fed aggressively, one tooth will try to take a full 3/4hp cut and will probably just shear off from the blade itself, especially with the cheap-blade that ships with the saw.
 
 ### Laptops
 
