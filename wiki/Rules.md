@@ -181,7 +181,7 @@ See [Laser Cutter](Laser-Cutter)
 - **Bandsaw blade longevity tip** Blades should always have AT LEAST three teeth engaged in the cut, actively cutting. So, for example, if the blade on the saw is 14tpi, then 3/14 = 0.214" thick material minimum. When possible, you should cut multiple pieces stacked together to try to achieve the minimum thickness for the blade, even backing-up the cut with sacrificial material works.
   - If you decide to proceed with too-thin material anyway, care must be taken to feed the material into the blade slowly and gently, if it's fed aggressively, one tooth will try to take a full 3/4hp cut and will probably just shear off from the blade itself, especially with the cheap-blade that ships with the saw.
 - When in the upright vertical position be sure to lock the hydrolic feed control in the lock out position(picture?)
-- When bringing up in the upright vertical position be aware of the pinch hazard of the position locking mechanism. Move it into place slowly and safely. (picture?)
+- When bringing up in the upright vertical position be aware of the pinch hazard of the position locking mechanism. Move it into place slowly and safely using the c-clamp attached. (picture?)
 - When cutting material make sure that the blade guard bearing is as close to the cut as possible. You will need to adjust these when cutting material at an angle.(pictures)
 - Always keep the vertical tray on the machine.(picture)
 - Always let the blade do the cutting. Never force it or apply pressure on the chasis to force the cut.
