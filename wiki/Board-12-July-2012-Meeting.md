@@ -1,4 +1,4 @@
-Open ssession starts at 7:30 At the meeting, all board members are present
+Open session starts at 7:30 At the meeting, all board members are present
 
 - Ryan Rix note taking
 - Jake Rosenthal time keeping
