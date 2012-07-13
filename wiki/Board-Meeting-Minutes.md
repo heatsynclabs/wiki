@@ -117,3 +117,7 @@ Please note that the meeting minutes for the monthly meetings are now being docu
 ### June
 
 [Jun 7 2012](Jun-7-2012)
+
+### July
+
+[ 12 July 2012](Board-12-July-2012-Meeting)
