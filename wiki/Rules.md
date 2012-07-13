@@ -185,7 +185,7 @@ See [Laser Cutter](Laser-Cutter)
 - When cutting material make sure that the blade guard bearing is as close to the cut as possible. You will need to adjust these when cutting material at an angle.(pictures)
 - Always keep the vertical tray on the machine.(picture)
 - Always let the blade do the cutting. Never force it or apply pressure on the chasis to force the cut.
-- When cutting in the horizontal position
+- When cutting in the horizontal position the maximum height for round material is 7" and rectangular is 7" x 12".
 
 ### Laptops
 
