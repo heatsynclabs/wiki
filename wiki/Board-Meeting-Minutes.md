@@ -24,8 +24,8 @@ Please note that the meeting minutes for the monthly meetings are now being docu
 
 ### January
 
-[ 7 Jan 2010](7-Jan-2010)\
-[ 21 Jan 2010](21-Jan-2010)
+[ 7 Jan 2010](Board-19-Nov-2009-Meeting)\
+[ 21 Jan 2010](Board-3-Dec-2009-Meeting)
 
 ### February
 
