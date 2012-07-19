@@ -17,7 +17,7 @@ The current status of all outstanding proposals can be viewed here: <http://bit.
 
 <!-- -->
 
-- To pledge money, announce this in the thread and/or email Prescott off-list. If you wish to donate anonymously toward the general SyncStarter matching fund or pledge toward a particular proposal, contact Prescott privately. I reserve the right to make anonymous backers pay up front.
+- To pledge money, announce this in the thread and/or email Prescott off-list. If you wish to donate anonymously toward the general SyncStarter matching fund or pledge toward a particular proposal, contact Prescott privately. Prescott reserves the right to make anonymous backers pay up front.
 
 <!-- -->
 
