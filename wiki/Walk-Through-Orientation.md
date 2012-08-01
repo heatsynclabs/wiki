@@ -12,6 +12,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - Membership levels
   - What level are they?
   - What do you get? (Box, voting rights, potential for card access, etc)
+  - Explain the [Access Card Procedure](Access-Card-Procedure) and how they can get a card.
 - Guest sponsorships
   - Keep an eye on your guests
 - Public/private space
