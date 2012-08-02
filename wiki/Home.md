@@ -27,14 +27,12 @@
 <li><a href="Workshops-DRAFT">Workshops **DRAFT**</a></li>
 </ul>
 <div style="margin:0;background-color:#e0ffe0;font-size:120%;font-weight:bold;border:1px solid #80e080;text-align:left;color:#000;padding:0.2em 0.4em;">
-<p>Library and Toolshare</p>
+<p>What's in the lab?</p>
 </div>
 <ul>
-<li><a href="Library">Library</a></li>
 <li><a href="http://toolshare.heatsynclabs.org">Toolshare</a></li>
-<li><a href="Processes">Processes</a></li>
+<li><a href="Library">Library</a></li>
 <li><a href="Wishlist">Wishlist</a></li>
-<li><a href="New-Stuff">New Stuff</a></li>
 </ul>
 <div style="margin:0;background-color:#e0ffe0;font-size:120%;font-weight:bold;border:1px solid #80e080;text-align:left;color:#000;padding:0.2em 0.4em;">
 <p>Noteworthy Resources</p>
@@ -66,6 +64,7 @@
 <li><a href="Bylaws">Bylaws</a> (aka constitution, charter)</li>
 <li><a href="Meeting-Minutes">Meeting Minutes</a></li>
 <li><a href="Forms">Forms</a></li>
+<li><a href="Processes">Processes</a></li>
 <li><a href="Procedures">Procedures</a></li>
 <li><a href="Document-Retention-and-Destruction-Policy">Document Retention and Destruction Policy</a></li>
 </ul>
