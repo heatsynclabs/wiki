@@ -212,6 +212,23 @@ intranet.hsl.dn42 provides the heart of our infrastructure system. Responsible f
     *:80 for http
     *:9393 for ssh
 
+### 172.22.110.21
+
+#### Overview
+
+Ryan's media server, running subsonic on port 4040
+
+#### Responsible For
+
+- Media server for Ryan and the wider space on port 4040
+  - HSL access: heatsynclabs:partymode1000
+
+#### Responsible Parties
+
+- Ryan Rix
+
+#### NMAP
+
 ### 172.22.111.240
 
 #### Overview
@@ -225,60 +242,6 @@ Fletch's laptop, added a static DHCP reservation for him per request, to aid.
 #### Responsible Parties
 
 - Fletcher Fowler
-
-#### NMAP
-
-    Not a lab machine, did not run.
-
-### 172.22.111.241
-
-#### Overview
-
-Fletch's laptop, added a static DHCP reservation for him per request, to aid.
-
-#### Responsible For
-
-- Has port 15901 open on WAN to VNC port on .241 so that Bob can have remote VNC
-
-#### Responsible Parties
-
-- Fletcher Fowler
-
-#### NMAP
-
-    Not a lab machine, did not run.
-
-### 172.22.111.242
-
-#### Overview
-
-Fletch's laptop, added a static DHCP reservation for him per request, to aid.
-
-#### Responsible For
-
-- Has port 15902 open on WAN to VNC port on .242 so that Fletch can have remote VNC
-
-#### Responsible Parties
-
-- Fletcher Fowler
-
-#### NMAP
-
-    Not a lab machine, did not run.
-
-### 172.22.111.243
-
-#### Overview
-
-Steve Young's laptop, added a static DHCP reservation for him per request, to aid.
-
-#### Responsible For
-
-- Has port 15903 open on WAN to VNC port on .242 so that Fletch can have remote VNC
-
-#### Responsible Parties
-
-- Steve Young
 
 #### NMAP
 
