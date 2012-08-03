@@ -229,6 +229,8 @@ Ryan's media server, running subsonic on port 4040
 
 #### NMAP
 
+    Not a lab machine, did not run
+
 ### 172.22.111.240
 
 #### Overview
