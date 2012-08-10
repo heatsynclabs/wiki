@@ -1,29 +1,50 @@
 ## Professional Options
 
-batchpcb for fairly quackish and cheap turnaround - 1 month seedstudio for opening your product up and/or cheap as low as 30 bucks for 5 boards
+### Local
 
-otherwise find a deal with the big boys advanced pcb (4pcb.com) has 2 layer 33 each at 33each.com (min 4+1free comes to like 150 shipped) a and they have a decent system for checking your design at freedfm.com
+- [Avanti Circuits](http://avanticircuits.com/) - located in North Phoenix. You have to buy a full board apx 18in x 24in for a few hundred dollars, but it's completely panelizable and customizable, they work for your business and will do rapid turnaround or weird requests. Go in on it with some friends.
+
+### Internet
+
+- [BatchPCB](http://batchpcb.com/) for fairly quackish and cheap turnaround - 1 month
+- [Seedstudio Fusion PCB](http://www.seeedstudio.com/depot/fusion-pcb-service-p-835.html?cPath=185) for qty10, relatively cheap for small sizes. 2-5 week turnaround typical.
+
+otherwise find a deal with the big boys
+
+- [Advanced PCB](http://4pcb.com) has 2 layer 33 each at 33each.com (min 4+1free comes to like 150 shipped) a and they have a decent system for checking your design at freedfm.com
 
 One problem you should already have noticed is these places have 100 domains so its hard to know if you're dealing with the same shop.
 
-haven't tried them but <http://www.goldphoenixpcb.biz> <http://www.expresspcb.com/ExpressPCBHtm/HowWorks.htm> <http://www.sunstone.com/QuoteQT.aspx> (pcbexpress, pcb123) www.batesquote.com
+haven't tried them but
 
-some good but perhaps outdated info from ladyada <http://www.ladyada.net/library/pcb/manufacturers.html>
+- <http://www.goldphoenixpcb.biz>
+- <http://www.expresspcb.com/ExpressPCBHtm/HowWorks.htm>
+- <http://www.sunstone.com/QuoteQT.aspx> (pcbexpress, pcb123)
+- <http://www.batesquote.com>
+
+some good but perhaps outdated info from ladyada
+
+- <http://www.ladyada.net/library/pcb/manufacturers.html>
 
 ## Homebrew
 
 There are several options for home etching, but they all boil down to covering up the copper you DON'T want to take off, and bathing the rest in acid.
 
+- [PCBLaserEtch](PCBLaserEtch) - using paint and a laser engraver
 - photo resist - using light to affix your pattern
 - heat transfer - using heat
-- [ LaserZ](PCBLaserEtch) - using paint and a laser
 - permanent marker - yep sharpie will resist etching, too
 
 ### Design
 
 - spacing: 10-12mil
-- route: 5mil
+- route: 5-10mil
 - Adjust routing and/or footprints as necessary.
+
+LASER:
+
+- single-sided only unless you're very handy with a jig
+- mirror the image and print your circuit "on the back" so you can solder to it. test with cardboard so you don't waste hours.
 
 ### Preparation
 
