@@ -80,7 +80,7 @@ If it's not a "HOLY SHIT THE MACHINE IS BROKEN" issue, you can just stop the pri
 - Press the button to enter the device menu
 - Scroll the button all the way down to "STOP PRINT" and press the knob
 
-Your print will stop within 30 seconds and you can [\#Home The Nozzle](Home-the-nozzle) and peel your failed print off.
+Your print will stop within 30 seconds and you can [Home The Nozzle](#home-the-nozzle) and peel your failed print off.
 
 ### KILL DASH NINE
 
