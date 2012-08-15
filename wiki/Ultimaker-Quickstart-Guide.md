@@ -1,4 +1,4 @@
-**The Ultimaker is Currently Running at 100%**
+*'The Ultimaker is Currently Running at 50%'. The 3D printing machine is under maintenance and may not generate proper GCode*
 
 The Ultimaker is our wonderful fancy Dutch 3D printer. Much like their shoes, the Dutch chose to build the 3D printer using a wood frame. Using the Ultimaker isn't entirely difficult, it just takes a quick walkthrough to get it running.
 
