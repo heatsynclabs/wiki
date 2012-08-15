@@ -8,7 +8,7 @@ If you're downloading your model from [Thingiverse](http://thingiverse.com), it'
 
 The Ultimaker slicing programming (ReplicatorG) will only import STL files currently. Getting STLs out of your program of choice depends on your program of choice. If yours is not documented [ask the internet](http://google.com) and then document it here.
 
-Place your downloaded STL on the HSL [3D rrinting Machine](3D-rrinting-Machine) in the Downloads/ folder, in a directory with Your Name. Files floating around freely in Downloads will be mercilessly deleted.
+Place your downloaded STL on the HSL [3D Printing Station Computer](3D-Printing-Station-Computer) in the Downloads/ folder, in a directory with Your Name. Files floating around freely in Downloads will be mercilessly deleted.
 
 ### OpensCAD (\*.scad) (0\$)
 
