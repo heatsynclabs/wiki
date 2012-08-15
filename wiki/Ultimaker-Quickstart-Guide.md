@@ -40,7 +40,7 @@ If those defaults don't make sense to you for some reason (You're printing a str
 
 Click the Duplicate Profile button while the ULTIMAKER - NORMAL profile is selected. This will bring up the slic3r configuration dialog where you can tweak your settings.
 
-Please name your profile in the following format: TMP \$YOURNAME \$REMINDER or UM \$YOURNAME \$REMINDER, where reminder is something like 10% or hollow infill, or something like that so that you don't forget. Temporary profiles may be deleted when I am cleaning the machine up, UM profiles will stay.
+Please name your profile in the following format: TMP \$YOURNAME \$REMINDER or \$YOURNAME \$REMINDER, where reminder is something like 10% or hollow infill, or something like that so that you don't forget. Temporary profiles may be deleted when I am cleaning the machine up, UM profiles will stay.
 
 ## Getting GCode on the Printer
 
