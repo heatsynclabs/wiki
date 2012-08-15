@@ -90,7 +90,7 @@ If something is going haywire, shut the machine off using the switch on the righ
 
 When you're done, clean up the build area, deposit any trash PLA in the PLA trashcan (For when we eventually build a [Filibot](Filibot)) and make sure the machine is turned off when you're done.
 
-### Logging your Work
+### Logging your Work (WIP)
 
 Much like the laser cutter, we like to track usage of the Ultimaker for assessing wear and tear and statistics on prints. Please fill out the log when you are finished by clicking the "3D Printer Log" icon on the desktop.
 
