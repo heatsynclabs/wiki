@@ -85,3 +85,13 @@ Your print will stop within 30 seconds and you can [\#Home The Nozzle](Home-the-
 ### KILL DASH NINE
 
 If something is going haywire, shut the machine off using the switch on the right side and pull the steppers out of the way by hand. If the machine is not in order to print after this, please make a note on it and inform [User:rrix](User-rrix) ASAP.
+
+## Cleaning Up
+
+When you're done, clean up the build area, deposit any trash PLA in the PLA trashcan (For when we eventually build a [Filibot](Filibot)) and make sure the machine is turned off when you're done.
+
+### Logging your Work
+
+Much like the laser cutter, we like to track usage of the Ultimaker for assessing wear and tear and statistics on prints. Please fill out the log when you are finished by clicking the "3D Printer Log" icon on the desktop.
+
+This includes tracking failed prints, just record how far the machine got before it failed, and the reason why.
