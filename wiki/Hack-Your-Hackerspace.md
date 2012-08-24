@@ -15,12 +15,11 @@ HYH is the members' night to get stuff done around the space. It is NOT a discus
 - Any member can begin the meeting promptly at 7, with or without a quorum of 8 members.
 - The first part is the vote; voting happens quickly, generally without discussion. If there's no quorum, the vote may be skipped or delayed til later in the meeting.
 - Log the vote in the minutes section below.
-- The second part is getting stuff done; break out to clean/fix/replace/action anything else that has to happen at the lab. For example, may have broken equipment per station that needs to be evaluated. Is our stock of cups/tp/cleaning products sufficient for 2 weeks?
-- Review storage and process incoming donations and decide what to keep/store fix or sell, or recycle/throw away.
-- Review the lost and found box and post contents to the lost and found thread here: <http://groups.google.com/group/heatsynclabs/browse_thread/thread/7f7aac4217cbd24d>
-
-**Minutes:**
-
-- 11/10/11, 8 members
-  - Give Brian Aday card access: passed, 4 for, 3 abstain, 0 against
-  - Increasing \$50/qtr supplies budget to \$50/mo: passed, 8 for
+- The second part is getting stuff done:
+  - Clean/fix/replace/action everything.
+  - Review the lost and found box and post contents to the lost and found thread here: <http://groups.google.com/group/heatsynclabs/browse_thread/thread/7f7aac4217cbd24d>
+  - Check stations and broken tools bin for broken equipment.
+  - Check stock of cups/tp/cleaning products sufficient, notify Operations if not.
+  - Review upstairs storage
+  - Process donations
+    - Organize, repair, or mark for tear-apart/recycle/throw away.
