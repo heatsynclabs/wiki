@@ -4,7 +4,7 @@ Hot Topics is our unfortunately named lightning talks series modeled on events l
 
 # When?
 
-Hot Topics is scheduled to coincide with Mesa's monthly Second Friday event starting between 7 and 8pm.
+Hot Topics is generally scheduled to coincide with Mesa's monthly Second Friday event starting between 7 and 8pm, however check the [Event Calendar](http://www.heatsynclabs.org/events/) for confirmation.
 
 # Why?
 
