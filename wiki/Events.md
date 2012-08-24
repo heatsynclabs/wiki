@@ -4,7 +4,7 @@ If there is an event you would like us to host or make an appearance at, please 
 
 ## Events
 
-- [Weekly Schedule](Weekly-Schedule) for all of our current scheduling
+- [Events page](http://www.heatsynclabs.org/events/) for all of our current scheduling
 - [Presentations](Presentations)
 - [Arduino Night](Arduino-Night)
 - [HotTopics](HotTopics)
