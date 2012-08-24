@@ -13,8 +13,10 @@ HYH is the members' night to get stuff done around the space. It is NOT a discus
 **At the meeting:**
 
 - Any member can begin the meeting promptly at 7, with or without a quorum of 8 members.
-- The first part is the vote; voting happens quickly, generally without discussion. If there's no quorum, the vote may be skipped or delayed til later in the meeting.
-- Log the vote in the minutes section below.
+- The first part is the vote; voting happens quickly, generally without discussion.
+  - If there's no quorum, the vote may be skipped or delayed til later in the meeting.
+  - A majority vote wins (abstains are OK, if 2 vote yea 1 vote nay and 5 abstain, the vote passes.)
+- **Email results of the vote to the Google Group.**
 - The second part is getting stuff done:
   - Clean/fix/replace/action everything.
   - Review the lost and found box and post contents to the lost and found thread here: <http://groups.google.com/group/heatsynclabs/browse_thread/thread/7f7aac4217cbd24d>
