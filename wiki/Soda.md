@@ -15,15 +15,17 @@ Within a few days someone will arrive with the soda. They will not speak English
 It may help you to have the codes for sodas we most often order:
 
 - NOS 318
+  - May no longer be available
 - Monster Java 232
 - AW Cream soda 86
+  - Please no diet
 - Orange Tea 995
 - AZ green Tea 962
 - Arnold Palmer 775
 - Snapple variety 565
-- Arnold Palmer 775
 - Arizona Mandarin Orange Green Tea 995
 - Monster 537
+  - Please never ever order Monster Rehab Protean again (the blue shit) -- lemonade or rojo are ok.
 - Fuse 158
 - Fuze Mixed 435
 - Holistics 106
