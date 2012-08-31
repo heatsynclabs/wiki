@@ -22,7 +22,7 @@ HeatSync membership is open to the public, but use of certain equipment and key/
 
 ### Membership Fees
 
-If you sign up for membership via PayPal your recurring monthly dues will be subtracted from your account the same date you enrolled. If you chpose Cash/Check -- you can either mail your dues (HeatSync Labs PO Box 24143 Tempe, AZ 85284) or deliver it to Jose Diaz (jose @ heatsynclabs.org) at HeatSync. Please note recurring payments are -highly- encouraged-- remember we do not have staff. If cash/check are important please consider prepaying for 3,6 or 12 months up front.
+If you sign up for membership via PayPal or Dwolla, your recurring monthly dues will be subtracted from your account the same date you enrolled. If you chpose Cash/Check -- you can either mail your dues (HeatSync Labs PO Box 24143 Tempe, AZ 85284) or deliver it to Jose Diaz (jose @ heatsynclabs.org) at HeatSync. Please note recurring payments are -highly- encouraged-- remember we do not have staff. If cash/check are important please consider using your bank's automatic bill-pay feature, or prepaying for 3,6 or 12 months up front.
 
 ### Membership Privileges and Responsibilities
 
