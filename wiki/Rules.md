@@ -6,15 +6,15 @@ HeatSync membership is open to the public, but use of certain equipment and key/
 
 ### Membership Tiers
 
-- **Associate Membership** is \$25 per month, and confers only the right to have your name on the list of members, and access to the lab and shared equipment during the published hours of operation. Other membership rights listed herein, such as voting rights, do not apply.
+- **Associate Membership** is \$25 per month, and confers only the right to have your name on the list of members, access to the lab and shared equipment during the published hours of operation, and discounts with local manufacturers and suppliers. Other membership rights listed herein, such as board election voting rights, do not apply.
 
 <!-- -->
 
-- **Basic Membership** is \$50 per month, and confers the right to have your name on the list of members, 24/7 access to the lab, including a key to the building and security code, and personal project space for a banker box (first box provided by HeatSync Labs.) It includes all the membership rights listed herein unless otherwise specified.
+- **Basic Membership** is \$50 per month, and confers the benefits of Associate Membership, plus personal project space for a banker box (first box provided by HeatSync Labs), the ability to direct HeatSync Labs with your vote in board elections, and IF the community votes to grant you the privilege, 24/7 access to the lab including a key to the building and security code.
 
 <!-- -->
 
-- **Plus Membership** is \$75 per month, and confers the right to have your name on the list of members, 24/7 access to the lab, including a key to the building and security code, and personal project space for a banker box (first box provided by HeatSync Labs), **plus a locker.** It includes all the membership rights listed herein unless otherwise specified.
+- **Plus Membership** is \$100 per month, and you get all the benefits of a basic membership, except a locker in the lab instead of a bankers box. It includes all the membership rights listed herein unless otherwise specified.
 
 <!-- -->
 
