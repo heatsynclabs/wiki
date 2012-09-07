@@ -2,29 +2,31 @@ The HeatSync Labs Community Involvement page is intended to document articles re
 
 ## Blogs
 
-- [HeatSync Labs at Maker Faire Phoenix](http://julienauphotodesign.com/2011/10/maker-faire-phoenix/)
-- [HeatSync Labs, an inventors' co-op](http://www.examiner.com/video-game-industry-in-phoenix/heatsync-labs-an-inventors-co-op)
-- [Craft for Japan at HeatSync Labs](http://blogs.evtrib.com/nerdvana/2011/05/12/craft-for-japan-at-heatsync-labs/)
-- [HeatSync Labs board unanimous in approving proposed Mesa lease](http://blogs.evtrib.com/nerdvana/2011/05/12/heatsync-mesa/)
-- [HeatSync Labs board to vote on proposal to lease space in downtown Mesa](http://blogs.evtrib.com/nerdvana/2011/05/10/heatsync-labs-considers-mesa/)
-- [Thank The Makers](http://blogs.evtrib.com/nerdvana/2011/04/12/thank-the-makers/)
-- [Innovation lab looks at moving to Phoenix; downtown promoted as a possibility](http://downtowndevil.com/2011/02/17/4782/heatsync-innovation-lab-downtown-phoenix/)
-- [HeatSync Labs: A Nonprofit Hackerspace Looking for a New Home](http://blogs.phoenixnewtimes.com/jackalope/2011/03/heatsync_labs_gains_nonprofit.php)
-- [AZCentral Blossoming Phoenix](http://www.azcentral.com/members/Blog/MichaelWitham/121086)
-- [Augmenting Humanity @HeatSync Labs](http://www.cspo.org/soapbox/view/110208P2NI/augmenting-humanity-heatsync-labs/)
-- [Is Mesa the perfect new home for Heatsync Labs?](http://blogs.evtrib.com/nerdvana/2011/02/04/heatsync/)
-- <http://blog.makezine.com/archive/2010/10/mechanical-moustache.html>
-- <http://blog.makezine.com/archive/2010/09/arduino-motorcycle-motoduino.html>
-- <http://blog.makezine.com/archive/2010/03/cubely-a-new-3d-printer.html>
-- <http://blog.makezine.com/archive/2010/02/hacking-a-honda-tail-light.html>
-- <http://blog.makezine.com/archive/2011/03/hackerspace-happenings-make-interviews-tokyos-akiba.html>
+- March 2012 [Phoenix New Times: The Tacocopter Might Be A Hoax, But Don't Give Up the Dream](http://blogs.phoenixnewtimes.com/bella/2012/03/the_tacocopter_might_be_a_hoax.php)
+- October 2011 [HeatSync Labs at Maker Faire Phoenix](http://julienauphotodesign.com/2011/10/maker-faire-phoenix/)
+- August 2011 [Examiner.com: HeatSync Labs, an inventors' co-op](http://www.examiner.com/video-game-industry-in-phoenix/heatsync-labs-an-inventors-co-op)
+- May 2011 [EVTrib: Craft for Japan at HeatSync Labs](http://blogs.evtrib.com/nerdvana/2011/05/12/craft-for-japan-at-heatsync-labs/)
+- May 2011 [EVTrib: HeatSync Labs board unanimous in approving proposed Mesa lease](http://blogs.evtrib.com/nerdvana/2011/05/12/heatsync-mesa/)
+- May 2011 [EVTrib: HeatSync Labs board to vote on proposal to lease space in downtown Mesa](http://blogs.evtrib.com/nerdvana/2011/05/10/heatsync-labs-considers-mesa/)
+- April 2011 [EVTrib: Thank The Makers](http://blogs.evtrib.com/nerdvana/2011/04/12/thank-the-makers/)
+- February 2011 [Downtown Devil: Innovation lab looks at moving to Phoenix; downtown promoted as a possibility](http://downtowndevil.com/2011/02/17/4782/heatsync-innovation-lab-downtown-phoenix/)
+- March 2011 [Phoenix New Times: HeatSync Labs, A Nonprofit Hackerspace Looking for a New Home](http://blogs.phoenixnewtimes.com/jackalope/2011/03/heatsync_labs_gains_nonprofit.php)
+- March 2011 [Makezine: Make Interviews Tokyo's Akiba](http://blog.makezine.com/archive/2011/03/hackerspace-happenings-make-interviews-tokyos-akiba.html)
+- March 2011 [Michael Witham @ AZCentral: Blossoming Phoenix](http://www.azcentral.com/members/Blog/MichaelWitham/121086)
+- February 2011 [Michael Burnam-Fink @ ASU CSPO: Augmenting Humanity @HeatSync Labs](http://www.cspo.org/soapbox/view/110208P2NI/augmenting-humanity-heatsync-labs/)
+- February 2011 [EVTrib: Is Mesa the perfect new home for Heatsync Labs?](http://blogs.evtrib.com/nerdvana/2011/02/04/heatsync/)
+- October 2010 [Makezine: Mechanical Moustache](http://blog.makezine.com/archive/2010/10/mechanical-moustache.html)
+- September 2010 [Makezine: Arduino Motorcycle](http://blog.makezine.com/archive/2010/09/arduino-motorcycle-motoduino.html)
+- March 2010 [Makezine: Cubely, a new 3D Printer](http://blog.makezine.com/archive/2010/03/cubely-a-new-3d-printer.html)
+- February 2010 [Makezine: Hacking a Honda Tail Light](http://blog.makezine.com/archive/2010/02/hacking-a-honda-tail-light.html)
 
-## Print
+## Mainstream Media
 
-- [Downtown Mesa getting cooler](http://www.azcentral.com/arizonarepublic/opinions/articles/2011/07/18/20110718mon1-18-downtown-mesa.html)
-- [Downtown Mesa: Tech-and-arts incubator to move in](http://www.azcentral.com/news/articles/2011/05/20/20110520mesa-downtown-technology-heatsync.html)
-- [HeatSync Labs chooses downtown Mesa](http://apps.mesaaz.gov/News/ArticleView.aspx?id=29974)
-- [Opinion: iMesa mandate: Fight blight, offer fun, welcome business](http://www.azcentral.com/community/mesa/articles/2011/02/22/20110222mesa-editorial-imesa-residents0222.html)
+- August 2012 [Phoenix New Times Best of Phoenix 2012: Behind the Screens at Hackerspace Heatsync Labs](http://vimeo.com/48557640)
+- July 2011 [Downtown Mesa getting cooler](http://www.azcentral.com/arizonarepublic/opinions/articles/2011/07/18/20110718mon1-18-downtown-mesa.html)
+- May 2011 [Downtown Mesa: Tech-and-arts incubator to move in](http://www.azcentral.com/news/articles/2011/05/20/20110520mesa-downtown-technology-heatsync.html)
+- May 2011 [HeatSync Labs chooses downtown Mesa](http://apps.mesaaz.gov/News/ArticleView.aspx?id=29974)
+- February 2011 [Opinion: iMesa mandate: Fight blight, offer fun, welcome business](http://www.azcentral.com/community/mesa/articles/2011/02/22/20110222mesa-editorial-imesa-residents0222.html)
 
 ## Presentations
 
