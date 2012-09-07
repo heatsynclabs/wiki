@@ -72,7 +72,7 @@
 </div>
 <ul>
 <li><a href="Press-Kit">Press Kit</a></li>
-<li><a href="Community-Involvement"> Press</a></li>
+<li><a href="Press">Press</a></li>
 </ul></td>
 </tr>
 </tbody>
