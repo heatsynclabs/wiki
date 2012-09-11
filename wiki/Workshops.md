@@ -1,1 +1,1 @@
-*This page redirects to **[WORKSHOP_POLICY](WORKSHOP-POLICY)**.*
+*This page redirects to **[Workshop_Policy](Workshop-Policy)**.*
