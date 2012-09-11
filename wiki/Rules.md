@@ -147,6 +147,12 @@ See [Laser Cutter](Laser-Cutter)
 - Avoid reaching over the spinning chuck. For filing operations, hold the file such that you are not reaching over the chuck and risking something being caught in it. Your body should not be in front of the file itself in case the file snags and is thrown toward you.
 - Never use a file with a bare tang - the tang could be forced back into your wrist or palm. Inexpensive wooden handles are readily available for common file sizes.
 
+### CNC Mill
+
+- HeatSync Training required for use
+- Mill rules apply to CNC Mill
+- TODO: Add more safety & maintenance rules
+
 ### Welder
 
 - HeatSync Training required for use
