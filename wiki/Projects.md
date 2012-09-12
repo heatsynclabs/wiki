@@ -2,6 +2,7 @@
 
 **Please add links to your projects here, in *reverse chronological* order!**
 
+- [CNC Router](CNC-Router)
 - [LTD Stirling Engine](LTD-Stirling-Engine)
 - [Woodshop](Woodshop-Layout)
 - [3D Scanner](3D-Scanner)
