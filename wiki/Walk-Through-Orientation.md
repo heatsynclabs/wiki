@@ -16,6 +16,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - Guest sponsorships
   - Keep an eye on your guests
 - Public/private space
+  - We don't guarantee security of stuff in your box & ESPECIALLY not stuff left around the lab!
   - No taking equipment offsite or touching people's boxes/lockers.
   - Public stuff shouldn't be left in your box, your stuff shouldn't be left laying around the lab.
   - If you need to leave something in the lab, put a parking pass on it so we know it's yours and how to contact you.
@@ -46,7 +47,9 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 
 <!-- -->
 
-- Location of tools
+- Location of thermostat, TV, lock/unlock tablet
+- Explain stations & tools
+  - Include sewing, A/V computer, tear apart, upstairs storage/music
 - Location and usage of fire extinguishers
 
 <!-- -->
