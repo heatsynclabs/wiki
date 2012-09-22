@@ -9,31 +9,52 @@ Chair (Board Member)
 Facilities
 
 - General
-  - Austin Kipp
+  - Austin K
+- Welding
+  - Austin K
 - Laser
-  - Nate Caine
-- Wood & Metal Shop
-  - Tim Moffat
-- Space Enforcers
-  - Marita Ogden
-  - Maya Kessler
+  - Nate C
+- Metal Shop
+  - Jasper N
+- Wood Shop
+  - VACANT
+- 3D Printing
+  - Ryan R
+- Electronics
+  - Jacob R
+- Microcontrollers
+  - Jacob R
+- Music
+  - Chad S
+  - Ryan M
+- IT, AV and Doors
+  - Will B
+  - Ryan R
+  - Jeremy L
 
-Blogging & Code
+Website Programming
 
-- Ryan Rix
+- Will B
+- Ryan R
+
+Blogging
+
+- Jacob R
+- VACANT
 
 Social Media
 
-- Erica Weems
+- Jacob R
+- VACANT
 
 Photography
 
-- Ryan Rix
-- Jasper Nance
+- Ryan R
+- VACANT
 
 Design
 
-- Samantha Christoff
+- VACANT
 
 ## Resource Manager
 
