@@ -5,8 +5,9 @@ NOTES:
 - We MUST order 10 cases of soda at a time.
 - If we want to get a decent price on cans of soda (we do) you need to select the code for a 12 pack and order TWO of them.
 
-Call your order into 480 642 7777
+Call your order into Matt 480 329 8398 (phx office main number: 480 642 7777)
 
+- Account Rep: Matt
 - Our acct number is 38768
 - Address is HeatSync Labs 140 W Main St Mesa AZ 85201
 
@@ -14,8 +15,6 @@ Within a few days someone will arrive with the soda. They will not speak English
 
 It may help you to have the codes for sodas we most often order:
 
-- NOS 318
-  - May no longer be available
 - Monster Java 232
 - AW Cream soda 86
   - Please no diet
