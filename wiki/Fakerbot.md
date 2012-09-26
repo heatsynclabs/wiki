@@ -1,4 +1,4 @@
-# The Makerbot is currently \[down for upgrades\]
+# The Makerbot is currently ALIVE!! for 1.75mm ABS printing
 
 # Usage
 
@@ -33,19 +33,15 @@ The little table on the inside of the machine will be referred to as the build p
 
 Choose File-\>Open and open your stl file if you haven't already. Take a look at it in the preview window. \[Picture of preview window\] The preview window is the same size and shape as your available print area. The object shouldn't be hovering off the ground or spilling outside of the box at all! If all looks good click the "generate g code" button on the lower right. \[Generate G Code button\] This prepares the file for printing by slicing the model into slivers and deciding how best to print it. Next select the thingomatic-mk5-heated profile and click 'Generate'. \[Picture of Skeinforge Selection\] This may take some time. When this finishes you'll see a new tab next to model. \[Picture of gcode tab\]
 
-## Send to SD card
-
-Next press the 'Upload to SD card' button. \[Upload to SD card button\] This will take a few minutes and forward all code over to the SD card so the machine can run all by itself, removing any delays the computer might cause. This is amazingly important as the little lenovo decides to take a break sometimes, ruining prints.
-
 ## Print!
 
-You're ready! Note where the stop button is on the control panel in case anything looks bad. Also note the power switch in back of the machine. If something goes wrong, these are your friends. Now click 'Build from sd card' \[build from sd card\] from the main makerbot menu.
+You're ready! Note where the stop button is on the control panel in case anything looks bad. Also note the power switch in back of the machine. If something goes wrong, these are your friends. Now click 'Build' \[build\] from the main makerbot menu.
 
 The build may take a bit to start while it achieves optimal temperatures. Presumably the print will start, adhere to the bed well, and you can simply stick around until your print finishes. If it messes up stay calm, press the stop button or in the worst case turn the machine off and either try again or ask for help.
 
 # Putting Replicator G on your laptop
 
-You can indeed install replicatorg on your laptop for most likely superior performance to the lenovo. You may also be able to get away with not using an SD card. Go to replicat.org and download ReplicatorG 26 or higher. You'll need to change 2 files, [fakerbot.xml](files/Fakerbot.xml) and [start.txt](files/Start.txt). fakerbot.xml goes into the machines directorty. start.txt is a little more tough. It goes under skein_engines/skeinforge-0006/prefs/thingomatic-mk5-heated-abs AND skein_engines/skeinforge-0006/prefs/thingomatic-mk5-abs. Those will also be the profiles you will want to print from. One last, annoying change. When you go to generate your g code with those profiles, you need to go into each and go into the carve menu and change your layer height depending on the filament size. We're at .4 right now for black and uv red filament instead of the default .36.
+Currently no, the profile is rather complicated and we've had no luck with th is
 
 ## Post Processing of Printed Items
 
@@ -88,6 +84,10 @@ The molten nature of the plastic will tend to round off many sharply detailed fe
 Acetone is a good solvent for ABS plastic. Using pure acetone applied with a paintbrush a reasonably smooth printed object can be given a high quality glossy sheen. By placing a part with poor surface finish in a bath of Acetone it will help smooth out all the lumps and bumps in the surface and give a smooth, organic looking surface, care should be taken when doing this that the part is not left in for too long or it will dissolve. By dissolving scrap ABS in acetone a more viscous product can be made with many uses, the viscosity and useful applications will depend on the ratio of ABS to Acetone. Low amounts of ABS create a product that can be applied with a brush that is useful for filling gaps in and giving a glossy surface to as-printed parts or for gluing very flat parts together. Medium amounts of ABS give a thicker, more glue-like material which is effective as a small-hole filler and glue for less even surfaced 3d printed items. Large amounts of ABS gives a thick paste that can be applied with a palette knife or spatula that can be used for effectively filling holes and attaching very differently shaped parts whose mating surface contours do not well match to each other or even for moulding and shaping additional parts by hand. Any work involving acetone should be performed in a well ventilated area, away from high temperature surfaces and sources of ignition. If the operator will come into contact with acetone or parts that have recently been in contact with acetone products suitable protective gloves (such as disposable powder-free blue nitrile or N-Dex) should be worn to prevent acetone from being absorbed into the operators body through the skin and reduce the chance of a user becoming stuck to or leaving fingerprints on “wet” printed items.
 
 # Status Updates
+
+## 09/26/2012
+
+Switched to the Mk7 (1.75mm filament) clone from kickstarter, but dumped its thermistor for a thermocouple and its shitty gear for a makerbot drive gear. Installed on the old Mk1 cantilever which we altered to fit the universal bracket. Moved all electronics to under the device and cut a hole in the frame to mount the power supply. Created a new mount box to hold electronics and powersupply in the back of the frame. Mounted filament spool wheel to the left of the machine.
 
 ## 01/03/2012
 
