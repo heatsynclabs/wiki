@@ -1,6 +1,12 @@
+**Voting members present:** 14
+
 **Proposal: Purchase CNC Mill** Proposer: Ben Humphreys
 
-I propose that HeatSync Labs: Purchase the CNC Mill from Joseph Julicher for the price of \$1500, with the money donated specifically for that purpose, with the difference being made up with money from the general budget. Establish a fund dedicated to CNC related expenses. CNC-specific donatings will go into this fund, along with a portion of the certification class fees, and the contents of a tip jar to be setup next to the machine. I don't know how much money is earmarked for CNC right now. But there have been \$610 of pledges in the earlier syncstarter thread, so assuming everyone put in that much and no more, that leaves \$890 to come from the general funds. **ACTION:** 0/8 Motion fails **NOTES:** CNC mill purchase \$1500 total \$890 from general funds Nate wants to get more information. How much has been donated? Do we have enough in the budget?
+I propose that HeatSync Labs: Purchase the CNC Mill from Joseph Julicher for the price of \$1500, with the money donated specifically for that purpose, with the difference being made up with money from the general budget. Establish a fund dedicated to CNC related expenses. CNC-specific donatings will go into this fund, along with a portion of the certification class fees, and the contents of a tip jar to be setup next to the machine. I don't know how much money is earmarked for CNC right now. But there have been \$610 of pledges in the earlier syncstarter thread, so assuming everyone put in that much and no more, that leaves \$890 to come from the general funds.
+
+**ACTION:** 0/8 Motion fails
+
+**NOTES:** CNC mill purchase \$1500 total \$890 from general funds Nate wants to get more information. How much has been donated? Do we have enough in the budget?
 
 **Proposal: Board members voted onto board, not voted into positions** Proposer: Chad Stearns
 
@@ -16,9 +22,13 @@ This is in contrast with how things are currently done, where candidates are vot
 
 **ACTION:** 3/6 Motion fails
 
-**Proposal: Keycard Zach Priddy** **ACTION:** 8/1 Motion passes
+**Proposal: Keycard Zach Priddy**
 
-**Proposal: Keycard Jennifer Plamondon** **ACTION:** 14/0 Motion passes
+**ACTION:** 8/1 Motion passes
+
+**Proposal: Keycard Jennifer Plamondon**
+
+**ACTION:** 14/0 Motion passes
 
 **Proposal: Tshirt Re-supply** Proposer: Will
 
@@ -29,11 +39,3 @@ Shirts are sold at \$20ea regardless of size; do the math, that's our profit per
 6xl 1 womens xl 1 2xl 1 3xl 1 4xl
 
 **ACTION:**T-shirt resupply 14/0 Motion carries **Notes:** Concerns about price per shirt Others not concerned about profit margin
-
-Voting members: 14
-
-Old business? None
-
-Board members voted onto board not into positions
-
-Table any changes to bylaws or board seats until after board elections
