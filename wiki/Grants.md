@@ -32,6 +32,8 @@ These opportunities require a nonprofit to submit a project with a very specific
 
 Promote economic development, Provide job training and workforce development, Revitalize and stabilize communities
 
+- [Arizona Commission for the Arts](http://www.azarts.gov/grants/artists/) - Provides assistance to individual artists working in a variety of disciplines through Artist Research and Development Grants and Professional Development Grants for Individuals. Also a [fastrack](http://www.azarts.gov/grants/fast-track-grants/) grants for certain times of the year.
+
 ## Medium Project Based
 
 These opportunities require a nonprofit to submit a project with a very specific scope, IE your project! Most are based around some public need like education, environment, community, health care, etc. How it works is you write it up your project and HeatSync signs on for 15% for operational expenses, with the rest administered to you based on your proposal.
