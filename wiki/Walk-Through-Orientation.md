@@ -75,6 +75,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - Cleaning supplies
     - How & who to contact when supplies are out
   - Trash cans, dumpsters, bathroom, tool/floor cleaning
+  - Make sure we've always got a good stock of toilet paper & towels in the bathroom so nobody gets trapped
   - Parking passes/tickets
 - Do it yourself: nobody else is going to create it, fix it, pick it up, clean it, or replace it but you. If you can't do it, email the Group so someone else can.
 - Do-ocracy: the people who get to decide are the people who get off their butts and commit to making something happen.
