@@ -79,3 +79,5 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - Parking passes/tickets
 - Do it yourself: nobody else is going to create it, fix it, pick it up, clean it, or replace it but you. If you can't do it, email the Group so someone else can.
 - Do-ocracy: the people who get to decide are the people who get off their butts and commit to making something happen.
+- SAFETY: Every member has the right, maybe even the responsibility to kick someone out for dangerous behavior.
+  - Cut power to the building if you need to. Nobody has the right to endanger themselves, others, or the lab with unsafe behavior.
