@@ -49,7 +49,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 
 - Location of thermostat, TV, lock/unlock tablet
 - Explain stations & tools
-  - Include sewing, A/V computer, tear apart, upstairs storage/music
+  - Include sewing, A/V computer, tear apart, upstairs storage/music, safety equipment
 - Location and usage of fire extinguishers
 
 <!-- -->
