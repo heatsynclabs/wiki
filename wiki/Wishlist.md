@@ -2,8 +2,8 @@ The Wishlist is an area to add specific tool and material requests. Tools donate
 
 ## General Lab Needs
 
-- Micro USB cables
-- Regular ("printer") USB cables
+- Micro USB cables (USB A to micro-B)
+- Regular ("printer") USB cables (USB A to B)
 - Hanging and/or facade sign for the space
 - Replacement canopy for back
 
