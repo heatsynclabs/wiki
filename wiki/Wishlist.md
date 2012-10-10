@@ -2,31 +2,21 @@ The Wishlist is an area to add specific tool and material requests. Tools donate
 
 ## General Lab Needs
 
-- Badly needed: 1 Industrial shelving unit (member storage) (http://www.homedepot.com/h_d1/N-5yc1vZ1xg6/R-100095394/h_d2/ProductDisplay?langId=-1&storeId=10051&catalogId=10053)
-- New Plunger
-- New Toilet brush
-- Short garden hose (like 6 foot or something?) for filling mop buckets, etc
-- 2 ladders to reach 12ft ceilings (if the ladders here are yours, please indicate if you are donating them or not)
-- 1 desk for conference room, more desks, workbenches, or tables for front area
-- More matched nice computer chairs for up front
+- Micro USB cables
+- Hanging and/or facade sign for the space
+- Replacement canopy for back
 
-## Assets
+## Equipment
 
-Lets pick out a list of 'essential' tools in each category. The [Fab Lab](http://en.wikipedia.org/wiki/Fab_lab) might be a good starting point for this. For those that are prohibitively expensive, lets choose the ACTUAL tool we ACTUALLY want to buy and post a kickstarter campaign for it. For cheaper tools [ Auctions](Local-Resources#auctions), [Craigslist](http://www.craigslist.com) and [Cheap Chinese Tools](Cheap-Chinese-Tools) are probably the way to go to start.
-
-- Embedded Circuit Design/Electronics Lab Tools
 - [ CNC Router](CNC) We might be able to do some fun stuff with laser in meantime (maybe 3/4" mdf?)
 - CNC Milling Machine -we can CNC our Mini Mill!
 - CNC Lathe -we're borrowing one of Corey's and we can CNC our 7x10!
-- Lathe - We have 3 at this point, but someone suggests Harrison Alpha Model
 - Plasma Cutter --\> <http://www.plasmacam.com/products-index.php>
 - Waterjet Cutter - Omax?
-- Drill Press - we have 2, but presumably a better one
 - Circular Saw - We're eyeing a [Hitachi C8FSHE 8-1/2](http://www.google.com/products/catalog?q=sliding+compound+miter+saw&um=1&hl=en&bav=on.2,or.r_gc.r_pw.&biw=770&bih=588&ie=UTF-8&cid=7814405329451054227&sa=X&ei=x_bITZquCKn20gHd34jcCA&ved=0CJYBEPMCMAI)
-- Table Saw - we get a [ryobi](http://www.good360.org/productdetails.aspx?ItemNumber=150649) from home depot for free!
-- Air Compressor - we have a cheap Ace Hardware version, but its a little rough
-- Band Saw - We have the Harbor Freight model, but its a little rough..
-- Air filtration - for wood projects and routers, etc. Can we
+- Table Saw - we can get a [ryobi](http://www.good360.org/productdetails.aspx?ItemNumber=150649) from home depot for free!
+- Air Compressor
+- Air filtration - for wood projects and routers, etc.
 - 3D Scanner - Nextgen? or [Fabscan?](http://hci.rwth-aachen.de/FabScan)
 - Pick and Place - APS? or <http://code.google.com/p/openpnp/>
 
@@ -35,10 +25,6 @@ Lets pick out a list of 'essential' tools in each category. The [Fab Lab](http:/
 When purchasing we, as a rule, do not want non commercial versions of software as we are prototyping and creating
 
 - Matlab - 1 license \$2k at mathworks
-- Corel draw \$399 at corel - \$130 if you upgrade (CorelDRAW, CorelDRAW Graphics Suite, Corel PHOTO-PAINT, Corel DESIGNER, Micrografx Designer, Micrografx Graphics Suite, Micrografx/Corel Picture Publisher, or Corel Painter. Trial, academic, OEM, and NFR versions are not eligible for an upgrade.)
-- Corel Draw x3 (maybe preferred for our laser 'driver') \$25 plus 5 shipping [here](http://www.vendio.com/stores/rockymtncomputers/item?lid=13900508&source=Vendio:Google%20Product%20Search)
-- Illustrator \$600 on adobe or cs5 premium design on techsoup (mac) \$55 esd
-  - OR CS5 Design (inc photoshop extended, flash catalyst and professional) for 170(mac) on techsoup
 - Eagle standard (4x6) \$750, pro \$1500
   - Or Alibre? Altium would be nice (5k)..
 - VCarve - CAD/CAM system for making signs and art
