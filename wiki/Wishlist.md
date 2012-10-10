@@ -3,6 +3,10 @@ The Wishlist is an area to add specific tool and material requests. Tools donate
 ## General Lab Needs
 
 - Micro USB cables (USB A to micro-B)
+- 15-25 foot VGA extension cable
+
+### Building Needs
+
 - Regular ("printer") USB cables (USB A to B)
 - Hanging and/or facade sign for the space
 - Replacement canopy for back
