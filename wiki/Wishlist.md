@@ -1,5 +1,7 @@
 The Wishlist is an area to add specific tool and material requests. Tools donated or acquired by HeatSync Labs can be found on the [Library](Library) page.
 
+Also see: [Amazon Wishlist](http://heatsynclabs.org/wishlist)
+
 ## General Lab Needs
 
 - Micro USB cables (USB A to micro-B)
