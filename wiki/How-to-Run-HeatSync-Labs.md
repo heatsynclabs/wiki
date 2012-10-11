@@ -1,4 +1,10 @@
-This is a list of responsibilities (what is expected of the position), as well as a knowledgebase of how to practically accomplish those responsibilities.
+The role of the Board of HeatSync Labs has three parts:
+
+- To Guide the Community in the fulfillment of our mission and goals.
+- To Represent the Will of the Community where an official representation is necessary to interface with other organizations and to fulfil the Law of the land.
+- To Empower the Individuals that make up the Community of HeatSync Labs to take Action towards the ends of fulfilling our goals and mission.
+
+This is an OUTDATED list of responsibilities (what is expected of the position), as well as a knowledgebase of how to practically accomplish those responsibilities. We are trying to move as much responsibility to the community as possible so that the board is not a bottleneck to everyday tasks.
 
 ## Everyone
 
