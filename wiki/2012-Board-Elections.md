@@ -1,4 +1,12 @@
-**2012 HSL Board** Champion: Jeremy Leung and Tim Gerrits Treasurer: Chad Sterns and Marita Ogden Secretary: Paul Hickey Operations: Will Bradley
+**2012 HSL Board**
+
+Champion: Jeremy Leung and Tim Gerrits
+
+Treasurer: Chad Sterns and Marita Ogden
+
+Secretary: Paul Hickey
+
+Operations: Will Bradley
 
 **2012 HSL Board Votes**
 
