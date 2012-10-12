@@ -10,12 +10,32 @@ Operations: Will Bradley
 
 **2012 HSL Board Votes**
 
-**Operations** Will: 19 Austin: 6
+**Operations**
 
-**Secretary** Paul: 24
+Will: 19
 
-**Treasurer** Chad: 1 Marita: 1 Chad & Marita: 23
+Austin: 6
 
-**Champion** Ryan: 11 Tim: 15 Jeremy: 17 Brian: 5
+**Secretary**
+
+Paul: 24
+
+**Treasurer**
+
+Chad: 1
+
+Marita: 1
+
+Chad & Marita: 23
+
+**Champion**
+
+Ryan: 11
+
+Tim: 15
+
+Jeremy: 17
+
+Brian: 5
 
 No recount requested.
