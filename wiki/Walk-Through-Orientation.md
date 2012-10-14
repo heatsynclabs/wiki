@@ -6,6 +6,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - Wiki
   - [Faq](Faq)
 - [Liability Waiver](Liability-Waiver)
+  - Check government photo ID
 
 <!-- -->
 
