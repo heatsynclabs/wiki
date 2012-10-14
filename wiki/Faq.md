@@ -24,7 +24,7 @@ In almost all cases the answer is no. HeatSync is a place where we come and crea
 
 # Q: How do can I help improve HeatSync or start an event?
 
-Start doing your idea in public! Announce your intentions to a wide audience, set dates/times, and show up to work on it even if it's just you. Send reminders beforehand and/or summaries afterward to keep it on people's minds. Eventually like-minded people will show up, and when they see you making progress they'll be much more likely to join in. This "snowball effect" method is a great way of starting stuff in a [do-ocratic community](http://www.communitywiki.org/DoOcracy).
+Start doing your idea in public! Announce your intentions to a wide audience, set dates/times, and show up to work on it even if it's just you. Send reminders beforehand and/or summaries afterward to keep it on people's minds, and encourage people one-on-one to RSVP yes/no publicly to show activity. Eventually like-minded people will show up, and when they see you making progress they'll be much more likely to join in. This "snowball effect" method is a great way of starting stuff in a [do-ocratic community](http://www.communitywiki.org/DoOcracy).
 
 # Q: Why doesn't HeatSync have X tool/disposable? Why is HeatSync out of X?
 
