@@ -48,7 +48,7 @@ Please name your profile in the following format: TMP \$YOURNAME \$REMINDER or \
 
 ## Getting GCode on the Printer
 
-Our UltiMaker has an \[<https://shop.ultimaker.com/en/parts-and-upgrades/ulticontroller-ultipanel.html> UltiController\] installed on it, a marvel of Dutch engineering which allows you to, using the amazing power of LCD displays and Secure Digital cards control the printer without the use of a PC computer. While this may sound limiting, there are huge benefits to printing this way:
+Our UltiMaker has an [UltiController](https://shop.ultimaker.com/en/parts-and-upgrades/ulticontroller-ultipanel.html) installed on it, a marvel of Dutch engineering which allows you to, using the amazing power of LCD displays and Secure Digital cards control the printer without the use of a PC computer. While this may sound limiting, there are huge benefits to printing this way:
 
 - Because the USB serial link is slower, you cannot get the printer to do crazy things like print at 700% speed
 - Prints can pause or hang due to high load on the computer causing an interrupt in USB serial communications. This usually ends up with nasty globs of plastic on the model or, commonly, print failures.
