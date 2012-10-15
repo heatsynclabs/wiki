@@ -2,6 +2,8 @@
 
 The Ultimaker is our wonderful fancy Dutch 3D printer. Much like their shoes, the Dutch chose to build the 3D printer using a wood frame. Using the Ultimaker isn't entirely difficult, it just takes a quick walkthrough to get it running.
 
+We are currently using Repetier-Host for our slicing due to a lot of cool features which ReplicatorG doesn't quite have yet.
+
 ## Getting your STL
 
 If you're downloading your model from [Thingiverse](http://thingiverse.com), it'll probably have an STL file available. If they don't, match their file types with the sections below, or [ask the internet](http://google.com).
@@ -33,13 +35,14 @@ Slicing is what turns the STL model (consisting of a list of the triangles in th
 - Click the giant "Slice with Slic3r" button.
   - If it says "Slice with Skeinforge", click the little Red button labelled "active" in the slice3r section.
 - Click OK and your file will be sliced
-- Click Save Job at the top of the window and save the generated GCode to the SD card. Leave any checked or unchecked boxes on the export dialog how they current are.
 
 ### Adjusting print profile settings
 
-If those defaults don't make sense to you for some reason (You're printing a structural piece for example and need a stronger infill) you can adjust the settings, but realize that will probably affect print time and final weight.
+If those defaults don't make sense to you for some reason (You're printing a structural piece for example and need a stronger infill) you can adjust the settings, but realize that will probably affect print time and final weight and will make Baby Jesus cry.
 
-Click the Duplicate Profile button while the ULTIMAKER - NORMAL profile is selected. This will bring up the slic3r configuration dialog where you can tweak your settings.
+If you click the "Setup" button while Slic3r is active, you can tweak all of the profile settings.
+
+**DO NOT OVERWRITE NORMAL!**
 
 Please name your profile in the following format: TMP \$YOURNAME \$REMINDER or \$YOURNAME \$REMINDER, where reminder is something like 10% or hollow infill, or something like that so that you don't forget. Temporary profiles may be deleted when I am cleaning the machine up, UM profiles will stay.
 
@@ -53,7 +56,7 @@ Our UltiMaker has an \[<https://shop.ultimaker.com/en/parts-and-upgrades/ulticon
 Seriously follow this, don't use USB serial. It's just as easy and less painful.
 
 - Pull the SD card out of the left side of the UltiController and put it in the computer
-- Copy the .gcode file which matches your STL file's name to the root of the SD card and Eject the card from the computer
+- Click Save Job at the top of the window and save the generated GCode to the SD card. Leave any checked or unchecked boxes on the export dialog how they current are.
 - Put the SD card back in to the printer.
 
 ## Print
