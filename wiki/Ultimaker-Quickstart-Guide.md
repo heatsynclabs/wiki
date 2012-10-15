@@ -6,7 +6,7 @@ The Ultimaker is our wonderful fancy Dutch 3D printer. Much like their shoes, th
 
 If you're downloading your model from [Thingiverse](http://thingiverse.com), it'll probably have an STL file available. If they don't, match their file types with the sections below, or [ask the internet](http://google.com).
 
-The Ultimaker slicing programming (ReplicatorG) will only import STL files currently. Getting STLs out of your program of choice depends on your program of choice. If yours is not documented [ask the internet](http://google.com) and then document it here.
+The Ultimaker slicing programming (Repetier-Host) will only import STL files currently. Getting STLs out of your program of choice depends on your program of choice. If yours is not documented [ask the internet](http://google.com) and then document it here.
 
 Place your downloaded STL on the HSL [3D Printing Station Computer](3D-Printing-Station-Computer) in the Downloads/ folder, in a directory with Your Name. Files floating around freely in Downloads will be mercilessly deleted.
 
@@ -16,23 +16,24 @@ OpenSCAD natively exports STL files after building. Construct your model, and th
 
 ## Slicing
 
-Slicing is what turns the STL model (consisting of a list of the triangles in the model), in to a list of commands that the Printer understands. This list is called [GCode](http://linuxcnc.org/docs/html/gcode/overview.html). Particularly, ReplicatorG uses an program called Slic3r internally to do the actual slicing. Due to the firmware we are using on our machine to support the UltiController panel, Skeinforge and similar tools will not work unless you are using a version with '5D' support, and you'll probably not get much support working on it.
+Slicing is what turns the STL model (consisting of a list of the triangles in the model), in to a list of commands that the Printer understands. This list is called [GCode](http://linuxcnc.org/docs/html/gcode/overview.html). Particularly, Repetier uses a program called Slic3r (or skeinforge for advanced users) internally to do the slicing.
 
-- Open the Model in ReplicatorG
+- Open the Model in Repetier and hit F2 to load your file
+- ![](files/Repetier1.png)
+  *Make sure your model looks correct*
 
-<!-- -->
-
-- Make sure your model looks correct
   - Your model will print as it appears in the build preview. Make sure that it is centered and on the build platform, laying flat, using the move, rotate and resize tools.
   - If your print hsa crazy overhangs or intricit details, it may **not** print well on our machine. :(
-- Click Generate G-Code
-- You'll most probably want to be using the ULTIMAKER - NORMAL profile. This profile fixes a lot of issues we had with the other profiles and will be most up to date.
-  - 10% infill
-  - Retract settings to minimize the amount of stringing when printing towers
-  - Default nozzle temp of 230C to ensure that plastic can flow at high speeds
+- Switch to 'Slicer' in the right hand portion of the build tool
+- Select your print profile; You'll probably want to be using the 'NORMAL' profile.
+  - This profile fixes a lot of issues we had with the other profiles and will be most up to date.
+    - 10% infill
+    - Retract settings to minimize the amount of stringing when printing towers
+    - Default nozzle temp of 230C to ensure that plastic can flow at high speeds
+- Click the giant "Slice with Slic3r" button.
+  - If it says "Slice with Skeinforge", click the little Red button labelled "active" in the slice3r section.
 - Click OK and your file will be sliced
-- Hit Ctrl-S to save your (possibly modified) STL file and the generated GCode.
-  - The GCode file will be found in same directory your STL is saved.
+- Click Save Job at the top of the window and save the generated GCode to the SD card. Leave any checked or unchecked boxes on the export dialog how they current are.
 
 ### Adjusting print profile settings
 
