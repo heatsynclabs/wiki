@@ -29,7 +29,7 @@ Also see: [Amazon Wishlist](http://heatsynclabs.org/wishlist)
 
 # Software
 
-When purchasing we, as a rule, do not want non commercial versions of software as we are prototyping and creating
+When purchasing we, as a rule, do not want versions of software that restrict commercial use, as we are prototyping and creating.
 
 - Matlab - 1 license \$2k at mathworks
 - Eagle standard (4x6) \$750, pro \$1500
@@ -37,7 +37,8 @@ When purchasing we, as a rule, do not want non commercial versions of software a
 - VCarve - CAD/CAM system for making signs and art
 - Autocad 2012 w subscription \$4425, w/o \$3995 download only on autodesk - 2011 mac \$? on techsoup
 - Autocad inventor only in packages now.. (windows) \$? on techsoup
-- SolidWorks - \$4k standard should be sufficient - education version requires nothing designed be made commercially so...--contacted rep, 4k is lowest price
+- SolidWorks - \$4k standard should be sufficient - education version is for non-commercial use only.
+  - According to rep, 4k is lowest price.
 - MasterCam -10k-15? - in contact for lowest price for us
   - OR Cam bam? \$150 - \$300
 - Mach CNC control software - \$175 + \$50 - Generously offered to us free by developer, ArtSoft
@@ -45,7 +46,7 @@ When purchasing we, as a rule, do not want non commercial versions of software a
 
 ## Research facts
 
-- corel we dont want educator (non commercial only)
-- adobe we can't as we're not an accredited school
-- adobe esd means download only
-- eagle nonprofit is non commercial
+- Corel - Educator version is for non-commercial use only.
+- Adobe - Educator version is only available to accredited schools.
+- Adobe - ESD means download-only.
+- Eagle - Nonprofit version is for non-commercial use only.
