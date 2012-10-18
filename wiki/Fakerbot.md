@@ -171,15 +171,18 @@ We will hope to keep updates here. Most recently Jacob adjusted the z and one of
 
 # Todo
 
-- wobble in z axis???--need to install new acme rod
-- z 'bubble' is pretty bad. Need to speed up z axis...
-- fix spindle box -- needs new 'posts' to hold filament
-- 'magnetic' cables on build platform would be awesome
+- axes probably need to be calibrated again
+- need to redo the wood heated bed again, most of springs are cracked. Probably need stronger less bouncy springs, too.
+- Filament wheel is too heavy. We need to develop a filament drive like the UP uses to push filament to the stepper.
+- I bought 3 more estops so we can finish out making the machine safe to run
+- electronics are still just hot glued to cardboard, need a better solution
+- tightness in z, I think the cantilever mk1 z rod was slightly off center? Something is binding and our z speeds are poor
+- wobble in z axis???--need to install new acme rod?
+- redo platform to get rid of magnet attach as it adds sloppiness
+- 'magnetic' cables on build platform would be awesome, or at least some connectors instead of terrible solder points
 - functional lighting (build platform is red when hot, blue when cold, yellow when heating
-- looooots of ooze -- reversal params? or might only be correctable with a stepper?
-- pick up a digital indicator for leveling platform?
 - light ring around extruder to light platform
-- hook up an estop
+- hook up an estop or the overheat e stop I bought from makerbot
 - quick change extruder assembly
 - echangable parts to keep machine running - another extruder assembly, heated bed assembly, etc
 
