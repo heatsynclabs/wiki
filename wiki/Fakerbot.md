@@ -85,6 +85,10 @@ Acetone is a good solvent for ABS plastic. Using pure acetone applied with a pai
 
 # Status Updates
 
+## 10/18/2012
+
+Kim and I worked and got [Sailfish](http://www.thingiverse.com/thing:32084) firmware up and running on fakerbot for accelerated printing like the ultimaker! We had to tighten up the x/y table a bit, noticed the heated platform was installed backwards, and noticed the y idler wheel felt like crap. Turns out it was idling on a bolt which had tapped the idler wheel so during movement it would screw 'up' and then pop back down. We lathed a new m5 bolt and printed a new idler wheel of Kim's design and everything is moving much more smoothly now! Best prints Ive ever seen on this machine.
+
 ## 09/26/2012
 
 Switched to the Mk7 (1.75mm filament) clone from kickstarter, but dumped its thermistor for a thermocouple and its shitty gear for a makerbot drive gear. Installed on the old Mk1 cantilever which we altered to fit the universal bracket. Moved all electronics to under the device and cut a hole in the frame to mount the power supply. Created a new mount box to hold electronics and powersupply in the back of the frame. Mounted filament spool wheel to the left of the machine.
