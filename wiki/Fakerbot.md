@@ -19,9 +19,9 @@ Whatever you use you need to export or save to STL format
 
 ## Turn on
 
-Make sure fakerbot is turned on (switch on power supply in back). The usb cable should be plugged in to your computer and the power supply should of course be plugged in.
+Make sure fakerbot is turned on (switch on power supply in back). The usb cable should be plugged in to the 3d printing computer and the power supply should of course be plugged in.
 
-Boot the computer on the desk and open ReplicatorG which should automatically connect to the board. Otherwise there is a connect button. \[picture of connect button\]
+Open ReplicatorG which should automatically connect to the board. Otherwise there is a connect button. \[picture of connect button\]
 
 When properly connected the Status Bar will turn green. \[Picture of green bar\]
 
