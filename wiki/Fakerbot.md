@@ -31,7 +31,7 @@ The little table on the inside of the machine will be referred to as the build p
 
 ## Generate GCode
 
-Choose File-\>Open and open your stl file if you haven't already. Take a look at it in the preview window. \[Picture of preview window\] The preview window is the same size and shape as your available print area. The object shouldn't be hovering off the ground or spilling outside of the box at all! If all looks good click the "generate g code" button on the lower right. \[Generate G Code button\] This prepares the file for printing by slicing the model into slivers and deciding how best to print it. Next select the thingomatic-mk5-heated profile and click 'Generate'. \[Picture of Skeinforge Selection\] This may take some time. When this finishes you'll see a new tab next to model. \[Picture of gcode tab\]
+Choose File-\>Open and open your stl file if you haven't already. Take a look at it in the preview window. \[Picture of preview window\] The preview window is the same size and shape as your available print area. The object shouldn't be hovering off the ground or spilling outside of the box at all! If all looks good click the "generate g code" button on the lower right. \[Generate G Code button\] This prepares the file for printing by slicing the model into slivers and deciding how best to print it. You shouldn't have to change any of the settings until you're more comfortable with the machine (unless someone before you did :( ) \[Picture of Skeinforge Selection\] Click Generate Gcode in the new window that popped up. This process may take some time. When this finishes you'll see a new tab next to model called gcode. \[Picture of gcode tab\]
 
 ## Print!
 
