@@ -8,6 +8,12 @@ Take a look at our [Ultimaker Quickstart Guide](Ultimaker-Quickstart-Guide) for 
 
 [I'd](User-Rrix) love to work on this [awesome cassette extruder](http://www.thingiverse.com/thing:31066), but don't want to take the machine down until the [Fakerbot](Fakerbot) is working better.
 
+## Tasks
+
+- Clean bearings
+- Build and install a [hagen extruder](http://www.thingiverse.com/thing:15897)
+- Print [Ultibarley](http://www.thingiverse.com/thing:16920) in various colors to display the reels of colors we have available (Seriously)
+
 ## Upkeep Log
 
 ### 18 October 2012
