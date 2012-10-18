@@ -99,3 +99,7 @@ When you're done, clean up the build area, deposit any trash PLA in the PLA tras
 Much like the laser cutter, we like to track usage of the Ultimaker for assessing wear and tear and statistics on prints. Please fill out the log when you are finished by clicking the "3D Printer Log" icon on the desktop.
 
 This includes tracking failed prints, just record how far the machine got before it failed, and the reason why.
+
+# But Wait!
+
+There's more! Take a look at the [Ultimaker](Ultimaker) page for more information about the printer and how you can get more involved in 3D printing at HeatSync Labs.
