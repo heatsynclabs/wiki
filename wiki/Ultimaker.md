@@ -18,5 +18,9 @@ Take a look at our [Ultimaker Quickstart Guide](Ultimaker-Quickstart-Guide) for 
 
 ### 18 October 2012
 
-- Set up remote gcode generation through dropbox
-- Begin logging
+- Set up remote gcode generation through dropbox (contact [User:Rrix](User-Rrix))
+
+### 12 October 2012
+
+- Flashed Marlin Rev2.0 on to machine
+- Set up RepetierHost for GCode generation
