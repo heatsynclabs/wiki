@@ -2,7 +2,7 @@
 
 ### Local
 
-- [Avanti Circuits](http://avanticircuits.com/) - located in North Phoenix. You have to buy a full board apx 18in x 24in for a few hundred dollars, but it's completely panelizable and customizable, they work for your business and will do rapid turnaround or weird requests. Go in on it with some friends.
+- [Avanti Circuits](Local-Resources#electronics) - located in North Phoenix. You have to buy a full board apx 18in x 24in for a few hundred dollars, but it's completely panelizable and customizable, they work for your business and will do rapid turnaround or weird requests. Go in on it with some friends.
 
 ### Internet
 
