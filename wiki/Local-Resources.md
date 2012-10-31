@@ -8,7 +8,10 @@ Also, provide details of their services (maybe pricing, or even a short review) 
 
 - [Building Materials Outlet‎](http://maps.google.com/maps?q=33.414634,-112.019123&num=1&t=h&sll=33.414776,-112.018252&sspn=0.006295,0.006295&ie=UTF8&ll=33.414776,-112.018252&spn=0.006537,0.009506&z=17)
 - [Tempe Sales](https://plus.google.com/101252718222074214361/about?gl=us&hl=en) (textiles, interiors, automotive)
-- [Home Depot on Country Club](https://plus.google.com/106506889442232344888/about?gl=us&hl=en) (general hardware)
+- [Home Depot, Country Club](https://plus.google.com/106506889442232344888/about?gl=us&hl=en) (general hardware)
+- [Lenhart's Ace Hardware, Mesa](https://plus.google.com/102108286218407804492/about?gl=us&hl=en) (general hardware)
+- [Grainger, Gilbert](https://plus.google.com/116307475141640045322/about?gl=us&hl=en)
+- [Chem Lab Supply, Phoenix](http://www.chemlabsupply.com/) (scientific glass, chemicals, equipment)
 
 ### Hobbyist/etc Groups
 
