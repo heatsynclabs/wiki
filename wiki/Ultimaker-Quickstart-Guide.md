@@ -18,22 +18,22 @@ OpenSCAD natively exports STL files after building. Construct your model, and th
 
 ## Slicing
 
-Slicing is what turns the STL model (consisting of a list of the triangles in the model), in to a list of commands that the Printer understands. This list is called [GCode](http://linuxcnc.org/docs/html/gcode/overview.html). Particularly, Repetier uses a program called Slic3r (or skeinforge for advanced users) internally to do the slicing.
+Slicing is what turns the STL model (consisting of a list of the triangles in the model), into a list of commands that the printer understands. This list is called [GCode](http://linuxcnc.org/docs/html/gcode/overview.html). Particularly, Repetier uses a program called Slic3r (or Skeinforge for advanced users) internally to do the slicing.
 
-- Open the Model in Repetier and hit F2 to load your file
+- Open the model in Repetier and hit F2 to load your file
 - ![](files/Repetier1.png)
   *Make sure your model looks correct*
 
   - Your model will print as it appears in the build preview. Make sure that it is centered and on the build platform, laying flat, using the move, rotate and resize tools.
-  - If your print hsa crazy overhangs or intricit details, it may **not** print well on our machine. :(
-- Switch to 'Slicer' in the right hand portion of the build tool
+  - If your print has crazy overhangs or intricate details, it may **not** print well on our machine. :(
+- Switch to 'Slic3r' in the right hand portion of the build tool
 - Select your print profile; You'll probably want to be using the 'NORMAL' profile.
   - This profile fixes a lot of issues we had with the other profiles and will be most up to date.
     - 10% infill
     - Retract settings to minimize the amount of stringing when printing towers
     - Default nozzle temp of 230C to ensure that plastic can flow at high speeds
 - Click the giant "Slice with Slic3r" button.
-  - If it says "Slice with Skeinforge", click the little Red button labelled "active" in the slice3r section.
+  - If it says "Slice with Skeinforge", click the little Red button labeled "active" in the slice3r section.
 - Click OK and your file will be sliced
 
 ### Adjusting print profile settings
