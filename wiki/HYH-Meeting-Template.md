@@ -1,10 +1,11 @@
-This page was automatically copied from [HYH Meeting Template](HYH-Meeting-Template) by [User:Phong](User-Phong). If you would like to change the structure of how meetings future perform, please make any modifications to [HYH Meeting Template](HYH-Meeting-Template). If you would like to propose something at the next meeting, bring it up on the mailing list with PROPOSAL in the subject line and Phong will add it to the next meeting's agenda.
+This page was automatically copied from [HYH Meeting Template](HYH-Meeting-Template) by [User:Phong](User-Phong). If you would like to change the structure of how meetings future perform, please make any modifications to [HYH Meeting Template](HYH-Meeting-Template). If you would like to propose something at the next meeting, bring it up on the mailing list with "PROPOSAL:" in the subject line and Phong will add it to the next meeting's agenda.
 
 # Instructions
 
 - Read the instructions out loud for all to comprehend.
 - **Delete these instructions prior to posting completed minutes**
 - Pick a moderator and note-taker
+- Review [the last meeting's minutes]($LAST-MEETING$)
 
 ## Note-taker
 
