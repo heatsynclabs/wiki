@@ -11,7 +11,9 @@ This page was automatically copied from [HYH Meeting Template](HYH-Meeting-Templ
 
 - Open a text editor to take down some **detailed** minutes.
   - Detail is important. If it isn't written down, it never happened.
-- Project the minutes and notes throughout the meeting
+  - Make sure you record vote counts and not only the final results
+- Project the minutes and notes throughout the meeting on the projector in the centre of the room.
+  - This is done in lieu of whiteboarding because screw whiteboarding.
 - Follow the instructions in the End of Meeting section at the appropriate time.
 
 ## Moderator
