@@ -1,4 +1,4 @@
-This page was automatically copied from [HYH Meeting Template](HYH-Meeting-Template) by [User:Phong](User-Phong). If you would like to change the structure of how meetings future perform, please make any modifications to [Meetings/Template](Meetings-Template). If you would like to propose something at the next meeting, bring it up on the mailing list with PROPOSAL in the subject line and Phong will add it to the next meeting's agenda.
+This page was automatically copied from [HYH Meeting Template](HYH-Meeting-Template) by [User:Phong](User-Phong). If you would like to change the structure of how meetings future perform, please make any modifications to [HYH Meeting Template](HYH-Meeting-Template). If you would like to propose something at the next meeting, bring it up on the mailing list with PROPOSAL in the subject line and Phong will add it to the next meeting's agenda.
 
 # Instructions
 
@@ -43,7 +43,7 @@ This page was automatically copied from [HYH Meeting Template](HYH-Meeting-Templ
 
 ## Proposals
 
-- **Proposal** by --[Rrix](User-Rrix) ([talk](User-talk-Rrix)) 03:13, 2 November 2012 (MDT): Something
+\$PROPOSALS\$
 
 ## Discussion Items
 
