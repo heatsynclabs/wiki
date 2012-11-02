@@ -16,7 +16,8 @@ This page was automatically copied from [HYH Meeting Template](HYH-Meeting-Templ
 
 ## Moderator
 
-- Start by taking quorom of present voting members
+- Start by taking count of present voting members for quorom
+  - Note Taker should note this count in the Agenda section
 - Make sure everyone gets a chance to speak
 - Speak minimally yourself
 - Keep the meeting moving
