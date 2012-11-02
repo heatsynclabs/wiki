@@ -53,7 +53,9 @@ During discussion, it is not necessary to write down exactly what each person sa
 
 # End of Meeting
 
-- Return the binder to its location
 - Delete the "Instructions" section at the top of this page.
 - Post the notes to the wiki
 - Discuss any items for which there was not enough time during the meeting
+
+---
+*Categories: [HYH](Category-HYH), [Meetings](Category-Meetings)*
