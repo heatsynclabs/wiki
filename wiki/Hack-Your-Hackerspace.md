@@ -1,5 +1,7 @@
 2nd and 4th Thursdays of each month at 7pm at the hackerspace. Check the [Event Calendar](http://www.heatsynclabs.org/events/) to confirm.
 
+Also see [Past/Upcoming HYH Agendas](Category-HYH)
+
 HYH is the members' night to get stuff done around the space. It is NOT a discussion time, but a time when we gather to GET SHIT DONE and make our space better. That includes voting on proposals, helping out at the lab, helping with community projects, and planning projects.
 
 **Before the meeting:**
