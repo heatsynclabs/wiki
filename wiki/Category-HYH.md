@@ -1,1 +1,1 @@
-Hack Your Hackerspace meeting info:
+[Hack Your Hackerspace](Hack-Your-Hackerspace) meeting info:
