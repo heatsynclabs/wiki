@@ -35,6 +35,7 @@ This page was automatically copied from [HYH Meeting Template](HYH-Meeting-Templ
 
 - **Note Taker:** FIXME
 - **Moderator:** FIXME
+- **Number of Members Present:** FIXME
 
 ## Announcements
 
