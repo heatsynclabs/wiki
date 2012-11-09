@@ -28,15 +28,25 @@ This page was automatically copied from [HYH Meeting Template](HYH-Meeting-Templ
 - Proposal by **Gadget**
 - Proposed on **Mon, 22 Oct 2012 18:04:48 -0700**
 
-Alisa is an awesome person. She is a great help around the space, helping with tours and having her knowledge with costume design is a great bonus! She brought in the piano upstairs and her current emulator t-shirt is her current work in progress. Her Van Gogh box turned out to be amazing. She is currently working in code academy learning java script. And she is working on building a light-able companion cube
+<!-- -->
 
-<http://www.flickr.com/photos/hslphotosync/8111297967/in/photostream> - cube <http://www.flickr.com/photos/hslphotosync/8092937473/in/photostream> - Van Gogh <http://www.flickr.com/photos/hslphotosync/8092943312/in/photostream> - Van Gogh
+    Alisa is an awesome person. She is a great help around the space, helping with
+    tours and having her knowledge with costume design is a great bonus!  She
+    brought in the piano upstairs and her current emulator t-shirt is her current
+    work in progress. Her Van Gogh box turned out to be amazing. She is currently
+    working in code academy learning java script. And she is working on building a
+    light-able companion cube
 
-She has been coming into the space for about the last 3 months.
+    http://www.flickr.com/photos/hslphotosync/8111297967/in/photostream - cube
+    http://www.flickr.com/photos/hslphotosync/8092937473/in/photostream - Van Gogh
+    http://www.flickr.com/photos/hslphotosync/8092943312/in/photostream - Van Gogh
 
-Due to her crazy work schedule, I think both the space and Alisa would benefit from having badge access.
+    She has been coming into the space for about the last 3 months.
 
---
+    Due to her crazy work schedule, I think both the space and Alisa would benefit
+    from having badge access.
+
+    -- 
 
 #### Discussion
 
@@ -54,25 +64,39 @@ Due to her crazy work schedule, I think both the space and Alisa would benefit f
 - Proposal by **Mike Wolfson**
 - Proposed on **Fri, 19 Oct 2012 13:40:16 -0700 (PDT)**
 
-So I think we have the all clear from Jacob to use the vending machine in the front of the lab for real food. There are is a caveat: - The machine is on Craiglist, so if it sells, our food would be homeless. I think the bill changer is actually all that is for sale, so the food might not be homeless, but not sell-able. The whole machine might go. (I think it has been for sale for a while, and not exactly selling like hotcakes)
+<!-- -->
 
-My thoughts: - we sell general snacks, both healthy and not (based on ideas from another thread). - this is a fundraising mechanism - the items have a high markup - profits go to the lab and the operation of the machine
+    So I think we have the all clear from Jacob to use the vending machine in the
+    front of the lab for real food. There are is a caveat: - The machine is on
+    Craiglist, so if it sells, our food would be homeless. I think the bill
+    changer is actually all that is for sale, so the food might not be homeless,
+    but not sell-able. The whole machine might go. (I think it has been for sale
+    for a while, and not exactly selling like hotcakes)
 
-I am willing to do the work to stock and keep track of the machine (hopefully Chad and Marita could help me with any accounting, but I will do that too if necessary)
+    My thoughts:
+    - we sell general snacks, both healthy and not (based on ideas from another
+      thread).
+    - this is a fundraising mechanism - the items have a high markup - profits go
+      to the lab and the operation of the machine 
 
-------------------------------------------------------------------------
+    I am willing to do the work to stock and keep track of the machine (hopefully
+    Chad and Marita could help me with any accounting, but I will do that too if
+    necessary)
 
-The formal proposal:
+    ---------------------------
+    The formal proposal:
 
-I propose that we allocate \$150 to a budget to seed the vending machine. This would be around \$50 in change for the machine, and \$150 for food.
+    I propose that we allocate $150 to a budget to seed the vending machine.  This
+    would be around $50 in change for the machine, and $150 for food.
 
-The intention with this endeavor is that it would be self-sufficient. This would be a one time allocation. The funding for re-stocking would come from funds in the machine.
+    The intention with this endeavor is that it would be self-sufficient. This
+    would be a one time allocation. The funding for re-stocking would come from
+    funds in the machine.
+    --------------------------
 
-------------------------------------------------------------------------
+    So what do you think?....
 
-So what do you think?....
-
---
+    -- 
 
 #### Discussion
 
