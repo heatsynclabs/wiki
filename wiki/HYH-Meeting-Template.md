@@ -59,6 +59,7 @@ During discussion, it is not necessary to write down exactly what each person sa
 # End of Meeting
 
 - Delete the "Instructions" section at the top of this page.
+- Delete this section.
 - Post the notes to the wiki
 - Discuss any items for which there was not enough time during the meeting
 
