@@ -2,6 +2,7 @@
 
 **Please add links to your projects here, in *reverse chronological* order!**
 
+- [Autonomous Hexapod Robot](Autonomous-Hexapod-Robot)
 - [CNC Router](CNC-Router)
 - [LTD Stirling Engine](LTD-Stirling-Engine)
 - [Woodshop](Woodshop-Layout)
