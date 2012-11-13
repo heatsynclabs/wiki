@@ -101,7 +101,7 @@ Types of rules to consider implementing: - Preventing injury to the operator and
 
 - Avoid clothing that is excessively baggy, especially when using saws or drills
 - Closed toes shoes are required
-- Safety goggles or a face shield must be worn when using any equipment that expels debris (saws, routers, etc...)
+- Safety goggles or a face shield must be worn when using any equipment that expels debris or could cause things to fly out of control.
 - Remove any dangling jewelry such as neck chains or bracelets.
 - Roll up sleeves.
 - Tie back long hair
