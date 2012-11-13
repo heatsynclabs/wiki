@@ -167,7 +167,7 @@ See [Laser Cutter](Laser-Cutter)
 - Adjust speed and feeds according to tool diameter and material
 - Take off under 0.0025" per pass. If cutting a slot, start with a moderate depth and work up.
 - Remember to account for backlash
-- You want consistent, ~1/4" long, stringy, [straw-colored chips.](https://www.youtube.com/watch?v=HfIaISnqHOk&feature=relmfu&t=0m57s) Metal powder means you're not moving fast enough, blue color usually means you're moving too fast.
+- You want consistent, sizeable, stringy, [straw-colored chips.](https://www.youtube.com/watch?v=HfIaISnqHOk&feature=relmfu&t=0m57s) Metal powder means you're not moving fast enough (chips are getting re-cut), blue color usually means you're moving too fast (too much heat.)
 - Sound is important. Aim for a pleasant bassy, sand-like "[bore](https://www.youtube.com/watch?v=Wk2VYwCIcZE)" sound, not a high-pitched buzz/chatter/whine. If you start cutting and it buzzes or smokes (without lubricant), stop and double-check yourself.
 - Use both hands on the wheel to get a better feel for the machine and improve steadiness.
 - Milling steel takes about 1/3rd the spindle speed of aluminum for the same mill and feedrate.
