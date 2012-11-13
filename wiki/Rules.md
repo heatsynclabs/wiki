@@ -131,21 +131,48 @@ Types of rules to consider implementing: - Preventing injury to the operator and
 
 See [Laser Cutter](Laser-Cutter)
 
-### Lathe & Mill
+### Metalworking Tools
 
-- HeatSync Training required for use
+- HeatSync Training required for use. If you're a pro, you still need to be checked out by an [instructor](Classes).
 - To clean, gently vacuum and/or brush the chips away from the ways to prevent damage.
-- Always wear eye protection - preferably industrial quality safety glasses with side-shields. The lathe can throw off sharp, hot metal chips at considerable speed as well as spin off spirals of metal that can be quite hazardous. Don't take chances with your eyes.
-- Wear short sleeve shirts, if possible, or shirts with snugly fitting cuffs if long sleeve. Loose sleeves can catch on rotating work and quickly pull your hand or arm into harm's way.
-- Wear shoes - preferably leather work shoes - to protect your feet from sharp metal chips on the shop floor and from tools and chunks of metal that may get dropped.
-- Remove wrist watches, necklaces, chains and other jewelry. Remove your wedding ring too; it can catch on rotating parts and severely damage your ring finger and hand.
-- Tie back long hair so it can't get caught in rotating parts. Think about what happens to your brain if your hair gets entangled at 1000rpm.
-- Always double check to make sure your work is securely clamped in the chuck or between centers before starting the lathe. Start the lathe at low speed and increase the speed gradually.
-- Get in the habit of removing the chuck key immediately after use. Some users recommend never removing your hand from the chuck key when it is in the chuck. The chuck key can be a lethal projectile if the lathe is started with the chuck key in the chuck.
+- Always wear eye protection and closed-toe shoes.
+  - Preferably industrial quality safety glasses with side-shields. [Tools can throw off sharp, hot metal chips at considerable speed](http://www.youtube.com/watch?v=qOSdSKyxhhI&t=1m15s) as well as spin off spirals of metal that can be quite hazardous. Don't take chances.
+- Wear short sleeve shirts, tie back long hair, and remove rings, wrist watches, necklaces, chains and other jewelry.
+  - Sleeves, hair and jewelry can catch on rotating work and cause [severe injury](http://www.youtube.com/watch?v=ajNdLT4exps) or [death](https://www.youtube.com/watch?v=EBSwOS90wgQ&feature=related).
+- Always double check work areas before starting.
+  - Make sure your work is [securely clamped](http://www.youtube.com/watch?NR=1&v=W-Y8FvTgHzk&feature=endscreen). Start the tool at low speed and increase the speed gradually. Do not trust that the machine has been set up in a sane way; what if someone removed the spindle and didn't reattach it securely?
+- Get in the habit of removing the chuck key immediately after use.
+  - Some users recommend never removing your hand from the chuck key when it is in the chuck. The chuck key can be a lethal projectile if the lathe is started with the chuck key in the chuck.
+- Keep your fingers clear of the rotating work and cutting tools.
+  - This sounds obvious, but people are often tempted to break away metal spirals as they form at the cutting tool.
+- Don't trust anyone, check the tool, setup, sizes, etc yourself especially before starting or when coming back.
+
+#### Lathe
+
 - Get in the habit of checking that there is nothing on the spindle that will fly out once turned on; chuck keys, loose parts, etc.
-- Keep your fingers clear of the rotating work and cutting tools. This sounds obvious, but I am often tempted to break away metal spirals as they form at the cutting tool.
-- Avoid reaching over the spinning chuck. For filing operations, hold the file such that you are not reaching over the chuck and risking something being caught in it. Your body should not be in front of the file itself in case the file snags and is thrown toward you.
-- Never use a file with a bare tang - the tang could be forced back into your wrist or palm. Inexpensive wooden handles are readily available for common file sizes.
+- Check that autofeed is not engaged, and keep the tool post away from the spinning chuck.
+- Avoid reaching over the spinning chuck.
+  - For filing operations, hold the file such that you are not reaching over the chuck and risking something being caught in it. Your body should not be in front of the file itself in case the file snags and is thrown toward you.
+- Never use a file with a bare tang.
+  - The tang could be forced back into your wrist or palm. Inexpensive wooden handles are readily available for common file sizes.
+
+#### Mill
+
+##### Basics of Operation
+
+- Don't over-tighten collet / draw bar.
+  - There's a point where it's firm and not gripping the endmill getting any tighter, that's good enough.
+- Pay attention to center cutting vs non-center cutting endmills for plunge work
+- Use two flute endmills for aluminum, four flute for steel
+- Keep chips off the clamping surface, wipe them with your finger before clamping.
+- Lock the Z axis so it can't move any lower than necessary to avoid accidents
+- Adjust speed and feeds according to tool diameter and material
+- Take off under 0.0025" per pass. If cutting a slot, start with a moderate depth and work up.
+- Remember to account for backlash
+- You want consistent, ~1/4" long, stringy, [straw-colored chips.](https://www.youtube.com/watch?v=HfIaISnqHOk&feature=relmfu&t=0m57s) Metal powder means you're not moving fast enough, blue color usually means you're moving too fast.
+- Sound is important. Aim for a pleasant bassy, white-noise "[bore](https://www.youtube.com/watch?v=Wk2VYwCIcZE)" sound, not a high-pitched "chatter" or "whine." If you start cutting and it buzzes or smokes (without lubricant), stop and double-check yourself.
+- Use both hands on the wheel to get a better feel for the machine and improve steadiness.
+- Milling steel takes about 1/3rd the spindle speed of aluminum for the same mill and feedrate.
 
 ### CNC Mill
 
