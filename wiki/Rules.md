@@ -165,7 +165,7 @@ See [Laser Cutter](Laser-Cutter)
 - Use two flute endmills for aluminum, four flute for steel
 - Is your endmill center cutting or not?
 - Keep chips off the clamping surface, wipe them off with a brush and a rag before clamping.
-- Adjust speed and feeds according to tool diameter and material, 300 SFM, .001 IPT for steel, 1000 SFM, .003 IPM for aluminum
+- Adjust speed and feeds according to tool diameter and material, 300 SFM, .001 IPT for steel, 1000 SFM, .003 IPT for aluminum
 - If you think you need coolant, slow down. You can mostly machine dry, unless using tool steel or stainless.
 - Start with a DOC (depth of cut) of about 0.025" per pass, if side-millng, start as light as possible
 - Remember to account for backlash, check for climb or (preferred) conventional cutting
