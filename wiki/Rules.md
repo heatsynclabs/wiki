@@ -158,8 +158,6 @@ See [Laser Cutter](Laser-Cutter)
 
 #### Mill
 
-##### Basics of Operation
-
 - Don't over-tighten collet / draw bar.
   - There's a point where it's firm and not gripping the endmill getting any tighter, that's good enough.
 - Pay attention to center cutting vs non-center cutting endmills for plunge work
