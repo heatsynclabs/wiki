@@ -133,10 +133,11 @@ See [Laser Cutter](Laser-Cutter)
 
 ### Metalworking Tools
 
+- TRUST NO ONE. Check for yourself if you have the right tools, a solid setup, and the machine is bolted down properly
 - HeatSync Training required for use. If you're a pro, you still need to be checked out by an [instructor](Classes).
-- To clean, gently vacuum and/or brush the chips away from the ways to prevent damage.
+- To clean, gently vacuum and/or brush the chips away from the ways. A spotless machine makes setup very easy
 - Always wear eye protection and closed-toe shoes.
-  - Preferably industrial quality safety glasses with side-shields. [Tools can throw off sharp, hot metal chips at considerable speed](http://www.youtube.com/watch?v=qOSdSKyxhhI&t=1m15s) as well as spin off spirals of metal that can be quite hazardous. Don't take chances.
+  - Z99 rated industrial quality safety glasses with side-shields. [Tools can throw off sharp, hot metal chips at considerable speed](http://www.youtube.com/watch?v=qOSdSKyxhhI&t=1m15s) as well as spin off chips of metal that can be quite hazardous. Don't take chances.
 - Wear short sleeve shirts, tie back long hair, and remove rings, wrist watches, necklaces, chains and other jewelry.
   - Sleeves, hair and jewelry can catch on rotating work and cause [severe injury](http://www.youtube.com/watch?v=ajNdLT4exps) or [death](https://www.youtube.com/watch?v=EBSwOS90wgQ&feature=related).
 - Always double check work areas before starting.
@@ -145,7 +146,6 @@ See [Laser Cutter](Laser-Cutter)
   - Some users recommend never removing your hand from the chuck key when it is in the chuck. The chuck key can be a lethal projectile if the lathe is started with the chuck key in the chuck.
 - Keep your fingers clear of the rotating work and cutting tools.
   - This sounds obvious, but people are often tempted to break away metal spirals as they form at the cutting tool.
-- Don't trust anyone, check the tool, setup, sizes, etc yourself especially before starting or when coming back.
 
 #### Lathe
 
@@ -160,16 +160,18 @@ See [Laser Cutter](Laser-Cutter)
 
 - Don't over-tighten collet / draw bar.
   - There's a point where it's firm and not gripping the endmill getting any tighter, that's good enough.
-- Pay attention to center cutting vs non-center cutting endmills for plunge work
+  - Lock the quill at the quill stop before milling - it only should unlock for drilling holes.
+- Lock the unused axes so they can't move while cutting
 - Use two flute endmills for aluminum, four flute for steel
-- Keep chips off the clamping surface, wipe them with your finger before clamping.
-- Lock the Z axis so it can't move any lower than necessary to avoid accidents
-- Adjust speed and feeds according to tool diameter and material
-- Take off under 0.0025" per pass. If cutting a slot, start with a moderate depth and work up.
-- Remember to account for backlash
-- You want consistent, sizeable, stringy, [straw-colored chips.](https://www.youtube.com/watch?v=HfIaISnqHOk&feature=relmfu&t=0m57s) Metal powder means you're not moving fast enough (chips are getting re-cut), blue color usually means you're moving too fast (too much heat.)
+- Is your endmill center cutting or not?
+- Keep chips off the clamping surface, wipe them off with a brush and a rag before clamping.
+- Adjust speed and feeds according to tool diameter and material, 300 SFM, .001 IPT for steel, 1000 SFM, .003 IPM for aluminum
+- If you think you need coolant, slow down. You can mostly machine dry, unless using tool steel or stainless.
+- Start with a DOC (depth of cut) of about 0.025" per pass, if side-millng, start as light as possible
+- Remember to account for backlash, check for climb or (preferred) conventional cutting
+- You want consistent, sizeable metal chips to be coming off of the tool. Metal powder means you have a dull tool, blue color means slow down your speed (RPM) and feed (cranking the handles). If your aluminum is turning blue, you're doing something wrong
 - Sound is important. Aim for a pleasant bassy, sand-like "[bore](https://www.youtube.com/watch?v=Wk2VYwCIcZE)" sound, not a high-pitched buzz/chatter/whine. If you start cutting and it buzzes or smokes (without lubricant), stop and double-check yourself.
-- Use both hands on the wheel to get a better feel for the machine and improve steadiness.
+- Use both hands on the feed wheel to get a better feel for the machine and improve steadiness.
 - Milling steel takes about 1/3rd the spindle speed of aluminum for the same mill and feedrate.
 
 ### CNC Mill
