@@ -102,7 +102,7 @@ Types of rules to consider implementing: - Preventing injury to the operator and
 - Avoid baggy/loose clothing
 - Closed toes shoes are required
 - Safety goggles or a face shield must be worn when using any equipment that expels debris or could cause things to fly out of control.
-- Remove any dangling jewelry such as neck chains or bracelets.
+- Remove all jewelry including rings, necklaces, chains, and bracelets.
 - Roll up sleeves.
 - Tie back long hair
 
