@@ -45,9 +45,10 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 <!-- -->
 
 - Some equipment requires certification before use.
-  - Members often teach certification classes. You can too-- teaching a class is a good way to strengthen your own skills.
-  - Generally speaking, ask another member prior to using a tool you haven't used in the lab before. We do things differently than at your home, ask so you know how to use OUR tools right.
+  - Members often teach classes. You can too, if you have a skill you want to share, you don't need to ask permission to teach a class.
+- Generally speaking, ask another member prior to using a tool you haven't used in the lab before. We do things differently than at your home, ask so you know how to use OUR tools right.
 - Tools and workstations should be kept usable, operable, complete, and clean.
+  - Don't render a tool unusable just because you needed to borrow a cable from it, or because you left it a mess.
   - If a tool breaks, put it into the broken tools bin, let people know about it, look into replacement.
 
 <!-- -->
@@ -80,14 +81,14 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 
 <!-- -->
 
-- Clean up after yourself
+- Clean up after yourself -- cleaner than you found it
   - Training, culture
   - Cleaning supplies
     - How & who to contact when supplies are out
   - Trash cans, dumpsters, bathroom, tool/floor cleaning
   - Make sure we've always got a good stock of toilet paper & towels in the bathroom so nobody gets trapped
   - Parking passes/tickets
-- Do it yourself: nobody else is going to create it, fix it, pick it up, clean it, or replace it but you. If you can't do it, email the Group so someone else can.
+- Do it yourself: nobody else is going to create it, fix it, clean it, or replace it but you.
 - Do-ocracy: the people who get to decide are the people who get off their butts and commit to making something happen.
 - SAFETY: Every member has the right, maybe even the responsibility to kick someone out for dangerous behavior.
   - Cut power to the building if you need to. Nobody has the right to endanger themselves, others, or the lab with unsafe behavior.
