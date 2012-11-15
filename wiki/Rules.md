@@ -149,6 +149,10 @@ See [Laser Cutter](Laser-Cutter)
 
 #### Lathe
 
+[Heatsync_Labs_Lathe_101.doc](files/Heatsync_Labs_Lathe_101.doc)
+
+*Lathe 101 Handout*
+
 - Get in the habit of checking that there is nothing on the spindle that will fly out once turned on; chuck keys, loose parts, etc.
 - Check that autofeed is not engaged, and keep the tool post away from the spinning chuck.
 - Avoid reaching over the spinning chuck.
@@ -157,6 +161,10 @@ See [Laser Cutter](Laser-Cutter)
   - The tang could be forced back into your wrist or palm. Inexpensive wooden handles are readily available for common file sizes.
 
 #### Mill
+
+[Heatsync_Labs_Milling_101.doc](files/Heatsync_Labs_Milling_101.doc)
+
+*Mill 101 Handout*
 
 - Don't over-tighten collet / draw bar.
   - There's a point where it's firm and not gripping the endmill getting any tighter, that's good enough.
