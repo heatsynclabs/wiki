@@ -11,10 +11,10 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 <!-- -->
 
 - Membership levels
-  - What level are they?
+  - What level are you?
   - What do you get?
-    - \$25: Just access during 7-10, like the public, plus voting in HYH. Mostly a donation, thank you for helping.
-    - \$50: Box, voting in HYH and board, potential for card access
+    - \$25: Just access during 7-10 "open hours", same as the public, plus voting in HYH. Mostly a donation, thank you for helping.
+    - \$50: Box, voting in HYH and board, potential for 24/7 card access
     - \$100: Same as \$50 but locker instead of box
   - Explain the [Access Card Procedure](Access-Card-Procedure) and how they can get a card.
     - Privilege based on trust, not a right. Come during public hours, make friends, ask for proposal. If you can't come in during public hours, make friends and ask for favors.
@@ -66,6 +66,11 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - TV signage up front
   - Check door locks are all green, not red or off
   - When keeping the doors open, keep an eye on the door and make people who walk in your guest and responsibility
+    - If you're not comfortable making someone your responsibility, you don't have to let them in.
+    - You can lock the doors any time; we're a private member organization.
+    - Do not simply open the doors and then leave; hand off responsibility for the doors to someone when you step out.
+    - People will come in acting like they own the place, and break or steal stuff. Greeting them helps you meet people, and also weeds out troublemakers.
+    - The worst possible thing is for strangers to be wandering unwatched through the lab.
 
 <!-- -->
 
