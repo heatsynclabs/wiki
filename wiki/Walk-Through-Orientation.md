@@ -28,8 +28,8 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - Ideally, propose to the community that it be given space in the lab.
 - How to fix/connect to wifi (hacktheplanet)
 - Parking (dedicated, hour enforcement, street parking, passes)
-- HeatSync is a hackerspace, not a coworking space. Hackerspaces are places for using tools and creating things, and can be a loud place.
-  - If you need quiet, consider a library; if you want to watch movies, consider a theater. There's nowhere else in the Valley to use a bandsaw, but there are tons of places with WiFi.
+- HeatSync is a hackerspace first, coworking space second. Our primary purpose is to provide tools for people to create things, and it can be a loud/dirty place.
+  - There are tons of other places with WiFi, desks, couches, and projectors. There's only one place where you can use a bandsaw.
 - Hack Your Hackerspace Meetings (agenda, vote on proposals, working on improving lab)
   - Soda (donations, repurchasing)
   - Member access card proposals
