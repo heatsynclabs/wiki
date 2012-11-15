@@ -12,8 +12,12 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 
 - Membership levels
   - What level are they?
-  - What do you get? (Box, voting rights, potential for card access, etc)
+  - What do you get?
+    - \$25: Just access during 7-10, like the public, plus voting in HYH. Mostly a donation, thank you for helping.
+    - \$50: Box, voting in HYH and board, potential for card access
+    - \$100: Same as \$50 but locker instead of box
   - Explain the [Access Card Procedure](Access-Card-Procedure) and how they can get a card.
+    - Privilege based on trust, not a right. Come during public hours, make friends, ask for proposal. If you can't come in during public hours, make friends and ask for favors.
 - Guest sponsorships
   - Keep an eye on your guests
 - Public/private space
