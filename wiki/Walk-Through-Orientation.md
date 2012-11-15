@@ -16,8 +16,8 @@ It's very important that we train everyone similarly, in a culture of cleanlines
     - \$25: Just access during 7-10 "open hours", same as the public, plus voting in HYH. Mostly a donation, thank you for helping.
     - \$50: Box, voting in HYH and board, potential for 24/7 card access
     - \$100: Same as \$50 but locker instead of box
-  - Explain the [Access Card Procedure](Access-Card-Procedure) and how they can get a card.
-    - Privilege based on trust, not a right. Come during public hours, make friends, ask for proposal. If you can't come in during public hours, make friends and ask for favors.
+  - Explain the how they can get a card.
+    - Privilege based on trust, not a right. Come during public hours, make friends, ask for proposal, gets voted on during HYH. If you can't come in during public hours, make friends online and ask for favors. It's tough but we're a community not a business.
 - Guest sponsorships
   - Keep an eye on your guests
 - Public/private space
