@@ -2,7 +2,11 @@
 
 Put everything about how the machine should be setup here, espectially the settings used in the control software.
 
-[LinuxCNC Inches ini file](LinuxCNC-Inches-ini-file) [LinuxCNC Pinout](LinuxCNC-Pinout)
+LinuxCNC Config Files
+
+[LinuxCNC Inches ini file](LinuxCNC-Inches-ini-file)
+
+[LinuxCNC Pinout](LinuxCNC-Pinout)
 
 ## Software Guides
 
