@@ -19,7 +19,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - Explain the how they can get a card.
     - Privilege based on trust, not a right. Come during public hours, make friends, ask for proposal, gets voted on during HYH. If you can't come in during public hours, make friends online and ask for favors. It's tough but we're a community not a business.
 - Guest sponsorships
-  - Keep an eye on your guests
+  - Keep an eye on your guests; if you're up front and they're in back breaking a tool, that's not good.
 - Public/private space
   - We don't guarantee security of stuff in your box & ESPECIALLY not stuff left around the lab!
   - No taking equipment offsite or touching people's boxes/lockers.
