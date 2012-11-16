@@ -12,12 +12,12 @@ Web Site: www.azcc.gov
 
 Filing Fee: \$10
 
-`   Note: Nonprofit organizations must include a financial disclosure statement which may be any one of the following:`\
-`   a. Most recent copy of Page 2, Form 99 filed with the Arizona Dept. of Revenue`\
-`   b. A copy of the organization's Charitable Organization Financial Statement as filed with the Arizona Secretary of State`\
-`   c. A copy of the organization's Treasurer's Report/Financial Statement for the current fiscal year.`\
-`   d. A copy of the financial statement prepared for the organization's members.`\
-`   e. A statement that the organization conducted no business in Arizona in the past year.`
+`Note: Nonprofit organizations must include a financial disclosure statement which may be any one of the following:`\
+`a. Most recent copy of Page 2, Form 99 filed with the Arizona Dept. of Revenue`\
+`b. A copy of the organization's Charitable Organization Financial Statement as filed with the Arizona Secretary of State`\
+`c. A copy of the organization's Treasurer's Report/Financial Statement for the current fiscal year.`\
+`d. A copy of the financial statement prepared for the organization's members.`\
+`e. A statement that the organization conducted no business in Arizona in the past year.`
 
 **Internal Revenue Service**
 
