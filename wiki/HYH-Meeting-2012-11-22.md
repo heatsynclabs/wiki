@@ -111,41 +111,7 @@ This page was automatically copied from [HYH Meeting Template](HYH-Meeting-Templ
 
 <!-- -->
 
-    Proposal:  Better re/define Non Key-Card Member access
-
-    Key-card Member access is 24/7 access.
-    Public access is M-F 7p-10p
-
-    Associate and Basic Member access is vaguer.  Here is a proposal:
-
-       - If 2 or fewer Key-Card Members are present in the lab, the lab is 
-       closed.  Associate and Basic Members can still be admitted at the sole 
-       discretion of the Key-Card Members under any criteria.
-
-       - If 3 or more Key-Card Members are in the lab between the hours of 
-       9am-10pm, the lab is considered open for Associate and Basic Members. 
-        Key-Card Members there under an official duty do not count towards this 
-       minimum (ie, teaching a class or something).
-
-       - To gain entrance during Open Member hours and with the necessary 
-       threshold of Key-Card Members present, Associate and Basic Members should 
-       "sign in".  The details of the sign-on are an implementation detail but see 
-       additional proposal regarding "Kiosk sign-in".  Confirmation of their 
-       active, up-to-date membership should be the only criteria for admittance.
-
-       - Key-Card Members can eject any non-keycard Member at any time but will 
-       have to report the ejection reason within 24 hours to be reviewed at the 
-       next HYH meeting.  Reasons should be some perceived violation of HSL 
-       behavior and/or rules.
-
-       - If the number of present Key-Card Members falls below the required 
-       minimum (proposed at 3), and/or the "Open Member Hours" expires then 
-       Associate/Basic Members _may_ stay at the sole discretion of Key-Card 
-       Members.
-
-       - Associate/Basic Members should sign out when they leave.
-       
-
+    Proposal:  WITHDRAWN by submitter:  Better re/define Non Key-Card Member access
     -- 
 
 #### Discussion
