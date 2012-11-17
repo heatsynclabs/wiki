@@ -6,6 +6,7 @@ This page was automatically copied from [HYH Meeting Template](HYH-Meeting-Templ
 - **Delete these instructions prior to posting completed minutes**
 - Pick a moderator and note-taker
 - Review [the last meeting's minutes]($LAST-MEETING$)
+- If proposals have been amended or withdrawn, update this document accordingly before the meeting.
 
 ## Note-taker
 
