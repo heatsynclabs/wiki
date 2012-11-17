@@ -125,60 +125,7 @@ This page was automatically copied from [HYH Meeting Template](HYH-Meeting-Templ
 
 <!-- -->
 
-    Proposal:  Create a Kiosk Sign-In System
-
-       - All entrances of HSL Members should be logged.  
-       - All members will have a record and this record will be reasonably kept 
-       up-to-date on whether they are paid-up in dues, expulsion, active, etc.
-       - Sign-in will be easy and not intended to be "secure" (a quick PIN or 
-       something, specific proposal below).
-       - Certifications that a member has been awarded for tools that require 
-       it will be viewable here so any Member can confirm that another has the 
-       right to use a particular tool/station.
-       - Members will sign-out upon leaving.
-       - Signed-in members will be listed on http://live.heatsynclabs.org or, 
-       at least, the "open" status of the space (see other proposal)
-
-    Here are some specifics I have in mind for the software. I am willing to 
-    develop it and have already started some design for it.  I could have 
-    something up in just a few weeks.
-
-    *Sign-In/Out*
-
-       - Sign-in/out should be SUPER-DUPER simple easy to do.
-       - Support all of the following means:
-          - Can sign in by PIN/code.  Suggestion: 4 digit PIN.  Example:  8509 
-           (Numeric keypad up front)
-          - Can sign in by mouse/UI.  Find, name, click Sign-In button
-          - Near Future:  Sign-in by scanned/printed QR code or some other 
-          quick id access (cheap).
-          - Possible Future:  Key-Card access would conveniently auto-sign in a 
-          Key-Card Member.
-       - Sign-out by the same means
-       - Suggested "grace" period for sign-ins: To accommodate that a member 
-       may be paid-up but not reflected immediately in this Kiosk, a grace period 
-       is suggested to allow sign-ins despite a membership being expired.  The 
-       period to be configurable.
-       - If Member photo not on file, suggested that a software be able to take 
-       a photo right then and there on first sign-in.
-
-    *Guest Sign-In/Out*
-
-       - Guests of a Member should be signed in by the member.  First name only 
-       required.  Guest sign-in will always be attached to the member sign-in and 
-       is the responsibility of the member including any/all violations of HSL 
-       rules/processes/safety procedures.  Guest policies are not determined in 
-       this proposal, just that the kiosk should have a guest sign-in feature.
-
-    *Certification List*
-
-       - Any member can walk up and see a list of certifications for any member 
-       (possibly available on the web as well).
-       
-    User != Members:  Only certain users, as defined by role and board, will be 
-    able to actually authenticate into the application to maintain things like
-    certificate lists, member lists, etc.
-
+    Proposal: WITHDRAWN by submitter: Create a Kiosk Sign-In System
     -- 
 
 #### Discussion
