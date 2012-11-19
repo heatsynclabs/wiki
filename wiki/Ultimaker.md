@@ -1,4 +1,4 @@
-**The Ultimaker is currently running at 100%**
+**The Ultimaker is currently down for maintenance**
 
 ## Basics
 
@@ -15,6 +15,10 @@ Take a look at our [Ultimaker Quickstart Guide](Ultimaker-Quickstart-Guide) for 
 - Print [Ultibarley](http://www.thingiverse.com/thing:16920) in various colors to display the reels of colors we have available (Seriously)
 
 ## Upkeep Log
+
+### 14 November 2012
+
+- Machine down pending new PEEK from Colin and Jake
 
 ### 18 October 2012
 
