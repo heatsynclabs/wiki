@@ -48,6 +48,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - Members often teach classes. You can too, if you have a skill you want to share, you don't need to ask permission to teach a class.
 - Generally speaking, ask another member prior to using a tool you haven't used in the lab before. We do things differently than at your home, ask so you know how to use OUR tools right.
 - Tools and workstations should be kept usable, operable, complete, and clean.
+  - If you use a lot of consumables, consider replacing them. We currently have no budgets or caretakes for consumables.
   - Don't render a tool unusable just because you needed to borrow a cable from it, or because you left it a mess.
   - If a tool breaks, put it into the broken tools bin, let people know about it, look into replacement.
 
@@ -61,8 +62,8 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 <!-- -->
 
 - First person in / last person out procedure
-  - Turn on/off thermostat to 72', turn off fans
-    - Thermostat resets every few hours, OK to turn it down
+  - Turn on/off thermostat to 75', turn off fans
+    - Thermostat resets every few hours, OK to adjust it, just don't override it, or we'll spend \$600+/mo on electricity
   - Location of lightswitches, turn off when leaving
   - TV signage up front
   - Check door locks are all green, not red or off
@@ -82,7 +83,8 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 <!-- -->
 
 - Clean up after yourself -- cleaner than you found it
-  - Training, culture
+  - Encourage cleaning culture by offering to clean something with someone ("hey, can you take out the trash with me? Can I help you clean this?")
+  - Dozens of people here a day, that's dozens of cups to throw away.
   - Cleaning supplies
     - How & who to contact when supplies are out
   - Trash cans, dumpsters, bathroom, tool/floor cleaning
