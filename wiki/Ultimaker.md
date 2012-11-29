@@ -1,4 +1,4 @@
-**The Ultimaker is currently down for maintenance**
+**The Ultimaker is running, pending upkeep by [User:Rrix](User-Rrix) and Colin.**
 
 ## Basics
 
@@ -15,6 +15,12 @@ Take a look at our [Ultimaker Quickstart Guide](Ultimaker-Quickstart-Guide) for 
 - Print [Ultibarley](http://www.thingiverse.com/thing:16920) in various colors to display the reels of colors we have available (Seriously)
 
 ## Upkeep Log
+
+### 30 November 2012
+
+- New PEEK tube turned on Lathe by colin
+- Colin installed the Makerbot mk6 extruder drive
+- Prints back up to installed quality.
 
 ### 14 November 2012
 
