@@ -20,7 +20,11 @@ Form: Annual Return Form 990 Due Date: 4 ½ months after end of fiscal year
 
 Internal Revenue Service Ogden, UT 84201-0027 Information: (800) 829-1040
 
-Forms: (800) 829-3676 Web Site: www.irs.gov/charities Filing Fee: \$0
+Forms: (800) 829-3676
+
+Web Site: www.irs.gov/charities
+
+Filing Fee: \$0
 
 Public Charities: Please note that, along with the new Form 990, the IRS has instituted a "phase-in" period to allow organizations time to adjust to the new form. For a detailed "phase-in" chart, please refer to the IRS website to determine which form to file (Form 990, Form 990-EZ or Form 990-N).
 
