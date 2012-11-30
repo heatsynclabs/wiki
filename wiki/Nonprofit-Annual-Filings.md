@@ -4,9 +4,17 @@
 
 Form: Annual Report Due Date: Anniversary date of the date of incorporation
 
-Arizona Corporation Commission c/o Annual Reports, Corporations Div. 1300 West Washington Phoenix, AZ 85007-2929
+Arizona Corporation Commission
 
-Information: (602) 542-3285 Forms: (602) 542-0082
+c/o Annual Reports, Corporations Div.
+
+1300 West Washington
+
+Phoenix, AZ 85007-2929
+
+Information: (602) 542-3285
+
+Forms: (602) 542-0082
 
 Web Site: www.azcc.gov
 
