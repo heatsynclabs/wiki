@@ -268,7 +268,7 @@ See [Laser Cutter](Laser-Cutter)
 
 ### Oscilloscope
 
-- Don’t connect to high voltage sources(define high)
+- Don’t connect to high voltage sources (\>250V p-p)
 - Be careful with oscilloscope probes as they are sensitive devices!
 
 ### Hand Drill & Drill Press
