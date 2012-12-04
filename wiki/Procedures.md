@@ -60,3 +60,7 @@ Clearly identify one primary event organizer with ultimate responsibility.
         2.  Remember to wipe tables and examine floors to determine if they need sweep/mop
 6.  Send thank you via email, etc
 7.  Post presentations on wiki and maintain a private list of emails so we can reschedule speakers [Presentations](Presentations)
+
+### Tool Acquisition
+
+See [Tool Acquisition HOWTO](Tool-Acquisition-HOWTO)
