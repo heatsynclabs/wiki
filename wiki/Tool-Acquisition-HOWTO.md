@@ -60,7 +60,7 @@ For best results, make sure the proposal is specific about:
 
 An example proposal:
 
-`   I propose that HeatSync labs purchase _____ for the total price of $____ to be paid with $____ from the general funds and the rest from donations collected from individual donors. If sufficient funds cannot be gathered through donations by ____ date, all donations will be refunded and the machine will not be purchased.`
+> I propose that HeatSync labs purchase \_\_\_\_\_ for the total price of \$\_\_\_\_ to be paid with \$\_\_\_\_ from the general funds and the rest from donations collected from individual donors. If sufficient funds cannot be gathered through donations by \_\_\_\_ date, all donations will be refunded and the machine will not be purchased.
 
 - Can We Afford It?
 - How much does the machine cost?
