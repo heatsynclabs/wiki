@@ -1,5 +1,7 @@
 Notice: These documentations are being depreciated for [Laser Cutter Quick Guide](Laser-Cutter-Quick-Guide).
 
+- Training is required to use the laser. Laser classes are by-request, just come to the lab and fill out the form to register (it's an icon on the bench computer called Laser Class Registration.)
+
 ### Documentation
 
 - [Exlas_Machine_Manual.pdf](files/Exlas_Machine_Manual.pdf)
