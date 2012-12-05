@@ -186,12 +186,37 @@ See [Laser Cutter](Laser-Cutter)
 
 *Lathe 101 Handout*
 
-- Get in the habit of checking that there is nothing on the spindle that will fly out once turned on; chuck keys, loose parts, etc.
-- Check that autofeed is not engaged, and keep the tool post away from the spinning chuck.
-- Avoid reaching over the spinning chuck.
-  - For filing operations, hold the file such that you are not reaching over the chuck and risking something being caught in it. Your body should not be in front of the file itself in case the file snags and is thrown toward you.
-- Never use a file with a bare tang.
-  - The tang could be forced back into your wrist or palm. Inexpensive wooden handles are readily available for common file sizes.
+<table style="width:13%;">
+<colgroup>
+<col style="width: 3%" />
+<col style="width: 2%" />
+<col style="width: 3%" />
+<col style="width: 2%" />
+<col style="width: 3%" />
+</colgroup>
+<tbody>
+<tr>
+<td data-valign="top" width="32%"><ul>
+<li>Get in the habit of checking that there is nothing on the spindle that will fly out once turned on; chuck keys, loose parts, etc.</li>
+<li>Check that autofeed is not engaged, and keep the tool post away from the spinning chuck.</li>
+</ul></td>
+<td width="2%"></td>
+<td data-valign="top" width="33%"><ul>
+<li>Avoid reaching over the spinning chuck.
+<ul>
+<li>For filing operations, hold the file such that you are not reaching over the chuck and risking something being caught in it. Your body should not be in front of the file itself in case the file snags and is thrown toward you.</li>
+</ul></li>
+</ul></td>
+<td width="2%"></td>
+<td data-valign="top" width="33%"><ul>
+<li>Never use a file with a bare tang.
+<ul>
+<li>The tang could be forced back into your wrist or palm. Inexpensive wooden handles are readily available for common file sizes.</li>
+</ul></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
 
 #### Mill
 
