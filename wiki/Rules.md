@@ -270,7 +270,8 @@ HeatSync Training required for use
 
 ### Welder
 
-- HeatSync Training required for use
+HeatSync Training required for use  
+
 - Welding emits dangerous levels of visible and invisible wavelength light, use of TIG-approved goggles/helmet and only TIG-approved goggles/helmet is necessary when TIG welding
   - Acetylene goggles are dangerous to use on TIG welders
 - Wear Flame retardant gloves, apron and if necessary hang flame retardant curtain to protect yourself and the workshop
