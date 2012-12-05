@@ -166,19 +166,45 @@ See [Laser Cutter](Laser-Cutter)
 
 ### Metalworking Tools
 
-- TRUST NO ONE. Check for yourself if you have the right tools, a solid setup, and the machine is bolted down properly
-- HeatSync Training required for use. If you're a pro, you still need to be checked out by an [instructor](Classes).
-- To clean, gently vacuum and/or brush the chips away from the ways. A spotless machine makes setup very easy
-- Always wear eye protection and closed-toe shoes.
-  - Z99 rated industrial quality safety glasses with side-shields. [Tools can throw off sharp, hot metal chips at considerable speed](http://www.youtube.com/watch?v=qOSdSKyxhhI&t=1m15s) as well as spin off chips of metal that can be quite hazardous. Don't take chances.
-- Wear short sleeve shirts, tie back long hair, and remove rings, wrist watches, necklaces, chains and other jewelry.
-  - Sleeves, hair and jewelry can catch on rotating work and cause [severe injury](http://www.youtube.com/watch?v=ajNdLT4exps) or [death](https://www.youtube.com/watch?v=EBSwOS90wgQ&feature=related).
-- Always double check work areas before starting.
-  - Make sure your work is [securely clamped](http://www.youtube.com/watch?NR=1&v=W-Y8FvTgHzk&feature=endscreen). Start the tool at low speed and increase the speed gradually. Do not trust that the machine has been set up in a sane way; what if someone removed the spindle and didn't reattach it securely?
-- Get in the habit of removing the chuck key immediately after use.
-  - Some users recommend never removing your hand from the chuck key when it is in the chuck. The chuck key can be a lethal projectile if the lathe is started with the chuck key in the chuck.
-- Keep your fingers clear of the rotating work and cutting tools.
-  - This sounds obvious, but people are often tempted to break away metal spirals as they form at the cutting tool.
+<table style="width:11%;">
+<colgroup>
+<col style="width: 4%" />
+<col style="width: 2%" />
+<col style="width: 4%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="49%" data-valign="top"><ul>
+<li><strong>TRUST NO ONE</strong>: Check for yourself if you have the right tools, a solid setup, and the machine is bolted down properly</li>
+<li>HeatSync Training required for use. If you're a pro, you still need to be checked out by an <a href="Classes">instructor</a>.</li>
+<li>To clean, gently vacuum and/or brush the chips away from the ways. A spotless machine makes setup very easy</li>
+<li>Always wear eye protection and closed-toe shoes.
+<ul>
+<li>Z99 rated industrial quality safety glasses with side-shields. <a href="http://www.youtube.com/watch?v=qOSdSKyxhhI&amp;t=1m15s">Tools can throw off sharp, hot metal chips at considerable speed</a> as well as spin off chips of metal that can be quite hazardous. Don't take chances.</li>
+</ul></li>
+<li>Wear short sleeve shirts, tie back long hair, and remove rings, wrist watches, necklaces, chains and other jewelry.
+<ul>
+<li>Sleeves, hair and jewelry can catch on rotating work and cause <a href="http://www.youtube.com/watch?v=ajNdLT4exps">severe injury</a> or <a href="https://www.youtube.com/watch?v=EBSwOS90wgQ&amp;feature=related">death</a>.</li>
+</ul></li>
+</ul></td>
+<td width="2%"></td>
+<td width="49%" data-valign="top"><ul>
+<li>Always double check work areas before starting.
+<ul>
+<li>Make sure your work is <a href="http://www.youtube.com/watch?NR=1&amp;v=W-Y8FvTgHzk&amp;feature=endscreen">securely clamped</a>. Start the tool at low speed and increase the speed gradually. Do not trust that the machine has been set up in a sane way; what if someone removed the spindle and didn't reattach it securely?</li>
+</ul></li>
+<li>Get in the habit of removing the chuck key immediately after use.
+<ul>
+<li>Some users recommend never removing your hand from the chuck key when it is in the chuck. The chuck key can be a lethal projectile if the lathe is started with the chuck key in the chuck.</li>
+</ul></li>
+<li>Keep your fingers clear of the rotating work and cutting tools.
+<ul>
+<li>This sounds obvious, but people are often tempted to break away metal spirals as they form at the cutting tool.</li>
+</ul></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
 
 #### Lathe
 
