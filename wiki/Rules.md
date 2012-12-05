@@ -147,7 +147,7 @@ Types of rules to consider implementing: - Preventing injury to the operator and
 
 ### Woodworking/Saws
 
-- Tool is in a safe position (won't tip/fall,
+- Tool is in a safe position (won't tip/fall)
 - Cut away from you, think "where are my hands and fingers going to end up?"
 - Check the people around you, and any electric cords or unsafe things that may be in the way
   - Alert them before you begin (glasses, dust, noise)
