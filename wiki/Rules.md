@@ -6,19 +6,52 @@ HeatSync membership is open to the public, but use of certain equipment and key/
 
 ### Membership Tiers
 
-- **Associate Membership** is \$25 per month, and confers only the right to have your name on the list of members, access to the lab and shared equipment during the published hours of operation, and discounts with local manufacturers and suppliers. Other membership rights listed herein, such as board election voting rights, do not apply.
+<table style="width:13%;">
+<colgroup>
+<col style="width: 3%" />
+<col style="width: 2%" />
+<col style="width: 3%" />
+<col style="width: 2%" />
+<col style="width: 3%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;" width="32%"><p>Associate Membership</p></th>
+<th style="text-align: left;" width="2%"></th>
+<th style="text-align: left;" width="32%"><p>Basic Membership</p></th>
+<th style="text-align: left;" width="2%"></th>
+<th style="text-align: left;" width="32%"><p>Plus Membership</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;" data-valign="top"><p>Costs $25 per month, and confers</p>
+<ul>
+<li>The right to have your name on the list of members</li>
+<li>Access to the lab and shared equipment during the published hours of operation</li>
+<li>And discounts with local manufacturers and suppliers.</li>
+</ul>
+<p>Other membership rights listed herein, such as board election voting rights, do not apply.</p></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;" data-valign="top"><p>Costs $50 per month, and confers the benefits of Associate Membership, plus</p>
+<ul>
+<li>Personal project space for a banker box
+<dl>
+<dt></dt>
+<dd>
+(first box provided by HeatSync Labs)
+</dd>
+</dl></li>
+<li>The ability to direct HeatSync Labs with your vote in board elections</li>
+<li>24/7 access to the lab including a key to the building and security code <strong>IF</strong> the community votes to grant you the privilege,</li>
+</ul></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;" data-valign="top"><p>Costs $100 per month, and you get all the benefits and rights of a basic membership, except a locker in the lab instead of a bankers box.</p></td>
+</tr>
+</tbody>
+</table>
 
-<!-- -->
-
-- **Basic Membership** is \$50 per month, and confers the benefits of Associate Membership, plus personal project space for a banker box (first box provided by HeatSync Labs), the ability to direct HeatSync Labs with your vote in board elections, and IF the community votes to grant you the privilege, 24/7 access to the lab including a key to the building and security code.
-
-<!-- -->
-
-- **Plus Membership** is \$100 per month, and you get all the benefits of a basic membership, except a locker in the lab instead of a bankers box. It includes all the membership rights listed herein unless otherwise specified.
-
-<!-- -->
-
-- **Sponsorships** are simply monthly recurring donations which confer no rights.
+**Sponsorships** are simply monthly recurring donations which confer no rights.
 
 ### Membership Fees
 
