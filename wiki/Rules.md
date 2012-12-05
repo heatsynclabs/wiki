@@ -224,21 +224,39 @@ See [Laser Cutter](Laser-Cutter)
 
 *Mill 101 Handout*
 
-- Don't over-tighten collet / draw bar.
-  - There's a point where it's firm and not gripping the endmill getting any tighter, that's good enough.
-  - Lock the quill at the quill stop before milling - it only should unlock for drilling holes.
-- Lock the unused axes so they can't move while cutting
-- Use two flute endmills for aluminum, four flute for steel
-- Is your endmill center cutting or not?
-- Keep chips off the clamping surface, wipe them off with a brush and a rag before clamping.
-- Adjust speed and feeds according to tool diameter and material, 300 SFM, .001 IPT for steel, 1000 SFM, .003 IPT for aluminum
-- If you think you need coolant, slow down. You can mostly machine dry, unless using tool steel or stainless.
-- Start with a DOC (depth of cut) of about 0.025" per pass, if side-millng, start as light as possible
-- Remember to account for backlash, check for climb or (preferred) conventional cutting
-- You want consistent, sizeable metal chips to be coming off of the tool. Metal powder means you have a dull tool, blue color means slow down your speed (RPM) and feed (cranking the handles). If your aluminum is turning blue, you're doing something wrong
-- Sound is important. Aim for a pleasant bassy, sand-like "[bore](https://www.youtube.com/watch?v=Wk2VYwCIcZE)" sound, not a high-pitched buzz/chatter/whine. If you start cutting and it buzzes or smokes (without lubricant), stop and double-check yourself.
-- Use both hands on the feed wheel to get a better feel for the machine and improve steadiness.
-- Milling steel takes about 1/3rd the spindle speed of aluminum for the same mill and feedrate.
+<table style="width:11%;">
+<colgroup>
+<col style="width: 4%" />
+<col style="width: 2%" />
+<col style="width: 4%" />
+</colgroup>
+<tbody>
+<tr>
+<td data-valign="top" width="49%"><ul>
+<li>Don't over-tighten collet / draw bar.
+<ul>
+<li>There's a point where it's firm and not gripping the endmill getting any tighter, that's good enough.</li>
+<li>Lock the quill at the quill stop before milling - it only should unlock for drilling holes.</li>
+</ul></li>
+<li>Lock the unused axes so they can't move while cutting</li>
+<li>Use two flute endmills for aluminum, four flute for steel</li>
+<li>Is your endmill center cutting or not?</li>
+<li>Keep chips off the clamping surface, wipe them off with a brush and a rag before clamping.</li>
+<li>Adjust speed and feeds according to tool diameter and material, 300 SFM, .001 IPT for steel, 1000 SFM, .003 IPT for aluminum</li>
+<li>If you think you need coolant, slow down. You can mostly machine dry, unless using tool steel or stainless.</li>
+</ul></td>
+<td width="2%"></td>
+<td data-valign="top" width="49%"><ul>
+<li>Start with a DOC (depth of cut) of about 0.025" per pass, if side-millng, start as light as possible</li>
+<li>Remember to account for backlash, check for climb or (preferred) conventional cutting</li>
+<li>You want consistent, sizeable metal chips to be coming off of the tool. Metal powder means you have a dull tool, blue color means slow down your speed (RPM) and feed (cranking the handles). If your aluminum is turning blue, you're doing something wrong</li>
+<li>Sound is important. Aim for a pleasant bassy, sand-like "<a href="https://www.youtube.com/watch?v=Wk2VYwCIcZE">bore</a>" sound, not a high-pitched buzz/chatter/whine. If you start cutting and it buzzes or smokes (without lubricant), stop and double-check yourself.</li>
+<li>Use both hands on the feed wheel to get a better feel for the machine and improve steadiness.</li>
+<li>Milling steel takes about 1/3rd the spindle speed of aluminum for the same mill and feedrate.</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
 
 ### CNC Mill
 
