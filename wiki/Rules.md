@@ -260,7 +260,8 @@ See [Laser Cutter](Laser-Cutter)
 
 ### CNC Mill
 
-- HeatSync Training required for use
+HeatSync Training required for use  
+
 - Mill rules apply to CNC Mill
 - Do not leave the mill unattended. Stay within reach of the emergency stop button at all times while running.
 - Preview all milling jobs before running on the machine.
