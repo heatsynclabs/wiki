@@ -179,6 +179,23 @@ Quorom was not established at the [HYH Meeting 2012-11-22](HYH-Meeting-2012-11-2
 
 - **RESULT: \#FIXME#**
 
+### Grant 1500 in matching funds for the wood shop buildout.
+
+- Proposal by **Brian Aday**
+- Proposed on **Thu, 6 Dec 2012**
+
+<!-- -->
+
+    Our amazingly generous donors have contributed over $1900 to buy a set of 
+    high quality machines for the wood shop. We propose an additional 1500 in 
+    Heatsync funds be allocated for the project. 
+
+    -- 
+
+#### Discussion
+
+- **RESULT: \#FIXME#**
+
 ## Discussion Items
 
 If an item of discussion drags on too long, further discussion may be postponed until after the meeting ends.
