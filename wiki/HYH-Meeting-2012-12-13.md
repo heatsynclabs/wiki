@@ -49,6 +49,10 @@ This page was automatically copied from [HYH Meeting Template](HYH-Meeting-Templ
 
 ## Proposals
 
+### All proposals from previous meeting
+
+Quorom was not established at the [HYH Meeting 2012-11-22](HYH-Meeting-2012-11-22). All proposals to be voted on.
+
 ### Card Access for Mark 'Trunk' Kirschenbaum
 
 - Proposal by **Jacob Rosenthal**
