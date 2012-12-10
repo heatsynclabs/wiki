@@ -43,7 +43,7 @@ HeatSync membership is open to the public, but use of certain equipment and key/
 </dd>
 </dl></li>
 <li>The ability to direct HeatSync Labs with your vote in board elections</li>
-<li>24/7 access to the lab including a key to the building and security code <strong>IF</strong> the community votes to grant you the privilege,</li>
+<li>24/7 access to the lab including a key to the building and security code <strong>IF</strong> the community votes to grant you the privilege</li>
 </ul></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;" data-valign="top"><p>Costs $100 per month, and you get all the benefits and rights of a basic membership, except a locker in the lab instead of a bankers box.</p></td>
