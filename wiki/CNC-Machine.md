@@ -10,12 +10,18 @@ LinuxCNC Config Files
 
 ## Software Guides
 
-Place notes about the various pieces of software we use for the machine here. MACH3, linuxcnc, CamBam, etc.
+At a minimum, everyone needs to have a grasp of how to use MACH3. The user manual can be downloaded at <http://www.machsupport.com/documentation.php>
+
+There are two CAM programs we will be providing. HSMXpress is a SolidWorks plugin for doing g-code generation from within solidworks directly on a part. The express version only comes with the documentation that is in its help file, accessed in the plugin itself.
+
+CamBam is the CAM program that can handle most everything, and the manual can be found at <http://www.cambam.info/doc/>
 
 ## Safety guidelines
 
 Comulative knowledge of how to avoid killing yourself on the machine goes here.
 
+- NO hand-editing of g-code programs.
+
 ## Tips and best practices
 
-Any other useful things learned that others may benefit from.
+Practice manual milling on the blue mill. Certification on the blue mill will be a prerequisite for being certified on the CNC mill.
