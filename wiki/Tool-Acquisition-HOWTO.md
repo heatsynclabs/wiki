@@ -1,8 +1,6 @@
 **WIP**
 
-So you have an idea for some really neat tools or equipment that you think the lab should acquire? EXCELLENT! Now for the hard part: making it happen. This is a multi-step process, with few hard and fast rules. But this guide here aims to walk you through the best practices of going about this, so you have no more headaches than are absolutely necessary
-
-**Be sure you read the [Understanding the HeatSync Community](Understanding-the-HeatSync-Community) page!**
+So you have an idea for some really neat tools or equipment that you think the lab should acquire? EXCELLENT! Now for the hard part: making it happen. This is a multi-step process, with few hard and fast rules. But this guide here aims to walk you through the best practices of going about this, so you have no more headaches than are absolutely necessary.
 
 ## The responsibilities of a Machine Champion
 
