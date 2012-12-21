@@ -1,3 +1,23 @@
+## Materials
+
+### Approved
+
+- Acrylic
+- Anodized aluminum, etching only
+- Corrugated cardboard
+- Glass, etching only
+- Leather, naturally dyed
+- MDF
+- Paper
+- Plywood
+
+### Forbidden / Incapable
+
+- Metal
+- Skin/flesh
+
+## Operation
+
 1.  Turn on the machine
     1.  Turn on the Key Lock
     2.  be sure to disengage the E-STOP
