@@ -10,12 +10,12 @@ This page was automatically copied from [HYH Meeting Template](HYH-Meeting-Templ
 
 ### All proposals from previous meeting
 
-### [1](https://groups.google.com/forum/?fromgroups=#!topicsearchin/heatsynclabs/subject:proposal$20AND$20after:2012$2F11$2F08$20AND$20before:2012$2F12$2F07/heatsynclabs/Br4bfvgcsOE) Create Guest Sign-In Book
+### [1](https://groups.google.com/forum/?fromgroups=#!topicsearchin/heatsynclabs/subject:proposal$20AND$20after:2012$2F11$2F08$20AND$20before:2012$2F12$2F07/heatsynclabs/Br4bfvgcsOE) Create guest sign-in book
 
 - Proposal by **Paul Hickey**
 - 9 For/1 Against - **PASSED**
 
-### [2](https://groups.google.com/forum/?fromgroups=#!topicsearchin/heatsynclabs/subject:proposal$20AND$20after:2012$2F11$2F08$20AND$20before:2012$2F12$2F07/heatsynclabs/Ld4p6T4WwAI) Define Safety Incident Reporting
+### [2](https://groups.google.com/forum/?fromgroups=#!topicsearchin/heatsynclabs/subject:proposal$20AND$20after:2012$2F11$2F08$20AND$20before:2012$2F12$2F07/heatsynclabs/Ld4p6T4WwAI) Define safety incident reporting
 
 - Proposal by **Michael Mathers**
 - 0 For/4 Against - **FAILED**
@@ -30,7 +30,7 @@ This page was automatically copied from [HYH Meeting Template](HYH-Meeting-Templ
 - Proposal by **Jacob Rosenthal**
 - 15 For/0 Against - **PASSED**
 
-### [5](https://groups.google.com/forum/?fromgroups=#!topicsearchin/heatsynclabs/subject:proposal$20AND$20after:2012$2F11$2F08$20AND$20before:2012$2F12$2F07/heatsynclabs/Xeo0lk5Imgg) Purchase Craftsman Miter saw to replace RAS
+### [5](https://groups.google.com/forum/?fromgroups=#!topicsearchin/heatsynclabs/subject:proposal$20AND$20after:2012$2F11$2F08$20AND$20before:2012$2F12$2F07/heatsynclabs/Xeo0lk5Imgg) Purchase Craftsman miter saw to replace RAS
 
 - Proposal by **Ben Humphereys**
 - **WITHDRAWN**
