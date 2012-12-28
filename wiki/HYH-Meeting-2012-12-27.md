@@ -1,37 +1,5 @@
 This page was automatically copied from [HYH Meeting Template](HYH-Meeting-Template) by [User:Phong](User-Phong). If you would like to change the structure of how future meetings perform, please make any modifications to [HYH Meeting Template](HYH-Meeting-Template). If you would like to propose something at the next meeting, bring it up on the mailing list with "PROPOSAL:" in the subject line and Phong will add it to the next meeting's agenda.
 
-# Instructions
-
-- Read the instructions out loud for all to comprehend.
-- **Delete these instructions prior to posting completed minutes**
-- Pick a moderator and note-taker
-- Review [the last meeting's minutes](HYH-Meeting-2012-12-13)
-- If proposals have been amended or withdrawn, update this document accordingly before the meeting.
-
-## Note-taker
-
-- Open a text editor to take down some **detailed** minutes.
-  - Detail is important. If it isn't written down, it never happened.
-  - Make sure you record vote counts and not only the final results
-- Project the minutes and notes throughout the meeting on the projector in the centre of the room.
-  - This is done in lieu of whiteboarding because screw whiteboarding.
-- Follow the instructions in the End of Meeting section at the appropriate time.
-
-## Moderator
-
-- Start by taking count of present voting members for quorom
-  - Note Taker should note this count in the Agenda section
-- Make sure everyone gets a chance to speak
-- Speak minimally yourself
-- Keep the meeting moving
-- Handle the membership voting process
-- Be sure to thoroughly follow the procedure outlined in this document, as the template may occasionally change without warning.
-
-## Participants
-
-- Remain on-topic
-- Remain respectful of other participants
-
 # Agenda
 
 - **Note Taker:** [User:rrix](User-rrix)
