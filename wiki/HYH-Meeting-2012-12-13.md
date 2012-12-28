@@ -13,50 +13,42 @@ This page was automatically copied from [HYH Meeting Template](HYH-Meeting-Templ
 ### [1](https://groups.google.com/forum/?fromgroups=#!topicsearchin/heatsynclabs/subject:proposal$20AND$20after:2012$2F11$2F08$20AND$20before:2012$2F12$2F07/heatsynclabs/Br4bfvgcsOE) Create Guest Sign-In Book
 
 - Proposal by **Paul Hickey**
-
-9 For/1 Against - **PASSED**
+- 9 For/1 Against - **PASSED**
 
 ### [2](https://groups.google.com/forum/?fromgroups=#!topicsearchin/heatsynclabs/subject:proposal$20AND$20after:2012$2F11$2F08$20AND$20before:2012$2F12$2F07/heatsynclabs/Ld4p6T4WwAI) Define Safety Incident Reporting
 
 - Proposal by **Michael Mathers**
-
-0 For/4 Against - **FAILED**
+- 0 For/4 Against - **FAILED**
 
 ### [3](https://groups.google.com/forum/?fromgroups=#!topicsearchin/heatsynclabs/subject:proposal$20AND$20after:2012$2F11$2F08$20AND$20before:2012$2F12$2F07/heatsynclabs/fXsfkVEGN6Q) Drink system moves to being a complete honors system
 
 - Proposal by **Chad Stearns**
-
-11 For/1 Against - **PASSED**
+- 11 For/1 Against - **PASSED**
 
 ### [4](https://groups.google.com/forum/?fromgroups=#!topicsearchin/heatsynclabs/subject:proposal$20AND$20after:2012$2F11$2F08$20AND$20before:2012$2F12$2F07/heatsynclabs/B_NLQtqzmPg) Card access for Mark 'Trunk' Kirschenbaum
 
 - Proposal by **Jacob Rosenthal**
-
-15 For/0 Against - **PASSED**
+- 15 For/0 Against - **PASSED**
 
 ### [5](https://groups.google.com/forum/?fromgroups=#!topicsearchin/heatsynclabs/subject:proposal$20AND$20after:2012$2F11$2F08$20AND$20before:2012$2F12$2F07/heatsynclabs/Xeo0lk5Imgg) Purchase Craftsman Miter saw to replace RAS
 
 - Proposal by **Ben Humphereys**
-
-**WITHDRAWN**
+- **WITHDRAWN**
 
 ### [6](https://groups.google.com/forum/?fromgroups=#!topicsearchin/heatsynclabs/subject:proposal$20AND$20after:2012$2F11$2F08$20AND$20before:2012$2F12$2F07/heatsynclabs/lY-M_Rl9fOE) Only people with card access can vote on granting card access
 
 - Proposal by **Chad Stearns**
-
-9 For/5 Against - **PASSED**
+- 9 For/5 Against - **PASSED**
 
 ### [7](https://groups.google.com/forum/?fromgroups=#!topicsearchin/heatsynclabs/subject:proposal$20AND$20after:2012$2F11$2F08$20AND$20before:2012$2F12$2F07/heatsynclabs/ii3Vbz6TUxE) Officially declare our adherence to the Prime Directive
 
 - Proposal by Ryan McDermott
-
-**WITHDRAWN**
+- **WITHDRAWN**
 
 ### [8](https://groups.google.com/forum/?fromgroups=#!topicsearchin/heatsynclabs/1500/heatsynclabs/HZSCjCSl5Ew) Grant 1500 in matching funds for the wood shop buildout
 
 - Proposal by **Brian Aday**
-
-4 For/7 Against - **FAILED**
+- 4 For/7 Against - **FAILED**
 
 ---
 *Categories: [HYH](Category-HYH), [Meetings](Category-Meetings)*
