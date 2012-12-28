@@ -239,10 +239,6 @@ This page was automatically copied from [HYH Meeting Template](HYH-Meeting-Templ
 
 - **RESULT: \#FIXME#**
 
-#### Discussion
-
-- **RESULT: \#FIXME#**
-
 ## Discussion Items
 
 If an item of discussion drags on too long, further discussion may be postponed until after the meeting ends.
