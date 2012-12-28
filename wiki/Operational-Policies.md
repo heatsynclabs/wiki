@@ -19,7 +19,7 @@
 
 #### Card Access
 
-- Members can receive cards when approved by a majority vote of members at an operations meeting ("Hack your Hackerspace" night.) An operations team member should ensure their card access proposal is posted publicly via email (subject prefix "Proposal:") at least 1 week prior to the meeting.
+- Members can receive cards when approved by a majority vote of members who already have card access at an operations meeting ("Hack your Hackerspace" night.) An operations team member should ensure their card access proposal is posted publicly via email (subject prefix "Proposal:") at least 1 week prior to the meeting.
 
 #### Rules
 
