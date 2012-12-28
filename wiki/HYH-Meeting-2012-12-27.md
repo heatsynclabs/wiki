@@ -34,9 +34,9 @@ This page was automatically copied from [HYH Meeting Template](HYH-Meeting-Templ
 
 # Agenda
 
-- **Note Taker:** FIXME
-- **Moderator:** FIXME
-- **Number of Members Present:** FIXME
+- **Note Taker:** [User:rrix](User-rrix)
+- **Moderator:** Austin Kipp
+- **Number of Members Present:** 12
 
 ## Announcements
 
@@ -51,8 +51,8 @@ This page was automatically copied from [HYH Meeting Template](HYH-Meeting-Templ
 
 ### Replace RAS with BOSCH Table Saw
 
-- Proposed by Brian Aday
-- Proposed on 10/12/12 18:32
+- Proposed by Ben Humphreys
+- Proposed on 10/12/22 18:32
 
 <!-- -->
 
@@ -236,6 +236,47 @@ This page was automatically copied from [HYH Meeting Template](HYH-Meeting-Templ
     other available options. 
 
 #### Discussion
+
+- **RESULT: \#FIXME#**
+
+## Purchase Miter Saw and stand/Table Saw/Dust Collector
+
+- Proposed by: Brian Aday
+- Proposed on: 20/12/12 23:33
+
+<!-- -->
+
+    A significant number of people have expressed interest in adding a 
+    woodworking capability to Heatsync labs. The tools detailed below form the 
+    foundation of that capability.
+
+    *I propose we purchase: *
+
+    *Table Saw $299 + tax - No Shipping:*
+    http://www.lowes.com/pd_89913-46069-PCB220TS_0__?productId=3163783&Ntt=mobile+table+saw&pl=1&currentURL=%3FNtt%3Dmobile%2Btable%2Bsaw&facetInfo= 
+
+    *Dust Collection $199 + tax - No Shipping: *
+    http://www.harborfreight.com/2-hp-industrial-5-micron-dust-collector-97869.html 
+
+    *Miter Saw $499 + tax - No Shipping:*
+    http://www.homedepot.com/h_d1/N-5yc1v/R-202220984/h_d2/ProductDisplay?catalogId=10053&langId=-1&keyword=sliding+compound+miter&storeId=10051#.UKwNbKqa98E
+
+    *Portable Miter Saw Stand $199 + tax - No Shipping:* 
+    http://www.homedepot.com/h_d1/N-5yc1v/R-202935041/h_d2/ProductDisplay?catalogId=10053&langId=-1&keyword=rolling+miter+saw+stand&storeId=10051#.UNPfT29QV8E
+    **
+    **
+
+    I have had a few requests to set up an in-person meeting to answer 
+    questions on this purchase. The meeting will be held Wednesday 26 December 
+    from 5-7 pm at Heatsync.  This gives us time to work out any details and 
+    create amendments before the 7 PM deadline. Amendments contingent on the 
+    passage of Jacobs amendment reform. 
+
+    Thank you to everyone who has expressed their support and worked on this 
+    initiative! Your enthusiasm has been invaluable. I am looking forward to 
+    seeing all the amazing projects these wood shop tools will help you create. 
+
+### Discussion
 
 - **RESULT: \#FIXME#**
 
