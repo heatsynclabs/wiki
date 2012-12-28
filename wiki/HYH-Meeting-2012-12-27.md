@@ -237,7 +237,9 @@ This page was automatically copied from [HYH Meeting Template](HYH-Meeting-Templ
 
 #### Discussion
 
-- **RESULT: \#FIXME#**
+Much group cornhole regarding the state of various things online, Brian answered blhack's questions about the machines, basically everything is storaable in a small space and it shouldn't be an issue
+
+- **RESULT: 5 for, 3 against. PASS**
 
 ## Purchase Miter Saw and stand/Table Saw/Dust Collector
 
@@ -278,7 +280,9 @@ This page was automatically copied from [HYH Meeting Template](HYH-Meeting-Templ
 
 ### Discussion
 
-- **RESULT: \#FIXME#**
+The table saw purchased above will supersed the table saw in this proposal.
+
+- **RESULT: 5 for, 4 against. PASS**
 
 ## Discussion Items
 
