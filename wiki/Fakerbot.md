@@ -185,6 +185,8 @@ We will hope to keep updates here. Most recently Jacob adjusted the z and one of
 - hook up an estop or the overheat e stop I bought from makerbot
 - quick change extruder assembly
 - echangable parts to keep machine running - another extruder assembly, heated bed assembly, etc
+- need silicon grease
+- need to permanently attach back plate and hinge extrude panel
 
 # About
 
