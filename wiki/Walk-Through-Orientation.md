@@ -39,7 +39,8 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - Process Lost & Found, Broken Tools, missing consumables
   - Clean up the lab
 - To make proposals, just send an email to the google group with the word proposal in the subject.
-  - A week before the next meeting, a community member should compile proposals into an agenda for voting.
+  - A week before the next meeting, draft proposals are due and a community member should compile the proposals into an agenda for voting.
+  - Final/amended proposals are due 24 hours before the meeting.
 - Last rule the community passed: don't make us make more rules.
 
 <!-- -->
