@@ -44,7 +44,7 @@ To keep yourself, others, and the machine safe, please follow these safety rules
 - Do not open the power supply.
 - Unplug the spindle when you are not using it.
 
-## Parts of the Mill
+## [Parts of the Mill](Parts-of-the-Mill)
 
 You need to be able to identify all the following parts of the mill:
 
