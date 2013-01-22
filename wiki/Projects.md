@@ -5,7 +5,6 @@
 - [Autonomous Hexapod Robot](Autonomous-Hexapod-Robot)
 - [CNC Router](CNC-Router)
 - [LTD Stirling Engine](LTD-Stirling-Engine)
-- [Woodshop](Woodshop-Layout)
 - [3D Scanner](3D-Scanner)
 - [Fakerbot](Fakerbot)
 - [Draw Bot](Draw-Bot)
