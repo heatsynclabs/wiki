@@ -7,3 +7,41 @@ I am attempting to get all the pieces working on a personal server and on a mach
 FreeSWITCH is a component of BigBlueButton that routes SIP calls. I have it installed and routing calls between softphones, but I do not have everything working yet. I have not made a successful SIP call between two different clients, I do not have video working through FreeSWITCH (though direct dialing with Jitsi works), and I do not have ZRTP working through FreeSWITCH (again, working with direct Jitsi-to-Jitsi calls).
 
 I have just grabbed the Jitsi source code, wiped my installs, and re-verified that direct Jitsi-to-Jitsi calls have encryption and video. Now I am going to document the failures and see if I can find any useful info in the logs. Jitsi logs are pretty sparse, even with debug enabled, so I may wind up adding log statements.
+
+## Jitsi-to-Jitsi, Direct Connect, ZRTP+Video
+
+    Call information :
+     Identity : bob (RegistrarLess SIP)
+     bob@192.168.1.10 :
+     Call duration : 00:22:29
+     Audio info :
+     Media stream transport protocol : UDP / SRTP (Key exchange protocol: ZRTP AES-CM-128/DH3K)
+     Codec / Frequency : opus / 48000 Hz
+     Local IP / Port : 192.168.1.6 / 5000
+     Remote IP / Port : 192.168.1.10 / 5000
+     Bandwith : ↓ 6 Kbps ↑ 28 Kbps
+     Loss rate : ↓ 0% ↑ 0%
+     Packets decoded with FEC : 1
+     Packets currently being discarded : 0%
+     Number of discarded packets : 2 (0 late, 1 full, 0 shrink, 1 reset)
+     Adaptive jitter buffer : enabled
+     Jitter buffer : ~40ms;
+     currently in queue: 1/4 packets
+     RTT : 7 ms
+     Jitter : ↓ 2 ms ↑ 0 ms
+     Video info :
+     Media stream transport protocol : UDP / SRTP (Key exchange protocol: ZRTP AES-CM-128)
+     Video size : ↓ 640 x 480 ↑ 640 x 480
+     Codec / Frequency : H264 / 90000 Hz
+     Local IP / Port : 192.168.1.6 / 5002
+     Remote IP / Port : 192.168.1.10 / 5002
+     Bandwith : ↓ 35 Kbps ↑ 46 Kbps
+     Loss rate : ↓ 0% ↑ 0%
+     Packets decoded with FEC : 0
+     Packets currently being discarded : 0%
+     Number of discarded packets : 0 (0 late, 0 full, 0 shrink, 0 reset)
+     Adaptive jitter buffer : enabled
+     Jitter buffer : ~100ms;
+     currently in queue: 0/11 packets
+     RTT : 396 ms
+     Jitter : ↓ 2 ms ↑ 3 ms
