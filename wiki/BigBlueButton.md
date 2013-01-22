@@ -45,3 +45,27 @@ I have just grabbed the Jitsi source code, wiped my installs, and re-verified th
      currently in queue: 0/11 packets
      RTT : 396 ms
      Jitter : ↓ 2 ms ↑ 3 ms
+
+## Jitsi-to-Jitsi, Via FreeSWITCH, fail ZRTP and Video
+
+    Call information :
+     Identity : 1003@192.168.1.7 (SIP) Signalling
+     call transport : UDP
+     
+     1004@192.168.1.7 :
+     Call duration : 00:01:08
+
+     Audio info :
+     Media stream transport protocol : UDP / RTP
+     Codec / Frequency : G722 / 16000 Hz
+     Local IP / Port : 192.168.1.6 / 5028
+     Remote IP / Port : 192.168.1.7 / 31332
+     Bandwith : ↓ 68 Kbps ↑ 64 Kbps
+     Loss rate : ↓ 0% ↑ 0%
+     Packets decoded with FEC : 0
+     Packets currently being discarded : 0%
+     Number of discarded packets : 7 (0 late, 7 full, 0 shrink, 0 reset)
+     Adaptive jitter buffer : enabled
+     Jitter buffer : ~40ms;
+     currently in queue: 0/4 packets
+     Jitter : ↓ 1 ms ↑ 0 ms
