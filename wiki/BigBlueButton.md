@@ -68,4 +68,8 @@ I have just grabbed the Jitsi source code, wiped my installs, and re-verified th
      Adaptive jitter buffer : enabled
      Jitter buffer : ~40ms;
      currently in queue: 0/4 packets
-     Jitter : ↓ 1 ms ↑ 0 ms
+     Jitter : ↓ 1 ms ↑ 0 ms 
+
+## Possible Solution: FreeSWITCH: Proxy Media
+
+<http://wiki.freeswitch.org/wiki/Proxy_Media>
