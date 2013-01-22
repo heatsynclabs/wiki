@@ -73,3 +73,9 @@ I have just grabbed the Jitsi source code, wiped my installs, and re-verified th
 ## Possible Solution: FreeSWITCH: Proxy Media
 
 <http://wiki.freeswitch.org/wiki/Proxy_Media>
+
+Looking like a promising path. Proxy Media basically means, "Hey, FreeSWITCH: You're just a dumb router, not a valued participant in my telephone call."
+
+I now have made video calls from Linphone/Linux to Linphone/Cyanogenmod, and have some promising looking ZRTP (encryption) error messages connecting from Jitsi/Linux to Jitsi/OS-X.
+
+Probably no more progress for a few days, business trip.
