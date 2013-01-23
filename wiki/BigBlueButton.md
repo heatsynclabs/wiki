@@ -4,7 +4,7 @@ I am attempting to get all the pieces working on a personal server and on a mach
 
 # FreeSWITCH, Jitsi, ZRTP
 
-FreeSWITCH is a component of BigBlueButton that routes SIP calls. I have it installed and routing calls between softphones, but I do not have everything working yet. I have not made a successful SIP call between two different clients, I do not have video working through FreeSWITCH (though direct dialing with Jitsi works), and I do not have ZRTP working through FreeSWITCH (again, working with direct Jitsi-to-Jitsi calls).
+FreeSWITCH is a SIP router that is bundled with BigBlueButton. I have it installed and routing calls between softphones, but I do not have everything working yet. I have not made a successful SIP call between two different clients, I do not have video working through FreeSWITCH (though direct dialing with Jitsi works), and I do not have ZRTP working through FreeSWITCH (again, working with direct Jitsi-to-Jitsi calls).
 
 I have just grabbed the Jitsi source code, wiped my installs, and re-verified that direct Jitsi-to-Jitsi calls have encryption and video. Now I am going to document the failures and see if I can find any useful info in the logs. Jitsi logs are pretty sparse, even with debug enabled, so I may wind up adding log statements.
 
