@@ -1,14 +1,16 @@
-BigBlueButton is a video conferencing server. It is built on a collection of FLOSS projects including FreeSWITCH, which also gives it the ability to route SIP calls, giving users the ability to do text chat, VoIP, and video chat with end to end encryption.
+BigBlueButton is a video conferencing server. It is built on a collection of FLOSS projects including FreeSWITCH, which also gives it the ability to route SIP calls and XMPP sessions, giving users the ability to do text chat, VoIP, and video chat with end to end encryption.
 
 I am attempting to get all the pieces working on a personal server and on a machine at HSL. I have built up a fair bit of state, and I'm figuring to use this page for notes so I don't lose my place. Perhaps it will also act as breadcrumbs for future explorers if my attempt goes pear-shaped. :)
 
-# FreeSWITCH, Jitsi, ZRTP
+# SIP
+
+## FreeSWITCH, Jitsi, ZRTP
 
 FreeSWITCH is a SIP router that is bundled with BigBlueButton. I have it installed and routing calls between softphones, but I do not have everything working yet. I have not made a successful SIP call between two different clients, I do not have video working through FreeSWITCH (though direct dialing with Jitsi works), and I do not have ZRTP working through FreeSWITCH (again, working with direct Jitsi-to-Jitsi calls).
 
 I have just grabbed the Jitsi source code, wiped my installs, and re-verified that direct Jitsi-to-Jitsi calls have encryption and video. Now I am going to document the failures and see if I can find any useful info in the logs. Jitsi logs are pretty sparse, even with debug enabled, so I may wind up adding log statements.
 
-## Jitsi-to-Jitsi, Direct Connect, ZRTP+Video
+### Jitsi-to-Jitsi, Direct Connect, ZRTP+Video
 
     Call information :
      Identity : bob (RegistrarLess SIP)
@@ -46,7 +48,7 @@ I have just grabbed the Jitsi source code, wiped my installs, and re-verified th
      RTT : 396 ms
      Jitter : ↓ 2 ms ↑ 3 ms
 
-## Jitsi-to-Jitsi, Via FreeSWITCH, fail ZRTP and Video
+### Jitsi-to-Jitsi, Via FreeSWITCH, fail ZRTP and Video
 
     Call information :
      Identity : 1003@192.168.1.7 (SIP) Signalling
@@ -70,7 +72,7 @@ I have just grabbed the Jitsi source code, wiped my installs, and re-verified th
      currently in queue: 0/4 packets
      Jitter : ↓ 1 ms ↑ 0 ms 
 
-## Possible Solution: FreeSWITCH: Proxy Media
+### Possible Solution: FreeSWITCH: Proxy Media
 
 <http://wiki.freeswitch.org/wiki/Proxy_Media>
 
@@ -80,10 +82,36 @@ I now have made video calls from Linphone/Linux to Linphone/Cyanogenmod, and hav
 
 Probably no more progress for a few days, business trip.
 
-# ZRTP Support Notes
+## ZRTP Support Notes
 
-## Linphone
+### Linphone
 
 <https://github.com/bitzeppelin/linphone-sdk/blob/master/README.zrtp>
 
 Readme on the inclusion of GNU ZRTP in the Linphone codebase. Includes notes on enabling ZRTP at compile time. Perhaps published binaries do not include ZRTP support?
+
+# XMPP
+
+XMPP is the Jabber protocol, initially created for text chat. It has been extended to include voice and video with Jingle.
+
+## Text
+
+XMPP was originally designed for text.
+
+## Jingle
+
+Jingle is an extension to XMPP that enables voice, video, and other new features.
+
+## Voice
+
+## Video
+
+## ICE
+
+ICE is a method for negotiating NAT traversal (getting through firewalls) for clients that are using multiple channels.
+
+## Encryption
+
+ZRTP can be used with XMPP, and I think it has other options for end-to-end encryption.
+
+### ZRTP
