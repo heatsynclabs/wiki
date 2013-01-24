@@ -112,6 +112,12 @@ ZRTP can be used with XMPP, and I think it has other options for end-to-end encr
 
 ### ZRTP
 
+## OTR
+
+Off-the-Record Messaging, commonly referred to as OTR, is a cryptographic protocol that provides strong encryption for instant messaging conversations. OTR uses a combination of the AES symmetric-key algorithm, the Diffie–Hellman key exchange, and the SHA-1 hash function. In addition to authentication and encryption, OTR provides perfect forward secrecy and malleable encryption.
+
+<http://wiki.xmpp.org/web/OTR>
+
 # ICE
 
 ICE (Interactive Connectivity Establishment) is a method for negotiating NAT traversal (getting through firewalls) for clients that are using multiple channels. The core spec was designed with SIP in mind, and it now has a parallel spec in XMPP.
