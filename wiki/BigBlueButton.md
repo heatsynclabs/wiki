@@ -114,6 +114,8 @@ ZRTP can be used with XMPP, and I think it has other options for end-to-end encr
 
 # ICE
 
-ICE is a method for negotiating NAT traversal (getting through firewalls) for clients that are using multiple channels. The core spec was designed with SIP in mind, and it now has a parallel spec in XMPP.
+ICE (Interactive Connectivity Establishment) is a method for negotiating NAT traversal (getting through firewalls) for clients that are using multiple channels. The core spec was designed with SIP in mind, and it now has a parallel spec in XMPP.
+
+<http://en.wikipedia.org/wiki/Interactive_Connectivity_Establishment>
 
 <http://xmpp.org/extensions/xep-0176.html>
