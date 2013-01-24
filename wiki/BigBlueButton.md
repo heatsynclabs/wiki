@@ -106,14 +106,14 @@ Jingle is an extension to XMPP that enables voice, video, and other new features
 
 ## Video
 
-## ICE
-
-ICE is a method for negotiating NAT traversal (getting through firewalls) for clients that are using multiple channels.
-
-<http://xmpp.org/extensions/xep-0176.html>
-
 ## Encryption
 
 ZRTP can be used with XMPP, and I think it has other options for end-to-end encryption.
 
 ### ZRTP
+
+# ICE
+
+ICE is a method for negotiating NAT traversal (getting through firewalls) for clients that are using multiple channels. The core spec was designed with SIP in mind, and it now has a parallel spec in XMPP.
+
+<http://xmpp.org/extensions/xep-0176.html>
