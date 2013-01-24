@@ -79,3 +79,11 @@ Looking like a promising path. Proxy Media basically means, "Hey, FreeSWITCH: Yo
 I now have made video calls from Linphone/Linux to Linphone/Cyanogenmod, and have some promising looking ZRTP (encryption) error messages connecting from Jitsi/Linux to Jitsi/OS-X.
 
 Probably no more progress for a few days, business trip.
+
+# ZRTP Support Notes
+
+## Linphone
+
+<https://github.com/bitzeppelin/linphone-sdk/blob/master/README.zrtp>
+
+Readme on the inclusion of GNU ZRTP in the Linphone codebase. Includes notes on enabling ZRTP at compile time. Perhaps published binaries do not include ZRTP support?
