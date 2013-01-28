@@ -4,7 +4,7 @@ Also see [Past/Upcoming HYH Agendas](Category-HYH)
 
 HYH is the members' night to get stuff done around the space. It is NOT a discussion time, but a time when we gather to GET SHIT DONE and make our space better. That includes voting on proposals, helping out at the lab, helping with community projects, and planning projects.
 
-### Before the meeting:
+# Before the meeting:
 
 - Proposals for voting are posted on the email list board immediately following HYH for the next HYH period
 - Proposals locked 1 week before HYH
@@ -12,7 +12,7 @@ HYH is the members' night to get stuff done around the space. It is NOT a discus
 - Members have the ability to dismiss a proposal because they feel it's too broad and should be handled by the board
 - Proposals should be discussed in depth on the forums prior to HYH
 
-### At the meeting:
+# At the meeting:
 
 - Any member can begin the meeting promptly at 7, with or without a quorum of 8 members.
 - The first part is the vote; voting happens quickly, generally without discussion.
@@ -29,7 +29,7 @@ HYH is the members' night to get stuff done around the space. It is NOT a discus
   - Process donations
     - Organize, repair, or mark for tear-apart/recycle/throw away.
 
-### Principles of conduct for the HSL proposal procedure
+# Principles of conduct
 
 1.  Discussion
     - Within discussion, we make proposals. A proposal, is just something to consider, like a hypothesis. Proposals should be concise and clear before they are stated. We justify and criticize proposals with arguments. Arguments, like proposals, are just things to consider. We say them, and then we let them stand on their own. There is an extremely finite amount of content that needs to be stated for any given topic, so we should be extremely conservative about the number of statements we make.
