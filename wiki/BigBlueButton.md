@@ -88,7 +88,9 @@ Probably no more progress for a few days, business trip.
 
 <https://github.com/bitzeppelin/linphone-sdk/blob/master/README.zrtp>
 
-Readme on the inclusion of GNU ZRTP in the Linphone codebase. Includes notes on enabling ZRTP at compile time. Perhaps published binaries do not include ZRTP support?
+Readme on the inclusion of GNU ZRTP in the Linphone codebase. Includes notes on enabling ZRTP at compile time. Perhaps published binaries do not include ZRTP support? Confirmed -- published binaries do not have ZRTP support.
+
+Compiling with ZRTP support requires at least libzrtpcpp 2.1.2. Debian testing and sid are at 2.0.x. Debian experimental has 2.3.2. After installing libzrtpcpp2_2.3.2 and libzrtpcpp-dev_2.3.2, I finally managed to compile Linphone with ZRTP support. This is not a practical solution for most people. It may help me to validate FreeSWITCH, but as far as end-to-end encrypted comm goes, Linphone is still a work in progress.
 
 # XMPP
 
