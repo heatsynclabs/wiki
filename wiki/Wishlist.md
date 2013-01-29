@@ -14,7 +14,6 @@ Also see: [Amazon Wishlist](http://heatsynclabs.org/wishlist)
 - Paper Towels
 - USB Micro Cables - Up to 20
 - Duct Tape
-- Thumb Tack/Push Pins
 - Scissors
 
 ### Building Needs
