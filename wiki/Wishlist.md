@@ -8,12 +8,8 @@ Also see: [Amazon Wishlist](http://heatsynclabs.org/wishlist)
 - 15-25 foot VGA extension cable
 - 12m 1/2" Label Maker Tape
 - Small Broom + Dustpan
-- Chemical-Resistant Spray Bottles(won't disintegrate with alcohol)
 - Ibuprofen
-- Glade Spray for Bathroom
-- Paper Towels
 - USB Micro Cables - Up to 20
-- Duct Tape
 - Scissors
 
 ### Building Needs
