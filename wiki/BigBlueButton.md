@@ -80,7 +80,15 @@ Looking like a promising path. Proxy Media basically means, "Hey, FreeSWITCH: Yo
 
 I now have made video calls from Linphone/Linux to Linphone/Cyanogenmod, and have some promising looking ZRTP (encryption) error messages connecting from Jitsi/Linux to Jitsi/OS-X.
 
-Probably no more progress for a few days, business trip.
+### Post-Linphone Jitsi Testing
+
+#### Jitsi-to-Jitsi Direct
+
+Testing with jitsi-src-1.1.4412.10296.
+
+1\. Direct dial from Linux to Mac. 2. Initiate video from Linux side. 3. Initiate video from Mac side. 4. Both video working.
+
+1\. Direct dial from Linux to Mac. 2. Initiate video from Mac side. 3. Mac client exits abnormally.
 
 ## ZRTP Support Notes
 
