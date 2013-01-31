@@ -35,7 +35,7 @@ Project Tasks
 
 ## Local Solar Data
 
-= Solar Cell Data gathered over a 9 day period in Dec 2010 by Jasper Nance
+Solar Cell Data gathered over a 9 day period in Dec 2010 by Jasper Nance
 
 Here is the data which I double checked with a good Candian friend who has lots of experience with solar applications.
 
