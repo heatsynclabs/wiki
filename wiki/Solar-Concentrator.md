@@ -33,6 +33,25 @@ Project Tasks
 
 - Determine turbine design, configuration, linkage. Determine math to identify heat/efficiency requirements for 1KW generation. Determine if heat storage is feasible/possible. Determine working fluid, steam seems probable.
 
+## Local Solar Data
+
+= Solar Cell Data gathered over a 9 day period in Dec 2010 by Jasper Nance
+
+Here is the data which I double checked with a good Candian friend who has lots of experience with solar applications.
+
+We got 9 days worth of data (even got temperature data, it dipped to -0.8 degrees at one point. Brrr)
+
+Wsun = Vsun.\*Isun; %watts Psun = Wsun / 0.00387096; Pideal = Psun / .04; plot(Time, Pideal);
+
+max(Pideal) = 645.9 Watts per square meter. This will be clipped slightly as the current did rail.
+
+Paul gives us a sanity check (which is even closer when you realize that we railed a tiny bit on the current)
+
+I just dug out said Handbook. Interpolating Table 3.2 on page 3-16 says that at a 56 degree zenith angle the solar irradiance is 697 W/m^2. Yeah, I'd say you nailed it. ( the raw data from that table I mention is from D.M. Gates, "Spectra Distribution of Solar Radiation at the Earth's Surface," Science V.151, pp523-529, published in 1966. )
+
+![Cloudless Day](files/Heliosync_cloudless_day.png)![Cloudy Day](files/Heliosync_cloudy_day.png)\
+![Total Data](files/Heliosync_all_data.png)![Power Density Calc](files/Heliosync_power_density.png)\
+
 ## Glass Supplier Search
 
 Wright Brothers Glassworks - 623-780-4000 - has no suppliers that can offer below 1/8th thickness with low-iron glass
