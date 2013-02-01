@@ -1,4 +1,6 @@
-When the soda machine is looking like its getting empty, someone (you) needs to collect the 10 latest soda choices on the whiteboard on the soda machine. If there aren't 10, add your favorite drinks or walk around and ask others.
+'''The soda fridge, as of ~December, has been on an honors system. If you want to replenish it, its expected that you do it yourself and reimburse yourself from the jar above the fridge.
+
+Historically we have ordered soda from Kalil, and heatsync has an account with Kalil. What is written below is how to order from Kalil, but its not the only way to restock the fridge. You can do so personally as well.'''
 
 NOTES:
 
