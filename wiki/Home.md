@@ -53,7 +53,6 @@
 <ul>
 <li><a href="How-to-Run-HeatSync-Labs">How to Run HeatSync Labs</a></li>
 <li><a href="Operations-team">Operations team</a></li>
-<li><a href="Soda">Soda</a></li>
 </ul>
 <ul>
 <li>Money
