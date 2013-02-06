@@ -8,9 +8,7 @@ Also see: [Amazon Wishlist](http://heatsynclabs.org/wishlist)
 - Regular ("printer") USB cables (USB A to B)
 - 15-25 foot VGA extension cable
 - 12m 1/2" Label Maker Tape
-- Small Broom + Dustpan
 - Ibuprofen
-- Scissors
 
 ### Building Needs
 
