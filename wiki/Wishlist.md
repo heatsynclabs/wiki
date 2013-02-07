@@ -4,11 +4,10 @@ Also see: [Amazon Wishlist](http://heatsynclabs.org/wishlist)
 
 ## General Lab Needs
 
-- ~20 Micro USB cables (USB A to micro-B)
-- Regular ("printer") USB cables (USB A to B)
 - 15-25 foot VGA extension cable
 - 12m 1/2" Label Maker Tape
 - Ibuprofen
+- cups
 
 ### Building Needs
 
