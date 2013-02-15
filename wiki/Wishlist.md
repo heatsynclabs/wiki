@@ -5,7 +5,8 @@ Also see: [Amazon Wishlist](http://heatsynclabs.org/wishlist)
 ## General Lab Needs
 
 - 15-25 foot VGA extension cable
-- 12m 1/2" Label Maker Tape
+- manilla folders
+- gallon zip-lock bags
 
 ### Building Needs
 
