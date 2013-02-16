@@ -6,7 +6,6 @@ Also see: [Amazon Wishlist](http://heatsynclabs.org/wishlist)
 
 - 15-25 foot VGA extension cable
 - manilla folders
-- gallon zip-lock bags
 
 ### Building Needs
 
