@@ -32,7 +32,7 @@ Before you can use the CNC machine, you must take our CNC machine certification 
 
 Being certified on the blue manual mill is a prerequisite to being certified on the CNC mill.
 
-Each of the following sections contains lists of the things you need to know to make safe use of the machine.
+**You will need to know the information outlined in the sections titled Safety Rules, Parts of the Mill, Maintenance Tasks, Operating the Machine, and Software Toolchain.**
 
 ## Safety Rules
 
@@ -118,16 +118,12 @@ The manual for MACH3 can be downloaded here: <http://www.machsupport.com/documen
 
 There is also a printed copy in a binder at the CNC workstation.
 
-## Setup Information
+## Miscellaneous Information
 
-Put everything about how the machine should be setup here, especially the settings used in the control software.
+LinuxCNC is also installed on the computer, which is setup as a dual-boot. These are the config files:
 
 LinuxCNC Config Files
 
 [LinuxCNC Inches ini file](LinuxCNC-Inches-ini-file)
 
 [LinuxCNC Pinout](LinuxCNC-Pinout)
-
-## Tips and best practices
-
-Practice manual milling on the blue mill. Certification on the blue mill will be a prerequisite for being certified on the CNC mill.
