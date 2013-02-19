@@ -97,9 +97,12 @@ LinuxCNC Config Files
 
 At a minimum, everyone needs to have a grasp of how to use [MACH3](MACH3). The user manual can be downloaded at <http://www.machsupport.com/documentation.php>
 
-There are two CAM programs we will be providing. HSMXpress is a SolidWorks plugin for doing g-code generation from within solidworks directly on a part. The express version only comes with the documentation that is in its help file, accessed in the plugin itself.
+There are two CAM programs we will be providing:
 
-CamBam is the CAM program that can handle most everything, and the manual can be found at <http://www.cambam.info/doc/>
+- HSMXpress is a SolidWorks plugin for doing g-code generation from within solidworks directly on a part. The express version only comes with the documentation that is in its help file, accessed in the plugin itself.
+- CamBam is the CAM program that can handle most everything, and the manual can be found at <http://www.cambam.info/doc/>
+
+Both CAM programs are currently installed on the HP workstation on the large wooden table near the electronics station and laser. That computer also has Autocad, which is also very useful for designing parts.
 
 ## Tips and best practices
 
