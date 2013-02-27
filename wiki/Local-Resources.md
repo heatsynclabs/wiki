@@ -243,3 +243,7 @@ Remember, Cast acrylic is preferred for lasering. The cut makes extruded acrylic
 - lowes and home depot clear 4x2 \$22, \$26 .08 thick (2mm)
 - smallparts.com clear 1/8 x12x12" \$12+shipping
 - mcmastercarr clear 1/8 x24x24" \$20+shipping
+
+### Member Run Businesses
+
+- [HYPOXIC](http://www.gethypoxic.com/) Sells and develops solutions for cameras used in extreme sports. Provides GOPRO, Contours, camera mounts, accessories, helmets and video debriefing software. Will provide members discounts.
