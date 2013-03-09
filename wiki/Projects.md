@@ -14,6 +14,7 @@
 - [Nearspace Balloon II](Nearspace-Balloon-2)
 - [Evoked Potential Eye Mask](Evoked-Potential-Eye-Mask)
 - [Autohacking](Autohacking)
+- [Operations Software](Operations-Software)
 
 ## Inactive Projects That Need Your Help
 
