@@ -1,6 +1,6 @@
 ## Certification
 
-Before you can use the CNC machine, you must take our CNC Machine [Certification Class](Certification-Class), so you can learn all the ins and outs of our specific machine.
+Before you can use the CNC machine, you must take our **CNC Machine [Certification Class](Certification-Class)**, so you can learn all the ins and outs of our specific machine.
 
 Being certified on the blue manual mill is a prerequisite to being certified on the CNC mill.
 
