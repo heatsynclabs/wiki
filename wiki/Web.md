@@ -4,7 +4,9 @@ Source is hosted on github where you can file issues and submit changes. Actions
 
 We deploy from there to our production server with a web hit to <http://heatsynclabs.org/new-hsl/deploy.php>
 
-Flickr photo is fed by \[hslphotosync <http://www.flickr.com/photos/hslphotosync/>\]. If you want access to help clean and tag photos there, please offer. We're also going to log in a station in the lab into that account. When you find a good front page photo or want to advertise something, give it the tag 'publish' and it will automatically be used on the front page within a few minutes. (dont forget a title!)
+The old wordpress blog content is still around, now available at blog.heatsynclabs.org with all old links still valid. They're being themed by a [wordpress theme](https://github.com/heatsynclabs/new-hsl-wp) altered from the github source. Follow directions there to install.
+
+Flickr photo is fed by [hslphotosync](http://www.flickr.com/photos/hslphotosync/). If you want access to help clean and tag photos there, please offer. We're also going to log in a station in the lab into that account. When you find a good front page photo or want to advertise something, give it the tag 'publish' and it will automatically be used on the front page within a few minutes. (dont forget a title!)
 
 Calendar is fed by google calendar. There are several volunteers scheduling things based on discussion in the google groups. Ask there to schedule something, or ask to volunteer to help schedule things.
 
