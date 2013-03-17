@@ -1,4 +1,4 @@
-SHow do I add things to the heatsync website - Or, neat site, what technology did you use?
+How do I add things to the heatsync website - Or, neat site, what technology did you use?
 
 Source is hosted on github where you can file issues and submit changes. Actions speak louder than words. Shout at us with code. <https://github.com/heatsynclabs/new-hsl>
 
