@@ -210,6 +210,7 @@ See [Laser Cutter](Laser-Cutter)
 
 - Improve your skills: <http://techtv.mit.edu/genres/24-how-to/videos> (search the page for "lathe")
 - Sample project: chess pieces <http://en.wikipedia.org/wiki/File:TurnedChessPieces.jpg>
+- Basic operations: ![basic_lathing_operations.png](files/Basic_lathing_operations.png)
 
 [Heatsync_Labs_Lathe_101.doc](files/Heatsync_Labs_Lathe_101.doc)
 
