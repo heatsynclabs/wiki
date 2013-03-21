@@ -1,3 +1,5 @@
+If you're at HeatSync Labs and the loldialer isnt working, try [Loldialer_HeatSyncLabs_Config](Loldialer-HeatSyncLabs-Config)
+
 This is a horrible idea, but it must be done, or else the terrorists win.
 
 # Project Synopsis
