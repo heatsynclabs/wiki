@@ -7,6 +7,7 @@ HYH is the members' night to get stuff done around the space. It is NOT a discus
 # Before the meeting:
 
 - Proposals for voting are posted on the email list board immediately following HYH for the next HYH period
+- An [example of a card access proposal](https://groups.google.com/forum/?fromgroups=#!searchin/heatsynclabs/proposal$20brooks/heatsynclabs/Is9dKu2nL10/bpruN_vqsWUJ) may be found in the archives, but in general should stress how the person fits in the community, what projects they work on, what service they've done, and how they hold our values.
 - Proposals locked 1 week before HYH
 - Proposals should be small in scope, operational, and actionable.
 - Members have the ability to dismiss a proposal because they feel it's too broad and should be handled by the board
