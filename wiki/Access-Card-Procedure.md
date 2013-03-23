@@ -3,6 +3,7 @@
 ### New Member
 
 - Members can receive cards when approved by a majority vote of members at an operations meeting ("Hack your Hackerspace" night.) Ensure their card access proposal is posted publicly via email (subject prefix "Proposal:") at least 1 week prior to the meeting.
+  - An [example of a proposal](https://groups.google.com/forum/?fromgroups=#!searchin/heatsynclabs/proposal$20brooks/heatsynclabs/Is9dKu2nL10/bpruN_vqsWUJ) may be found in the archives, but in general should stress how the person fits in the community, what projects they work on, what service they've done, and how they hold our values.
 - Login to [hsl-access](Hsl-access) via SSH
 - Run minicom
   - If you haven't set your settings yet, it must be /dev/ttyUSB0 57600 8N1.
