@@ -2,7 +2,7 @@
 
 The Ultimaker is our wonderful fancy Dutch 3D printer. Much like their shoes, the Dutch chose to build the 3D printer using a wood frame. Using the Ultimaker isn't entirely difficult, it just takes a quick walkthrough to get it running.
 
-We are currently using Repetier-Host for our slicing due to a lot of cool features which ReplicatorG doesn't quite have yet.
+We are currently using Cura for our slicing.
 
 ## Getting your STL
 
@@ -18,22 +18,19 @@ OpenSCAD natively exports STL files after building. Construct your model, and th
 
 ## Slicing
 
-Slicing is what turns the STL model (consisting of a list of the triangles in the model), into a list of commands that the printer understands. This list is called [GCode](http://linuxcnc.org/docs/html/gcode/overview.html). Particularly, Repetier uses a program called Slic3r (or Skeinforge for advanced users) internally to do the slicing.
+Slicing is what turns the STL model (consisting of a list of the triangles in the model), into a list of commands that the printer understands. This list is called [GCode](http://linuxcnc.org/docs/html/gcode/overview.html).
 
-- Open the model in Repetier and hit F2 to load your file
-- ![](files/Repetier1.png)
-  *Make sure your model looks correct*
-
+- Open the model in Cura by double clicking on it
+- Here you can rotate, move, and resize the model,
   - Your model will print as it appears in the build preview. Make sure that it is centered and on the build platform, laying flat, using the move, rotate and resize tools.
   - If your print has crazy overhangs or intricate details, it may **not** print well on our machine. :(
-- Switch to 'Slic3r' in the right hand portion of the build tool
-- Select your print profile; You'll probably want to be using the 'NORMAL' profile.
-  - This profile fixes a lot of issues we had with the other profiles and will be most up to date.
-    - 10% infill
-    - Retract settings to minimize the amount of stringing when printing towers
-    - Default nozzle temp of 230C to ensure that plastic can flow at high speeds
-- Click the giant "Slice with Slic3r" button.
-  - If it says "Slice with Skeinforge", click the little Red button labeled "active" in the slice3r section.
+- Select quickprint mode by going to Tools \> Switch to quickprint
+- Select your print profile; You'll probably want to be using the 'Normal quality print' profile.
+  - If you want more control, you can go to Tools \>Swithc to full settings...
+
+<!-- -->
+
+- Click the "Prepare print" button.
 - Click OK and your file will be sliced
 
 ### Adjusting print profile settings
