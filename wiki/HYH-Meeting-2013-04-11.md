@@ -17,7 +17,7 @@
 - Alisa needs help on the front windows. Will will take out old computer from front window. Marita will help Alisa paint and create tetris shelves. Austin will help mount the whiteboard.
 - Marita will get more bottled water.
 
-=== Toxic Waste dropoff ==
+### Toxic Waste dropoff
 
 - Need help taking toxic waste to Mesa collection event on April 20 before noon. <http://www.mesaaz.gov/waste/hhw.aspx>
 
