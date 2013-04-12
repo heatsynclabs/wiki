@@ -29,18 +29,5 @@
 
 - Replacing Kalil fridge by Will - withdrawn as it seems we are currently using Kalil's services.
 
-## Discussion Items
-
-If an item of discussion drags on too long, further discussion may be postponed until after the meeting ends.
-
-During discussion, it is not necessary to write down exactly what each person says. Record the topics of discussion, and any items of consensus or controversy here. Detailed descriptions of the conversation should go on the discuss page for this meeting.
-
-# End of Meeting
-
-- Delete the "Instructions" section at the top of this page.
-- Delete this section.
-- Post the notes to the wiki
-- Discuss any items for which there was not enough time during the meeting
-
 ---
 *Categories: [HYH](Category-HYH), [Meetings](Category-Meetings)*
