@@ -9,7 +9,7 @@ NAME AND PURPOSE
 ==
 
 1.  The name of this organization shall be known as HeatSync Labs.
-2.  The purpose of HeatSync Labs (herein referred to as “HSL”) shall be to provide a physical environment for the discussion, planning, and construction of collaborative endeavors in the application of technology as well as technological expressions of artwork.
+2.  The purpose of HeatSync Labs (herein referred to as “HSL”) shall be to provide a physical space for members and the public to work on projects (especially projects involving physical creation) and to facilitate relevant education, discussion, collaboration, and planning.
 
 ==
 
@@ -23,7 +23,7 @@ ORGANIZATION
 
 1.  HSL shall be governed by a body of officers henceforth known as the Board of Directors. The Board of Directors shall exercise authority to enact its decisions upon the membership. Offices of the Board of Directors will be distinguished according to a particular operational task in a flat hierarchy. Definitive authority shall be given to no office in particular, but to a majority vote of a quorum of voting officers. These offices established will include, but are not limited to, the following:
     1.  **Champion**: The office of Champion shall be responsible for coordinating tasks between each office of the Board of Directors, assisting HSL membership in membership-related tasks, and enforcing the bylaws. This office may be occupied by multiple officers, the total of which may not exceed two. Each officer will receive a full vote on the Board of Directors.
-    2.  **Treasurer**: The office of Treasurer shall be responsible for managing financial assets and liabilities and collecting membership dues, donations, and other revenue.
+    2.  **Treasurer**: The office of Treasurer shall be responsible for managing financial assets and liabilities and collecting membership dues, donations, and other revenue. This office may be occupied by multiple officers, the total of which may not exceed two. Each officer will receive a full vote on the Board of Directors.
     3.  **Secretary**: The office of Secretary shall be responsible for recording the proceedings of HeatSync Lab functions, such as events, fundraiser, and other official activities. Additionally, the office of the Secretary shall be responsible for the oversight of all records and papers produced in HSL's operations.
     4.  **Operations**: The Office of Operations shall be responsible for the oversight of HSL operations and delegation of operational tasks to HSL volunteers.
 2.  Each officer in the Board of Directors must be elected into office by a majority election of voting HSL members for a term of one (1) year. Interim-officers may be elected into office by the Board of Directors under the conditions described in Article II, Section 7. An officer may serve an unlimited number of terms.
@@ -32,7 +32,7 @@ ORGANIZATION
 5.  For elections pertaining to an office which allows the election of multiple officers in its office, an explicit “ABSTAIN” vote may be accounted as a vote of no confidence for any candidate, and shall be counted no differently than a vote for a candidate, which an election victory for abstain votes resulting in an office vacancy.
 6.  An officer may resign from an office upon the receipt of physically or electronically written notice of said resignation to the remaining officers of the Board of Directors.
 7.  In the event that an officer of the Board of Directors becomes incapacitated, deceased, zombified, becomes a vampire, or resigns from office, a quorum of remaining officers in the Board of Directors shall elect a replacement interim-officer at the Board of Directors meeting following the resignation. An interim-officer's term shall be effective from the day of election by the Board of Directors to the remainder of the outgoing officer's elected term.
-8.  An officer of the Board of Directors may be removed from office by the unanimous vote of the remaining officers in a Board of Directors meeting if it the officer in question is found to be in violation of the bylaws, fails to fulfill office responsibilities, or is found in breach of the laws of Maricopa County, the State of Arizona, the United States Federal Government, the Geneva Convention, or the United Federation of Planets.
+8.  An officer of the Board of Directors may be removed from office by the unanimous vote of the remaining officers in a Board of Directors meeting, or by a majority vote of all dues-paid members. A special election must be held within 60 days to elect a replacement according to normal election procedures.
 9.  The Board of Directors shall convene once a year on the first member meeting in April to conduct business and enact decisions regarding the operations and administration of HSL.
 10. Ad-hoc committees of members may be established by an office of the Board of Directors for any purpose relevant to the responsibilities of that office. Members of that committee may be appointed or removed at the discretion of the office that created it.
 11. All monetary expenditures provisioned by HSL's treasury will require the written signature of a minimum of two officers of the Board of Directors for approval.
@@ -69,11 +69,10 @@ MEMBERSHIP
 
 1.  Membership in HSL shall be open to anyone in the community with a genuine interest in the HSL's purpose, and shall not be discriminated against on the basis of color, race, gender, national origin, religion, creed, political affiliation/orientation, sexual preference/orientation, age, disability, software preference, or veteran status.
 2.  Members have the right to a single vote for each office in the Board of Directors in the annual election of the Board of Directors and any rights inherited in membership for an Arizona Nonprofit Organization.
-3.  Members have the right to access HSL-owned equipment designated for membership use when said equipment is not in use by another member, has been loaned for use to a partnering organization, is inaccessible due to the equipment location's hours of operation, or has been designated out of operation by an officer of the Board of Directors.
-4.  Membership may be terminated by a majority vote of the Board of Directors in the event that the Board of Directors has found the member in question to be in violation of these bylaws, or place HSL members or assets at risk.
-5.  Members may terminate their membership at any time for any particular reason by submitting written notice to the Board of Directors and will be required to pay the full sum of their dues for the month that they terminated their membership.
-6.  Members may accompany guests in areas designated for HSL membership, however, guests may not access or operate HSL-owned equipment designated for membership use unless said equipment has been loaned to a partnering organization that the guest is member of.
-7.  Basic membership may be granted for a period of three months to persons of the community that the Board of Directors declare recognize as having made a significant contribution to the assets of HSL. This program shall be entitled the "Quarterly Scholarship." The Quarterly Scholarship may only be issued to the same person once in a 3-month period and must be awarded by a majority vote of the Board of Directors.
+3.  Membership may be terminated by a majority vote of the Board of Directors in the event that the Board of Directors has found the member in question to be in violation of these bylaws, or place HSL members or assets at risk.
+4.  Members may terminate their membership at any time for any particular reason by submitting written notice to the Board of Directors and will be required to pay the full sum of their dues for the month that they terminated their membership.
+5.  Members may bring guests to HSL and guests may use HSL tools, however all parties involved must have completed a liability waiver and all guests must be adequately supervised by the member who brought them.
+6.  Basic membership may be granted for a period of three months to persons of the community that the Board of Directors declare recognize as having made a significant contribution to the assets of HSL. This program shall be entitled the "Quarterly Scholarship." The Quarterly Scholarship may only be issued to the same person once in a 3-month period and must be awarded by a majority vote of the Board of Directors.
 
 ==
 
