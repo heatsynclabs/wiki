@@ -18,6 +18,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
     - \$100: Same as \$50 but locker instead of box
   - Explain the how they can get a card.
     - Privilege based on trust, not a right. Come during public hours, make friends, ask for proposal, gets voted on during HYH. If you can't come in during public hours, make friends online and ask for favors. It's tough but we're a community not a business.
+  - Member money helps us pay the rent, but members still need to help clean, maintain, help others, and participate in our self-governance otherwise our co-op model won't work.
 - Guest sponsorships
   - Keep an eye on your guests; if you're up front and they're in back breaking a tool, that's not good.
 - Public/private space
@@ -49,7 +50,8 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - Members often teach classes. You can too, if you have a skill you want to share, you don't need to ask permission to teach a class.
 - Generally speaking, ask another member prior to using a tool you haven't used in the lab before. We do things differently than at your home, ask so you know how to use OUR tools right.
 - Tools and workstations should be kept usable, operable, complete, and clean.
-  - If you use a lot of consumables, consider replacing them. We currently have no budgets or caretakes for consumables.
+  - If you use a lot of consumables, consider replacing them. We currently have no budgets or caretakers for consumables.
+    - Exception: the tear apart bins and scrap; feel free to use, but no need to replace.
   - Don't render a tool unusable just because you needed to borrow a cable from it, or because you left it a mess.
   - If a tool breaks, put it into the broken tools bin, let people know about it, look into replacement.
 
