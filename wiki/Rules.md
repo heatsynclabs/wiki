@@ -303,7 +303,7 @@ HeatSync Training required for use
 
 #### Getting Started Resources
 
-If you'd like to use the CNC Mill, we are still working on a class but we have identified some things you'll need to learn first. So, you can get started right now on your own!
+If you'd like to use the CNC Mill, we are still working on a class but we have identified some things you'll need to learn first. So, you can get started right now on your own! **Keep in mind these are intended as e-learning preparation for an eventual class, not as a substitute for hands-on training.**
 
 1.  Multiple hours of Mill and 3D printer experience will be invaluable if not mandatory, because all the "gotchas" of both machines are present in a CNC Mill.
 2.  Ability to read G-code and M-code. The codes scroll by as the mill runs your program, and if there's any problem you'll need to have a basic understanding in order to troubleshoot things. There's only a couple dozen, so it's not too hard.
