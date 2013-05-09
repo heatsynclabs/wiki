@@ -324,7 +324,7 @@ If you'd like to use the CNC Mill, we are still working on a class but we have i
 
 ### Welder
 
-HeatSync Training required for use  
+HeatSync Training, or other formal training plus a basic HSL "test-out", required for use  
 
 - Welding emits dangerous levels of visible and invisible wavelength light, use of TIG-approved goggles/helmet and only TIG-approved goggles/helmet is necessary when TIG welding
   - Acetylene goggles are dangerous to use on TIG welders
