@@ -321,6 +321,8 @@ If you'd like to use the CNC Mill, we are still working on a class but we have i
       - <https://www.google.com/search?q=hsmxpress+tutorial>
       - <http://www.instructables.com/id/From-SketchUp-to-CNC-Fabrication/>
 4.  Try using Mach3 - it's the program that directly controls the CNC machine based on the GCode you've made - free trial from here: <http://www.machsupport.com/>
+    - Starter resources:
+      - <http://www.machsupport.com/forum/index.php?action=dlattach;topic=19539.0;attach=27992>
 
 ### Welder
 
