@@ -141,6 +141,8 @@ Types of rules to consider implementing: - Preventing injury to the operator and
 
 ## Equipment Use Guidelines
 
+Ask another member before using an HSL tool for the first time; everyone knows how to use a screwdriver, but our shop is different from your garage; just ask and you won't accidentally violate unwritten shop etiquette.
+
 ### General Hand Tools
 
 - Use these tools only for their intended purposes.
