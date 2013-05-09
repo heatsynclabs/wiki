@@ -301,6 +301,23 @@ HeatSync Training required for use
 - DO NOT hand-edit your G-code programs.
 - TODO: Add more safety & maintenance rules
 
+#### Getting Started Resources
+
+If you'd like to use the CNC Mill, we are still working on a class but we have identified some things you'll need to learn first. So, you can get started right now on your own!
+
+1.  Multiple hours of Mill and 3D printer experience will be invaluable if not mandatory, because all the "gotchas" of both machines are present in a CNC Mill.
+2.  Ability to read G-code and M-code. The codes scroll by as the mill runs your program, and if there's any problem you'll need to have a basic understanding in order to troubleshoot things. There's only a couple dozen, so it's not too hard.
+    - Some starter resources I found while googling:
+      - <http://www.cnccookbook.com/CCCNCGCodeRef.html>
+      - <http://www.cnccookbook.com/CCCNCGCodeCourse.htm>
+      - <http://www.youtube.com/results?search_query=CNC+Basics+E-Course>
+      - <http://www.youtube.com/results?search_query=cnc+g-code>
+3.  Try using CAD/CAM programs like Solidworks with HSMXpress, or other CAD programs with CamBam, to design a part and generate GCode for it.
+    - Some starter resources:
+      - <https://www.google.com/search?q=hsmxpress+tutorial>
+      - <http://www.instructables.com/id/From-SketchUp-to-CNC-Fabrication/>
+4.  Try using Mach3 - it's the program that directly controls the CNC machine based on the GCode you've made - free trial from here: <http://www.machsupport.com/>
+
 ### Welder
 
 HeatSync Training required for use  
