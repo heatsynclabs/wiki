@@ -166,6 +166,8 @@ See [Laser Cutter](Laser-Cutter)
 
 ### Metalworking Tools
 
+- HeatSync Training, or other formal training plus a basic HSL "test-out", required for use.
+
 <table style="width:11%;">
 <colgroup>
 <col style="width: 4%" />
