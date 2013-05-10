@@ -17,9 +17,9 @@ Facilities
 - Metal Shop
   - Jasper N
 - Wood Shop
-  - VACANT
+  - Brian A
 - 3D Printing
-  - Ryan R
+  - Prescott, Nate P, and Moheeb
 - Electronics
   - Jacob R
 - Microcontrollers
@@ -29,19 +29,16 @@ Facilities
   - Ryan M
 - IT, AV and Doors
   - Will B
-  - Ryan R
   - Jeremy L
   - Nate P
+- Sewing
+  - Alyson Z
+  - Jennifer P
 
 Website Programming
 
 - Will B
-- Ryan R
-
-Blogging
-
-- Jacob R
-- VACANT
+- Blaine B
 
 Social Media
 
@@ -50,7 +47,6 @@ Social Media
 
 Photography
 
-- Ryan R
 - VACANT
 
 Design
