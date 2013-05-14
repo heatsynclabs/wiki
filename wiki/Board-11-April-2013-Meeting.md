@@ -8,68 +8,6 @@ Heatsync Labs
 
 Mesa, AZ 85201
 
-\[ Location\]
-
-\[ Announcements\]
-
-\[ Call to Order\]
-
-\[ Roll Call\]
-
-\[ Guests\]
-
-\[ Approval of Previous Meeting Minutes\]
-
-\[ Old Business\]
-
-\[ New Business\]
-
-\[ Comments from Members (1 Minute)\]
-
-\[ Officer Reports\]
-
-\[ Motions\]
-
-\[ BYLAW CHANGES:\]
-
-\[ AMEND FROM\]
-
-\[ DISCUSSION:\]
-
-\[ VOTE:\]
-
-\[ AMEND s4.6 FROM:\]
-
-\[ DISCUSSION:\]
-
-\[ VOTE:\]
-
-\[ AMEND s2.8 FROM:\]
-
-\[ DISCUSSION:\]
-
-\[ VOTE:\]
-
-\[ AMEND s1.2 FROM:\]
-
-\[ DISCUSSION:\]
-
-\[ VOTE:\]
-
-\[ AMEND s5.3 FROM:\]
-
-\[ DISCUSSION:\]
-
-\[ VOTE:\]
-
-\[ AMEND s5.2 FROM:\]
-
-\[ DISCUSSION:\]
-
-\[ VOTE:\]
-
-\[ Adjourn\]
-
 # Announcements
 
 Last year a decision was made to only run meetings once a year.
