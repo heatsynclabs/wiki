@@ -6,7 +6,6 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - Wiki
   - [Faq](Faq)
 - [Liability Waiver](Liability-Waiver)
-  - Check government photo ID & over 18
 
 <!-- -->
 
@@ -51,7 +50,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - Generally speaking, ask another member prior to using a tool you haven't used in the lab before. We do things differently than at your home, ask so you know how to use OUR tools right.
 - Tools and workstations should be kept usable, operable, complete, and clean.
   - If you use a lot of consumables, consider replacing them. We currently have no budgets or caretakers for consumables.
-    - Exception: the tear apart bins and scrap; feel free to use, but no need to replace.
+    - Exception: the tear apart bins and scrap; feel free to use for good projects, but no need to replace.
   - Don't render a tool unusable just because you needed to borrow a cable from it, or because you left it a mess.
   - If a tool breaks, put it into the broken tools bin, let people know about it, look into replacement.
 
@@ -59,7 +58,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 
 - Location of thermostat, TV, lock/unlock tablet
 - Explain stations & tools
-  - Include sewing, A/V computer, tear apart, upstairs storage/music, safety equipment
+  - Include sewing, camera which uploads to flickr, A/V computer, tear apart, upstairs storage/music, safety equipment
 - Location and usage of fire extinguishers & first aid kit & liability waivers
 
 <!-- -->
