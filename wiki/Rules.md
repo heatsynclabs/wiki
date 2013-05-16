@@ -297,6 +297,7 @@ HeatSync Training, or other formal training plus a basic HSL "test-out", require
 
 ### CNC Mill
 
+See [CNC Mill](CNC-Mill)\
 HeatSync Training, or other formal training plus a basic HSL "test-out", required for use  
 
 - Mill rules apply to CNC Mill
