@@ -1,3 +1,5 @@
+See [CNC Mill Notes](CNC-Mill-Notes) for notes made in preparation for teaching a class.
+
 ## Certification
 
 Before you can use the CNC machine, you must take our **CNC Machine [Certification Class](Certification-Class)**, so you can learn all the ins and outs of our specific machine.
