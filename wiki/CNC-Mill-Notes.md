@@ -5,7 +5,46 @@
 - Contact MCC instructors or retirees? summer?
 - Enhance safety signage and plastic shield
 
-### Notes
+### Maintenance Responsibilities
+
+- fixing problems
+- answering questions
+- engaging professionals, local students to help absorb the class and maintenance workload
+- keeping accountability / ownership (card access control?)
+- define default configurations, write scripts to help automate
+- create a checklist for posting at the tool before usage
+
+### Class Ideas
+
+- prerequisite: mill and 3d printer
+- demonstrate skill? make a gauge block?
+- do we teach operator versus programmer versus designer? teach a combination of all three?
+- must know how to read g-code to manually verify validity, or identify problems.
+- identify workflow – solidworks/autocad, hsm express versus other cad/cambam. Mach3, CNC.
+- possibly distribute materials to study – written – and then only do one-on-one instruction afterwards.
+- there's a relatively high barrier to entry – cost, time, approval
+- regular meetups might be a good idea to establish a CNC community, reach critical mass, and get community participation instead of offering a “class” per se
+- option to outsource to MCC? We'd have to write up which classes to take
+- create a class waiting/signup list?
+- class sizes should be small, 1-3 people, and customized to each student. Probably about 10 hours of instruction per person.
+
+### Class Outline
+
+- feeds/speeds/flutes
+- changing belts
+- touching off
+- changing tools, setting up tools
+- clamping/vice/mounting
+- materials
+- safety issues incl. Earplugs, e-stops, spindle stops, vices
+- g-code/m-code (study simulator?)
+- make a standardized part within spec – demo corners, radiuses, directions, up/down/drill/mill
+- write g-code? Create in CAD/CAM?
+- go over each tool and run part – teach in three stages: explain/watch, instruct/do, do/verify
+- touch off part, correct height, offset by appropriate value (quick change height issues)
+- jog, change jog speed, change feed rate during cut, diagnose surface quality issues, diagnose diagnoal x/y issues
+
+### Mill Notes (source material for class)
 
 Mill needs:
 
