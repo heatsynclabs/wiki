@@ -1,5 +1,3 @@
-## Breadboard Examples
-
 Shiftout Example: Arduino code here [1](http://arduino.cc/en/Tutorial/ShiftOut)
 
 555 Timer Example
