@@ -27,24 +27,28 @@ Slicing is what turns the STL model (consisting of a list of the triangles in th
 - Select 'Switch to full settings' on the tools menu. This allows you to select the print profile for the filament you are using
 - Select 'Open Profile' on the 'File' menu and navigate to the 'Downloads' folder. Choose the \*.ini file for the color filament you are using e.g. 'silver_pla_cura.ini'
 - Each filament has different properties and needs different settings, mainly diameter, flow %, temperature, and retraction distance.
-  - If you want more control, you can go to Tools \>Swithc to full settings...
+  - Leave those settings as they are, but feel free to adjust fill density, support, etc. as needed
+- Cura has many helpful view modes, available in the upper right corner of the screen
+  - 'Layers' allows you to preview how it will print, layer by layer, showing shells, fill, support, etc. in different colors
+  - 'Overhang' highlights overhanging areas in red, suggesting the need for support
 
 <!-- -->
 
-- Click the "Prepare print" button.
-- Click OK and your file will be sliced
+- Click the "Save Toolpath" button (floppy disk icon) to save the gcode to the SD card.
 
 ### Adjusting print profile settings
 
 If those defaults don't make sense to you for some reason (You're printing a structural piece for example and need a stronger infill) you can adjust the settings, but realize that will probably affect print time and final weight and will make Baby Jesus cry.
 
-If you click the "Setup" button while Slic3r is active, you can tweak all of the profile settings.
-
-**DO NOT OVERWRITE NORMAL!**
+**DO NOT OVERWRITE DEFAULT PROFILES!**
 
 Please name your profile in the following format: TMP \$YOURNAME \$REMINDER or \$YOURNAME \$REMINDER, where reminder is something like 10% or hollow infill, or something like that so that you don't forget. Temporary profiles may be deleted when I am cleaning the machine up, UM profiles will stay.
 
 ## Getting GCode on the Printer
+
+- Pull the SD card out of the left side of the UltiController and put it in the computer
+- In Cura, Click the "Save Toolpath" button (floppy disk icon) to save the gcode to the SD card.
+- Put the SD card back in to the printer.
 
 Our UltiMaker has an [UltiController](https://shop.ultimaker.com/en/parts-and-upgrades/ulticontroller-ultipanel.html) installed on it, a marvel of Dutch engineering which allows you to, using the amazing power of LCD displays and Secure Digital cards control the printer without the use of a PC computer. While this may sound limiting, there are huge benefits to printing this way:
 
@@ -52,10 +56,6 @@ Our UltiMaker has an [UltiController](https://shop.ultimaker.com/en/parts-and-up
 - Prints can pause or hang due to high load on the computer causing an interrupt in USB serial communications. This usually ends up with nasty globs of plastic on the model or, commonly, print failures.
 
 Seriously follow this, don't use USB serial. It's just as easy and less painful.
-
-- Pull the SD card out of the left side of the UltiController and put it in the computer
-- Click Save Job at the top of the window and save the generated GCode to the SD card. Leave any checked or unchecked boxes on the export dialog how they current are.
-- Put the SD card back in to the printer.
 
 ## Print
 
