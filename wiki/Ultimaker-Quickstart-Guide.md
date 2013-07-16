@@ -8,7 +8,7 @@ We are currently using Cura for our slicing.
 
 If you're downloading your model from [Thingiverse](http://thingiverse.com), it'll probably have an STL file available. If they don't, match their file types with the sections below, or [ask the internet](http://google.com).
 
-The Ultimaker slicing programming (Repetier-Host) will only import STL files currently. Getting STLs out of your program of choice depends on your program of choice. If yours is not documented [ask the internet](http://google.com) and then document it here.
+The Ultimaker slicing programming (Cura) will only import STL files currently. Getting STLs out of your program of choice depends on your program of choice. If yours is not documented [ask the internet](http://google.com) and then document it here.
 
 Place your downloaded STL on the HSL [3D Printing Station Computer](3D-Printing-Station-Computer) in the Downloads/ folder, in a directory with Your Name. Files floating around freely in Downloads will be mercilessly deleted.
 
@@ -24,8 +24,9 @@ Slicing is what turns the STL model (consisting of a list of the triangles in th
 - Here you can rotate, move, and resize the model,
   - Your model will print as it appears in the build preview. Make sure that it is centered and on the build platform, laying flat, using the move, rotate and resize tools.
   - If your print has crazy overhangs or intricate details, it may **not** print well on our machine. :(
-- Select quickprint mode by going to Tools \> Switch to quickprint
-- Select your print profile; You'll probably want to be using the 'Normal quality print' profile.
+- Select 'Switch to full settings' on the tools menu. This allows you to select the print profile for the filament you are using
+- Select 'Open Profile' on the 'File' menu and navigate to the 'Downloads' folder. Choose the \*.ini file for the color filament you are using e.g. 'silver_pla_cura.ini'
+- Each filament has different properties and needs different settings, mainly diameter, flow %, temperature, and retraction distance.
   - If you want more control, you can go to Tools \>Swithc to full settings...
 
 <!-- -->
