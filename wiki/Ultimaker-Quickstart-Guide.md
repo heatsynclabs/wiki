@@ -31,6 +31,7 @@ Slicing is what turns the STL model (consisting of a list of the triangles in th
 - Cura has many helpful view modes, available in the upper right corner of the screen
   - 'Layers' allows you to preview how it will print, layer by layer, showing shells, fill, support, etc. in different colors
   - 'Overhang' highlights overhanging areas in red, suggesting the need for support
+  - 'Normal' allows for resizing and rotating the object
 
 <!-- -->
 
