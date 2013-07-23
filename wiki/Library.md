@@ -1,9 +1,15 @@
-| Title | ISBN | Author | Genre | Year | Donor | Owner | Publisher |
+| Department | ISBN | Title | Author | Publisher | Year | Edition | URL |
 |----|----|----|----|----|----|----|----|
-| A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing | 0-393005782-8 | Malkiel, Burton G. | Nonfiction | 2003 | Jeremy Leung | <http://www.worldcat.org/oclc/300982884?referer=xid> |  |
-| CCNA Virtual Lab, Platinum Edition w/CD | 0-7821-3037-2 | Lammle, Todd, Tedder, William | Reference | 2003 |  |  | Sybex |
-| College Algebra, Third Edition | 0-13-101365-3 | Blitzer, Robert | Textbook | 2004 |  |  |  |
-|  |  |  |  |  |  |  |  |
+| Electronics | 9780131911543 | Circuit theory | William D. Hunt, Russell Mesereau. | Prentice Hall | 2005 |  | <http://www.worldcat.org/oclc/58555208?referer=xid> |
+| Electronics | 9780750689717 | Complete PCB design using OrCAD Capture and PCB editor | Kraig Mitzner. | Newnes/Elsevier | 2009 |  | <http://www.worldcat.org/oclc/300982884?referer=xid> |
+| Electronics | 9781558607354 | Foundations of analog and digital electronic circuits | Anant Agarwal and Jeffrey H. Lang. | Elsevier \[u.a.\] | 2005 | 3rd print. | <http://www.worldcat.org/oclc/253727636?referer=xid> |
+| Electronics | 9780827358256 | Industrial electronics | James T. Humphries, Leslie P. Sheets. | Delmar Publishers | 1993 | 4th ed. | <http://www.worldcat.org/oclc/26502351?referer=xid> |
+| Electronics | 9780596153748 | Make: electronics : learning by discovery | Charles Platt with photographs and illustrations by the author. | O'Reilly | 2009 | 1st ed. | <http://www.worldcat.org/oclc/436264426?referer=xid> |
+| Electronics | 9780071452816 | Practical electronics for inventors : \[new sections on: test equipment, tools, remote cotnrol, object-oriented microcontrollers, modern computers, transducers, sample projects\] | Paul Scherz. | McGraw-Hill | 2007 | 2nd ed. | <http://www.worldcat.org/oclc/254680964?referer=xid> |
+| Electronics | 9780750663700 | The circuit designer's companion | Tim Williams. | Elsevier/Newnes | 2004 | 2nd ed. | <http://www.worldcat.org/oclc/162591351?referer=xid> |
+| Main | 9780393313697 | 101 unuseless Japanese inventions : the art of chindogu | Kenji Kawakami ; translated by and additional text by Dan Papia ; edited by Hugh Fearnley-Whittingstall. | W.W. Norton | 1995 | 1st American ed. | <http://www.worldcat.org/oclc/33858912?referer=xid> |
+| Main | 9781449303235 | 25 recipes for getting started with R | Paul Teetor. | O'Reilly Media |  | 1st ed. | <http://www.worldcat.org/oclc/742510679?referer=xid> |
+| Main | 9780596001834 | 802.11 Wireless Networks : the definitive guide : \[creating and administering Wireless Networks\] | Matthew S. Gast. | O'Reilly | 2002 | 1\. ed. | <http://www.worldcat.org/oclc/248668053?referer=xid> |
 
 |  |  |  |  |  |  |  |  |
 |:---|:---|:---|:---|:---|:---|:---|:---|
