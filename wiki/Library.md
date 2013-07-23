@@ -1,6 +1,6 @@
 ## **HeatSync Labs Library**
 
-**'Updated: July 19, 2013**'
+*Updated: July 19, 2013*
 
 | Department | ISBN | Title | Author | Publisher | Year | Edition | URL |
 |----|----|----|----|----|----|----|----|
