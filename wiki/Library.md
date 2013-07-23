@@ -5,11 +5,16 @@
 | Electronics | 9781558607354 | Foundations of analog and digital electronic circuits | Anant Agarwal and Jeffrey H. Lang. | Elsevier \[u.a.\] | 2005 | 3rd print. | <http://www.worldcat.org/oclc/253727636?referer=xid> |
 | Electronics | 9780827358256 | Industrial electronics | James T. Humphries, Leslie P. Sheets. | Delmar Publishers | 1993 | 4th ed. | <http://www.worldcat.org/oclc/26502351?referer=xid> |
 | Electronics | 9780596153748 | Make: electronics : learning by discovery | Charles Platt with photographs and illustrations by the author. | O'Reilly | 2009 | 1st ed. | <http://www.worldcat.org/oclc/436264426?referer=xid> |
-| Electronics | 9780071452816 | Practical electronics for inventors : \[new sections on: test equipment, tools, remote cotnrol, object-oriented microcontrollers, modern computers, transducers, sample projects\] | Paul Scherz. | McGraw-Hill | 2007 | 2nd ed. | <http://www.worldcat.org/oclc/254680964?referer=xid> |
+| Electronics | 9780071452816 | Practical electronics for inventors | Paul Scherz. | McGraw-Hill | 2007 | 2nd ed. | <http://www.worldcat.org/oclc/254680964?referer=xid> |
 | Electronics | 9780750663700 | The circuit designer's companion | Tim Williams. | Elsevier/Newnes | 2004 | 2nd ed. | <http://www.worldcat.org/oclc/162591351?referer=xid> |
 | Main | 9780393313697 | 101 unuseless Japanese inventions : the art of chindogu | Kenji Kawakami ; translated by and additional text by Dan Papia ; edited by Hugh Fearnley-Whittingstall. | W.W. Norton | 1995 | 1st American ed. | <http://www.worldcat.org/oclc/33858912?referer=xid> |
 | Main | 9781449303235 | 25 recipes for getting started with R | Paul Teetor. | O'Reilly Media |  | 1st ed. | <http://www.worldcat.org/oclc/742510679?referer=xid> |
-| Main | 9780596001834 | 802.11 Wireless Networks : the definitive guide : \[creating and administering Wireless Networks\] | Matthew S. Gast. | O'Reilly | 2002 | 1\. ed. | <http://www.worldcat.org/oclc/248668053?referer=xid> |
+| Main | 9780596001834 | 802.11 Wireless Networks : the definitive guide | Matthew S. Gast. | O'Reilly | 2002 | 1\. ed. | <http://www.worldcat.org/oclc/248668053?referer=xid> |
+| Main | 9780201546101 | A discipline for software engineering | Watts S. Humphrey. | Addison-Wesley | 1997 | 6\. print. | <http://www.worldcat.org/oclc/245859102?referer=xid> |
+| Main | 9781558507289 | Adams Streetwise independent consulting | David Kintler with Bob Adams. | Adams Media Corp. | 1998 |  | <http://www.worldcat.org/oclc/37712902?referer=xid> |
+| Main | 9780201658910 | Adobe After Effects 4. | \[Adobe Systems Incorporated, San Jose, California\]. | Adobe | 1999 |  | <http://www.worldcat.org/oclc/144529753?referer=xid> |
+| Main | 9780976694007 | Agile web development with Rails : a pragmatic guide | Dave Thomas ; David Heinemeier Hansson. With Leon Breedt ... | Pragmatic Bookshelf | 2005 | 6\. print. | <http://www.worldcat.org/oclc/254465313?referer=xid> |
+| Main | 9780201510591 | Algorithms in C++ | Robert Sedgewick. | Addison-Wesley Pub. Co. | 1992 | 7\. print. | <http://www.worldcat.org/oclc/25246211?referer=xid> |
 
 |  |  |  |  |  |  |  |  |
 |:---|:---|:---|:---|:---|:---|:---|:---|
