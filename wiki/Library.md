@@ -1,3 +1,7 @@
+## **HeatSync Labs Library**
+
+*Updated: July 19, 2013*
+
 | Department | ISBN | Title | Author | Publisher | Year | Edition | URL |
 |----|----|----|----|----|----|----|----|
 | Electronics | 9780131911543 | Circuit theory | William D. Hunt, Russell Mesereau. | Prentice Hall | 2005 |  | <http://www.worldcat.org/oclc/58555208?referer=xid> |
