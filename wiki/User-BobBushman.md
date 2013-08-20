@@ -1,7 +1,5 @@
 Bob Bushman
 
-<http://wiki.heatsynclabs.org/w/images/2/2c/skyhook.jpg>
-
 ![](files/Skyhook.jpg)
 
 *Bob as Skyhook impersonating Joliet Jake*
