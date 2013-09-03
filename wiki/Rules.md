@@ -110,7 +110,6 @@ Types of rules to consider implementing: - Preventing injury to the operator and
 - Avoid distractions.
 - Don’t work on anything when you are angry or upset.
 - Only use tools you’ve been trained and/or approved to work with/on. Ask!
-- Familiarize yourself with the location and contents of the first aid station and report any usage or outage of first aid materials.
 
 ### Workshop
 
