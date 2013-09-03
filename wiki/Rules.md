@@ -136,7 +136,7 @@ Types of rules to consider implementing: - Preventing injury to the operator and
 - Closed toes shoes are required
 - Safety goggles or a face shield must be worn when you (or anyone else in the shop is) using any equipment that expels debris or could cause things to fly out of control.
 - Remove all jewelry including rings, necklaces, chains, lanyards and bracelets.
-- NO long sleeve shirts when working with power tools. (Long sleeves are required when welding)
+- NO long sleeve shirts when working with power tools. (Long sleeves and long pants are required when welding)
 - Tie back long hair
 - Gloves when appropriate (when working with sharp or hot objects etc)
 
