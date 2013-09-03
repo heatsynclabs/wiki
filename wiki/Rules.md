@@ -145,6 +145,7 @@ Types of rules to consider implementing: - Preventing injury to the operator and
 - Dust Masks when working with tools generating inhalation hazards such as fine sawdust
 - Know where your fire extinguishers are whenever working with flammable items/solvents or tools that generate flames, sparks or heat.
 - Familiarize yourself with the location and contents and usage of the first aid station and eyewash
+- When injured, seek assistance if needed! Then notify appropriate shop leader regarding the reasons for the injury
 - Report any usage or outage of first aid materials.
 
 ## Equipment Use Guidelines
