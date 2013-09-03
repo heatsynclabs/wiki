@@ -134,11 +134,17 @@ Types of rules to consider implementing: - Preventing injury to the operator and
 
 - NO baggy/loose clothing
 - Closed toes shoes are required
-- Safety goggles or a face shield must be worn when you (or anyone else in the shop is) using any equipment that expels debris or could cause things to fly out of control.
 - Remove all jewelry including rings, necklaces, chains, lanyards and bracelets.
 - NO long sleeve shirts when working with power tools. (Long sleeves and long pants are required when welding)
 - Tie back long hair
 - Gloves when appropriate (when working with sharp or hot objects etc)
+
+### Safety equipment
+
+- Safety goggles or a face shield must be worn when you (or anyone else in the shop is) using any equipment that expels debris or could cause things to fly out of control.
+- Hearing protection for yourself and others when working with tools that generate significant noise such as angle grinders, table saws, planers, etc.
+- Dust Masks when working with tools generating inhalation hazards such as fine sawdust
+- Know where your fire extinguishers are whenever working with flammable items/solvents or tools that generate flames, sparks or heat.
 
 ## Equipment Use Guidelines
 
