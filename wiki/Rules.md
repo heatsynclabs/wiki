@@ -332,7 +332,8 @@ HeatSync Training, or other formal training plus a basic HSL "test-out", require
 
 - Welding emits dangerous levels of visible and invisible wavelength light, use of TIG-approved goggles/helmet and only TIG-approved goggles/helmet is necessary when TIG welding
   - Acetylene goggles are dangerous to use on TIG welders
-- Wear Flame retardant gloves, apron and if necessary hang flame retardant curtain to protect yourself and the workshop
+- Wear Long pants, longs sleeves if possible, Flame retardant gloves, apron and if necessary hang flame retardant curtain to protect yourself and the workshop
+  - Caution when using solvents when cleaning material prior to work
 
 ### 3D Printing
 
