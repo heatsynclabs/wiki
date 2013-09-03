@@ -134,7 +134,7 @@ Types of rules to consider implementing: - Preventing injury to the operator and
 
 - NO baggy/loose clothing
 - Closed toes shoes are required
-- Safety goggles or a face shield must be worn when using any equipment that expels debris or could cause things to fly out of control.
+- Safety goggles or a face shield must be worn when you (or anyone else in the shop is) using any equipment that expels debris or could cause things to fly out of control.
 - Remove all jewelry including rings, necklaces, chains, lanyards and bracelets.
 - NO long sleeve shirts when working with power tools. (Long sleeves are required when welding)
 - Tie back long hair
