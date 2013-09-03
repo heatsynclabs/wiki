@@ -144,6 +144,8 @@ Types of rules to consider implementing: - Preventing injury to the operator and
 - Hearing protection for yourself and others when working with tools that generate significant noise such as angle grinders, table saws, planers, etc.
 - Dust Masks when working with tools generating inhalation hazards such as fine sawdust
 - Know where your fire extinguishers are whenever working with flammable items/solvents or tools that generate flames, sparks or heat.
+- Familiarize yourself with the location and contents and usage of the first aid station and eyewash
+- Report any usage or outage of first aid materials.
 
 ## Equipment Use Guidelines
 
