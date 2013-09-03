@@ -265,11 +265,8 @@ HeatSync Training, or other formal training plus a basic HSL "test-out", require
 
 **Main Article: [Mini Mill](Mini-Mill)**
 
-- [Heatsync_Labs_Milling_101.doc](files/Heatsync_Labs_Milling_101.doc)
-  *Printable class handout*
-
-  - [Mill_Class_Packet.zip](files/Mill_Class_Packet.zip)
-    *Complete class packet*
+- Printable class handout: [Heatsync_Labs_Milling_101.doc](files/Heatsync_Labs_Milling_101.doc)
+  - Complete class packet: [Mill_Class_Packet.zip](files/Mill_Class_Packet.zip)
 - Improve your skills: <http://techtv.mit.edu/genres/24-how-to/videos> (search the page for "mill")
 - Sample project: <http://www.projectsinmetal.com/free-metalworking-project-plans-the-two-slider-mill/>
 
