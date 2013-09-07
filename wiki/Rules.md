@@ -440,8 +440,9 @@ HeatSync Training, or other formal training plus a basic HSL "test-out", require
 
 ### Bench Grinder
 
+- Grinder must be firmly clamped or bolted to bench, or it will vibrate off the table.
 - Keep away from electronics due to conductive dust
-- Wheels can shatter simply by being bumped
+- Wheels can shatter and explode simply by being bumped
 - DO NOT STAND in front of it when turning on and turning off, as a shattering wheel can and will kill you.
   - You must clean up dust AND/OR you must not grind aluminum
     - Aluminum dust can ignite and cause extreme injury
