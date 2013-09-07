@@ -345,6 +345,8 @@ HeatSync Training, or other formal training plus a basic HSL "test-out", require
 
 ### 3D Printing
 
+See [Ultimaker Quickstart Guide](Ultimaker-Quickstart-Guide), [Fakerbot](Fakerbot)
+
 - For standard setup (ABS plastic, and the DC motor) set motor speed and PWM to 255 and extruder target temperature to 225 and bed temperature to 110.
 - Run the extruder heater for as long as it takes for the heated bed to reach temperature in order to clear the nozzle and obtain proper flow
 - Be careful to be aware of your ‘zero’ location, both in the digital file and in the software, so as not to crash the x stage into the nozzle or any of the limits
