@@ -94,6 +94,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - Parking passes/tickets
 - Do it yourself: nobody else is going to create it, fix it, clean it, or replace it but you.
 - Do-ocracy: the people who get to decide are the people who get off their butts and commit to making something happen.
+- WORKSHOP SAFETY: Whenever entering the workshop, Grab a pair of safety glasses by the board next to the doorways and wear them ANYTIME a tool is in use by yourself or by someone else. Always exercise caution, this is a hazardous environment. Always look to see if tools are in use, and do NOT disturb or distract members operating said tools. If you see someone without safety glasses while a tool is in use, hand them a pair of safety glasses.
 - SAFETY: Every member has the right, maybe even the responsibility to kick someone out for dangerous behavior.
   - Cut power to the building if you need to. Nobody has the right to endanger themselves, others, or the lab with unsafe behavior.
 
