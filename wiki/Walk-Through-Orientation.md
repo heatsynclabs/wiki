@@ -48,6 +48,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - Some equipment requires certification before use.
   - Members often teach classes. You can too, if you have a skill you want to share, you don't need to ask permission to teach a class.
 - Generally speaking, ask another member prior to using a tool you haven't used in the lab before. We do things differently than at your home, ask so you know how to use OUR tools right.
+- Safety glasses: Where they are hung on the boards and that they are to be worn anytime they are using or around someone using a tool, whether it is a chisel, a lathe, or anything in between.
 - Tools and workstations should be kept usable, operable, complete, and clean.
   - If you use a lot of consumables, consider replacing them. We currently have no budgets or caretakers for consumables.
     - Exception: the tear apart bins and scrap; feel free to use for good projects, but no need to replace.
