@@ -89,10 +89,15 @@ Articles, bylaws(WIKI), resolutions dealing with member rights(none atm?), minut
 The Operations manager should be good at inspiring volunteers, delegating, following up, and taking tasks on themselves as necessary. In order to be effective and to keep HeatSync a community-oriented endeavor, they should not attempt to do everything themselves or dictate policy. Rather, they should help community members reach a productive consensus and achieve common goals together, only rarely stepping in to make decisions when the community is deeply divided.
 
 - Delegate and coordinate ongoing tasks including:
-  - Membership (welcoming, training, card access, suspension/revocation)
+  - Membership (welcoming, tracking, training, card access, suspension/revocation)
   - Community Governance (community voting, mailing list moderation, mediation)
   - IT (upkeep of tech behind website, wiki, internet, door access, wifi)
-  - Marketing (regular photo, video, and text content on blog, social media, signage, and print)
+  - Marketing (websites, social media, signage, print, t-shirts, stickers, etc)
   - Location (cleaning, maintenance, building projects, allocation, provisioning/placement, quoting and construction)
+    - Donations
+      - When a donation worth \$250 or more is received, we [must](http://www.irs.gov/Charities-&-Non-Profits/Charitable-Organizations/Charitable-Contributions-Written-Acknowledgments) issue a [donation receipt](Donation-receipt) and save documentation of the donation for our tax returns.
+      - When a donation worth more than \$500 is sold or disposed of, we [must document that sale for the IRS.](http://www.irs.gov/Charities-&-Non-Profits/Charitable-Organizations/Charitable-Organizations-Substantiating-Noncash-Contributions)
+    - Safety
+      - At least yearly, audit the MSDS binder and update it to reflect chemicals in the lab
+      - When the Operations board member changes, update the phone contact number near the First Aid Kit.
 - Facilitate communication between the community, volunteers, operations team, and board as necessary
-- Coordinate interaction with third parties such as vendors, landlord, city
