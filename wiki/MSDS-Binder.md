@@ -1,3 +1,5 @@
+See also: [MSDS Index](MSDS-Index)
+
 ## HeatSync Labs MSDS Binder
 
 When bringing a chemical or potentially-hazardous material into the lab, please search the Internet for and print out an MSDS.
