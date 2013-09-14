@@ -90,6 +90,11 @@ The Operations manager should be good at inspiring volunteers, delegating, follo
 
 - Delegate and coordinate ongoing tasks including:
   - Membership (welcoming, tracking, training, card access, suspension/revocation)
+    - Welcoming
+      - Propose adjustments to the space or behavior to help newcomers feel welcomed and transition to a user of the space/tools, possibly a member, or possibly a volunteer.
+    - Training
+      - Update and refine the [Walk Through Orientation](Walk-Through-Orientation) on a regular basis
+      - At least yearly, audit to ensure everyone is "on the same page"
   - Community Governance (community voting, mailing list moderation, mediation)
   - IT (upkeep of tech behind website, wiki, internet, door access, wifi)
   - Marketing (websites, social media, signage, print, t-shirts, stickers, etc)
