@@ -6,9 +6,9 @@ This is a tab-separated spreadsheet; save as a text file and open in Excel (TSV)
     Tool    Manufacturer
     Bandsaw (wood)  Professional Woodworker
     Bandsaw (metal) Jet
-    Jigsaw          Ryobi
-    Miter Saw       DeWalt
-    Table Saw       Bosch
+    Jigsaw  Ryobi
+    Miter Saw   DeWalt
+    Table Saw   Bosch
     Table Saw Stand Bosch
     Welding Helmet  3M
 
