@@ -41,10 +41,17 @@ There are several options for home etching, but they all boil down to covering u
 - route: 5-10mil
 - Adjust routing and/or footprints as necessary.
 
-LASER:
+### Laser Process
 
-- single-sided only unless you're very handy with a jig
-- mirror the image and print your circuit "on the back" so you can solder to it. test with cardboard so you don't waste hours.
+- Single-sided only unless you're very handy with a jig. This means single-sided copper board, too, unless you feel like wasting a bunch of FeCl/time trying to get rid of a whole side of copper to avoid shorting out the whole board.
+- Spray paint the copper with an even, not-goopy coat of matte spray paint. Let dry for awhile and then put on a second layer for best results. Glossy paint is somewhat elastic and will "curl" under the laser producing imprecise results.
+- Make sure your image is mirrored so you can etch your circuit "on the back" -- in other words, if you put all your traces and pads on the top layer and then etch the board, you're going to have a hard time soldering your components on the top side. So just mirror it. Also, test the whole process with cardboard first so you don't laser, etch, and drill, and realize you made the image wrong.
+- Our laser only accepts B&W images so you'll need to convert it to the right format. In Photoshop, you can convert an image to 2-bit (actually probably 1-bit) mode by going to Image\>Mode\>Grayscale and Image\>Mode\>Bitmap. Choose Diffusion Dither. Save as a .bmp and import into the laser. Double check that the dimensions are accurate. If it whines about being 2-bit bitmap, you likely didn't do the bitmap mode correctly and it's 1 or 2 bits of color stored in a 32-bit format or something.
+- To get accurate sizing when importing into LaserCut, you'll also probably want to save your file at 254dpi / 100 dots per centimeter / 10 dots per millimeter. In other words, LaserCut seems to interpret a 254-pixel image as being 1 inch because (as far as I can tell) it doesn't respect DPI settings in files.
+- Follow the normal laser cutter directions and precautions.
+- Engrave ("raster") the image using power/speed settings recommended by the laser cutter job log. It's a good idea to test a small unused corner first; you want to ablate all the black paint leaving behind only the settled dust which can easily be wiped off. Avoid using too much power / too low speed because heating up the copper may "glue" the paint dust back on the board and the copper reflection may damage the laser.
+- Clean up the paint dust using rubbing alcohol or water (not acetone)
+- Follow the [Etch](#etch) instructions below.
 
 ### Preparation
 
@@ -88,6 +95,7 @@ You will need:
 - paper cutter to trim board (optional)
   - only use for thinner boards (0.032-)
   - abuses blade
+- we also have a sheet metal brake/shear which can be used for boards
 
 30 minutes prior to transfer, turn on laminator. Use thickest setting for highest heat.
 
@@ -163,7 +171,7 @@ Traces should now be covered in green. If there are still black portions, this s
     - Be careful to avoid splashing. This stuff stains, and is a skin/eye irritant. Reading the MSDS for unfamiliar chemicals is always a great idea.
 5.  Agitate bath 5-10 minutes. (unless using bubble tank)
     - Shake container
-    - Gently rub board with (gloved!) finger.
+    - Gently rub board with (gloved!) finger. Avoid touching things afterwards, this stuff stains everything.
     - Check board frequently.
     - Most of the visible etching happens very quickly toward the end of the process.
 6.  Submerge board in water or rinse in sink to remove all etchant.
@@ -177,7 +185,6 @@ Congratulations! Your board is now ready for drilling, if necessary, and populat
 ### Cleanup
 
 - Return used etchant to container for future reuse.
-  - DO NOT dump down train. Etchant is toxic and contains heavy metals. Check MSDS for disposal instructions.
-- Dump water down drain while running cold water.
+  - DO NOT dump down train. Etchant is toxic and contains heavy metals. Check MSDS or city hazardous waste department for disposal instructions.
 - Thoroughly clean up any spilled etchant.
 - Return printer to typical settings.
