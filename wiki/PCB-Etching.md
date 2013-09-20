@@ -43,6 +43,8 @@ There are several options for home etching, but they all boil down to covering u
 
 ### Laser Process
 
+See also: [Stencil Etching](Stencil-Etching) -- for solder stencils.
+
 - Single-sided only unless you're very handy with a jig. This means single-sided copper board, too, unless you feel like wasting a bunch of FeCl/time trying to get rid of a whole side of copper to avoid shorting out the whole board.
 - Spray paint the copper with an even, not-goopy coat of matte spray paint. Let dry for awhile and then put on a second layer for best results. Glossy paint is somewhat elastic and will "curl" under the laser producing imprecise results.
 - Make sure your image is mirrored so you end up etching your circuit "on the back" -- in other words, if you put all your traces and pads on the top layer without mirroring and then etch the board, you're going to have a hard time soldering your components on the top side, fitting your soldering iron in between the component and its tiny little lead. So just mirror it and solder on the back like a normal person. Also, test the whole process with cardboard first so you don't laser, etch, and drill, and realize you've wasted 4 hours.
