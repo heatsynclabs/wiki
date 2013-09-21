@@ -81,7 +81,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - Location of lightswitches, turn off when leaving
 - Door locks (check that front & back are green, not red or off)
 - Indoor laser cutter electrical cutoff
-- Outdoor electrical cutoff
+- Outdoor electrical & water cutoffs
 - Dumpsters & recycling
 
 <!-- -->
