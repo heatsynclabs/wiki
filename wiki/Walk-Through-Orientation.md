@@ -57,31 +57,32 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 
 <!-- -->
 
-- Location of thermostat, TV, lock/unlock tablet
-- Explain stations & tools
-  - Include sewing, camera which uploads to flickr, A/V computer, tear apart, upstairs storage/music, safety equipment
-- Location and usage of fire extinguishers & first aid kit & liability waivers
-
-<!-- -->
-
-- First person in / last person out procedure
+- Physical tour, front to back -- in addition to each station, explain usage of:
+- Front TV
+- Thermostat
   - Turn on/off thermostat to 75', turn off fans
     - Thermostat resets every few hours, OK to adjust it, just don't override it, or we'll spend \$600+/mo on electricity
-  - Location of lightswitches, turn off when leaving
-  - TV signage up front
-  - Check door locks are all green, not red or off
-  - When keeping the doors open, keep an eye on the door and make people who walk in your guest and responsibility
-    - If you're not comfortable making someone your responsibility, you don't have to let them in.
+- Lock/unlock tablet
+  - If you open/unlock the door, make everyone who walks in your guest and responsibility.
+    - If you're not comfortable with that responsibility, you don't have to let them in.
     - You can lock the doors any time; we're a private member organization.
-    - Do not simply open the doors and then leave; hand off responsibility for the doors to someone when you step out.
+    - Do not simply open the doors and then leave; hand off responsibility for the doors to someone when you step out, or lock the doors until someone else takes responsibility.
     - People will come in acting like they own the place, and break or steal stuff. Greeting them helps you meet people, and also weeds out troublemakers.
     - The worst possible thing is for strangers to be wandering unwatched through the lab.
-
-<!-- -->
-
-- Email list is our main method of communicating
-- Toolshare
-- Webcams & Video recording -- no expectation of privacy here.
+- Camera which uploads to flickr
+- A/V computer
+- Tear apart bins
+- CAD computer
+- Parking passes/tickets
+- Liability waivers
+- First aid kit, eye wash, emergency \#s
+- Fire extinguishers (front, mid, back)
+- Upstairs storage/IT/music/HAM
+- Location of lightswitches, turn off when leaving
+- Door locks (check that front & back are green, not red or off)
+- Indoor laser cutter electrical cutoff
+- Outdoor electrical cutoff
+- Dumpsters & recycling
 
 <!-- -->
 
@@ -90,14 +91,22 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - Dozens of people here a day, that's dozens of cups to throw away.
   - Cleaning supplies
     - How & who to contact when supplies are out
-  - Trash cans, dumpsters, bathroom, tool/floor cleaning
   - Make sure we've always got a good stock of toilet paper & towels in the bathroom so nobody gets trapped
-  - Parking passes/tickets
+
+<!-- -->
+
+- Discussion list is our main method of communicating (link on website)
+- Toolshare / members DB is a resource for member info
+- Webcams & Video recording -- no expectation of privacy
+
+<!-- -->
+
 - Do it yourself: nobody else is going to create it, fix it, clean it, or replace it but you.
 - Do-ocracy: the people who get to decide are the people who get off their butts and commit to making something happen.
+  - Easiest way to Do-ocracy: announce "Thursday I'm going to work on \_\_\_\_, if you're interested please join me" or "would anyone object if I did \_\_\_\_?" -- better than "what color should the bike shed be?" "who wants to build a bike shed?" -- schedule/plan it like it's a party.
 - WORKSHOP SAFETY: Whenever entering the workshop, Grab a pair of safety glasses by the board next to the doorways and wear them ANYTIME a tool is in use by yourself or by someone else. Always exercise caution, this is a hazardous environment. Always look to see if tools are in use, and do NOT disturb or distract members operating said tools. If you see someone without safety glasses while a tool is in use, hand them a pair of safety glasses.
 - SAFETY: Every member has the right, maybe even the responsibility to kick someone out for dangerous behavior.
-  - Cut power to the building if you need to. Nobody has the right to endanger themselves, others, or the lab with unsafe behavior.
+  - Cut power to the building if you need to. Nobody has the right to endanger themselves, others, or the lab with unsafe behavior. All the insurance and waivers and training in the world won't save us, but each member having a safe mindset and speaking up / preventing incidents can.
 
 <!-- -->
 
