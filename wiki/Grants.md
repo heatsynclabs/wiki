@@ -100,7 +100,7 @@ This means these organization should be willing to fund HeatSync labs -in genera
 
 How do we partner with organizations like
 
-- [Brothers Big Sisters](http://www.bbbs.org/Big)
+- [Big Brothers Big Sisters](http://www.bbbs.org/)
 - [Boys and Girls](http://bgca.org/)
 - [United Way](http://liveunited.org/)
 
