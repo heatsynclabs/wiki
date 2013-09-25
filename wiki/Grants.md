@@ -57,13 +57,11 @@ This is the stuff that the grantors might find too big for our britches until we
 
 ## Matching (including United Way)
 
-- [Verizon TIP](http://foundation.verizon.com/employee/tip.shtmlVerizon)10 employees, 1k raised each, matched
 - [Verizon MIP](http://foundation.verizon.com/employee/mip.shtml) 1k matching donation
 - Intel United Way matching
 - [Smart](http://www.smartm.com/files/community/SMARTMatching_DonationForm.pdf)(we have an employee) up to \$2500/yr
 - [Raytheon](https://webauth.raytheon.com/login.fcc?TYPE=33554433&REALMOID=06-000be445-880f-1367-b394-83c185750000&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=-SM-Evtpnpols5n5k4pwnj%2bQMj5ThWuekIxTr28u5LMSVMwBCObvA8%2fEYZZNwyq506xi&TARGET=-SM-https%3a%2f%2fgiving%2eraytheon%2ecom%2f) matches donations from employees
 - Wells Fargo - Wells Fargo will match employee donations up to \$5000.
-- [MGC Pure Chemicals](http://www.mgcpure.com/) - Charitable donation program for salaried exempt employees. Company will donate \$100 per employee, \$500 per manager to 501(c)3 organizations of each employee's choosing. (we have a member)
 
 ## Employer pays us for volunteerism
 
@@ -88,7 +86,6 @@ This means these organization should be willing to fund HeatSync labs -in genera
 
 - [Ambrose Monell Foundation](http://www.monellvetlesen.org/monell/default.htm)
 - [Smart](http://www.smartm.com/files/community/Request_for_Corporate_Grant.pdf) (we have an employee)
-- [General Dynamics](http://www.gdc4s.com/content/detail.cfm?item=4265a0f0-30c2-46b3-ae3f-09cf05a3c43a&page=10) - maybe???
 - [Bank of the West](https://www.bankofthewest.com/about-us/community-support/charitable-investments.html) 501c3 Required, Community and Economic Development, Education and Job Training, Health and Human Care, Civic and Cultural
 - [Walmart](http://walmartstores.com/communitygiving/238.aspx) Education, Workforce Development, Health and Wellness, Environmental Stability, Hunger Relief, Small Business Support, Youth Entrepreneurship. \$250-\$5k, February to Dec 1
 - [Bank of America Charitable Foundations Funding Program](http://about.bankofamerica.com/en-us/global-impact/charitable-foundation-funding.html#fbid=7C7dqr8AlsY) focused on local neighborhood priorities
