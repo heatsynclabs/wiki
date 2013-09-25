@@ -74,7 +74,6 @@ This is the stuff that the grantors might find too big for our britches until we
 
 ## Volunteers/equipment/in kind/event based
 
-- [Team Home Depot](http://www.homedepotfoundation.org/how-we-help/team-depot.html) - associate led volunteer program - they come build stuff -
 - [Intel Skill Based Volunteering](http://www.intel.com/Assets/PDF/Article/community-323988001.pdf) -
 - [SRP Volunteering](http://www.srpnet.com/community/volunteer.aspx) You can request volunteers on a project basis
 - [Raytheon Volunteer Match](https://volunteer.raytheon.com/) -- How do we get listed?
