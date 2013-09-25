@@ -70,7 +70,6 @@ This is the stuff that the grantors might find too big for our britches until we
 - [Verizon VIP](http://foundation.verizon.com/employee/vip-faqs.shtml) - 50 hours volunteered = \$750 for organization
 - [Intel Involved](http://www.intel.com/about/corporateresponsibility/community/intelinvolved.htm) - 10/hr up to 10k after first 20
 - [Avnet Dollars for Doers](http://aux.avnet.com/avnet_com_assets/community_relations/files/dollarsfordoers.pdf) Volunteer Program - 20 hours before Sept 30 \$200, 40 hours is \$400
-- [General Dynamics Volunteer Initiatives Program](http://www.gdc4s.com/content/detail.cfm?item=4265a0f0-30c2-46b3-ae3f-09cf05a3c43a&page=10) -Funding levels are \$250 for 50 to 99 hours volunteered and \$500 for 100 or more hours volunteered. No more than \$2,000 will be awarded to an individual agency within a 12-month period.
 - Wells Fargo -We can receive \$1000 for hours volunteered
 
 ## Volunteers/equipment/in kind/event based
@@ -94,7 +93,7 @@ This means these organization should be willing to fund HeatSync labs -in genera
 - [General Dynamics](http://www.gdc4s.com/content/detail.cfm?item=4265a0f0-30c2-46b3-ae3f-09cf05a3c43a&page=10) - maybe???
 - [Bank of the West](https://www.bankofthewest.com/about-us/community-support/charitable-investments.html) 501c3 Required, Community and Economic Development, Education and Job Training, Health and Human Care, Civic and Cultural
 - [Walmart](http://walmartstores.com/communitygiving/238.aspx) Education, Workforce Development, Health and Wellness, Environmental Stability, Hunger Relief, Small Business Support, Youth Entrepreneurship. \$250-\$5k, February to Dec 1
-- [Bank of America Neighborhood Builders](http://www.bankofamerica.com/foundation/index.cfm?template=fd_neighborbuilders) focused on local neighborhood priorities
+- [Bank of America Charitable Foundations Funding Program](http://about.bankofamerica.com/en-us/global-impact/charitable-foundation-funding.html#fbid=7C7dqr8AlsY) focused on local neighborhood priorities
 - [Arizona Commission on the Arts](http://www.azarts.gov/grants/organizations-and-schools/) Provides a variety of funding opportunities that enable schools, organizations and community groups to carry out projects, and through general operating support, to maintain ongoing, high quality public arts programming. Also a [fastrack](http://www.azarts.gov/grants/fast-track-grants/) grants for certain times of the year.
 
 ## In Kind Donations
