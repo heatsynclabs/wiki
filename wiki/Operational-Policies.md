@@ -19,7 +19,7 @@
 
 #### Card Access
 
-- Members can receive cards when approved by a majority vote of members who already have card access[1](https://groups.google.com/forum/?fromgroups=#!topic/heatsynclabs/g9kfaaPkFpI) at an operations meeting ("Hack your Hackerspace" night.) An operations team member should ensure their card access proposal is posted publicly via email (subject prefix "Proposal:") at least 1 week prior to the meeting.
+- Basic Members can receive cards when approved by a majority vote of members who already have card access[1](https://groups.google.com/forum/?fromgroups=#!topic/heatsynclabs/g9kfaaPkFpI) at an operations meeting ("Hack your Hackerspace" night.) You may request someone else propose you get a card, or simply wait until someone proposes that you get a card, though proposing yourself is considered bad form.
 
 #### Rules
 
