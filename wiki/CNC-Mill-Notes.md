@@ -53,17 +53,13 @@
 
 ### Class Ideas
 
-- prerequisite: mill and 3d printer
-- demonstrate skill? make a gauge block?
-- do we teach operator versus programmer versus designer? teach a combination of all three?
-- must know how to read g-code to manually verify validity, or identify problems.
-- identify workflow – solidworks/autocad, hsm express versus other cad/cambam. Mach3, CNC.
-- possibly distribute materials to study – written – and then only do one-on-one instruction afterwards.
-- there's a relatively high barrier to entry – cost, time, approval
 - regular meetups might be a good idea to establish a CNC community, reach critical mass, and get community participation instead of offering a “class” per se
-- option to outsource to MCC? We'd have to write up which classes to take
-- create a class waiting/signup list?
-- class sizes should be small, 1-3 people, and customized to each student. Probably about 10 hours of instruction per person.
+- prerequisite: mill and 3d printer?
+- demonstrate skill? make a gauge block?
+- do we teach g-code to manually verify validity, or identify problems?
+- find good workflows – solidworks -\> hsm express? cad -\> cambam? Mach3 vs other CNC programs?
+- possibly distribute materials to study – written – and then only do one-on-one instruction afterwards.
+- class sizes should be small, 1-3 people, and somewhat customized to student skill levels.
 
 ### Class Prerequisites
 
