@@ -1,3 +1,33 @@
+## Minutes
+
+    owner: oliver
+    cnc experts: greg, aaron
+    this machine's history: austin k, tim m, nate c, bought from joe
+    other: jeff
+
+    todo:
+    mod emergency switch to stop spindle (austin - weekends, after thu - deadline nov 3) 
+     - 24v relay, contactor, etc
+    build lid for power supply
+    run separate circuit for spindle?
+    get ups for cnc computer
+    figure out toolchange procedure (possibly run them as separate programs? common reference point issues. reference off the vice?)
+
+    warnings:
+    spindle motor takes awhile to stop!
+    if the microcontroller board freezes, the kill switch may not work
+    once the z axis is homed, don't adjust the manual knob
+
+    info:
+    cnc table and computer table can be redone (smaller)
+    limit switches redone
+     (mach3 doesn't know which switch has been hit! total stop)
+     "soft limits" button on mach3
+    gecko stepper motor controllers - custom controller board
+    spindle speed controlled manually, via pulleys (run aluminum/wood/etc mainly instead of steel for simplicity?)
+    lower link belt has reduced chatter (possibly due to bump in regular belt)
+    return spindle to top in order to access drawbar
+
 ## Notes for Future CNC Mill Class
 
 ### TODO
