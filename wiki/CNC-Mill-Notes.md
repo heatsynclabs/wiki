@@ -2,18 +2,22 @@
 
     owner: oliver
     cnc experts: greg, aaron
-    this machine's history: austin k, tim m, nate c, bought from joe
-    other: jeff
+    this machine's experts: austin k, tim m, nate c, bought from joe
+    other: jeff, alex, larry
 
     todo:
-    mod emergency switch to stop spindle (austin - weekends, after thu - deadline nov 3) 
+    buy new wrench for big clamping kit bolts (7/8")
+    mod emergency switch to stop spindle (austin - weekends, after thu - deadline nov 3)
      - 24v relay, contactor, etc
     build lid for power supply
     run separate circuit for spindle?
     get ups for cnc computer
     figure out toolchange procedure (possibly run them as separate programs? common reference point issues. reference off the vice?)
+    figure out how do display file inside mach3
 
     warnings:
+    make sure head is above everything on bed
+    if reset is flashing, undo e-stop?
     spindle motor takes awhile to stop!
     if the microcontroller board freezes, the kill switch may not work
     once the z axis is homed, don't adjust the manual knob
@@ -62,17 +66,24 @@
 
 - feeds/speeds/flutes
 - changing belts
-- touching off
 - changing tools, setting up tools
 - clamping/vice/mounting
 - materials
 - safety issues incl. Earplugs, e-stops, spindle stops, vices
 - g-code/m-code (study simulator?)
 - make a standardized part within spec – demo corners, radiuses, directions, up/down/drill/mill
-- write g-code? Create in CAD/CAM?
+- create g-code in cambam
+
+` * save your cad files and g-code in millimeters for mach3`
+
+- starting mach3
 - go over each tool and run part – teach in three stages: explain/watch, instruct/do, do/verify
 - touch off part, correct height, offset by appropriate value (quick change height issues)
 - jog, change jog speed, change feed rate during cut, diagnose surface quality issues, diagnose diagnoal x/y issues
+- touching off/zeroing
+
+` * going to coords, jogging`\
+` * don't change machine coordinates`
 
 ### Mill Notes (source material for class)
 
