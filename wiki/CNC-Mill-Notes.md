@@ -1,11 +1,14 @@
 ## Minutes
 
-    owner: oliver
+### Oct 3, 2013
+
+    champion: oliver
     cnc experts: greg, aaron
     this machine's experts: austin k, tim m, nate c, bought from joe
-    other: jeff, alex, larry
+    other: jeff, alex, larry, will
 
     todo:
+    buy mach3 wizard license? ($75)
     buy new wrench for big clamping kit bolts (7/8")
     mod emergency switch to stop spindle (austin - weekends, after thu - deadline nov 3)
      - 24v relay, contactor, etc
