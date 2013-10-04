@@ -65,28 +65,67 @@
 - create a class waiting/signup list?
 - class sizes should be small, 1-3 people, and customized to each student. Probably about 10 hours of instruction per person.
 
+### Class Prerequisites
+
+- Experience with CNC (laser or 3D printer)
+
+### Not covered in this class
+
+- Design/layout (planning your piece)
+- CAD (creating the drawing of your piece)
+- CAM (converting the drawing to G-code / machine instructions)
+  - g-code/m-code (study simulator?)
+  - make a standardized part within spec – demo corners, radiuses, directions, up/down/drill/mill
+  - create g-code in cambam
+    - save your cad files and g-code in millimeters for mach3
+
 ### Class Outline
 
-- feeds/speeds/flutes
-- changing belts
-- changing tools, setting up tools
-- clamping/vice/mounting
-- materials
-- safety issues incl. Earplugs, e-stops, spindle stops, vices
-- g-code/m-code (study simulator?)
-- make a standardized part within spec – demo corners, radiuses, directions, up/down/drill/mill
-- create g-code in cambam
+- How to read calipers, dial indicators.
+- Feeds/speeds/flutes/materials (checking for uniformity)
+- Changing belts
+- Changing tools, setting up tools
+- Clamping/vice/mounting
+  - Spacer?
+  - Squaring
+- Safety issues incl. Earplugs, e-stops, spindle stops, vices
+- X, Y, Z axes and directions
+- Operations to mill a part in layers / steps
+- Standard mill operations (drill, pocket, profile)
+- Mach3 operating controls
+  - Reset
+  - Wizards
+  - Viewing operations on computer (may not move as shown)
+- Turning Mill on
+- Tab / arrow keys to jog
+  - Changing jog speed
+- Touching off part & zeroing mach3
+  - Where to set zero at on the machine
+  - Checking correct height
+  - Tool offset at appropriate value (quick change height issues)
+- Going to coordinates
+  - Don't change machine coordinates!
+- Changing feed rate for cut
+- Go over each tool / end mill for various jobs
+- Cut in the air first
+  - Check for the part hitting the machine or obstructions
+  - Check for clamp/table clearances
+- Cut a sample from an easy material (wood/plastic/aluminum)
+- Check soft limits (on/off?)
+- Tool changes
+- Lubrication/coolant
+- Sounds and smells of good cuts
+- Check clamps to make sure they're still tight
+- Run part, giving everyone hands-on time
+  - Teach in three stages: explain/watch, instruct/do, do/verify
+  - How to diagnose surface quality issues, diagnosing diagonal x/y issues
+- Clean, and inspect mill for defects
+- How to leave machine (set up? squared?)
 
-` * save your cad files and g-code in millimeters for mach3`
+### Machine maintenance
 
-- starting mach3
-- go over each tool and run part – teach in three stages: explain/watch, instruct/do, do/verify
-- touch off part, correct height, offset by appropriate value (quick change height issues)
-- jog, change jog speed, change feed rate during cut, diagnose surface quality issues, diagnose diagnoal x/y issues
-- touching off/zeroing
-
-` * going to coords, jogging`\
-` * don't change machine coordinates`
+- Lubrication of machine
+- ???
 
 ### Mill Notes (source material for class)
 
