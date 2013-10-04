@@ -35,20 +35,17 @@
     lower link belt has reduced chatter (possibly due to bump in regular belt)
     return spindle to top in order to access drawbar
 
+## Info about the Mill Itself
+
+- The stepper PSU draws about:
+  - 0.3 amp idle
+  - ~0.6 amps per stepper (unloaded, just jogging)
+  - about 1.7 amps total (multiply by 2 to estimate max load, so budget for 3.4 amps?)
+
 ## Notes for Future CNC Mill Class
-
-### TODO
-
-- Contact MCC instructors or retirees? summer?
-- Enhance safety signage and plastic shield
 
 ### Maintenance Responsibilities
 
-- fixing problems
-- answering questions
-- engaging professionals, local students to help absorb the class and maintenance workload
-- keeping accountability / ownership (card access control?)
-- define default configurations, write scripts to help automate
 - create a checklist for posting at the tool before usage
 
 ### Class Ideas
