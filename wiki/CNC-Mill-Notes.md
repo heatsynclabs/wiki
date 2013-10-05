@@ -70,7 +70,7 @@
   - g-code/m-code (study simulator?)
   - make a standardized part within spec – demo corners, radiuses, directions, up/down/drill/mill
   - create g-code in cambam
-    - save your cad files and g-code in millimeters for mach3
+    - save your cad files and g-code in inches for mach3
 
 ### Class Outline
 
