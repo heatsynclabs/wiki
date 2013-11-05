@@ -29,6 +29,7 @@ The HeatSync Labs Press page is intended to document articles regarding HSL even
 - April 2013 [Chad Stearns and Ryan McDermott (members of the local hackerspace group HeatSync Labs) come in studio to talk about the lab, the concept, the future.](http://www.freedomsphoenix.com/Media/131781-2013-04-05-04-05-13-chad-stearns-ryan-mcdermott-mp3-video-loaded.htm)
 - August 2012 [Phoenix New Times Best of Phoenix 2012: Behind the Screens at Hackerspace Heatsync Labs](http://vimeo.com/48557640)
 - May 2012 [5/18-6/9: Stray Cat's 'Heddatron' star kidnapped by robots](http://www.azcentral.com/thingstodo/stage/articles/2012/05/07/20120507stray-cat-theatre-heddatron-tempe-robots-heatsync.html)
+- October 2011 [Maker Faire 2011 in Photos](http://www.phoenixnewtimes.com/slideshow/maker-faire-2011-in-photos-35368953)
 - July 2011 [Downtown Mesa getting cooler](http://www.azcentral.com/arizonarepublic/opinions/articles/2011/07/18/20110718mon1-18-downtown-mesa.html)
 - May 2011 [Downtown Mesa: Tech-and-arts incubator to move in](http://www.azcentral.com/news/articles/2011/05/20/20110520mesa-downtown-technology-heatsync.html)
 - May 2011 [HeatSync Labs chooses downtown Mesa](http://apps.mesaaz.gov/News/ArticleView.aspx?id=29974)
