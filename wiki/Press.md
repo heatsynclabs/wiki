@@ -2,10 +2,11 @@ The HeatSync Labs Press page is intended to document articles regarding HSL even
 
 ## Blogs
 
+- March 2013 [Hackerspace intro: HeatSync Labs](http://hackaday.com/2013/03/11/hackerspace-intro-heatsync-labs/)
 - August 2012 [Hack-a-Day: Robotic hand with haptic feedback](http://hackaday.com/2012/08/09/robotic-hand-with-haptic-feedback/)
 - August 2012 [Hack-a-Day: Southwest Tour: Heatsync Labs in Mesa Arizona](http://hackaday.com/2012/08/09/southwest-tour-heatsync-labs-in-mesa-arizona/)
-- March 2012 [Phoenix New Times: The Tacocopter Might Be A Hoax, But Don't Give Up the Dream](http://blogs.phoenixnewtimes.com/bella/2012/03/the_tacocopter_might_be_a_hoax.php)
 - May 2012 [Hack-a-Day: Hackerspace Intro: HeatSync Labs in Mesa Arizona](http://hackaday.com/2012/05/02/hackerspace-intro-heatsync-labs-in-mesa-arizona/)
+- March 2012 [Phoenix New Times: The Tacocopter Might Be A Hoax, But Don't Give Up the Dream](http://blogs.phoenixnewtimes.com/bella/2012/03/the_tacocopter_might_be_a_hoax.php)
 - October 2011 [HeatSync Labs at Maker Faire Phoenix](http://julienauphotodesign.com/2011/10/maker-faire-phoenix/)
 - August 2011 [Examiner.com: HeatSync Labs, an inventors' co-op](http://www.examiner.com/video-game-industry-in-phoenix/heatsync-labs-an-inventors-co-op)
 - May 2011 [EVTrib: Craft for Japan at HeatSync Labs](http://blogs.evtrib.com/nerdvana/2011/05/12/craft-for-japan-at-heatsync-labs/)
@@ -26,6 +27,7 @@ The HeatSync Labs Press page is intended to document articles regarding HSL even
 ## Mainstream Media
 
 - August 2012 [Phoenix New Times Best of Phoenix 2012: Behind the Screens at Hackerspace Heatsync Labs](http://vimeo.com/48557640)
+- May 2012 [5/18-6/9: Stray Cat's 'Heddatron' star kidnapped by robots](http://www.azcentral.com/thingstodo/stage/articles/2012/05/07/20120507stray-cat-theatre-heddatron-tempe-robots-heatsync.html)
 - July 2011 [Downtown Mesa getting cooler](http://www.azcentral.com/arizonarepublic/opinions/articles/2011/07/18/20110718mon1-18-downtown-mesa.html)
 - May 2011 [Downtown Mesa: Tech-and-arts incubator to move in](http://www.azcentral.com/news/articles/2011/05/20/20110520mesa-downtown-technology-heatsync.html)
 - May 2011 [HeatSync Labs chooses downtown Mesa](http://apps.mesaaz.gov/News/ArticleView.aspx?id=29974)
