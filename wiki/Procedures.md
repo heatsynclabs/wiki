@@ -4,7 +4,7 @@ Put operational procedures here.
 
 ### New Member
 
-- Have them fill out the [Membership Application](http://www.heatsynclabs.org/store/memberships/)
+- Have them fill out the [Membership Application](http://members.heatsynclabs.org/users/sign_up)
 - Either set up a PayPal recurring payment to hslfinances@gmail.com (an option is given at the end of the application form) or choose another method to send their payment. Automated, electronic, or prepaid months in advance is preferred. If prepaid cash/check utilize square, take photo, and place in admin locker.
   - Jotform is sent to board@ notifying board
 - **Treasurer:** Confirm form and payment, record details in membership spreadsheet, and *notify [operations team](Operations-team) of new member.*
