@@ -87,7 +87,7 @@ This means these organization should be willing to fund HeatSync labs -in genera
 - [Smart](http://www.smartm.com/files/community/Request_for_Corporate_Grant.pdf) (we have an employee)
 - [Bank of the West](https://www.bankofthewest.com/about-us/community-support/charitable-investments.html) 501c3 Required, Community and Economic Development, Education and Job Training, Health and Human Care, Civic and Cultural
 - [Walmart](http://walmartstores.com/communitygiving/238.aspx) Education, Workforce Development, Health and Wellness, Environmental Stability, Hunger Relief, Small Business Support, Youth Entrepreneurship. \$250-\$5k, February to Dec 1
-- [Bank of America Charitable Foundations Funding Program](http://about.bankofamerica.com/en-us/global-impact/charitable-foundation-funding.html#fbid=7C7dqr8AlsY) focused on local neighborhood priorities
+- [Bank of America Charitable Foundations Funding Program](http://about.bankofamerica.com/en-us/global-impact/charitable-foundation-funding.html#fbid=7C7dqr8AlsY) WORKFORCE DEVELOPMENT AND EDUCATION APPLICATIONS BEGIN JANUARY 22nd
 - [Arizona Commission on the Arts](http://www.azarts.gov/grants/organizations-and-schools/) Provides a variety of funding opportunities that enable schools, organizations and community groups to carry out projects, and through general operating support, to maintain ongoing, high quality public arts programming. Also a [fastrack](http://www.azarts.gov/grants/fast-track-grants/) grants for certain times of the year.
 
 ## In Kind Donations
