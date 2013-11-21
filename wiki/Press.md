@@ -2,7 +2,6 @@ The HeatSync Labs Press page is intended to document articles regarding HSL even
 
 ## Blogs
 
-- November 2013 [Fox 10 - HeatSync Labs: Hacking Arizona since 2009](http://www.myfoxphoenix.com/story/24028900/2013/11/20/heatsync-labs)
 - March 2013 [Hackerspace intro: HeatSync Labs](http://hackaday.com/2013/03/11/hackerspace-intro-heatsync-labs/)
 - August 2012 [Hack-a-Day: Robotic hand with haptic feedback](http://hackaday.com/2012/08/09/robotic-hand-with-haptic-feedback/)
 - August 2012 [Hack-a-Day: Southwest Tour: Heatsync Labs in Mesa Arizona](http://hackaday.com/2012/08/09/southwest-tour-heatsync-labs-in-mesa-arizona/)
