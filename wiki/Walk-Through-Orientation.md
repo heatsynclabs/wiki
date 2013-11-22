@@ -17,7 +17,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
     - \$100: Same as \$50 but locker instead of box
   - Explain the how they can get a card.
     - Privilege based on trust, not a right. Come during public hours, make friends, ask for proposal, gets voted on during HYH. If you can't come in during public hours, make friends online and ask for favors. It's tough but we're a community not a business.
-  - Member money helps us pay the rent, but members still need to leave the place better than they found it; that means helping clean, maintain, help others, and participate in our self-governance otherwise our co-op model won't work.
+  - Member money helps us pay the rent, but members still need to contribute to the community; that means helping clean, maintain, help others, and participate in our self-governance otherwise our co-op model won't work. Don't just come in, use the tools, and leave.
 - Guest sponsorships
   - Keep an eye on your guests; if you're up front and they're in back breaking a tool, that's not good.
 - Public/private space
