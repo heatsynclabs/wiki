@@ -1,24 +1,15 @@
-Finances are the domain of the Treasurer. HeatSync attempts to be as open book to our members as possible, and nearly that open to the public in general. The treasurer at the first [Hack_Your_Hackerspace](Hack-Your-Hackerspace) meeting of the month will give an update to the membership and answer any questions. Further you may contact the treasurer at any time to talk about our financial status.
+Finances are the domain of the Treasurer. HeatSync attempts to be as open book to our members as possible, and nearly that open to the public in general. You may contact the treasurer at any time to talk about our financial status.
 
 # Purchasing and Reimbursement Policy
 
-HeatSync Labs (HSL) will reimburse select expenses incurred by our members. HSL will not reimburse for any expense not specified in this policy.
+The following are the currently recognized ways for Heatsync Labs to spend it's money:
 
-Although IRS guidelines require documenation and substantiation for all business expenses greater than \$75.00, HSL requires individual itemized expenses to be accompanied by a receipt.
+- Individual members granted spending responsibilities through a Hack Your Hackerspace vote, or board election.
+- A proposal to Hack Your Hackerspace, specifying what equipment to buy, and passed by a majority vote.
+- A station head, spending within the limits of their station budget, on equipment for their station.
+- A board member, at their discretion, for purchases under \$50 in value.
+- A board member, with the approval of a majority of the board, for purchases over \$50.
 
-This will ensure an effortless expense reimbursement process. HSL members who do not have a actual receipt(s), where required, must submit a signed affidavit acknowledging the loss of the receipts, which may delay the reimbursement process.
+Individual members are expected to spend their own money to purchase equipment for the lab. Members donating to the lab are appreciated, but will NOT be reimbursed for their donations.
 
-All reimbursement requests must be sumbitted within 30 days of incurring the expense. Any request received after 30 days may not be reimbursed.
-
-**Note: All projected expenses greater than \$25 must be pre-approved by the HSL Board of Directors.**
-
-Covered Expenses
-
-`- Travel`\
-`- Miscellaneous`\
-`- Capital Equipment`\
-`- General equipment and tools`
-
-Expense Reports
-
-In order to receive reimbursement HSL members shall complete and submit an expense claim form within a reasonable time after incurring the expense and in any event no later than 30 days thereafter. The expense report shall be accompanied by all receipts documenting each expense, including those acquired from the use of HSL debit card. HSL members shall verify that the expenses for which reimbursement is sought were incurred on behalf of HeatSync Labs in performance of official duties and that they meet the policies established in this policy.
+Please save all receipts and give them to the treasurer or secretary.
