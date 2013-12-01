@@ -11,8 +11,8 @@ The operations team is a committee recruited by the board in order to manage the
 - ELECTRONICS: Jacob Rosenthal, and Eric Ose
 - MICROCONTROLLERS: Jacob Rosenthal, and Eric Ose
 - BEATSYNC: Chad Stearns
-- Audio/Video: Will Bradley, and Jeremy Leung
-- Sewing: Alyson Zepada
+- AUDIO/VIDEO: Will Bradley, and Jeremy Leung
+- SEWING: Alyson Zepada
 
 ## IT
 
