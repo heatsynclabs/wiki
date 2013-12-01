@@ -8,7 +8,7 @@ The following people are associated with their respective classes
 
 - Alex Canto - Mill
 - Jasper Nance - Lathe
-- Oliver Fulitz - CNC Mill
+- Oliver Fultz - CNC Mill
 - Ryan McDermott - Laser
 - Austin Kipp - Welding
 - Austin Kipp - Wood working
