@@ -96,5 +96,5 @@ These lists are not exhaustive. If your material is not on either list, ask firs
         3.  Drawer
         4.  Hood
     5.  Document!
-        1.  Add your results to [logbook](https://docs.google.com/spreadsheet/viewform?formkey=dHdhRXhvektjU0NxYkpMeHF6dkRMRlE6MQ). These are visible [here](https://docs.google.com/spreadsheet/ccc?key=0Av0tmnI7oxt4dHdhRXhvektjU0NxYkpMeHF6dkRMRlE&hl=en_US#gid=0)
+        1.  Add your results to [logbook](https://docs.google.com/forms/d/1ld4T9pDXP6uqZbYmlebe9SxATHcP436kMobnhSQEKPI/viewform). These are visible [here](https://docs.google.com/spreadsheet/ccc?key=0AoBMPvlNCqvldHl5SERwRHVjN09wRHEtODZzd2RXNWc&usp=sharing)
         2.  Log any issues. Redtag device if necessary.
