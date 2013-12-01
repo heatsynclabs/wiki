@@ -25,25 +25,13 @@ HeatSync membership is open to the public, but use of certain equipment and key/
 </thead>
 <tbody>
 <tr>
-<td style="text-align: left;" data-valign="top"><p>Costs $25 per month, and confers</p>
-<ul>
-<li>The right to have your name on the list of members</li>
-<li>Access to the lab and shared equipment during the published hours of operation</li>
-<li>And discounts with local manufacturers and suppliers.</li>
-</ul>
-<p>Other membership rights listed herein, such as board election voting rights, do not apply.</p></td>
+<td style="text-align: left;" data-valign="top"><p>Costs $25 per month, and confers A vote at Hack Your Hackerspace</p></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;" data-valign="top"><p>Costs $50 per month, and confers the benefits of Associate Membership, plus</p>
 <ul>
-<li>Personal project space for a banker box
-<dl>
-<dt></dt>
-<dd>
-(first box provided by HeatSync Labs)
-</dd>
-</dl></li>
-<li>The ability to direct HeatSync Labs with your vote in board elections</li>
-<li>24/7 access to the lab including a key to the building and security code <strong>IF</strong> the community votes to grant you the privilege</li>
+<li>A vote at board elections</li>
+<li>A bankers box for storage</li>
+<li>Qualification to be nominated for 24/7 key access</li>
 </ul></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;" data-valign="top"><p>Costs $100 per month, and you get all the benefits and rights of a basic membership, except a locker in the lab instead of a bankers box.</p></td>
@@ -51,26 +39,15 @@ HeatSync membership is open to the public, but use of certain equipment and key/
 </tbody>
 </table>
 
-**Sponsorships** are simply monthly recurring donations which confer no rights.
+More than anything else, membership is a regular donation. Its is NOT payment for a service.
 
 ### Membership Fees
 
-If you sign up for membership via PayPal or Dwolla, your recurring monthly dues will be subtracted from your account the same date you enrolled. If you chpose Cash/Check -- you can either mail your dues (140 West Main St. Mesa, AZ 85201) or deliver it to Marita Ogden and Chad Stearns (treasurer @ heatsynclabs.org) at HeatSync. Please note recurring payments are -highly- encouraged-- remember we do not have staff. If cash/check are important please consider using your bank's automatic bill-pay feature, or prepaying for 3, 6 or 12 months up front.
+If you sign up for membership via PayPal or Dwolla, your recurring monthly dues will be subtracted from your account the same date you enrolled. If you chpose Cash/Check -- you can either mail your dues (140 West Main St. Mesa, AZ 85201) or deliver it to Chad Stearns (treasurer @ heatsynclabs.org) at HeatSync. Please note recurring payments are -highly- encouraged-- remember we do not have staff. If cash/check are important please consider using your bank's automatic bill-pay feature, or prepaying for 3, 6 or 12 months up front.
 
-### Membership Privileges and Responsibilities
+### Membership and Equipment
 
-The Member will have an equal right to voice their opinion with a single vote. The Member can vote their preference or abstain from voting in the affairs of HeatSync Labs The Member will have reasonable inspection rights of HeatSync Labs, corporate records. The Member will be responsible for timely payment of dues, providing their current address, contact information, and preference for electronic receipt of communications. The Member is responsible for continuing to support the purposes of HeatSync Labs and adhere to all rules set by the HeatSync Labs Board pertaining to the organization's facilities. The Member in good standing as defined in Section 5 of the HeatSync Labs ByLaws has the following privileges:
-
-- may vote in organization elections;
-- have business hour access to HeatSync Labs space and access to HeatSync Labs equipment; (tbd)
-- ability to self-nominate for member elections;
-- may serve on the board of the organization;
-- may vouch for guests, taking responsibility for the property of the organization's upon themselves;
-- may request keyed access to the HeatSync Labs facility;
-- retain control over own intellectual property rights; and
-- may lend, donate or store property brought to the HeatSync Labs space.
-
-In addition, we expect that all members will abide by the bylaws voted and in place for the organization which includes manners in which to conduct yourself while in the space. Please be sure to read and understand them prior to applying.
+The equipment in the lab, and the supplies necessary to keep equipment in operation, are the responsibility of the members of Heatsync Labs. Supplies, materials, and other consumables, are kept in stock to the extent that members purchase them for the lab.
 
 Consumables such as stock, drill/mill bits, adhesives,etc are NOT a right of membership. Many consumables are available in the shop but are expected to be refilled by members, or not be available. Spare stock from projects may be stored in the space and is encouraged to be used--and refilled.
 
@@ -91,25 +68,15 @@ The membership of a member shall terminate upon the following events:
 - Notice shall be given by any method reasonably calculated to provide actual notice to the member. The member shall be given an opportunity to be heard, either orally or in writing, within 7 business days of the effective date of the termination. The hearing shall be held, or the written statement considered, by the Board of Directors.
 - All rights of a member in the corporation shall cease on termination of membership as herein provided. All access cards and keys must be returned to HeatSync Labs.
 
-## General Space Safety Rules
-
-Proceeding into shop areas constitutes agreement with these and other posted guidelines.
-
-**Certification:** Any class taught by an experienced person, that is hands-on, and that teaches the rules in the wiki as well as an emphasis on safety, should be good enough for the Board.
-
-Types of rules to consider implementing: - Preventing injury to the operator and bystanders - Preventing damage to the tool or facility - Keeping the tool clean and ready-to-use for the next person
-
 ### General
 
 - Clean up after yourself after using any public space or machine, including cleaning tables, machines and floor area around it and returning any items to their proper location.
-- Do not use a machine if you have not been shown how to operate it safely by the teacher.
-- All accidents and safety violations are to be reported to any Officer as soon as possible, within 24 hours at the latest.
+- Do not use a machine if you have not been shown how to operate it safely.
+- All accidents and safety violations are to be reported.
 - Only use correct tools for your work.
 - When carrying tools, sharp edges should be pointed downwards.
 - Be patient and do not rush.
 - Avoid distractions.
-- Don’t work on anything when you are angry or upset.
-- Only use tools you’ve been trained and/or approved to work with/on. Ask!
 
 ### Workshop
 
@@ -485,12 +452,6 @@ See [Ultimaker Quickstart Guide](Ultimaker-Quickstart-Guide), [Fakerbot](Fakerbo
 - If you break a bit, stop and reevaluate what you're doing wrong.
 - Don't use precision bits for rough work.
 - Don't use TiN (yellow) bits for Aluminum
-
-### Consumables
-
-- Consumables are not a part of membership. However, spare stock from projects may be stored in the space and is encouraged to be used--and refilled.
-- Expensive consumable usage may be tracked (RFID?)
-- Expenses that go above a certain amount may be charged back to the member in order to finance replacement consumables.
 
 ---
 *Categories: [Rules and Policies](Category-Rules-and-Policies)*
