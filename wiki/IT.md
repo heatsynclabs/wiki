@@ -1,4 +1,4 @@
-## IT
+## Information Technology
 
 - Server/website/email/wiki/docs design/implementation/support/management
 - Web development and design (with marketing help)
