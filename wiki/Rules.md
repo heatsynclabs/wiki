@@ -28,6 +28,7 @@ HeatSync membership is open to the public, but use of certain equipment and key/
 <td style="text-align: left;" data-valign="top"><p>Costs $25 per month, and confers</p>
 <ul>
 <li>A vote at Hack Your Hackerspace (excluding card-granting votes)</li>
+<li>Discounts for certain classes</li>
 </ul></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;" data-valign="top"><p>Costs $50 per month, and confers the benefits of Associate Membership, plus</p>
