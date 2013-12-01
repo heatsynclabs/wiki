@@ -12,6 +12,7 @@ These lists are not exhaustive. If your material is not on either list, ask firs
 - MDF
 - Paper
 - Plywood
+- Fabric
 
 ### Forbidden / Incapable
 
