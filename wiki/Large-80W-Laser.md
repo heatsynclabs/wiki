@@ -18,6 +18,7 @@ These lists are not exhaustive. If your material is not on either list, ask firs
 
 - Metal
 - Skin/flesh
+- PVC -- or anything containing PVC
 
 ## Operation
 
