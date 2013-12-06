@@ -1,4 +1,4 @@
-From [Natalie Freed](http://www.nataliefreed.com/)'s class at HSL on Nov 26 2013:
+![paper_electronics_photo.png](files/Paper_electronics_photo.png) From [Natalie Freed](http://www.nataliefreed.com/)'s class at HSL on Nov 27 2013:
 
     Materials we used in the workshop:
     -copper tape: 
