@@ -1,4 +1,6 @@
-Materials we used in the workshop:
+From [Natalie Freed](http://www.nataliefreed.com/)'s class at HSL on Nov 26 2013:
+
+    Materials we used in the workshop:
     -copper tape: 
          -https://www.sparkfun.com/products/10561
          -http://www.digikey.com/product-detail/en/1181%20X%201%2F4%22/3M1181A-ND/30708?cur=USD (more expensive, but slightly thinner and more flexible - a little bit nicer to work with and the edges are less likely to cut you)
