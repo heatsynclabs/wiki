@@ -59,12 +59,29 @@ From Bankruptcy to Surplus to Seizure these are the local guys we've come across
 
 Remember HeatSync has its own [Laser Cutter](Laser-Cutter) too!
 
+#### Laser Bits Directory
+
+<http://www.laserbits.com/images/LaserResources/LaserJobShops/Arizona.html>
+
+- Directory of shops in AZ
+
 #### Phoenix Laser Engraving
 
-- <http://www.phoenixlaserengraving.com/>
-  - Laser Engraving
-  - Cutting
-  - Design and Fabrication
+<http://www.phoenixlaserengraving.com/>
+
+- Laser Engraving
+- Cutting
+- Design and Fabrication
+
+#### Phoenix Custom Lasering
+
+<http://phoenixcustomlasering.com/>
+
+#### ITC Manufacturing
+
+<http://www.itcmfg.com/>
+
+- 2000-4000 watt laser (for metal)
 
 ### Waterjet/CNC Machining Services
 
