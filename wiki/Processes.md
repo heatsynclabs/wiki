@@ -2,6 +2,7 @@ With the variety of tools at HeatSync, this page is intended to keep a running r
 
 ### List of Processes
 
+- [Paper Electronics](Paper-Electronics)
 - [PCB Etching](PCB-Etching)
 - [Stencil Etching](Stencil-Etching)
 - [Toaster Oven Reflow Soldering](Toaster-Oven-Reflow-Soldering)
