@@ -2,6 +2,66 @@
 
 Segments of our application that don't contain personal or private information (names, addresses, ID numbers) and that may be relevant to future HSL decisionmaking are pasted below. The originals can be found in the HeatSync Board folder on Google Docs (current) / Dropbox (old).
 
+### Articles of Incorporation
+
+ARTICLES OF INCORPORATION OF A TAX-EXEMPT Pursuant to A.R.S. §10-3202 (Arizona Non-Profit Corporation)
+
+1\. Name: The Name of the Corporation is: HeatSync Labs
+
+2\. Purpose: The purpose for which the corporation is organized is: Our mission is to provide space and tools to the community for use in furthering technology, science, and education through self-instruction, workshops, and individual or group projects.
+
+3\. Character of Affairs: The character of affairs of the corporation will be:
+
+4\. No part of the net earning of the corporation shall inure to the benefit of, or be distributable to its members, directors, officers, or other private persons, except that the corporation shall be authorized and empowered to pay reasonable compensation for services rendered and to make payments and distributions in furtherance of the purposes set forth in Article 2. No substantial part of the activities of the corporation shall be the carrying on of propaganda, or otherwise attempting to influence legislation, and the corporation shall not participate in, or intervene in (including the publishing or distribution of statements,) any political campaign on behalf of any candidate for public office. Notwithstanding any other provision of these Articles, the corporation shall not carry on any other activities not permitted to be carried on: (a) by a corporation exempt from Federal Income Tax under Section 501c3 of the United States Internal Revenue Code (or the corresponding provision of any future United States Internal Revenue Law) or: (b) by a corporation, contributions to which are deductible under Section 501c3 of the United States Internal Revenue Code (or the corresponding provisions of any future United States Internal Revenue Laws).
+
+5\. Upon the dissolution of the corporation, the Board of Directors shall, after paying or making provision for the payment of all of the liabilities of the corporation, dispose of all its assets exclusively for the purposes of the corporation in such a manner, or to such organizations organized and operated exclusively for charitable, educational, religious or scientific purpose as shall at the time qualify as an exempt organization or organizations under Section 501c3 of the United States Internal Revenue Code (or the corresponding provision of any future United States Internal Revenue Laws) as the Board of Directors shall determine. Any such assets not disposed of shall be disposed of by the Superior Court of the county in which the principal office of the corporation is then located, exclusively for such purpose or to such organization or organizations, as said Court shall determine, which are organized and operated exclusively for such purpose.
+
+6\. The power of indemnification under the Arizona Revised Statutes shall not be denied or limited by the bylaws.
+
+7\. Board of Directors: The initial board of directors shall consist of 3 director(s). The name(s) and address(es) of the person(s) who is(are) to serve as the director(s) until the first annual meeting of the members, if a member corporation, or Board of Directors, if the corporation has no members, or until his(her)(their) successor(s) is(are) elected and qualifies is(are):
+
+... listed ...
+
+All powers, duties and responsibilities of the incorporators shall cease at the time of delivery of these Articles of Incorporation to the Arizona Corporation Commission.
+
+11\. Check this box, if this provision will apply to your corporation.
+
+DISCRIMINATION: The Corporation will not practice or permit discrimination on the basis of sex, race, national origin, religion, physical handicap or disability.
+
+12\. MEMBERS (Check One)
+
+The corporation: will have members will not have members.
+
+### Part II
+
+#### Attachment: Bylaws
+
+I. NAME AND PURPOSE
+
+1\. The name of this organization shall be known as HeatSync Labs.
+
+2\. The purpose of HeatSync Labs (herein referred to as “HSL”) shall be to provide a physical environment for the discussion, planning, and construction of collaborative endeavors in the application of technology as well as technological expressions of artwork.
+
+...
+
+III\. INTERESTED PERSONS
+
+1\. Limitations on Interested Persons. At all times, not more than 49% of officers in the Board of Directors may be Interested Persons. An Interested Person is defined as:
+
+A. Any member currently being compensated by the organization for services rendered to it within the previous twelve months, whether as a full-time or part-time employee, independent contractor, or otherwise, excluding any reasonable compensation paid to a director in his or her capacity in the Board of Directors; Or
+
+B. Any brother, sister, ancestor, descendant, spouse, brother-in-law, sister-in-law, son-in-law, daughter-in-law, mother-in-law, or father-in-law of any such person.
+
+2\. In the event that an election results in a majority of Interested Persons elected as officers in the Board of Directors, the current officers of the Board of Directors shall vote for the removal of a sufficient number of Interested Persons to meet the quota of non-Interested persons defined in this section. Following the removal of a sufficient number of Interested Persons, the remaining officers of the Board of Directors shall hold a special election to fill in any offices left vacant by the removal of Interested Persons, as described in Article II, Section 7.
+
+3\. Where it is not reasonably practicable to obtain approval of the Board of Directors before entering into a self dealing transaction, the office of the Treasurer or Champion may approve such a transaction under the condition that, at the following meeting of the Board of Directors, a quorum of the Board of Directors determines that the transaction was in the unbiased and best interests of the HSL and that it was not reasonably practical to obtain advance approval by a full quorum of the Board of Directors.
+
+IV\. MEMBERSHIP
+
+1\. Membership in HSL shall be open to anyone in the community with a genuine interest in the HSL's purpose, and shall not be discriminated against on the basis of color, race, gender, national origin, religion, creed, political affiliation/orientation, sexual preference/orientation, age, disability, software preference, or veteran status.
+
+...
+
 ### Part III. Required Provisions in Your Organizing Document
 
 The following questions are designed to ensure that when you file this application, your organizing document contains the required provisions to meet the organizational test under section 501(c)(3). Unless you can check the boxes in both lines 1 and 2, your organizing document does not meet the organizational test. DO NOT file this application until you have amended your organizing document. Submit your original and amended organizing documents (showing state filing certification if you are a corporation or an LLC) with your application.
@@ -104,6 +164,64 @@ b\) In carrying out your exempt purposes, do you provide goods, services, or fun
 
 3\. Do any individuals who receive goods, services, or funds through your programs have a family or business relationship with any officer, director, trustee, or with any of your highest compensated employees or highest compensated independent contractors listed in Part V, lines 1a, 1b, and 1c? If “Yes,” explain how these related individuals are eligible for goods, services, or funds. **Yes**
 
+#### Attachment
+
+1 Brief description of activities and services listed in the narrative that we offer to individuals (1a) and organizations (1b):
+
+Public Meeting: These are open meetings for the public to come in and take a look at our lab environment. During these meetings people get to sit in on presentations, see current projects that HeatSync Labs and its members are working on, and check out the facilities and its equipment.
+
+Workshops: Currently we're offering a basic electronics workshop for Members and Non-members of all ages using the recently popular platform of an Arduino Microcontroller. In the future we will be running workshops on tools that we are bringing into the lab. Also, community members will be running workshops focusing on their own specialties.
+
+2 Please refer to the following “Part IV - Appendix A: Membership Application Packet” for details on the limitation and how our members are selected for each program:
+
+3 Currently there are no additional family or business relationships between members and board members that has not already been disclosed in other parts of this application. In the future, members may have family or business relationship with other members, per our open membership application structure.
+
+#### Appendix A: Membership Application Packet
+
+From YouTube™ to Etsy™ to Arduino™, the Internet has created an entire generation of users who choose to break free from the traditional consumer model and instead aspire to create and share.
+
+`   Traditional institutions have failed to provide adequate resources to meet these new demands. While the cost of digital production has fallen to nearly zero, access to low cost professional quality tools has not followed suit. Heavy industrial and electrical equipment, as well as professional computer software packages, can be so costly as to be out of reach for the student, entrepreneur, or garage tinkerer. We at HeatSync Labs seek to make these resources available to our creative community through cooperative collaboration. In addition, we believe that it's not enough to merely provide access to these resources, but that it's just as important to foster a community of sharing and educating among members. `
+
+We are artists, engineers, tinkerers, students, entrepreneurs; We are HeatSync Labs. Why don’t you start \[sewing, sawing,carving, welding, soldering, ...\] that project you’ve been thinking about? www.heatsynclabs.org Meetings held First and Third Thursday at our more digital half,
+
+Gangplank \| www.gangplankhq.com 325 East Elliot Rd Suite 34
+
+`                           Chandler, AZ 85225`
+
+We aim to instill the mindset of learning by both dissecting existing technology and collaboratively constructing the products of our imaginations.
+
+`   HeatSync Labs Membership Application`
+
+Legal Name (Last, First):       Desired Username:      
+
+Address:      
+
+City:       State:       Zip code:      
+
+Phone number:      
+
+Email address:      
+
+In case of emergency, HeatSync Labs, Inc. can contact:
+
+Name:      
+
+Phone number:       Relationship:      
+
+Check Applicable: I have attended three HeatSync Labs events or meetings, or I am requesting a waiver to become a member without meeting the three meeting requirement\* (please attach explanation why)
+
+      I have read and agreed to abide by the HeatSync Labs bylaws.       I have signed the Member Agreement and Liability Waiver.
+
+Briefly state your main interest in joining HeatSync Labs:       I would like to teach a class. Explain below:      
+
+Applicant Signature:       Date:
+
+DO NOT WRITE BELOW – FOR BOARD USE ONLY Board has approved applicant for membership. Board has not approved applicant for membership. Reason for not approving: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Board Member Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date: \_\_\_\_\_\_\_\_\_ Board Member Name (Print): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Assigned Membership Number: \_\_\_\_\_\_\_\_ Access card/key given: Yes/No
+
 ### Part VIII. Your Specific Activities
 
 The following “Yes” or “No” questions relate to specific activities that you may conduct. Check the appropriate box. Your answers should pertain to past, present, and planned activities. (See instructions.)
@@ -173,6 +291,52 @@ c\) If there is a business or family relationship between any manager or develop
 22\. Do you or will you provide scholarships, fellowships, educational loans, or other educational grants to individuals, including grants for travel, study, or other similar purposes? If “Yes,” complete Schedule H. **No**
 
 Note: Private foundations may use Schedule H to request advance approval of individual grant procedures.
+
+#### Attachment: Part VIII
+
+4a mail - We may mail out requests to known businesses and individuals requesting donations of goods, services, and/or funds for a specific purpose.
+
+`   email - We may email out requests to known businesses and individuals requesting donations of goods, services, and/or funds for a specific purpose. `\
+`   person - We may personally request known businesses and individuals for  donations of goods, services, and/or funds for a specific purpose. `\
+`   foundation grants - We request grants from foundations based upon a specific project or foundation guidelines. For example, Arizona State University EAP Grant application was submitted. `\
+`   accept donations on your website - We may provide the means for persons or businesses to donate via our website. `\
+`   accept donations from another organization’s website - We may provide the means for persons or businesses to donate via another organization’s website.`\
+`   government grant soliciations -- We request grants from governments based upon a specific project or government guidelines.`\
+`   other - We may solicit donations of good, services, and/or funds via other venues such as Facebook, Twitter, or online forums. `
+
+Please reference “Part VIII - Appendix A: Fundraising Program Examples” for actual examples of letters, emails, and social media messages we have used for fundraising purposes.
+
+4c Currently, no fundraising for other organizations is conducted. We may elect to fundraise in the future for mutually beneficial organizations or events, sister organizations, or national disasters or community outreach purposes (this list is non-inclusive).
+
+4d For all of the following we fundraise for our own organization: State of Arizona; City of Phoenix, Tempe, Mesa, Chandler, Gilbert, Glendale, Peoria, Apache Junction, Queen Creek; Maricopa County. Per our website: We reach all 50 states.
+
+7a Gangplank Collective in Chandler, Arizona. They provide shared resources to persons, businesses, and to the facility (such as physical space, internet connectivity, utilities, furnishings) at no cost.
+
+7b Gangplank Collective in Chandler, Arizona. They provide our facilities at no cost and schedule exclusive usage of said facility.
+
+7c There are no business or family relationships between Gangplank Collective and HeatSync Labs.
+
+11 We currently have not accepted any donations which fall in these categories but it may be accepted in the future.
+
+15 We currently share facilities and resources with Gangplank Collective in Chandler, Arizona.
+
+#### Appendix A: Fundraising Program Examples
+
+Twitter/Facebook Example:
+
+Please donate to @heatsynclabs for \[insert project/need here\].
+
+Actual Fundraiser: Feeling charitable this holiday season? Help @heatsynclabs reach it's fundraising goal! <http://www.heatsynclabs.org/?p=227>
+
+Letter or Email Example:
+
+\[Donor Contact\] \[Donor Company\] \[Donor Address\] \[Donor Address con’t\] \[Date\] Dear \[insert potential donor name here\]
+
+`   HeatSync Labs is the first and only hackerspace in Phoenix, Arizona. While the cost of digital production has fallen to nearly zero, access to low cost professional quality tools has not followed suit. Heavy industrial and electrical equipment, as well as professional computer software packages, can be so costly as to be out of reach for the student, entrepreneur, or garage tinkerer. We at HeatSync Labs seek to make these resources available to our creative community through cooperative collaboration. In addition, we believe that it's not enough to merely provide access to these resources, but that it's just as important to foster a community of sharing and educating among members. `\
+`   [Insert information regarding specific project/request here]`\
+`   We are a 501-c-3 organization (application pending approval), and all corporate gifts will be tax deductible upon approval. We welcome your participation and truly appreciate your support. We will honor your donation by thanking your company [insert manner of acknowledging company here]. With your help, we can achieve our goals of making HeatSync Labs an important part of our community, and make a real impact in people’s lives. To attend the event or to make a donation, please contact. `
+
+Sincerely yours, \[Your Name Here\] \[Your Title (if applicable)\] \[Your email\] \[Other contact means\]
 
 ### Part X. Public Charity Status
 
