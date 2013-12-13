@@ -36,18 +36,39 @@ High-Low Tech Group at MIT: [Tutorials:](http://hlt.media.mit.edu/?cat=20) Some 
 
 - [Kit-of-no-parts:](http://web.media.mit.edu/~plusea/) great starting point if you want to experiment with diverse materials
 
-Other interesting materials: -fiber optic cable: <http://thefiberopticstore.com/purchase/endglowfilament.htm> -fiber optic fabric: <https://www.sparkfun.com/products/11594> - graphite paint (slightly more resistive/less conductive, which is great for making sensors): Bare Paint (they also have some cool paper circuit tutorials, like the little houses and capacitive sensing): <http://www.bareconductive.com/> - copper paint (Cu-pro Cote paint): <http://www.lessemf.com/paint.html> - silver ink: <http://www.conductivecompounds.com/WB_101_Water_Based_Silver_Conductive_Ink.html> - conductive fabric tape (scroll down to Ni/Cu/Co Fabric tape), good for making folds that won't break over time, but tricky to solder to:<http://lessemf.com/fabric.html> - liquid crystal color-changing paint: <http://www.scientificsonline.com/thermal-liquid-crystal-paints.html> - thermochromic (changes color with heat) pigment powder: <http://www.paintwithpearl.com/colorchangestore.htm>
+Other interesting materials:
 
-Inspirational examples: -Electronic Popables by Jie Qi: <http://www.youtube.com/watch?v=AI-6wMlaVTc> -Pu Gong Ying Tu: <http://technolojie.com/pu-gong-ying-tu-dandelion-painting/> -Telescrapbook by Natalie Freed, Jie Qi, and Adam Setapen: <http://www.nataliefreed.com/telescrapbook/> - Pulp-based Computing by Marcelo Coehlo: <http://web.media.mit.edu/~marcelo/paper/index.html> - Fold Loud by JooYoun Paek: <http://rhizome.org/editorial/3685/> Here's the video that wasn't in my presentation: <http://vimeo.com/2059708> - Anabiosis: color-changing butterflies by Akira Wakita Lab: <http://metamo.sfc.keio.ac.jp/project/anabiosis/> (this link has the video) - Paper speakers by Hannah Perner-wilson: <http://hlt.media.mit.edu/?p=1372>
+- [fiber optic cable](http://thefiberopticstore.com/purchase/endglowfilament.htm)
+- [fiber optic fabric](https://www.sparkfun.com/products/11594)
+- [graphite paint](http://www.bareconductive.com/)(slightly more resistive/less conductive, which is great for making sensors): Bare Paint (they also have some cool paper circuit tutorials, like the little houses and capacitive sensing):
+- [copper paint (Cu-pro Cote paint)](http://www.lessemf.com/paint.html)
+- [silver ink](http://www.conductivecompounds.com/WB_101_Water_Based_Silver_Conductive_Ink.html)
+- [conductive fabric tape](http://lessemf.com/fabric.html) (scroll down to Ni/Cu/Co Fabric tape), good for making folds that won't break over time, but tricky to solder to:
+- [/liquid crystal color-changing paint](http://www.scientificsonline.com/thermal-liquid-crystal-paints.html)
+- [thermochromic (changes color with heat) pigment powder](http://www.paintwithpearl.com/colorchangestore.htm)
 
-A few electronic textiles/sewable electronics materials and resources (definitely not comprehensive, but because a few people asked about it): -sewable battery holders: <http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=BA2032SM-ND> -conductive thread: <https://www.sparkfun.com/search/results?term=conductive+thread&what=products> -conductive fabric: <https://www.sparkfun.com/products/10056> -sewable microcontrollers, sensors, and other components:
+Inspirational examples:
 
-`     -LilyPad Arduino: `[`https://www.sparkfun.com/categories/135`](https://www.sparkfun.com/categories/135)\
-`     -Flora: `[`http://www.adafruit.com/products/659`](http://www.adafruit.com/products/659)
+- [Electronic Popables by Jie Qi](http://www.youtube.com/watch?v=AI-6wMlaVTc)
+- [Pu Gong Ying Tu](http://technolojie.com/pu-gong-ying-tu-dandelion-painting/)
+- [Telescrapbook by Natalie Freed, Jie Qi, and Adam Setapen](http://www.nataliefreed.com/telescrapbook/)
+- [Pulp-based Computing by Marcelo Coehlo](http://web.media.mit.edu/~marcelo/paper/index.html)
+- [Fold Loud by JooYoun Paek](http://rhizome.org/editorial/3685/): Here's the [video that wasn't in my presentation](http://vimeo.com/2059708)
+- [Anabiosis: color-changing butterflies by Akira Wakita Lab (video)](http://metamo.sfc.keio.ac.jp/project/anabiosis/)
+- [Paper speakers by Hannah Perner-wilson](http://hlt.media.mit.edu/?p=1372)
+
+A few electronic textiles/sewable electronics materials and resources (definitely not comprehensive, but because a few people asked about it):
+
+- [sewable battery holders](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=BA2032SM-ND)
+- [conductive thread](https://www.sparkfun.com/search/results?term=conductive+thread&what=products)
+- [conductive fabric](https://www.sparkfun.com/products/10056)
+
+Sewable microcontrollers, sensors, and other components:
+
+- [LilyPad Arduino](https://www.sparkfun.com/categories/135)
+- [Flora](http://www.adafruit.com/products/659)
 
 Tutorials:
 
-`     -LilyPad: `[`http://lilypadarduino.org/`](http://lilypadarduino.org/)\
-`     -Flora: `[`http://learn.adafruit.com/getting-started-with-flora/`](http://learn.adafruit.com/getting-started-with-flora/)
-
-</pre>
+- [LilyPad](http://lilypadarduino.org/)
+- [Flora](http://learn.adafruit.com/getting-started-with-flora/)
