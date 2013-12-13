@@ -7,6 +7,7 @@ The operations team is a committee recruited by the board in order to manage the
 - LASER: Ryan McDermott and Moheeb Zara
 - METALSHOP: Austin Kipp, Larry Campbell, Alex Canto, and Oliver Fulitz
 - WOODSHOP: Larry Campbell
+- NUTS&BOLTS: Greg Oswalt
 - 3D PRINTING: Oliver Fulitz, and Moheeb Zara
 - ELECTRONICS: Jacob Rosenthal, and Eric Ose
 - MICROCONTROLLERS: Jacob Rosenthal, and Eric Ose
