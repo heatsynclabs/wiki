@@ -5,7 +5,7 @@
 From [Natalie Freed's](http://www.nataliefreed.com/) class at HSL on Nov 27 2013: Materials we used in the workshop:
 
 - [copper tape](https://www.sparkfun.com/products/10561)
-- [more expensive](http://www.digikey.com/product-detail/en/1181%20X%201%2F4%22/3M1181A-ND/30708?cur=USD), but slightly thinner and more flexible - a little bit nicer to work with and the edges are less likely to cut you
+- [Copper foil](http://www.digikey.com/product-detail/en/1181%20X%201%2F4%22/3M1181A-ND/30708?cur=USD), more expensive but slightly thinner and more flexible - a little bit nicer to work with and the edges are less likely to cut you
 - or copper tape sold for stained glass making
 - or "snail tape" from hardware stores
 - [surface-mount LEDs](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=160-1737-1-ND) (these are white, there are lots of other colors - search for "1206 surface mount LEDs". I buy them in bulk from Ebay for a good bit cheaper, but the shipping takes a bit longer that way).
