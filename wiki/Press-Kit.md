@@ -8,7 +8,7 @@ See a press-ready description of HeatSync here: <http://www.heatsynclabs.org/abo
 
 Download the branding guidelines here for proper use of our logo, etc: [Heatsync_labs_logo_pack.zip](files/Heatsync_labs_logo_pack.zip)
 
-For just our brand standards, see: [Heatsync_labs_brand_standards.pdf](files/Heatsync_labs_brand_standards.pdf)
+**For just our brand standards, see: [Heatsync_labs_brand_standards.pdf](files/Heatsync_labs_brand_standards.pdf)**
 
 #### Selected bitmaps (see logo pack for vectors)
 
