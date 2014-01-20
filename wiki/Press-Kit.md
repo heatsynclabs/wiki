@@ -10,6 +10,8 @@ Download the branding guidelines here for proper use of our logo, etc: [Heatsync
 
 **For just our brand standards, see: [Heatsync_labs_brand_standards.pdf](files/Heatsync_labs_brand_standards.pdf)**
 
+------------------------------------------------------------------------
+
 #### Selected bitmaps (see logo pack for vectors)
 
 ![Heatsync_labs_icon\_-\_color\_-\_latest.png](files/Heatsync_labs_icon_-_color_-_latest.png) ![Heatsync_labs_icon\_-\_black\_-\_latest.png](files/Heatsync_labs_icon_-_black_-_latest.png) ![Heatsync_labs_logo\_-\_color\_-\_latest.png](files/Heatsync_labs_logo_-_color_-_latest.png) ![Heatsync_labs_logo\_-\_black\_-\_latest.png](files/Heatsync_labs_logo_-_black_-_latest.png)
