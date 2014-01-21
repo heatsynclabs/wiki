@@ -3,3 +3,6 @@
 Great resource!
 
 [The Stony Brook Algorithm Repository](http://www.cs.sunysb.edu/~algorith/)
+
+---
+*Categories: [Programming Tutorials](Category-Programming-Tutorials)*
