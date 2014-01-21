@@ -2,7 +2,7 @@ The course introduces engineering in the context of the lumped circuit abstracti
 
 NOTE: The course is not currently running, however, you can still take the course and access most materials. No registration is required.
 
-[1](https://6002x.mitx.mit.edu)
+[](https://6002x.mitx.mit.edu)
 
 ---
 *Categories: [Electronics Tutorials](Category-Electronics-Tutorials)*
