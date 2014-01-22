@@ -4,4 +4,5 @@ LTSpice is a nicely maintained version of Spice for Windows and Mac. Reported to
 
 [LTSpice](http://www.linear.com/designtools/software/)
 
-\[Category:Electronics Utilities\]
+---
+*Categories: [Electronics Utilities](Category-Electronics-Utilities)*
