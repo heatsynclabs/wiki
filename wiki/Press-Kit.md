@@ -16,4 +16,18 @@ Promote HeatSync with this snazzy flier: [hsl_flier_1.pdf](files/Hsl_flier_1.pdf
 
 ## Selected bitmaps (see logo pack for vectors)
 
-![Heatsync_labs_icon\_-\_color\_-\_latest.png](files/Heatsync_labs_icon_-_color_-_latest.png) ![Heatsync_labs_icon\_-\_black\_-\_latest.png](files/Heatsync_labs_icon_-_black_-_latest.png) ![Heatsync_labs_logo\_-\_color\_-\_latest.png](files/Heatsync_labs_logo_-_color_-_latest.png) ![Heatsync_labs_logo\_-\_black\_-\_latest.png](files/Heatsync_labs_logo_-_black_-_latest.png)
+![](files/Heatsync_labs_icon_-_color_-_latest.png)
+
+*Heatsync_labs_icon\_-\_color\_-\_latest.png*
+
+![](files/Heatsync_labs_icon_-_black_-_latest.png)
+
+*Heatsync_labs_icon\_-\_black\_-\_latest.png*
+
+![](files/Heatsync_labs_logo_-_color_-_latest.png)
+
+*Heatsync_labs_logo\_-\_color\_-\_latest.png*
+
+![](files/Heatsync_labs_logo_-_black_-_latest.png)
+
+*Heatsync_labs_logo\_-\_black\_-\_latest.png*
