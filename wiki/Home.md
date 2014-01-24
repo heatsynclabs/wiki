@@ -79,7 +79,7 @@
 <p>Public Info</p>
 </div>
 <ul>
-<li><a href="Press-Kit">Press Kit</a></li>
+<li><a href="Press-Kit">Press Kit aka Logos &amp; Flyers</a></li>
 <li><a href="Press">Press</a></li>
 </ul></td>
 </tr>
