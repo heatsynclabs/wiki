@@ -14,6 +14,8 @@ Download the branding guidelines here for proper use of our logo, etc: [Heatsync
 
 Promote HeatSync with this snazzy flier: [hsl_flier_1.pdf](files/Hsl_flier_1.pdf)
 
+------------------------------------------------------------------------
+
 ## Selected bitmaps (see logo pack for vectors)
 
 ![](files/Heatsync_labs_icon_-_color_-_latest.png)
