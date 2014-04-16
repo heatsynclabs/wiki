@@ -84,3 +84,5 @@ External dimensions: (W\*D\*H) 950x500x1100 mm 37x19.7x43.3in
 Total weight: (main frame, horse) 28kgs(15,13)
 
 User Manual: [2](http://www.uscuttersupport.com/downloads/Vinyl_Cutters/Copam/copam_manual.pdf)
+
+Software: [3](http://support.uscutter.com/index.php?/Knowledgebase/Article/View/190/27/01-signblazer-elements) (Use the USCutter release)
