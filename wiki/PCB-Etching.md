@@ -8,6 +8,7 @@
 
 - [BatchPCB](http://batchpcb.com/) for fairly quackish and cheap turnaround - 1 month
 - [Seedstudio Fusion PCB](http://www.seeedstudio.com/depot/fusion-pcb-service-p-835.html?cPath=185) for qty10, relatively cheap for small sizes. 2-5 week turnaround typical.
+- [Dirty PCBs](http://dirtypcbs.com/) done dirt cheap (dubious quality)
 
 otherwise find a deal with the big boys
 
