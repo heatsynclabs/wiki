@@ -27,13 +27,13 @@
 
 ## Basic Operation
 
-1\. Load vinyl The vinyl can be fed into the machine from the front or back, and should be held in place by locking the two rollers at its edges. These rollers must be placed in the green sections of the track to work properly.
+1\. Load vinyl - The vinyl can be fed into the machine from the front or back, and should be held in place by locking the two rollers at its edges. These rollers must be placed in the green sections of the track to work properly.
 
-2\. Measure the material size Make sure the machine is on, then press the measure button and select “scroll” or “sheet” depending on the piece of vinyl you are using. The machine should measure the width and, if you selected sheet, the length of the material. It will then move the blade to the lower right corner if the material. Press enter to confirm the measured width.
+2\. Measure the material size - Make sure the machine is on, then press the measure button and select “scroll” or “sheet” depending on the piece of vinyl you are using. The machine should measure the width and, if you selected sheet, the length of the material. It will then move the blade to the lower right corner if the material. Press enter to confirm the measured width.
 
-3\. Adjust the starting point Use the arrow keys to move the blade to where you want to start cutting (your design will be cut to the upper left of this point.) Hold enter until the screen shows “x:0 y:0” to set the starting point, press enter to cancel.
+3\. Adjust the starting point - Use the arrow keys to move the blade to where you want to start cutting (your design will be cut to the upper left of this point.) Hold enter until the screen shows “x:0 y:0” to set the starting point, press enter to cancel.
 
-4\. Cut your design Open SignBlazer Elements on the computer. You can design your graphic in the software, or import files (see list above). The page size can be adjusted to match your vinyl size by clicking the “Setup” button on the toolbar. When you are ready to cut, press the “Cutter” button on the toolbar. This will open a preview of where your cut will be placed. Press the “CUT!” button on the toolbar, and then press “Cut Tile” on the dialog that opens. When the cut is done, press enter on the machine to reset it for another cut, or turn the machine off.
+4\. Cut your design - Open SignBlazer Elements on the computer. You can design your graphic in the software, or import files (see list above). The page size can be adjusted to match your vinyl size by clicking the “Setup” button on the toolbar. When you are ready to cut, press the “Cutter” button on the toolbar. This will open a preview of where your cut will be placed. Press the “CUT!” button on the toolbar, and then press “Cut Tile” on the dialog that opens. When the cut is done, press enter on the machine to reset it for another cut, or turn the machine off.
 
 ## Specifications
 
