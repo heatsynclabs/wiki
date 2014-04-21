@@ -26,9 +26,9 @@ In almost all cases the answer is no. HeatSync is a place where we come and crea
 
 Start doing your idea in public! Announce your intentions to a wide audience, set dates/times, and show up to work on it even if it's just you. Send reminders beforehand and/or summaries afterward to keep it on people's minds, and encourage people one-on-one to RSVP yes/no publicly to show activity. Eventually like-minded people will show up, and when they see you making progress they'll be much more likely to join in. This "snowball effect" method is a great way of starting stuff in a [do-ocratic community](http://www.communitywiki.org/DoOcracy).
 
-# Q: Why doesn't HeatSync have X tool/disposable? Why is HeatSync out of X?
+# Q: Why doesn't HeatSync do/have X? Why aren't things as good as they could be?
 
-If we don't have something, generally its because you haven't bought it yet! HeatSync is entirely member-supported, run, and maintained. Think of HeatSync as your garage. If you need a staple gun and staples you'll have to go out and buy it. However at HeatSync, someone else already bought the hammer, sawzall, and router :) For bigger purchases, talk to the other HeatSync members on the discussion board and in person and work to pool the money needed. For some requests, the membership may compel the board to budget for the item via the Hack Your Hackerspace meetings.
+Generally its because you haven't done it yet! HeatSync is entirely member-supported, run, and maintained. Think of HeatSync as your garage. If you need a staple gun and staples you'll have to go out and buy it. If you want a bigger garage, you'll have to find money and build or buy a bigger one. If you want to hold cool events or change the space around, you'll have to organize that. The main difference is that at HeatSync, we've pooled our efforts, so you don't have to start from scratch or do \*every single thing\* yourself :) For bigger purchases or plans, talk to the other HeatSync members on the discussion board and in person and work to pool the money/effort/skills needed. For some requests, the membership may vote the board to pay for the item via the Hack Your Hackerspace meetings.
 
 # Q: When is the next X class/workshop/certification?
 
