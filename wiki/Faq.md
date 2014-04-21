@@ -50,7 +50,7 @@ Every 2nd and 4th thursday night at 7pm the group meets for Hack Your Hackerspac
 
 # Q: What projects can I work on?
 
-Check out the [Projects](Projects) page on the wiki for a (possibly outdated) list of the projects various members are working on. Members are encouraged to document their work on the wiki and link back to that main page, but it's not a definite requirement. Other than that, watch on the Google Group for people who are looking for help.
+Anything you want! For more ideas, check out the main page of our website, and the [Projects](Projects) page on the wiki for a (possibly outdated) list of the projects various members are working on. Members are encouraged to document their work on the wiki and link back to that main page, but it's not a definite requirement. Other than that, watch on the Google Group for people who are looking for help.
 
 # Q: What does HeatSync need?
 
