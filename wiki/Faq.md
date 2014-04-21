@@ -30,6 +30,8 @@ Start doing your idea in public! Announce your intentions to a wide audience, se
 
 Generally its because you haven't done it yet! HeatSync is entirely member-supported, run, and maintained. Think of HeatSync as your garage. If you need a staple gun and staples you'll have to go out and buy it. If you want a bigger garage, you'll have to find money and build or buy a bigger one. If you want to hold cool events or change the space around, you'll have to organize that. The main difference is that at HeatSync, we've pooled our efforts, so you don't have to start from scratch or do **every single thing** yourself :) For bigger purchases or plans, talk to the other HeatSync members on the discussion board and in person and work to pool the money/effort/skills needed. For some requests, the membership may vote the board to pay for the item via the Hack Your Hackerspace meetings.
 
+One major principle of HeatSync is "never tell someone not to make." You have nearly-unlimited freedom here! Nobody is stopping you from doing that thing you want to do (but we're not your slaves either, to get something big done you'll likely need to put in some effort, schedule meetings, and convince people to help out!)
+
 # Q: When is the next X class/workshop/certification?
 
 We don't know! Check the [calendar](http://www.heatsynclabs.org/events/) to see if something might be planned, but as stated many times, we have no staff. There are classes/certifications and workshop because you make them happen! Contact a station head (as indicated by a small whiteboard near the station) about holding a class or another member who might be able to teach you. Post to the group, or if need be research an outside instructor to come in and hold the workshop you're looking for.
