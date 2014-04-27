@@ -14,4 +14,4 @@ The lab is filled with tools to make magic happen. Most of the non-tool contents
 
 ## More Questions?
 
-If you have more questions, see the [FAQ](FAQ)
+If you have more questions, see the [FAQ](Faq)
