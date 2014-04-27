@@ -12,6 +12,10 @@ A word of advice - Be brave and talk to people. The reason there is a lab, and n
 
 The lab is filled with tools to make magic happen. Most of the non-tool contents of the lab is someone's project. There are all kinds of undocumented, half completed things. You may not be able to tell apart the tear-down bin from someones latest prototype. The best way to approach this is to ask questions. The people at the lab will have some knowledge, but maybe not the specifics. Ask questions and look for answers and you will find them.
 
+## Not at the Lab
+
+The community has many other venues, the website, this wiki, a google group, a controversial facebook page, twitter account, Flickr, GitHub repo and many others. If you want to learn more, try one or more. Pick your favorite flavor and reach out. There is always something going on.
+
 ## More Questions?
 
 If you have more questions, see the [FAQ](Faq)
