@@ -13,6 +13,7 @@
 <p>Community Information</p>
 </div>
 <ul>
+<li><a href="New-to-HeatSync-Labs">New to HeatSync Labs?</a></li>
 <li><a href="Faq">FAQ</a></li>
 <li><a href="Events">Events</a>
 <ul>
