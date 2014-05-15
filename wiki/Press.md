@@ -26,6 +26,7 @@ The HeatSync Labs Press page is intended to document articles regarding HSL even
 
 ## Mainstream Media
 
+- May 2014 [FOX 10 News - Your digital shadow, a viral marketing campaign exposes your digital life - Interview w Dan Petro - Bishop Fox](https://www.youtube.com/watch?v=n1yAfMtv_Og)
 - May 2014 [Huffington Post - If it Doesn't Exist, Build it](http://www.huffingtonpost.com/alison-dorantesgarcia/if-it-doesnt-exist-build-_b_5264553.html)
 - January 2014 [State Press - ASU students compete in local hackathon](http://www.statepress.com/2014/01/23/asu-students-compete-in-local-hackathon/)
 - November 2013 [Fox 10 - HeatSync Labs: Hacking Arizona since 2009](http://www.myfoxphoenix.com/story/24028900/2013/11/20/heatsync-labs)
