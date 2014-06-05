@@ -10,5 +10,6 @@ With the variety of tools at HeatSync, this page is intended to keep a running r
 - [Microfiche](Microfiche)
 - [ 3D Printing!](Fakerbot)
 - [ Laser Cutting](Lasering)
+  - [Laser Cutting Leather](Laser-Cutting-Leather) (i.e. for laptop bags)
 - [Tapping](Tapping)
 - [NutsandBolts](NutsandBolts)
