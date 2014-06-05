@@ -2,12 +2,10 @@ Patterns/ideas/techniques for making a laser-cut leather laptop bag:
 
 ## Pattern 1
 
-[http://zyphlar.github.io/parametric-bag/ Will Bradley's parametric bag](http://zyphlar.github.io/parametric-bag/_Will_Bradley's_parametric_bag)
+![laser-cut-laptop-bag-willbradley.jpg](files/Laser-cut-laptop-bag-willbradley.jpg) [Will Bradley's parametric bag generator](http://zyphlar.github.io/parametric-bag/)
 
 ## Pattern 2
 
-Alex Chally's laser-cut bag:
+[Alex Chally](https://github.com/alexchally)'s laser-cut bag:
 
-![](files/Laser-cut-leather-bag-pattern.png)
-
-*laser-cut-leather-bag-pattern.png*
+![laser-cut-bag-meatspace.jpg](files/Laser-cut-bag-meatspace.jpg) ![laser-cut-leather-bag-pattern.png](files/Laser-cut-leather-bag-pattern.png)
