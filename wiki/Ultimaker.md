@@ -1,4 +1,4 @@
-**The Ultimaker is running, pending upkeep by [User:Rrix](User-Rrix) and Colin.**
+**The Ultimaker is running, pending upkeep by [User:Dfarms](User-Dfarms).**
 
 ## Basics
 
@@ -6,15 +6,18 @@ Take a look at our [Ultimaker Quickstart Guide](Ultimaker-Quickstart-Guide) for 
 
 ## Future Plans
 
-[I'd](User-Rrix) love to work on this [awesome cassette extruder](http://www.thingiverse.com/thing:31066), but don't want to take the machine down until the [Fakerbot](Fakerbot) is working better.
+[I'd](User-Dfarms) Really like to update our machine to the Ultimaker 2 at some point.
 
 ## Tasks
 
-- Clean bearings
-- Build and install a [hagen extruder](http://www.thingiverse.com/thing:15897)
-- Print [Ultibarley](http://www.thingiverse.com/thing:16920) in various colors to display the reels of colors we have available (Seriously)
+- Clean Hot end every month
 
 ## Upkeep Log
+
+### 8 June 2014
+
+- Switched to E3d metal hot end with new bowden clamp system
+- Added Heated bed to allow for printing with different materials and allowing larger prints
 
 ### 30 November 2012
 
