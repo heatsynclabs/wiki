@@ -85,7 +85,7 @@ Your print will stop within 30 seconds and you can [Home The Nozzle](#home-the-n
 
 ### KILL DASH NINE
 
-If something is going haywire, shut the machine off using the switch on the right side and pull the steppers out of the way by hand. If the machine is not in order to print after this, please make a note on it and inform [User:rrix](User-rrix) ASAP.
+If something is going haywire, shut the machine off using the switch on the right side and move the bed down, by spinning the large screw under the bed counter clockwise, then you can push the head out of the way by hand. If the machine is not in order to print after this, don't worry, please make a note on it and inform [User:Dfarms](User-Dfarms) ASAP so we can get the printer back in working order again.
 
 ## Cleaning Up
 
