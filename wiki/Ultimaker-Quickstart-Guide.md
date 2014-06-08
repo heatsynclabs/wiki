@@ -60,9 +60,7 @@ Seriously follow this, don't use USB serial. It's just as easy and less painful.
 
 ## Print
 
-Make sure the build platform is clean and has tape that doesn't have large holes in it. If we're out of 3" blue painters tape, please add it to the shopping list and bother [User:rrix](User-rrix). Note that the tape does not need to be perfect, just flat and lacking large holes.
-
-![7784872780_9810f5be81.jpg](files/7784872780_9810f5be81.jpg) This is okay!
+Make sure the build platform is clean, if nessescary use the alcohol spray to clean the surface. Also if the glass is loose the small black clips need to be slid over it using some tweezers, the glass only fits one way.
 
 The UltiController has a scroll knob on the left end, it's also a button.
 
