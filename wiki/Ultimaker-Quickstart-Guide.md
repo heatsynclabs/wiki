@@ -2,11 +2,13 @@
 
 The Ultimaker is our wonderful fancy Dutch 3D printer. Much like their shoes, the Dutch chose to build the 3D printer using a wood frame. Using the Ultimaker isn't entirely difficult, it just takes a quick walkthrough to get it running.
 
-We are currently using Cura for our slicing.
+We are currently using Cura for our slicing, because its quick and easy to use. If you get more into 3d printing you will find that using Slic3r through Repetier host will give you more control over the parameters of the slicing than Cura.
 
 ## Getting your STL
 
 If you're downloading your model from [Thingiverse](http://thingiverse.com), it'll probably have an STL file available. If they don't, match their file types with the sections below, or [ask the internet](http://google.com).
+
+If you have your own file say from Solidworks or Autodesk Inventor, make sure you export it as an .stl. you can then load it onto a flash drive and bring it over to the 3d printing station computer. Another way to move the file to the 3d printing computer from your own is using the shared file network that we have at the lab. If you are going to use the shared file network i would recommend making yourself a folder in this location \\\files\shared\users. Once you are logged onto the Wifi you can export your files onto our shared network by exporting them to \\\files\shared\users\\"your name here". using the file networking can save you a lot of time if you are editing your file and checking it on the 3d printing computer.
 
 The Ultimaker slicing programming (Cura) will only import STL files currently. Getting STLs out of your program of choice depends on your program of choice. If yours is not documented [ask the internet](http://google.com) and then document it here.
 
@@ -25,9 +27,7 @@ Slicing is what turns the STL model (consisting of a list of the triangles in th
   - Your model will print as it appears in the build preview. Make sure that it is centered and on the build platform, laying flat, using the move, rotate and resize tools.
   - If your print has crazy overhangs or intricate details, it may **not** print well on our machine. :(
 - Select 'Switch to full settings' on the tools menu. This allows you to select the print profile for the filament you are using
-- Select 'Open Profile' on the 'File' menu and navigate to the 'Downloads' folder. Choose the \*.ini file for the color filament you are using e.g. 'silver_pla_cura.ini'
-- Each filament has different properties and needs different settings, mainly diameter, flow %, temperature, and retraction distance.
-  - Leave those settings as they are, but feel free to adjust fill density, support, etc. as needed
+- Select 'Open Profile' on the 'File' menu and navigate to the '\\\files\shared\Cura Profiles' folder. Choose the \*standard.ini file
 - Cura has many helpful view modes, available in the upper right corner of the screen
   - 'Layers' allows you to preview how it will print, layer by layer, showing shells, fill, support, etc. in different colors
   - 'Overhang' highlights overhanging areas in red, suggesting the need for support
@@ -41,13 +41,22 @@ Slicing is what turns the STL model (consisting of a list of the triangles in th
 
 If those defaults don't make sense to you for some reason (You're printing a structural piece for example and need a stronger infill) you can adjust the settings, but realize that will probably affect print time and final weight and will make Baby Jesus cry.
 
+If you do modify the print settings make sure you reload the standard.ini profile once you are done so other people dont waste their time using your settings which are probably really crappy and wont work.
+
 **DO NOT OVERWRITE DEFAULT PROFILES!**
 
 Please name your profile in the following format: TMP \$YOURNAME \$REMINDER or \$YOURNAME \$REMINDER, where reminder is something like 10% or hollow infill, or something like that so that you don't forget. Temporary profiles may be deleted when I am cleaning the machine up, UM profiles will stay.
 
+## New plastic fund
+
+- While we dont charge to use the ultimaker, some people choose to donate a few dollars
+
+whenever they print things so the lab can get more plastic for the printer.
+
 ## Getting GCode on the Printer
 
 - Pull the SD card out of the left side of the UltiController and put it in the computer
+- If it doesn't pop up just pull it out and try again until it works for you.
 - In Cura, Click the "Save Toolpath" button (floppy disk icon) to save the gcode to the SD card.
 - Put the SD card back in to the printer.
 
@@ -60,7 +69,7 @@ Seriously follow this, don't use USB serial. It's just as easy and less painful.
 
 ## Print
 
-Make sure the build platform is clean, if nessescary use the alcohol spray to clean the surface. Also if the glass is loose the small black clips need to be slid over it using some tweezers, the glass only fits one way.
+Make sure the build platform is clean, if necessary use the alcohol spray to clean the surface. Also if the glass is loose the small black clips need to be slid over it using some tweezers, the glass only fits one way.
 
 The UltiController has a scroll knob on the left end, it's also a button.
 
@@ -72,24 +81,24 @@ The machine will zero itself and begin heating the machine for the print. When i
 
 ## Oh noes!
 
-When something goes wrong on your print, don't panic, even if the heated nozzle is crashing in to the acrylic build platform.
+When something goes wrong on your print, don't panic, even if the heated nozzle is crashing in to the Heated glass build platform.
 
 ### Stop the Print
 
-If it's not a "HOLY SHIT THE MACHINE IS BROKEN" issue, you can just stop the print.
+If it's not a "HOLY SHIT THE MACHINE IS BROKEN/REPRODUCING" issue, i.e. your print got messed up or the hot end stopped extruding, you can just stop the print.
 
 - Press the button to enter the device menu
 - Scroll the button all the way down to "STOP PRINT" and press the knob
 
 Your print will stop within 30 seconds and you can [Home The Nozzle](#home-the-nozzle) and peel your failed print off.
 
-### KILL DASH NINE
+### KILL IT WITH FIRE
 
-If something is going haywire, shut the machine off using the switch on the right side and move the bed down, by spinning the large screw under the bed counter clockwise, then you can push the head out of the way by hand. If the machine is not in order to print after this, don't worry, please make a note on it and inform [User:Dfarms](User-Dfarms) ASAP so we can get the printer back in working order again.
+If something is going haywire, i.e. the machine has generated a small mushroom cloud, is crashing uncontrollably, or has started to make another 3d printer on its own, shut the machine off using the switch on the right side and move the bed down, by spinning the large screw under the bed counter clockwise, then you can push the head out of the way by hand. If the machine is not in order to print after this, don't worry unless its trying to make another printer, please make a note on it and inform [User:Dfarms](User-Dfarms) ASAP so we can get the printer back in working order again.
 
 ## Cleaning Up
 
-When you're done, clean up the build area, deposit any trash PLA in the PLA trashcan (For when we eventually build a [Filibot](Filibot)) and make sure the machine is turned off when you're done.
+Now my favourite part, when you're done, clean up the build area, deposit any excess plastic into a trashcan, it was once believed you could reuse the plastic and make it into new filament, this is not true unfortunately. Do three cartwheels and clap your shoes together in the air. Make sure the machine is turned off, and you're done.
 
 ### Logging your Work (WIP)
 
