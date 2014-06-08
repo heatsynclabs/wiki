@@ -24,22 +24,45 @@ Slicing is what turns the STL model (consisting of a list of the triangles in th
 
 - Open the model in Cura by double clicking on it
 - Here you can rotate, move, and resize the model,
-  - Your model will print as it appears in the build preview. Make sure that it is centered and on the build platform, laying flat, using the move, rotate and resize tools.
-  - If your print has crazy overhangs or intricate details, it may **not** print well on our machine. :(
-- Select 'Switch to full settings' on the tools menu. This allows you to select the print profile for the filament you are using
-- Select 'Open Profile' on the 'File' menu and navigate to the '\\\files\shared\Cura Profiles' folder. Choose the \*standard.ini file
-- Cura has many helpful view modes, available in the upper right corner of the screen
-  - 'Layers' allows you to preview how it will print, layer by layer, showing shells, fill, support, etc. in different colors
-  - 'Overhang' highlights overhanging areas in red, suggesting the need for support
-  - 'Normal' allows for resizing and rotating the object
+  - Your model will print as it appears in the build preview. Make sure that
+
+it is centered and on the build platform, laying flat, using the move, rotate and resize tools.
+
+- - If your print has crazy overhangs or intricate details, it may **not**
+
+print well on our machine. :(
+
+- Select 'Switch to full settings' on the tools menu. This allows you to select
+
+the print profile for the filament you are using
+
+- Select 'Open Profile' on the 'File' menu and navigate
+
+to the '\\\files\shared\Cura Profiles' folder. Choose the \*standard.ini file
+
+- Cura has many helpful view modes, available in the upper right corner of the
+
+screen
+
+- - 'Layers' allows you to preview how it will print, layer by layer, showing
+
+shells, fill, support, etc. in different colors
+
+- - 'Overhang' highlights overhanging areas in red, suggesting the need for
+
+support
+
+- - 'Normal' allows for resizing and rotating the object
 
 <!-- -->
 
-- Click the "Save Toolpath" button (floppy disk icon) to save the gcode to the SD card.
+- Click the "Save Toolpath" button (floppy disk icon) to save the gcode to the
+
+SD card.
 
 ### Adjusting print profile settings
 
-If those defaults don't make sense to you for some reason (You're printing a structural piece for example and need a stronger infill) you can adjust the settings, but realize that will probably affect print time and final weight and will make Baby Jesus cry.
+If those defaults don't make sense to you for some reason (You're printing a structural piece for example and need a stronger infill) you can adjust the settings, but realize that will probably affect print time and final weight and will make Moheeb cry.
 
 If you do modify the print settings make sure you reload the standard.ini profile once you are done so other people dont waste their time using your settings which are probably really crappy and wont work.
 
@@ -49,21 +72,32 @@ Please name your profile in the following format: TMP \$YOURNAME \$REMINDER or \
 
 ## New plastic fund
 
-- While we dont charge to use the ultimaker, some people choose to donate a few dollars
+- While we dont charge to use the ultimaker, some people choose to donate a
 
-whenever they print things so the lab can get more plastic for the printer.
+few dollars whenever they print things so the lab can get more plastic for the printer.
 
 ## Getting GCode on the Printer
 
-- Pull the SD card out of the left side of the UltiController and put it in the computer
+- Pull the SD card out of the left side of the UltiController and put it in
+
+the computer
+
 - If it doesn't pop up just pull it out and try again until it works for you.
-- In Cura, Click the "Save Toolpath" button (floppy disk icon) to save the gcode to the SD card.
+- In Cura, Click the "Save Toolpath" button (floppy disk icon) to save the
+
+gcode to the SD card.
+
 - Put the SD card back in to the printer.
 
 Our UltiMaker has an [UltiController](https://shop.ultimaker.com/en/parts-and-upgrades/ulticontroller-ultipanel.html) installed on it, a marvel of Dutch engineering which allows you to, using the amazing power of LCD displays and Secure Digital cards control the printer without the use of a PC computer. While this may sound limiting, there are huge benefits to printing this way:
 
-- Because the USB serial link is slower, you cannot get the printer to do crazy things like print at 700% speed
-- Prints can pause or hang due to high load on the computer causing an interrupt in USB serial communications. This usually ends up with nasty globs of plastic on the model or, commonly, print failures.
+- Because the USB serial link is slower, you cannot get the printer to do
+
+crazy things like print at 700% speed
+
+- Prints can pause or hang due to high load on the computer causing an
+
+interrupt in USB serial communications. This usually ends up with nasty globs of plastic on the model or, commonly, print failures.
 
 Seriously follow this, don't use USB serial. It's just as easy and less painful.
 
@@ -85,7 +119,7 @@ When something goes wrong on your print, don't panic, even if the heated nozzle 
 
 ### Stop the Print
 
-If it's not a "HOLY SHIT THE MACHINE IS BROKEN/REPRODUCING" issue, i.e. your print got messed up or the hot end stopped extruding, you can just stop the print.
+If it's not a "HOLY SHIT THE MACHINE IS BROKEN/REPRODUCING" issue, i.e. your print messed up or the hot end stopped extruding, you can just stop the print.
 
 - Press the button to enter the device menu
 - Scroll the button all the way down to "STOP PRINT" and press the knob
