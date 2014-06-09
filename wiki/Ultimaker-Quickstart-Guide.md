@@ -12,7 +12,7 @@ If you have your own file say from Solidworks or Autodesk Inventor, make sure yo
 
 The Ultimaker slicing programming (Cura) will only import STL files currently. Getting STLs out of your program of choice depends on your program of choice. If yours is not documented [ask the internet](http://google.com) and then document it here.
 
-Place your downloaded STL on the HSL [3D Printing Station Computer](3D-Printing-Station-Computer) in the Downloads/ folder, in a directory with Your Name. Files floating around freely in Downloads will be mercilessly deleted.
+Place your downloaded STL on the HSL 3D Printing Station Computer in the Downloads/ folder, in a directory with Your Name. Files floating around freely in Downloads will be mercilessly deleted.
 
 ### OpensCAD (\*.scad) (0\$)
 
@@ -124,7 +124,7 @@ If it's not a "HOLY SHIT THE MACHINE IS BROKEN/REPRODUCING" issue, i.e. your pri
 - Press the button to enter the device menu
 - Scroll the button all the way down to "STOP PRINT" and press the knob
 
-Your print will stop within 30 seconds and you can [Home The Nozzle](#home-the-nozzle) and peel your failed print off.
+Your print will stop within 30 seconds and you can home The Nozzle and peel your failed print off.
 
 ### KILL IT WITH FIRE
 
