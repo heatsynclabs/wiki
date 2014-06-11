@@ -9,7 +9,6 @@
 
 ## Accepted File Types
 
-- dxf
 - eps
 - ai
 - bmp
@@ -24,6 +23,7 @@
 - cmx
 - ps
 - wmf
+- dxf (may not work properly)
 
 ## Basic Operation
 
