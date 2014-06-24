@@ -1,4 +1,15 @@
-The purpose of this page is to put together a list of the skills and knowledge you can gain from being part of a hackerspace. The initial goal of this is to support library partners interested demonstrating the value of having a hackerspaces or hackerspace activities in Arizona Libraries. Further development of this list may explore the resources, and specific group workshops that can be run to facilitate learning these topics.
+The purpose is to create a list of skills and knowledge you can gain from being part of a hackerspace. The initial goal of this is to support library partners interested demonstrating the value of having a hackerspaces or hackerspace activities in Arizona Libraries. Further development of this list may explore the resources, and specific group workshops that can be run to facilitate learning these topics.
+
+Core to the purpose in sharing hacker culture is to share the values.
+
+Hacker Values and Culture
+
+`Learning`\
+`Making`\
+`Openness`\
+`Sharing`\
+`Community`\
+`Collaboration`
 
 Open Source
 
