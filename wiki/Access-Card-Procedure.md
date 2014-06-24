@@ -22,6 +22,7 @@
 
 ### Member Nonpayment/Cancellation
 
+- It's a good idea for the member to have a Basic (\$50/mo) membership.
 - Members cards are deactivated / reactivated upon notice of nonpayment or other issues from the Treasurer.
 - Check the Access Control System Card Database.txt file in Dropbox.
   - Find the user's entry in the list, and update their UserMask to be 255 ("no access") instead of 1 ("full access") or vice versa.
