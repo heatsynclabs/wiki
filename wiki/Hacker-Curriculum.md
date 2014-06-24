@@ -1,6 +1,10 @@
-The purpose of this page is to put together a list of the topics you can explore in a hackerspace. Further development of this list may explore the resources, and specific group projects that can be run to facilitate learning these topics.
+The purpose of this page is to put together a list of the skills and knowledge you can gain from being part of a hackerspace. The initial goal of this is to support library partners interested demonstrating the value of having a hackerspaces or hackerspace activities in Arizona Libraries. Further development of this list may explore the resources, and specific group workshops that can be run to facilitate learning these topics.
 
-The initial goal of this is to support library partners interested demonstrating the value of having a hackerspaces or hackerspace activities in Arizona Libraries.
+Open Source
+
+`GPL`\
+`Creative Commons`\
+`Linux history (brief)`
 
 Programming
 
@@ -15,6 +19,7 @@ Electronics
 `Ohm's Law`\
 `Breadboard Layout`\
 `Using a Multi-Meter`\
+`Debugging a circuit`\
 `Micro-Controllers`\
 
 Mechanical Engineering
@@ -22,6 +27,7 @@ Mechanical Engineering
 Computer Aided Design
 
 `3d design`\
+`3d scanning`\
 `Organic design`\
 `Parametric design`
 
@@ -41,6 +47,8 @@ Security
 Fabric/Sewing
 
 `Sewing machine`\
+`Knitting`\
+`Crochet`\
 `Hand stitching`\
 `Embroidery`
 
@@ -61,3 +69,7 @@ Science
 Robotics
 
 `Refer to the topics under electronics, fabrication, and programming.`
+
+Math
+
+`It may be useful to link the sub-topics above to specific math concepts.`
