@@ -2,10 +2,10 @@ The HeatSync Labs Press page is intended to document articles regarding HSL even
 
 ## Blogs
 
-- June 2014 [HeatSync Labs Wins a 3D Carving Machine](http://blogs.phoenixnewtimes.com/jackalope/2014/06/heatsync_labs_mesa_3d_carving_machine.php)
-- June 2014 [Follow up of Hacker meet up at Heatsync Labs](http://hackaday.com/2014/06/02/follow-up-of-hacker-meet-up-at-heatsync-labs/)
-- May 2014 [Hackaday Meetup with HeatSync Labs and The Tymkrs](http://hackaday.com/2014/05/09/hackaday-meetup-with-heatsync-labs-and-the-tymkrs/)
-- March 2013 [Hackerspace intro: HeatSync Labs](http://hackaday.com/2013/03/11/hackerspace-intro-heatsync-labs/)
+- June 2014 [Phoenix New Times: HeatSync Labs Wins a 3D Carving Machine](http://blogs.phoenixnewtimes.com/jackalope/2014/06/heatsync_labs_mesa_3d_carving_machine.php)
+- June 2014 [Hack-a-day: Follow up of Hacker meet up at Heatsync Labs](http://hackaday.com/2014/06/02/follow-up-of-hacker-meet-up-at-heatsync-labs/)
+- May 2014 [Hack-a-day Meetup with HeatSync Labs and The Tymkrs](http://hackaday.com/2014/05/09/hackaday-meetup-with-heatsync-labs-and-the-tymkrs/)
+- March 2013 [Hack-a-day Hackerspace intro: HeatSync Labs](http://hackaday.com/2013/03/11/hackerspace-intro-heatsync-labs/)
 - August 2012 [Hack-a-Day: Robotic hand with haptic feedback](http://hackaday.com/2012/08/09/robotic-hand-with-haptic-feedback/)
 - August 2012 [Hack-a-Day: Southwest Tour: Heatsync Labs in Mesa Arizona](http://hackaday.com/2012/08/09/southwest-tour-heatsync-labs-in-mesa-arizona/)
 - May 2012 [Hack-a-Day: Hackerspace Intro: HeatSync Labs in Mesa Arizona](http://hackaday.com/2012/05/02/hackerspace-intro-heatsync-labs-in-mesa-arizona/)
