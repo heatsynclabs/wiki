@@ -19,3 +19,5 @@ Limit Switches
 ## Software Improvements
 
 Machine control
+
+Custom materials -- the ability to define materials other than the currently available ones.
