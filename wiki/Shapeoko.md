@@ -12,7 +12,9 @@ To generate files for the Shapeoko, use the app called "easel".
 
 ## Machine Improvements
 
-E-Stop Button Limit Switches
+E-Stop Button
+
+Limit Switches
 
 ## Software Improvements
 
