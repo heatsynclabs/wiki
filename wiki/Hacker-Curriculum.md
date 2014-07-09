@@ -28,6 +28,7 @@ Electronics
 - Using a Multi-Meter
 - Debugging a circuit
 - Micro-Controllers
+- PCB creation
 
 Computer Aided Design
 
@@ -66,7 +67,7 @@ Security
 
 Science
 
-- The Scientific Method
+- The Scientific Method (different types)
 - Microscopes
 - Chemistry
 - Biology
