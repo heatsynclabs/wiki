@@ -29,6 +29,7 @@ The HeatSync Labs Press page is intended to document articles regarding HSL even
 
 ## Mainstream Media
 
+- July 2014 [Computerworld - 10 cool makerspaces to explore now](http://www.computerworld.com/slideshow/detail/159774)
 - July 2014 [Make Magazine - Most Interesting Makerspaces in America](http://www.make-digital.com/make/volume_40?folio=40#pg44)
 - July 2014 [Vice - A Hacker Artist Sent the NSA an 'Uncrackable' Encrypted Mixtape](http://motherboard.vice.com/read/a-hacker-artist-sent-the-nsa-an-encrypted-mixtape-they-cant-crack)
 - May 2014 [FOX 10 News - Your digital shadow, a viral marketing campaign exposes your digital life - Interview w Dan Petro - Bishop Fox](https://www.youtube.com/watch?v=n1yAfMtv_Og)
