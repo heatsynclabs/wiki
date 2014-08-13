@@ -55,6 +55,14 @@ From Bankruptcy to Surplus to Seizure these are the local guys we've come across
 - Phoenix, AZ 85003
   - One of the legendary electronics/hardware surplus places. Well worth the trip if you've never been there.
 
+#### Davis Salvage Co
+
+- [1](https://www.google.com/maps/place/Davis+Salvage+Co/@33.4253919,-111.9939252,8524m/data=!3m1!1e3!4m2!3m1!1s0x872b0e7b06dd5fab:0x42b4628b6cdd56f0)
+- \(602\) 267-7208
+- 3333 E Washington St
+
+Phoenix, AZ 85034
+
 ### Laser Engraving / Cutting
 
 Remember HeatSync has its own [Laser Cutter](Laser-Cutter) too!
