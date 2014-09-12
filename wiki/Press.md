@@ -33,6 +33,7 @@ The HeatSync Labs Press page is intended to document articles regarding HSL even
 ## Mainstream Media
 
 - September 2014 [AZCentral - Hackerspace HeatSync Labs in Mesa helps techies turn ideas into reality](http://www.azcentral.com/story/money/business/tech/2014/09/01/hackerspaces-help-techies-turn-ideas-reality/14949961/)
+- August 2014 [Associated Press - Hackerspace Provides Hackers Creative Haven](https://www.youtube.com/watch?v=gCvyeTRnQSs&feature=youtu.be)
 - July 2014 [Computerworld - 10 cool makerspaces to explore now](http://www.computerworld.com/slideshow/detail/159774)
 - July 2014 [Make Magazine - Most Interesting Makerspaces in America](http://www.make-digital.com/make/volume_40?folio=40#pg44)
 - July 2014 [Vice - A Hacker Artist Sent the NSA an 'Uncrackable' Encrypted Mixtape](http://motherboard.vice.com/read/a-hacker-artist-sent-the-nsa-an-encrypted-mixtape-they-cant-crack)
