@@ -32,6 +32,7 @@ The HeatSync Labs Press page is intended to document articles regarding HSL even
 
 ## Mainstream Media
 
+- October 2014 [Popular Mechanics - Watch the SkyCruiser Flying Car Transform From Helicopter to Plane in Mid-Air](http://www.popularmechanics.com/technology/aviation/news/watch-the-skycruiser-flying-car-transform-from-helicopter-to-plane-in-mid-air-17374210)
 - September 2014 [AZCentral - Hackerspace HeatSync Labs in Mesa helps techies turn ideas into reality](http://www.azcentral.com/story/money/business/tech/2014/09/01/hackerspaces-help-techies-turn-ideas-reality/14949961/)
 - August 2014 [Associated Press - Hackerspace Provides Hackers Creative Haven](https://www.youtube.com/watch?v=gCvyeTRnQSs&feature=youtu.be)
 - July 2014 [Computerworld - 10 cool makerspaces to explore now](http://www.computerworld.com/slideshow/detail/159774)
