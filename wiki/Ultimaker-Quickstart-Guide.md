@@ -80,6 +80,8 @@ few dollars whenever they print things so the lab can get more plastic for the p
 
 ## Getting GCode on the Printer
 
+**CURRENTLY THE SD CARD ON THE 3D PRINTING STATION COMPUTER IS NOT WORKING, FOR NOW YOU NEED TO FIND ANOTHER WAY TO GET THE GCODE TO THE PRINTER, USING A USB STICK TO TRANSFER TO ANOTHER COMPUTER WITH A WORKING SD CARD IS THE BEST WAY**
+
 - Pull the SD card out of the left side of the UltiController and put it in
 
 the computer
