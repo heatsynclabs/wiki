@@ -72,11 +72,11 @@ If you do modify the print settings make sure you reload the standard.ini profil
 
 Please name your profile in the following format: TMP \$YOURNAME \$REMINDER or \$YOURNAME \$REMINDER, where reminder is something like 10% or hollow infill, or something like that so that you don't forget. Temporary profiles may be deleted when I am cleaning the machine up, UM profiles will stay.
 
-## New plastic fund
+## 3D Printing Station Donations
 
-- While we dont charge to use the ultimaker, some people choose to donate a
+- While we dont charge to use the ultimaker or the TAZ, some people choose to donate a
 
-few dollars whenever they print things so the lab can get more plastic for the printer.
+few dollars whenever they print things so the lab can get more plastic for the printer and maintain it.
 
 ## Getting GCode on the Printer
 
