@@ -64,9 +64,7 @@ SD card.
 
 If your just printing a bracket or something simple with no overhangs, the stock settings will work fine. However If your printing something like a skeleton or a small model of a person, you will probably need some custom settings to make it work right. A good rule of thumb is anything that is organic in shape or has overhangs will need some custom cura settings to work.
 
-![](files/Isis-one-desktop-3d-printer-5.jpg)
-
-*isis-one-desktop-3d-printer-5.jpg*
+This is an example of the type of 3d print that will need custom settings. ![isis-one-desktop-3d-printer-5.jpg](files/Isis-one-desktop-3d-printer-5.jpg)
 
 If those defaults don't make sense to you for some reason (You're printing a structural piece for example and need a stronger infill) you can adjust the settings, but realize that will probably affect print time and final weight and will make Moheeb cry.
 
