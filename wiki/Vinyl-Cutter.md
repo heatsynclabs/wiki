@@ -85,4 +85,8 @@ Total weight: (main frame, horse) 28kgs(15,13)
 
 ## Additional Information
 
-User Manual: [2](http://www.uscuttersupport.com/downloads/Vinyl_Cutters/Copam/copam_manual.pdf) Software: [3](http://support.uscutter.com/index.php?/Knowledgebase/Article/View/190/27/01-signblazer-elements) (Use the USCutter release) Replacement Blades [4](http://www.uscutter.com/6-Roland-Replacement-Blades-45-Degree)
+User Manual: [2](http://www.uscuttersupport.com/downloads/Vinyl_Cutters/Copam/copam_manual.pdf)
+
+Software: [3](http://support.uscutter.com/index.php?/Knowledgebase/Article/View/190/27/01-signblazer-elements) (Use the USCutter release)
+
+Replacement Blades [4](http://www.uscutter.com/6-Roland-Replacement-Blades-45-Degree)
