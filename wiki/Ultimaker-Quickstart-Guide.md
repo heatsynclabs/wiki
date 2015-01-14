@@ -18,7 +18,7 @@ Place your downloaded STL on the HSL 3D Printing Station Computer in the Downloa
 
 OpenSCAD natively exports STL files after building. Construct your model, and then go to the Design menu and hit "Compile and Render (CGAL)". After that, hit the "Export as STL" option in that same menu.
 
-## Slicing
+## Slicing with cura
 
 Slicing is what turns the STL model (consisting of a list of the triangles in the model), into a list of commands that the printer understands. This list is called [GCode](http://linuxcnc.org/docs/html/gcode/overview.html).
 
@@ -40,6 +40,7 @@ the print profile for the filament you are using
 
 to the '\\\files\shared\Cura Profiles' folder. Choose the \*standard.ini file
 
+- - if you are using the lulzbot select the mistress.ini file.
 - Cura has many helpful view modes, available in the upper right corner of the
 
 screen
