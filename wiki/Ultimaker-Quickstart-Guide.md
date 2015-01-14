@@ -110,7 +110,9 @@ Seriously follow this, don't use USB serial. It's just as easy and less painful.
 
 ## Print
 
-Make sure the build platform is clean, if necessary use the alcohol spray to clean the surface. Also if the glass is loose the small black clips need to be slid over it using some tweezers, the glass only fits one way.
+If you are printing for the first time use a layer of blue tape on top of the bed to make the print stick
+
+If you want to experiment you can print right on the green tape bed(pet tape) Make sure the build platform is clean, if necessary use the alcohol spray to clean the surface. Also if the glass is loose the small black clips need to be slid over it using some tweezers, the glass only fits one way.
 
 The UltiController has a scroll knob on the left end, it's also a button.
 
