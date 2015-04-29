@@ -47,6 +47,7 @@
 <ul>
 <li><a href="Local-Resources">Local Resources</a></li>
 <li><a href="Podcasts">Podcasts</a></li>
+<li><a href="http://sync.heatsynclabs.org/">The Weekly Sync (Newsletter)</a></li>
 <li><a href="Category-Tutorials"> Tutorials </a></li>
 <li><a href="Category-Utilities"> Utilities </a></li>
 <li><a href="Category-Project-Tutorials"> Project Tutorials </a></li>
