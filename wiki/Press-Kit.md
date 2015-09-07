@@ -14,6 +14,10 @@ Download the branding guidelines here for proper use of our logo, etc: [Heatsync
 
 Promote HeatSync with this snazzy flier: [hsl_flier_1.pdf](files/Hsl_flier_1.pdf)
 
+## Flier / Poster
+
+Vector File Ready for the laser or vinyl cutter: [HeattSync_Logo_Simplified_SVG.zip](files/HeattSync_Logo_Simplified_SVG.zip)
+
 ------------------------------------------------------------------------
 
 ## Selected bitmaps (see logo pack for vectors)
