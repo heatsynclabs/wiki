@@ -32,6 +32,7 @@ The HeatSync Labs Press page is intended to document articles regarding HSL even
 
 ## Mainstream Media
 
+- September 2015 [12 News Phoenix - Mesa's HeatSynch Labs is one of the hottest hacker spaces in the U.S.](http://www.12news.com/media/cinematic/video/71855564/mesas-heatsynch-labs-is-one-of-the-hottest-hacker-spaces/)
 - April 2015 [Phoenix New Times - Things To Do Any Time](http://blogs.phoenixnewtimes.com/jackalope/2015/04/phoenix_free_things_to_do_events_calendar_february.php)
 - March 2015 [Fox10 News - Southwest MakerFest](http://www.fox10phoenix.com/Clip/11288685/southwest-makerfest)
 - November 2014 [Phoenix New Times - Metal Mondays](http://www.phoenixnewtimes.com/events/metal-mondays-4506807/)
