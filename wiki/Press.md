@@ -32,6 +32,7 @@ The HeatSync Labs Press page is intended to document articles regarding HSL even
 
 ## Mainstream Media
 
+- September 2015 [AZCentral - Learn skills ranging from coding to 3-D printing at maker spaces](http://www.azcentral.com/story/entertainment/2015/09/23/maker-spaces-trend-phoenix-tools-classes/32524943/)
 - September 2015 [12 News Phoenix - Drop in on Downtown Mesa's mini Silicon Valley](http://www.12news.com/story/news/local/valley/2015/09/07/drop-downtown-mesas-mini-silicon-valley/71858468/)
 - September 2015 [12 News Phoenix - Mesa's HeatSynch Labs is one of the hottest hacker spaces in the U.S.](http://www.12news.com/media/cinematic/video/71855564/mesas-heatsynch-labs-is-one-of-the-hottest-hacker-spaces/)
 - April 2015 [Phoenix New Times - Things To Do Any Time](http://blogs.phoenixnewtimes.com/jackalope/2015/04/phoenix_free_things_to_do_events_calendar_february.php)
