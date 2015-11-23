@@ -16,7 +16,7 @@ Bring your curiosity, passion, and your project. Bring your respect for and inte
 
 # Q: So is it free, or do I have to be a member?
 
-HeatSync is very soft sell. We are open to the public during our business hours (currently 7p-10p M-F) for the public to join us ENTIRELY FREE OF CHARGE. We invite you to come and bring your curiosity, passion and your project. In some sense it is more important that you come and do awesome things with us, than that we get your money. However, we do need to pay rent and most people who join us for any amount of time end up approaching us asking if they can support us. That is where membership and donations come in. Please support us any way you can whether it be money, time or some other way.
+HeatSync is very soft sell. We are open to the public during our business hours (currently 7p-10p M, W, Th) for the public to join us ENTIRELY FREE OF CHARGE. We invite you to come and bring your curiosity, passion and your project. In some sense it is more important that you come and do awesome things with us, than that we get your money. However, we do need to pay rent and most people who join us for any amount of time end up approaching us asking if they can support us. That is where membership and donations come in. Please support us any way you can whether it be money, time or some other way.
 
 # Q: Can I take a tool home?
 
