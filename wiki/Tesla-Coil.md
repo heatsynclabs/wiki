@@ -11,6 +11,7 @@ We would like to build a tesla coil for the mustache laser party (and beyond!)
 <http://www.flickr.com/photos/teamdroid/5111638950/>\
 <http://www.flickr.com/photos/teamdroid/5111640714/>\
 <http://www.flickr.com/photos/nebarnix/5101761518/>\
+<https://www.flickr.com/photos/hslphotosync/6245219883/>
 
 ### Videos
 
