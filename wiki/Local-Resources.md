@@ -67,6 +67,21 @@ Phoenix, AZ 85034
 
 Remember HeatSync has its own [Laser Cutter](Laser-Cutter) too!
 
+#### ITC Manufacturing
+
+<http://www.itcmfg.com/>
+
+- 2000-4000 watt laser (for metal)
+
+#### K-zell Metals Inc.
+
+<http://www.kzell.com/>
+
+- 4000 watt laser (for metal)
+- Full fab shop cutting, forming, and welding metal, stainless steel, and aluminum
+- Design and Engineering
+- Some HSL members work here
+
 #### Laser Bits Directory
 
 <http://www.laserbits.com/images/LaserResources/LaserJobShops/Arizona.html>
@@ -84,12 +99,6 @@ Remember HeatSync has its own [Laser Cutter](Laser-Cutter) too!
 #### Phoenix Custom Lasering
 
 <http://phoenixcustomlasering.com/>
-
-#### ITC Manufacturing
-
-<http://www.itcmfg.com/>
-
-- 2000-4000 watt laser (for metal)
 
 ### Waterjet/CNC Machining Services
 
