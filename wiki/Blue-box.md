@@ -11,3 +11,11 @@ If the manual should be lost, or the box blown up or destroyed for reasons known
 [Rainbow_V36_16key_PWM_LCD.zip‎](files/Rainbow_V36_16key_PWM_LCD.zip‎)
 
 *Rainbow_V36_16key_PWM_LCD.zip‎*
+
+------------------------------------------------------------------------
+
+The box may need care and feeding occasionally consuming one 9 volt pile battery every so often. Never feed it after midnight though!
+
+------------------------------------------------------------------------
+
+Oh yeah, one more thing, you need to bring the transducer close enough to your handset's microphone for it to work right and the device must be energized. ![Blue Box in use,](files/Bluebox001.jpg)
