@@ -5,13 +5,14 @@ The operations team is a committee recruited by the board in order to manage the
 - **Facilities**: Austin Kipp
 - **Welding**: Austin Kipp
 - **Laser**: Ryan McDermott
-- **Vinyl Cutter**: Eric Ose
+- **CNC Plasma Table**: David Farmer
+- **Vinyl Cutter**: Morgan Williams
 - **Metal Shop**': Austin Kipp, Larry Campbell
 - **Wood Shop**: Larry Campbell
 - **Nuts & Bolts**: Greg Oswalt
-- **3D Printing**: Trish Blickfeldt
-- **Electronics**: Ryan McDermott
-- **Microcontrollers**: Ryan McDermott, Kevin O'Toole
+- **3D Printing**: Trish Blickfeldt, Jasper Nance
+- **Electronics**: Eric Ose
+- **Microcontrollers**: David Flores
 - **Audio/Video**: Jeremy Leung
 - **Sewing**: Alyson Zepada
 - **BioHack**: Shaundra Newstead, Greg Oswalt
