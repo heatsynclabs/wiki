@@ -6,9 +6,9 @@ If you are interested in taking a class, or learning how to use any tool in the 
 
 The following people are associated with their respective classes
 
-- Alex Canto - Mill
-- Jasper Nance - Lathe
+- Larry Campbell - Mill
+- Larry Campbell or Jasper Nance - Lathe
 - Oliver Fultz - CNC Mill
 - Ryan McDermott - Laser
 - Austin Kipp - Welding
-- Austin Kipp - Wood working
+- Jason Rhiza - Wood working
