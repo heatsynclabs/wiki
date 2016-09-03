@@ -1,6 +1,6 @@
 ## Materials
 
-These lists are not exhaustive. If your material is not on either list, ask first!
+These lists are not exhaustive. If your material is not on either list, ask first! The largest material that will fit in the laser is 48" x 32"
 
 ### Approved
 
