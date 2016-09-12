@@ -4,7 +4,11 @@ If you would like to contact everyone on the Board, drop a line to board \[at\] 
 
 ## Current Board Members
 
-Our current slate of officers can be found here: <http://www.heatsynclabs.org/contact/board/>
+- Ryan McDermott, Champion
+- Larry Campbell, Champion
+- Boots (Josh Parry), Treasurer
+- Eric Ose, Secretary
+- Nate Plamondon, Operations
 
 ## Board Elections
 
