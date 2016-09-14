@@ -18,3 +18,4 @@ The operations team is a committee recruited by the board in order to manage the
 - SNACKS: David Flores
 - CNC: David Farmer
 - NUTES & BOLTS: Greg Oswalt
+- Window Displays: Robert Bell
