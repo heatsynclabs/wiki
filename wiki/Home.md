@@ -34,7 +34,7 @@
 <p>What's in the lab?</p>
 </div>
 <ul>
-<li><a href="http://toolshare.heatsynclabs.org">Toolshare</a></li>
+<li><a href="https://members.heatsynclabs.org/resources">Toolshare</a></li>
 <li><a href="Library">Library</a></li>
 <li><a href="Wishlist">Wishlist</a>
 <ul>
