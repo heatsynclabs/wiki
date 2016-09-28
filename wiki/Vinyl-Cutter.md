@@ -87,8 +87,8 @@ Total weight: (main frame, horse) 28kgs(15,13)
 
 ## Additional Information
 
-User Manual: [3](http://www.uscuttersupport.com/downloads/Vinyl_Cutters/Copam/copam_manual.pdf)
+User Manual: [3](http://www.uscuttersupport.com/downloads/Support_PDF/CutterSetup/LP2/LP2_Manual.pdf)
 
-Software: [4](http://support.uscutter.com/index.php?/Knowledgebase/Article/View/190/27/01-signblazer-elements) (Use the USCutter release)
+Software: Sure Cuts A Lot Pro [4](http://www.uscutter.com/Sure-Cuts-A-Lot-Pro-Design-Cut-Software)
 
-Replacement Blades [5](http://www.uscutter.com/6-Roland-Replacement-Blades-45-Degree)
+Replacement Blades [5](http://www.uscutter.com/6-Roland-Replacement-Blades-45-Degree) Lower cost replacement blades [6](http://www.aliexpress.com/item/1Set/1628712169.html)
