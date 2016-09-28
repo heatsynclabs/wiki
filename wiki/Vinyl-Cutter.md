@@ -1,5 +1,7 @@
 ## Materials
 
+- sign vinyl / sticker vinyl
+- heat transfer (easy weed is a good brand [1](http://www.amazon.com/dp/B0127RTOYQ/))
 - Paper
 - Cardstock
 - Vinyl Film
@@ -37,7 +39,7 @@
 
 ## Specifications
 
-Taken from: [1](http://support.uscutter.com/index.php?/Knowledgebase/Article/View/7/4/cp2500-key-specifications)
+Taken from: [2](http://support.uscutter.com/index.php?/Knowledgebase/Article/View/7/4/cp2500-key-specifications)
 
 Model: CP-2500
 
@@ -85,8 +87,8 @@ Total weight: (main frame, horse) 28kgs(15,13)
 
 ## Additional Information
 
-User Manual: [2](http://www.uscuttersupport.com/downloads/Vinyl_Cutters/Copam/copam_manual.pdf)
+User Manual: [3](http://www.uscuttersupport.com/downloads/Vinyl_Cutters/Copam/copam_manual.pdf)
 
-Software: [3](http://support.uscutter.com/index.php?/Knowledgebase/Article/View/190/27/01-signblazer-elements) (Use the USCutter release)
+Software: [4](http://support.uscutter.com/index.php?/Knowledgebase/Article/View/190/27/01-signblazer-elements) (Use the USCutter release)
 
-Replacement Blades [4](http://www.uscutter.com/6-Roland-Replacement-Blades-45-Degree)
+Replacement Blades [5](http://www.uscutter.com/6-Roland-Replacement-Blades-45-Degree)
