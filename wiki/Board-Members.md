@@ -4,9 +4,9 @@ If you would like to contact everyone on the Board, drop a line to board \[at\] 
 
 ## Current Board Members
 
-- Ryan McDermott, Champion
 - Larry Campbell, Champion
-- Boots (Josh Parry), Treasurer
+- Trish Blickfeldt, Champion
+- David Flores, Treasurer
 - Eric Ose, Secretary
 - Nate Plamondon, Operations
 
