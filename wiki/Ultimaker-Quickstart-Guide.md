@@ -1,4 +1,26 @@
-# THIS PAGE IS OUT OF DATE!! DO NOT READ!!
+**The Ultimaker 2 is Currently Running at 100%**
+
+**The Ultimaker is Currently Out of Commission**
+
+## Common Issues
+
+- If you cut the filament flat when loading it, it will sometimes catch at the exit of the bowden tube. To avoid this, please cut the filament at an angle, to make a shape that looks like a sharpened pencil. This will guide the filament around the shoulder and reduce your frustration.
+- If you pause before you abort, the filament will retract twice. This is a known bug.
+  - If this happens, you can either start a print and wait for the filament to come out, knowing you will need to abort said print and start it again WITHOUT pausing first
+  - Or you can just reload the filament.
+
+## If the machine doesn't go goodly
+
+1.  Read the above common issues first
+2.  Reload the filament once, twice, even maybe three times if you think it might help
+    1.  Make sure to check for filament breakage. If the filament breaks inside the bowden tube, see next step
+3.  At this point, please email PBnJ (contact info is on the sign)
+
+- The machine is rarely actually clogged. Please \*\*do not\*\* take any actions beyond reloading the filament.
+- DO NOT REMOVE THE HOTEND SCREWS
+- DO NOT ATTEMPT TO INSERT SMALL OBJECTS INTO THE NOZZLE (EVER)
+
+# ALL BELOW THIS LINE IS OUT OF DATE!! DO NOT READ!!
 
 **The Ultimaker is Currently Running at 100%**
 
