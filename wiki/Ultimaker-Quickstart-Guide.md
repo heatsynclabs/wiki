@@ -1,6 +1,6 @@
-**The Ultimaker 2 is Currently Running at 100%**
+**<span style="color:#00FF00">The Ultimaker 2 is Currently Running at 100%</span>**
 
-**The Ultimaker is Currently Out of Commission**
+**<span style="color:#FF0000">The Ultimaker is Currently Out of Commission =(</span>**
 
 ## Common Issues
 
