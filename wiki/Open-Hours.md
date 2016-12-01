@@ -2,7 +2,7 @@
 
 ### When we say "we are open" we mean
 
-Open hours are subject to card holder availability. We have posted open hours both on our website and on our calendar. This is our minimum goal. There is a thread on the [GoogleGroup](https://groups.google.com/forum/#!topic/heatsynclabs/yZomEkfGPhM) that discusses attempts to make sure that during those hours a card holder will welcome anyone who is interested in coming in and seeing the place / get stuff done. Specific events are are also dependent on who ever the event sponsor is (a card holder) to make sure the facility is open during those events. It maybe (hopefully very rarely) that during the posted hours, no one has been able or willing to open the doors to non-card holders. It would be good to check the related [GoogleGroup discussion board](https://groups.google.com/forum/#!topic/heatsynclabs/yZomEkfGPhM) for comments on availability, and or double check with the event sponsor to make sure things are still on before investing in significant travel.
+We have posted open hours on our website. This is our minimum goal. It maybe (hopefully very rarely) that during the posted hours, we don't have a host arriving as needed. There is an email if the doors are locked 15 minutes after our scheduled opening time.
 
 ### What is available during open hours
 
