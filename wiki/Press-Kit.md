@@ -6,9 +6,9 @@ See a press-ready description of HeatSync here: <http://www.heatsynclabs.org/abo
 
 ## Logo Pack & Brand Standards
 
-Download the branding guidelines here for proper use of our logo, etc: [Heatsync_labs_logo_pack.zip](files/Heatsync_labs_logo_pack.zip)
+Download the logo pack, including the branding guidelines for proper use here [Heatsync_labs_logo_pack.zip](files/Heatsync_labs_logo_pack.zip)
 
-**For just our brand standards, see: [Heatsync_labs_brand_standards.pdf](files/Heatsync_labs_brand_standards.pdf)**
+For **just** our brand standards, see: [Heatsync_labs_brand_standards.pdf](files/Heatsync_labs_brand_standards.pdf)
 
 ## Flier / Poster
 
@@ -17,6 +17,8 @@ Promote HeatSync with this snazzy flier: [hsl_flier_1.pdf](files/Hsl_flier_1.pdf
 ## CNC Ready Vector
 
 Vector File Ready for the laser or vinyl cutter: [HeattSync_Logo_Simplified_SVG.zip](files/HeattSync_Logo_Simplified_SVG.zip)
+
+- (See logo pack above for full color vector versions)
 
 ------------------------------------------------------------------------
 
