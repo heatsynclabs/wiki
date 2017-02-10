@@ -20,6 +20,16 @@ To keep yourself, others, and the machine safe, please follow these safety rules
 - Do not open the power supply.
 - Unplug the spindle when you are not using it.
 
+## Hardware Config
+
+The CNC Mill uses Gecko G201 stepper drivers [notes here](http://www.geckodrive.com/g201-rev-16) on NEMA-34 stepper motors. These drivers give 10th step microstepping at up to 7A per phase from 24-80VDC
+
+Config is as follows:
+
+- X-axis Current Set Resistor - 265kΩ -\> ~5.75A
+- Y-axis Current Set Resistor - 267kΩ -\> ~5.75A
+- Z-axis Current Set Resistor - 134kΩ -\> ~5.25A
+
 ## Software Toolchain
 
 To be certified, you need to know MACH3 at a minimum.
