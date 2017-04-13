@@ -1,6 +1,6 @@
 **<span style="color:#009900">The Ultimaker 2 is Currently Running at 100%</span>**
 
-**<span style="color:#DD0000">The Ultimaker is Currently Out of Commission =(</span>**
+**<span style="color:#DD0000">The Ultimaker 1 is Currently Out of Commission =(</span>**
 
 # I WANT TO USE THE UM2
 
