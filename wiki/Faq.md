@@ -58,7 +58,7 @@ YOU to do awesome things. No really. Come to HeatSync. Even when you're tired. E
 
 # Q: I lost something, do you know where it might be?
 
-Check in the lost and found box in the east side member box area. If it's not there, ask on the Google Groups to see if anyone has found what you are looking for.
+Check in the lost and found box in the north side member box area. If it's not there, ask on the Google Groups to see if anyone has found what you are looking for.
 
 # Q: I broke a tool, what do I do?
 
