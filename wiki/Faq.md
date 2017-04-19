@@ -62,4 +62,4 @@ Check in the lost and found box in the north side member box area. If it's not t
 
 # Q: I broke a tool, what do I do?
 
-No big deal! If its a small hand tool or bit, place it in the broken tools bin. It is as of this writing a plastic bin placed on top of the yellow tool cart. Also notify the station head (indicated by a small whiteboard nearby the station) and/or post it to the discussion group.
+No big deal! If its a small hand tool or bit, place it in the broken tools bin. It is as of this writing a plastic bin placed near the first aid kit at the entry to the shop. Also notify the station head (indicated by a small whiteboard nearby the station) and/or post it to the discussion group.
