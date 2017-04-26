@@ -1,4 +1,4 @@
-**<span style="color:#009900">The Ultimaker 2 is working!</span>**
+**<span style="color:yellow ">The Ultimaker 2 is constipated... </span>**
 
 **<span style="color:#009900">The <s>Coocheer</s> Choocher (Prusa i3 clone) is working!</span>**
 
