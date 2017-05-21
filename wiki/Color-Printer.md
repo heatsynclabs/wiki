@@ -1,6 +1,6 @@
 We recently had a color printer fixed up for the lab to use. Cpro made some notes on the group and for simplicity in starting this documentation it is posted in full below.
 
-The main thing is that the printer driver is on the drive
+The main thing is that the printer driver is on the shared drive; \\\SHARED\FILES\Z:\HPColorLaserjetCP5525
 
 I've hacked together a couple of the printers we got in to make a working one, and by hacked, I mean hacked. I forgot it was a tear-apart night and I sort of went rogue and had a put-together night.
 
