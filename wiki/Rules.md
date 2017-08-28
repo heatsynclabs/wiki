@@ -59,6 +59,12 @@ Consumables such as stock, drill/mill bits, adhesives,etc are NOT a right of mem
 
 A member shall be considered in good standing if they are current on their dues.
 
+If a member fails to pay their dues in a given month, HSL will make a good faith effort to contact them for resolution.
+
+If the member refuses to pay their dues, membership will be immediately terminated. If they have a storage box/locker, they will be given 30 days to claim its contents, after which the contents will be donated to charity.
+
+If the member is unreachable and/or does not respond to HSL's contact efforts within 60 days, a second contact will be attempted. If they are still unreachable and/or unresponsive after an additional 30 days, the contents of their storage box/locker will be donated to charity.
+
 ### Non-transferability of Memberships
 
 Member may not transfer their membership or any right arising therefrom. All rights of membership cease upon the member's death.
