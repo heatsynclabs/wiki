@@ -16,7 +16,6 @@ Also see: [Amazon Wishlist](http://heatsynclabs.org/wishlist)
 
 - [ CNC Router](CNC) We might be able to do some fun stuff with laser in meantime (maybe 3/4" mdf?)
 - CNC Lathe -we're borrowing one of Corey's and we can CNC our 7x10!
-- Plasma Cutter --\> <http://www.plasmacam.com/products-index.php>
 - Waterjet Cutter - Omax?
 - Circular Saw - We're eyeing a [Hitachi C8FSHE 8-1/2](http://www.google.com/products/catalog?q=sliding+compound+miter+saw&um=1&hl=en&bav=on.2,or.r_gc.r_pw.&biw=770&bih=588&ie=UTF-8&cid=7814405329451054227&sa=X&ei=x_bITZquCKn20gHd34jcCA&ved=0CJYBEPMCMAI)
 - 3D Scanner - Nextgen? or [Fabscan?](http://hci.rwth-aachen.de/FabScan)
