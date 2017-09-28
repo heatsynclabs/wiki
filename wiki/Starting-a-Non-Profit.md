@@ -14,36 +14,41 @@ When choosing a name ensure that it:\
 It will probably be easiest to just choose a name and then make sure it fits within these rules:
 
 To check the availability of a name and for some naming and for some naming standards:\
-<http://www.cc.state.az.us/divisions/corporations/filings/namingpolicy.asp>
+<http://www.azcc.gov/divisions/corporations/filings/namingpolicy.asp>
 
-Name must abide by these Arizona rules: <http://www.azleg.state.az.us/ars/10/03401.htm>
+Name must abide by these Arizona rules: <https://www.azleg.gov/ars/10/03401.htm>
 
 ### Check for infringement
 
-Use <http://tess2.uspto.gov/bin/gate.exe?f=tess&state=4005:6leu8n.1.1> to search Federal database for names that aren't trademarked already
+Use <https://www.irs.gov/charities-non-profits/search-for-charities> to search the IRS Federal database for names
 
-Use <http://starpas.azcc.gov/scripts/cgiip.exe/WService=wsbroker1/connect.p?app=names-report.p> to search Arizona database
+Use <http://ecorp.azcc.gov/Search> to search the Arizona Corporation Commission database
+
+### Reserve the Name
+
+<http://www.azcc.gov/Divisions/Corporations/forms/starpas/formsSTPS/C006-Application-to-Reserve-Corporation-Name.pdf>
 
 ## Create the Non-profit organization
 
 ### Benefits
 
-- Generally, we're not exempt on sales tax (its complicated, especially in arizona)
+- Generally, we're not exempt on sales tax (its complicated, especially in arizona consult a lawyer and tax specialist)
 - Can be exempt from property tax (its complicated, must apply)
-- The big exemption is income (state follows federal guidelines)
+- The big exemption is that 501c3's don't have to pay taxes on the business net income(state follows federal guidelines). So earnings can be cycled right back into the organization to improve it.
+- Contributors to the organization can have their contributions be tax deductible(they should consult their tax specialist)
 - We also get reduced postage!
 
 ### Prepare the Articles of Incorporation
 
-Articles are amended rarely.
+Articles are amended whenever new officers join or old ones leave. Also, if you need to change contact info or make tweaks to the mission statement and organization description/purpose.
 
-- Example Articles of Incorporation of a Tax-Exempt Non Profit:\
+- Articles of Incorporation - Nonprofit Form:\
 
-<http://www.azcc.gov/divisions/corporations/filings/forms/cf0041.pdf>
+<http://www.azcc.gov/Divisions/Corporations/forms/starpas/formsSTPS/C011-Articles-of-Incorporation-Nonprofit.pdf>
 
-- Arizona Corporate Filings FAQ:\
+- Articles of Incorporation - FAQ:\
 
-<http://www.cc.state.az.us/divisions/corporations/faqmanual.asp#cf>
+<http://www.azcc.gov/Divisions/Corporations/forms/starpas/instructionsSTPS/C011i-Instructions-Articles-of-Inc-Nonprofit-STPS.pdf>
 
 Be sure to note that the corporation will not practice discrimination so as to be eligible for tax exemption!
 
