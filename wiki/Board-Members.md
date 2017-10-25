@@ -4,10 +4,10 @@ If you would like to contact everyone on the Board, drop a line to board \[at\] 
 
 ## Current Board Members
 
-- Larry Campbell, Champion
+- Milton Williams, Champion
 - Trish Blickfeldt, Champion
 - David Flores, Treasurer
-- Eric Ose, Secretary
+- Alyson Zepeda, Secretary
 - Nate Plamondon, Operations
 
 ## Board Elections
