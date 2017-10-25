@@ -4,18 +4,18 @@ The operations team is a committee recruited by the board in order to manage the
 
 - FACILITIES: Austin Kipp
 - WELDING: Austin Kipp
-- LASER: Ryan McDermott
+- LASER: Milton Williams
 - METALSHOP: Larry Campbell
 - WOODSHOP: Jason Rziha
 - 3D PRINTING: Jasper Nance and Trish Blickfeldt
-- ELECTRONICS: Eric Ose
+- ELECTRONICS: Needed
 - MICROCONTROLLERS: David Flores
 - AUDIO/VIDEO: Jeremy Leung
 - SEWING: Alyson Zepada
 - BIOHACK: Greg Oswalt and Shaundra Newstead
-- VINYL CUTTER: Morgan W
+- VINYL CUTTER: Needed
 - LOCK PICKING: Scorch
 - SNACKS: David Flores
 - CNC: David Farmer
 - NUTES & BOLTS: Greg Oswalt
-- WINDOW DISPLAYS: Robert Bell
+- WINDOW DISPLAYS: Needed
