@@ -22,6 +22,7 @@ haven't tried them but
 - <http://www.expresspcb.com/ExpressPCBHtm/HowWorks.htm>
 - <http://www.sunstone.com/QuoteQT.aspx> (pcbexpress, pcb123)
 - <http://www.batesquote.com>
+- <https://www.7pcb.com>
 
 some good but perhaps outdated info from ladyada
 
