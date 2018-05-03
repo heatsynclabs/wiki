@@ -82,13 +82,84 @@ CODE OF CONDUCT
 
 </li>
 
-==
+== Summary- I shall (i) use HeatSync Labs with the purpose to provide a physical space for members and the public to work on projects (especially projects involving physical creation) and to facilitate relevant education, discussion, collaboration, and planning; (ii) take good care of the premises and keep it clean and orderly; (iii) not waste electricity or other resources; (iv) agree and warrant that if at any time I believe conditions to be unsafe, I will immediately discontinue further participation in the activity whether by myself or others; (v) be excellent to each other; and (v) I will report misconduct to the board of directors at conduct@heatsynlabs.org.
 
-1.  Active participation in HSL functions is encouraged. Presentations, lectures, announcements, projects, screenings, or other events are open to relevant discussion. Persistent or tangent interruptions, distractions, and unwelcome discharge of office supplies and equipment is highly discouraged.
-2.  In order to establish a welcoming social atmosphere, no member shall derogate, harass or otherwise troll another member during HSL functions, although civil debating over technical issues or the merit of works of science fiction is welcomed.
-3.  Violation of the Code of Conduct shall be reprimanded at the discretion of officers of the Board of Directors present at the location and time of violation.
-4.  At HSL functions and events where HSL members are representing HSL, members are required to abide by all local, state, and federal laws.
-5.  Be excellent to each other, dudes.
+1\. Purpose The purpose of this document is aspirational in nature. The big idea is to treat others and all tools in the space the same way that you treat someone you care about.
+
+A big part of HeatSync Labs mission of making tools accessible is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of age, gender, gender identity and expression, sexual orientation, disability, race, national origin or ancestry, socioeconomic status, and religion (or lack thereof). This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior. We expect all those who participate in HeatSync Labs to help us create safe and positive experiences for everyone.
+
+2\. Open \[Source/Culture/Tech\] Citizenship A supplemental goal of this Code of Conduct is to increase open \[Source/Culture/Tech\] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community. Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society. If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
+
+3\. The following behaviors are expected and requested of all community members. Examples are not comprehensive, but give an idea of the expectations.
+
+Expectation: Participate in an positive and active way. In doing so, you contribute to the health and longevity of this community.
+
+Examples:
+
+- Attend classes, workshops, and meetups
+- Hold classes, workshops, or meetups
+- Ask about and/or compliment someone’s project
+
+Non examples:
+
+- Sitting for extended amounts of time without working on a project
+- Accusing others of not working on anything
+
+Expectation: Exercise consideration and respect in your speech and actions, remember that community event venues may be shared with members of the public. Examples:
+
+- Be aware of the audience around you in the space (young makers, open house, etc.)
+
+Non examples:
+
+- Excessive or constant profanity
+- Not closing the shop door during a meeting or class up front
+
+Expectation: Attempt collaboration before conflict. Examples:
+
+- Tell someone if something offended you or made you uncomfortable
+
+Non examples:
+
+- assume everyone thinks and feels the same way as you.
+
+Expectation: Refrain from demeaning, discriminatory, or harassing behavior and speech. Examples:
+
+- If you can’t say something nice, don’t say anything at all
+- be aware of people around you in the space at all times
+
+Expectation: Be mindful of your surroundings and of your fellow participants. Alert the event host if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential. For minor situations, like forgetting safety glasses, remind the patron of expectations of the community. Examples:
+
+- Use tools appropriately
+- Clean up after yourself
+- if given a reminder to be safe, follow the expectation
+
+Non examples:
+
+- not wearing safety glasses in the woodshop or machine shop
+- leaving drawers open or things on the floor or in walkways
+- taking up multiple places at the tables when a class is scheduled
+
+Expectation: Follow safety rules. If you are not sure if something is ok, assume it is not Non examples:
+
+- using a tool when you aren’t certified.
+
+4\. Unacceptable Behavior The following behaviors are considered unacceptable within our community: Violence, threats of violence or violent language directed against another person. Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes or language and personal insults. Posting or displaying sexually explicit material. Posting or threatening to post other people’s personally identifying information ("doxing"). Inappropriate photography or recording. Inappropriate physical contact. You should have someone’s consent before touching them. Unwelcome sexual attention. This includes but is not limited to sexualized comments or jokes; inappropriate touching, groping, and unwelcome sexual advances. Deliberate intimidation, stalking or following (online or in person). Advocating for or encouraging any unacceptable behavior. Sustained disruption of community events, including talks and presentations. Theft, removal, or use of any property, including property of HeatSync or members, without approval of the owner. Horseplay and excessive or dangerous pranks. Unsafe use of tools
+
+5\. Weapons Policy Weapons will be allowed at HeatSync Labs events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Community members are further expected to comply with all state and local laws on this matter. Weapons shall be handled carefully, only by those trained to handle them to minimize risk to guests, members, and themselves.
+
+6\. Consequences of Unacceptable Behavior Unacceptable behavior from any community member, including board members and those with decision-making authority, will not be tolerated. Anyone asked to stop unacceptable behavior is expected to comply immediately. If a community member is reported to engage in unacceptable behavior, the board will investigate and may take any action they deem appropriate. Action will be chosen based on the offense and may include cleaning duty, volunteer service time, being prohibited from working in a specific station, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund). The board reserves the right not to pursue consequences until three similar complaints are made. If you hinder the board’s ability to conduct these procedures and actions, you will be found in violation of the code of conduct and also subject to disciplinary action. The board may render consequences publicly or privately. If anyone makes the consequences public when the board has chosen for them to be private, they shall be in violation of this code of conduct and also be subject to disciplinary action. All reports, records, and actions resulting from this code of conduct shall be recorded and retained by emailing them to conduct@heatsynclabs.org.
+
+7\. Reporting Guidelines If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a board member as soon as possible. Email conduct@heatsynclabs.org or place a written complaint in the physical box (LOCATION TBD). Additionally, board members are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
+
+8\. Addressing Grievances If you feel you have been falsely accused or unfairly punished for violating this Code of Conduct, you should notify the HeatSync Labs Board with a concise description of your grievance. Grievances will be handled by the board as follows: The board will not review grievances. A committee consisting of one board member, three members randomly drawn from the members present at the next Hack Your Hackerspace (Hereafter referred to as HYH) public membership meeting. If there are conflicts with those members-as decided by the quorum at HYH, they shall be excused and replaced with another random member. The request to membership at HYH shall be generic, with no names or description of the situation. The 4 person committee shall review the evidence provided to the board and the punishment alloted by the board. The committee shall either uphold, revoke, or modify the punishment alloted by the board. If you feel that you have still been falsely accused or unfairly punished you may propose the review of your case at HYH by the general membership. The proposal for HYH review of a grievance shall be general with no specific information including name or type of situation. All records will be presented to the Membership at the HYH for review and a vote (records may be redacted to protect victims).
+
+9\. Scope We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications pertaining to community business. This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
+
+10\. Contact info To report violations of this Code of Conduct, email conduct@heatsynclabs.org or place a written complaint in the physical drop box (LOCATION TBD).
+
+For comments, questions, or concerns regarding this document, email board@heatsynclabs.org.
+
+11\. License and attribution This Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike (CC BY-SA 3.0) license. It is based on the Geek Feminism Community Anti-harassment Policy.
 
 ==
 
