@@ -6,9 +6,9 @@ If you are interested in taking a class, or learning how to use any tool in the 
 
 The following people are associated with their respective classes
 
-- Larry Campbell - Mill
-- Larry Campbell or Jasper Nance - Lathe
-- Oliver Fultz - CNC Mill
-- Ryan McDermott - Laser
-- Austin Kipp - Welding
-- Jason Rhiza - Wood working
+- Mill - Shaundra Newstead
+- Metal Lathe - Shaundra Newstead
+- CNC Mill - TBD
+- Laser - Milton Williams
+- Welding - Austin Kipp
+- Wood working - Jason Rhiza
