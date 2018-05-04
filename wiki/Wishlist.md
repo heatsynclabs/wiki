@@ -4,13 +4,13 @@ Also see: [Amazon Wishlist](http://heatsynclabs.org/wishlist)
 
 ## General Lab Needs
 
-- 15-25 foot VGA extension cable
-- manilla folders
+- 
+- 
 
 ### Building Needs
 
-- Hanging and/or facade sign for the space
-- Replacement canopy for back
+- New vinyl for front sign 12' x 14"
+- New projector
 
 ## Equipment
 
