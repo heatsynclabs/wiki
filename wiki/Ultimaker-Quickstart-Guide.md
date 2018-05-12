@@ -1,8 +1,8 @@
+**<span style="color: green  ">The Ultimaker 1 \*IS\* working! THANK YOU ERIC WOOD... </span>**
+
 **<span style="color: green  ">The Ultimaker 2 is working!... </span>**
 
 **<span style="color:#009900">The <s>Coocheer</s> Choocher (Prusa i3 clone) is working!</span>**
-
-**<span style="color:#DD0000">The Ultimaker 1 is Currently Out of Commission =(</span>**
 
 # I WANT TO USE THE UM2
 
