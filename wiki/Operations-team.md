@@ -8,7 +8,7 @@ The operations team is a committee recruited by the board in order to manage the
 - **CNC Plasma Table**: David Farmer
 - **Vinyl Cutter**: Needed
 - **Metal Shop**: Needed - Filling in is Jasper for certification classes
-- **Wood Shop**: Larry Campbell
+- **Wood Shop**: Brian Carlson
 - **Nuts & Bolts**: Greg Oswalt
 - **3D Printing**: Trish Blickfeldt, Jasper Nance
 - **Electronics**: Needed
