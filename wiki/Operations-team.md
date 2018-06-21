@@ -5,7 +5,6 @@ The operations team is a committee recruited by the board in order to manage the
 - **Facilities**: Austin Kipp
 - **Welding**: Austin Kipp
 - **Laser**: Milton Williams
-- **CNC Plasma Table**: David Farmer
 - **Vinyl Cutter**: Needed
 - **Metal Shop**: Needed - Filling in is Jasper for certification classes
 - **Wood Shop**: Brian Carlson
@@ -14,7 +13,7 @@ The operations team is a committee recruited by the board in order to manage the
 - **Electronics**: Needed
 - **Microcontrollers**: David Flores
 - **Audio/Video**: Jeremy Leung
-- **Sewing**: Alyson Zepada
+- **Sewing**: Michelle and Linda
 - **BioHack**: Shaundra Newstead, Greg Oswalt
 
 ## IT
