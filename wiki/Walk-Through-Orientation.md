@@ -4,6 +4,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 
 - Member agreement/rules
   - Wiki
+  - Bylaws and Code of Conduct
   - [Faq](Faq)
 - [Liability Waiver](Liability-Waiver)
 
@@ -16,14 +17,15 @@ It's very important that we train everyone similarly, in a culture of cleanlines
     - \$50: Box, voting in HYH and board, potential for 24/7 card access
     - \$100: Same as \$50 but locker instead of box
   - Explain the how they can get a card.
-    - Privilege based on trust, not a right. Come during public hours, make friends, ask for proposal, gets voted on during HYH. If you can't come in during public hours, make friends online and ask for favors. It's tough but we're a community not a business.
+    - Privilege based on trust, not a right. Come during open hours, make friends, ask for proposal, gets voted on during HYH. If you can't come in during open hours, make friends online and ask for favors. It's tough but we're a community not a business.
   - Member money helps us pay the rent, but members still need to contribute to the community; that means helping clean, maintain, help others, and participate in our self-governance otherwise our co-op model won't work. Don't just come in, use the tools, and leave.
 - Guest sponsorships
   - Keep an eye on your guests; if you're up front and they're in back breaking a tool, that's not good.
 - Public/private space
+  - HeatSync Labs is a shared space. It isn't a public space.
   - We don't guarantee security of stuff in your box & ESPECIALLY not stuff left around the lab!
   - No taking equipment offsite or touching people's boxes/lockers.
-  - Public stuff shouldn't be left in your box, your stuff shouldn't be left laying around the lab.
+  - HeatSync Labs stuff shouldn't be left in your box, your stuff shouldn't be left laying around the lab.
   - If you need to leave something in the lab, put a parking pass on it so we know it's yours and how to contact you.
   - Ideally, propose to the community that it be given space in the lab.
 - How to fix/connect to wifi (hacktheplanet)
@@ -41,14 +43,13 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - To make proposals, just send an email to the google group with the word proposal in the subject.
   - A week before the next meeting, draft proposals are due and a community member should compile the proposals into an agenda for voting.
   - Final/amended proposals are due 24 hours before the meeting.
-- Last rule the community passed: don't make us make more rules.
 
 <!-- -->
 
 - Some equipment requires certification before use.
   - Members often teach classes. You can too, if you have a skill you want to share, you don't need to ask permission to teach a class.
 - Generally speaking, ask another member prior to using a tool you haven't used in the lab before. We do things differently than at your home, ask so you know how to use OUR tools right.
-- Safety glasses: Where they are hung on the boards and that they are to be worn anytime they are using or around someone using a tool, whether it is a chisel, a lathe, or anything in between.
+- Safety glasses: That they are hung on he wall outside the metal shop and that they are to be worn anytime they are using or around someone using a tool, whether it is a chisel, a lathe, or anything in between.
 - Tools and workstations should be kept usable, operable, complete, and clean.
   - If you use a lot of consumables, consider replacing them. We currently have no budgets or caretakers for consumables.
     - Exception: the tear apart bins and scrap; feel free to use for good projects, but no need to replace.
@@ -58,11 +59,10 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 <!-- -->
 
 - Physical tour, front to back -- in addition to each station, explain usage of:
-- Front TV
 - Thermostat
   - Turn on/off thermostat to 75', turn off fans
-    - Thermostat resets every few hours, OK to adjust it, just don't override it, or we'll spend \$600+/mo on electricity
-- Lock/unlock tablet
+  - Please do not set the thermostat at a temperature that will result in a high electric bill
+- Lock/unlock the lab
   - If you open/unlock the door, make everyone who walks in your guest and responsibility.
     - If you're not comfortable with that responsibility, you don't have to let them in.
     - You can lock the doors any time; we're a private member organization.
