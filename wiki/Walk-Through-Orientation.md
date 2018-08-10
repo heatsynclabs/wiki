@@ -20,14 +20,13 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 
 ## Membership
 
-- What level are you?
-  - What do you get?
-    - \$25: Associate Member. Can access during "open hours" or member only hours, can make proposals and vote on them at HYH. Mostly a donation, thank you for helping.
-    - \$50: Basic Membership the same as Associate with a box for storing stuff, and eligible to be nominated for 24/7 card access
-    - \$100: Same as Basic Membership, but locker instead of box
-  - Explain the how they can get a card.
-    - Card access is a privilege based on trust, not a right. Come during open hours, make friends, ask for proposal, gets voted on during HYH. If you can't come in during open hours, make friends online and ask for favors. It's tough but we're a community not a business.
-  - Member money helps us pay the rent, but members still need to contribute to the community; that means helping clean, maintain, help others, and participate in our self-governance otherwise our co-op model won't work. Don't just come in, use the tools, and leave.
+- What level are you and what do you get?
+  - \$25: Associate Member. Can access during "open hours" or member only hours, can make proposals and vote on them at HYH. Mostly a donation, thank you for helping.
+  - \$50: Basic Membership the same as Associate with a box for storing stuff, and eligible to be nominated for 24/7 card access
+  - \$100: Same as Basic Membership, but locker instead of box
+- Explain the how they can get a card.
+  - Card access is a privilege based on trust, not a right. Come during open hours, make friends, ask for proposal, gets voted on during HYH. If you can't come in during open hours, make friends online and ask for favors. It's tough but we're a community not a business.
+- Member money helps us pay the rent, but members still need to contribute to the community; that means helping clean, maintain, help others, and participate in our self-governance otherwise our co-op model won't work. Don't just come in, use the tools, and leave.
 - Guest sponsorships
   - Keep an eye on your guests; if you're up front and they're in back breaking a tool, that's not good.
 
