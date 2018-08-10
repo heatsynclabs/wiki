@@ -76,6 +76,8 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 
 ## Who is in Charge
 
+- Stations
+  - Station Champions are volunteers who lead their station maintenance, question about the station, hosting events related to their station.
 - Discussion list is our main method of communicating (link on website)
 - Toolshare / members DB is a resource for member info
 - Webcams & Video recording -- no expectation of privacy
