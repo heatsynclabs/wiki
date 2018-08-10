@@ -44,7 +44,10 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - Parking (dedicated, hour enforcement, street parking, passes)
 - HeatSync is a hackerspace first, coworking space second. Our primary purpose is to provide tools for people to create things, and it can be a loud/dirty place.
   - There are tons of other places with WiFi, desks, couches, and projectors. There's only one place where you can use a bandsaw.
-- Hack Your Hackerspace Meetings (agenda, vote on proposals, working on improving lab)
+
+## Hack Your Hackerspace Meetings
+
+- Agenda; Intro, old and new business, vote on proposals, working on improving lab
   - Soda (donations, repurchasing)
   - Member access card proposals
   - Proposals to keep or remove stuff in the lab
@@ -56,7 +59,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - A week before the next meeting, draft proposals are due and a community member should compile the proposals into an agenda for voting.
   - Final/amended proposals are due 24 hours before the meeting.
 
-<!-- -->
+## Making Projects and Using Tools
 
 - Some equipment requires certification before use.
   - Members often teach classes. You can too, if you have a skill you want to share, you don't need to ask permission to teach a class.
