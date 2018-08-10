@@ -93,10 +93,12 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 ## Zombie Contingency Plans
 
 - Just kidding; where things are in the space
+- Stations
+- Safe for payments and mail
 - Thermostat
   - Turn on/off thermostat to 75', turn off fans
   - Please do not set the thermostat at a temperature that will result in a high electric bill
-- Safety glasses: That they are hung on he wall outside the metal shop and that they are to be worn anytime they are using or around someone using a tool, whether it is a chisel, a lathe, or anything in between.
+- Safety glasses: Hung on he wall outside the metal shop and that they are to be worn anytime they are using or around someone using a tool, whether it is a chisel, a lathe, or anything in between.
 - Lock/unlock the lab
   - If you open/unlock the door, make everyone who walks in your guest and responsibility.
     - If you're not comfortable with that responsibility, you don't have to let them in.
@@ -105,12 +107,14 @@ It's very important that we train everyone similarly, in a culture of cleanlines
     - People will come in acting like they own the place, and break or steal stuff. Greeting them helps you meet people, and also weeds out troublemakers.
     - The worst possible thing is for strangers to be wandering unwatched through the lab.
 - A/V computer
+- Broken tools bin
+- Sharps bin
 - Tear apart bins
 - CAD computer
 - Parking passes/tickets
 - Liability waivers
 - First aid kit, eye wash, emergency \#s
-- Fire extinguishers (front, mid, back)
+- Fire extinguishers
 - Upstairs storage/IT/music/HAM
 - Location of lightswitches, turn off when leaving
 - Door locks (check that front & back are green, not red or off)
