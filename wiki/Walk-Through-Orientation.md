@@ -13,7 +13,6 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 ## Important things
 
 - Encourage new members to be familiar with the following;
-  - Member agreement/rules
   - Wiki
   - Bylaws and Code of Conduct
   - [Faq](Faq)
