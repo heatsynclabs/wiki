@@ -48,7 +48,6 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 ## Hack Your Hackerspace Meetings
 
 - Agenda; Intro, old and new business, vote on proposals, working on improving lab
-  - Soda (donations, repurchasing)
   - Member access card proposals
   - Proposals to keep or remove stuff in the lab
   - Monthly Treasurer report
