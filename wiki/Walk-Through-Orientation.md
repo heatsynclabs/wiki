@@ -20,7 +20,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 
 ## Membership
 
-- - What level are you?
+- What level are you?
   - What do you get?
     - \$25: Associate Member. Can access during "open hours" or member only hours, can make proposals and vote on them at HYH. Mostly a donation, thank you for helping.
     - \$50: Basic Membership the same as Associate with a box for storing stuff, and eligible to be nominated for 24/7 card access
