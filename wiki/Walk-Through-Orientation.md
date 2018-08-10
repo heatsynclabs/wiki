@@ -86,8 +86,9 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - SAFETY: Every member has the right, maybe even the responsibility to kick someone out for dangerous behavior.
   - Cut power to the building if you need to. Nobody has the right to endanger themselves, others, or the lab with unsafe behavior. All the insurance and waivers and training in the world won't save us, but each member having a safe mindset and speaking up / preventing incidents can.
 
-## Physical tour, front to back -- in addition to each station, explain usage of:
+## Zombie Contingency Plans
 
+- Just kidding; where things are in the space
 - Thermostat
   - Turn on/off thermostat to 75', turn off fans
   - Please do not set the thermostat at a temperature that will result in a high electric bill
