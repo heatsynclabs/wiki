@@ -78,6 +78,13 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 
 ## Who is in Charge
 
+- Discussion list is our main method of communicating (link on website)
+- Toolshare / members DB is a resource for member info
+- Webcams & Video recording -- no expectation of privacy
+- Do it yourself: nobody else is going to create it, fix it, clean it, or replace it but you.
+- Do-ocracy: the people who get to decide are the people who get off their butts and commit to making something happen.
+  - Easiest way to Do-ocracy: announce "Thursday I'm going to work on \_\_\_\_, if you're interested please join me" or "would anyone object if I did \_\_\_\_?" -- better than "what color should the bike shed be?" "who wants to build a bike shed?" -- schedule/plan it like it's a party.
+
 ## Safety
 
 - WORKSHOP SAFETY: Whenever entering the workshop, Grab a pair of safety glasses by the board next to the doorways and wear them ANYTIME a tool is in use by yourself or by someone else. Always exercise caution, this is a hazardous environment. Always look & listen to check if tools are in use, and do NOT disturb or distract members operating said tools. If you see someone without safety glasses while a tool is in use, hand them a pair of safety glasses.
