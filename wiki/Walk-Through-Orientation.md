@@ -69,7 +69,6 @@ It's very important that we train everyone similarly, in a culture of cleanlines
     - Do not simply open the doors and then leave; hand off responsibility for the doors to someone when you step out, or lock the doors until someone else takes responsibility.
     - People will come in acting like they own the place, and break or steal stuff. Greeting them helps you meet people, and also weeds out troublemakers.
     - The worst possible thing is for strangers to be wandering unwatched through the lab.
-- Camera which uploads to flickr
 - A/V computer
 - Tear apart bins
 - CAD computer
@@ -80,8 +79,6 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - Upstairs storage/IT/music/HAM
 - Location of lightswitches, turn off when leaving
 - Door locks (check that front & back are green, not red or off)
-- Indoor laser cutter electrical cutoff
-- Outdoor electrical & water cutoffs
 - Dumpsters & recycling
 
 <!-- -->
