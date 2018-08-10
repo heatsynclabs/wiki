@@ -1,6 +1,6 @@
 It's very important that we train everyone similarly, in a culture of cleanliness, do-it-yourself, and safety otherwise the hackerspace can go to hell quickly.
 
-## Walkthrough Checklist
+## Walk Through Checklist
 
 ## Greetings Humans
 
@@ -58,7 +58,6 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - Some equipment requires certification before use.
   - Members often teach classes. You can too, if you have a skill you want to share, you don't need to ask permission to teach a class.
 - Generally speaking, ask another member prior to using a tool you haven't used in the lab before. We do things differently than at your home, ask so you know how to use OUR tools right.
-- Safety glasses: That they are hung on he wall outside the metal shop and that they are to be worn anytime they are using or around someone using a tool, whether it is a chisel, a lathe, or anything in between.
 - Tools and workstations should be kept usable, operable, complete, and clean.
   - If you use a lot of consumables, consider replacing them. We currently have no budgets or caretakers for consumables.
     - Exception: the tear apart bins and scrap; feel free to use for good projects, but no need to replace.
@@ -71,7 +70,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
     - How & who to contact when supplies are out
   - Make sure we've always got a good stock of toilet paper & towels in the bathroom so nobody gets trapped
 
-## who is in charge
+## Who is in Charge
 
 ## More stuff
 
@@ -81,6 +80,9 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - Do it yourself: nobody else is going to create it, fix it, clean it, or replace it but you.
 - Do-ocracy: the people who get to decide are the people who get off their butts and commit to making something happen.
   - Easiest way to Do-ocracy: announce "Thursday I'm going to work on \_\_\_\_, if you're interested please join me" or "would anyone object if I did \_\_\_\_?" -- better than "what color should the bike shed be?" "who wants to build a bike shed?" -- schedule/plan it like it's a party.
+
+## Safety
+
 - WORKSHOP SAFETY: Whenever entering the workshop, Grab a pair of safety glasses by the board next to the doorways and wear them ANYTIME a tool is in use by yourself or by someone else. Always exercise caution, this is a hazardous environment. Always look & listen to check if tools are in use, and do NOT disturb or distract members operating said tools. If you see someone without safety glasses while a tool is in use, hand them a pair of safety glasses.
   - If you have a kid, please accompany them through the shop (even to the bathroom / parking lot) especially if they're prone to running / touching or aren't experienced in behaving safely / paying attention to surroundings. Be proactive and mention any risks you notice to them so they can be aware.
 - SAFETY: Every member has the right, maybe even the responsibility to kick someone out for dangerous behavior.
@@ -92,6 +94,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - Thermostat
   - Turn on/off thermostat to 75', turn off fans
   - Please do not set the thermostat at a temperature that will result in a high electric bill
+- Safety glasses: That they are hung on he wall outside the metal shop and that they are to be worn anytime they are using or around someone using a tool, whether it is a chisel, a lathe, or anything in between.
 - Lock/unlock the lab
   - If you open/unlock the door, make everyone who walks in your guest and responsibility.
     - If you're not comfortable with that responsibility, you don't have to let them in.
