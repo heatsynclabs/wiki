@@ -30,6 +30,9 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - Member money helps us pay the rent, but members still need to contribute to the community; that means helping clean, maintain, help others, and participate in our self-governance otherwise our co-op model won't work. Don't just come in, use the tools, and leave.
 - Guest sponsorships
   - Keep an eye on your guests; if you're up front and they're in back breaking a tool, that's not good.
+
+## Misc
+
 - Public/private space
   - HeatSync Labs is a shared space. It isn't a public space.
   - We don't guarantee security of stuff in your box & ESPECIALLY not stuff left around the lab!
