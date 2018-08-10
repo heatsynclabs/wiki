@@ -2,16 +2,25 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 
 ## Walkthrough Checklist
 
+## Greetings Humans
+
+- Talk briefly about what the new members are interested in.
+- Tools they want to use
+- Classes they want to have
+- Discuss more at the end
+- Let this help guide the discussion
+
+## Important things
+
 - Member agreement/rules
   - Wiki
   - Bylaws and Code of Conduct
   - [Faq](Faq)
 - [Liability Waiver](Liability-Waiver)
 
-<!-- -->
+## Membership levels
 
-- Membership levels
-  - What level are you?
+- - What level are you?
   - What do you get?
     - \$25: Just access during 7-10 "open hours", same as the public, plus voting in HYH. Mostly a donation, thank you for helping.
     - \$50: Box, voting in HYH and board, potential for 24/7 card access
@@ -62,7 +71,9 @@ It's very important that we train everyone similarly, in a culture of cleanlines
     - How & who to contact when supplies are out
   - Make sure we've always got a good stock of toilet paper & towels in the bathroom so nobody gets trapped
 
-<!-- -->
+## who is in charge
+
+## More stuff
 
 - Discussion list is our main method of communicating (link on website)
 - Toolshare / members DB is a resource for member info
