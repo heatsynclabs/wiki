@@ -29,6 +29,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - Member money helps us pay the rent, but members still need to contribute to the community; that means helping clean, maintain, help others, and participate in our self-governance otherwise our co-op model won't work. Don't just come in, use the tools, and leave.
 - Guest sponsorships
   - Keep an eye on your guests; if you're up front and they're in back breaking a tool, that's not good.
+- Make sure new \$50 members get a box to store their stuff.
 
 ## Misc
 
