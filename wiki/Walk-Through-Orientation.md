@@ -70,7 +70,6 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - Clean up after yourself -- cleaner than you found it
   - Encourage cleaning culture by offering to clean something with someone ("hey, can you take out the trash with me? Can I help you clean this?")
   - Dozens of people here a day, that's dozens of cups to throw away.
-  - Cleaning supplies
     - How & who to contact when supplies are out
   - Make sure we've always got a good stock of toilet paper & towels in the bathroom so nobody gets trapped
 
@@ -108,17 +107,17 @@ It's very important that we train everyone similarly, in a culture of cleanlines
     - Do not simply open the doors and then leave; hand off responsibility for the doors to someone when you step out, or lock the doors until someone else takes responsibility.
     - People will come in acting like they own the place, and break or steal stuff. Greeting them helps you meet people, and also weeds out troublemakers.
     - The worst possible thing is for strangers to be wandering unwatched through the lab.
-- A/V computer
+- Cleaning supplies
+- MSDS / Safety Data Sheets.
+  - If you bring things and store them in the lab they need to be entered into the Safety Data Sheets
+- First aid kit, eye wash, emergency \#s
 - Broken tools bin
 - Sharps bin
-- Tear apart bins
-- CAD computer
 - Parking passes/tickets
 - Liability waivers
-- First aid kit, eye wash, emergency \#s
 - Fire extinguishers
 - Upstairs storage/IT/music/HAM
-- Location of lightswitches, turn off when leaving
+- Location of light switches, turn off when leaving
 - Door locks (check that front & back are green, not red or off)
 - Dumpsters & recycling
 
