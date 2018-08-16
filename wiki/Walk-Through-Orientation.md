@@ -97,6 +97,8 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - If you have a kid, please accompany them through the shop (even to the bathroom / parking lot) especially if they're prone to running / touching or aren't experienced in behaving safely / paying attention to surroundings. Be proactive and mention any risks you notice to them so they can be aware.
 - SAFETY: Every member has the right, maybe even the responsibility to kick someone out for dangerous behavior.
   - Cut power to the building if you need to. Nobody has the right to endanger themselves, others, or the lab with unsafe behavior. All the insurance and waivers and training in the world won't save us, but each member having a safe mindset and speaking up / preventing incidents can.
+- **No Brake Cleaner in the lab!**
+  - When tetrachloroethylene is exposed with excessive heat and argon used in MIG and TIG welding it produces phosgene which is deadly.
 
 ## Zombie Contingency Plans
 
