@@ -5,9 +5,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 ## Greetings Humans
 
 - Talk briefly about what the new members are interested in.
-- Tools they want to use
-- Classes they want to have
-- Discuss more at the end
+  - Tools they want to use, Classes they want to have. Discuss more at the end.
 - Let this help guide the discussion
 
 ## Important things
