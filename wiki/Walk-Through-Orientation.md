@@ -32,6 +32,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 
 - Public/private space
   - HeatSync Labs is a shared space. It isn't a public space.
+  - Webcams & Video recording -- no expectation of privacy
   - We don't guarantee security of stuff in your box & ESPECIALLY not stuff left around the lab!
   - No taking equipment offsite or touching people's boxes/lockers.
   - HeatSync Labs stuff shouldn't be left in your box, your stuff shouldn't be left laying around the lab.
