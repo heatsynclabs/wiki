@@ -107,8 +107,9 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - Thermostat
   - Turn on/off thermostat to 75', turn off fans
   - Please do not set the thermostat at a temperature that will result in a high electric bill
-- Safety glasses: Hung on he wall outside the metal shop and that they are to be worn anytime they are using or around someone using a tool, whether it is a chisel, a lathe, or anything in between.
-- Cleaning supplies
+- Safety glasses: Hung on he wall outside the metal shop
+  - To be worn anytime they are using or around someone using a tool, whether it is a chisel, a lathe, or anything in between.
+- Cleaning supplies in the kitchen on the rack and in the cupboards next to the rack.
 - MSDS / Safety Data Sheets.
   - If you bring things and store them in the lab they need to be entered into the Safety Data Sheets
 - First aid kit, eye wash, emergency \#s
