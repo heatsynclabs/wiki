@@ -84,6 +84,13 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - Do it yourself: nobody else is going to create it, fix it, clean it, or replace it but you.
 - Do-ocracy: the people who get to decide are the people who get off their butts and commit to making something happen.
   - Easiest way to Do-ocracy: announce "Thursday I'm going to work on \_\_\_\_, if you're interested please join me" or "would anyone object if I did \_\_\_\_?" -- better than "what color should the bike shed be?" "who wants to build a bike shed?" -- schedule/plan it like it's a party.
+- Lock/unlock the lab
+  - If you open/unlock the door, make everyone who walks in your guest and responsibility.
+    - If you're not comfortable with that responsibility, you don't have to let them in.
+    - You can lock the doors any time; we're a private member organization.
+    - Do not simply open the doors and then leave; hand off responsibility for the doors to someone when you step out, or lock the doors until someone else takes responsibility.
+    - People will come in acting like they own the place, and break or steal stuff. Greeting them helps you meet people, and also weeds out troublemakers.
+    - The worst possible thing is for strangers to be wandering unwatched through the lab.
 
 ## Safety
 
