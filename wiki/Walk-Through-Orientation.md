@@ -77,8 +77,10 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - Do it yourself: nobody else is going to create it, fix it, clean it, or replace it but you.
 - Do-ocracy: the people who get to decide are the people who get off their butts and commit to making something happen.
   - Easiest way to Do-ocracy: announce "Thursday I'm going to work on \_\_\_\_, if you're interested please join me" or "would anyone object if I did \_\_\_\_?" -- better than "what color should the bike shed be?" "who wants to build a bike shed?" -- schedule/plan it like it's a party.
-- The lab is organized by Stations and Station Champions are volunteers who take charge of an area.
-  - They should be heading up all station maintenance, question about the station, hosting events related to their station etc.
+- The lab is organized by Stations and Station Champions are volunteers who take charge of making an area useful for everyone
+  - They should be heading up all station maintenance, question about the station, hosting events related to their station etc
+  - Consult Station Champions before doing cool projects that upgrade 'their' area
+  - If you are a station Champion be welcoming of ideas for 'your' area
 - The Discussion list is our main method of communicating (link on website)
 - Toolshare / members DB is a resource for member info
 - Locking and unlocking the lab
