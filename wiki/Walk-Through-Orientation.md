@@ -17,8 +17,9 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 ## Membership
 
 - What level are you and what do you get?
-  - \$25: Associate Member. Can access during "open hours" or member only hours, can make proposals and vote on them at HYH. Mostly a donation, thank you for helping.
-  - \$50: Basic Membership the same as Associate with a box for storing stuff, and eligible to be nominated for 24/7 card access
+  - Everyone gets access to "open hours"
+  - \$25: Associate Member and above get access during member only hours, can make proposals and vote on them at HYH. Mostly a donation, thank you for helping.
+  - \$50: Basic Membership also get a box for storing stuff, and are eligible to be nominated for 24/7 card access
   - \$100: Same as Basic Membership, but locker instead of box
 - Explain the how they can get a card.
   - Card access is a privilege based on trust, not a right. Come during open hours, make friends, ask for proposal, gets voted on during HYH. If you can't come in during open hours, make friends online and ask for favors. It's tough but we're a community not a business.
