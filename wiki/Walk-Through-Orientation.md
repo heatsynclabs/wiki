@@ -101,26 +101,22 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - Turn on/off thermostat to 75', turn off fans
   - Please do not set the thermostat at a temperature that will result in a high electric bill
 - Safety glasses: Hung on he wall outside the metal shop and that they are to be worn anytime they are using or around someone using a tool, whether it is a chisel, a lathe, or anything in between.
-- Lock/unlock the lab
-  - If you open/unlock the door, make everyone who walks in your guest and responsibility.
-    - If you're not comfortable with that responsibility, you don't have to let them in.
-    - You can lock the doors any time; we're a private member organization.
-    - Do not simply open the doors and then leave; hand off responsibility for the doors to someone when you step out, or lock the doors until someone else takes responsibility.
-    - People will come in acting like they own the place, and break or steal stuff. Greeting them helps you meet people, and also weeds out troublemakers.
-    - The worst possible thing is for strangers to be wandering unwatched through the lab.
 - Cleaning supplies
 - MSDS / Safety Data Sheets.
   - If you bring things and store them in the lab they need to be entered into the Safety Data Sheets
 - First aid kit, eye wash, emergency \#s
 - Broken tools bin
 - Sharps bin
-- Parking passes/tickets
+- Project parking passes/tickets
 - Liability waivers
 - Fire extinguishers
-- Upstairs storage/IT/music/HAM
+- Upstairs storage/IT
 - Location of light switches, turn off when leaving
 - Door locks (check that front & back are green, not red or off)
 - Dumpsters & recycling
+- Phone number for Facility Manager on the front and back door
+  - Please notify the Facility Manager immediately of anything critical related to the building, or safety. Leaks, electrical problems, damage to building, fires (after calling 911).
+  - Also notify of any cleaning supplies that are low.
 
 ## Wrap up
 
