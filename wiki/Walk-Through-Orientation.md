@@ -13,6 +13,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - Bylaws and Code of Conduct
   - [Faq](Faq)
   - [Liability Waiver](Liability-Waiver)
+  - There are live webcams & Video recording -- no expectation of privacy
 
 ## Membership
 
