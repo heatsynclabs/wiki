@@ -109,7 +109,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - Safety glasses: Hung on he wall outside the metal shop
   - To be worn anytime they are using or around someone using a tool, whether it is a chisel, a lathe, or anything in between.
 - Cleaning supplies in the kitchen on the rack and in the cupboards next to the rack.
-- MSDS / Safety Data Sheets.
+- MSDS / Safety Data Sheets in the kitchen on top of the cleaning supplies rack.
   - If you bring things and store them in the lab they need to be entered into the Safety Data Sheets
 - First aid kit, eye wash, emergency \#s
 - Broken tools bin
