@@ -1,7 +1,5 @@
 It's very important that we train everyone similarly, in a culture of cleanliness, do-it-yourself, and safety otherwise the hackerspace can go to hell quickly.
 
-## Walk Through Checklist
-
 ## Greetings Humans
 
 - Talk briefly about what the new members are interested in.
