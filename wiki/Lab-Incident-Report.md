@@ -1,3 +1,3 @@
-Please use the following link to report all incidents/accidents/faux pax in the lab:
+Incidents and accidents should be reported to <board@heatsynclabs.org>.
 
-<http://www.heatsynclabs.org/contact/board/incidentreport/>
+[Code of Conduct](Bylaws#code-of-conduct) violations should be reported to <conduct@heatsynclabs.org>
