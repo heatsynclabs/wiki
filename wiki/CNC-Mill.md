@@ -72,3 +72,7 @@ LinuxCNC Config Files
 [LinuxCNC Inches ini file](LinuxCNC-Inches-ini-file)
 
 [LinuxCNC Pinout](LinuxCNC-Pinout)
+
+[RF-31.pdf](files/RF-31.pdf)
+
+*RF-31.pdf*
