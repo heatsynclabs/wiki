@@ -14,7 +14,7 @@ Tool purchases are an important part of furthering that goal by expanding the ar
 4.  Make sure all questions and concerns are addressed.
 5.  Make the final proposal for members to vote upon.
 
-A proposal is necessary if you want to use HeatSync funds to purchase the machine. A proposal must be submitted one week in advance of the next Hack Your Hackerspace. After a week of discussion on the mailing list, ideally all concerns have been raised and addressed, and it can simply be put to a vote. Any lingering doubts will almost certainly be raised before the vote, so it is important to be present to answer any questions the day the proposal is voted upon. If you have done your job correctly, everyone in the community will have had their concerns addressed before then, and it will simply be approved.
+A proposal is necessary if you want to use HeatSync funds for purchase or if the new tool or equipment uses more than four (4) square feet of space. For the purpose of this procedure “tool or equipment” includes tables, permanent displays or anything else that would take additional space. A proposal must be submitted one week in advance of the next Hack Your Hackerspace. After a week of discussion on the mailing list, ideally all concerns have been raised and addressed, and it can simply be put to a vote. Any lingering doubts will almost certainly be raised before the vote, so it is important to be present to answer any questions the day the proposal is voted upon. If you have done your job correctly, everyone in the community will have had their concerns addressed before then, and it will simply be approved.
 
 ## Financing And Purchasing the Machine
 
