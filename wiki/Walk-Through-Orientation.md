@@ -1,6 +1,6 @@
 It's very important that we train everyone similarly, in a culture of cleanliness, do-it-yourself, and safety otherwise the hackerspace can go to hell quickly.
 
-## Greetings Humans
+## Greetings, Humans
 
 - Talk briefly about what the new members are interested in.
   - Tools they want to use, projects they want to build, classes they want to take, ways they want to volunteer. Discuss more at the end.
