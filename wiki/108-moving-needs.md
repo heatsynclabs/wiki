@@ -1,0 +1,21 @@
+We have several needs. You probably know someone who can help. If you do, contact <board@heatsynclabs.org> to make the introduction.
+
+- Fire sprinklers
+  - We have a grant that will refund \$20,000 once installation is complete.
+  - Inside:
+    - HAVE one quote for the inside construction: \$23,300
+    - NEED two more quotes before Mesa will consider helping us.
+  - Outside feed:
+    - NEED design/survey from a civil engineer
+    - NEED plumber willing/able to cut concrete and install fire riser from the water main in the alley
+- Electrical
+- Construction/land use
+  - HAVE completed architectural drawings.
+  - HAVE a contractor that is willing to work with us and let us do a lot of the work under his license.
+  - NEED electrical engineer calculations. Milton found someone who might help, and is trying to get him to respond again.
+- City permit
+  - NEED electrical
+  - NEED occupancy
+  - NEED construction
+  - NEED change of use
+  - Is a temporary permit an option?
