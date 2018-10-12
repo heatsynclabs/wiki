@@ -12,7 +12,8 @@ We have several needs. You probably know someone who can help. If you do, contac
 - Construction/land use
   - HAVE completed architectural drawings.
   - HAVE a contractor that is willing to work with us and let us do a lot of the work under his license.
-  - NEED electrical engineer calculations. Milton found someone who might help, and is trying to get him to respond again.
+  - NEED Electrical Engineer calculations. Milton found someone who might help, and is trying to get him to respond again.
+  - NEED Structural Engineer to rate upstairs floor.
 - City permit
   - NEED electrical
   - NEED occupancy
