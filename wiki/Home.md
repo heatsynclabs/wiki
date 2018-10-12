@@ -2,6 +2,14 @@
 
 [HeatSync Labs](HeatSync-Labs) is a nonprofit [ hackerspace](How-To-Hackerspace) in Arizona. Our objective is to empower engineers, artists, and inventors to push the limits of technology beyond its intended use. This wiki is intended as a collaborative area to record the decisions and policies made by the organization, share ideas and plans, and serve as a virtual workspace for member [ projects](Projects).
 
+<div style="margin:0;background-color:#f99a0b;font-size:120%;font-weight:bold;border:1px solid #80e080;text-align:left;color:#000;padding:0.2em 0.4em;">
+
+HeatSync needs your help!\
+We need effort and resources to make the lab useful after our move.\
+Please take a look at [ our list](108-moving-needs) to see if you or someone you know can help!
+
+</div>
+
 <table style="width:10%;">
 <colgroup>
 <col style="width: 5%" />
