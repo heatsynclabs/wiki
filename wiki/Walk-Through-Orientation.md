@@ -55,6 +55,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - To make proposals, just send an email to the google group with the word proposal in the subject.
   - A week before the next meeting, draft proposals are due and a community member should compile the proposals into an agenda for voting.
   - Final/amended proposals are due 24 hours before the meeting.
+  - The person who made the proposal or someone they choose in advance needs to be there to represent the proposal.
 
 ## Making Projects and Using Tools
 
