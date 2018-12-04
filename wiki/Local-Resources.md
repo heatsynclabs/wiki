@@ -12,6 +12,7 @@ Also, provide details of their services (maybe pricing, or even a short review) 
 - [Lenhart's Ace Hardware, Mesa](https://plus.google.com/102108286218407804492/about?gl=us&hl=en) (general hardware)
 - [Grainger, Gilbert](https://plus.google.com/116307475141640045322/about?gl=us&hl=en)
 - [Chem Lab Supply, Phoenix](http://www.chemlabsupply.com/) (scientific glass, chemicals, equipment)
+- [Heldt Lumber, Phoenix](https://www.heldtlumber.com/) (lumbar, building supplies)
 
 ### Hobbyist/etc Groups
 
