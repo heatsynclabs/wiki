@@ -104,29 +104,36 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 ## Zombie Contingency Plans
 
 - Just kidding; where things are in the space
-- Stations
-- Safe for payments and mail
-- Thermostat
-  - Turn on/off thermostat to 75', turn off fans
-  - Please do not set the thermostat at a temperature that will result in a high electric bill
-- Safety glasses: Hung on he wall outside the metal shop
-  - To be worn anytime they are using or around someone using a tool, whether it is a chisel, a lathe, or anything in between.
-- Cleaning supplies in the kitchen on the rack and in the cupboards next to the rack.
-- MSDS / Safety Data Sheets in the kitchen on top of the cleaning supplies rack.
+- This list goes from the kitchen to the front doors
+- Stations (along the way...)
+- MSDS / Safety Data Sheets: In the kitchen on top of the cleaning supplies rack.
   - If you bring things and store them in the lab they need to be entered into the Safety Data Sheets
-- First aid kit, eye wash, emergency \#s
-- Broken tools bin
-- Sharps bin
-- Project parking passes/tickets
-- Liability waivers
-- Fire extinguishers
+- Cleaning supplies: In the kitchen on the rack and in the cupboards next to the rack.
+- Bio-hazard sharps: In the biolab
+- Dumpsters & recycling: Out the back door to the left (West) 225 feet down the alley (use the wheelbarrow for trash)
+- Back door lock
+- Fire extinguisher: in hallway
+- Safety glasses: Hung on he wall outside the metal shop
+- Vehicle parking passes: next to safety glasses
+- Light Switches: in hall near metal shop
+- First aid kit and eye wash: in hallway in front of small bathroom door
+- Light switches: bottom of stairs for upstairs lights
 - Upstairs storage/IT
-- Location of light switches, turn off when leaving
-- Door locks (check that front & back are green, not red or off)
-- Dumpsters & recycling
-- Phone number for Facility Manager on the front and back door
+- Thermostat: doorway by laser into hallway
+  - Please do not set the thermostat at a temperature that will result in a high electric bill
+- Fire extinguishers: under thermostat near the laser
+- Safe: for payments and mail under soldering table
+- Broken tools bin:
+- Sharps bin for tools: on the nuts and bolts shelf. Not to be confused with bio-hazard sharps bin
+- Liability waivers: near HP color printer between retro technology and 3d printer station
+- Project parking passes/tickets: next to HP color printer
+- Light switch: near trash by the snacks
+- Light switches: in the corner with the vinyl cutter
+- Fire extinguisher: front door
+- Door locks: make sure front door locks when going out
+- Facility Manager phone number: on the front door sign bottom corner
   - Please notify the Facility Manager immediately of anything critical related to the building, or safety. Leaks, electrical problems, damage to building, fires (after calling 911).
-  - Also notify of any cleaning supplies that are low.
+  - Also notify of any safety supplies, or cleaning supplies that are low.
 
 ## Wrap up
 
