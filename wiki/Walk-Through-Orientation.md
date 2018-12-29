@@ -42,13 +42,8 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 
 ## Hack Your Hackerspace Meetings
 
-- Agenda; Intro, old and new business, vote on proposals, working on improving lab
-  - Member access card proposals
-  - Proposals to keep or remove stuff in the lab
-  - Monthly Treasurer report
-  - Proposals to the Board/Treasurer
-  - Process Lost & Found, Broken Tools, missing consumables
-  - Clean up the lab
+- [Hack Your Hackerspace](Hack-Your-Hackerspace) is when our community gets together to improve the space and clean up.
+  - The 2nd and 4th Thursday 7pm each month.
 - To make proposals, just send an email to the google group with the word proposal in the subject.
   - A week before the next meeting, draft proposals are due and a community member should compile the proposals into an agenda for voting.
   - Final/amended proposals are due 24 hours before the meeting.
