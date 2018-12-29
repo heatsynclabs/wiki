@@ -37,7 +37,6 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - If you need to leave something in the lab, put a parking pass on it so we know it's yours and how to contact you.
   - Ideally, propose to the community that it be given space in the lab.
 - How to fix/connect to wifi (hacktheplanet)
-- Parking (dedicated, hour enforcement, street parking, passes)
 - HeatSync is a hackerspace first, coworking space second. Our primary purpose is to provide tools for people to create things, and it can be a loud/dirty place.
   - There are tons of other places with WiFi, desks, couches, and projectors. There's only one place where you can use a bandsaw.
 
