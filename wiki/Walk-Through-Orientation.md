@@ -109,7 +109,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - Cleaning supplies: In the kitchen on the rack and in the cupboards next to the rack.
 - Bio-hazard sharps: In the biolab
 - Dumpsters & recycling: Out the back door to the left (West) 225 feet down the alley (use the wheelbarrow for trash)
-- Back door lock
+- Back door lock: basic dead bolt, just give it a turn maybe opposite the way you think.
 - Fire extinguisher: in hallway
 - Safety glasses: Hung on he wall outside the metal shop
 - Vehicle parking passes: next to safety glasses
@@ -120,8 +120,9 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - Thermostat: doorway by laser into hallway
   - Please do not set the thermostat at a temperature that will result in a high electric bill
 - Fire extinguishers: under thermostat near the laser
+- Ear protection and dust masks: on top of nuts and bolts near hallway entry.
 - Safe: for payments and mail under soldering table
-- Broken tools bin:
+- Broken tools bin: TBD
 - Sharps bin for tools: on the nuts and bolts shelf. Not to be confused with bio-hazard sharps bin
 - Liability waivers: near HP color printer between retro technology and 3d printer station
 - Project parking passes/tickets: next to HP color printer
