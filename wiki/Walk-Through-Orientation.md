@@ -9,9 +9,8 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 ## Important things
 
 - Encourage new members to be familiar with the following;
-  - Wiki
-  - Bylaws and Code of Conduct
-  - [Faq](Faq)
+  - Wiki; [Main_Page](Home), [Bylaws](Bylaws), [Faq](Faq)
+  - Code of Conduct [1](http://wiki.heatsynclabs.org/wiki/Bylaws#CODE_OF_CONDUCT)
   - [Liability Waiver](Liability-Waiver)
 
 ## Membership
