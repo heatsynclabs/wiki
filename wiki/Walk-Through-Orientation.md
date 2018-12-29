@@ -136,6 +136,8 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 
 ## Wrap up
 
-- Questions? How can I help you get started on something?
-  - Ask people what they're working on!
+- Questions?
+- How can I help you get started on something?
+- Please fill out the online class interest form on our home page.
+- Are there any classes you would want to teach?
 - Welcome and thanks!
