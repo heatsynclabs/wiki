@@ -67,14 +67,13 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 
 ## Who is in Charge
 
-- Do it yourself: nobody else is going to create it, fix it, clean it, or replace it but you.
 - Do-ocracy: the people who get to decide are the people who get off their butts and commit to making something happen.
   - Easiest way to Do-ocracy: announce "Thursday I'm going to work on \_\_\_\_, if you're interested please join me" or "would anyone object if I did \_\_\_\_?" -- better than "what color should the bike shed be?" "who wants to build a bike shed?" -- schedule/plan it like it's a party.
-- The lab is organized by Stations and Station Champions are volunteers who take charge of making an area useful for everyone
-  - They should be heading up all station maintenance, question about the station, hosting events related to their station etc
+- Do it yourself: nobody else is going to create it, fix it, clean it, or replace it but you.
+- Station Champions are volunteers who make an area useful for everyone, with maintenance, fielding questions, and coordinating events related to their station.
   - Consult Station Champions before doing cool projects that upgrade 'their' area
   - If you are a station Champion be welcoming of ideas for 'your' area
-- The Discussion list is our main method of communicating (link on website)
+- The HeatSync Labs Discussion Group [2](http://groups.google.com/forum/?fromgroups#!forum/heatsynclabs) is our main method of communicating
 - Toolshare / members DB is a resource for member info
 - Locking and unlocking the lab
   - Whoever unlocks the doors or opens the door for someone takes on those who come in as guests and is their responsibility.
