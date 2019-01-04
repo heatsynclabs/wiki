@@ -88,8 +88,8 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 
 - WORKSHOP SAFETY: Whenever entering the workshop, Grab a pair of safety glasses by the board next to the doorways and wear them ANYTIME a tool is in use by yourself or by someone else. Always exercise caution, this is a hazardous environment. Always look & listen to check if tools are in use, and do NOT disturb or distract members operating said tools. If you see someone without safety glasses while a tool is in use, hand them a pair of safety glasses.
   - If you have a kid, please accompany them through the shop (even to the bathroom / parking lot) especially if they're prone to running / touching or aren't experienced in behaving safely / paying attention to surroundings. Be proactive and mention any risks you notice to them so they can be aware.
-- SAFETY: Every member has the right, maybe even the responsibility to kick someone out for dangerous behavior.
-  - Cut power to the building if you need to. Nobody has the right to endanger themselves, others, or the lab with unsafe behavior. All the insurance and waivers and training in the world won't save us, but each member having a safe mindset and speaking up / preventing incidents can.
+- Every member has the right, maybe even the responsibility to kick someone out for dangerous behavior.
+- All the insurance and waivers and training in the world won't save us, but each member having a safe mindset and speaking up / preventing incidents can.
 - **No Brake Cleaner in the lab!**
   - When tetrachloroethylene is exposed with excessive heat and argon used in MIG and TIG welding it produces phosgene which is deadly.
 
