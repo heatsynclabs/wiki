@@ -32,25 +32,25 @@ These lists are not exhaustive. If your material is not on either list, ask firs
         4.  Air compressor
 2.  Start the LaserCut software
     1.  Communication Problem?
-        1.  Save work
-        2.  Exit LaserCut
-        3.  Restart LaserCut
+        1.  Click download to regain communication
+        2.  Save work
+        3.  Exit LaserCut
+        4.  Restart LaserCut
     2.  “SoftDog” dongle errors
         1.  These are usually random
         2.  retry
 3.  Create your design
-    1.  File in ...My Documents/USERS/Your Name
-    2.  Shapes, Text, Graphics
+    1.  Shapes, Text, Graphics
         1.  Use LaserCut for simple work, or
         2.  Import from Corel, AutoCad, etc
-    3.  Assign objects to layers then values for:
+    2.  Assign objects to layers then values for:
         1.  Speed
         2.  Power
         3.  Frequency
         4.  Output
-    4.  Set drawing origin (Choose intelligently based on your design)
-    5.  Click Calculate
-    6.  Simulate if necessary
+    3.  Set drawing origin (Choose intelligently based on your design)
+    4.  Click Calculate
+    5.  Simulate if necessary
 4.  Download the design to the laser cutter
     1.  Click “Download” then “Download Current”
     2.  Close the download window
