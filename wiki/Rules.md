@@ -45,6 +45,8 @@ HeatSync membership is open to the public, but use of certain equipment and key/
 
 More than anything else, membership is a regular donation. Its is NOT payment for a service.
 
+**Teachers get 50% off any membership.** Sign up as normal, just make your payments for the discount rate.
+
 ### Membership Fees
 
 If you sign up for membership via PayPal or Dwolla, your recurring monthly dues will be subtracted from your account the same date you enrolled. If you chpose Cash/Check -- you can either mail your dues (108 West Main St. Mesa, AZ 85201) or deliver it to David Flores (treasurer @ heatsynclabs.org) at HeatSync. Please note recurring payments are -highly- encouraged-- remember we do not have staff. If cash/check are important please consider using your bank's automatic bill-pay feature, or prepaying for 3, 6 or 12 months up front.
