@@ -2,6 +2,7 @@ The HeatSync Labs Press page is intended to document articles regarding HSL even
 
 ## Blogs
 
+- April 2019 [Hack-A-Day: Get Coding With This Atari 2600 Development Suite](https://hackaday.com/2019/04/22/get-coding-with-this-atari-2600-development-suite/)
 - July 2014 [AZTechBeat: Drones deliver packages, detect hurricane patterns, and rescue missing children](http://aztechbeat.com/2014/07/drones-deliver-weather-rescue/)
 - June 2014 [Phoenix New Times: HeatSync Labs Wins a 3D Carving Machine](http://blogs.phoenixnewtimes.com/jackalope/2014/06/heatsync_labs_mesa_3d_carving_machine.php)
 - June 2014 [Hack-a-day: Follow up of Hacker meet up at Heatsync Labs](http://hackaday.com/2014/06/02/follow-up-of-hacker-meet-up-at-heatsync-labs/)
