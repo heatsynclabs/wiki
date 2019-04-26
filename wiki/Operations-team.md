@@ -3,18 +3,19 @@ The operations team is a committee recruited by the board in order to manage the
 ## Station Heads
 
 - **Facilities**: Austin Kipp
-- **Welding**: Austin Kipp
-- **Laser**: Milton Williams
-- **Vinyl Cutter**: Needed
-- **Metal Shop**: Needed - Filling in is Jasper for certification classes
-- **Wood Shop**: Brian Carlson
-- **Nuts & Bolts**: Greg Oswalt
 - **3D Printing**: Trish Blickfeldt, Jasper Nance
-- **Electronics**: Needed
-- **Microcontrollers**: David Flores
 - **Audio/Video**: Jeremy Leung
-- **Sewing**: Michelle and Linda
 - **BioHack**: Shaundra Newstead, Greg Oswalt
+- **Electronics**: Needed
+- **Jewelry**: Heather Jackson and Sarah
+- **Laser**: Milton Williams
+- **Metal Shop**: Needed - Filling in is Jasper for certification classes
+- **Microcontrollers**: David Flores
+- **Nuts & Bolts**: Greg Oswalt
+- **Sewing**: Michelle and Linda
+- **Vinyl Cutter**: Kelly Jo
+- **Welding**: Austin Kipp
+- **Wood Shop**: Brian Carlson
 
 ## IT
 
