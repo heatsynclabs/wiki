@@ -8,7 +8,7 @@ We believe in a pretty broad sense of creation. We do not segregate based on 'ge
 
 # Q: How do you pay for all this?
 
-HeatSync is entirely supported by donations of time and money, and member dues.
+HeatSync is primarily supported by donations of time and money, and member dues. HeatSync Labs is also a 501c3 eligible for grants and you can be part of helping us apply for grants. Make a post on the discussion group if you have found a grant that you'd like to help apply for.
 
 # Q: What do I need to bring with me to HeatSync?
 
