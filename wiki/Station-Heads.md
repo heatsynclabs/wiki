@@ -13,7 +13,7 @@ The operations team is a committee recruited by the board in order to manage the
 - AUDIO/VIDEO: Jeremy Leung
 - SEWING: Michelle and Linda
 - BIOHACK: Greg Oswalt and Shaundra Newstead
-- VINYL CUTTER: Needed
+- VINYL CUTTER: Kelly Jo
 - LOCK PICKING: Scorch
 - SNACKS: David Flores
 - CNC: David Farmer
