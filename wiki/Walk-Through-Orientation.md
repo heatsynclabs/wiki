@@ -58,18 +58,13 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 
 ## Making Projects and Using Tools
 
-- Some equipment requires certification before use.
 - Generally speaking, ask another member prior to using a tool you haven't used in the lab before. We do things differently than at your home, ask so you know how to use OUR tools right.
+  - Some equipment requires certification before use.
+- Encourage cleaning culture by cleaning up after yourself, offering to clean something with someone, and helping others learn where things go.
 - Tools and workstations should be kept usable, operable, complete, and clean.
-  - If you use a lot of consumables, consider replacing them. We currently have no budgets or caretakers for consumables.
+  - If a anything goes wrong with a tool or station you are using try to help remedy it. If you aren't sure how post to the discussion group to engage with the Station Champion and others who my able to help resolve it.
+  - If you use consumables, consider replacing them. We currently have no budgets or caretakers for consumables.
     - Exception: the tear apart bins and scrap; feel free to use for good projects, but no need to replace.
-  - Don't render a tool unusable just because you needed to borrow a cable from it, or because you left it a mess.
-  - If a tool breaks, put it into the broken tools bin, let people know about it, look into replacement.
-- Clean up after yourself -- cleaner than you found it
-  - Encourage cleaning culture by offering to clean something with someone ("hey, can you take out the trash with me? Can I help you clean this?")
-  - Dozens of people here a day, that's dozens of cups to throw away.
-    - How & who to contact when supplies are out
-  - Make sure we've always got a good stock of toilet paper & towels in the bathroom so nobody gets trapped
 
 ## Who is in Charge
 
