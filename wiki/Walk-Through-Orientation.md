@@ -62,9 +62,9 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - Some equipment requires certification before use.
 - Encourage cleaning culture by cleaning up after yourself, offering to clean something with someone, and helping others learn where things go.
 - Tools and workstations should be kept usable, operable, complete, and clean.
-  - If a anything goes wrong with a tool or station you are using try to help remedy it. If you aren't sure how post to the discussion group to engage with the Station Champion and others who my able to help resolve it.
-  - If you use consumables, consider replacing them. We currently have no budgets or caretakers for consumables.
-    - Exception: the tear apart bins and scrap; feel free to use for good projects, but no need to replace.
+  - If a anything goes wrong with a tool or station you are using try to help remedy it. If you aren't sure how then post to the discussion group to engage with the Station Champion and others who my able to help resolve it.
+- If you use consumables, consider replacing them. We currently have no budgets or caretakers for consumables.
+  - Exception: the tear apart bins and scrap; feel free to use for good projects, but no need to replace.
 
 ## Who is in Charge
 
