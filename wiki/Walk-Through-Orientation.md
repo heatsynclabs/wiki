@@ -15,7 +15,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 
 ## Safety
 
-- WORKSHOP SAFETY: Always wear safety glasses when you are in an area tools are in use by yourself or by someone else. Always exercise caution, this is a hazardous environment. Always look & listen to check if tools are in use, and do NOT disturb or distract members operating said tools. If you see someone without safety glasses while a tool is in use, hand them a pair of safety glasses.
+- Wear safety glasses when you are in an area tools are in use by yourself or others. Always exercise caution, this is a hazardous environment. Always look & listen to check if tools are in use, and do NOT disturb or distract members operating said tools. If you see someone without safety glasses while a tool is in use, hand them a pair of safety glasses.
 - If you have a kid, please accompany them through the shop (even to the bathroom / parking lot) especially if they're prone to running / touching or aren't experienced in behaving safely / paying attention to surroundings. Be proactive and mention any risks you notice to them so they can be aware.
 - Every member has the right, maybe even the responsibility to kick someone out for dangerous behavior.
 - All the insurance and waivers and training in the world won't save us, but each member having a safe mindset and speaking up / preventing incidents can.
