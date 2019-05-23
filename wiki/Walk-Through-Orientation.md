@@ -32,8 +32,6 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - How you can get card access
   - Card access is a privilege based on trust, not a right. Come during open hours, help during HYH, make friends, make things, ask for proposal, gets voted on during HYH. If you can't come in during open hours, make friends online and ask for favors. It's tough but we're a community not a business.
 - Member money helps us pay the rent, but members still need to contribute to the community; that means helping clean, maintain, help others, and participate in our self-governance otherwise our co-op model won't work. Don't just come in, use the tools, and leave.
-- Guest sponsorships
-  - Keep an eye on your guests; if you're up front and they're in back breaking a tool, that's not good.
 
 ## Misc
 
