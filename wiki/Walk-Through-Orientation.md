@@ -76,6 +76,11 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - Consult Station Champions before doing cool projects that upgrade 'their' area
   - If you are a station Champion be welcoming of ideas for 'your' area
 - The HeatSync Labs Discussion Group [2](http://groups.google.com/forum/?fromgroups#!forum/heatsynclabs) is our main method of communicating
+- Hosting the lab and it's guests
+  - Whoever unlocks the doors or opens the door for someone is responsible for them even if it is another paying member.
+  - If you're not comfortable with that responsibility, you don't have to let them in.
+  - You can lock the doors any time; we're a private member organization.
+    - Do not simply open the doors and then leave; hand off responsibility for the doors to someone when you step out, or lock the doors until someone else takes responsibility.
 
 ## Zombie Contingency Plans
 
