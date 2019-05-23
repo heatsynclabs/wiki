@@ -13,6 +13,15 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - Code of Conduct [1](http://wiki.heatsynclabs.org/wiki/Bylaws#CODE_OF_CONDUCT)
   - [Liability Waiver](Liability-Waiver)
 
+## Safety
+
+- WORKSHOP SAFETY: Always wear safety glasses when you are in an area tools are in use by yourself or by someone else. Always exercise caution, this is a hazardous environment. Always look & listen to check if tools are in use, and do NOT disturb or distract members operating said tools. If you see someone without safety glasses while a tool is in use, hand them a pair of safety glasses.
+- If you have a kid, please accompany them through the shop (even to the bathroom / parking lot) especially if they're prone to running / touching or aren't experienced in behaving safely / paying attention to surroundings. Be proactive and mention any risks you notice to them so they can be aware.
+- Every member has the right, maybe even the responsibility to kick someone out for dangerous behavior.
+- All the insurance and waivers and training in the world won't save us, but each member having a safe mindset and speaking up / preventing incidents can.
+- **No Brake Cleaner in the lab!**
+  - When tetrachloroethylene is exposed with excessive heat and argon used in MIG and TIG welding it produces phosgene which is deadly.
+
 ## Membership
 
 - What level are you and what do you get?
@@ -82,15 +91,6 @@ It's very important that we train everyone similarly, in a culture of cleanlines
     - Do not simply open the doors and then leave; hand off responsibility for the doors to someone when you step out, or lock the doors until someone else takes responsibility.
     - People will come in acting like they own the place, and break or steal stuff. Greeting them helps you meet people, and also weeds out troublemakers.
     - The worst possible thing is for strangers to be wandering unwatched through the lab.
-
-## Safety
-
-- WORKSHOP SAFETY: Whenever entering the workshop, Grab a pair of safety glasses by the board next to the doorways and wear them ANYTIME a tool is in use by yourself or by someone else. Always exercise caution, this is a hazardous environment. Always look & listen to check if tools are in use, and do NOT disturb or distract members operating said tools. If you see someone without safety glasses while a tool is in use, hand them a pair of safety glasses.
-- If you have a kid, please accompany them through the shop (even to the bathroom / parking lot) especially if they're prone to running / touching or aren't experienced in behaving safely / paying attention to surroundings. Be proactive and mention any risks you notice to them so they can be aware.
-- Every member has the right, maybe even the responsibility to kick someone out for dangerous behavior.
-- All the insurance and waivers and training in the world won't save us, but each member having a safe mindset and speaking up / preventing incidents can.
-- **No Brake Cleaner in the lab!**
-  - When tetrachloroethylene is exposed with excessive heat and argon used in MIG and TIG welding it produces phosgene which is deadly.
 
 ## Zombie Contingency Plans
 
