@@ -103,7 +103,6 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - Thermostat: doorway by laser into hallway
   - Please do not set the thermostat at a temperature that will result in a high electric bill
 - Fire extinguishers: under thermostat near the laser
-- Lost and Found: On shelves with member boxes by the laser
 - Ear protection and dust masks: on top of nuts and bolts near hallway entry.
 - Safe: for payments and mail under soldering table
 - Sharps bin for tools: on the nuts and bolts shelf. Not to be confused with bio-hazard sharps bin
