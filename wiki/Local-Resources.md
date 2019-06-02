@@ -285,6 +285,14 @@ Remember, Cast acrylic is preferred for lasering. The cut makes extruded acrylic
 - smallparts.com clear 1/8 x12x12" \$12+shipping
 - mcmastercarr clear 1/8 x24x24" \$20+shipping
 
+### Other Materials
+
+Montroy sign company
+
+- Sells vinyl by the yard
+- 1905 S Macdonald Suite 2 & 3, Mesa, AZ 85210
+- <https://www.montroy.com/>
+
 ### Member Run Businesses
 
 - [HYPOXIC](http://www.gethypoxic.com/) Sells and develops solutions for cameras used in extreme sports. Provides GOPRO, Contours, camera mounts, accessories, helmets and video debriefing software. Will provide members discounts.
