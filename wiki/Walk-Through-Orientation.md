@@ -85,8 +85,6 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 ## Zombie Contingency Plans
 
 - Just kidding; where things are in the space
-- This list goes from the kitchen to the front doors
-- Stations (along the way...)
 - MSDS / Safety Data Sheets: In the kitchen on top of the cleaning supplies rack.
   - If you bring things and store them in the lab they need to be entered into the Safety Data Sheets
 - Cleaning supplies: In the kitchen on the rack and in the cupboards next to the rack.
