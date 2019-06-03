@@ -93,7 +93,8 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - Fire extinguisher: in hallway
 - Safety glasses: Hung on he wall outside the metal shop
 - Vehicle parking passes: next to safety glasses
-  - Purple Lot and Orange Lot parking is 3 hours max between 8am - 8pm (after 5pm you are fine).
+  - Purple Lot and Orange Lot parking is 3 hours max between 8am - 8pm.
+- Please be respectful of the 2 hours parking limit for our neighboring businesses
 - Light Switches: in hall near metal shop
 - First aid kit and eye wash: in hallway in front of small bathroom door
 - Light switches: bottom of stairs for upstairs lights
