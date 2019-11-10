@@ -24,7 +24,7 @@ These lists are not exhaustive. If your material is not on either list, ask firs
 ## Operation
 
 1.  Turn on the machine
-    1.  Turn on the Key Lock
+    1.  Turn on the switch
     2.  be sure to disengage the E-STOP
     3.  Verify the following are up and running
         1.  Laser Cutter
@@ -43,7 +43,7 @@ These lists are not exhaustive. If your material is not on either list, ask firs
 3.  Create your design
     1.  Shapes, Text, Graphics
         1.  Use LaserCut for simple work, or
-        2.  Import from Corel, AutoCad, etc
+        2.  Import from Adobe Illustractor, Inkscape, Corel, AutoCad, etc
     2.  Assign objects to layers then values for:
         1.  Speed
         2.  Power
@@ -51,7 +51,7 @@ These lists are not exhaustive. If your material is not on either list, ask firs
         4.  Output
     3.  Set drawing origin (Choose intelligently based on your design)
     4.  Click Calculate
-    5.  Simulate if necessary
+    5.  Simulate (this can help you spot problems)
 4.  Download the design to the laser cutter
     1.  Click “Download” then “Download Current”
     2.  Close the download window
