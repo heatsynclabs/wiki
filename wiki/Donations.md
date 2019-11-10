@@ -1,6 +1,10 @@
 ## Donating Stuff
 
-Do not leave donated stuff in the lab without first posting on the discussion group. HeatSync Labs is now required to record all donations valued at over \$50 for tax purposes. Please post information about your potential donation on the discussion group and only bring items to the lab if someone claims responsibility for those items. This may be a station champion, but anyone can step up if they are willing to do-ocracy cool things with donated items. Anything larger than 2 square feet would require a proposal.
+Donations of stuff should generally be posted on the discussion group before being donated. A Station Champion or someone else willing to do-ocracy cool projects with the stuff should respond before things get left in the lab. Anything that would take up more than 2 square feet would require a proposal.
+
+### Documentation
+
+HeatSync Labs is now required to record all donations valued at over \$50 for tax purposes. After someone accepts a donation be sure to fill out a [Donation_Receipt](Donation-Receipt) if applicable.
 
 ## Financial Donations
 
