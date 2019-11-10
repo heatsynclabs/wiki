@@ -1,6 +1,12 @@
-## Donations
+## Donating Stuff
 
-Interested people/companies may choose to make financial contributions to Heatsync Labs that extend beyond typical membership/automatic donations. These interested parties will be able to make donations using the following mechanisms:
+Do not leave donated stuff in the lab without first posting on the discussion group. HeatSync Labs is now required to record all donations valued at over \$50 for tax purposes. Please post information about your potential donation on the discussion group and only bring items to the lab if someone claims responsibility for those items. This may be a station champion, but anyone can step up if they are willing to do-ocracy cool things with donated items. Anything larger than 2 square feet would require a proposal.
+
+## Financial Donations
+
+Interested people/companies may choose to make financial contributions to Heatsync Labs that extend beyond typical membership/automatic donations. See a list of ways to donate below.
+
+People who have useful tools or supplies may wish to donate
 
 ### Check
 
