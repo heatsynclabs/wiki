@@ -16,6 +16,7 @@ Metal:
 
 - Mini-lathe, full Lathe
 - Mini-mill, Manual Mill
+- CNC Mill
 - Metal-cutting bandsaw
 - Bench grinders
 - MIG/TIG Welder with ventilation
