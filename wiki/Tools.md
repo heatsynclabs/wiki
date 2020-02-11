@@ -1,12 +1,15 @@
 Wood/plastic:
 
-- 100 watt laser cutter (CO2, 4x3 bed, DXF or B&W BMP format)
+- 100-watt laser cutter (CO2, 4x3 bed, DXF or B&W BMP format)
 - Ultimaker 3D printer
 - Drill press
-- Hand and power tools
-- Radial arm saw
-- Scroll saw
-- Band saw
+- Various Hand and power tools
+- Miter SawPlaner
+- Miter Saw
+- Scroll Saw
+- Table Saw
+- Band Saw
+- Disc Sander
 - Belt Sander
 
 Metal:
@@ -16,9 +19,12 @@ Metal:
 - Metal-cutting bandsaw
 - Bench grinders
 - MIG/TIG Welder with ventilation
+- Metal Bandsaw
+- Brake/Shear/Roller
 
 Electronics, communication, telecom & security:
 
+- PCB Etching
 - Arduino and TONS of shields and sensors
 - Soldering, hot air, and desoldering station
 - Test equipment including waveform generators, AC and DC supplies, oscilloscopes, etc.
