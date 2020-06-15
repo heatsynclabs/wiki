@@ -131,3 +131,6 @@ Here's a short link you can use on Identi.ca/Twitter/SMS/etc: <http://kck.st/hl5
 **Flier**
 
 As seen at SuperHappyDevHouse at Hacker Dojo! The official HSL Laser Cutter Kickstarter flier (PDF direct link): <http://dotbloom.com/hsl_laser_cutter_kickstarter.pdf>
+
+---
+*Categories: [Laser](Category-Laser)*
