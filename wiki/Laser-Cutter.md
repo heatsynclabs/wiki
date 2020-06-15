@@ -110,3 +110,6 @@ Notice: These documentations are being depreciated for [Laser Cutter Quick Guide
   - Place a lockout tag or out of order note on machine
   - Log the problem in the machine log
   - Contact a laser team member
+
+---
+*Categories: [Laser](Category-Laser)*
