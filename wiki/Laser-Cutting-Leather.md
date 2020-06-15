@@ -9,3 +9,6 @@ Patterns/ideas/techniques for making a laser-cut leather laptop bag:
 [Alex Chally](https://github.com/alexchally)'s laser-cut bag:
 
 ![laser-cut-bag-meatspace.jpg](files/Laser-cut-bag-meatspace.jpg) ![laser-cut-leather-bag-pattern.png](files/Laser-cut-leather-bag-pattern.png)
+
+---
+*Categories: [Laser](Category-Laser)*
