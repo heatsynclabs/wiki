@@ -16,3 +16,6 @@ We contacted them on July 18th and they say they've basically given up on that d
 ## Reverse Engineering
 
 \[www.hackspace.org.uk Hackspace\] are [reverse engineering](http://wiki.hackspace.org.uk/wiki/Projects/RELaserSoftware) their machine and the MOL document spec. They were more active back in Feb of 2011 but I see a few commits recently.
+
+---
+*Categories: [Laser](Category-Laser)*
