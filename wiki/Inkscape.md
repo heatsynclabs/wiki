@@ -51,3 +51,6 @@ Now, if you're expecting
 ![](files/Inkscape-basic-controls.png)
 
 *inkscape-basic-controls.png*
+
+---
+*Categories: [Laser](Category-Laser)*
