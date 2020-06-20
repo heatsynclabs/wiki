@@ -7,6 +7,7 @@ The purposes of the project were initially to:
 - Supply a printer that could print ink on archival paper for use with making and binding homemade books.
 - Learn about the installation of a CISS on an Epson printer in preparation to make and modify a similar printer for what is called DTG (Direct To Garment) printing.
 - To be a test study to see if switching a printer to a CISS will cause any damage to the printhead system, and if it can survive long periods of time between use before clogging.
+- First operational 12/03/2019
 
 ## How can I use it?
 
