@@ -22,6 +22,8 @@ If you are using Linux, the drivers you will want to specify are for use with th
 
 ## Documentation
 
+Never ever install a firmware update if asked! This could disable the chips the CISS uses to fool the printer into thinking it won't run out of ink.
+
 There is a hackaday.io project page for the printer where you can see the build of it.
 
 <https://hackaday.io/project/168736-cheap-inkjet-printing-for-hackerspace>
