@@ -1,4 +1,8 @@
-HeatSync Labs maintains a variety of 3D printers. FDM (Fused Deposition Modeling) and SLA (StereoLithography Apparatus) printing technologies are available for use on projects. The SLA printers will require specific training prior to use.
+HeatSync Labs maintains a variety of 3D printers.
+
+FDM (Fused Deposition Modeling) and SLA (StereoLithography Apparatus) printing technologies are available for use on projects.
+
+The SLA printers will require specific training prior to use.
 
 ## FDM Printers
 
