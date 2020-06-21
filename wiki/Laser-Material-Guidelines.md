@@ -220,5 +220,10 @@ Note: Pretty sure cutting speed and power are reversed on a few of these. Anythi
 `5 mm    83  12  30  100 `\
 `6 mm (1/4") 89  7   30  133 0.09`
 
+# Files
+
+- [Large laser log data](files/Large-laser-log.xlsx)
+- [Small laser log data](files/Small-laser-log.xlsx)
+
 ---
 *Categories: [Laser](Category-Laser)*
