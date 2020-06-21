@@ -147,13 +147,38 @@ Also, this won't be well formatted because it's too much trouble for me process 
 
 ## Cardboard
 
-`<nowiki>`
+``\
+`Thick   C Sp    C P     E Sp   E Pw    E Scan Gap`\
+`0.125   50  50  50  50  `\
+`1   23  48  300 30  0.10`\
+`2   40  35          `\
+`3   35  46          `\
+`4   49  40  300 40  0.50`\
+`5   25  62          `\
+`6   45  70          `\
+`20  20  70  `\
+`<nowiki>`\
+`        `\
+`= Small laser (aka [[PewPew4500]]) =`\
+``\
+`== Acrylic ==`\
+`Note:  Pretty sure cutting speed and power are reversed on a few of these.  Anything under 20 Power is effectively 0.`\
+` <nowiki>`\
+`Thick           C Sp    C P     E Sp   E Pw    E Scan Gap`\
+`3 mm (1/8") 60  14  30  60`\
+`4 mm    50  5       `\
+`5 mm    70  10      `\
+`6 mm (1/4") 100 10      `
 
-Thick C Sp C P E Sp E Pw E Scan Gap 0.125 50 50 50 50 1 23 48 300 30 0.10 2 40 35 3 35 46 4 49 40 300 40 0.50 5 25 62 6 45 70 20 20 70 \<nowiki\>
+## Plywood
 
-# Small laser (aka [PewPew4500](PewPew4500))
+Note: Pretty sure cutting speed and power are reversed on a few of these. Anything under 20 Power is effectively 0.
 
-TBD
+``\
+`Thick           C Sp    C P     E Sp   E Pw    E Scan Gap`\
+`3 mm (1/8") 79  11  42  254 0.10`\
+`5 mm    83  12  30  100 `\
+`6 mm (1/4") 89  7   30  133 0.09`
 
 ---
 *Categories: [Laser](Category-Laser)*
