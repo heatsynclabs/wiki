@@ -145,6 +145,12 @@ Also, this won't be well formatted because it's too much trouble for me process 
 `10  12  80  250 20  0.10`\
 `12  15  70          `
 
+## Cardboard
+
+`<nowiki>`
+
+Thick C Sp C P E Sp E Pw E Scan Gap 0.125 50 50 50 50 1 23 48 300 30 0.10 2 40 35 3 35 46 4 49 40 300 40 0.50 5 25 62 6 45 70 20 20 70 \<nowiki\>
+
 # Small laser (aka [PewPew4500](PewPew4500))
 
 TBD
