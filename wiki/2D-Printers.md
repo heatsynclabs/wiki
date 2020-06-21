@@ -10,6 +10,6 @@ Color Laser and Inkjet printing technologies are available for use on projects. 
 
 - [Epson Artisan 725(JohannesGberg)](Epson-Artisan-725(JohannesGberg))
 
-## Permanent maker
+## Permanent marker
 
 - [Vinyl Cutter](Vinyl-Cutter)
