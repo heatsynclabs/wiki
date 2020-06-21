@@ -157,13 +157,15 @@ Also, this won't be well formatted because it's too much trouble for me process 
 `5   25  62          `\
 `6   45  70          `\
 `20  20  70  `\
-`<nowiki>`\
-`        `\
-`= Small laser (aka [[PewPew4500]]) =`\
+`       `
+
+# Small laser (aka [PewPew4500](PewPew4500))
+
+## Acrylic
+
+Note: Pretty sure cutting speed and power are reversed on a few of these. Anything under 20 Power is effectively 0.
+
 ``\
-`== Acrylic ==`\
-`Note:  Pretty sure cutting speed and power are reversed on a few of these.  Anything under 20 Power is effectively 0.`\
-` <nowiki>`\
 `Thick           C Sp    C P     E Sp   E Pw    E Scan Gap`\
 `3 mm (1/8") 60  14  30  60`\
 `4 mm    50  5       `\
