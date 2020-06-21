@@ -4,12 +4,21 @@ If you see something that looks really out of range with its neighbors, probably
 
 Also, this won't be well formatted because it's too much trouble for me process and gather the data, and then write automation to deal with wiki table formatting.
 
+# Key
+
+- Thick == Thickness in millimeters
+- C Sp == Cut Speed
+- C Pw == Cut Power
+- E Sp == Engrave Speed
+- E Pw == Engrave Power
+- E Scan Gap == Engrave Scan Gap
+
 # Large Laser (aka [PewPew9000](PewPew9000))
 
 ## Acrylic
 
 ``\
-`Thick   C Sp    C P     E Sp   E Pw    E Scan Gap`\
+`Thick   C Sp    C Pw    E Sp   E Pw    E Scan Gap`\
 `0.093   20  60          `\
 `0.1875                  `\
 `0.225   7   80          `\
@@ -53,7 +62,7 @@ Also, this won't be well formatted because it's too much trouble for me process 
 ## Plywood
 
 ``\
-`Thick   C Sp    C P     E Sp   E Pw    E Scan Gap`\
+`Thick   C Sp    C Pw    E Sp   E Pw    E Scan Gap`\
 `0.125   10  70          `\
 `0.2 10  80  150 35  1.00`\
 `0.25    15  90          `\
@@ -104,7 +113,7 @@ Also, this won't be well formatted because it's too much trouble for me process 
 ## MDF
 
 ``\
-`Thick   C Sp    C P     E Sp   E Pw    E Scan Gap`\
+`Thick   C Sp    C Pw    E Sp   E Pw    E Scan Gap`\
 `0.25    10  70  25  25  `\
 `0.3175  6   70  40  300 `\
 `0.5 10  80          `\
@@ -125,7 +134,7 @@ Also, this won't be well formatted because it's too much trouble for me process 
 ## Foamboard (various spellings)
 
 ``\
-`Thick   C Sp    C P     E Sp   E Pw    E Scan Gap`\
+`Thick   C Sp    C Pw    E Sp   E Pw    E Scan Gap`\
 `0.2 80  40          `\
 `0.25    10  70  25  25  `\
 `0.3175  6   70  40  300 `\
@@ -148,7 +157,7 @@ Also, this won't be well formatted because it's too much trouble for me process 
 ## Cardboard
 
 ``\
-`Thick   C Sp    C P     E Sp   E Pw    E Scan Gap`\
+`Thick   C Sp    C Pw    E Sp   E Pw    E Scan Gap`\
 `0.125   50  50  50  50  `\
 `1   23  48  300 30  0.10`\
 `2   40  35          `\
@@ -166,7 +175,7 @@ Also, this won't be well formatted because it's too much trouble for me process 
 Note: Pretty sure cutting speed and power are reversed on a few of these. Anything under 20 Power is effectively 0.
 
 ``\
-`Thick           C Sp    C P     E Sp   E Pw    E Scan Gap`\
+`Thick           C Sp    C Pw    E Sp   E Pw    E Scan Gap`\
 `3 mm (1/8") 60  14  30  60`\
 `4 mm    50  5       `\
 `5 mm    70  10      `\
@@ -177,7 +186,7 @@ Note: Pretty sure cutting speed and power are reversed on a few of these. Anythi
 Note: Pretty sure cutting speed and power are reversed on a few of these. Anything under 20 Power is effectively 0.
 
 ``\
-`Thick           C Sp    C P     E Sp   E Pw    E Scan Gap`\
+`Thick           C Sp    C Pw    E Sp   E Pw    E Scan Gap`\
 `3 mm (1/8") 79  11  42  254 0.10`\
 `5 mm    83  12  30  100 `\
 `6 mm (1/4") 89  7   30  133 0.09`
