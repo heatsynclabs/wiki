@@ -20,6 +20,10 @@ Firmware manual:
 
 <https://www.dropbox.com/s/11cmi2s7etwwbek/Kudo3D%20Firmware%20Update%20Manual%20v1.2.pdf>
 
+Manufacture website:
+
+<https://www.kudo3d.com/>
+
 ## Software, drivers, and firmware
 
 Kudo3D Titan 1 Software (v3.1) for Printer Control and Printing:
