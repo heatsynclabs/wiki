@@ -2,24 +2,7 @@
 
 These lists are not exhaustive. If your material is not on either list, ask first! The largest material that will fit in the laser is 48" x 32" but the cutting area is smaller.
 
-### Approved
-
-- Acrylic
-- Anodized aluminum, etching only
-- Corrugated cardboard
-- Glass, etching only
-- Leather, naturally dyed
-- MDF
-- Paper
-- Plywood
-- Fabric
-
-### Forbidden / Incapable
-
-- Metal
-- Skin/flesh
-- Vinyl
-- PVC -- or anything containing PVC
+- See the [Laser Material Guidelines](Laser-Material-Guidelines) for a list of materials and common speed and power settings.
 
 ## Operation
 
