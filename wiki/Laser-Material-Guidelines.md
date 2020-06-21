@@ -4,6 +4,35 @@ If you see something that looks really out of range with its neighbors, probably
 
 Also, this won't be well formatted because it's too much trouble for me process and gather the data, and then write automation to deal with wiki table formatting.
 
+# Materials
+
+This is a partial list of the materials that can and can not be used for various purposes in the lasers. Please, pay attention and if you have questions ask. Several of the forbidden materials are forbidden for a few really important reasons:
+
+- They produce side effects that are corrosive/destructive to the laser
+- They produce side effects that are poisonous and potentially deadly to humans
+
+## Approved
+
+- Acrylic
+- Anodized aluminum
+  - **Etching only**
+  - **No cutting**
+- Corrugated cardboard
+- Glass, etching only
+- Leather, naturally dyed
+- MDF
+- Paper
+- Plywood
+- Fabric
+
+## Forbidden / Incapable
+
+- Metal
+- Skin/flesh
+- Vinyl
+- PVC -- or anything containing PVC
+  - The C in PVC is chloride, which, when burnt will create [chlorine gas](https://emergency.cdc.gov/agent/chlorine/basics/facts.asp). Just don't.
+
 # Key
 
 - Thick == Thickness in millimeters
