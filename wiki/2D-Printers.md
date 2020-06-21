@@ -1,6 +1,6 @@
 HeatSync Labs maintains a variety of 2D printers.
 
-Color Laser and Inkjet printing technologies are available for use on projects. You may also use the Vinyl cutter as a 2D printer/plotter with the help of a marker.
+Color Laser and Inkjet printing technologies are available for use on projects. You may also use the Vinyl cutter as a 2D printer/plotter with the help of a writing implement like a pen, marker, etc.
 
 ## Color Laser
 
@@ -10,6 +10,6 @@ Color Laser and Inkjet printing technologies are available for use on projects. 
 
 - [Epson Artisan 725(JohannesGberg)](Epson-Artisan-725(JohannesGberg))
 
-## Permanent Marker
+## Any Writing Implement Within Reason
 
 - [Vinyl Cutter](Vinyl-Cutter)
