@@ -160,7 +160,7 @@ One of the most basic laser items, so good to start. Our key chain tag is going 
 
 *dxf-popup.png*
 
-## Get your file to the laser
+# Get your file to the laser
 
 The lasers behave differently, so the specifics for processing the files will be on the individual laser pages.
 
