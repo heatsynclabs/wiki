@@ -1,1 +1,1 @@
-*This page redirects to **[Laser Cut 5.3](Laser-Cut-5.3)**.*
+*This page redirects to **[LaserCut 5.3](LaserCut-5.3)**.*
