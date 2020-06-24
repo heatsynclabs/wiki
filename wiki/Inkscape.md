@@ -160,5 +160,12 @@ One of the most basic laser items, so good to start. Our key chain tag is going 
 
 *dxf-popup.png*
 
+## Get your file to the laser
+
+The lasers behave differently, so the specifics for processing the files will be on the individual laser pages.
+
+- [PewPew4500](PewPew4500)
+- [PewPew9000](PewPew9000)
+
 ---
 *Categories: [Laser](Category-Laser)*
