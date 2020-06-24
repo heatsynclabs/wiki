@@ -80,6 +80,8 @@ One of the most basic laser items, so good to start. Our key chain tag is going 
 
 ### Save your file
 
+### Stroke To Path
+
 ### Save your file as DXF 14 too
 
 ---
