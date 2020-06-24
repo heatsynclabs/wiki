@@ -52,5 +52,35 @@ Now, if you're expecting
 
 *inkscape-basic-controls.png*
 
+## Let's make a key chain tag
+
+One of the most basic laser items, so good to start. Our key chain tag is going to have 3 simple elements:
+
+1.  Be a small rectangle, 3 cm x 10 cm
+2.  Have a hole for the key ring to go through
+3.  Have a name on it
+
+### Draw rectangle
+
+### Resize rectangle
+
+### Draw hole
+
+### Align everything horizontal
+
+### Add text
+
+### Resize text
+
+### Align horizontal again
+
+### Create layers
+
+#### Move things to easy to remember layers
+
+### Save your file
+
+### Save your file as DXF 14 too
+
 ---
 *Categories: [Laser](Category-Laser)*
