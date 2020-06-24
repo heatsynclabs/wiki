@@ -1,8 +1,10 @@
-Notice: These documentations are being depreciated for [Laser Cutter Quick Guide](Laser-Cutter-Quick-Guide).
+Notice: This documentation has been partially deprecated for [Laser Cutter Quick Guide](Laser-Cutter-Quick-Guide).
 
-- Training is required to use the laser. Laser classes are by-request, just come to the lab and fill out the form to register (it's an icon on the bench computer called Laser Class Registration.)
+- Training is required to use the laser. Classes are available at the [HeatSync classes page](https://www.heatsynclabs.org/classes)
 
 ### Documentation
+
+**Warning:** These files look like they're here, but there is a wiki problem so they're not. We might work to fix it in the future.
 
 - [Exlas_Machine_Manual.pdf](files/Exlas_Machine_Manual.pdf)
   *Exlas_Machine_Manual.pdf*
