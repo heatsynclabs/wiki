@@ -62,29 +62,23 @@ One of the most basic laser items, so good to start. Our key chain tag is going 
 
 ### Draw rectangle
 
-![](files/Select-rectangle-icon.png)
+First, we're going to draw the outline of the tag. It's not important to get the size precisely right because we'll change that in the next section. You can actually size it by doing it initially, but want to show the process for how you can do it for any element.
 
-*select-rectangle-icon.png*
+Select the rectangle tool. ![select-rectangle-icon.png](files/Select-rectangle-icon.png)
 
-![](files/Click-and-drag-rectangle.png)
-
-*click-and-drag-rectangle.png*
+Then just click and drag to create the rectangle. ![click-and-drag-rectangle.png](files/Click-and-drag-rectangle.png)
 
 ### Resize rectangle
 
-![](files/Select-arrow-then-rectangle.png)
+The rectangle isn't the size we wanted, so let's fix that. First, click or click and drag to select the rectangle. ![select-arrow-then-rectangle.png](files/Select-arrow-then-rectangle.png)
 
-*select-arrow-then-rectangle.png*
+You can see where the Height and Width dimensions. ![beginning-rectangle-size.png](files/Beginning-rectangle-size.png)
 
-![](files/Beginning-rectangle-size.png)
-
-*beginning-rectangle-size.png*
-
-![](files/Resize-rectangle-to-30x100.png)
-
-*resize-rectangle-to-30x100.png*
+Just click into those and change them to the desired dimensions. You'll recall we said 3 cm and 10 cm, which is 30mm and 100mm. ![resize-rectangle-to-30x100.png](files/Resize-rectangle-to-30x100.png)
 
 ### Draw hole
+
+Now we need the key ring hole. So, we'll just make a circle. We want it close to the area we want, and we'll center it in the enxt step.
 
 ![](files/Draw-circle.png)
 
@@ -92,21 +86,21 @@ One of the most basic laser items, so good to start. Our key chain tag is going 
 
 ### Align everything horizontal
 
+There are all sorts of way to try to get this exact, but the best way is to just let the software do it for you. You'll see there are all sorts of options for alignment and distribution, we're going to have them centered.
+
 ![](files/Align-circle.png)
 
 *align-circle.png*
 
-![](files/Align-circle-result.png)
-
-*align-circle-result.png*
+Here is what it looks like afterwards. ![align-circle-result.png](files/Align-circle-result.png)
 
 ### Add text
 
-![](files/Add-text.png)
-
-*add-text.png*
+Select the text tool and type in your information. ![add-text.png](files/Add-text.png)
 
 ### Resize text
+
+Easiest way to resize is to just grab a corner and expand it. If you want to make sure it expands proportionally (so it doesn't just stretch width or height) it will do that if you just hold the Control key while you do it.
 
 ![](files/Text-created-and-resized.png)
 
@@ -114,7 +108,7 @@ One of the most basic laser items, so good to start. Our key chain tag is going 
 
 ### Align horizontal again
 
-[250px](#)
+Just do the same thing we did for the circle above.
 
 ### Create layers
 
