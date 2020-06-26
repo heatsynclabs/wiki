@@ -202,10 +202,14 @@ Here are the options to select on the resulting popup.
 
 # Get your file to the laser
 
-The lasers behave differently, so the specifics for processing the files will be on the individual laser pages.
+The lasers behave differently, so the specifics for processing the files will be on the individual laser pages. Regardless though, you're going to be "Sneakernet"ing your file via a USB drive, so make sure you have one handy.
 
 - [PewPew4500](PewPew4500)
 - [PewPew9000](PewPew9000)
+
+# External links
+
+- [Ponoko Inkscape Tutorial](https://www.ponoko.com/blog/how-to-make/inkscape-vector-tutorials/)
 
 ---
 *Categories: [Laser](Category-Laser)*
