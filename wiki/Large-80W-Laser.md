@@ -121,8 +121,6 @@ These lists are not exhaustive. If your material is not on either list, ask firs
 
 # External links
 
-=
-
 - [Refresher video](https://www.youtube.com/watch?v=SC4RUOU0vTg)
 
 ---
