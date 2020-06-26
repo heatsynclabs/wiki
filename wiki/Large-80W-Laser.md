@@ -119,5 +119,11 @@ These lists are not exhaustive. If your material is not on either list, ask firs
 1.  Add your results to [logbook](https://docs.google.com/forms/d/1ld4T9pDXP6uqZbYmlebe9SxATHcP436kMobnhSQEKPI/viewform). These are visible [here](https://docs.google.com/spreadsheet/ccc?key=0AoBMPvlNCqvldHl5SERwRHVjN09wRHEtODZzd2RXNWc&usp=sharing)
 2.  Log any issues. Redtag device if necessary.
 
+# External links
+
+=
+
+- [Refresher video](https://www.youtube.com/watch?v=SC4RUOU0vTg)
+
 ---
 *Categories: [Laser](Category-Laser)*
