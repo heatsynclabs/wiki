@@ -162,6 +162,14 @@ This is a partial list of the materials that can and can not be used for various
 
 ## Foamboard (various spellings)
 
+You should probably be careful with foam board, because it can be made of different items.
+
+### Known good
+
+- Readi-board
+
+### Settings
+
 ``\
 `Thick   C Sp    C Pw    E Sp   E Pw    E Scan Gap`\
 `0.2 80  40          `\
