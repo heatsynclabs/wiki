@@ -90,7 +90,11 @@ You can see where the Height and Width dimensions.
 
 *beginning-rectangle-size.png*
 
-Just click into those and change them to the desired dimensions. You'll recall we said 3 cm and 10 cm, which is 30mm and 100mm. ![resize-rectangle-to-30x100.png](files/Resize-rectangle-to-30x100.png)
+Just click into those and change them to the desired dimensions. You'll recall we said 3 cm and 10 cm, which is 30mm and 100mm.
+
+![](files/Resize-rectangle-to-30x100.png)
+
+*resize-rectangle-to-30x100.png*
 
 ### Draw hole
 
@@ -116,7 +120,11 @@ Here is what it looks like afterwards.
 
 ### Add text
 
-Select the text tool and type in your information . ![add-text.png](files/Add-text.png)
+Select the text tool and type in your information.
+
+![](files/Add-text.png)
+
+*add-text.png*
 
 ### Resize text
 
