@@ -64,15 +64,31 @@ One of the most basic laser items, so good to start. Our key chain tag is going 
 
 First, we're going to draw the outline of the tag. It's not important to get the size precisely right because we'll change that in the next section. You can actually size it by doing it initially, but want to show the process for how you can do it for any element.
 
-Select the rectangle tool. ![select-rectangle-icon.png](files/Select-rectangle-icon.png)
+Select the rectangle tool.
 
-Then just click and drag to create the rectangle. ![click-and-drag-rectangle.png](files/Click-and-drag-rectangle.png)
+![](files/Select-rectangle-icon.png)
+
+*select-rectangle-icon.png*
+
+Then just click and drag to create the rectangle.
+
+![](files/Click-and-drag-rectangle.png)
+
+*click-and-drag-rectangle.png*
 
 ### Resize rectangle
 
-The rectangle isn't the size we wanted, so let's fix that. First, click or click and drag to select the rectangle. ![select-arrow-then-rectangle.png](files/Select-arrow-then-rectangle.png)
+The rectangle isn't the size we wanted, so let's fix that. First, click or click and drag to select the rectangle.
 
-You can see where the Height and Width dimensions. ![beginning-rectangle-size.png](files/Beginning-rectangle-size.png)
+![](files/Select-arrow-then-rectangle.png)
+
+*select-arrow-then-rectangle.png*
+
+You can see where the Height and Width dimensions.
+
+![](files/Beginning-rectangle-size.png)
+
+*beginning-rectangle-size.png*
 
 Just click into those and change them to the desired dimensions. You'll recall we said 3 cm and 10 cm, which is 30mm and 100mm. ![resize-rectangle-to-30x100.png](files/Resize-rectangle-to-30x100.png)
 
@@ -92,11 +108,15 @@ There are all sorts of way to try to get this exact, but the best way is to just
 
 *align-circle.png*
 
-Here is what it looks like afterwards. ![align-circle-result.png](files/Align-circle-result.png)
+Here is what it looks like afterwards.
+
+![](files/Align-circle-result.png)
+
+*align-circle-result.png*
 
 ### Add text
 
-Select the text tool and type in your information. ![add-text.png](files/Add-text.png)
+Select the text tool and type in your information . ![add-text.png](files/Add-text.png)
 
 ### Resize text
 
@@ -112,17 +132,23 @@ Just do the same thing we did for the circle above.
 
 ### Create layers
 
+Layers are an easy way to separate the actions you might want on your design. So, in our case we know we want to Cut and Engrave. This way we can ensure we are organized on the export.
+
 ![](files/Create-new-engrave-layer.png)
 
 *create-new-engrave-layer.png*
 
 #### Move things to easy to remember layers
 
+Now, when I took this screenshot I was on my laptop, so I did it through the menus. You can also do this by selecting the object and using your right mouse button to move it to a layer.
+
 ![](files/Move-text-to-engrave-layer.png)
 
 *move-text-to-engrave-layer.png*
 
 #### How to view layers
+
+Make the layers either visible or not by clicking on the eye with the unnaturally large eyelashes. Here you can see how these look.
 
 ![](files/Only-cut-visible.png)
 
@@ -134,21 +160,33 @@ Just do the same thing we did for the circle above.
 
 ### Save your file
 
+Make sure to save your file as an Inkscape svg.
+
 ![](files/Save-your-file-as-svg.png)
 
 *save-your-file-as-svg.png*
 
 ### Stroke To Path
 
+Now you want to turn everything in the file from being strokes (i.e. connected lines) to paths (i.e. long lines with different directions). This is done via the Path -\> Stroke to Path command.
+
 ![](files/Stroke-to-path.png)
 
 *stroke-to-path.png*
 
+You might want to save your file again as a different Inkscape SVG after this step, because now that everything is a path, doing things like editing text becomes annoying.
+
+You can be done here if you're planning on working on the [PewPew4500](PewPew4500), but if you want to work on the [PewPew9000](PewPew9000) you'll need to save it as a different format.
+
 ### Save your file as DXF 14 too
+
+Simply "Save As" and choose DX 14 as your format type.
 
 ![](files/Save-your-file-as-dxf.png)
 
 *save-your-file-as-dxf.png*
+
+Here are the options to select on the resulting popup.
 
 ![](files/Dxf-popup.png)
 
