@@ -56,14 +56,11 @@ These lists are not exhaustive. If your material is not on either list, ask firs
 ### Prepare the material
 
 1.  Lower the table so that material doesn't hit the laser head
-    1.  Position material in center of bed (use squaring blocks if necessary)
-    2.  Jog laser head over to the material using computer or keypad
-    3.  Set the Z-axis
-        1.  Focus will be 6mm below air cone (this is what you use the little "puck" for)
-        2.  Place the puck near, but not under, the laser and on the material
-        3.  Move the bed up and down and try to get the puck to slide under the laser
-            1.  Do **not** simply put the puck on the material and raise the table until it hits the laser. That's how you'll crash it. Do it to the side and try to slide it in so that head crash isn't as likely.
-        4.  **If you run the head through the table hit the E-STOP and see [Laser Cutter Emergency Guidelines](Laser-Cutter-Emergency-Guidelines)**
+2.  Position material in center of bed (use squaring blocks if necessary)
+
+- [Focus the laser](Laser-Focus)
+
+#### **If you run the head through the table hit the E-STOP and see [Laser Cutter Emergency Guidelines](Laser-Cutter-Emergency-Guidelines)**
 
 ### Send your design to the laser
 
