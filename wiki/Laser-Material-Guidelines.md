@@ -220,7 +220,7 @@ You should probably be careful with foam board, because it can be made of differ
 
 ## Plywood
 
-Note: Pretty sure cutting speed and power are reversed on a few of these. Anything under 20 Power is effectively 0.
+**Note:** Pretty sure cutting speed and power are reversed on a few of these. Anything under 20 Power is effectively 0.
 
 ``\
 `Thick           C Sp    C Pw    E Sp   E Pw    E Scan Gap`\
