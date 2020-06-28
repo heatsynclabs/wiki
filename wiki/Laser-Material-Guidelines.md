@@ -162,11 +162,12 @@ This is a partial list of the materials that can and can not be used for various
 
 ## Foamboard (various spellings)
 
-You should probably be careful with foam board, because it can be made of different items.
+You should probably be careful with foam board, because it can be made of different materials.
 
 ### Known good
 
-- Readi-board
+- Readi-board - [MSDS](files/MSDS-InSitePS.pdf)
+- Elmer's - [MSDS](files/DBH_SDS_13228XXXX.pdf)
 
 ### Settings
 
