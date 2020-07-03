@@ -2,6 +2,8 @@ The software for the laser cutter is usable, but certainly not a best case scena
 
 ## to add
 
+colors and layers same for lightburn
+
 - colors work
 - layers don't
 - only s2p letters
