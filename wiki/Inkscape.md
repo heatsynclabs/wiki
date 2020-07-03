@@ -1,5 +1,9 @@
 Inkscape is a free, opensource, vector graphics software. Having been less than version 1 for slightly less time than OpenSSL was, it is has now achieved "production" status with version 1. It can be downloaded for your system from [Inkscape.org](http://inkscape.org).
 
+## to add
+
+set the document space to the size for the large laser (ctrl-shift-r)
+
 # Uses
 
 It is useful for a lot of different things, but the initial focus of this article is going to be for creating designs to laser cut.
