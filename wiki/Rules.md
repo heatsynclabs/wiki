@@ -40,7 +40,7 @@ HeatSync membership is open to the public, but use of certain equipment and key/
 <td style="text-align: left;"></td>
 <td style="text-align: left;" data-valign="top"><p>Costs $100 per month, and you get all the benefits and rights of a basic membership, plus</p>
 <ul>
-<li>A locker for storage.</li>
+<li>A Secure Locker in place of A Banker Box for storage.</li>
 </ul></td>
 </tr>
 </tbody>
