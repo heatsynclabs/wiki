@@ -1,0 +1,2 @@
+- [Group Forum](https://groups.google.com/forum/#!forum/heatsynclabs) Recommended for discussing projects.
+- [Slack Page](https://app.slack.com/client/T9ZDGESHM/C9Z72BBAS?cdn_fallback=2) Recommended for small talk.
