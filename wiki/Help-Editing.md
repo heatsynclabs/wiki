@@ -176,11 +176,11 @@ We use 2 colons to indent twice.
 
 ### Links
 
-\|- ! style="width: 50%" \| What it looks like ! style="width: 50%" \| What you type \|- \| Here's a link to the [Main page](Home).
+\|- ! style="width: 50%" \| What it looks like ! style="width: 50%" \| What you type \|- \| Here's a link to the [Main Page](Home).
 
 But be careful - capitalization counts! \|
 
-    Here's a link to the [[Main page]].
+    Here's a link to the [[Main Page]].
 
 \|- \| [Intentionally permanent red link](Intentionally-permanent-red-link) is a page that doesn't exist yet. You could create it by clicking on the link. \|
 
