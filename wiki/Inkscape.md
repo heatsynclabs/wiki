@@ -226,7 +226,21 @@ You can actually make your job in LaserCut easier if you set some things up in I
 
 ### Colors
 
-There is a good [tutorial on TinkerMill](http://wiki.tinkermill.org/index.php/Preparing_Files_With_Inkscape) how how to setup Inkscape with a custom palette. I won't go into all of the details of that, but TinkerMill does want you to login to download their file. I didn't want to do that, so I created one by hand and loaded it up per the instructions. And Inkscape got into a crash loop that required me to burn it to the ground to get it running again. So, I got a different file and got it to work. [ Here it is](files/Lasercut.gpl).
+There is a good [tutorial on TinkerMill](http://wiki.tinkermill.org/index.php/Preparing_Files_With_Inkscape) how how to setup Inkscape with a custom palette. I won't go into all of the details of that, but TinkerMill does want you to login to download their file. I didn't want to do that, so I created one by hand and loaded it up per the instructions. And Inkscape got into a crash loop that required me to burn it to the ground to get it running again. So, I got a different file and got it to work. [Here it is](https://wiki.heatsynclabs.org/wiki/File:lasercut.gpl). Follow the directions from TinkerCad.
+
+On the Inkscape side you can color code your items by using the "Fill & Stroke" colors. In this case I have made "cut" red and "engrave" black.
+
+![](files/Inkscape-colors.jpg)
+
+*inkscape-colors.jpg*
+
+And this is the resulting DXF when imported into LaserCut.
+
+![](files/Lasercut-colors.jpg)
+
+*lasercut-colors.jpg*
+
+Note that you'll still need to change the settings (upper right) on speed/power/etc, but now it's already grouped. So, a little work in Inkscape can save you some frustration on LaserCut.
 
 # Get your file to the laser
 
