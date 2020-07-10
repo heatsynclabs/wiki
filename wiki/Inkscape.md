@@ -230,9 +230,9 @@ There is a good [tutorial on TinkerMill](http://wiki.tinkermill.org/index.php/Pr
 
 On the Inkscape side you can color code your items by using the "Fill & Stroke" colors. In this case I have made "cut" red and "engrave" black.
 
-![](files/Inkscape-colors.jpg)
+![](files/Inkscape-colors.png)
 
-*inkscape-colors.jpg*
+*inkscape-colors.png*
 
 And this is the resulting DXF when imported into LaserCut.
 
