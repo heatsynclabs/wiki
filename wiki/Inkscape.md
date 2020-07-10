@@ -220,6 +220,14 @@ Here are the options to select on the resulting popup.
 
 *dxf-popup.png*
 
+## Making Your Job Easier
+
+You can actually make your job in LaserCut easier if you set some things up in Inkscape. In particular, if you have a palette file configured in InkScape you can assign the colors there, and they will survive the transition to LaserCut. You might be tempted to try to do it with Layers as well, but that doesn't work.
+
+### Colors
+
+There is a good [tutorial on TinkerMill](http://wiki.tinkermill.org/index.php/Preparing_Files_With_Inkscape) how how to setup Inkscape with a custom palette. I won't go into all of the details of that, but TinkerMill does want you to login to download their file. I didn't want to do that, so I created one by hand and loaded it up per the instructions. And Inkscape got into a crash loop that required me to burn it to the ground to get it running again. So, I got a different file and got it to work. [ Here it is](files/Lasercut.gpl).
+
 # Get your file to the laser
 
 The lasers behave differently, so the specifics for processing the files will be on the individual laser pages. Regardless though, you're going to be "Sneakernet"ing your file via a USB drive, so make sure you have one handy.
@@ -230,6 +238,7 @@ The lasers behave differently, so the specifics for processing the files will be
 # External links
 
 - [Ponoko Inkscape Tutorial](https://www.ponoko.com/blog/how-to-make/inkscape-vector-tutorials/)
+- [TinkerMill tutorial](http://wiki.tinkermill.org/index.php/Preparing_Files_With_Inkscape)
 
 ---
 *Categories: [Laser](Category-Laser)*
