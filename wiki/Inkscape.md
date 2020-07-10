@@ -180,7 +180,7 @@ Make sure to save your file as an Inkscape svg.
 
 ### Stroke To Path
 
-Now you want to turn everything in the file from being strokes (i.e. connected lines) to paths (i.e. long lines with different directions). This is done via the Path -\> Stroke to Path command.
+Now you want to turn your text in the file from being strokes (i.e. connected lines) to paths (i.e. long lines with different directions). This is done via the Path -\> Stroke to Path command.
 
 ![](files/Stroke-to-path.png)
 
@@ -189,6 +189,22 @@ Now you want to turn everything in the file from being strokes (i.e. connected l
 You might want to save your file again as a different Inkscape SVG after this step, because now that everything is a path, doing things like editing text becomes annoying.
 
 You can be done here if you're planning on working on the [PewPew4500](PewPew4500), but if you want to work on the [PewPew9000](PewPew9000) you'll need to save it as a different format.
+
+#### Do NOT Stroke to Path Everything
+
+Unless you have a very good reason. When you do that, you risk turning lines you had, into pairs of strokes. If you select everything and then do "Stroke to Path" on the whole object, this is what it will look like when you bring it into [LaserCut](LaserCut) on the [PewPew9000](PewPew9000).
+
+![](files/Lasercut-all-s2p.jpg)
+
+*lasercut-all-s2p.jpg*
+
+Now, maybe it's not obvious what is wrong with this, after all, they're all vectors, right?
+
+![](files/Lasercut-bad-s2p.jpg)
+
+*lasercut-bad-s2p.jpg*
+
+Notice how our cut lines, which used to be lines are now two lines. You then get into the position of attempting to delete one and figuring out which size you needed, etc. So, try to avoid that.
 
 ### Save your file as DXF 14 too
 
