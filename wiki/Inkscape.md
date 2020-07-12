@@ -234,13 +234,13 @@ On the Inkscape side you can color code your items by using the "Fill & Stroke" 
 
 *inkscape-colors.png*
 
-And this is the resulting DXF when imported into LaserCut.
+And this is the resulting DXF when imported into LaserCut or LighBurn
 
 ![](files/Lasercut-colors.jpg)
 
 *lasercut-colors.jpg*
 
-Note that you'll still need to change the settings (upper right) on speed/power/etc, but now it's already grouped. So, a little work in Inkscape can save you some frustration on LaserCut.
+Note that you'll still need to change the settings (upper right) on speed/power/etc, but now it's already grouped. So, a little work in Inkscape can save you some frustration on the laser side
 
 # Get your file to the laser
 
