@@ -172,7 +172,7 @@ You should probably be careful with foam board, because it can be made of differ
 ### Settings
 
 ``\
-`Thick   C Sp    C Pw    E Sp   E Pw    E Scan Gap`\
+`Thick   C Sp    C Pw    E Sp   E Pw    E Scan Gap    Note`\
 `0.2 80  40          `\
 `0.25    10  70  25  25  `\
 `0.3175  6   70  40  300 `\
@@ -185,8 +185,7 @@ You should probably be careful with foam board, because it can be made of differ
 `3.175   11  70  700 80  `\
 `4   34  60  250 31  0.23`\
 `4.5 80  44          `\
-`5   21  69  221 33  0.30`\
-`  jot to fix 300 40, 300, 20`\
+`5   300 40  300 20  0.30          Watch for fire!  The pieces can drop down and catch fire, and then burn the work above.`\
 `6   25  65  174 33  0.29`\
 `6.5 10  50          `\
 `8   10  70          `\
