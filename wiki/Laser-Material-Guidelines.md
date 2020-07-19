@@ -186,6 +186,7 @@ You should probably be careful with foam board, because it can be made of differ
 `4   34  60  250 31  0.23`\
 `4.5 80  44          `\
 `5   21  69  221 33  0.30`\
+`  jot to fix 300 40, 300, 20`\
 `6   25  65  174 33  0.29`\
 `6.5 10  50          `\
 `8   10  70          `\
