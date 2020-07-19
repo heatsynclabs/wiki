@@ -1,6 +1,6 @@
 # Overview
 
-This is the "smaller laser" or "the laser fewer people know how to use". It's a 60W laser with a bed that is roughly 3 feet by 3 feet (tbd: measure the actual bed and update).
+This is the "smaller laser" or "the laser fewer people know how to use". It's a 60W laser with a bed that is roughly 70 cm x 50 cm
 
 # Turn on the laser
 
