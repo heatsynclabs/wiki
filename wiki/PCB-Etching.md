@@ -16,7 +16,7 @@ otherwise find a deal with the big boys
 
 One problem you should already have noticed is these places have 100 domains so its hard to know if you're dealing with the same shop.
 
-Cheap Chinese PCB fab houses - they make surprisingly good PCBs for the price and have SMT assembly services, but shipping takes a while. Though they have really fast turnaround time compared to American PCB fab houses.
+Cheap Chinese PCB fab houses - they make surprisingly good PCBs for the price and have SMT assembly services, but shipping takes a while. Though they have really fast turnaround time (24hrs) compared to American PCB fab houses.
 
 - <https://jlcpcb.com> \$2 for 5 pieces of 100mmx100mm maximum size, shipping not included
 - <https://www.pcbway.com/> \$5 for 5 pieces, shipping not included (you get a lot more customization options compared to JLCPCB)
