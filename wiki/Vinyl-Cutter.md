@@ -29,6 +29,8 @@
 
 ## Basic Operation
 
+- Power on cutter
+
 1\. Clear Margins - To allow us to use irregular shaped pieces of vinyl and to avoid excessive waste, we will not use the automatic margins feature of the machine. To get around this feature, do the following: Without loading any vinyl, lock the two rollers at the left and right ends of the track. Turn the machine on, and select “scroll”. When the machine stops moving, press enter. The machine will assume that it is now at the bottom right corner of your material. Before loading your material, hold the down arrow key for a second or two.
 
 2\. Load vinyl - The vinyl can be fed into the machine from the front or back, and should be held in place by locking the two rollers at its edges. These rollers must be placed in the green sections of the track to work properly. Make sure you leave a margin of at least one inch at the back of the material for the rollers to grip.
