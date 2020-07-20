@@ -164,6 +164,10 @@ This is a partial list of the materials that can and can not be used for various
 
 You should probably be careful with foam board, because it can be made of different materials.
 
+**Note:** Watch for fire! The pieces can drop down and catch fire, and then burn the work above.
+
+Also, I suspect you can use high speed, low power (300/40) for cutting any depth. You can probably even go faster than 300.
+
 ### Known good
 
 - Readi-board - [MSDS](files/MSDS-InSitePS.pdf)
@@ -185,7 +189,7 @@ You should probably be careful with foam board, because it can be made of differ
 `3.175   11  70  700 80  `\
 `4   34  60  250 31  0.23`\
 `4.5 80  44          `\
-`5   300 40  300 20  0.30          Watch for fire!  The pieces can drop down and catch fire, and then burn the work above.`\
+`5   300 40  300 20  0.30          `\
 `6   25  65  174 33  0.29`\
 `6.5 10  50          `\
 `8   10  70          `\
