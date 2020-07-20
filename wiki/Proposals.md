@@ -18,6 +18,8 @@ When installations, stations, or additions to the lab take up sizable floor spac
 
 [11/12/2012](https://groups.google.com/d/msg/heatsynclabs/lY-M_Rl9fOE/tkmSjcAHYG0J)Only people with card access can vote on granting card access.
 
+[03/11/2014](https://groups.google.com/d/msg/heatsynclabs/OyZG0amZruw/kfphRSFEZXMJ)\[Proposal\] Buy 3 of these laptops to replenish our laptops
+
 [01/08/2015](https://groups.google.com/d/msg/heatsynclabs/aZ28Nh2Mojc/iTgdfDc9ENIJ)Proposal: buy an ultimaker 2
 
 [02/19/2015](https://groups.google.com/d/msg/heatsynclabs/R4Q1wd4xgXs/x86CoP8vamYJ)\[PROPOSAL\] Purchase vinyl cutter (LaserPoint II Series)
