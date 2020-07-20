@@ -1,4 +1,4 @@
-Formal proposals directed towards Hack Your Hackerspace meetings are to be made including but not limited to:
+Formal proposals directed towards Hack Your Hackerspace meetings are to be made including to but not limited to:
 
 When tools or equipment outside normal operating budgets are to be considered When card access to the space is to be added to a member. When installations, stations, or additions to the lab take up sizable floor space.
 
