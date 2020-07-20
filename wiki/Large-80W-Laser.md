@@ -74,6 +74,21 @@ These lists are not exhaustive. If your material is not on either list, ask firs
     1.  Click "Run Box" to outline the extent of your design area without the laser powering on
         1.  Don't use Clip Box or it will power on the laser
 
+If the "Run Box" doesn't run and the machine gives you a "Soft Stop" it means it detected that the box would be outside of the laser area.
+
+![](files/9000-soft-stop.jpg)
+
+*9000-soft-stop.jpg*
+
+There are a number of things that can cause this:
+
+- You have set the origin and the current laser position in such a way that it will run out of table.
+- There is something in your design that would send the laser way off of where you expect.
+  - The best way to find these is to make sure you run "Simulate" out of LaserCut to see what it's trying to do.
+- Gremlins.
+
+Once you've fixed your problem, or think you have, you can hit ESC on the machine control pad (lower right) and re-upload and try again.
+
 ### Safety
 
 1.  Remember your [Laser Cutter Safety Training](Laser-Cutter-Safety-Training)
