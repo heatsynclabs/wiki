@@ -1,8 +1,8 @@
 ## LAB
 
 Closed to general public, No more than 10 people Allowed Inside.\
-CPro is proposing to purchase new laptops.\
-Both Ender 5 3d printers have been recieved
+Proposal to buy laptops: Budget Limit amended as 4,000.\
+Both Ender 5 3d printers have been received at the Lab.
 
 ## WIKI
 
