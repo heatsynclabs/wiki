@@ -1,7 +1,7 @@
 ## LAB
 
 Closed to general public, No more than 10 people Allowed Inside.\
-Proposal to buy laptops: Budget Limit amended as 4,500.\
+Proposal to buy laptops: Budget Limit amended as 4,500. Laptop quantity amended as 12 Units.\
 Both Ender 5 3d printers have been received at the Lab.
 
 ## WIKI
