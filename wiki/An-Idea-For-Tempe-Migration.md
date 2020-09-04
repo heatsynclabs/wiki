@@ -13,7 +13,7 @@ Participation in the investor group will be offered first to members of HSL and 
 - 10,000 square feet for use by HSL.
 - Zoned light industrial.
 - Fully air conditioned. (or price low enough to cover cost of installation)
-- \<TBK\> amp 220 two phase and \<TBK\> amp three phase. (or price to cover cost)
+- \<TBK\> amp 220 two phase and \<TBK\> amp three phase. (or priced low enough to cover cost of installation)
 
 # Expected Cost and Down
 
