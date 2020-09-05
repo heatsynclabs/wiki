@@ -22,4 +22,8 @@ The west wall of KitchenSync / Class Room - shown with hashmarks in the image ab
 
 *ten_thousand_foot_concept_floorplan-investor-operational.png*
 
+Doors between the for-profit spaces operated by the investors and HSL space would be electronically locked and controlled by HSL.
+
+Leasing of a for-profit space would not confer any privileges with HSL. Lessors may choose to become a member of HSL and work toward earning card membership if they choose, but failure to earn card membership or loss of card membership privileges would not have any effect on the lease of for-profit space.
+
 # Investor Financial View
