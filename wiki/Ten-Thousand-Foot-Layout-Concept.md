@@ -4,6 +4,8 @@ This is a conceptual layout of a 10,000 square foot space for HSL within a 15,42
 
 This is intended as a practical property model to use in considering [An Idea For Tempe Migration](An-Idea-For-Tempe-Migration).
 
+See Also: [New Space Noodling 2020](New-Space-Noodling-2020)
+
 # HSL Operational View
 
 ![](files/Ten_thousand_foot_concept_floorplan-hsl-operational.png)
