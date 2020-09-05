@@ -18,4 +18,8 @@ The west wall of KitchenSync / Class Room would be facing the noisy space. To ma
 
 # Investor Operational View
 
+![](files/Ten_thousand_foot_concept_floorplan-investor-operational.png)
+
+*ten_thousand_foot_concept_floorplan-investor-operational.png*
+
 # Investor Financial View
