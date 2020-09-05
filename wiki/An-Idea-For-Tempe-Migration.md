@@ -2,6 +2,8 @@
 
 HSL wants a larger space, and is considering moving somewhere other than Mesa. I threw the following together as one concept of how that might work.
 
+I added a hypothetical [Ten Thousand Foot Layout Concept](Ten-Thousand-Foot-Layout-Concept).
+
 # Investors
 
 An investor group will be formed to purchase a warehouse in the industrial district immediately to the south of Tempe Marketplace. They will watch market prices on commercial property from now (Sep 2020) to Spring 2021, with the intent of purchasing a property in time for HSL to move in starting in May 2021. The continuing COVID-19 pandemic and end of stimulus from the federal government is likely to result in a pull-back in the commercial property market over the coming months. We should seek to time the market with the intent to purchase in late Q1 or early Q2.
