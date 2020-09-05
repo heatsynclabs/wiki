@@ -29,3 +29,5 @@ Leasing of a for-profit space would not confer any privileges with HSL.
 Lessors may choose to become a member of HSL and work toward earning card membership, but failure to earn card membership or loss of card membership privileges would not have any effect on the lease of for-profit space.
 
 # Investor Financial View
+
+[ten_thousand_foot_concept_floorplan-investor-financial.png](Ten-thousand-foot-concept-floorplan-investor-financial.png)
