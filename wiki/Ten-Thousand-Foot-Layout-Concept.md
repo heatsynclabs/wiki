@@ -48,13 +48,13 @@ Some highlight numbers from a spreadsheet that I will be providing soon.
 
 | Item | Value | Notes |
 |----|----|----|
-| Monthly Full Occupancy Rent | \$13,900 | Example |
-| Monthly 80% Occupancy Rent | \$11,120 | Example |
+| Monthly Full Occupancy Rent | \$13,900 |  |
+| Monthly 80% Occupancy Rent | \$11,120 | Assuming 20% of the space will not earn rent at any given moment. |
 | Annual Tax | \$9,482 | Tempe Commercial Rental + Maricopa Commercial Property |
-| Annual Cashflow after Tax | \$123,958 | Example |
-| Annual Operating Expenses | \$45,000 | Example |
-| Annual Net Cashflow | \$78,958 | Example |
-| Maximum Building Cost | \$2,105,549 | Example |
+| Annual Cashflow after Tax | \$123,958 | Assumes zero profit, zero employees, and hence no federal tax. |
+| Annual Operating Expenses | \$45,000 | WAG |
+| Annual Net Cashflow | \$78,958 | Cashflow minus taxes minus operating expenses. |
+| Maximum Building Cost | \$2,105,549 | Assuming net cashflow covers 5% interest on a 75% property loan. |
 | Maximum Cost Per Square Foot | \$136.50 | Lower makes it easier to find investors. |
 
 15,425 ft2 back-of-the-envelope numbers
