@@ -46,7 +46,7 @@ Lessors may choose to become a member of HSL and work toward earning card member
 
 *ten_thousand_foot_concept_floorplan-investor-financial.png*
 
-The following are highlights from a spreadsheet I tossed together and will be providing soon. It has a lot of guesswork and presumably incorrect calculations in it at the moment. Beware these numbers. Here be dragons. If you continue you will likely be eaten by a grue.
+The following are highlights from a spreadsheet I tossed together and will be providing soon. It has a lot of guesswork and presumably incorrect calculations in it at the moment. Beware these numbers. Here be dragons. If you continue you will probably be eaten by a grue.
 
 | Item | Value | Notes |
 |----|----|----|
