@@ -10,7 +10,7 @@ This is a conceptual layout of a 10,000 square foot space for HSL within a 15,42
 
 ## Noise Reducing Wall
 
-The west wall of KitchenSync / Class Room would be facing the noisy space. To make it more usable, we could build the west wall using a noise-reducing structure.
+The west wall of KitchenSync / Class Room - shown with hashmarks in the image above - would be facing the noisy space. To make it more usable, we could build the west wall using a noise-reducing structure.
 
 ![](files/Noise_reducing_wall_structure.png)
 
