@@ -59,4 +59,4 @@ Some highlight numbers from a spreadsheet that I will be providing soon.
 | Maximum Building Cost | \$2,105,549 | Assuming net cashflow covers 5% interest on a 75% property loan. |
 | Maximum Cost Per Square Foot | \$136.50 | Lower makes it easier to find investors. |
 
-15,425 ft2 back-of-the-envelope numbers
+15,425 ft2 back-of-the-envelope numbers (substantial vetting / improvement needed)
