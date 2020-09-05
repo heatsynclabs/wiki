@@ -46,10 +46,15 @@ Lessors may choose to become a member of HSL and work toward earning card member
 
 Some highlight numbers from a spreadsheet that I will be providing soon.
 
-| Header text | Header text | Header text |
-|-------------|-------------|-------------|
-| Example     | Example     | Example     |
-| Example     | Example     | Example     |
-| Example     | Example     | Example     |
+| Item | Value | Notes |
+|----|----|----|
+| Monthly Full Occupancy Rent | \$13,900 | Example |
+| Monthly 80% Occupancy Rent | \$11,120 | Example |
+| Annual Tax | \$9,482 | Tempe Commercial Rental + Maricopa Commercial Property |
+| Annual Cashflow after Tax | \$123,958 | Example |
+| Annual Operating Expenses | \$45,000 | Example |
+| Annual Net Cashflow | \$78,958 | Example |
+| Maximum Building Cost | \$2,105,549 | Example |
+| Maximum Cost Per Square Foot | \$136.50 | Lower makes it easier to find investors. |
 
-Caption text
+15,425 ft2 back-of-the-envelope numbers
