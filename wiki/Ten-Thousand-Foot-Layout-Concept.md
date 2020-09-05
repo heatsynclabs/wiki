@@ -43,3 +43,13 @@ Lessors may choose to become a member of HSL and work toward earning card member
 ![](files/Ten_thousand_foot_concept_floorplan-investor-financial.png)
 
 *ten_thousand_foot_concept_floorplan-investor-financial.png*
+
+Some highlight numbers from a spreadsheet that I will be providing soon (going to hold my nose and log in to Google, see if they have a shared spreadsheet that can be reached from HSL's Google Group).
+
+| Header text | Header text | Header text |
+|-------------|-------------|-------------|
+| Example     | Example     | Example     |
+| Example     | Example     | Example     |
+| Example     | Example     | Example     |
+
+Caption text
