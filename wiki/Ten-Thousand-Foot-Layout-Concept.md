@@ -20,6 +20,8 @@ Storage 1 would allow storage of anything, with a recommendation to cover any it
 
 Storage 2 would only allow storage of clean things.
 
+Having an air break with a pressure differential may be too difficult to do in practice to be worth the upside. But it was fun to think about, so I put it in. :D
+
 ## Noise Reducing Wall
 
 ![](files/Noise_reducing_wall_structure.png)
