@@ -10,7 +10,7 @@ This is intended as a practical property model to use in considering [An Idea Fo
 
 *ten_thousand_foot_concept_floorplan-hsl-operational.png*
 
-The west wall of KitchenSync / Class Room - shown with hashmarks in the image above - would be facing the noisy space. To make it more usable, we could build the west wall using a noise-reducing structure. See "Nose Reducing Wall" below.
+The west wall of KitchenSync / Class Room - shown with hashmarks in the image above - is adjoining the noisy space. To make it more usable, we could build the west wall using a noise-reducing structure. See "Nose Reducing Wall" below.
 
 Baths 1 and 2 would have things like Fast Orange, Goop, and a shop sink.
 
