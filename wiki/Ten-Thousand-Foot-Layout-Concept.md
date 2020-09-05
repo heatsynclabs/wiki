@@ -56,7 +56,7 @@ The following are highlights from a spreadsheet I tossed together and will be pr
 | Annual Cashflow after Tax | \$123,958 | Assumes zero profit, zero employees, and hence no federal tax. |
 | Annual Operating Expenses | \$45,000 | WAG |
 | Annual Net Cashflow | \$78,958 | Cashflow minus taxes minus operating expenses. |
-| Maximum Building Cost | \$2,105,549 | Assuming net cashflow covers 5% interest on a 75% property loan. |
-| Maximum Cost Per Square Foot | \$136.50 | Lower makes it easier to find investors. |
 
 15,425 ft2 back-of-the-envelope numbers (substantial vetting / improvement needed)
+
+I think that puts the target building price somewhere between \$1.5m and 2m, but I'm still digging in how to go from cashflow to breakeven building price. (suggestions very welcome!)
