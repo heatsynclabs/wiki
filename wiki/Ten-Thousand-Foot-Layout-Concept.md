@@ -30,4 +30,6 @@ Lessors may choose to become a member of HSL and work toward earning card member
 
 # Investor Financial View
 
-[ten_thousand_foot_concept_floorplan-investor-financial.png](Ten-thousand-foot-concept-floorplan-investor-financial.png)
+![](files/Ten_thousand_foot_concept_floorplan-investor-financial.png)
+
+*ten_thousand_foot_concept_floorplan-investor-financial.png*
