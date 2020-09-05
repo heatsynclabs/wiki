@@ -59,4 +59,4 @@ The following are highlights from a spreadsheet I tossed together and will be pr
 
 15,425 ft2 back-of-the-envelope numbers (substantial vetting / improvement needed)
 
-I think that puts the target building price somewhere between \$1.5m and 2m, but I'm still digging in how to go from cashflow to breakeven building price. (suggestions very welcome!)
+I think that puts the target building price somewhere between \$1.5m and 2m, but I'm still digging in on how to go from cashflow to breakeven building price. (suggestions very welcome!)
