@@ -32,7 +32,7 @@ Storage 2 would only allow storage of clean things.
 
 *ten_thousand_foot_concept_floorplan-investor-operational.png*
 
-Doors between the for-profit and HSL space would be electronically locked and controlled by an AND operation of HSL and Lessor permission. Both sides have to "turn their keys" for a tenant to be allowed to open the door.
+Doors between the for-profit and HSL space would be electronically locked with HSL permission controlling passage from the for-profit side, and Lessor permission controlling access from the HSL side. These doors cannot be counted as fire-egress.
 
 Leasing of a for-profit space would not confer any privileges with HSL.
 
