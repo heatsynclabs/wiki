@@ -8,9 +8,17 @@ This is a conceptual layout of a 10,000 square foot space for HSL within a 15,42
 
 *ten_thousand_foot_concept_floorplan-hsl-operational.png*
 
-## Noise Reducing Wall
+The west wall of KitchenSync / Class Room - shown with hashmarks in the image above - would be facing the noisy space. To make it more usable, we could build the west wall using a noise-reducing structure. See "Nose Reducing Wall" below.
 
-The west wall of KitchenSync / Class Room - shown with hashmarks in the image above - would be facing the noisy space. To make it more usable, we could build the west wall using a noise-reducing structure.
+Baths 1 and 2 would have things like Fast Orange, Goop, and a shop sink.
+
+Baths 3 and 4 would have things like a sink that doesn't have smudges of machine shop lubricant.
+
+Storage 1 would allow storage of anything, with a recommendation to cover any items that are sensitive to dust or dirt.
+
+Storage 2 would only allow storage of clean things.
+
+## Noise Reducing Wall
 
 ![](files/Noise_reducing_wall_structure.png)
 
