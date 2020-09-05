@@ -1,6 +1,8 @@
 # Overview
 
-This is a conceptual layout of a 10,000 square foot space for HSL within a 15,425 square foot warehouse owned by an investor group. It is intended as a practical property model to use in considering [An Idea For Tempe Migration](An-Idea-For-Tempe-Migration).
+This is a conceptual layout of a 10,000 square foot space for HSL within a 15,425 square foot warehouse owned by an investor group.
+
+This is intended as a practical property model to use in considering [An Idea For Tempe Migration](An-Idea-For-Tempe-Migration).
 
 # HSL Operational View
 
