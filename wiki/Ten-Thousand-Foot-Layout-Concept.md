@@ -38,7 +38,7 @@ I heard a podcaster recommend this design for noise isolation, having used it in
 
 *ten_thousand_foot_concept_floorplan-investor-operational.png*
 
-Doors between the for-profit and HSL space would be electronically locked with HSL permission controlling passage from the for-profit side, and Lessor permission controlling access from the HSL side. These doors cannot be counted as fire-egress.
+Doors between the for-profit and HSL space would be electronically locked with HSL permission controlling passage to the HSL side, and Investor permission controlling access to the for-profit side. These doors cannot be counted as fire-egress.
 
 Leasing of a for-profit space would not confer any privileges with HSL.
 
