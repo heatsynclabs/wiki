@@ -40,7 +40,7 @@ I heard a podcaster recommend this design for noise isolation, having used it in
 
 Doors between the for-profit and HSL space would be electronically locked with HSL permission controlling passage to the HSL side, and Investor permission controlling access to the for-profit side. These doors cannot be counted as fire-egress.
 
-Leasing of a for-profit space would not confer any privileges with HSL.
+Leasing a for-profit space would not confer any privileges with HSL.
 
 Lessors may choose to become a member of HSL and work toward earning card membership, but failure to earn card membership or loss of card membership privileges would not have any effect on the lease of for-profit space.
 
