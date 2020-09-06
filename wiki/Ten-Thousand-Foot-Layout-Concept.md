@@ -26,7 +26,7 @@ Having an air break with a pressure differential may be too difficult to do in p
 
 ## Noise Reducing Wall
 
-A podcaster recommends this design for noise isolation, having used it in their home recording booth. Having separation between the inside wall studs and the outside wall studs prevents the drywall from acting as a giant microphone on one side and a giant speaker on the other side. Sound vibrations aren't transferred through the studs from one side to the other.
+A podcaster recommends this design for noise isolation, having used it in their home recording booth. Having separation between the inside wall studs and the outside wall studs prevents the drywall from acting as a giant microphone on one side and a giant speaker on the other. Sound vibrations aren't transferred through the studs from one side to the other.
 
 ![](files/Noise_reducing_wall_structure.png)
 
