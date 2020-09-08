@@ -4,4 +4,4 @@ See Also: [New Space Noodling 2020](New-Space-Noodling-2020)
 
 # Spreadsheet: Is 5% ROI Possible?
 
-[Tempe_Migration_2020_Financials.ods](files/Tempe_Migration_2020_Financials.ods): 20 years of projected monthly ROI and cashflow for a 15,425 building.
+[Tempe_Migration_2020_Financials.xlsx](files/Tempe_Migration_2020_Financials.xlsx): 20 years of projected monthly ROI and cashflow for a 15,425 building.
