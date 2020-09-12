@@ -1,0 +1,92 @@
+# Websites
+
+- [instructables website](Instructables-website)
+- [thingiverse website](Thingiverse-website)
+
+# YouTube
+
+- 3x3Custom: <https://www.youtube.com/channel/UC39z4_U8Kls0llAij3RRZAQ>
+  - Woodworking techniques and relatively simple projects
+- Acorn to Arabella: <https://www.youtube.com/channel/UCAiDWnTP0WB1xCp6uuUo0VA>
+  - Building a wooden sailboat from scratch, reuse of blueprints and brass hardware from a scavenged ship
+- Applied Science: <https://www.youtube.com/c/AppliedScience/videos>
+  - Extreme Hacking, Science Hacking
+- Bad Obsession Motorsport: <https://www.youtube.com/channel/UCHvBHWBzzB7NyU5tIiEZHBg>
+  - Project Binky: Fabrication. Fit a Toyota Celica into a Mini
+- Becky Stern: <https://www.youtube.com/channel/UCsI_41SZafKtB5qE46WjlQQ>
+  - More “maker” projects, sewing, woodworking, Arduino
+- Blondihacks: <https://www.youtube.com/channel/UC7Jf7t6BL4e74O53dL6arSw>
+  - Machining (mill & lathe), SFW humor (unlike AvE)
+- CNC Kitchen: <https://www.youtube.com/channel/UCiczXOhGpvoQGhOL16EZiTg>
+  - 3D printing
+- Cody’s Lab: <https://www.youtube.com/channel/UCu6mSoMNzHQiBIOCkHUa2Aw>
+  - Chemistry mostly, and some geology and ecology
+- Colin Furze: <https://www.youtube.com/c/colinfurze/videos>
+  - Reckless, often movie-inspired hacking. Vehicles, jets, flame-throwers.
+- Contextual Electronics: <https://www.youtube.com/channel/UCkJRycUz2CylxpiP-zMePow>
+  - KiCAD EDA guide, electronics podcast/interviews
+- DroneBot Workshop <https://www.youtube.com/channel/UCzml9bXoEM0itbcE96CB03w>
+  - Professional-quality electronics tutorials for maker-scale components like ESP32 and Arduino
+- ElectroBOOM: <https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA>
+  - Electricity and electronics in a don’t-do-it-like-this manner
+- Engels Coach Shop: <https://www.youtube.com/user/EngelsCoachShop>
+  - Traditional wooden coach and wheel building. Relaxing hand craftsmanship
+- Eric Strebel: <https://www.youtube.com/channel/UCFzr6ae9Uv-a_tCmHmkw49g>
+  - Industrial designer making tools and 2d/3d prototypes in paper, resin, other materials
+- Frank Howarth: <https://www.youtube.com/user/urbanTrash>
+  - Architect doing woodworking, artistry woodturning and CNC
+- GreatScott! <https://www.youtube.com/user/greatscottlab>
+  - Electronics, electricity, mechatronics
+- Jay Bates / Jay’s Custom Creations: <https://www.youtube.com/c/JayBates/videos>
+  - Woodworking
+- Jeremy Fielding: <https://www.youtube.com/channel/UC_SLthyNX_ivd-dmsFgmJVg>
+  - Electrical engineer building real stuff out of salvaged material. Excellent motor explanations.
+- Jimbo’s Garage: <https://www.youtube.com/c/JimbosGarage/videos>
+  - Welding
+- Jimmy Diresta: <https://www.youtube.com/channel/UCiEk4xHBbz0hZNIBBpowdYQ>
+  - Renaissance maker - woodworking, metalworking, toys, blades, furniture, construction, printing
+- Mark Rober: <https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg>
+  - Absurd maker projects and experiments
+- Matthias Wandel: <https://www.youtube.com/channel/UCckETVOT59aYw80B36aP9vw>
+  - Wooden contraptions and furniture for almost anything
+  - Some Raspberry Pi stuff
+- My Mechanics: <https://www.youtube.com/channel/UCMrMVIBtqFW6O0-MWq26gqw>
+  - Cleanup of vintage metal and wood items, rust removal, polishing, sharpening
+  - Some custom fabrication to replace missing parts
+- Marco Reps: <https://www.youtube.com/channel/UC1O0jDlG51N3jGf6_9t-9mw>
+  - Electronics, electricity, lasers, 3D printing, machining, mechatronics
+- NileRed: <https://www.youtube.com/user/TheRedNile>
+  - In-depth, but accessible and interesting chemistry
+- Ox Tools with Tom Lipton: <https://www.youtube.com/user/oxtoolco/videos>
+  - Machining
+- Quinn/Blondihacks <https://www.youtube.com/channel/UC7Jf7t6BL4e74O53dL6arSw>
+  - Machinist, beginner tutorials, works on hobby-friendly budget projects
+- Sampson Boat Co: <https://www.youtube.com/channel/UCg-_lYeV8hBnDSay7nmphUA>
+  - Complete restoration of a wooden sailing yacht, excellent craftsmanship
+- Simone Giertz: <https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ>
+  - True “maker” projects, welding, woodworking
+- Smarter Every Day: <https://www.youtube.com/c/smartereveryday/videos>
+  - Rocket scientist hacker, physics, extreme hacking
+- Smitty Working On SOMETHING: <https://www.youtube.com/user/SmittyHalibut>
+  - Electronics design, board layout, ham radio, and occasionally sim racing.
+  - aka mrksmith@amazon.com
+- Strange Parts: <https://www.youtube.com/channel/UCO8DQrSp5yEP937qNqTooOw>
+  - iPhone teardowns, manufacturing plant tours, SMD soldering
+- StyroPyro: <https://www.youtube.com/user/styropyro>
+  - Chemistry, electronics, and more, mostly to support homemade lasers
+- Tested <https://www.youtube.com/user/testedcom>
+  - Adam Savage’s channel. During quarantine has been flooded with all sorts of projects
+- The Backyard Scientst: <https://www.youtube.com/c/TheBackyardScientist/videos>
+  - Home science, dangerous toys
+- The Post Apocalyptic Inventor <https://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA>
+  - Salvaging machines and materials from German junkyards
+- The Wood Whisperer: <https://www.youtube.com/thewoodwhisperer/videos>
+  - Fine woodworking
+- ThisOldTony: <https://www.youtube.com/channel/UC5NO8MgTQKHAWXp6z8Xl7yQ>
+  - Metalworking: Lathe, CNC, end mill, welding. Great storyteller.
+- Thomas Sanladerer: <https://www.youtube.com/channel/UCb8Rde3uRL1ohROUVg46h1A>
+  - 3D printing
+- Tinkernut: <https://www.youtube.com/c/Tinkernut/videos>
+  - Electronics, single board computers, upcycling electronic bits.
+- Works by Solo <https://www.youtube.com/channel/UCJ7uYj09nzB5cHD4G6qoVWg>
+  - Cool home-made toy mechanical projects by an automotive industrial designer/engineer​
