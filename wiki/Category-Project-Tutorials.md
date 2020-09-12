@@ -3,7 +3,7 @@
 - [instructables website](Instructables-website)
 - [thingiverse website](Thingiverse-website)
 
-# YouTube
+# YouTube Makers
 
 - 3x3Custom: <https://www.youtube.com/channel/UC39z4_U8Kls0llAij3RRZAQ>
   - Woodworking techniques and relatively simple projects
