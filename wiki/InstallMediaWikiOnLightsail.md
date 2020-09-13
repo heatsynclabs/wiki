@@ -14,6 +14,7 @@ The tutorial doesn't have Let's Encrypt steps; I want to interject those before 
   - Port Restrictions
   - SSH Login Key
   - Distro
+    - Try out the "Apps + OS" Bitnami LAMP PHP 7.x instance.
 - Let's Encrypt
 - Backup and Restore
   - Database Dump and Import
