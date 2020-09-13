@@ -8,5 +8,17 @@ The tutorial didn't recommend installing Emacs. Clearly an oversight on their pa
 
 The tutorial doesn't have Let's Encrypt steps; I want to interject those before the first login.
 
+# To Do
+
+- Document Lightsail Setup
+  - Port Restrictions
+  - SSH Login Key
+  - Distro
+- Let's Encrypt
+- Backup and Restore
+  - Database Dump and Import
+  - LocalSettings.php backup and import
+  - Periodic Backup
+
 ---
 *Categories: [Sysadmin Tutorials](Category-Sysadmin-Tutorials)*
