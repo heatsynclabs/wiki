@@ -90,3 +90,6 @@
   - Electronics, single board computers, upcycling electronic bits.
 - Works by Solo <https://www.youtube.com/channel/UCJ7uYj09nzB5cHD4G6qoVWg>
   - Cool home-made toy mechanical projects by an automotive industrial designer/engineer​
+
+---
+*Categories: [Tutorials](Category-Tutorials)*
