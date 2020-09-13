@@ -23,5 +23,7 @@ The tutorial doesn't have Let's Encrypt steps; I want to interject those before 
 
 # Second Pass: Bitnami LAMP
 
+- It comes with phpMyAdmin - is that a plus, minus, or indifferent?
+
 ---
 *Categories: [Sysadmin Tutorials](Category-Sysadmin-Tutorials)*
