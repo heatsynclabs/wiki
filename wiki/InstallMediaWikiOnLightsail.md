@@ -23,7 +23,5 @@ The tutorial doesn't have Let's Encrypt steps; I want to interject those before 
 
 # Second Pass: Bitnami LAMP
 
-- MySQL defaults to listening on 0.0.0.0:1390
-
 ---
 *Categories: [Sysadmin Tutorials](Category-Sysadmin-Tutorials)*
