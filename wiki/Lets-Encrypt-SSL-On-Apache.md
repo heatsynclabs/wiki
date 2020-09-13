@@ -6,5 +6,12 @@ Let's Encrypt is a project to make verifiable SSL certificates available to anyo
 - <https://letsencrypt.org/docs/>
 - <https://en.wikipedia.org/wiki/Let%27s_Encrypt>
 
+<!-- -->
+
+- Certificates are free.
+- Expire after 90 days.
+- Can be renewed for free at any time.
+- Automation is a core toolkit objective.
+
 ---
 *Categories: [Sysadmin_Tutorials](Category-Sysadmin-Tutorials)*
