@@ -10,7 +10,7 @@ The tutorial didn't recommend installing Emacs. Clearly an oversight on their pa
 
 The tutorial doesn't have Let's Encrypt steps; I want to interject those before the first login.
 
-The MediaWiki tutorial recommends MediaWiki 1.34, the latest stable version. AWS Lightsail Debian is Debian 9.1, which has PHP 7.0. MediaWiki 1.34 requires PHP 7.3 (I think). You have to use MediaWiki 1.33 or lower to run on PHP 7.0.
+The MediaWiki tutorial recommends MediaWiki 1.34, the latest stable version. AWS Lightsail Debian is Debian 9.1, which has PHP 7.0. MediaWiki 1.34 requires PHP 7.3. You have to use MediaWiki 1.33 or lower to run on PHP 7.0.
 
 # To Do
 
