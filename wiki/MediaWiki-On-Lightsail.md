@@ -33,7 +33,7 @@ So I looked up the company to see if I trust them. They were a little independen
 
 # Third Pass: Debian 10.5
 
-This time around I'm going with a bare Debian 10.5 instance. I used 9.5 for the first pass, it only has PHP 7.0, which the latest version of MediaWiki won't run on. I'm hoping 10.5 (which I don't recall seeing last time, I think it's new to Lightsail) will have a more recent PHP.
+This time around I'm going with a bare Debian 10.5 instance. I used 9.5 for the first pass, it only has PHP 7.0, which the latest version of MediaWiki won't run on. Debian 10.5 (which I don't recall seeing last time, I think it's new to Lightsail) comes with PHP 7.3, which will support the most current MediaWiki.
 
 I used the \$5 instance with 1 GB RAM, 1 vcPU, 40 GB SSD, and 2 TB transfer. It's the best price/performance they offer at the moment; as you go to larger instances the price grows faster than the specs. If it can run on a \$5 instance, I think it's the right call.
 
