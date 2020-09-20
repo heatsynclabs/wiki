@@ -40,6 +40,8 @@ Add your favorites! (try to keep it alphabetical to help with deduplication)
   - Welding
 - Jimmy Diresta: <https://www.youtube.com/channel/UCiEk4xHBbz0hZNIBBpowdYQ>
   - Renaissance maker - woodworking, metalworking, toys, blades, furniture, construction, printing
+- Kevin Caron: <https://www.youtube.com/c/KevincaronSculpture/videos>
+  - Metal Sculptor, Welding, Plasma - Phoenix Local (Mesa?)
 - Mark Rober: <https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg>
   - Absurd maker projects and experiments
 - Matthias Wandel: <https://www.youtube.com/channel/UCckETVOT59aYw80B36aP9vw>
@@ -76,7 +78,7 @@ Add your favorites! (try to keep it alphabetical to help with deduplication)
 - The Post Apocalyptic Inventor <https://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA>
   - Salvaging machines and materials from German junkyards
 - The Wood Whisperer: <https://www.youtube.com/thewoodwhisperer/videos>
-  - Fine woodworking
+  - Fine woodworking - Phoenix Local (Chandler?)
 - ThisOldTony: <https://www.youtube.com/channel/UC5NO8MgTQKHAWXp6z8Xl7yQ>
   - Metalworking: Lathe, CNC, end mill, welding. Great storyteller.
 - Thomas Sanladerer: <https://www.youtube.com/channel/UCb8Rde3uRL1ohROUVg46h1A>
