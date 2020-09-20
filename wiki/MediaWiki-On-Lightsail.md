@@ -37,6 +37,16 @@ This time around I'm going with a bare Debian 10.5 instance. I used 9.5 for the 
 
 I used the \$5 instance with 1 GB RAM, 1 vcPU, 40 GB SSD, and 2 TB transfer. It's the best price/performance they offer at the moment; as you go to larger instances the price grows faster than the specs. If it can run on a \$5 instance, I think it's the right call.
 
+<table>
+<tbody>
+<tr>
+<td><p><strong>SSL Prerequisite: Primary Domain Web Host</strong></p>
+<p>You'll need a primary domain web-host. That's a webserver that responds to <a href="http://yourdomain.com/">http://yourdomain.com/</a> and <a href="http://www.yourdomain.com/">http://www.yourdomain.com/</a>. That's not entirely true - there are ways to do it via email, and I'm not 100% sure you need both the domain root and www., but we'll figure that out in a bit when I get to the Lets Encrypt step.</p>
+<p>Set it up now if you don't have one, so the DNS records have time to cascade through the nameserver cloud.</p></td>
+</tr>
+</tbody>
+</table>
+
 Once it's fired up, login and update the OS:
 
     $ ssh -i <path/to/secret_ssh_key> admin@<ip_address>
