@@ -1,3 +1,5 @@
+Add your favoites! (try to keep it alphabetical to help with deduplication)
+
 - 3x3Custom: <https://www.youtube.com/channel/UC39z4_U8Kls0llAij3RRZAQ>
   - Woodworking techniques and relatively simple projects
 - Acorn to Arabella: <https://www.youtube.com/channel/UCAiDWnTP0WB1xCp6uuUo0VA>
