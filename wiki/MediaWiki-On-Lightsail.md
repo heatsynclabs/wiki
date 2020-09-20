@@ -47,6 +47,8 @@ I used the \$5 instance with 1 GB RAM, 1 vcPU, 40 GB SSD, and 2 TB transfer. It'
 </tbody>
 </table>
 
+Once it is up, assign it a static IP address. Go to the Lightsail console page on AWS, select your instance, and click on the Networking folder tab. This is the same place where you'll add firewall rules (for now, SSH and HTTP are fine).
+
 Once it's fired up, login and update the OS:
 
     $ ssh -i <path/to/secret_ssh_key> admin@<ip_address>
