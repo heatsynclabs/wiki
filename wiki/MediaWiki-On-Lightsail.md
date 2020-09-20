@@ -43,5 +43,7 @@ Once it's fired up, login and update the OS:
     $ sudo apt update
     $ sudo apt dist-upgrade
 
+    $ sudo apt install apache2
+
 ---
 *Categories: [Sysadmin Tutorials](Category-Sysadmin-Tutorials)*
