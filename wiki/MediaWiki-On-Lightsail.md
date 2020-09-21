@@ -55,6 +55,8 @@ Once it's fired up, login and update the OS:
 
     $ sudo apt install apache2
 
+`$ sudo apt install emacs-nox`
+
 ## Let's Encrypt SSL Certificate
 
 ---
