@@ -55,5 +55,7 @@ Once it's fired up, login and update the OS:
 
     $ sudo apt install apache2
 
+## Let's Encrypt SSL Certificate
+
 ---
 *Categories: [Sysadmin Tutorials](Category-Sysadmin-Tutorials)*
