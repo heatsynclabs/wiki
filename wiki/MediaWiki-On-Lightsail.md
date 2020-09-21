@@ -57,7 +57,7 @@ Once it's fired up, login and update the OS:
 
 ## Let's Encrypt SSL Certificate
 
-Install a text editor to edit Apache config files.
+If Vi isn't your thing, install your preferred text editor to edit Apache config files.
 
     $ sudo apt install emacs-nox
 
