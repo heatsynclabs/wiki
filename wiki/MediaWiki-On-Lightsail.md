@@ -39,7 +39,7 @@ I used the \$5 instance with 1 GB RAM, 1 vcPU, 40 GB SSD, and 2 TB transfer. It'
 
 ## SSL Prerequisite: Primary Domain Web Host
 
-You'll need a primary domain web-host. That's a webserver that responds to <http://yourdomain.com/> and <http://www.yourdomain.com/>. That's not entirely true - there are ways to do it via email, and I'm not 100% sure you need both the domain root and www., but we'll figure that out in a bit when I get to the Lets Encrypt step.
+You'll need a primary domain web-host. That's a webserver that responds to <http://yourdomain.com/> and <http://www.yourdomain.com/>. That's not entirely true - there are ways to do it via email, and I'm not 100% sure you need both the domain root and www., but we'll figure that out in a bit when I get to the Let's Encrypt step.
 
 Set it up now if you don't have one, so the DNS records have time to cascade through the nameserver cloud.
 
