@@ -1,3 +1,9 @@
+# Overview
+
+This page needs a lot of work, so right now it's just a dumping ground for my notes. I'll work to improve it, or you can too.
+
+# Details
+
 - Can open SVG
 - Middle button scroll
 - cut image
@@ -16,8 +22,12 @@
 
 <!-- -->
 
-- If you can get it to "frame" but you click start and it just beeps at you, make sure you have some output chosen. (Image coming)
-- If you get "no object selected" or some other item, there is a different check mark (image coming)
+- If you can get it to "frame" but you click start and it just beeps at you, make sure you have some output chosen. (Image below)
+- If you get "no object selected" or some other item, there is a different check mark (image below)
+
+![](files/Lightburn-screen.jpg)
+
+*lightburn-screen.jpg*
 
 ---
 *Categories: [Laser](Category-Laser)*
