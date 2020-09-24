@@ -63,3 +63,15 @@ There is a collect your stuff shelf on the back side of the electronics bench. I
 # Q: I broke a tool, what do I do?
 
 No big deal! If its a small hand tool or bit, place it in the broken tools bin. It is as of this writing a plastic bin placed near the first aid kit at the entry to the shop. Also notify the station head (indicated by a small whiteboard nearby the station) and/or post it to the discussion group.
+
+# Q: Where do I park?
+
+There is a good amount of parking around the lab.
+
+- The best place to park is the "General Parking" lots. They say "3 hour parking" but they have limited use and no one has ever gotten more than a warning.
+- The street parking is 2 hour parking and more rigorously enforced because the business there want to make sure it's available for their customers.
+- Finally there is the parking garage as well, although it's a bit further away.
+
+![](files/Heatsync-parking.png)
+
+*heatsync-parking.png*
