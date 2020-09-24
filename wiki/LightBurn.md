@@ -14,5 +14,10 @@
 
 - Fill + line: power/speed controls fill and then enables another line section
 
+<!-- -->
+
+- If you can get it to "frame" but you click start and it just beeps at you, make sure you have some output chosen. (Image coming)
+- If you get "no object selected" or some other item, there is a different check mark (image coming)
+
 ---
 *Categories: [Laser](Category-Laser)*
