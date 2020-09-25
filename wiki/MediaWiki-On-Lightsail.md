@@ -75,6 +75,16 @@ Then you'll need a file like /etc/apache2/sites-available/003-wiki.conf for each
 
 After you create the conf files, activate them with a2ensite and disable 000-default with a2dissite (unless you're keeping that one active to cover the root hostname).
 
+    $ sudo a2ensite 001-root
+    $ sudo a2ensite 002-www
+    $ sudo a2ensite 003-wiki
+    $ sudo a2dissite 000-default
+    $ sudo systemctl reload apache2
+
+Finally we'll need mod_rewrite - Let's Encrypt will create conf files that will redirect non-SSL traffic to HTTPS.
+
+    $ sudo a2enmod rewrite
+
 ## Let's Encrypt SSL Certificate
 
 Let's Encrypt will look at your active sites and ask you if you want to create certs for all of them.
