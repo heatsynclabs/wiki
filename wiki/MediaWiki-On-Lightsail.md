@@ -51,6 +51,10 @@ Once it's fired up, login and update the OS:
 
 ## DNS Entries
 
+Add A records for each of the hostnames you want to create certificates for. I'm setting up traxel.com, www.traxel.com, and wiki.traxel.com, so I created 3 A Records all pointing to the same static IP address.
+
+Now wait for those records to cascade. It should be done in a day or two.
+
 ## Apache
 
     $ sudo apt install apache2
