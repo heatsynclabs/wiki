@@ -75,9 +75,7 @@ Then you'll need a file like /etc/apache2/sites-available/003-wiki.conf for each
 
 ## Let's Encrypt SSL Certificate
 
-If Vi isn't your thing, install your preferred text editor to edit Apache config files.
-
-    $ sudo apt install emacs-nox
+Let's Encrypt will look at your active sites and ask you if you want to create certs for all of them.
 
 ---
 *Categories: [Sysadmin Tutorials](Category-Sysadmin-Tutorials)*
