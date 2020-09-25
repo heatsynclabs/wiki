@@ -73,6 +73,8 @@ Then you'll need a file like /etc/apache2/sites-available/003-wiki.conf for each
         CustomLog ${APACHE_LOG_DIR}/wiki-access.log combined
     </VirtualHost>
 
+After you create the conf files, activate them with a2ensite and disable 000-default with a2dissite (unless you're keeping that one active to cover the root hostname).
+
 ## Let's Encrypt SSL Certificate
 
 Let's Encrypt will look at your active sites and ask you if you want to create certs for all of them.
