@@ -57,7 +57,21 @@ Now wait for those records to cascade. It should be done in a day or two.
 
 ## Apache
 
+Let's Encrypt creates files on your webserver, then hits the host with an HTTP request to confirm that you own the domain. Install Apache 2 so you can host the files.
+
     $ sudo apt install apache2
+
+Then you'll need a file like /etc/apache2/sites-available/003-wiki.conf for each of the hostnames. I pointed each one at a different directory, since I don't know if Let's Encrypt uses unique filenames. It probably does, but this guarantees it will work.
+
+    <VirtualHost *:80>
+        ServerName wiki.traxel.com
+
+        ServerAdmin webmaster@localhost
+        DocumentRoot /var/www/mediawiki
+
+        ErrorLog ${APACHE_LOG_DIR}/wiki-error.log
+        CustomLog ${APACHE_LOG_DIR}/wiki-access.log combined
+    </VirtualHost>
 
 ## Let's Encrypt SSL Certificate
 
