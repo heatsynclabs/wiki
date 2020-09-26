@@ -127,10 +127,11 @@ Pick a password other than "CHANGE THIS PASSWORD".
     MariaDB> grant all on hsl_wiki.* to 'wiki_wiki'@'localhost' identified by 'CHANGE THIS PASSWORD';
     MariaDB> flush privileges;
 
-Then you can verify it worked if you like.
+Then you can verify it worked if you like. (there won't be any tables, but it shouldn't give you an auth error)
 
     $ mariadb -u wiki_wiki -p
     MariaDB> show tables in hsl_wiki;
+    MariaDB> exit
 
 ## MediaWiki
 
