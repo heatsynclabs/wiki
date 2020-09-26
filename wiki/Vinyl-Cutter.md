@@ -94,3 +94,6 @@ User Manual: [3](http://www.uscuttersupport.com/downloads/Support_PDF/CutterSetu
 Software: Sure Cuts A Lot Pro [4](http://www.uscutter.com/Sure-Cuts-A-Lot-Pro-Design-Cut-Software)
 
 Replacement Blades [5](http://www.uscutter.com/6-Roland-Replacement-Blades-45-Degree) Lower cost replacement blades with holder [6](https://www.aliexpress.com/item/15pcs-Set/32768951705.html)
+
+---
+*Categories: [Vinyl](Category-Vinyl)*
