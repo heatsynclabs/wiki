@@ -99,5 +99,9 @@ Following this tutorial: <https://www.rosehosting.com/blog/how-to-install-lets-e
 
 Wow! OK, that was way easier than I was expecting. Sure, there's the setup that you have to do, but most of that would have to be done anyway just to get the webserver up. That is really awesome. I'll have to give the EFF a little extra this year.
 
+## MediaWiki Supporting Software
+
+    $ sudo apt-get install mysql-server php php-mysql libapache2-mod-php php-xml php-mbstring
+
 ---
 *Categories: [Sysadmin Tutorials](Category-Sysadmin-Tutorials)*
