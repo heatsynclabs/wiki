@@ -113,6 +113,24 @@ Next, the enhancements. These will give MediaWiki extra capabilities. See [Optio
 
     $ sudo apt-get install php-apcu php-intl imagemagick php-cli php-curl git
 
+## Configure PHP
+
+There are a couple settings that are worth checking in PHP:
+
+    $ cd /etc/php/7.3/apache2/
+    $ grep memory_limit php.ini
+    $ grep upload_max_filesize php.ini
+
+128 megs should be fine for memory.
+
+I'm torn on filesize. I'm trying to fit on a \$5/mo machine with a 40 Gig HDD. Most things other than video for use on the web can be under 2 megs (the default size). I feel like the best answer may be a plugin to store large files in S3 at 1/4th the price. It's not a one-way-door, though. I'm leaving mine at 2 megs for now.
+
+Enable the PHP plugins
+
+    $ sudo phpenmod mbstring
+    $ sudo phpenmod xml
+    $ sudo systemctl restart apache2
+
 ## Configure MariaDB
 
 It's time to stop generically referring to MariaDB as MySQL. MySQL is a once-great project that is no longer trustworthy. MariaDB is the leading Open Source RDBMS.
@@ -136,24 +154,6 @@ Then you can verify it worked if you like. (there won't be any tables, but it sh
     $ mariadb -u wiki_wiki -p
     MariaDB> show tables in hsl_wiki;
     MariaDB> exit
-
-## Configure PHP
-
-There are a couple settings that are worth checking in PHP:
-
-    $ cd /etc/php/7.3/apache2/
-    $ grep memory_limit php.ini
-    $ grep upload_max_filesize php.ini
-
-128 megs should be fine for memory.
-
-I'm torn on filesize. I'm trying to fit on a \$5/mo machine with a 40 Gig HDD. Most things other than video for use on the web can be under 2 megs (the default size). I feel like the best answer may be a plugin to store large files in S3 at 1/4th the price. It's not a one-way-door, though. I'm leaving mine at 2 megs for now.
-
-Enable the PHP plugins
-
-    $ sudo phpenmod mbstring
-    $ sudo phpenmod xml
-    $ sudo systemctl restart apache2
 
 ## Download and Unpack MediaWiki
 
