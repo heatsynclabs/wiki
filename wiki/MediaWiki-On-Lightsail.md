@@ -127,6 +127,9 @@ I'm torn on filesize. I'm trying to fit on a \$5/mo machine with a 40 Gig HDD. M
 
 Make sure the PHP plugins are enabled:
 
+    $ sudo phpenmod apcu
+    $ sudo phpenmod curl
+    $ sudo phpenmod intl
     $ sudo phpenmod mbstring
     $ sudo phpenmod xml
     $ sudo systemctl restart apache2
