@@ -107,5 +107,7 @@ First, the basics. You'll need all of these:
 
 Next, the enhancements. These will give MediaWiki extra capabilities. See [Optional Packages](https://www.mediawiki.org/wiki/Manual:Running_MediaWiki_on_Debian_or_Ubuntu#Optional_useful_packages)
 
+    $ sudo apt-get install php-apcu php-intl imagemagick php-cli php-curl git
+
 ---
 *Categories: [Sysadmin Tutorials](Category-Sysadmin-Tutorials)*
