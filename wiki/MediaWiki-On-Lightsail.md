@@ -101,7 +101,7 @@ Wow! OK, that was way easier than I was expecting. Sure, there's the setup that 
 
 ## MediaWiki Supporting Software
 
-    $ sudo apt-get install mysql-server php php-mysql libapache2-mod-php php-xml php-mbstring
+    $ sudo apt-get install mariadb-server php php-mysql libapache2-mod-php php-xml php-mbstring
 
 ---
 *Categories: [Sysadmin Tutorials](Category-Sysadmin-Tutorials)*
