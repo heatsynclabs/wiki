@@ -96,7 +96,7 @@ Finally we'll need mod_rewrite - Let's Encrypt will create conf files that will 
 
 Let's Encrypt will look at your active sites and ask you if you want to create certs for all of them.
 
-Following this tutorial: <https://www.rosehosting.com/blog/how-to-install-lets-encrypt-on-ubuntu-20-04-with-apache/>
+Make sure to use the "Redirect" setting so that any traffic arriving on port 80 gets redirected to the SSL port (443).
 
     $ sudo apt install certbot python3-certbot-apache
     $ sudo certbot --apache
