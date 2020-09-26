@@ -95,6 +95,9 @@ Let's Encrypt will look at your active sites and ask you if you want to create c
 Following this tutorial: <https://www.rosehosting.com/blog/how-to-install-lets-encrypt-on-ubuntu-20-04-with-apache/>
 
     $ sudo apt install certbot python3-certbot-apache
+    $ sudo certbot --apache
+
+Wow! OK, that was way easier than I was expecting. Sure, there's the setup that you have to do, but most of that would have to be done anyway just to get the webserver up. That is really awesome. I'll have to give the EFF a little extra this year.
 
 ---
 *Categories: [Sysadmin Tutorials](Category-Sysadmin-Tutorials)*
