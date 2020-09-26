@@ -86,6 +86,7 @@ After you create the conf files, activate them with a2ensite and disable 000-def
 Finally we'll need mod_rewrite - Let's Encrypt will create conf files that will redirect non-SSL traffic to HTTPS.
 
     $ sudo a2enmod rewrite
+    $ sudo systemctl restart apache2
 
 ## Let's Encrypt SSL Certificate
 
