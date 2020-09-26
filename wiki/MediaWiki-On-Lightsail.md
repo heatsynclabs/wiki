@@ -193,5 +193,11 @@ Point your DocumentRoot at the mediawiki directory. It should look something lik
 
 ## Configure MediaWiki
 
+Walk through the web interface to collect your settings. At the end, it will give you a LocalSettings.php file.
+
+Save the file locally, then upload it to your server and put it in the MediaWiki directory.
+
+After that, the wiki is ready to go. Hit it with your browser and away you go!
+
 ---
 *Categories: [Sysadmin Tutorials](Category-Sysadmin-Tutorials)*
