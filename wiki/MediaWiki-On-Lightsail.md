@@ -105,7 +105,7 @@ First, the basics. You'll need all of these:
 
     $ sudo apt-get install mariadb-server php php-mysql libapache2-mod-php php-xml php-mbstring
 
-Next, the enhancements. These will give MediaWiki extra capabilities. See [https://www.mediawiki.org/wiki/Manual:Running_MediaWiki_on_Debian_or_Ubuntu#Optional_useful_packages Optional Packages](https://www.mediawiki.org/wiki/Manual:Running_MediaWiki_on_Debian_or_Ubuntu)
+Next, the enhancements. These will give MediaWiki extra capabilities. See [Optional Packages](https://www.mediawiki.org/wiki/Manual:Running_MediaWiki_on_Debian_or_Ubuntu#Optional_useful_packages)
 
 ---
 *Categories: [Sysadmin Tutorials](Category-Sysadmin-Tutorials)*
