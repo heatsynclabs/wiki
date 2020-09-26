@@ -167,6 +167,30 @@ Then you can verify it worked if you like. (there won't be any tables, but it sh
     $ tar -xvzf mediawiki-1.35.0.tar.gz
     $ mv mediawiki-1.35.0 /var/www/
 
+## Point Apache at MediaWiki
+
+Note that Let's Encrypt will have replicated your apache .conf file to an SSL version when you redirected traffic from 80 to 443.
+
+    $ sudo emacs -nw /etc/apache2/sites-available/003-wiki-le-ssl.conf
+
+Point your DocumentRoot at the mediawiki directory. It should look something like this:
+
+    <IfModule mod_ssl.c>
+    <VirtualHost *:443>
+        ServerName wiki.traxel.com
+
+        ServerAdmin webmaster@localhost
+        DocumentRoot /var/www/mediawiki-1.35.0
+
+        ErrorLog ${APACHE_LOG_DIR}/wiki-error.log
+        CustomLog ${APACHE_LOG_DIR}/wiki-access.log combined
+
+        SSLCertificateFile /etc/letsencrypt/live/wiki.traxel.com/fullchain.pem
+        SSLCertificateKeyFile /etc/letsencrypt/live/wiki.traxel.com/privkey.pem
+        Include /etc/letsencrypt/options-ssl-apache.conf
+    </VirtualHost>
+    </IfModule>
+
 ## Configure MediaWiki
 
 ---
