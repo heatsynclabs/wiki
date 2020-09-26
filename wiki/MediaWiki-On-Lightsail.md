@@ -133,6 +133,18 @@ Then you can verify it worked if you like. (there won't be any tables, but it sh
     MariaDB> show tables in hsl_wiki;
     MariaDB> exit
 
+## Configure PHP
+
+There are a couple settings that are worth checking in PHP:
+
+    $ cd /etc/php/7.3/apache2/
+    $ grep memory_limit php.ini
+    $ grep upload_max_filesize php.ini
+
+128 megs should be fine for memory.
+
+I'm torn on filesize. I'm trying to fit on a \$5/mo machine with a 40 Gig HDD. Most things other than video for use on the web can be under 2 megs. I feel like the best answer may be a plugin to store large files in S3 at 1/4th the price.
+
 ## MediaWiki
 
     $ cd
