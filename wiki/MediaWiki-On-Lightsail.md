@@ -109,12 +109,16 @@ Next, the enhancements. These will give MediaWiki extra capabilities. See [Optio
 
     $ sudo apt-get install php-apcu php-intl imagemagick php-cli php-curl git
 
+## Configure MariaDB
+
 ## MediaWiki
 
     $ cd
     $ mkdir tmp
     $ cd tmp
     $ wget https://releases.wikimedia.org/mediawiki/1.35/mediawiki-1.35.0.tar.gz
+    $ tar -xvzf mediawiki-1.35.0.tar.gz
+    $ mv mediawiki-1.35.0 /var/www/
 
 ---
 *Categories: [Sysadmin Tutorials](Category-Sysadmin-Tutorials)*
