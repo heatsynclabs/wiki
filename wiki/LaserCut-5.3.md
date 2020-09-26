@@ -1,13 +1,5 @@
 The software for the laser cutter is usable, but certainly not a best case scenario. The software is tied to the motherboard of the machine which is OEM'ed from another company. Our machine has the [MPC6515 Motion Controller](files/MPC6515_Manual-2.pdf) from Leetro, as do most of the laser machines out of China apparently. This board is tied to the LaserCut software (and Corel and Autocad drivers which utilize it) This is btw why all laser cutters out of China use this LaserCut software. Another popular machine using this combo is [Rabbit USA](http://www.rabbitlaserusa.com/) who attempt to do support and documentation in english making them a good resource.
 
-## to add
-
-colors and layers same for lightburn
-
-- colors work
-- layers don't
-- only s2p letters
-
 ### LaserCut Software
 
 - Top right menu with layers (colors): Each layer can cut or engrave, with its own speed, power, output/hidden, and number of times to run.
