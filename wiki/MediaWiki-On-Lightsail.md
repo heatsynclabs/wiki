@@ -111,6 +111,27 @@ Next, the enhancements. These will give MediaWiki extra capabilities. See [Optio
 
 ## Configure MariaDB
 
+It's time to stop generically referring to MariaDB as MySQL. MySQL is a once-great project that is no longer trustworthy. MariaDB is the leading Open Source RDBMS.
+
+If you haven't done anything with it yet, there will be no password.
+
+    $ sudo mariadb -u root
+
+Pick a username for MediaWiki to use (I'm using wiki_wiki as an example).
+
+Pick a database name (I'm using hsl_wiki as an example).
+
+Pick a password other than "CHANGE THIS PASSWORD".
+
+    MariaDB> create database hsl_wiki;
+    MariaDB> grant all on hsl_wiki.* to 'wiki_wiki'@'localhost' identified by 'CHANGE THIS PASSWORD';
+    MariaDB> flush privileges;
+
+Then you can verify it worked if you like.
+
+    $ mariadb -u wiki_wiki -p
+    MariaDB> show tables in hsl_wiki;
+
 ## MediaWiki
 
     $ cd
