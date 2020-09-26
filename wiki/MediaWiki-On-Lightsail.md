@@ -199,5 +199,13 @@ Save the file locally, then upload it to your server and put it in the MediaWiki
 
 After that, the wiki is ready to go. Hit it with your browser and away you go!
 
+## Backup & Recovery
+
+TBD
+
+## Migration from Older Versions
+
+TBD
+
 ---
 *Categories: [Sysadmin Tutorials](Category-Sysadmin-Tutorials)*
