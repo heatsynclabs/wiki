@@ -128,8 +128,11 @@ Once you've fixed your problem, or think you have, you can hit ESC on the machin
 
 #### Document!
 
-1.  Add your results to [logbook](https://docs.google.com/forms/d/1ld4T9pDXP6uqZbYmlebe9SxATHcP436kMobnhSQEKPI/viewform). These are visible [here](https://docs.google.com/spreadsheet/ccc?key=0AoBMPvlNCqvldHl5SERwRHVjN09wRHEtODZzd2RXNWc&usp=sharing)
-2.  Log any issues. Redtag device if necessary.
+Please document your work!
+
+- Work log to [form](https://docs.google.com/forms/d/1ld4T9pDXP6uqZbYmlebe9SxATHcP436kMobnhSQEKPI/viewform).
+- Work log [results](https://docs.google.com/spreadsheet/ccc?key=0AoBMPvlNCqvldHl5SERwRHVjN09wRHEtODZzd2RXNWc&usp=sharing)
+- Log any issues. Redtag device if necessary.
 
 # External links
 
