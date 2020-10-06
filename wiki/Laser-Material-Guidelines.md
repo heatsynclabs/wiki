@@ -214,14 +214,14 @@ Also, I suspect you can use high speed, low power (300/40) for cutting any depth
 
 ## Acrylic
 
-**Note:** Pretty sure cutting speed and power are reversed on a few of these. Anything under 20 Power is effectively 0.
+**Note:** Pretty sure cutting speed and power are reversed on a few of these. Anything under 20 Power is effectively 0. I have now reversed them so the values should be good.
 
 ``\
 `Thick           C Sp    C Pw    E Sp   E Pw    E Scan Gap`\
-`3 mm (1/8") 60  14  30  60`\
-`4 mm    50  5       `\
-`5 mm    70  10      `\
-`6 mm (1/4") 100 10      `
+`3 mm (1/8") 14  60  30  60`\
+`4 mm    5   50  `\
+`5 mm    10      70      `\
+`6 mm (1/4") 10  100     `
 
 ## Plywood
 
