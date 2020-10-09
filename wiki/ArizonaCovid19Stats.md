@@ -15,7 +15,7 @@ For comparison, the top 10 causes of death in AZ (not counting COVID-19, approxi
 - Nephritis, etc: 3
 - Suicide: 3
 
-Source: [https://covidtracking.com/data/state/arizona The COVID Tracking Project](https://covidtracking.com/data/state/arizona_The_COVID_Tracking_Project)
+Source: [The COVID Tracking Project](https://covidtracking.com/data/state/arizona)
 
 ---
 *Categories: [InterestingData](Category-InterestingData)*
