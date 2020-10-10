@@ -260,3 +260,6 @@ Tool change:
 - See configuration, tool table. Each number, with name, and diameter. Height is the offset. (Part of Mach3 is in inches, part may be mm!)
 - To create a tool height offset, go to offsets menu and enter the number in Tool Info. If using gauge block, set the height of it. Manually move the mill, and then click Set Tool Offset. Move on to new tools by typing in a new tool number. Make sure you click Save Tool at the end!
 - Good idea to number each tool physically.
+
+---
+*Categories: [Machine Shop](Category-Machine-Shop), [Mill](Category-Mill)*
