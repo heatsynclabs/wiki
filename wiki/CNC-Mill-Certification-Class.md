@@ -126,4 +126,6 @@ To keep yourself, others, and the machine safe, please follow these safety rules
 1.  Vacuum up any debris
 2.  Clean, oil the ways
 3.  Put away all tooling, material mounts
-4.
+
+---
+*Categories: [Machine Shop](Category-Machine-Shop), [Mill](Category-Mill)*
