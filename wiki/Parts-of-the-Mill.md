@@ -21,3 +21,6 @@ T-slots
 Control computer
 
 MACH3 Manual
+
+---
+*Categories: [Machine Shop](Category-Machine-Shop), [Mill](Category-Mill)*
