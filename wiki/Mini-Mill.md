@@ -146,3 +146,6 @@
 #### Speeds and Feeds
 
 1.  blue/gold chips
+
+---
+*Categories: [Machine Shop](Category-Machine-Shop), [Mill](Category-Mill)*
