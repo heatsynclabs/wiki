@@ -7,3 +7,6 @@
 ## Description
 
 Mini-mill manual from Darrell
+
+---
+*Categories: [Mill](Category-Mill)*
