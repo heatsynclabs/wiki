@@ -1,1 +1,1 @@
-Category to collect info about tools in the machine shop
+Category to consolidation information about tools in the machine shop!
