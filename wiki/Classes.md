@@ -8,7 +8,7 @@ The following people are associated with their respective classes
 
 - Mill - Shaundra Newstead
 - Metal Lathe - Shaundra Newstead
-- CNC Mill - TBD
+- CNC Mill - Darrell Wertz
 - Laser - Milton Williams
 - Welding - Austin Kipp
 - Wood working - Jason Rhiza
