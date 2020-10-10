@@ -147,5 +147,9 @@
 
 1.  blue/gold chips
 
+# Manuals
+
+- [Harbor Freight Model 4491 Mini-mill](files/Mini-mill-manual.pdf)
+
 ---
 *Categories: [Machine Shop](Category-Machine-Shop), [Mill](Category-Mill)*
