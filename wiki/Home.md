@@ -49,7 +49,6 @@
 <li><a href="Podcasts">Podcasts</a></li>
 <li><a href="http://sync.heatsynclabs.org/">The Weekly Sync (Newsletter)</a></li>
 <li><a href="Category-Tutorials"> Tutorials </a></li>
-<li><a href="Category-Utilities"> Utilities </a></li>
 <li><a href="Category-Laser"> Laser Documentation </a></li>
 <li><a href="Category-Machine-Shop"> Machine Shop </a></li>
 <li><a href="Category-InterestingData"> Interesting Data </a></li>
