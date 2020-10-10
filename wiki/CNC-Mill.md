@@ -76,3 +76,6 @@ LinuxCNC Config Files
 [RF-31.pdf](files/RF-31.pdf)
 
 *RF-31.pdf*
+
+---
+*Categories: [Machine Shop](Category-Machine-Shop), [Mill](Category-Mill)*
