@@ -62,7 +62,7 @@ Consumables such as stock, drill/mill bits, adhesives,etc are NOT a right of mem
 
 ### Good Standing
 
-A member shall be considered in good standing if they are current on their dues.
+A member shall be considered in good standing if they are current on their dues or on a current board-approved scholarship.
 
 If a member fails to pay their dues in a given month, HSL will make a good faith effort to contact them for resolution.
 
