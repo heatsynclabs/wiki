@@ -178,9 +178,9 @@ Make sure to save your file as an Inkscape svg.
 
 *save-your-file-as-svg.png*
 
-### Stroke To Path
+### Object To Path
 
-Now you want to turn your text in the file from being strokes (i.e. connected lines) to paths (i.e. long lines with different directions). This is done via the Path -\> Stroke to Path command.
+Now you want to turn your text in the file from being strokes (i.e. connected lines) to paths (i.e. long lines with different directions). This is done via the Path -\> Object to Path command.
 
 ![](files/Stroke-to-path.png)
 
@@ -190,9 +190,9 @@ You might want to save your file again as a different Inkscape SVG after this st
 
 You can be done here if you're planning on working on the [PewPew4500](PewPew4500), but if you want to work on the [PewPew9000](PewPew9000) you'll need to save it as a different format.
 
-#### Do NOT Stroke to Path Everything
+#### Do NOT Object to Path Everything
 
-Unless you have a very good reason. When you do that, you risk turning lines you had, into pairs of strokes. If you select everything and then do "Stroke to Path" on the whole object, this is what it will look like when you bring it into [LaserCut](LaserCut) on the [PewPew9000](PewPew9000).
+Unless you have a very good reason. When you do that, you risk turning lines you had, into pairs of strokes. If you select everything and then do "Object to Path" on the whole object, this is what it will look like when you bring it into [LaserCut](LaserCut) on the [PewPew9000](PewPew9000).
 
 ![](files/Lasercut-all-s2p.jpg)
 
