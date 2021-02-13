@@ -2,6 +2,10 @@
 
 The storage area for the materials used at the laser is a disaster. With little organization we end up with an ever increasing amount of material that is being stored on-site. It's HeatSync Labs, not HeatSync storage. This proposal is to build a series of storage shelves with a system to allow for on-going organization and maintenance.
 
+![](files/PXL_20201228_175920778.jpg)
+
+*File:PXL_20201228_175920778.jpg*
+
 # Overview
 
 The storage is divided up into three spaces. The idea is that these spaces act together to maintain storage and organization over the long term by creating a system where materials are automatically cycled through.
