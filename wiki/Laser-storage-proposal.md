@@ -73,5 +73,13 @@ This is a preliminary design for the storage.
 
 - Current thought is 1/2" plywood for the entire portion, except for the back panel which can be 1/4" since it is not structural, but necessary for square
 
+## Semi-random Decisions
+
+These are design decisions that seemed reasonable but I don't have strong constraints on. Putting them here for transparency.
+
+- Community bins are 20 cm wide
+- Individual bins are 10 cm wide
+- There are 8 individual bins
+
 ---
 *Categories: [Proposals](Category-Proposals)*
