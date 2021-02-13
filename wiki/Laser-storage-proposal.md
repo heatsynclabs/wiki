@@ -29,6 +29,10 @@ This section has 5 bays. 1 of the bays is reserved for equipment (primarily the 
 
 This section has (planned) 8 bays that can be rented by members to hold their materials. The idea is that this is not a profit center, but requires a certain amount of commitment to maintain. Suggestion is that this is a random draw if demand exceeds number of bays, with a monthly cost of \$1/month for using the bay. Draw could happen quarterly or bi-annually at a convenient HYH.
 
+![](files/Laser_storage_bay2.png)
+
+*laser_storage_bay2.png*
+
 ## Space 3: General storage
 
 This is a four bay system setup identical to space 1, but without the equipment space. The four bays are:
