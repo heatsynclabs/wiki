@@ -4,7 +4,7 @@ The storage area for the materials used at the laser is a disaster. With little 
 
 ![](files/PXL_20201228_175920778.jpg)
 
-*File:PXL_20201228_175920778.jpg*
+*PXL_20201228_175920778.jpg*
 
 # Overview
 
