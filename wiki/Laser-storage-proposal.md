@@ -77,7 +77,7 @@ This is a preliminary design for the storage.
 - The overall height should fit within the space currently between the floor and the top overhang (roughly 192 cm)
   - The above two constrain the maximum size of the top smaller section
 - Depth should be enough to allow for materials to not fall out. This specific depth was chosen to allow for two side panels out of a single 4x8 sheet of plywood
-- Maximum width of all 3 bays must be less than X to fit into existing space
+- Maximum width of all 3 bays must be less than 3m to fit into existing space. These designs currently total up to 2.85m
 
 ## Material
 
