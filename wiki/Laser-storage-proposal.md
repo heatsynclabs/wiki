@@ -10,7 +10,7 @@ The storage area for the materials used at the laser is a disaster. With little 
 
 The storage is divided up into three spaces. The idea is that these spaces act together to maintain storage and organization over the long term by creating a system where materials are automatically cycled through.
 
-This is sized to fit into the current space for the storage and "Bike Repair Station". This is a single horizontal cabinet with some tools in one drawer. It receives no use but the tools can be stored upstairs.
+This is sized to fit into the current space for the storage and "Bike Repair Station". The station is a single horizontal cabinet with some tools in one drawer. It receives no use but the tools would be stored elsewhere (upstairs?).
 
 # Estimated materials
 
