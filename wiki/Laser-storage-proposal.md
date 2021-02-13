@@ -20,6 +20,8 @@ This is sized to fit into the current space for the storage and "Bike Repair Sta
 
 ## Space 1: Scrap & Equipment
 
+**Note:** Ok, I didn't put the colors in the render, but they would actually be painted to make it clear.
+
 This section has 5 bays. 1 of the bays is reserved for equipment (primarily the honeycomb screens and cleaning materials). The other 4 bays are for scrap. The bays will be painted with the following color coding:
 
 - Green: Newest scrap
