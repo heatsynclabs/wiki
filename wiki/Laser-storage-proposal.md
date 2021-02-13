@@ -12,6 +12,12 @@ The storage is divided up into three spaces. The idea is that these spaces act t
 
 This is sized to fit into the current space for the storage and "Bike Repair Station". This is a single horizontal cabinet with some tools in one drawer. It receives no use but the tools can be stored upstairs.
 
+# Estimated materials
+
+- 14 sheets of 1/2" plywood
+- 3 sheets of 1/4" plywood
+- Misc screws/nails/glue
+
 ## Space 1: Scrap & Equipment
 
 This section has 5 bays. 1 of the bays is reserved for equipment (primarily the honeycomb screens and cleaning materials). The other 4 bays are for scrap. The bays will be painted with the following color coding:
@@ -66,6 +72,7 @@ This is a preliminary design for the storage.
 
 - The bottom section should be at least 155cm tall to allow for the common sheets to be stacked without requiring that they be angled, to allow for maximum storage
 - The overall height should fit within the space currently between the floor and the top overhang (roughly 192 cm)
+  - The above two constrain the maximum size of the top smaller section
 - Depth should be enough to allow for materials to not fall out. This specific depth was chosen to allow for two side panels out of a single 4x8 sheet of plywood
 - Maximum width of all 3 bays must be less than X to fit into existing space
 
