@@ -17,6 +17,7 @@ This is sized to fit into the current space for the storage and "Bike Repair Sta
 - 14 sheets of 1/2" plywood
 - 3 sheets of 1/4" plywood
 - Misc screws/nails/glue
+- Paint (green, yellow, orange, red)
 
 ## Space 1: Scrap & Equipment
 
