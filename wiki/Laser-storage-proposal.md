@@ -42,6 +42,10 @@ This is a four bay system setup identical to space 1, but without the equipment 
 - Orange: Storage that has been there two cycles
 - Red: Storage that has been there three cycles. The next destination for this bay is the Green bay of scrap.
 
+![](files/Laser_storage_bay3.png)
+
+*laser_storage_bay3.png*
+
 # Process
 
 On a periodic basis (not more frequent than weekly) all materials will be cycled through the bays in the following manner:
