@@ -85,7 +85,7 @@ This is a preliminary design for the storage.
 
 ## Semi-random Decisions
 
-These are design decisions that seemed reasonable but I don't have strong constraints on. Putting them here for transparency.
+These are design decisions that seemed reasonable but I don't have strong constraints on except for overall width available in the space. Putting them here for transparency.
 
 - Community bins are 20 cm wide
 - Individual bins are 10 cm wide
