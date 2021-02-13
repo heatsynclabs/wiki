@@ -21,6 +21,10 @@ This section has 5 bays. 1 of the bays is reserved for equipment (primarily the 
 - Orange: Scrap that is 2 cycles old
 - Red: Scrap that will be trash on the next cycle.
 
+![](files/Screen_Shot_2021-02-12_at_7.18.49_PM.png)
+
+*Screen_Shot_2021-02-12_at_7.18.49_PM.png*
+
 ## Space 2: Limited member storage
 
 This section has (planned) 8 bays that can be rented by members to hold their materials. The idea is that this is not a profit center, but requires a certain amount of commitment to maintain. Suggestion is that this is a random draw if demand exceeds number of bays, with a monthly cost of \$1/month for using the bay. Draw could happen quarterly or bi-annually at a convenient HYH.
