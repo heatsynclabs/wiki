@@ -12,7 +12,7 @@ The storage is divided up into three spaces. The idea is that these spaces act t
 
 This is sized to fit into the current space for the storage and "Bike Repair Station". The station is a single horizontal cabinet with some tools in one drawer. It receives no use but the tools would be stored elsewhere (upstairs?).
 
-# Estimated materials
+## Estimated materials
 
 - 14 sheets of 1/2" plywood
 - 3 sheets of 1/4" plywood
