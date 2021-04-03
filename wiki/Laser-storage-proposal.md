@@ -21,7 +21,7 @@ This is sized to fit into the current space for the storage and "Bike Repair Sta
 
 ## Space 1: Scrap & Equipment
 
-**Note:** Ok, I didn't put the colors in the render, but they would actually be painted to make it obvious which bin was which.
+**Note:** Ok, I did put the colors in the render, but not the back wall, but would be painted.
 
 This section has 5 bays. 1 of the bays is reserved for equipment (primarily the honeycomb screens and cleaning materials). The other 4 bays are for scrap. The bays will be painted with the following color coding:
 
@@ -30,9 +30,9 @@ This section has 5 bays. 1 of the bays is reserved for equipment (primarily the 
 - Orange: Scrap that is 2 cycles old
 - Red: Scrap that will be trash on the next cycle.
 
-![](files/Screen_Shot_2021-02-12_at_7.18.49_PM.png)
+![](files/Laser-storage-color.png)
 
-*Screen_Shot_2021-02-12_at_7.18.49_PM.png*
+*laser-storage-color.png*
 
 ## Space 2: Limited member storage
 
