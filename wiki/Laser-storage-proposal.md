@@ -19,6 +19,15 @@ This is sized to fit into the current space for the storage and "Bike Repair Sta
 - Misc screws/nails/glue
 - Paint (green, yellow, orange, red)
 
+## Estimated cost
+
+Covid has really wreaked havoc on lumber prices. Roughly speaking costs for materials are:
+
+- 4x8 sheet of 1/2 plywood: ~\$50
+- 4x8 sheet of 1/3 plywood: ~\$30
+
+This puts us at \$800 just in basic materials.
+
 ## Space 1: Scrap & Equipment
 
 **Note:** Ok, I did put the colors in the render, but not the back wall, but would be painted.
