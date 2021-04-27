@@ -7,15 +7,13 @@ As discussed in the \[This is not a\] Proposal thread, I have cleaned out, organ
 
 So, I have cleared out and organized all of the material from that area. Here is the before picture:
 
-![](files/Laser_before.jpeg)
-
-*alt text*
+- ![](files/Laser_before.jpeg)
+  *alt text*
 
 And after.
 
-![](files/File.png)
-
-*alt text*
+- ![](files/File.png)
+  *alt text*
 
 Interesting note: There were items that had already been red-tagged. Those are now in the "scrap" area, which will be my next project I guess. Most of them had parking pass dates of 2017 and had been red-tagged in 2019, to give you a sense of their age.
 
@@ -23,9 +21,8 @@ Now, onto the organization:
 
 There is now a pile listed as red-tagged that has material with no identifying information on. So, if you have something you know you had, but can't find, it might be in that pile. It's over by the chair corral/can crusher. (There is now a red-tag sign pointing at it on the sign)
 
-![](files/Noname.jpg)
-
-*alt text*
+- ![](files/Noname.jpg)
+  *alt text*
 
 Disorganized random named items are located next to and on-top of the tables. This includes things like the sheets of glass that couldn't be cut anyway (but maybe etched) If you had one or two things they're likely in here.
 
@@ -35,9 +32,8 @@ Disorganized random named items are located next to and on-top of the tables. Th
 
 Pile of stuff where people had a good number of items.
 
-![](files/PXL_20210426_230338708.jpg)
-
-*alt text*
+- ![](files/PXL_20210426_230338708.jpg)
+  *alt text*
 
 This pile contains material from the following identifications:
 
@@ -52,7 +48,11 @@ This pile contains material from the following identifications:
 - Travis
 - (maybe others?)
 
-Big stack of plywood ![alt text](files/File.png)
+Big stack of plywood
+
+![](files/File.png)
+
+*File.png*
 
 Names on this are Timmons and Crummey
 
