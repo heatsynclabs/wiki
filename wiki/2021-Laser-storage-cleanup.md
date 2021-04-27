@@ -8,7 +8,7 @@ As discussed in the \[This is not a\] Proposal thread, I have cleaned out, organ
 So, I have cleared out and organized all of the material from that area. Here is the before picture:
 
 - ![](files/Laser_before.jpeg)
-  *alt text*
+  *laser_before.jpeg*
 
 And after.
 
@@ -22,18 +22,18 @@ Now, onto the organization:
 There is now a pile listed as red-tagged that has material with no identifying information on. So, if you have something you know you had, but can't find, it might be in that pile. It's over by the chair corral/can crusher. (There is now a red-tag sign pointing at it on the sign)
 
 - ![](files/Noname.jpg)
-  *alt text*
+  *noname.jpg*
 
 Disorganized random named items are located next to and on-top of the tables. This includes things like the sheets of glass that couldn't be cut anyway (but maybe etched) If you had one or two things they're likely in here.
 
 ![](files/File.png)
 
-*alt text*
+*File.png*
 
 Pile of stuff where people had a good number of items.
 
 - ![](files/PXL_20210426_230338708.jpg)
-  *alt text*
+  *PXL_20210426_230338708.jpg*
 
 This pile contains material from the following identifications:
 
