@@ -12,10 +12,12 @@ So, I have cleared out and organized all of the material from that area. Here is
 
 And after.
 
-- ![](files/File.png)
+- ![](files/Laser_after.jpg)
   *alt text*
 
-Interesting note: There were items that had already been red-tagged. Those are now in the "scrap" area, which will be my next project I guess. Most of them had parking pass dates of 2017 and had been red-tagged in 2019, to give you a sense of their age.
+Interesting note:
+
+- There were items that had already been red-tagged. Those are now in the "scrap" area, which will be my next project I guess. Most of them had parking pass dates of 2017 and had been red-tagged in 2019, to give you a sense of their age.
 
 Now, onto the organization:
 
@@ -26,9 +28,9 @@ There is now a pile listed as red-tagged that has material with no identifying i
 
 Disorganized random named items are located next to and on-top of the tables. This includes things like the sheets of glass that couldn't be cut anyway (but maybe etched) If you had one or two things they're likely in here.
 
-![](files/File.png)
+![](files/Misc.jpg)
 
-*File.png*
+*misc.jpg*
 
 Pile of stuff where people had a good number of items.
 
@@ -50,9 +52,9 @@ This pile contains material from the following identifications:
 
 Big stack of plywood
 
-![](files/File.png)
+![](files/Plywood.jpg)
 
-*File.png*
+*plywood.jpg*
 
 Names on this are Timmons and Crummey
 
