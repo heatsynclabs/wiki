@@ -13,13 +13,13 @@ So, I have cleared out and organized all of the material from that area. Here is
 And after.
 
 - ![](files/Laser_after.jpg)
-  *alt text*
+  *laser_after.jpg*
 
-Interesting note:
+## Interesting note
 
 - There were items that had already been red-tagged. Those are now in the "scrap" area, which will be my next project I guess. Most of them had parking pass dates of 2017 and had been red-tagged in 2019, to give you a sense of their age.
 
-Now, onto the organization:
+## Organization
 
 There is now a pile listed as red-tagged that has material with no identifying information on. So, if you have something you know you had, but can't find, it might be in that pile. It's over by the chair corral/can crusher. (There is now a red-tag sign pointing at it on the sign)
 
