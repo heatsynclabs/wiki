@@ -67,3 +67,11 @@ There are also separate piles set aside and individually tagged from:
 Nathan has also parking passed his material and put it in the storage bin.
 
 Apologies on the temporary clutter around the lab. I struggled with making things accessible and not having them in the way.
+
+## Future work
+
+- Organize the existing 3 bins by last name with 4th reserved for HSL materials.
+  - A-G
+  - H-O
+  - P-Z
+  - Note: Chosen by splitting up last names from census data into approximate thirds. [Github link](https://gist.github.com/apendleton/2638865).
