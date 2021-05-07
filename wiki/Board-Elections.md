@@ -31,10 +31,6 @@ Questions for everyone!\
 
 See this [link](http://wiki.heatsynclabs.org/wiki/Board_Members) for current members.
 
-## Interested Parties Nomination Speeches
-
-**Insert Nomination Speeches Here**
-
 ## Previous Board Members
 
 |  |  |
