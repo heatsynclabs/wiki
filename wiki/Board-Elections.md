@@ -43,7 +43,7 @@ See this [link](http://wiki.heatsynclabs.org/wiki/Board_Members) for current mem
 | **PR/Marketing (obsolete role)** | Rick Osgood |
 | **Editor (obsolete role)** | David H. |
 | **Event Coordinator (obsolete role)** | Consolidated into secretary role |
-| **Fundraising/Social Coordinator (obsolete role)** | Split between Marketing and individual champions of fundraising ideas who will communicate with scribe |
+| **Fundraising/Social Coordinator (obsolete role)** | Split between marketing and individual champions of fundraising ideas who will communicate with scribe |
 | **Resource Manager (obsolete role)** | Andre Sprague |
 | **Legal** | External party, paid service |
 | **Accountant/CPA** | External party, paid service |
