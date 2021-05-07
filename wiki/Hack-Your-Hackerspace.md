@@ -2,30 +2,30 @@
 
 Also see [Past/Upcoming HYH Agendas](Category-HYH)
 
-HYH is the members' night to get stuff done around the space. It is NOT a discussion time, but a time when we gather to GET SHIT DONE and make our space better. That includes voting on proposals, helping out at the lab, helping with community projects, and planning projects.
+HYH is the members' night to get stuff done around the space. It is not a discussion time, but a time when we gather to make decisions and and make our space better. That includes voting on proposals, helping out at the lab, helping with community projects, and planning projects.
 
 # Before the meeting:
 
 - Proposals for voting are posted on the email list board immediately following HYH for the next HYH period
 - An [example of a card access proposal](https://groups.google.com/forum/?fromgroups=#!searchin/heatsynclabs/proposal$20brooks/heatsynclabs/Is9dKu2nL10/bpruN_vqsWUJ) may be found in the archives, but in general should stress how the person fits in the community, what projects they work on, what service they've done, and how they hold our values.
-- Proposals locked 1 week before HYH
-- Proposals should be small in scope, operational, and actionable. (IE "I've made and tested this xxx system", can we make it official, not "I propose we need an xxx system")
-- Members have the ability to dismiss a proposal because they feel it's too broad and should be handled by the board
-- Proposals should be discussed in depth on the forums prior to HYH. IE not "+1" or "I agree"
+- Proposals locked one week before HYH
+- Proposals should be small in scope, operational, and actionable. (i.e. "I've made and tested this xxx system", and I'd make it official, not "I propose we need an xxx system")
+- Members have the ability to dismiss a proposal because they feel it's too broad or should be handled by the board
+- Proposals should be discussed in depth on the forums prior to HYH. Please try to say something of more substance than "+1" or "I agree."
 
 # At the meeting:
 
 - Any member can begin the meeting promptly at 7, with or without a quorum of 8 members.
 - The first part is the vote; voting happens quickly, generally without discussion.
   - Member moderating the meeting picks a notetaker before the meeting who pulls up the latest meeting's [:Category:HYH](Category-HYH) page and displays it on the projector.
-  - If there's no quorum, the vote may be skipped or delayed til later in the meeting.
-  - A majority vote wins (abstains are OK, if 2 vote yea 1 vote nay and 5 abstain, the vote passes.)
+  - If there's no quorum, the vote may be skipped or delayed until later in the meeting.
+  - A majority vote wins (abstains are not counted toward a vote, so if two vote yea, one votes nay and five abstain, the vote passes.)
 - Voting results will be sent to the mailing list Friday morning.
 - The second part is getting stuff done:
   - Clean/fix/replace/action everything.
   - Review the lost and found box and post contents to the lost and found thread here: <http://groups.google.com/group/heatsynclabs/browse_thread/thread/7f7aac4217cbd24d>
   - Check stations and broken tools bin for broken equipment.
-  - Check stock of cups/tp/cleaning products sufficient, notify Operations if not.
+  - Check if stock of cups/toilet paper/cleaning products is sufficient, and notify operations if not.
   - Review upstairs storage
   - Process donations
     - Organize, repair, or mark for tear-apart/recycle/throw away.
