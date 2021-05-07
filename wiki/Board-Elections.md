@@ -29,7 +29,7 @@ Questions for everyone!\
 
 ## Current Board Members
 
-See this [1](http://wiki.heatsynclabs.org/wiki/Board_Members) for current members.
+See this [link](http://wiki.heatsynclabs.org/wiki/Board_Members) for current members.
 
 ## Interested Parties Nomination Speeches
 
@@ -46,7 +46,7 @@ See this [1](http://wiki.heatsynclabs.org/wiki/Board_Members) for current member
 | **Operations Manager (formerly called IT Administrator)** | Zachary Giles, Will Bradley, Nate Plamondon, Gabe Finke |
 | **PR/Marketing (obsolete role)** | Rick Osgood |
 | **Editor (obsolete role)** | David H. |
-| **Event Coordinator (obsolete role)** | Consolidated into Scribe Role |
+| **Event Coordinator (obsolete role)** | Consolidated into secretary role |
 | **Fundraising/Social Coordinator (obsolete role)** | Split between Marketing and individual champions of fundraising ideas who will communicate with scribe |
 | **Resource Manager (obsolete role)** | Andre Sprague |
 | **Legal** | External party, paid service |
