@@ -29,7 +29,7 @@ Questions for everyone!\
 
 ## Current Board Members
 
-See this [link](http://www.heatsynclabs.org/contact/board/) for current members.
+See this [1](http://wiki.heatsynclabs.org/wiki/Board_Members) for current members.
 
 ## Interested Parties Nomination Speeches
 
