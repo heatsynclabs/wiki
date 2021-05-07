@@ -17,10 +17,10 @@ There is much written about how large a board should be. Some non profits will s
 ## Board Meeting
 
 **When**: Quarterly\
-**Time**: 7pm\
+**Time**: 6pm\
 **Place**: HeatSync Labs\
-140 West Main St.\
-Tempe, AZ 85201
+108 West Main St.\
+Mesa, AZ 85201
 
 ## Interested In Being a Board Member?
 
@@ -39,14 +39,15 @@ See this [link](http://www.heatsynclabs.org/contact/board/) for current members.
 
 |  |  |
 |----|----|
-| **Position** | **People Interested** |
-| **Champion** | Jacob Rosenthal, Jeremy Leung |
-| **Secretary/Scribe** | Andrea Young |
-| **Treasurer/CPA** | Shannon McCormick |
-| **PR/Marketing** | Rick Osgood |
-| **Editor** | David H. |
-| **IT Administrator** | Zachary Giles, Will Bradley |
-| **Event Coordinator** | Consolidated into Scribe Role |
-| **Fundraising/Social Coordinator** | Split between Marketing and individual champions of fundraising ideas who will communicate with scribe. |
-| **Resource Manager** | Andre Sprague |
-| **Legal** | External Party |
+| **Position** | **Alumni** |
+| **Champion** | Jacob Rosenthal, Jeremy Leung, Luis Montes, Ryan McDermott, Larry Campbell, Trish Blickfeldt, Milton Williams, Shaundra Newstead, Greg Oswalt, Eric Wood, Mike Wolfson |
+| **Secretary/Scribe** | Andrea Young, Eric Ose, Alyson Zepeda, Luis Montes |
+| **Treasurer** | Boots, David Flores |
+| **Operations Manager (formerly called IT Administrator)** | Zachary Giles, Will Bradley, Nate Plamondon, Gabe Finke |
+| **PR/Marketing (obsolete role)** | Rick Osgood |
+| **Editor (obsolete role)** | David H. |
+| **Event Coordinator (obsolete role)** | Consolidated into Scribe Role |
+| **Fundraising/Social Coordinator (obsolete role)** | Split between Marketing and individual champions of fundraising ideas who will communicate with scribe |
+| **Resource Manager (obsolete role)** | Andre Sprague |
+| **Legal** | External party, paid service |
+| **Accountant/CPA** | External party, paid service |
