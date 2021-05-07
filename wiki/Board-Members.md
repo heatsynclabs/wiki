@@ -4,11 +4,11 @@ If you would like to contact everyone on the Board, drop a line to board \[at\] 
 
 ## Current Board Members
 
-- Milton Williams, Champion
-- Trish Blickfeldt, Champion
+- Shaundra Newstead, Champion
+- Mike Wolfson, Champion
 - David Flores, Treasurer
-- Alyson Zepeda, Secretary
-- Nate Plamondon, Operations
+- Luis Montes, Secretary
+- Gabe Finke, Operations
 
 ## Board Elections
 
