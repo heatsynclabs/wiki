@@ -11,7 +11,7 @@ The role of the Board of HeatSync Labs has three parts:
 - Convert strangers into members
 - Serve on committees
 - Fund raise
-- Evangelize HeatSync
+- Promote HeatSync
 - Staff HSL personally or find someone to to make sure we're 'open' during open hours
 - Ensure that the charitable purpose of our 501(c)3 is upheld. (See our [501(c)3 Filings](501(c)3-Filings))
 
