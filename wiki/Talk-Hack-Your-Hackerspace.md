@@ -1,0 +1,3 @@
+I changed "make decisions" to "get things done"
+
+Making decisions is a process that also requires discussion. Historically Hack Your Hackerspace has tried to reduce the amount of time discussing things and maximize the amount of time physically working on improving things. 3 reasons; discussions can be done remotely and actually improving the space cannot. HSL google group discussions are better for hashing out details because they are there for everyone to see and chime in on even if they can't make it to the meeting. Anything said the day of a proposal is too late for any changes to the proposal.
