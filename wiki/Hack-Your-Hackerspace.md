@@ -2,7 +2,7 @@
 
 Also see [Past/Upcoming HYH Agendas](Category-HYH)
 
-HYH is the members' night to get stuff done around the space. It is not a discussion time, but a time when we gather to make decisions and and make our space better. That includes voting on proposals, helping out at the lab, helping with community projects, and planning projects.
+HYH is the members' night to get stuff done around the space. It is not a discussion time, but a time when we gather to get things done and and make our space better. That includes voting on proposals, helping out at the lab, helping with community projects, and planning projects.
 
 # Before the meeting:
 
