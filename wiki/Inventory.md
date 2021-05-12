@@ -53,6 +53,6 @@ Any equipment or material that has an expired parking pass can be red-tagged at 
 
 - Fill out a red tag and attach it to the item in question
 - Make a good faith effort to contact the member that owns the material. This means you should:
-  - Call or email the contact information on the parking pass.
+  - Call/text/email the contact information on the parking pass.
   - Post to the Google group about the red tag.
   - Post in slack (#red_tags) about the red tag. @ the member directly as well to let them know.
