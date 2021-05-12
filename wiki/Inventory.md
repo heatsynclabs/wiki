@@ -16,7 +16,7 @@ Heatsync Labs is a Hackerspace, not a storage space. As a result it should be ac
 
 # What doesn't this apply to
 
-- Heatsync
+- Heatsync tools
 - Heatsync materials
 - Member tools on long-term loan to Heatsync
 
