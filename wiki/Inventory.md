@@ -47,7 +47,7 @@ Flat stock has slightly different rules due to the fact that it is bulky to tran
 
 # Red tags
 
-Any equipment or material that has an expired parking pass can be red-tagged at any time. Red tags are valid for 14 days. Any time after 14 days the material can either be taken by a member or discarded.
+Any equipment or material that has an expired or invalid (lacking date or member information) parking pass can be red-tagged at any time. Red tags are valid for 14 days. Any time after 14 days the material can either be taken by a member or discarded.
 
 ## Process
 
