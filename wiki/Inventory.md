@@ -1,8 +1,4 @@
-It appears that no topic is more divisive that the on-going tension between people who want to keep things that could be used for projects and those who want the lab to be clutter free. The most divisive Google discussion group discussions appear to revolve around this conflict.
-
-- [June 2018](https://groups.google.com/g/heatsynclabs/c/tfLTdJalsA8/m/cCzbDKp3BwAJ)
-- [August 2019](https://groups.google.com/g/heatsynclabs/c/e1_QVnD-jIs/m/4xGuJ9FfEQAJ)
-- [May 2021](https://groups.google.com/g/heatsynclabs/c/OzKsX1lygW0)
+This documents Heatsync Labs policies around inventory management.
 
 # Position statement
 
