@@ -21,6 +21,18 @@ QR code and link point to a page for details.
 
 Each of the assets will be stored in a spreadsheet (Google sheet) to allow for tracking and management.
 
+### Proposed Data Fields
+
+- Asset tag number
+- Description
+- Date acquired
+- Station it belongs to
+- Owner (HSL or other)
+- Is it a long term loan?
+- Disposal requirements (e.g. for donated items)
+- Requires training
+- Whatever else
+
 ### Example
 
 - [Google sheet](https://docs.google.com/spreadsheets/d/1gctZysF9LWCdm0eKXy08uFr6eEs-peLb-nx2_6lBaAA/edit?usp=sharing)
