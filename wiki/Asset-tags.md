@@ -37,7 +37,11 @@ Things that need them. Seriously, let's try to be reasonable. Here are some guid
 
 QR code and link point to a page for details.
 
-This tag would be printed out on a durable material and then put on the asset. Ideally somewhere that is obvious without being obnoxious.
+This tag would be printed out on a durable material and then put on the asset.
+
+### Location
+
+The tag should be placed as close to the serial number as is reasonable.
 
 ### Additional Thoughts
 
