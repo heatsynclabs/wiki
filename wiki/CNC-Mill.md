@@ -55,11 +55,11 @@ There are two CAM programs we will be providing:
 
 Both CAM programs are currently installed on the HP workstation on the large wooden table near the electronics station and laser. That computer also has Autocad, which is also very useful for designing parts.
 
-### MACH3
+### CENTROID CNC12
 
-MACH3 is the control software we have chosen to do the actual running of the machine. It reads G-code and executes it on the machine, controlling the stepper motors and spindle in according to the instructions in the G-code
+CENTROID is the 2021 upgrade which replaces MACH3 control. CENTROID runs on Windows10 and eliminates the need for the computer to have a parallel port. It reads G-code and executes it on the machine, controlling the stepper motors and spindle in according to the instructions in the G-code
 
-The manual for MACH3 can be downloaded here: <http://www.machsupport.com/documentation.php>
+The manual for CENTROID CNC12 can be downloaded here: <https://www.centroidcnc.com/centroid_diy/centroid_manuals.html>
 
 There is also a printed copy in a binder at the CNC workstation.
 
