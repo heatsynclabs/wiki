@@ -32,6 +32,7 @@ This is a partial list of the materials that can and can not be used for various
 - Vinyl
 - PVC -- or anything containing PVC
   - The C in PVC is chloride, which, when burnt will create [chlorine gas](https://emergency.cdc.gov/agent/chlorine/basics/facts.asp). Just don't.
+- [Polycarbonate](https://cpl.org/wp-content/uploads/NEVER-CUT-THESE-MATERIALS.pdf)
 
 # Key
 
