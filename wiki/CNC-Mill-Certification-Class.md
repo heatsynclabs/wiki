@@ -103,7 +103,7 @@ To keep yourself, others, and the machine safe, please follow these safety rules
 
 ### Power up the machine
 
-## Using MACH3
+## Using Centroid CNC12
 
 ### How to simulate your G-code program
 
