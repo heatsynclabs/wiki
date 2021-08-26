@@ -109,7 +109,7 @@ To keep yourself, others, and the machine safe, please follow these safety rules
 
 ### How to load G-code
 
-### How to job the table
+### How to jog the table
 
 ### How to home the machine
 
