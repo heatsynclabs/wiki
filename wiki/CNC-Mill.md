@@ -60,6 +60,8 @@ There are several CAM programs available:
 
 HeatSync does not currently have a CAD Workstation. Hopefully we will get one in the future
 
+FreeCad Getting Started Wiki: [1](https://wiki.freecadweb.org/Getting_started)
+
 ### CENTROID CNC12
 
 CENTROID is the 2021 upgrade which replaces MACH3 control. CENTROID runs on Windows10 and eliminates the need for the computer to have a parallel port. It reads G-code and executes it on the machine, controlling the stepper motors and spindle in according to the instructions in the G-code
