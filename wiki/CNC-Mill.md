@@ -32,28 +32,33 @@ Config is as follows:
 
 ## Software Toolchain
 
-To be certified, you need to know MACH3 at a minimum.
+To be certified, you need to know Centroid CNC at a minimum.
 
 But you will need to learn all the programs in the toolchain to design, code, and mill a part.
 
 ### CAD
 
-You need to use a CAD program to create the actual design of the part you wish to mill. This can be done in either SolidWorks or AutoCad. Basic CAD functionality is also available in CamBam. For basic projects, that will mean one less program to have to use.
+You need to use a CAD program to create the actual design of the part you wish to mill. This can be done in either SolidWorks, AutoCad or Fusion 360. Basic CAD functionality is also available in CamBam. For basic projects, that will mean one less program to have to use.
 
 ### CAM
 
 CAM software takes the part you created with your CAD software, and generates the necessary G-code to actually mill the part. The G-code is then executed by the machine, creating the part.
 
-There are two CAM programs we will be providing:
+There are several CAM programs available:
 
-- HSMXpress is a SolidWorks plugin for doing g-code generation from within solidworks directly on a part. The express version only comes with the documentation that is in its help file, accessed in the plugin itself.
+- [Fusion360](Fusion360) is an integrated CAD-CAM which has a free version at the time of this edit. Autodesk has been reducing features in the free version over time trying to force people onto the paid version.
 
 <!-- -->
 
-- CamBam is the CAM program that can handle most everything, and the manual can be found at <http://www.cambam.info/doc/>
+- [HSMXpress](HSMXpress) is a SolidWorks plugin for doing g-code generation from within Solidworks directly on a part. The express version only comes with the documentation that is in its help file, accessed in the plugin itself.
+  - Please make sure you're copy of Solidworks is properly licensed as Dassault tracks licenses by IP Address online and prosecutes for piracy.
+
+<!-- -->
+
+- [CamBam](CamBam) is the CAM program that can handle most everything, and the manual can be found at <http://www.cambam.info/doc/>
   - A printed CamBam manual is also kept at the CNC workstation.
 
-Both CAM programs are currently installed on the HP workstation on the large wooden table near the electronics station and laser. That computer also has Autocad, which is also very useful for designing parts.
+HeatSync does not currently have a CAD Workstation. Hopefully we will get one in the future
 
 ### CENTROID CNC12
 
