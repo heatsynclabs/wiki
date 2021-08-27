@@ -1,5 +1,7 @@
 ## Overview
 
+*Note: Approved by vote at the 2021-08-26 Hack Your Hackerspace*
+
 There needs to be a way to track HSL assets. This is helpful for a number of reasons:
 
 - Helps with managing [Inventory](Inventory)
