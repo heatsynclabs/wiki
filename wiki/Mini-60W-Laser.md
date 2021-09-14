@@ -2,6 +2,12 @@
 
 This is the "smaller laser" It's a 60W CO2 laser
 
+## What you can cut
+
+These lists are not exhaustive. If your material is not on either list, ask first!
+
+- See the [Laser Material Guidelines](Laser-Material-Guidelines) for a list of materials and common speed and power settings.
+
 # Size
 
 Bed dimensions are are approximately 70 cm x 50 cm
