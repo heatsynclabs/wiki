@@ -1,6 +1,10 @@
 # Overview
 
-This is the "smaller laser" or "the laser fewer people know how to use". It's a 60W laser with a bed that is roughly 70 cm x 50 cm
+This is the "smaller laser" It's a 60W CO2 laser
+
+# Size
+
+Bed dimensions are are approximately 70 cm x 50 cm
 
 # Turn on the laser
 
