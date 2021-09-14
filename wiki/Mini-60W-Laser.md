@@ -8,6 +8,10 @@ These lists are not exhaustive. If your material is not on either list, ask firs
 
 - See the [Laser Material Guidelines](Laser-Material-Guidelines) for a list of materials and common speed and power settings.
 
+# Lightburn Software
+
+<https://lightburnsoftware.github.io/NewDocs/index.html>
+
 # Size
 
 Bed dimensions are are approximately 70 cm x 50 cm
