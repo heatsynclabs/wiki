@@ -18,7 +18,7 @@ Heatsync Labs is a Hackerspace, not a storage space. As a result it should be ac
 
 # How can I tell which is which?
 
-Lab equipment should have an [asset tag](Asset-tag).
+Lab equipment should have an [asset tags](Asset-tags).
 
 # Parking Passes
 
