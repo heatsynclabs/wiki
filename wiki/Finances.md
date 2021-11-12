@@ -2,7 +2,7 @@ Finances are the domain of the Treasurer. HeatSync attempts to be as open book t
 
 # Purchasing and Reimbursement Policy
 
-The following are the currently recognized ways for Heatsync Labs to spend it's money:
+The following are the currently recognized ways for Heatsync Labs to spend its money:
 
 - Individual members granted spending responsibilities through a Hack Your Hackerspace vote, or board election.
 - A proposal to Hack Your Hackerspace, specifying what equipment to buy, and passed by a majority vote.
