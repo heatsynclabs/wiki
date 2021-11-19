@@ -2,10 +2,16 @@ Welcome to HeatSync Labs.
 
 You can see our full calendar on our [website here](http://www.heatsynclabs.org/)
 
-Soldering Touch Sensitive Robots is on Friday May 10th from 6pm - 8pm [register here](https://guestli.st/609573)
+Public Hours Monday and Tuesday evenings 7pm - 10pm FREE
 
-You can [sign up here](https://www.heatsynclabs.org/register) to get notified of events and classes you are interested in when they get added to the calendar.
+Arduino Night on the First Wednesday of every month next one December 1st 7pm - 10pm FREE
 
-We have Young Makers Nights on the 1st and 3rd Friday of the month from 7pm - 10pm.
+3d Printer Day first Saturday every month, Next one Saturday December 4th noon - 5pm FREE
+
+Build-A-Bot; Saturday December 4th, 5pm - 8pm, cost \$25
+
+Light Up Graham Cracker Houses; Saturday December 11th, 1pm - 5pm, cost \$17
+
+Check calendar for certification and other classes.
 
 Come make things at HeatSync Labs!
