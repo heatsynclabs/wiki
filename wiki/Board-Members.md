@@ -2,11 +2,11 @@ HeatSync Labs is run by a Board of Directors, which aids in procedural and finan
 
 ## Current Board Members
 
-- Shaundra Newstead, Champion
-- Mike Wolfson, Champion
-- David Flores, Treasurer
-- Luis Montes, Secretary
-- Gabe Finke, Operations
+- Darrell Wertz, Champion
+- Jot Powers, Champion
+- Eric Wood, Treasurer
+- Shaundra Newstead, Secretary
+- Andrew Lewton, Operations
 
 ## Board Elections
 
