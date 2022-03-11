@@ -1,7 +1,7 @@
 The role of the Board of HeatSync Labs has three parts:
 
 - To Guide the Community in the fulfillment of our mission and goals.
-- To Represent the Will of the Community where an official representation is necessary to interface with other organizations and to fulfil the Law of the land.
+- To Represent the Will of the Community where an official representation is necessary to interface with other organizations and to fulfill the Law of the land.
 - To Empower the Individuals that make up the Community of HeatSync Labs to take Action towards the ends of fulfilling our goals and mission.
 
 Current [Board Members](Board-Members)
@@ -44,7 +44,7 @@ Current [Board Members](Board-Members)
 - Timely updates to the board
 - Taxes, IRS communication
 - Collecting receipts for sales
-- Delivering receipts to donators, with tax exempt notification (as easy as possible)
+- Delivering receipts to donors, with tax exempt notification (as easy as possible)
 - Improving sales process to make it easy for customers (with IT/Marketing help)
 - Set up accounts with vendors
 - Purchasing (processing orders)
@@ -83,7 +83,7 @@ The Operations manager should be good at inspiring volunteers, delegating, follo
   - Internet
   - Internets
   - Door Access
-  - Wifi
+  - WiFi
 - Marketing
   - Websites
   - Social media
