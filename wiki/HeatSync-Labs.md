@@ -1,6 +1,6 @@
 ## Our Purpose
 
-HeatSync Labs is an Arizona nonprofit organization aimed at empowering engineers, artists, and inventors to push the limits of technology beyond its intended use. We host public meetups M-F 7p-10pm.
+HeatSync Labs is an Arizona nonprofit organization aimed at empowering engineers, artists, and inventors to push the limits of technology beyond its intended use. We host public hours (that are posted on the our calendar).
 
 The concept for HeatSync Labs came out of the desire for a group of Arizona locals to get together and continue working on projects after academic life. We wanted a place to share tools, space, and ideas with fellow hackers and makers.
 
