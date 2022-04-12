@@ -9,10 +9,9 @@ Also see: [Amazon Wishlist](http://heatsynclabs.org/wishlist)
 
 ### Building Needs
 
-- New vinyl for front sign 12' x 14"
-
 <div style="text-decoration: line-through">
 
+- New vinyl for front sign 12' x 14"
 - New projector
   </div>
 
