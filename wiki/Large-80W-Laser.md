@@ -1,6 +1,6 @@
 # Overview
 
-This is the quick guide for the large **80W Laser Cutter**.
+This is the quick guide for the **Large 80W Laser Cutter**.
 
 ## Size
 
@@ -142,13 +142,13 @@ Once you've fixed your problem, or think you have, you can hit ESC on the machin
 
 #### Document
 
-1.  **Enter** your project using the [80 Watt Laser Form](https://forms.gle/ieRTGmS3ipfLVE7Z9)
-2.  **View** projects using the [80 Watt Laser Responses](https://docs.google.com/spreadsheets/d/1BpAYtyFIKQ4UoXv31mKC43YFxfBk34d_q-muw1SP2aU/edit?usp=sharing)
+1.  **Enter** your project using the [Large 80W Laser FORM](https://forms.gle/ieRTGmS3ipfLVE7Z9)
+2.  **View** projects using the [Large 80W Laser RESPONSES](https://docs.google.com/spreadsheets/d/1BpAYtyFIKQ4UoXv31mKC43YFxfBk34d_q-muw1SP2aU/edit?usp=sharing)
 
 # Logs
 
-- [80 Watt Laser Form](https://forms.gle/ieRTGmS3ipfLVE7Z9)
-- [80 Watt Laser Responses](https://docs.google.com/spreadsheets/d/1BpAYtyFIKQ4UoXv31mKC43YFxfBk34d_q-muw1SP2aU/edit?usp=sharing)
+- [Large 80W Laser FORM](https://forms.gle/ieRTGmS3ipfLVE7Z9)
+- [Large 80W Laser RESPONSES](https://docs.google.com/spreadsheets/d/1BpAYtyFIKQ4UoXv31mKC43YFxfBk34d_q-muw1SP2aU/edit?usp=sharing)
 
 ## Old logs
 
