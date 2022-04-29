@@ -57,6 +57,11 @@ The process for focusing the laser is the same for both lasers, the only differe
 
 Please, log your work. This is important to understand maintenance needs, as well as building a database of materials and power/speed settings to make figuring out settings easier.
 
+- [60W work form](https://forms.gle/sYVUxXivxsEqdEYp8)
+- [60W responses](https://docs.google.com/spreadsheets/d/1tDxqWNbrJ9M5UuvxpV4khA5Drt6HOfNuQRQbdNvYTxM/edit?usp=sharing)
+
+## Old Logs
+
 - [Mini-laser work form](https://docs.google.com/forms/u/0/d/e/1FAIpQLSdCqAez_T_orQlXTbbgQC_OeXvEhC7uHbVpiTnmfmoraFjPQA/formResponse)
 - [Mini-laser work log](https://docs.google.com/spreadsheets/d/1gItwjL4vfXwAsAQZ4dHuAlmoJ7lkLDme82yCei9KeF8/edit#gid=1432871391)
 
