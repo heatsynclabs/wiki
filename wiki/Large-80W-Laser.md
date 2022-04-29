@@ -128,6 +128,13 @@ Once you've fixed your problem, or think you have, you can hit ESC on the machin
 
 #### Document!
 
+# Logs
+
+- [80 Watt Laser Form](https://forms.gle/ieRTGmS3ipfLVE7Z9)
+- [80 Watt Laser Responses](https://docs.google.com/spreadsheets/d/1BpAYtyFIKQ4UoXv31mKC43YFxfBk34d_q-muw1SP2aU/edit?usp=sharing)
+
+## Old logs
+
 Please document your work!
 
 - Work log to [form](https://docs.google.com/forms/d/1ld4T9pDXP6uqZbYmlebe9SxATHcP436kMobnhSQEKPI/viewform).
