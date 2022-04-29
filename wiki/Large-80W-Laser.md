@@ -1,10 +1,14 @@
 # Overview
 
-This is the main quick guide for the large laser cutter (aka PewPew9000 for reasons I'm sure the old-timers can explain). It will likely get rearranged, but in phases.
+This is the main quick guide for the large **80W Laser Cutter**.
 
 ## Size
 
-The largest material that will fit in the laser is 48" x 32" but the cutting area is smaller.
+The cutting area is 1200mm x 800mm.
+
+The largest material that will fit in the laser is 48"(w) x 32"(d).
+
+*Material longer than 32" can extend thru the read door flap.*
 
 ## What you can cut
 
@@ -106,27 +110,40 @@ Once you've fixed your problem, or think you have, you can hit ESC on the machin
     2.  If you must suspend you can open the hood or click 'Start' again.
     3.  Avoid using "Stop" or "Pause" if possible.
 
-### Finishing
+## Finishing
 
-1.  Finished?
-    1.  Wait for cooldown and exhaust to clear
-        1.  Temperature display should be below 25°C
-    2.  Turn off the key lock switch
-2.  Verify the following are off:
-    1.  1.  Laser Cutter
-        2.  Chiller
-        3.  Exhaust
-        4.  Air Compressor
+#### Power Down
 
-#### Clean up the machine
+1.  Power Down
+    1.  Wait for smoke/fumes to clear
+    2.  Wait for cooldown (\<25°C)
+    3.  Turn off the **Key-Lock** switch *(this **automatically** turns off attached equipment)*
+2.  Verify the following have automatically powered down:
+    1.  Laser Cutter
+    2.  Chiller
+    3.  Exhaust Blower *(exhaust blower remains on if **either** laser machine is on)*
+    4.  Air Compressor
+
+#### Clean the Machine *(with paper towels and alcohol)*
 
 1.  Rails
-    1.  Clean each rails with a rag and alcohol. Gloves are recommended.
 2.  Scraps
 3.  Drawer
 4.  Hood
+5.  Lens Cone *(**gently!**)*
 
-#### Document!
+#### Clean the Work Area
+
+1.  Computer Desk *(don't forget your **Flash-Drive**)*
+2.  Work Table
+3.  Work Area
+4.  Scrap Area
+5.  Empty Trash
+
+#### Document
+
+1.  **Enter** your project using the [80 Watt Laser Form](https://forms.gle/ieRTGmS3ipfLVE7Z9)
+2.  **View** projects using the [80 Watt Laser Responses](https://docs.google.com/spreadsheets/d/1BpAYtyFIKQ4UoXv31mKC43YFxfBk34d_q-muw1SP2aU/edit?usp=sharing)
 
 # Logs
 
@@ -134,8 +151,6 @@ Once you've fixed your problem, or think you have, you can hit ESC on the machin
 - [80 Watt Laser Responses](https://docs.google.com/spreadsheets/d/1BpAYtyFIKQ4UoXv31mKC43YFxfBk34d_q-muw1SP2aU/edit?usp=sharing)
 
 ## Old logs
-
-Please document your work!
 
 - Work log to [form](https://docs.google.com/forms/d/1ld4T9pDXP6uqZbYmlebe9SxATHcP436kMobnhSQEKPI/viewform).
 - Work log [results](https://docs.google.com/spreadsheet/ccc?key=0AoBMPvlNCqvldHl5SERwRHVjN09wRHEtODZzd2RXNWc&usp=sharing)
