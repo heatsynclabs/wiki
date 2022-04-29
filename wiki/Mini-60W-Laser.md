@@ -1,6 +1,6 @@
 # Overview
 
-This is the "smaller laser" It's a 60W CO2 laser
+This is the main quick guide for the **Mini 60W Laser**
 
 ## What you can cut
 
