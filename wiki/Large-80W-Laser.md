@@ -1,6 +1,6 @@
 # Overview
 
-This is the main quick guide for the large **80W Laser Cutter**.
+This is the quick guide for the large **80W Laser Cutter**.
 
 ## Size
 
@@ -8,7 +8,7 @@ The cutting area is 1200mm x 800mm.
 
 The largest material that will fit in the laser is 48"(w) x 32"(d).
 
-*Material longer than 32" can extend thru the read door flap.*
+*Material longer than 32" can extend thru the rear door flap.*
 
 ## What you can cut
 
