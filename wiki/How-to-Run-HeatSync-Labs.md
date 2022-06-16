@@ -92,5 +92,5 @@ The Operations manager should be good at inspiring volunteers, delegating, follo
   - t-shirts
 - Facility Maintenance
 - Safety
-- At least yearly, audit the MSDS binder and update it to reflect chemicals in the lab
+- At least yearly, audit the MSDS binder and update it to reflect chemicals and materials in the lab
 - Facilitate communication between the community, volunteers, operations team, and board as necessary
