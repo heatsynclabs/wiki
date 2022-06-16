@@ -14,7 +14,7 @@ The lab is filled with tools to make magic happen. Most of the non-tool contents
 
 ## Not at the Lab
 
-The community has many other venues, the website, this wiki, a google group, a controversial facebook page, twitter account, Flickr, GitHub repo and many others. If you want to learn more, try one or more. Pick your favorite flavor and reach out. There is always something going on.
+The community has many other venues, the website, this wiki, a google group, slack, a controversial facebook page, twitter account, Flickr, GitHub repo and many others. If you want to learn more, try one or more. Pick your favorite flavor and reach out. There is always something going on.
 
 ## More Questions?
 
