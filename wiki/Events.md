@@ -4,7 +4,8 @@ If there is an event you would like us to host or make an appearance at, please 
 
 ## Events
 
-- [Events page](http://www.heatsynclabs.org/events/) for all of our current scheduling
+- View the [homepage](http://www.heatsynclabs.org/) to see a calendar with our current scheduling
+- [guestlist](https://guestlist.co/u/HeatSyncLabs) lists classes that require a registration
 - [Presentations](Presentations)
 - [Arduino Night](Arduino-Night)
 - [HotTopics](HotTopics)
