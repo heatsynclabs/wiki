@@ -36,6 +36,12 @@ model number image manual
 
 ### Hot Air Station
 
+## Microcontrollers
+
+### Arduino
+
+### Raspberry Pi
+
 ## Parts Inventory
 
 ### Integrated Circuits
