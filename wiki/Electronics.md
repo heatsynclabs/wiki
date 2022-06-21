@@ -4,9 +4,23 @@ Electronics
 
 ### HP 8116 Pulse Generator
 
-[Husqvarna_Viking_Designer_II_Users_Guide.pdf](files/Husqvarna_Viking_Designer_II_Users_Guide.pdf)
+[Husqvarna_Viking_Designer_II_Users_Guide.pdf](files/Husqvarna_Viking_Designer_II_Users_Guide.pdf) image
 
-*Husqvarna_Viking_Designer_II_Users_Guide.pdf*
+### Rigol Digital Oscilloscope
+
+model number image manual
+
+### Tektronix Analog Oscilloscope
+
+model number image manual
+
+### Tektronix Modular 500-Series
+
+#### DMM-501
+
+#### PS-201
+
+#### PG-101
 
 ## Soldering Station
 
