@@ -1,5 +1,3 @@
-Electronics
-
 ## Test Equipment
 
 ### HP 8116A 50MHz Programmable Pulse Function Generator
