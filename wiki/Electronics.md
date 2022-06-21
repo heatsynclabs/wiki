@@ -2,9 +2,15 @@ Electronics
 
 ## Test Equipment
 
-### HP 8116 Pulse Generator
+### HP 8116A 50MHz Programmable Pulse Function Generator
 
-[Husqvarna_Viking_Designer_II_Users_Guide.pdf](files/Husqvarna_Viking_Designer_II_Users_Guide.pdf) image
+![](files/HP8116.jpg)
+
+*HP8116.jpg*
+
+[8116A_50MHz_Programmable_Pulse_Function_Generator_Manual.pdf‎](files/8116A_50MHz_Programmable_Pulse_Function_Generator_Manual.pdf‎)
+
+*8116A_50MHz_Programmable_Pulse_Function_Generator_Manual.pdf‎*
 
 ### Rigol Digital Oscilloscope
 
