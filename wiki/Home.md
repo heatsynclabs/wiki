@@ -37,14 +37,14 @@
 <li><a href="Category-3D-Printing"> 3D-Printing </a></li>
 <li><a href="Category-AudioVisual"> A/V Station </a></li>
 <li><a href="Category-BioLab"> BioLab </a></li>
-<li><a href="Category-Electronics"> Electronics </a></li>
+<li><a href="Electronics">Electronics</a></li>
 <li><a href="Category-Jewelry"> Jewelry</a></li>
 <li><a href="Category-Laser"> Laser </a></li>
 <li><a href="Library">Library</a></li>
 <li><a href="Category-Machine-Shop"> Machine Shop </a></li>
 <li><a href="Category-Printing"> Printing </a></li>
 <li><a href="Category-ScreenPrinting"> Screen Printing </a></li>
-<li><a href="Category-Sewing"> Sewing </a></li>
+<li><a href="Sewing">Sewing</a></li>
 <li><a href="Category-VinylCutter"> Vinyl Cutter</a></li>
 <li><a href="Category-WoodShop"> Wood Shop</a></li>
 </ul>
