@@ -6,4 +6,4 @@
 
 ## Description
 
-Husqvarna Viking Designer II Users Guide
+Husqvarna Viking Designer II User's Guide
