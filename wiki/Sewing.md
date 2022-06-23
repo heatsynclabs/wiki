@@ -20,6 +20,10 @@
 
 ### Husqvarna Viking Designer II
 
+![](files/Husqvarna_Designer_2.jpg)
+
+*Husqvarna_Designer_2.jpg*
+
 [Husqvarna_Viking_Designer_II_Users_Guide.pdf](files/Husqvarna_Viking_Designer_II_Users_Guide.pdf)
 
 ***Husqvarna Viking Designer II User's Guide**, *Manual**
@@ -32,13 +36,24 @@ Bobbin Winding Instructions (2 methods)
 
 Embroidery Hoops Sizes
 
+- 100 x 100
+- 150 x 240
+
 ## Sewing Machine
 
 ### Brother (Digital)
 
+![](files/Brother_Project_Runway.jpg)
+
+*Brother_Project_Runway.jpg*
+
 specs, image, model, manual
 
 ### Singer (Heavy Duty)
+
+![](files/Singer_Heavy_Duty.jpg)
+
+*Singer_Heavy_Duty.jpg*
 
 specs, image, model, manual
 
