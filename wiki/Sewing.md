@@ -18,7 +18,7 @@
 
 ## Embroidery Machine
 
-### Husqvarna Viking Designer II
+### Husqvarna (Embroidery)
 
 ![](files/Husqvarna_Designer_2.jpg)
 
@@ -32,7 +32,7 @@ Best use for it's ***Embroidery*** capabilities.
 
 ***Husqvarna Viking Designer II User's Guide**, *Manual**
 
-Video: [**Husqvarna Viking Designer II 2 User's Guide**, *YouTube*, Nov 20, 2019](https://www.youtube.com/watch?v=sGJI4lVcFag)
+Video: [**Husqvarna Viking Designer II User's Guide**, *YouTube*, Nov 20, 2019](https://www.youtube.com/watch?v=sGJI4lVcFag)
 
 Need: (Threading Instructions) (common mistakes) ("p" & "q")
 
@@ -112,6 +112,6 @@ specs, image, model, manual
 
 ## Serger Machine
 
-### Baby Lock
+### Baby Lock (Serger)
 
 specs, image, model, manual
