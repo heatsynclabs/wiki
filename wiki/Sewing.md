@@ -82,6 +82,8 @@ Good for ***Beginner**'' and***Intermediate**'' users.
 
 ***Brother XR9550 Sewing Machine Quick Reference Guide**, *Manual**
 
+------------------------------------------------------------------------
+
 ### Singer (Heavy Duty)
 
 ![](files/Singer_Heavy_Duty.jpg)
@@ -106,9 +108,13 @@ Bobbin: Class 15
 
 specs, image, model, manual
 
+------------------------------------------------------------------------
+
 ### Bernina (Industrial)
 
 specs, image, model, manual
+
+------------------------------------------------------------------------
 
 ## Serger Machine
 
