@@ -24,15 +24,27 @@
 
 *Husqvarna_Designer_2.jpg*
 
+A sophisticated sewing machine better suited for ***Intermediate*** or **Advanced** users.
+
+Best use for it's ***Embroidery*** capabilities.
+
 [Husqvarna_Viking_Designer_II_Users_Guide.pdf](files/Husqvarna_Viking_Designer_II_Users_Guide.pdf)
 
 ***Husqvarna Viking Designer II User's Guide**, *Manual**
 
 Video: [**Husqvarna Viking Designer II 2 User's Guide**, *YouTube*, Nov 20, 2019](https://www.youtube.com/watch?v=sGJI4lVcFag)
 
-Threading Instructions (common mistakes, "p" & "q")
+Need: (Threading Instructions) (common mistakes) ("p" & "q")
+
+Need: (Embroidery Manuals and links)
+
+Need: (D-card upload procedure on Laser Windows XP machine)
+
+Need: (Inkscape and Ink/Stitch tutorial and video link)
 
 Bobbin Winding Instructions (2 methods)
+
+Bobbin: Husqvarna
 
 Embroidery Hoops Sizes
 
@@ -47,13 +59,37 @@ Embroidery Hoops Sizes
 
 *Brother_Project_Runway.jpg*
 
+Easy to use with many built-in stitch patterns.
+
+Good for Beginner, Basic, and Intermediate users.
+
+Push-button OR Foot-pedal.
+
+Automatic back-stitch button.
+
+[Brother_XR9550_Sewing_Machine_Operation_Manual.pdf‎](files/Brother_XR9550_Sewing_Machine_Operation_Manual.pdf‎)
+
+***Brother XR9550 Sewing Machine Operation Manual**, *Manual**
+
+[Brother_XR9550_Sewing_Machine_Quick_Reference_Guide.pdf‎](files/Brother_XR9550_Sewing_Machine_Quick_Reference_Guide.pdf‎)
+
+***Brother XR9550 Sewing Machine Quick Reference Guide**, *Manual**
+
 specs, image, model, manual
+
+Bobbin: Brother SA156 (same as class 15J)
 
 ### Singer (Heavy Duty)
 
 ![](files/Singer_Heavy_Duty.jpg)
 
 *Singer_Heavy_Duty.jpg*
+
+[Singer_4423_Heavy_Duty_Sewing_Machine_Instruction_Manual.pdf‎](files/Singer_4423_Heavy_Duty_Sewing_Machine_Instruction_Manual.pdf‎)
+
+***Singer 4423 Heavy Duty Sewing Machine Instruction Manual**, *Manual**
+
+Bobbin: Class 15
 
 specs, image, model, manual
 
