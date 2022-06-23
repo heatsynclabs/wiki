@@ -59,7 +59,7 @@ Embroidery Hoops Sizes
 
 *Brother_Project_Runway.jpg*
 
-**Brother XR9550 Digital Sewing Machine *"Project Runway Limited Edition"***
+<span style="background:#f0f0d0"> **Brother XR9550 Digital Sewing Machine*"Project Runway Limited Edition"*** </span>
 
 Full-feature *digital* machine. Easy to use.
 
