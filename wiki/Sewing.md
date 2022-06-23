@@ -59,13 +59,20 @@ Embroidery Hoops Sizes
 
 *Brother_Project_Runway.jpg*
 
-Easy to use with many built-in stitch patterns.
+**Brother XR9550 Digital Sewing Machine *"Project Runway Limited Edition"***
 
-Good for Beginner, Basic, and Intermediate users.
+Full-feature *digital* machine. Easy to use.
 
-Push-button OR Foot-pedal.
+Good for ***Beginner**'' and***Intermediate**'' users.
 
-Automatic back-stitch button.
+- 60 built-in stitch patterns
+- foot-pedal or push-button control
+- automatic speed control
+- automatic needle threader
+- automatic back-stitch button
+- automatic button-hole feature
+
+**Bobbin**: Brother SA156 (same as class 15J)
 
 [Brother_XR9550_Sewing_Machine_Operation_Manual.pdf‎](files/Brother_XR9550_Sewing_Machine_Operation_Manual.pdf‎)
 
@@ -75,15 +82,21 @@ Automatic back-stitch button.
 
 ***Brother XR9550 Sewing Machine Quick Reference Guide**, *Manual**
 
-specs, image, model, manual
-
-Bobbin: Brother SA156 (same as class 15J)
-
 ### Singer (Heavy Duty)
 
 ![](files/Singer_Heavy_Duty.jpg)
 
 *Singer_Heavy_Duty.jpg*
+
+**Singer 4423 Heavy Duty Sewing Machine**
+
+Basic feature *manual* machine.
+
+Good for **'Beginner**' and ***Intermediate*** users.
+
+- Heavy Duty (good for denim, etc)
+- 22 built-in stitch patterns
+- button hole pattern
 
 [Singer_4423_Heavy_Duty_Sewing_Machine_Instruction_Manual.pdf‎](files/Singer_4423_Heavy_Duty_Sewing_Machine_Instruction_Manual.pdf‎)
 
