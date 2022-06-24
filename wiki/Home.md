@@ -45,7 +45,7 @@
 <li><a href="Printers">Printers</a></li>
 <li><a href="Category-ScreenPrinting"> Screen Printing </a></li>
 <li><a href="Sewing">Sewing</a></li>
-<li><a href="Category-VinylCutter"> Vinyl Cutter</a></li>
+<li><a href="Vinyl-Cutter">Vinyl Cutter</a></li>
 <li><a href="Category-Welding"> Welding</a></li>
 <li><a href="Category-WoodShop"> Wood Shop</a></li>
 </ul>
