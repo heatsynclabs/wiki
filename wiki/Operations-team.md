@@ -6,7 +6,7 @@ The operations team is a committee recruited by the board in order to manage the
 - **3D Printing**: Antonio Contrisciani
 - **Audio/Video**: Rick Blake
 - **BioHack**: Shaundra Newstead, Greg Oswalt
-- **Electronics**: Needed
+- **Electronics**: David Flores, Nate Caine
 - **Jewelry**: Needed
 - **Laser**: Eric Ose (certification classes), Nate Caine laser maintenance
 - **Metal Shop**: Darrell Wertz
