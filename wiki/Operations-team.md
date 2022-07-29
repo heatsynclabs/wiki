@@ -19,7 +19,7 @@ The operations team is a committee recruited by the board in order to manage the
 
 ## IT
 
-- Server/website/email/wiki/docs design/implementation/support/management
+- Server/website/email/wiki/docs design/implementation/support/management (also see: [Web_Presence](Web-Presence))
 - Web development and design (with marketing help)
 - eCommerce (with treasurer account)
 - Online account management (passwords, integration)
