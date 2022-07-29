@@ -16,9 +16,11 @@ Google Docs
 
 ## Alternatives
 
-- Collabora
-  - What's Better: tbd
-  - What's Worse: tbd
+### Collabora
+
+#### What's Better
+
+#### What's Worse
 
 # Calendar
 
