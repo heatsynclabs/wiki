@@ -22,6 +22,11 @@ Slack
 
 - 3 months of slack history (regardless of the 10,000 message count)
 
+### Pricing
+
+- if we have less then 250 members, the slack instance would be free
+- “weekly active members” seems to be around the 40-55 range
+
 ## Alternatives
 
 ### [Element.io](https://element.io/)
