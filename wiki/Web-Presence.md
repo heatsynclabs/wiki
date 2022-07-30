@@ -53,6 +53,7 @@
 ### Drawbacks
 
 - Q: Do we have limited retention on Google Groups, like Slack?
+- A: No. (to the best of my knowledge. -Jot)
 
 # Calendar
 
