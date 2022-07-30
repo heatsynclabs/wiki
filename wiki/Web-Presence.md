@@ -53,7 +53,7 @@ MediaWiki 1.19 (ca 2012)
 
 ## Coming Soon
 
-"I've threatened to upgrade before, but this time I mean it!" - Bob Bushman, Summer 2022)
+"I've threatened to upgrade before, but this time I mean it!" - Bob Bushman, Summer 2022
 
 # Office Suite
 
