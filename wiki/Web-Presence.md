@@ -83,7 +83,7 @@ I think that's the right link. I couldn't find bare Linux servers.
 
 ### [Amazon](https://aws.amazon.com/lightsail/)
 
-### [Microsoft](https://azure.microsoft.com/en-us/pricing/calculator/#virtual-machines)
+### [Microsoft](https://azure.microsoft.com/en-us/pricing/details/virtual-machines/linux/)
 
 I don't think that's the right link unless MS doesn't compete in the VPS space.
 
