@@ -44,9 +44,7 @@
 
 # Discussion Forum
 
-## Current
-
-Google Groups
+## Google Groups (current solution)
 
 ### Big Features
 
