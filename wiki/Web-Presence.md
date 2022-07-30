@@ -41,6 +41,8 @@ Slack
 
 #### What's Worse
 
+### [Discord](https://discord.com/)
+
 # Discussion Forum
 
 ## Current
