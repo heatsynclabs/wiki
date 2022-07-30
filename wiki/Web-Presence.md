@@ -96,6 +96,8 @@ I think that's the right link. I couldn't find bare Linux servers.
 
 ### [Microsoft](https://azure.microsoft.com/en-us/pricing/details/virtual-machines/linux/)
 
+"I don't know how many Azure folks we have but the lab has \$2,500 / year free there too. I can certainly get anyone started but we would need more than one person for the reasons already mentioned" - Eric W
+
 ## Independent
 
 ### [Interserver](https://www.interserver.net/webhosting/)
