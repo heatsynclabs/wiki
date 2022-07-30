@@ -85,14 +85,22 @@ Google Docs
 
 ## Independent
 
-### Interserver
+### [Interserver](https://www.interserver.net/webhosting/)
 
-### Hostinger
+### [Hostinger](https://www.hostinger.com/)
 
-### NameCheap
+### [NameCheap](https://www.namecheap.com/hosting/)
 
 Local to Phoenix, has taken ethical stands that I believe are good. Do we know anyone there to say if they're good folks?
 
-### NDCHost
+### [NDCHost](https://www.ndchost.com/web-hosting/)
 
 [Listed on EFF](https://certbot.eff.org/hosting_providers/) as having full support for CertBot.
+
+### [Aquatis](https://aquatis.host/)
+
+### [Spry](https://www.spryservers.net/vps)
+
+### [QTH](https://hosting.qth.com/)
+
+### [DreamHost](https://www.dreamhost.com/hosting/)
