@@ -20,7 +20,7 @@ Slack
 
 ## Alternatives
 
-### [https://element.io/ Element.io](https://element.io/_Element.io)
+### [Element.io](https://element.io/)
 
 #### What's Better
 
