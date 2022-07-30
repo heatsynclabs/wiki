@@ -92,6 +92,8 @@ Google Docs
 
 I think that's the right link. I couldn't find bare Linux servers.
 
+"We can get \$400 of free credit (for 90 days I think) to play with it if people are interested. I could create the VMs and then setup access so configuration/installation could be." - Jot Powers
+
 ### [Amazon](https://aws.amazon.com/lightsail/)
 
 ### [Microsoft](https://azure.microsoft.com/en-us/pricing/details/virtual-machines/linux/)
