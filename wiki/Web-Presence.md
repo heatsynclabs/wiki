@@ -75,16 +75,24 @@ Google Docs
 
 # Cloud Hosting Provider
 
-## Google
+## Big 3
 
-## Interserver
+### Google
 
-## Amazon
+### Amazon
 
-## Hostinger
+### Microsoft
 
-## Microsoft
+## Independent
 
-## NameCheap
+### Interserver
+
+### Hostinger
+
+### NameCheap
 
 Local to Phoenix, has taken ethical stands that I believe are good. Do we know anyone there to say if they're good folks?
+
+### NDCHost
+
+[Listed on EFF](https://certbot.eff.org/hosting_providers/) as having full support for CertBot.
