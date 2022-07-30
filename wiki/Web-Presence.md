@@ -12,9 +12,14 @@ Jitsi
 
 # Real-Time Chat
 
-## Current
+## [Slack](https://app.slack.com/)
 
-Slack
+- For us limiting the slack to 250/under overall users would be against our mission.
+- Slack has been a great tool for us, and pretty dang reliable
+- It's not a replacement for Google Groups
+- I don't know if Discord would be a replacement for Slack
+- If we had to pay for Slack it would not be worth it to our organization
+- The more social platforms we have the more fractured the memberbase becomes
 
 ### Big Features
 
