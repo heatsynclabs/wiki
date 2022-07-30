@@ -34,12 +34,8 @@ Slack
 
 ### [Element.io](https://element.io/)
 
-#### What's Better
-
 - Jitsi Integration
 - End-to-End Encryption
-
-#### What's Worse
 
 ### [Discord](https://discord.com/)
 
