@@ -86,6 +86,8 @@ Google Docs
 
 # Cloud Hosting Provider
 
+"I suggest that anything hosted in the cloud NOT be created/hosted under an individual’s account. A HSL owned account should be created and everything placed under that." - Jeff Sittler
+
 ## Big 3
 
 ### [Google](https://console.cloud.google.com/marketplace/details/click-to-deploy-images/lamp)
