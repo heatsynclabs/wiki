@@ -12,7 +12,7 @@ Jitsi
 
 # Real-Time Chat
 
-## [Slack](https://app.slack.com/)
+## [Slack](https://app.slack.com/) (current solution)
 
 - For us limiting the slack to 250/under overall users would be against our mission.
 - Slack has been a great tool for us, and pretty dang reliable
