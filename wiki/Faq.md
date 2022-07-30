@@ -72,6 +72,10 @@ There is a good amount of parking around the lab.
 - The street parking is 2 hour parking and more rigorously enforced because the business there want to make sure it's available for their customers.
 - Finally there is the parking garage as well, although it's a bit further away.
 
+# Q: How do I adjust my membership or donation level?
+
+I (Bob Bushman) am getting the answer for this and will post instructions here ASAP (2022-07-30).
+
 ![](files/Heatsync-parking.png)
 
 *heatsync-parking.png*
