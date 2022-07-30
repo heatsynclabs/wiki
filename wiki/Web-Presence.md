@@ -35,14 +35,12 @@ Jitsi
 - their regular price after the increase would be around \$4350 per year, or \$652.50 ... \$55 a month basically ... (for 50 users)
 - “Pro Plan: We offer workspaces with 250 or fewer members a free upgrade, and an 85% discount for workspaces above that size.” \[ed: for non-profits\]
 
-## Alternatives
-
-### [Element.io](https://element.io/)
+## [Element.io](https://element.io/)
 
 - Jitsi Integration
 - End-to-End Encryption
 
-### [Discord](https://discord.com/)
+## [Discord](https://discord.com/)
 
 - I will say Discord's own tos and coc is kind of a dumpster fire...
 
