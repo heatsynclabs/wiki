@@ -28,6 +28,7 @@ Slack
 - “weekly active members” seems to be around the 40-55 range
 - Looks like slack doesn’t charge for “inactive” members. <https://slack.com/help/articles/218915077-Slacks-Fair-Billing-Policy>
 - their regular price after the increase would be around \$4350 per year, or \$652.50 ... \$55 a month basically ... (for 50 users)
+- “Pro Plan: We offer workspaces with 250 or fewer members a free upgrade, and an 85% discount for workspaces above that size.” \[ed: for non-profits\]
 
 ## Alternatives
 
