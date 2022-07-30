@@ -40,7 +40,7 @@
 
 ## [Discord](https://discord.com/)
 
-- I will say Discord's own tos and coc is kind of a dumpster fire...
+- "I will say Discord's own tos and coc is kind of a dumpster fire..." (seen on our Slack)
 
 # Discussion Forum
 
