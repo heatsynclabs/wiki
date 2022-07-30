@@ -6,9 +6,7 @@
 
 # Video Conferencing
 
-## Current
-
-Jitsi
+## [Jitsi](https://meet.jit.si/) (current solution)
 
 # Real-Time Chat
 
