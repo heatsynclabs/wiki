@@ -20,7 +20,7 @@ Slack
 
 ### Drawbacks
 
-- 3 months of slack history regardless of the 10,000 message count
+- 3 months of slack history (regardless of the 10,000 message count)
 
 ## Alternatives
 
