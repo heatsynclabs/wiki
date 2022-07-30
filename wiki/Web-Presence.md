@@ -85,8 +85,6 @@ I think that's the right link. I couldn't find bare Linux servers.
 
 ### [Microsoft](https://azure.microsoft.com/en-us/pricing/details/virtual-machines/linux/)
 
-I don't think that's the right link unless MS doesn't compete in the VPS space.
-
 ## Independent
 
 ### [Interserver](https://www.interserver.net/webhosting/)
