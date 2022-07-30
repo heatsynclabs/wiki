@@ -72,3 +72,19 @@ Google Docs
 #### What's Better
 
 #### What's Worse
+
+# Cloud Hosting Provider
+
+## Google
+
+## Interserver
+
+## Amazon
+
+## Hostinger
+
+## Microsoft
+
+## NameCheap
+
+Local to Phoenix, has taken ethical stands that I believe are good. Do we know anyone there to say if they're good folks?
