@@ -50,7 +50,7 @@
 
 - Bi-Directional Email Sync
 
-### Unsatisfying
+### Drawbacks
 
 - Q: Do we have limited retention on Google Groups, like Slack?
 
