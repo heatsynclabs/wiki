@@ -14,6 +14,8 @@ Heatsync Labs is operated by volunteers. We are people just like you who visited
 
 There are lots of ways to help. You can assist with one of our classes, work on improving the workstations, be here and help create a positive social vibe, become an instructor and teach a class, help with bookkeeping and administration, write instructional docs, or post sections like this on the wiki. I'm doing it right now. :)
 
+Those are just examples. Ask around and find out what else you can help with. Or come up with your own ideas and bring them up at Hack Your Hackerspace. We want to help you find a fulfilling path here at HSL.
+
 To learn more take a look at our wiki page on [Joining_In](Joining-In).
 
 ## Stuff at the Lab
