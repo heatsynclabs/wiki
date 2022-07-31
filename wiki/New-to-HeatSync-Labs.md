@@ -10,7 +10,7 @@ A word of advice - Be brave and talk to people. The reason there is a lab, and n
 
 ## Joining In
 
-Heatsync Labs is operated by volunteers. We are people just like you who visited the lab, thought it was neat, liked the people we met, and started helping out. It's awesome! HSL is a place where you get to help people learn about tools and turn their dreams into reality, while spending time with other people who think that is a good idea.
+Heatsync Labs is operated by volunteers. We are people just like you who visited the lab, thought it was neat, liked the people we met, and started helping out. It's awesome! HeatSync Labs is a place where you get to help people learn about tools and turn their dreams into reality, while spending time with other people who think that is a good idea.
 
 There are lots of ways to help. You can assist with one of our classes, work on improving the workstations, be here and help create a positive social vibe, become an instructor and teach a class, help with bookkeeping and administration, write instructional docs, or post sections like this on the wiki. I'm doing it right now. :)
 
