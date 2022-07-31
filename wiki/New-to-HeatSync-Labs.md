@@ -8,6 +8,14 @@ Because Heatsync Labs is a community, as well as a non-profit, when you visit th
 
 A word of advice - Be brave and talk to people. The reason there is a lab, and not a giant tool share is because we all have a desire to be around people interested in what we are interested in. You may find that with a question or two about what someone is working on, that you have met someone with a common skill set. Or someone that has the interest in sharing their knowledge so that others can learn. Or just a tinkerer working on their most current idea. Unfortunately, there are rude people, but most are nice people that really are too busy to chat. Don't take offense, ask someone else. Remember a time when you were working on a cool thing and got asked a question when you just needed to get this last thing done. That is probably what was going on.
 
+## Joining In
+
+Heatsync Labs is operated by volunteers. We are people just like you who visited the lab, thought it was neat, liked the people we met, and started helping out. It's awesome! HSL is a place where you get to help people learn about tools and turn their dreams into reality, while spending time with other people who think that is a good idea.
+
+There are lots of ways to help. You can assist with one of our classes, work on improving the workstations, be here and help create a positive social vibe, become an instructor and teach a class, help with bookkeeping and administration, write instructional docs, or post sections like this on the wiki. I'm doing it right now. :)
+
+To learn more take a look at our wiki page on [Joining_In](Joining-In).
+
 ## Stuff at the Lab
 
 The lab is filled with tools to make magic happen. Most of the non-tool contents of the lab is someone's project. There are all kinds of undocumented, half completed things. You may not be able to tell apart the tear-down bin from someones latest prototype. The best way to approach this is to ask questions. The people at the lab will have some knowledge, but maybe not the specifics. Ask questions and look for answers and you will find them.
