@@ -115,7 +115,7 @@ To try to get comparables, I picked the least expensive 2 GB instance. I run 1 G
 
 Prices are based on month-to-month pricing.
 
-"To me, Namecheap is the right choice because they are local, use RAID 10, and because of their principles. I already use them for registration, and as a result of this dive into their principles, I'm going to start shifting my personal hosting there." - Bob Bushman
+"To me, Namecheap is the right choice because they are local, use RAID 10, and because of their principles. I already use them for DNS, and as a result of this dive into their principles, I'm going to start shifting my personal hosting there." - Bob Bushman
 
 |  |  |  |  |  |  |  |  |
 |----|----|----|----|----|----|----|----|
