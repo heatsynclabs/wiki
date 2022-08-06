@@ -110,8 +110,10 @@ I think that's the right link. I couldn't find bare Linux servers.
 |  |  |  |  |  |  |  |  |
 |----|----|----|----|----|----|----|----|
 | Provider | VPS Plan | Monthly Price | vCPU Cores | RAM | HDD | Bandwidth | Notes |
+| [Interserver](https://www.interserver.net/) | [VPS 1](https://www.interserver.net/vps/) | 1 Core | 2 GB | 30 GB | 2 TB | Offers 1-click MediaWiki (though having our own deploy process makes lift & shift easier) |  |
 | [Hostinger](https://www.hostinger.com/) | [VPS2](https://www.hostinger.com/vps-hosting) | \$4.99 | 2 Cores | 2 GB | 40 GB | 2 TB |  |
 | [Namecheap](https://www.namecheap.com/hosting/) | [Pulsar](https://www.namecheap.com/hosting/vps/) | \$6.88 | 2 Cores | 2 GB | 40 GB | 1 TB | Phoenix Local |
+| [Namecheap](https://www.namecheap.com/hosting/) | [Cloud Server \#2](https://www.ndchost.com/cloud-servers/) | \$10 | 1 Cores | 2 GB | 50 GB | 2 TB |  |
 
 ### [Interserver](https://www.interserver.net/webhosting/)
 
