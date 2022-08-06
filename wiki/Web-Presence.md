@@ -116,7 +116,7 @@ Prices are based this on month-to-month pricing.
 |  |  |  |  |  |  |  |  |
 |----|----|----|----|----|----|----|----|
 | Provider | VPS Plan | Monthly Price | vCPU Cores | RAM | HDD | Bandwidth | Notes |
-| [Aquatis](https://aquatis.host/) | [KVM - 2G](https://aquatis.host/kvm-hosting/) | \$5.00 | 2 Cores | 2 GB | 10 GB SSD | 1 TB | Small Storage |
+| [Aquatis](https://aquatis.host/) | [KVM - 2G](https://aquatis.host/kvm-hosting/) | \$5.00 | 2 Cores | 2 GB | 10 GB SSD | 1 TB | Small Storage, Out of Stock, could not confirm price is month-to-month |
 | [Interserver](https://www.interserver.net/) | [VPS 1](https://www.interserver.net/vps/) | \$6.00 | 1 Core | 2 GB | 30 GB SSD | 2 TB | Offers 1-click MediaWiki (though having our own deploy process makes lift & shift easier) |
 | [Namecheap](https://www.namecheap.com/hosting/) | [Pulsar](https://www.namecheap.com/hosting/vps/) | \$9.88 | 2 Cores | 2 GB | 40 GB SSD RAID 10 | 1 TB | Phoenix Local, RAID 10 |
 | [Amazon Lightsail](https://aws.amazon.com/lightsail/) | [Virtual Server 3](https://aws.amazon.com/lightsail/pricing/) | \$10.00 | 1 Core | 2 GB | 60 GB SSD | 3 TB |  |
