@@ -107,10 +107,11 @@ I think that's the right link. I couldn't find bare Linux servers.
 
 ## Independent
 
-|  |  |  |  |  |  |  |
-|----|----|----|----|----|----|----|
-| Provider | VPS Plan | Monthly Price | vCPU Cores | RAM | HDD | Bandwidth |
-| [Hostinger](https://www.hostinger.com/) | [VPS2](https://www.hostinger.com/vps-hosting) | \$4.99 | 2 Cores | 2 GB | 40 GB | 2 TB |
+|  |  |  |  |  |  |  |  |
+|----|----|----|----|----|----|----|----|
+| Provider | VPS Plan | Monthly Price | vCPU Cores | RAM | HDD | Bandwidth | Notes |
+| [Hostinger](https://www.hostinger.com/) | [VPS2](https://www.hostinger.com/vps-hosting) | \$4.99 | 2 Cores | 2 GB | 40 GB | 2 TB |  |
+| [Namecheap](https://www.namecheap.com/hosting/) | [Pulsar](https://www.namecheap.com/hosting/vps/) | \$6.88 | 2 Cores | 2 GB | 40 GB | 1 TB | Phoenix Local |
 
 ### [Interserver](https://www.interserver.net/webhosting/)
 
