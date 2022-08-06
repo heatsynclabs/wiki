@@ -109,6 +109,8 @@ I can't figure out how to get a straight price or HDD size from their interface.
 
 ## The Table
 
+To try to get comparables, I picked the least expensive 2 GB instance. I run 1 GB instances for my wikis, but I figure HSL will have more traffic.
+
 |  |  |  |  |  |  |  |  |
 |----|----|----|----|----|----|----|----|
 | Provider | VPS Plan | Monthly Price | vCPU Cores | RAM | HDD | Bandwidth | Notes |
