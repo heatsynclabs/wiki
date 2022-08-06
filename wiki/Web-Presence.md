@@ -107,7 +107,7 @@ I think that's the right link. I couldn't find bare Linux servers.
 
 I can't figure out how to get a straight price or HDD size from their interface. - Bob Bushman
 
-## The Table
+## Provider Comparison Table
 
 To try to get comparables, I picked the least expensive 2 GB instance. I run 1 GB instances for my wikis, but I figure HSL will have more traffic.
 
