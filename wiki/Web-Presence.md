@@ -107,9 +107,10 @@ I think that's the right link. I couldn't find bare Linux servers.
 
 ## Independent
 
-|  |  |
-|----|----|
-| Provider \| VPS Plan \| Monthly Price \| vCPU Cores \| RAM \| HDD \| Bandwidth | [Hostinger](https://www.hostinger.com/) \| [VPS2](https://www.hostinger.com/vps-hosting) \| 2 Cores \| 2 GB \| 40 GB \| 2 TB |
+|  |
+|----|
+| Provider \| VPS Plan \| Monthly Price \| vCPU Cores \| RAM \| HDD \| Bandwidth |
+| [Hostinger](https://www.hostinger.com/) \| [VPS2](https://www.hostinger.com/vps-hosting) \| 2 Cores \| 2 GB \| 40 GB \| 2 TB |
 
 ### [Interserver](https://www.interserver.net/webhosting/)
 
