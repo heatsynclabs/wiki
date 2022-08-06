@@ -121,6 +121,6 @@ Prices are based on month-to-month pricing.
 | [Namecheap](https://www.namecheap.com/hosting/) | [Pulsar](https://www.namecheap.com/hosting/vps/) | \$9.88 | 2 Cores | 2 GB | 40 GB SSD RAID 10 | 1 TB | Phoenix Local, RAID 10 |
 | [Amazon Lightsail](https://aws.amazon.com/lightsail/) | [Virtual Server 3](https://aws.amazon.com/lightsail/pricing/) | \$10.00 | 1 Core | 2 GB | 60 GB SSD | 3 TB |  |
 | [NDCHost](https://www.ndchost.com/) | [Cloud Server \#2](https://www.ndchost.com/cloud-servers/) | \$10.00 | 1 Cores | 2 GB | 50 GB SSD | 2 TB | [Listed on EFF](https://certbot.eff.org/hosting_providers/) as having full support for CertBot. |
-| [Google Cloud](https://console.cloud.google.com/) | [LAMP Stack](https://console.cloud.google.com/marketplace/details/click-to-deploy-images/lamp) | \$12.70 | 1 Core | 2 GB | 10 GB | ?? | Small Storage, offers 1-click Bitnami Mediawiki, Price is for LAMP, bare Linux instances are \$25.95 |
+| [Google Cloud](https://console.cloud.google.com/) | [LAMP Stack](https://console.cloud.google.com/marketplace/details/click-to-deploy-images/lamp) | \$12.70 | 1 Core | 2 GB | 10 GB | ?? | Small Storage, offers 1-click Bitnami Mediawiki, price is for LAMP - bare Linux instances are \$25.95 |
 | [Hostinger](https://www.hostinger.com/) | [VPS2](https://www.hostinger.com/vps-hosting) | \$12.99 | 2 Cores | 2 GB | 40 GB SSD | 2 TB | Europe-based (Lithuania) |
 | [Spry](https://www.spryservers.net/) | [SSD KVM Milli](https://www.spryservers.net/vps) | \$20.00 | 2 Cores | 2 GB | 40 GB SSD | ?? |  |
