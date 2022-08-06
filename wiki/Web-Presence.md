@@ -78,9 +78,8 @@ I think that's the right link. I couldn't find bare Linux servers.
 
 {| class="wikitable"
 |-
-|[[File:ASU Metal Shade.jpg|300px|thumb|A giant metal shade with a hole in the middle over an outdoor conversation area.]]
-|
-[[File:8th Street Apartment Complex 01.jpg|300px|thumb|Apartment Complex Architectural Detail]]
+| Provider | VPS Plan | Monthly Price | vCPU Cores | RAM | HDD | Bandwidth
+| [https://www.hostinger.com/ Hostinger] | [https://www.hostinger.com/vps-hosting VPS2] | 2 Cores | 2 GB | 40 GB | 2 TB
 }
 
 === [https://www.interserver.net/webhosting/ Interserver] ===
