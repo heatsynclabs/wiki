@@ -89,6 +89,8 @@ Google Docs
 
 "I suggest that anything hosted in the cloud NOT be created/hosted under an individual’s account. A HSL owned account should be created and everything placed under that." - Jeff Sittler
 
+"I prefer not to run images. If we use our own deploy process we are free to lift and shift to another provider." - Bob Bushman
+
 ## Big 3
 
 ### [Google](https://console.cloud.google.com/marketplace/details/click-to-deploy-images/lamp)
