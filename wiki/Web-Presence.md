@@ -111,6 +111,14 @@ I think that's the right link. I couldn't find bare Linux servers.
 
 ### [Hostinger](https://www.hostinger.com/)
 
+[VPS2](https://www.hostinger.com/vps-hosting)
+
+- 2 vCPU cores
+- 2 GB RAM
+- 40 GB SSD
+- 2 TB Bandwidth
+- \$4.99/mo
+
 ### [NameCheap](https://www.namecheap.com/hosting/)
 
 Local to Phoenix, has taken ethical stands that I believe are good. Do we know anyone there to say if they're good folks?
