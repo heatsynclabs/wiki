@@ -107,42 +107,10 @@ I think that's the right link. I couldn't find bare Linux servers.
 
 ## Independent
 
-<table>
-<tbody>
-<tr>
-<td><img src="files/ASU_Metal_Shade.jpg" />
-<p><em>A giant metal shade with a hole in the middle over an outdoor conversation area.</em></p></td>
-<td><img src="files/8th_Street_Apartment_Complex_01.jpg" />
-<p><em>Apartment Complex Architectural Detail</em></p></td>
-<td><img src="files/8th_Street_Apartment_Complex_02.jpg" />
-<p><em>Apartment Complex Architectural Detail</em></p></td>
-<td><img src="files/Tire_Swing_01.jpg" />
-<p><em>Tire Swing 01</em></p></td>
-</tr>
-<tr>
-<td><img src="files/Outdoor_Lighting_Fixture.jpg" />
-<p><em>Outdoor Lighting Fixture</em></p></td>
-<td><img src="files/Manhole_Cover_in_Desert_Landscape.jpg" />
-<p><em>Manhole Cover in Desert Landscape</em></p></td>
-<td><img src="files/Park_Bench_in_Desert_Landscape.jpg" />
-<p><em>Park Bench in Desert Landscape</em></p></td>
-<td><img src="files/Cactus_in_Desert_Landscape.jpg" />
-<p><em>Cactus in Desert Landscape</em></p></td>
-</tr>
-<tr>
-<td><img src="files/Resolute_Padlock.jpg" />
-<p><em>A resolute padlock bearing the strain through the years under the harsh Arizona sun.</em></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-|  |
-|----|
-| Provider\|VPS Plan\|Monthly Price\|vCPU Cores\|RAM\|HDD\|Bandwidth |
-| [Hostinger](https://www.hostinger.com/) \| [VPS2](https://www.hostinger.com/vps-hosting) \| 2 Cores \| 2 GB \| 40 GB \| 2 TB |
+|  |  |  |  |  |  |  |
+|----|----|----|----|----|----|----|
+| Provider | VPS Plan | Monthly Price | vCPU Cores | RAM | HDD | Bandwidth |
+| [Hostinger](https://www.hostinger.com/) | [VPS2](https://www.hostinger.com/vps-hosting) | 2 Cores | 2 GB | 40 GB | 2 TB |  |
 
 ### [Interserver](https://www.interserver.net/webhosting/)
 
