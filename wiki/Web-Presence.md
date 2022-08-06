@@ -107,7 +107,7 @@ I think that's the right link. I couldn't find bare Linux servers.
 
 "I don't know how many Azure folks we have but the lab has \$2,500 / year free there too. I can certainly get anyone started but we would need more than one person for the reasons already mentioned" - Eric W
 
-I can't figure out how to get a straight price or HDD size from their interface. - Bob Bushman
+I can't figure out how to get a straight price or HDD size for bare Linux instances from their interface. - Bob Bushman
 
 ## Provider Comparison Table
 
