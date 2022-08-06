@@ -111,10 +111,12 @@ I can't figure out how to get a straight price or HDD size from their interface.
 
 To try to get comparables, I picked the least expensive 2 GB instance. I run 1 GB instances for my wikis, but I figure HSL will have more load.
 
+To me, Hostinger looks like the
+
 |  |  |  |  |  |  |  |  |
 |----|----|----|----|----|----|----|----|
 | Provider | VPS Plan | Monthly Price | vCPU Cores | RAM | HDD | Bandwidth | Notes |
-| [Hostinger](https://www.hostinger.com/) | [VPS2](https://www.hostinger.com/vps-hosting) | \$4.99 | 2 Cores | 2 GB | 40 GB SSD | 2 TB |  |
+| [Hostinger](https://www.hostinger.com/) | [VPS2](https://www.hostinger.com/vps-hosting) | \$4.99 | 2 Cores | 2 GB | 40 GB SSD | 2 TB | Europe-based (Lithuania) |
 | [Aquatis](https://aquatis.host/) | [KVM - 2G](https://aquatis.host/kvm-hosting/) | \$5.00 | 2 Cores | 2 GB | 10 GB SSD | 1 TB | Small Storage |
 | [Interserver](https://www.interserver.net/) | [VPS 1](https://www.interserver.net/vps/) | \$6.00 | 1 Core | 2 GB | 30 GB SSD | 2 TB | Offers 1-click MediaWiki (though having our own deploy process makes lift & shift easier) |
 | [Namecheap](https://www.namecheap.com/hosting/) | [Pulsar](https://www.namecheap.com/hosting/vps/) | \$6.88 | 2 Cores | 2 GB | 40 GB SSD RAID 10 | 1 TB | Phoenix Local, RAID 10 |
