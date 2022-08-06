@@ -115,6 +115,8 @@ To try to get comparables, I picked the least expensive 2 GB instance. I run 1 G
 
 Prices are based on month-to-month pricing.
 
+To me, Namecheap is the right choice because they are local and because of their principles.
+
 |  |  |  |  |  |  |  |  |
 |----|----|----|----|----|----|----|----|
 | Provider | VPS Plan | Monthly Price | vCPU Cores | RAM | HDD | Bandwidth | Notes |
