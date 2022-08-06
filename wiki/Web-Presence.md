@@ -119,7 +119,7 @@ Prices are based this on month-to-month pricing.
 | [Aquatis](https://aquatis.host/) | [KVM - 2G](https://aquatis.host/kvm-hosting/) | \$5.00 | 2 Cores | 2 GB | 10 GB SSD | 1 TB | Small Storage, Out of Stock, could not confirm price is month-to-month |
 | [Interserver](https://www.interserver.net/) | [VPS 1](https://www.interserver.net/vps/) | \$6.00 | 1 Core | 2 GB | 30 GB SSD | 2 TB | Offers 1-click MediaWiki (though having our own deploy process makes lift & shift easier) |
 | [Namecheap](https://www.namecheap.com/hosting/) | [Pulsar](https://www.namecheap.com/hosting/vps/) | \$9.88 | 2 Cores | 2 GB | 40 GB SSD RAID 10 | 1 TB | Phoenix Local, RAID 10 |
-| [Amazon Lightsail](https://aws.amazon.com/lightsail/) | [Virtual Server 3](https://aws.amazon.com/lightsail/pricing/) | \$10.00 | 1 Core | 2 GB | 60 GB SSD | 3 TB | Bills in hourly slices (or smaller) - nice for experimenting |
+| [Amazon Lightsail](https://aws.amazon.com/lightsail/) | [Virtual Server 3](https://aws.amazon.com/lightsail/pricing/) | \$10.00 | 1 Core | 2 GB | 60 GB SSD | 3 TB | Bills in hourly slices - nice for experimenting |
 | [NDCHost](https://www.ndchost.com/) | [Cloud Server \#2](https://www.ndchost.com/cloud-servers/) | \$10.00 | 1 Cores | 2 GB | 50 GB SSD | 2 TB | [Listed on EFF](https://certbot.eff.org/hosting_providers/) as having full support for CertBot. |
 | [Google Cloud](https://console.cloud.google.com/) | [LAMP Stack](https://console.cloud.google.com/marketplace/details/click-to-deploy-images/lamp) | \$12.70 | 1 Core | 2 GB | 10 GB | ?? | Small Storage |
 | [Hostinger](https://www.hostinger.com/) | [VPS2](https://www.hostinger.com/vps-hosting) | \$12.99 | 2 Cores | 2 GB | 40 GB SSD | 2 TB | Europe-based (Lithuania) |
