@@ -116,9 +116,3 @@ I think that's the right link. I couldn't find bare Linux servers.
 | [NDCHost](https://www.ndchost.com/) | [Cloud Server \#2](https://www.ndchost.com/cloud-servers/) | \$10 | 1 Cores | 2 GB | 50 GB | 2 TB | [Listed on EFF](https://certbot.eff.org/hosting_providers/) as having full support for CertBot. |
 | [Aquatis](https://aquatis.host/) | [KVM - 2G](https://aquatis.host/kvm-hosting/) | \$5.00 | 2 Cores | 2 GB | 10 GB SSD | 1 TB | Small SSD |
 | [Spry](https://www.spryservers.net/) | [SSD KVM Milli](https://www.spryservers.net/vps) | \$20.00 | 2 Cores | 2 GB | 40 GB SSD | ?? | Big SSD |
-
-### [Spry](https://www.spryservers.net/vps)
-
-### [QTH](https://hosting.qth.com/)
-
-### [DreamHost](https://www.dreamhost.com/hosting/)
