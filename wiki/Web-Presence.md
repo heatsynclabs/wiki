@@ -128,3 +128,4 @@ Prices are based on month-to-month pricing.
 | [Google Cloud](https://console.cloud.google.com/) | [LAMP Stack](https://console.cloud.google.com/marketplace/details/click-to-deploy-images/lamp) | \$12.70 | 1 Core | 2 GB | 10 GB | ?? | Small Storage, offers 1-click Bitnami Mediawiki, price is for LAMP - bare Linux instances are \$25.95 |
 | [Hostinger](https://www.hostinger.com/) | [VPS2](https://www.hostinger.com/vps-hosting) | \$12.99 | 2 Cores | 2 GB | 40 GB SSD | 2 TB | Europe-based (Lithuania) |
 | [Spry](https://www.spryservers.net/) | [SSD KVM Milli](https://www.spryservers.net/vps) | \$20.00 | 2 Cores | 2 GB | 40 GB SSD | ?? |  |
+|  |  | ?? | ?? | ?? | ?? | ?? |  |
