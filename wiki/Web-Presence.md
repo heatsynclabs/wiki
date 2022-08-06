@@ -111,7 +111,7 @@ I can't figure out how to get a straight price or HDD size from their interface.
 
 To try to get comparables, I picked the least expensive 2 GB instance. I run 1 GB instances for my wikis, but I figure HSL will have more load.
 
-Prices are based this on month-to-month pricing.
+Prices are based on month-to-month pricing.
 
 |  |  |  |  |  |  |  |  |
 |----|----|----|----|----|----|----|----|
