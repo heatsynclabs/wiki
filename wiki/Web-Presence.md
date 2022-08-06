@@ -122,5 +122,5 @@ To me, Hostinger looks like the
 | [Namecheap](https://www.namecheap.com/hosting/) | [Pulsar](https://www.namecheap.com/hosting/vps/) | \$6.88 | 2 Cores | 2 GB | 40 GB SSD RAID 10 | 1 TB | Phoenix Local, RAID 10 |
 | [Amazon Lightsail](https://aws.amazon.com/lightsail/) | [Virtual Server 3](https://aws.amazon.com/lightsail/pricing/) | \$10.00 | 1 Core | 2 GB | 60 GB SSD | 3 TB |  |
 | [NDCHost](https://www.ndchost.com/) | [Cloud Server \#2](https://www.ndchost.com/cloud-servers/) | \$10.00 | 1 Cores | 2 GB | 50 GB SSD | 2 TB | [Listed on EFF](https://certbot.eff.org/hosting_providers/) as having full support for CertBot. |
-| [Google Cloud](https://console.cloud.google.com/) | [LAMP Stack](https://console.cloud.google.com/marketplace/details/click-to-deploy-images/lamp) | \$12.70 | 1 Core | 2 GB | 10 GB | ?? |  |
+| [Google Cloud](https://console.cloud.google.com/) | [LAMP Stack](https://console.cloud.google.com/marketplace/details/click-to-deploy-images/lamp) | \$12.70 | 1 Core | 2 GB | 10 GB | ?? | Small Storage |
 | [Spry](https://www.spryservers.net/) | [SSD KVM Milli](https://www.spryservers.net/vps) | \$20.00 | 2 Cores | 2 GB | 40 GB SSD | ?? |  |
