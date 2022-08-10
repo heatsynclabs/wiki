@@ -67,6 +67,10 @@ MediaWiki 1.19 (ca 2012)
 
 "I've threatened to upgrade before, but this time I mean it!" - Bob Bushman, Summer 2022
 
+- Bob's first pass, from long ago: [MediaWiki_On_Lightsail](MediaWiki-On-Lightsail)
+- More recent pass by Bob, on his own stuff: [1](https://wiki.traxel.com/index.php/MediaWiki_Install)
+- Bob's current attempt: [2](https://wiki.traxel.com/index.php/MediaWiki_on_Namecheap)
+
 # Office Suite
 
 ## Current
