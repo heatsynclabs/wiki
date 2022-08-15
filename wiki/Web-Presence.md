@@ -245,3 +245,4 @@ Open question: In which, if any, of these cases would we not have to:
 2.  Apply our MediaWiki configuration
 3.  Pull the latest database dump
 4.  Load the dump into the new database
+5.  Set up nightly backup
