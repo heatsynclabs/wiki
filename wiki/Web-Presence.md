@@ -226,3 +226,22 @@ Prices are based on month-to-month pricing.
 </tr>
 </tbody>
 </table>
+
+## Versus On-Prem
+
+Hosting our own machine means care and feeding of the box. We have some machines in house, but what matters is total cost of ownership.
+
+Hardware Failure: Hardware failure is a bit more likely with our own gear, and with a cloud provider it \*may\* magically get fixed for us.
+
+Hardware Obsolescence: When the hardware can no longer keep up with the latest version of the server daemon, it has to be replaced. This is the same with on-prem or cloud.
+
+OS Updates: Patching the same version of the OS may come in three flavors: On-Prem and Cloud VPS work the same; sudo apt update && sudo apt upgrade -y. A third option is SaaS or containerized, there may be a hosted wiki option where we don't have to maintain the OS.
+
+OS Upgrades: Again, this works the same for On-Prem or Cloud VPS, but may be easier with SaaS or containerized. For Debian; change the apt sources, sudo apt update && sudo apt dist-upgrade -y, then pray the machine boots as far as SSH so you can fix anything that went sideways during the upgrade. SaaS / containerized may let you get off easier.
+
+Open question: In which, if any, of these cases would we not have to:
+
+1.  Install the latest version of MediaWiki
+2.  Apply our MediaWiki configuration
+3.  Pull the latest database dump
+4.  Load the dump into the new database
