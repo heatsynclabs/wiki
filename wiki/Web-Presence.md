@@ -121,15 +121,108 @@ Prices are based on month-to-month pricing.
 
 "To me, Namecheap is the right choice because they are local, use RAID 10, and because of their principles. I already use them for DNS, and as a result of this dive into their principles, I'm going to start shifting my personal hosting there." - Bob Bushman
 
-|  |  |  |  |  |  |  |  |
-|----|----|----|----|----|----|----|----|
-| Provider | VPS Plan | Monthly Price | vCPU Cores | RAM | HDD | Data Xfer per Month | Notes |
-| [Aquatis](https://aquatis.host/) | [KVM - 2G](https://aquatis.host/kvm-hosting/) | \$5.00 | 2 Cores | 2 GB | 10 GB SSD | 1 TB | Small Storage, Out of Stock, could not confirm price is month-to-month |
-| [Interserver](https://www.interserver.net/) | [VPS 1](https://www.interserver.net/vps/) | \$6.00 | 1 Core | 2 GB | 30 GB SSD | 2 TB | Offers 1-click MediaWiki (though having our own deploy process makes lift & shift easier) |
-| [Namecheap](https://www.namecheap.com/hosting/) | [Pulsar](https://www.namecheap.com/hosting/vps/) | \$9.88 | 2 Cores | 2 GB | 40 GB SSD RAID 10 | 1 TB | Phoenix Local, RAID 10, [Supports Net Neutrality](https://www.namecheap.com/about/press-releases/press-releases-info/17-07-04/namecheap_joins_the_battle_for_the_net_protest_on_july_12/), [Fought Facebook (and settled)](https://www.namecheap.com/about/press-releases/22-03-15/joint-statement), [Opposes Invasion of Ukraine](https://www.namecheap.com/about/press-releases/22-03-02/free-anonymous-domain-registration-in-russia-belarus), [Supports Solo Entrepreneurs and Women Entrepreneurs](https://www.namecheap.com/about/press-releases/22-03-15/solopreneurs-savings-web-products) [Supports EFF](https://www.namecheap.com/blog/move-your-domain-day-chat-eff-namecheap/), [Supports Privacy](https://www.namecheap.com/blog/namecheap-champions-privacy-standards/) |
-| [Amazon Lightsail](https://aws.amazon.com/lightsail/) | [Virtual Server 3](https://aws.amazon.com/lightsail/pricing/) | \$10.00 | 1 Core | 2 GB | 60 GB SSD | 3 TB |  |
-| [NDCHost](https://www.ndchost.com/) | [Cloud Server \#2](https://www.ndchost.com/cloud-servers/) | \$10.00 | 1 Cores | 2 GB | 50 GB SSD | 2 TB | [Listed on EFF](https://certbot.eff.org/hosting_providers/) as having full support for CertBot. |
-| [Google Cloud](https://console.cloud.google.com/) | [LAMP Stack](https://console.cloud.google.com/marketplace/details/click-to-deploy-images/lamp) | \$12.70 | 1 Core | 2 GB | 10 GB | ?? | Small Storage, offers 1-click Bitnami Mediawiki, price is for LAMP - bare Linux instances are \$25.95 |
-| [Hostinger](https://www.hostinger.com/) | [VPS2](https://www.hostinger.com/vps-hosting) | \$12.99 | 2 Cores | 2 GB | 40 GB SSD | 2 TB | Europe-based (Lithuania) |
-| [Microsoft](https://azure.microsoft.com/en-us/pricing/details/virtual-machines/linux/) | [Linux VM B1ms](https://azure.microsoft.com/en-us/pricing/details/virtual-machines/linux/) | \$15.11 | 1 Core | 2 GB | ?? | ?? | I cannot find what 4 GiB of "Temporary Storage" is, how much HDD space it comes with, nor how much data transfer is included. But supposedly we get \$2500/year for free (since we're a 501c3? ref: Jot Powers) |
-| [Spry](https://www.spryservers.net/) | [SSD KVM Milli](https://www.spryservers.net/vps) | \$20.00 | 2 Cores | 2 GB | 40 GB SSD | ?? |  |
+<table>
+<tbody>
+<tr>
+<td><p>Provider</p></td>
+<td><p>VPS Plan</p></td>
+<td><p>Monthly Price</p></td>
+<td><p>vCPU Cores</p></td>
+<td><p>RAM</p></td>
+<td><p>HDD</p></td>
+<td><p>Data Xfer per Month</p></td>
+<td><p>Notes</p></td>
+</tr>
+<tr>
+<td><p><a href="https://aquatis.host/">Aquatis</a></p></td>
+<td><p><a href="https://aquatis.host/kvm-hosting/">KVM - 2G</a></p></td>
+<td><p>$5.00</p></td>
+<td><p>2 Cores</p></td>
+<td><p>2 GB</p></td>
+<td><p>10 GB SSD</p></td>
+<td><p>1 TB</p></td>
+<td><p>Small Storage, Out of Stock, could not confirm price is month-to-month</p></td>
+</tr>
+<tr>
+<td><p><a href="https://www.interserver.net/">Interserver</a></p></td>
+<td><p><a href="https://www.interserver.net/vps/">VPS 1</a></p></td>
+<td><p>$6.00</p></td>
+<td><p>1 Core</p></td>
+<td><p>2 GB</p></td>
+<td><p>30 GB SSD</p></td>
+<td><p>2 TB</p></td>
+<td><p>Offers 1-click MediaWiki (though having our own deploy process makes lift &amp; shift easier)</p></td>
+</tr>
+<tr>
+<td><p><a href="https://www.namecheap.com/hosting/">Namecheap</a></p></td>
+<td><p><a href="https://www.namecheap.com/hosting/vps/">Pulsar</a></p></td>
+<td><p>$9.88</p></td>
+<td><p>2 Cores</p></td>
+<td><p>2 GB</p></td>
+<td><p>40 GB SSD RAID 10</p></td>
+<td><p>1 TB</p></td>
+<td><p>Phoenix Local, RAID 10, <a href="https://www.namecheap.com/about/press-releases/press-releases-info/17-07-04/namecheap_joins_the_battle_for_the_net_protest_on_july_12/">Supports Net Neutrality</a>, <a href="https://www.namecheap.com/about/press-releases/22-03-15/joint-statement">Fought Facebook (and settled)</a>, <a href="https://www.namecheap.com/about/press-releases/22-03-02/free-anonymous-domain-registration-in-russia-belarus">Opposes Invasion of Ukraine</a>, <a href="https://www.namecheap.com/about/press-releases/22-03-15/solopreneurs-savings-web-products">Supports Solo Entrepreneurs and Women Entrepreneurs</a> <a href="https://www.namecheap.com/blog/move-your-domain-day-chat-eff-namecheap/">Supports EFF</a>, <a href="https://www.namecheap.com/blog/namecheap-champions-privacy-standards/">Supports Privacy</a></p>
+<p>Turns out they are backed by Amazon AWS. That pretty much blows the "do business with small local businesses" argument.</p></td>
+</tr>
+<tr>
+<td><p><a href="https://aws.amazon.com/lightsail/">Amazon Lightsail</a></p></td>
+<td><p><a href="https://aws.amazon.com/lightsail/pricing/">Virtual Server 3</a></p></td>
+<td><p>$10.00</p></td>
+<td><p>1 Core</p></td>
+<td><p>2 GB</p></td>
+<td><p>60 GB SSD</p></td>
+<td><p>3 TB</p></td>
+<td></td>
+</tr>
+<tr>
+<td><p><a href="https://www.ndchost.com/">NDCHost</a></p></td>
+<td><p><a href="https://www.ndchost.com/cloud-servers/">Cloud Server #2</a></p></td>
+<td><p>$10.00</p></td>
+<td><p>1 Cores</p></td>
+<td><p>2 GB</p></td>
+<td><p>50 GB SSD</p></td>
+<td><p>2 TB</p></td>
+<td><p><a href="https://certbot.eff.org/hosting_providers/">Listed on EFF</a> as having full support for CertBot.</p></td>
+</tr>
+<tr>
+<td><p><a href="https://console.cloud.google.com/">Google Cloud</a></p></td>
+<td><p><a href="https://console.cloud.google.com/marketplace/details/click-to-deploy-images/lamp">LAMP Stack</a></p></td>
+<td><p>$12.70</p></td>
+<td><p>1 Core</p></td>
+<td><p>2 GB</p></td>
+<td><p>10 GB</p></td>
+<td><p>??</p></td>
+<td><p>Small Storage, offers 1-click Bitnami Mediawiki, price is for LAMP - bare Linux instances are $25.95</p></td>
+</tr>
+<tr>
+<td><p><a href="https://www.hostinger.com/">Hostinger</a></p></td>
+<td><p><a href="https://www.hostinger.com/vps-hosting">VPS2</a></p></td>
+<td><p>$12.99</p></td>
+<td><p>2 Cores</p></td>
+<td><p>2 GB</p></td>
+<td><p>40 GB SSD</p></td>
+<td><p>2 TB</p></td>
+<td><p>Europe-based (Lithuania)</p></td>
+</tr>
+<tr>
+<td><p><a href="https://azure.microsoft.com/en-us/pricing/details/virtual-machines/linux/">Microsoft</a></p></td>
+<td><p><a href="https://azure.microsoft.com/en-us/pricing/details/virtual-machines/linux/">Linux VM B1ms</a></p></td>
+<td><p>$15.11</p></td>
+<td><p>1 Core</p></td>
+<td><p>2 GB</p></td>
+<td><p>??</p></td>
+<td><p>??</p></td>
+<td><p>I cannot find what 4 GiB of "Temporary Storage" is, how much HDD space it comes with, nor how much data transfer is included. But supposedly we get $2500/year for free (since we're a 501c3? ref: Jot Powers)</p></td>
+</tr>
+<tr>
+<td><p><a href="https://www.spryservers.net/">Spry</a></p></td>
+<td><p><a href="https://www.spryservers.net/vps">SSD KVM Milli</a></p></td>
+<td><p>$20.00</p></td>
+<td><p>2 Cores</p></td>
+<td><p>2 GB</p></td>
+<td><p>40 GB SSD</p></td>
+<td><p>??</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
