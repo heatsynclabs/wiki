@@ -231,6 +231,8 @@ Prices are based on month-to-month pricing.
 
 Hosting our own machine means care and feeding of the box. We have some machines in house, but what matters is total cost of ownership.
 
+Network Reliability: On-site we do not have multiple redundant high availability lines.
+
 Hardware Failure: Hardware failure is a bit more likely with our own gear, and with a cloud provider it \*may\* magically get fixed for us.
 
 Hardware Obsolescence: When the hardware can no longer keep up with the latest version of the server daemon, it has to be replaced. This is the same with on-prem or cloud.
