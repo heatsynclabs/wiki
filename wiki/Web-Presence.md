@@ -162,7 +162,7 @@ Prices are based on month-to-month pricing.
 <td><p>40 GB SSD RAID 10</p></td>
 <td><p>1 TB</p></td>
 <td><p>Phoenix Local, RAID 10, <a href="https://www.namecheap.com/about/press-releases/press-releases-info/17-07-04/namecheap_joins_the_battle_for_the_net_protest_on_july_12/">Supports Net Neutrality</a>, <a href="https://www.namecheap.com/about/press-releases/22-03-15/joint-statement">Fought Facebook (and settled)</a>, <a href="https://www.namecheap.com/about/press-releases/22-03-02/free-anonymous-domain-registration-in-russia-belarus">Opposes Invasion of Ukraine</a>, <a href="https://www.namecheap.com/about/press-releases/22-03-15/solopreneurs-savings-web-products">Supports Solo Entrepreneurs and Women Entrepreneurs</a> <a href="https://www.namecheap.com/blog/move-your-domain-day-chat-eff-namecheap/">Supports EFF</a>, <a href="https://www.namecheap.com/blog/namecheap-champions-privacy-standards/">Supports Privacy</a></p>
-<p>Turns out their VPS hosting is backed by Amazon AWS. That pretty much blows the "do business with small local businesses" argument.</p></td>
+<p>Turns out their VPS hosting is backed by Amazon AWS. That pretty much breaks the "do business with small local businesses" argument.</p></td>
 </tr>
 <tr>
 <td><p><a href="https://aws.amazon.com/lightsail/">Amazon Lightsail</a></p></td>
