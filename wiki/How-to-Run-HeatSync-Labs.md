@@ -59,6 +59,30 @@ The role of the Board of HeatSync Labs has three parts:
 - 501c3 status (account switchovers)
 - Record when a donation worth more than \$500 is sold or disposed of, we [must document that sale for the IRS.](http://www.irs.gov/Charities-&-Non-Profits/Charitable-Organizations/Charitable-Organizations-Substantiating-Noncash-Contributions)
 
+### Notes Captured From Eric Wood
+
+- HSL has an accounting firm, which charges about \$300 per month.
+- Most bills are auto-paid, but there are some manual outliers that need to be handled.
+- Payments to instructors:
+  - Money transfer from PayPal to Instructor done by Treasurer.
+  - Recorded in QuickBooks by Treasurer.
+  - Customer payments are collected in PayPal by Website.
+  - Instructor provides info to Treasurer about financial breakdown.
+  - Treasurer \*does not\* do 1099 - Accountant does that.
+    - Treasurer does categorize instructor payments in docs provided to accountant.
+- Reimbursements are paid by Treasurer.
+  - Receipts are stored primarily as images in DropBox.
+  - Some noteworthy receipts are also kept as paper.
+- Books are done in QuickBooks.
+- Member Database integration would be nice. (has been on the wish list for a long time)
+- Keep about \$nn in checking account. (number known but not disclosed here, ask Eric)
+  - When checking goes below \$nn, transfer money from savings.
+  - Consider pinging Jim Tolar from Bike Saviours regarding using a CD ladder for improved interest.
+- Currently we do not have a purchaser of paper towels and toilet paper, which should be expenses sent to Treasurer.
+- Rent is our highest expense at about \$1/foot/month.
+- Electricity is our \#2 expense.
+- Sprinklers are the big thing we don't want to do that makes us consider leaving our otherwise pleasant location. Estimate was \$50k, but that included \$25k to extend the City of Mesa water main, which may have been partially extended already. \$50k is probably more like an upper bound right now.
+
 ## Secretary
 
 - send thank yous, etc
