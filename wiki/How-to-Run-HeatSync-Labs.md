@@ -59,7 +59,7 @@ The role of the Board of HeatSync Labs has three parts:
 - 501c3 status (account switchovers)
 - Record when a donation worth more than \$500 is sold or disposed of, we [must document that sale for the IRS.](http://www.irs.gov/Charities-&-Non-Profits/Charitable-Organizations/Charitable-Organizations-Substantiating-Noncash-Contributions)
 
-### Notes Captured From Eric Wood
+### Notes Captured From Eric Wood 2022-08-23
 
 - HSL has an accounting firm, which charges about \$300 per month.
 - Most bills are auto-paid, but there are some manual outliers that need to be handled.
