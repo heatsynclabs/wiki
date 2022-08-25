@@ -4,7 +4,10 @@ The role of the Board of HeatSync Labs has three parts:
 - To Represent the Will of the Community where an official representation is necessary to interface with other organizations and to fulfill the Law of the land.
 - To Empower the Individuals that make up the Community of HeatSync Labs to take Action towards the ends of fulfilling our goals and mission.
 
-Current [Board Members](Board-Members)
+<!-- -->
+
+- Current [Board Members](Board-Members)
+- Elections: October, with November transition.
 
 ## Everyone
 
