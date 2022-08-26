@@ -69,7 +69,9 @@ MediaWiki 1.19 (ca 2012)
 
 - Bob's first pass, from long ago: [MediaWiki_On_Lightsail](MediaWiki-On-Lightsail)
 - More recent pass by Bob, on his own stuff: [MediaWiki Install](https://wiki.traxel.com/index.php/MediaWiki_Install)
-- Bob's current attempt: [MediaWiki on Namecheap](https://wiki.traxel.com/index.php/MediaWiki_on_Namecheap)
+- ~~Bob's current attempt: [MediaWiki on Namecheap](https://wiki.traxel.com/index.php/MediaWiki_on_Namecheap)~~
+- Bob's current current attempt: [MediaWiki Install](https://wiki.traxel.com/index.php/MediaWiki_Install)
+  - It is getting better and better. I believe the delays are worth the improvement.
 
 # Office Suite
 
