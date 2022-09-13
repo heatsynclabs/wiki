@@ -7,3 +7,4 @@
 ## Wanted
 
 - 6" Jointer
+  - Maybe this one? <https://www.youtube.com/watch?v=wTOmCQc2LKU>
