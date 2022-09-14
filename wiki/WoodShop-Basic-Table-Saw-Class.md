@@ -16,6 +16,7 @@ The end result is an open top box that can be used for organizing things, but al
 # Safety
 
 - Think through the cut **every time**.
+  - Failure to do so is the \#1 cause of injuries among experienced users.
   - Can you reach the kill switch with your knee?
   - Where are your hands?
   - Where is the blade?
