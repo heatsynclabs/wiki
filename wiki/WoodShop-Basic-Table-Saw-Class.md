@@ -25,6 +25,8 @@ In this class (currently in development, not yet offered), you will learn:
 
 *osb_frame_with_bottom.jpg*
 
+13.5" x 7.5" x 3" box with bottom
+
 ## Cut List
 
 ![](files/Osb_glue-up_with_bottom.jpg)
