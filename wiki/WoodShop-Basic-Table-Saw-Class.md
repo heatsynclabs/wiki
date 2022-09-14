@@ -15,7 +15,21 @@ The end result is an open top box that can be used for organizing things, but al
 
 # Safety
 
+- Think through the cut \*every time\*.
+  - Can you reach the kill switch with your knee?
+  - Where are your hands?
+  - Where is the blade?
+  - Where will the material go when the cut completes?
+- Move smoothly through the cut.
+- Stop if things sound or look wrong.
+- Hit the kill switch with your knee if anything seems unsafe.
+- Wood and saws are cheap compared to fingers.
+
 # Care & Cleaning
+
+- Verify the blade is square to the table.
+- Verify the rip fence is parallel to the table.
+  - Adjust squareness.
 
 # Setup & Teardown
 
