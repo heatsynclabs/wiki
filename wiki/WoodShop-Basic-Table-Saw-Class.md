@@ -35,7 +35,7 @@ In this class (currently in development, not yet offered), you will learn:
   - 2@ 7.5" x 3" with 45 degree bevels, rough side in, and a .14 x .14 dado .125 from the bottom edge
   - 2@ 13.5" x 3" with 45 degree bevels, rough side in, and a .14 x .14 dado .125 from the bottom edge
 - 1/8" hardboard
-  - 1@ 10.75" x 5.75" (wrong)
+  - 1@ 6.75" x 12.75"
 
 ## Ripping
 
