@@ -43,8 +43,7 @@ The end result is an open top box that can be used for organizing things, but al
 
 ## Ripping
 
-- Sheet goods max 2' x 4', max 2' cut.
-- Linear goods max 4' cut.
+- Material max size 2' x 4'.
 - Verify the blade is square to the table.
 - Rip fence basics.
 - Verify the rip fence is parallel to the blade.
