@@ -1,18 +1,3 @@
-# Overview
-
-In this class (currently in development, not yet offered), you will learn:
-
-1.  Safety
-2.  Care & Cleaning
-3.  Setup & Teardown
-4.  Rip Cuts
-5.  Dados
-6.  Crosscuts
-7.  Bevel Cuts
-8.  Miter Cuts
-
-The end result is an open top box that can be used for organizing things, but also acts as the bottom portion of an arcade control. A series of classes in different disciplines will complete the rest of the arcade control.
-
 # Safety
 
 - Think through the cut **every time**.
