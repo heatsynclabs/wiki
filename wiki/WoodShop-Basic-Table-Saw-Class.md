@@ -25,35 +25,11 @@ In this class (currently in development, not yet offered), you will learn:
 
 *osb_frame_with_bottom.jpg*
 
-- MediaWiki
-- has a
-- shortcoming
-- there is
-- no good way
-- that I know of
-- to make an image
-- float within
-- a section heading
-- without sufficient
-- vertical text space
-
 ## Cut List
 
 ![](files/Osb_glue-up_with_bottom.jpg)
 
 *osb_glue-up_with_bottom.jpg*
-
-- MediaWiki
-- has a
-- shortcoming
-- there is
-- no good way
-- that I know of
-- to make an image
-- float within
-- a section heading
-- without sufficient
-- vertical text space
 
 ## Ripping
 
