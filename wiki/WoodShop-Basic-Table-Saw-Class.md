@@ -37,6 +37,18 @@ The end result is an open top box that can be used for organizing things, but al
 
 # Setup & Teardown
 
+- Use outdoors only.
+- Do not leave unattended (theft risk).
+  - Plan accordingly, use bathroom, bring what you need.
+- Roll gently over bumps, be aware of feet.
+- Use an appropriate extension cord (or plug in directly).
+- Opening the stand.
+
+<!-- -->
+
+- Closing the stand.
+- Roll gently over bumps, be aware of feet.
+
 # Project
 
 ## Final Product
