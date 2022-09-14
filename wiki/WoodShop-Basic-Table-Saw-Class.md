@@ -31,6 +31,8 @@ The end result is an open top box that can be used for organizing things, but al
 - Verify the blade is square to the table.
 - Verify the rip fence is parallel to the table.
   - Adjust squareness.
+- does the miter gauge have stops? Verify stops are true to their angle.
+  - Adjust stops.
 
 # Setup & Teardown
 
