@@ -87,7 +87,7 @@ The end result is an open top box that can be used for organizing things, but al
 - Set the width of cut.
 - Set the depth of cut.
 - Install blade guard.
-- If you intend to use it, put the push stick where you can reach it.
+- Put the push stick where you can reach it.
 - Think through the cut **every time**.
 - Start the saw.
 - Keep the material square to the fence and flat on the table.
