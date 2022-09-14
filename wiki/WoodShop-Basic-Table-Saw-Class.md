@@ -37,17 +37,25 @@ The end result is an open top box that can be used for organizing things, but al
 
 # Setup & Teardown
 
+## Setup
+
 - Use outdoors only.
 - Do not leave unattended (theft risk).
   - Plan accordingly, use bathroom, bring what you need.
+  - Bring a dust brush.
 - Roll gently over bumps, be aware of feet.
 - Use an appropriate extension cord (or plug in directly).
-- Opening the stand.
+- Open the stand.
 
-<!-- -->
+## Teardown
 
-- Closing the stand.
+- Brush off the sawdust.
+- Stow the miter gauge and push stick.
+- Wrap the power cord.
+- Wrap the extension cord.
+- Close the stand.
 - Roll gently over bumps, be aware of feet.
+- Vacuum out the sawdust.
 
 # Project
 
