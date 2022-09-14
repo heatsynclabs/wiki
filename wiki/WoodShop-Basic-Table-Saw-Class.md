@@ -80,6 +80,7 @@ The end result is an open top box that can be used for organizing things, but al
 - Keep the material square to the fence and flat on the table.
 - Move the material through the blade steadily, listening and watching for changes.
 - When the cut completes, hit the kill switch.
+- Wait for the blade to come to a complete stop.
 
 ## Dadoing
 
