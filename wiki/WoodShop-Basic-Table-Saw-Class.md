@@ -21,7 +21,15 @@ In this class (currently in development, not yet offered), you will learn:
 
 ## Final Product
 
+![](files/Osb_frame_with_bottom.jpg)
+
+*osb_frame_with_bottom.jpg*
+
 ## Cut List
+
+![](files/Osb_glue-up_with_bottom.jpg)
+
+*osb_glue-up_with_bottom.jpg*
 
 ## Ripping
 
