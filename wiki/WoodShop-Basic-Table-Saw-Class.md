@@ -44,22 +44,10 @@ The end result is an open top box that can be used for organizing things, but al
 ## Ripping
 
 - Material max size 2' x 4'.
-- Verify the blade is square to the table.
 - Rip fence basics.
-- Verify the rip fence is parallel to the blade.
-  - Adjust squareness.
 - Set the width of cut.
 - Set the depth of cut.
-- Think through the cut.
-  - Can you reach the kill switch with your knee?
-  - Where are your hands?
-  - Where is the blade?
-  - Where will the material go when the cut completes?
-- Keep the material tight and square to the fence.
-- Move smoothly through the cut.
-- Stop if things sound or look wrong.
-- Hit the kill switch with your knee if anything seems unsafe.
-- Wood and saws are cheap compared to fingers.
+- Keep the material square to the fence and flat on the table.
 
 ## Dadoing
 
