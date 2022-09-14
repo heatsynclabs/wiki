@@ -83,7 +83,7 @@ The end result is an open top box that can be used for organizing things, but al
 ## Ripping
 
 - Material max size 2' x 4'.
-- Rip fence basics.
+- Set the blade 90 degrees to the table.
 - Set the width of cut.
 - Set the depth of cut.
 - Install blade guard.
