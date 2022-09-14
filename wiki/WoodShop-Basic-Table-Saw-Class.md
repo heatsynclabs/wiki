@@ -27,7 +27,7 @@ The end result is an open top box that can be used for organizing things, but al
 - Hit the kill switch with your knee if anything seems unsafe.
 - Wood and saws are cheap compared to fingers.
 
-# Care & Cleaning
+# Saw Maintenance
 
 - Verify the blade is parallel to the table.
 - Verify the rip fence is parallel to the table.
