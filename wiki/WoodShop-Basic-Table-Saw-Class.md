@@ -11,6 +11,8 @@ In this class (currently in development, not yet offered), you will learn:
 7.  Bevel Cuts
 8.  Miter Cuts
 
+The end result is an open top box that can be used for organizing things, but also acts as the bottom portion of an arcade control. A series of classes in different disciplines will complete the rest of the arcade control.
+
 # Safety
 
 # Care & Cleaning
