@@ -45,6 +45,8 @@
 
 # Project
 
+The end result is an open top box that can be used for organizing things, but also acts as the bottom portion of an arcade control. A series of classes in different disciplines will complete the rest of the arcade control.
+
 ## Final Product
 
 ![](files/Osb_frame_with_bottom.jpg)
