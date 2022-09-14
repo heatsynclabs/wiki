@@ -8,3 +8,9 @@
 
 - 6" Jointer
   - Maybe this one? <https://www.youtube.com/watch?v=wTOmCQc2LKU>
+
+# Classes
+
+## In Development
+
+- [WoodShop_Basic_Table_Saw_Class](WoodShop-Basic-Table-Saw-Class)
