@@ -43,7 +43,7 @@ The end result is an open top box that can be used for organizing things, but al
 
 ## Ripping
 
-- Material max size 2' x 4'.
+- Material max size 2' x 4' for one operator. (training required for two operators handling larger material)
 - Verify the blade is square to the table.
 - Rip fence basics.
 - Verify the rip fence is parallel to the blade.
