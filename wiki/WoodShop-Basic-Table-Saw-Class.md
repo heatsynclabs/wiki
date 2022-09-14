@@ -20,6 +20,7 @@ The end result is an open top box that can be used for organizing things, but al
   - Where are your hands?
   - Where is the blade?
   - Where will the material go when the cut completes?
+- Blade guard pros & cons.
 - Move smoothly through the cut.
 - Stop if things sound or look wrong.
 - Hit the kill switch with your knee if anything seems unsafe.
