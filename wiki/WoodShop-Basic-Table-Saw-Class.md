@@ -64,6 +64,8 @@ The end result is an open top box that can be used for organizing things, but al
 - Rip fence basics.
 - Set the width of cut.
 - Set the depth of cut.
+- Install blade guard.
+- Think through the cut **every time**.
 - Keep the material square to the fence and flat on the table.
 
 ## Dadoing
