@@ -48,3 +48,6 @@ In this class (currently in development, not yet offered), you will learn:
 ## Beveling
 
 ## Mitering
+
+---
+*Categories: [WoodShop](Category-WoodShop)*
