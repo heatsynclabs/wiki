@@ -21,8 +21,12 @@ In this class (currently in development, not yet offered), you will learn:
 
 ## Final Product
 
+![](files/Osb_frame_with_bottom.jpg)
+
+*osb_frame_with_bottom.jpg*
+
 - MediaWiki
-- has one
+- has a
 - shortcoming
 - there is
 - no good way
@@ -33,15 +37,23 @@ In this class (currently in development, not yet offered), you will learn:
 - without sufficient
 - vertical text space
 
-![](files/Osb_frame_with_bottom.jpg)
-
-*osb_frame_with_bottom.jpg*
-
 ## Cut List
 
 ![](files/Osb_glue-up_with_bottom.jpg)
 
 *osb_glue-up_with_bottom.jpg*
+
+- MediaWiki
+- has a
+- shortcoming
+- there is
+- no good way
+- that I know of
+- to make an image
+- float within
+- a section heading
+- without sufficient
+- vertical text space
 
 ## Ripping
 
