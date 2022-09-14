@@ -30,6 +30,7 @@ The end result is an open top box that can be used for organizing things, but al
 # Saw Maintenance
 
 - Verify the blade is parallel to the table.
+  - Is this done using shims or other?
 - Verify the rip fence is parallel to the table.
   - Adjust squareness.
 - does the miter gauge have stops? Verify stops are true to their angle.
