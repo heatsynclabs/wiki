@@ -195,3 +195,6 @@ Our current space is an office ~120 sqft. and the corner with lockers and large 
 - - Conclusion
 
 Understanding that we don't feel a big push to move away from Gangplank right now. Talk with Derek about expanding the space at 3.0 to include us for free or minimal cost.
+
+---
+*Categories: [Location](Category-Location)*
