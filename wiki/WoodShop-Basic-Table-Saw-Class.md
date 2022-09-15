@@ -67,7 +67,7 @@ The end result is an open top box that can be used for organizing things, but al
 - 1/8" hardboard
   - 1@ 6.75" x 12.75"
 
-## Ripping
+## Rip
 
 - Material max size 2' x 4'.
 - Set the blade 90 degrees to the table.
