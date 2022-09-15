@@ -8,7 +8,8 @@ To wit:
 
 - Change of occupancy triggers a new building code assessment.
 - We will need sprinklers to do welding indoors.
-- If we have firewalls, we would only need to cover the firewalled space(s) where fire hazards exist.
+  - If we have firewalls, we would only need to cover the firewalled space(s) where fire hazards exist.
+  - The person who was helping me called the Mesa expert on sprinklers to confirm. I was very convinced that the information was complete and final.
 - Our use according to City of Mesa is "Industrial Trade School."
   - "Handicraft / Custom Manufacturing" is also close, but since Industrial Trade School is equally or more accurate and is more strictly regulated, we are required to use it.
 - Industrial Trade School requirements:
