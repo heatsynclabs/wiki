@@ -82,15 +82,17 @@ The end result is an open top box that can be used for organizing things, but al
 - When the cut completes, hit the kill switch.
 - Wait for the blade to come to a complete stop.
 
-## Dadoing
+## Dado
 
-## Crosscutting
+## Crosscut
 
-## Beveling
+## Bevel
 
-## Mitering
+## Miter
 
 I haven't figured out how to shoehorn a miter cut into this project, but we'll do one anyway, so you know how to use the miter gauge.
+
+## Glue Up
 
 ---
 *Categories: [WoodShop](Category-WoodShop)*
