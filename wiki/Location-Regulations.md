@@ -12,8 +12,7 @@ To wit:
 - Our use according to City of Mesa is "Industrial Trade School."
   - "Handicraft / Custom Manufacturing" is also close, but since Industrial Trade School is equally or more accurate and is more strictly regulated, we are required to use it.
 - Industrial Trade School requirements:
-  - Completely Enclosed
-  - Sound Attenuated
+  - Must be confined to completely enclosed, sound-attenuated facilities.
   - Air Space Regulations near Airports (we aren't looking near any)
   - One parking space per 200 square feet.
     - Can be adjusted with a parking study and public hearing with the board of adjustment.
