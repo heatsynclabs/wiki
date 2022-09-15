@@ -92,6 +92,8 @@ The end result is an open top box that can be used for organizing things, but al
 
 I haven't figured out how to shoehorn a miter cut into this project, but we'll do one anyway, so you know how to use the miter gauge.
 
+## Dry Fit
+
 ## Glue Up
 
 ---
