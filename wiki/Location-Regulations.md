@@ -6,7 +6,9 @@ I spoke with a city planning person today. She was very helpful. I came armed wi
 
 To wit:
 
-- "Change of occupancy" triggers a new building code assessment.
+- Change of occupancy triggers a new building code assessment.
+  - "Change of occupancy" was the specific wording she used.
+  - She referenced that the existing occupancy was "B" for business, though, so I think "change of occupancy" means "change of occupancy type."
 - We will need sprinklers to do welding indoors.
   - If we have firewalls, we would only need to cover the firewalled space(s) where fire hazards exist.
   - The person who was helping me called the Mesa expert on sprinkler regulations to confirm. She let me listen in and I was very convinced that the answer was complete and final.
