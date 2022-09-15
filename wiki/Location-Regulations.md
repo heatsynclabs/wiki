@@ -16,7 +16,7 @@ To wit:
   - Air Space Regulations near Airports (we aren't looking near any)
   - One parking space per 200 square feet.
     - Can be adjusted with a parking study and public hearing with the board of adjustment.
-- See [Title 11, Article 2, Chapter 6](https://library.municode.com/az/mesa/codes/code_of_ordinances?nodeId=COOR_TIT11ZOOR_ART2BAZO_CH6COMIEDI) for allowed uses in commercial and mixed use.
+- See [Title 11, Article 2, Chapter 6](https://library.municode.com/az/mesa/codes/code_of_ordinances?nodeId=COOR_TIT11ZOOR_ART2BAZO_CH6COMIEDI) for allowed uses in commercial and mixed use zones.
 - See [Title 11, Article 8, Chapter 86](https://library.municode.com/az/mesa/codes/code_of_ordinances?nodeId=COOR_TIT11ZOOR_ART8LAUSCLDE_CH86USTY) for definition of uses.
 
 ---
