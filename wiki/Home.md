@@ -72,9 +72,12 @@
 </div>
 <ul>
 <li><a href="How-to-Run-HeatSync-Labs">How to Run HeatSync Labs</a></li>
-<li><a href="Operations-team">Operations team</a>
+<li><a href="Operations-team">Operations team</a></li>
+<li><a href="Category-Location"> Location </a></li>
+</ul>
 <ul>
-<li>Money</li>
+<li>Money
+<ul>
 <li><a href="Finances">Finances</a></li>
 <li><a href="Donations">Donations</a></li>
 <li><a href="Fundraising">Fundraising</a></li>
@@ -102,6 +105,3 @@
 </table>
 
 <small>Newly... [edited articles](Special-Recentchanges), [created articles](Special-Newpages), [uploaded images](Special-Newimages)</small>
-
----
-*Categories: [Location](Category-Location)*
