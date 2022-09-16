@@ -47,3 +47,11 @@ Vector File Ready for the laser or vinyl cutter: [HeattSync_Logo_Simplified_SVG.
 ![](files/Hsl_website_qr_code.png)
 
 *hsl_website_qr_code.png*
+
+# Fonts
+
+## Logo Font (GPL)
+
+[charis_sil.zip](files/Charis_sil.zip)
+
+*charis_sil.zip*
