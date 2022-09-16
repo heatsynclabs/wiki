@@ -39,3 +39,11 @@ Vector File Ready for the laser or vinyl cutter: [HeattSync_Logo_Simplified_SVG.
 ![](files/Heatsync_labs_logo_-_black_-_latest.png)
 
 *Heatsync_labs_logo\_-\_black\_-\_latest.png*
+
+# QR Codes
+
+## Website Front Page
+
+![](files/Hsl_website_qr_code.png)
+
+*hsl_website_qr_code.png*
