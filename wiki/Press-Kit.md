@@ -60,9 +60,9 @@ Vector File Ready for the laser or vinyl cutter: [HeattSync_Logo_Simplified_SVG.
 
 ## Front
 
-![](files/Business_card_front.svg)
+[business_card_front_svg.zip](files/Business_card_front_svg.zip)
 
-*business_card_front.svg*
+*business_card_front_svg.zip*
 
 [business_card_front.pdf](files/Business_card_front.pdf)
 
