@@ -55,3 +55,17 @@ Vector File Ready for the laser or vinyl cutter: [HeattSync_Logo_Simplified_SVG.
 [charis_sil.zip](files/Charis_sil.zip)
 
 *charis_sil.zip*
+
+# Business Card
+
+## Front
+
+[business_card_front.pdf](files/Business_card_front.pdf)
+
+*business_card_front.pdf*
+
+## Back
+
+[business_card_back.pdf](files/Business_card_back.pdf)
+
+*business_card_back.pdf*
