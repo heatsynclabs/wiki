@@ -67,7 +67,7 @@ Vector File Ready for the laser or vinyl cutter: [HeattSync_Logo_Simplified_SVG.
 </thead>
 <tbody>
 <tr>
-<td><p><strong>NOTE:</strong> SVG requires <a href="files/Charis_sil.zip">charis_sil.zip</a></p>
+<td><p><strong>NOTE:</strong> SVG requires font <a href="files/Charis_sil.zip">charis_sil.zip</a></p>
 <a href="files/Business_card_front_svg.zip">business_card_front_svg.zip</a>
 <p><em>business_card_front_svg.zip</em></p>
 <a href="files/Business_card_front.pdf">business_card_front.pdf</a>
