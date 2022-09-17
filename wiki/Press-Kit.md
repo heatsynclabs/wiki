@@ -58,6 +58,8 @@ Vector File Ready for the laser or vinyl cutter: [HeattSync_Logo_Simplified_SVG.
 
 # Business Card
 
+**NOTE:** Front in SVG requires charis_sil font, downloadable above.
+
 <table>
 <thead>
 <tr>
