@@ -85,3 +85,28 @@ Vector File Ready for the laser or vinyl cutter: [HeattSync_Logo_Simplified_SVG.
 ![](files/Business_card_back.png)
 
 *business_card_back.png*
+
+<table>
+<thead>
+<tr>
+<th style="width: 50%"><p>Front</p></th>
+<th style="width: 50%"><p>Back</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="files/Business_card_front_svg.zip">business_card_front_svg.zip</a>
+<p><em>business_card_front_svg.zip</em></p>
+<a href="files/Business_card_front.pdf">business_card_front.pdf</a>
+<p><em>business_card_front.pdf</em></p>
+<img src="files/Business_card_front.png" />
+<p><em>business_card_front.png</em></p></td>
+<td><a href="files/Business_card_back_svg.zip">business_card_back_svg.zip</a>
+<p><em>business_card_back_svg.zip</em></p>
+<a href="files/Business_card_back.pdf">business_card_back.pdf</a>
+<p><em>business_card_back.pdf</em></p>
+<img src="files/Business_card_back.png" />
+<p><em>business_card_back.png</em></p></td>
+</tr>
+</tbody>
+</table>
