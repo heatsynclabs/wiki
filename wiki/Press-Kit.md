@@ -58,6 +58,8 @@ Vector File Ready for the laser or vinyl cutter: [HeattSync_Logo_Simplified_SVG.
 
 # Business Card
 
+Layout is for 3.5" x 2" with .125 bleed. (3.75" x 2.25" printed cards, cropped to 3.5" x 2")
+
 <table>
 <thead>
 <tr>
