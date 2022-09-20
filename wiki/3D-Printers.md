@@ -8,8 +8,6 @@ The SLA printers will require specific training prior to use.
 
 - [Ultimaker Original](Ultimaker-Original)
 - [Ultimaker 2](Ultimaker-2)
-- [Choocher](Choocher)
-- [Robo3D](Robo3D)
 - [Ender 5](Ender-5)
 
 ## SLA Printers
