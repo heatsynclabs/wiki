@@ -112,6 +112,8 @@ specs, image, model, manual
 
 ### Bernina (Industrial)
 
+Training Required!
+
 specs, image, model, manual
 
 ------------------------------------------------------------------------
