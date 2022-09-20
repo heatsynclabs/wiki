@@ -16,3 +16,6 @@ The SLA printers will require specific training prior to use.
 
 - [Kudo3D Titan 1 Ruby](Kudo3D-Titan-1-Ruby)
 - [Formlabs Form 1](Formlabs-Form-1)
+
+---
+*Categories: [3D-Printing](Category-3D-Printing)*
