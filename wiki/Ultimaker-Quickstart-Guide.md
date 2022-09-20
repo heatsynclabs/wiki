@@ -133,3 +133,6 @@ Now my favourite part, when you're done, clean up the build area, deposit any ex
 - The machine is rarely actually clogged. Please \*\*do not\*\* take any actions beyond reloading the filament.
 - DO NOT REMOVE THE HOTEND SCREWS
 - DO NOT ATTEMPT TO INSERT SMALL OBJECTS INTO THE NOZZLE (EVER)
+
+---
+*Categories: [3D-Printing](Category-3D-Printing)*
