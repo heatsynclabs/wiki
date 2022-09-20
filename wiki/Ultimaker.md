@@ -37,3 +37,6 @@ Take a look at our [Ultimaker Quickstart Guide](Ultimaker-Quickstart-Guide) for 
 
 - Flashed Marlin Rev2.0 on to machine
 - Set up RepetierHost for GCode generation
+
+---
+*Categories: [3D-Printing](Category-3D-Printing)*
