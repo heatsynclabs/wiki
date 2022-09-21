@@ -6,4 +6,4 @@
 
 ## Description
 
-This is the outdated version of the waiver. Please use \[Liability_Waiver\]
+This is the outdated version of the waiver. Please use [Liability_Waiver](Liability-Waiver)
