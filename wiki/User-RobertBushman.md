@@ -1,6 +1,6 @@
 # On HeatSync Labs
 
-I believe in advancing the following characteristics of HeatSync Labs, until I hear of better ones.
+I believe in advancing the following characteristics of HeatSync Labs, until I hear better ones.
 
 ## Vision (Why)
 
