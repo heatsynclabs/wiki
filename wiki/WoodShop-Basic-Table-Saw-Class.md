@@ -69,7 +69,7 @@ The end result is an open top box that can be used for organizing things, but al
 
 ## Rip
 
-For this step you will cut two 3" strips along the 24" side of the material.
+In this step you will cut two 3" strips along the 24" side of the material.
 
 1.  Set the width of cut. Measure 3" from the fence to the near side of the blade tooth.
 2.  Set the depth of cut. Set a combination square to 0.6" and use it to set the height of the blade.
