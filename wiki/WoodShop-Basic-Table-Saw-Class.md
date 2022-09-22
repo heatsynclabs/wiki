@@ -71,17 +71,16 @@ The end result is an open top box that can be used for organizing things, but al
 
 For this step you will cut two 3" strips along the 24" side of the material.
 
-1.  Set the blade 90 degrees to the table.
-2.  Set the width of cut.
-3.  Set the depth of cut.
-4.  Install blade guard.
-5.  Put the push stick where you can reach it.
-6.  Think through the cut **every time**.
-7.  Start the saw.
-8.  Keep the material square to the fence and flat on the table.
-9.  Move the material through the blade steadily, listening and watching for changes.
-10. When the cut completes, hit the kill switch.
-11. Wait for the blade to come to a complete stop.
+1.  Set the width of cut.
+2.  Set the depth of cut.
+3.  Install blade guard.
+4.  Put the push stick where you can reach it.
+5.  Think through the cut **every time**.
+6.  Start the saw.
+7.  Keep the material square to the fence and flat on the table.
+8.  Move the material through the blade steadily, listening and watching for changes.
+9.  When the cut completes, hit the kill switch.
+10. Wait for the blade to come to a complete stop.
 
 ## Dado
 
