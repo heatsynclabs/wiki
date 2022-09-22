@@ -104,6 +104,8 @@ Since a dado is a non-through cut, the blade guard cannot be used.
 
 ## Crosscut
 
+In this step you will cut the two strips into four pieces. Two will be 8" long, two will be 14" long.
+
 ## Bevel
 
 ## Miter
