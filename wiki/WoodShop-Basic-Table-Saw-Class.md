@@ -88,6 +88,8 @@ In this step you will cut two 3" strips along the 24" side of the material.
 
 ## Dado
 
+Note: This section needs practical testing.
+
 In this step you will cut a 0.14" x 0.14" dado in each of the 3" strips, 0.25" from one edge.
 
 Since a dado is a non-through cut, the blade guard cannot be used.
