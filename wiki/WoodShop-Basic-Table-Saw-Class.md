@@ -108,6 +108,11 @@ In this step you will cut the two strips into four pieces. Two will be 8" long, 
 
 ## Bevel
 
+In this step you will cut the pieces to their final lengths of 7.5" and 13.5".
+
+1.  Sharp pencil or knife to mark both ends of the cut.
+2.  Set bevel angle.
+
 ## Miter
 
 I haven't figured out how to shoehorn a miter cut into this project, but we'll do one anyway, so you know how to use the miter gauge.
