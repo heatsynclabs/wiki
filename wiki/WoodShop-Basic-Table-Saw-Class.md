@@ -114,8 +114,16 @@ In this step you will cut the two strips into four pieces. Two will be 8" long, 
 
 In this step you will cut the pieces to their final lengths of 7.5" and 13.5".
 
-1.  Sharp pencil or knife to mark both ends of the cut.
-2.  Set bevel angle.
+1.  Unplug the saw.
+2.  Sharp pencil or knife to mark both ends of the cut.
+3.  Set bevel angle.
+4.  Set depth of cut.
+5.  Set miter gauge to 90 degrees using a square.
+6.  Plug in the saw.
+7.  Use a combination square to set the position of the wood against the miter gauge.
+8.  Start the saw.
+9.  Do the cut.
+10. Stop the saw.
 
 ## Miter
 
