@@ -6,6 +6,7 @@
   - Where are your hands?
   - Where is the blade?
   - Where will the material go when the cut completes?
+- Unplug the saw when setting up the cut.
 - Blade guard pros & cons.
 - Move smoothly through the cut.
 - Stop if things sound or look wrong.
