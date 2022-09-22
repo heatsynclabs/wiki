@@ -112,6 +112,8 @@ In this step you will cut the two strips into four pieces. Two will be 8" long, 
 
 ## Bevel
 
+Note: This section needs practical testing and cleanup of the steps.
+
 In this step you will cut the pieces to their final lengths of 7.5" and 13.5".
 
 1.  Unplug the saw.
