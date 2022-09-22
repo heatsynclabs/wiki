@@ -8,7 +8,7 @@
   - Where will the material go when the cut completes?
 - Unplug the saw when setting up the cut.
 - Blade guard pros & cons.
-- Move smoothly through the cut, give the blade time to do its work.
+- Move smoothly through the cut, give the blade time to do the work.
   - If you hear the motor bog down, you're going too fast.
 - Stop if things sound or look wrong.
 - Hit the kill switch with your knee if anything seems unsafe.
