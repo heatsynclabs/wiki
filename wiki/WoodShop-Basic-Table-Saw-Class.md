@@ -137,6 +137,8 @@ In this step you will cut the pieces to their final lengths of 7.5" and 13.5".
 
 I haven't figured out how to shoehorn a miter cut into this project, but we'll do one anyway, so you know how to use the miter gauge.
 
+Or maybe I'll just talk about it when setting the miter gauge for the rough length and bevel cuts.
+
 ## Dry Fit
 
 ## Glue Up
