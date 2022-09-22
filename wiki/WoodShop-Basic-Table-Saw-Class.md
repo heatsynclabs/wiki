@@ -98,18 +98,19 @@ In this step you will cut a 0.14" x 0.14" dado in each of the 3" strips, 0.25" f
 Since a dado is a non-through cut, the blade guard cannot be used.
 
 1.  Unplug the saw.
-2.  Set the width of cut. Adjust the rip fence to be 0.25" away from the close side of the blade tooth.
-3.  Set the depth of cut. Set a combination square to 0.14" and use that to set the height of the blade.
-4.  Install a featherboard to hold the wood down.
-5.  Install a featherboard to hold the wood against the fence.
-6.  Put the push stick where you can reach it.
-7.  Think through the cut **every time**.
-8.  Plug in the saw.
-9.  Start the saw.
-10. Move the material through the blade steadily, listening and watching for changes.
-11. When tail end of the material passes the edge of the table, grab the push stick and use it.
-12. When the cut completes, hit the kill switch.
-13. Wait for the blade to come to a complete stop.
+2.  Set blade 90 degrees vertical.
+3.  Set the width of cut. Adjust the rip fence to be 0.25" away from the close side of the blade tooth.
+4.  Set the depth of cut. Set a combination square to 0.14" and use that to set the height of the blade.
+5.  Install a featherboard to hold the wood down.
+6.  Install a featherboard to hold the wood against the fence.
+7.  Put the push stick where you can reach it.
+8.  Think through the cut **every time**.
+9.  Plug in the saw.
+10. Start the saw.
+11. Move the material through the blade steadily, listening and watching for changes.
+12. When tail end of the material passes the edge of the table, grab the push stick and use it.
+13. When the cut completes, hit the kill switch.
+14. Wait for the blade to come to a complete stop.
 
 ## Crosscut
 
