@@ -85,6 +85,19 @@ For this step you will cut two 3" strips along the 24" side of the material.
 
 ## Dado
 
+In this step you will cut a 0.14" x 0.14" dado in each of the 3" strips, 0.25" from one edge.
+
+1.  Set the width of cut.
+2.  Set the depth of cut.
+3.  Install blade guard.
+4.  Put the push stick where you can reach it.
+5.  Think through the cut **every time**.
+6.  Start the saw.
+7.  Keep the material square to the fence and flat on the table.
+8.  Move the material through the blade steadily, listening and watching for changes.
+9.  When the cut completes, hit the kill switch.
+10. Wait for the blade to come to a complete stop.
+
 ## Crosscut
 
 ## Bevel
