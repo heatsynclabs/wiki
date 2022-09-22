@@ -70,6 +70,8 @@ The end result is an open top box that can be used for organizing things, but al
 
 ## Rip
 
+Note: This section needs practical testing.
+
 In this step you will cut two 3" strips along the 24" side of the material.
 
 1.  Unplug the saw.
