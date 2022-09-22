@@ -71,17 +71,19 @@ The end result is an open top box that can be used for organizing things, but al
 
 In this step you will cut two 3" strips along the 24" side of the material.
 
-1.  Set blade 90 degrees vertical.
-2.  Set the width of cut. Measure 3" from the fence to the near side of the blade tooth.
-3.  Set the depth of cut. Set a combination square to 0.6" and use it to set the height of the blade.
-4.  Install blade guard.
-5.  Put the push stick where you can reach it.
-6.  Think through the cut **every time**.
-7.  Start the saw.
-8.  Keep the material square to the fence and flat on the table.
-9.  Move the material through the blade steadily, listening and watching for changes.
-10. When the cut completes, hit the kill switch.
-11. Wait for the blade to come to a complete stop.
+1.  Unplug the saw.
+2.  Set blade 90 degrees vertical.
+3.  Set the width of cut. Measure 3" from the fence to the near side of the blade tooth.
+4.  Set the depth of cut. Set a combination square to 0.6" and use it to set the height of the blade.
+5.  Install blade guard.
+6.  Put the push stick where you can reach it.
+7.  Think through the cut **every time**.
+8.  Plug in the saw.
+9.  Start the saw.
+10. Keep the material square to the fence and flat on the table.
+11. Move the material through the blade steadily, listening and watching for changes.
+12. When the cut completes, hit the kill switch.
+13. Wait for the blade to come to a complete stop.
 
 ## Dado
 
