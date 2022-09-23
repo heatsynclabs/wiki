@@ -4,6 +4,12 @@ FDM (Fused Deposition Modeling) and SLA (StereoLithography Apparatus) printing t
 
 The SLA printers will require specific training prior to use.
 
+## On Boarding
+
+[Welcome to HSL 3D Printing](https://docs.google.com/document/d/1gkVk81iiD63BoAwKSFT5sVMU-J4CvySvtNyfM1BNktw/edit#heading=h.5x0d5h95i329)
+
+[3d printer log](https://docs.google.com/forms/d/e/1FAIpQLSfP4GS4lzFiKg1nG6O_yjVCarCjyGqMVxv6eRoVPrExEhymzQ/viewform)
+
 ## FDM Printers
 
 - [Ultimaker Original](Ultimaker-Original)
