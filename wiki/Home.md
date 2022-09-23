@@ -35,10 +35,10 @@
 </div>
 <ul>
 <li><a href="Category-3D-Printing"> 3D-Printing </a></li>
-<li><a href="Category-AudioVisual"> A/V Station </a></li>
+<li><a href="AudioVisual"> A/V Station </a></li>
 <li><a href="Category-BioLab"> BioLab </a></li>
 <li><a href="Electronics">Electronics</a></li>
-<li><a href="Category-Jewelry"> Jewelry</a></li>
+<li><a href="Jewelry">Jewelry</a></li>
 <li><a href="Category-Laser"> Laser </a></li>
 <li><a href="Library">Library</a></li>
 <li><a href="Category-Machine-Shop"> Machine Shop </a></li>
