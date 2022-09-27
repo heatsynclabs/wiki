@@ -18,6 +18,17 @@ The jewelry station is geared towards metal work, but fortunately you can use a 
 - Polishing wheel (DO NOT USE! See station champion)
 - bench blocks
 - ball pein hammers
+- metal stamps (letter and other designs)
+- shitty knock off Dremels and some bits
+
+## Supplies
+
+Generally bring your own supplies
+
+- sand paper
+- jewelry saw blades
+- sharpies
+- cut lube
 
 ## Classes
 
