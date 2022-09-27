@@ -23,3 +23,7 @@ HeatSync Labs is open and honest about what we do and where we are going. We enc
 ### Positivity
 
 At HeatSync Labs we strive to create a positive, welcoming environment and to communicate respectfully.
+
+### Growth
+
+HeatSync Labs provides an important service to the community. The more people we reach, the more good we can do. Growth helps us to fulfill our purpose.
