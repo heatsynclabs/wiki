@@ -34,7 +34,7 @@ In October 2022 I intend to run for the Operations position on the board. I've n
 
 We have people who come to the org who want to help out, but don't have a strong way to onboard them into volunteer opportunities. We have a lot of things that people want improved, but they're vague and not documented. We have different people with all the needed skills to make a team, but no good pipeline for getting together. And we have developed some unhealthy habits in how we express criticism toward people who want to make a difference.
 
-Over the coming year I will attempt to develop our ability to execute on projects that work best with more than one person working together.
+Over the coming year I will attempt to develop our ability to execute on operational projects, especially those that work best with more than one person working together.
 
 ### Main Objectives
 
