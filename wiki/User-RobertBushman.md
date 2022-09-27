@@ -36,7 +36,7 @@ We have people who come to the org who want to help out, but don't have a strong
 
 Over the coming year I will attempt to develop our ability to execute on projects that work best with more than one person working together.
 
-Main Objectives
+### Main Objectives
 
 - Identify projects that would benefit HeatSync Labs.
 - Create a simple project tracking system.
@@ -48,7 +48,7 @@ Main Objectives
 - Encourage the community to help build project team pride.
 - Manage naysayers to make criticism less disruptive.
 
-Team Project Examples
+### Team Project Examples
 
 - Member Database Upgrades
 - Vetting a Potential New Building
