@@ -55,3 +55,8 @@ Over the coming year I will attempt to develop our ability to execute on operati
 - Developing a New Class
 - Team Build: Make something complex.
 - Event Planning: Host something big.
+- Revenue Growth: Deploy a Point of Sale at the Lab.
+
+## Summary
+
+In October 2022 I will run for the Operations position on the HeatSync Labs board. I look forward to developing our ability to execute on operational projects and to helping to foster a vibrant and growing hackerspace.
