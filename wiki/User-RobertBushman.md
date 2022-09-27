@@ -18,7 +18,7 @@ HeatSync Labs does good on its own terms. We hope people and orgs will recognize
 
 ### Honesty
 
-HeatSync Labs is open and honest about what we do and where we are going. We encourage our community to work with us to open new paths forward.
+HeatSync Labs is open and honest about what we do and where we are going. We encourage our community to join in and work with us to open new paths forward.
 
 ### Positivity
 
