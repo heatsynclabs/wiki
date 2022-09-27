@@ -28,4 +28,4 @@ At HeatSync Labs we strive to create a positive, welcoming environment and to co
 
 HeatSync Labs provides an important service to the community. The more people we reach, the more good we can do. Growth helps us to fulfill our purpose.
 
-## Soapbox
+## Operations
