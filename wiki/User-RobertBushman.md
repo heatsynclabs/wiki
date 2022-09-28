@@ -14,7 +14,7 @@ At HeatSync Labs, we create an environment that gives people joy in making.
 
 ### Integrity
 
-HeatSync Labs does good on its own terms. We hope people and orgs will recognize that and support us. We do not pander to money. Our benefactors support us because we serve our mission, not theirs.
+HeatSync Labs does good on its own terms. We hope people and orgs will recognize that and support us. We do not pander to money. Our benefactors support us because we serve our mission, not to entice us to serve theirs.
 
 ### Honesty
 
