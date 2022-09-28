@@ -4,7 +4,7 @@ I believe in advancing the following characteristics of HeatSync Labs, until I h
 
 ## Vision (Why)
 
-Hacking is the art of discovering what is possible. At HeatSync Labs, we gather together to hack.
+Hacking is the art of discovering what is possible by doing it. At HeatSync Labs, we gather together to hack.
 
 ## Mission (What)
 
