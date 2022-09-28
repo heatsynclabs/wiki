@@ -59,4 +59,4 @@ Over the coming year I will attempt to develop our ability to execute on operati
 
 ## Summary
 
-In October 2022 I will run for the Operations position on the HeatSync Labs board. I look forward to developing our ability to execute on operational projects and to helping to foster a vibrant, positive, and growing hackerspace.
+In October 2022 I will run for the Operations position on the HeatSync Labs board. I intend to develop our ability to execute on operational projects and to foster a vibrant, positive, and growing hackerspace.
