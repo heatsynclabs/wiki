@@ -1,8 +1,10 @@
 ## Overview
 
-Young Makers is our free form workshop night for passionate kids and their parents. We work with driven young people to empower them to turn their ideas into reality. No babysitting. No lectures. This is discovery learning and creation.
+Young Makers is on the 1st and 3rd Friday of every night it is our free form workshop night for passionate kids and their parents. We work with driven young people to empower them to turn their ideas into reality. No babysitting. No lectures. This is discovery learning and creation.
 
 Questions to youngmakermentors \[at\] HeatSync Labs \[dot\] org
+
+Anyone under 18 must have a parent or guardian present.
 
 ## FAQ
 
