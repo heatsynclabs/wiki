@@ -2,7 +2,7 @@ The operations team is a committee recruited by the board in order to manage the
 
 ## Station Heads
 
-- **[:Category:Facilities](Category-Facilities)**: ?
+- **[ Facilities](Category-Facilities)**: ?
 - **3D Printing**: Antonio Contrisciani
 - **Audio/Video**: Rick Blake
 - **BioHack**: Shaundra Newstead, Greg Oswalt
