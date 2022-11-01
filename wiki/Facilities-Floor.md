@@ -10,3 +10,14 @@
 6.  We asked a bunch of services. The lowest quote was \$4,000.
 7.  Why don't we just clean them ourselves?
 8.  Return to step 1, above.
+
+## YouTube
+
+Here's a good starting point for finding the truth: <https://www.youtube.com/watch?v=afGbii6eJQA>
+
+TL;DR: There isn't a shortcut. To get these kinds of serious stains off and keep the floor clean you have to:
+
+1.  Strip
+2.  Seal
+3.  Polish
+4.  Clean Frequently
