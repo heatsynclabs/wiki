@@ -1,1 +1,4 @@
-\[Category:Facilities\]
+
+
+---
+*Categories: [Facilities](Category-Facilities)*
