@@ -11,7 +11,7 @@
 7.  Why don't we just clean them ourselves?
 8.  Return to step 1, above.
 
-## YouTube
+## The Answer
 
 Here's a good starting point for finding the truth: <https://www.youtube.com/watch?v=afGbii6eJQA>
 
@@ -21,3 +21,5 @@ TL;DR: There isn't a shortcut. To get these kinds of serious stains off and keep
 2.  Seal
 3.  Polish
 4.  Clean Frequently
+
+The chemicals we have (Zep system) will work great. The mini scrubber we have would work, though we might go through a lot of pads and it won't be as fast as a swing buffer.
