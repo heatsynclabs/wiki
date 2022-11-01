@@ -9,4 +9,4 @@
 5.  We should just get them professionally cleaned.
 6.  We asked a bunch of services. The lowest quote was \$4,000.
 7.  Why don't we just clean them ourselves?
-8.  Return to step 1.
+8.  Return to step 1, above.
