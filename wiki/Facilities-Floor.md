@@ -15,7 +15,7 @@
 
 Here's a good starting point for finding the truth: <https://www.youtube.com/watch?v=oH8CY_EzF_8>
 
-TL;DR: There isn't a shortcut. To get these kinds of serious stains off, you have to strip, once you strip, you have to seal and polish. Then you have to clean regularly to keep the stains to a minimum until the next stripping.
+TL;DR: There isn't a shortcut. To get these kinds of serious stains off, you have to strip. Once you strip, you have to seal and polish, or the stains will come back very quickly (already happening to the sections I stripped over the past two weeks). Then you have to clean regularly to keep the stains to a minimum until the next stripping.
 
 1.  Strip
 2.  Seal
