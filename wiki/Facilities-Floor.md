@@ -13,7 +13,7 @@
 
 ## The Answer
 
-Here's a good starting point for finding the truth: <https://www.youtube.com/watch?v=afGbii6eJQA>
+Here's a good starting point for finding the truth: <https://www.youtube.com/watch?v=oH8CY_EzF_8>
 
 TL;DR: There isn't a shortcut. To get these kinds of serious stains off and keep the floor clean you have to:
 
