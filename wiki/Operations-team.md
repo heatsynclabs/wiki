@@ -3,19 +3,19 @@ The operations team is a committee recruited by the board in order to manage the
 ## Station Heads
 
 - **[ Facilities](Category-Facilities)**: ?
-- **3D Printing**: Antonio Contrisciani
-- **Audio/Video**: Rick Blake
+- **[ 3D Printing](Category-3D-Printing)**: Antonio Contrisciani
+- **[ Audio/Video](AudioVisual)**: Rick Blake
 - **BioHack**: Shaundra Newstead, Greg Oswalt
-- **Electronics**: David Flores, Nate Caine
-- **Jewelry**: Needed
-- **Laser**: Eric Ose (certification classes), Nate Caine laser maintenance
-- **Metal Shop**: Darrell Wertz
+- **[Electronics](Electronics)**: David Flores, Nate Caine
+- **[Jewelry](Jewelry)**: Needed
+- **[ Laser](Category-Laser)**: Eric Ose (certification classes), Nate Caine laser maintenance
+- **[ Machine Shop](Category-Machine-Shop)**: Darrell Wertz
 - **Microcontrollers**: David Flores
 - **Nuts & Bolts**: Greg Oswalt
-- **Sewing**: Michelle and Linda
-- **Vinyl Cutter**: Needed
+- **[Sewing](Sewing)**: Michelle and Linda
+- **[ Vinyl Cutter](Vinyl-Cutter)**: Needed
 - **Welding**: Eric Wood
-- **Wood Shop**: Needed
+- **[ Wood Shop](Category-WoodShop)**: Needed
 
 ## IT
 
