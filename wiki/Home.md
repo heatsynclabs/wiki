@@ -36,7 +36,7 @@
 <ul>
 <li><a href="Category-3D-Printing"> 3D-Printing </a></li>
 <li><a href="AudioVisual"> A/V Station </a></li>
-<li><a href="Category-BioLab"> BioLab </a></li>
+<li><a href="Biochem-Lab"> Biochem Lab </a></li>
 <li><a href="Electronics">Electronics</a></li>
 <li><a href="Jewelry">Jewelry</a></li>
 <li><a href="Category-Laser"> Laser </a></li>
