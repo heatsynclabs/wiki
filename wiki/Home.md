@@ -40,14 +40,14 @@
 <li><a href="Electronics">Electronics</a></li>
 <li><a href="Jewelry">Jewelry</a></li>
 <li><a href="Category-Laser"> Laser </a></li>
-<li><a href="Library">Library</a></li>
 <li><a href="LEGO">LEGO</a></li>
+<li><a href="Library">Library</a></li>
 <li><a href="Category-Machine-Shop"> Machine Shop </a></li>
 <li><a href="Printers">Printers</a></li>
 <li><a href="Category-ScreenPrinting"> Screen Printing </a></li>
 <li><a href="Sewing">Sewing</a></li>
 <li><a href="Vinyl-Cutter">Vinyl Cutter</a></li>
-<li><a href="Category-Welding"> Welding</a></li>
+<li><a href="Welding">Welding</a></li>
 <li><a href="Category-WoodShop"> Wood Shop</a></li>
 </ul>
 <ul>
