@@ -8,7 +8,7 @@ Before using equipment ask via Slack to get help learning the basics of the tool
 - Mettler Toledo AE160 Analytical Balance
 - microbiology microscope with camera
 - incubator
-- centrifuge
+- VWR Galaxy 16DH Microcentrifuge
 - consumables (test tubes, stains, etc)
 - laminar flowhood (soon)
 - chemical fumehood (soon)
