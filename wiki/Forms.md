@@ -1,11 +1,12 @@
 See:
 
 - [Donation Receipt](Donation-Receipt)
-- [Event Form](https://docs.google.com/forms/d/e/1FAIpQLScLYDLhCt3BC30JPtKGaYB1pNf-eiRd-N4TtCgunZjJGupGEQ/viewform?pli=1)
+- [Event Request Form](https://forms.gle/74kL9RutY2e3WDtZA)
+- [Liability Waiver](https://forms.gle/zss1bJSN7ocKQudz6)
+- [Scholarship Request](https://forms.gle/v22f25gGt3UFg4hj8)
 - [Incident Report](Lab-Incident-Report)
-- [Liability Waiver](Liability-Waiver)
 - [MSDS Binder](MSDS-Binder)
 - [Parking Permit](Parking-Permit)
 - [Parking Ticket](Parking-Ticket)
 - [Procurement Request](Procurement-Request)
-- [Tool Manuals Index](Tool-Manuals-Index)
+- [Tool Manuals](https://drive.google.com/drive/folders/1Q9tLZfRkpWcy8201h225RNJsmACjsP41?usp=sharing)
