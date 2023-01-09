@@ -48,8 +48,8 @@ Nothing yet. Will be ordered in descending order by started date
 
 ` ==== Name ====`\
 ` `\
-` '''Started:''' 2022-12-31`
-
+` '''Started:''' 2022-12-31`\
+` `\
 ` '''Ended:''' current`\
 ` `\
 ` '''Materials:'''`\
