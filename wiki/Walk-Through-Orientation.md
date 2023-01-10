@@ -86,7 +86,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 ## Zombie Contingency Plans
 
 - Just kidding; where things are in the space
-- MSDS / Safety Data Sheets: In the kitchen on top of the cleaning supplies rack.
+- MSDS / Safety Data Sheets: In the kitchen in the window.
   - If you bring things and store them in the lab they need to be entered into the Safety Data Sheets
 - Cleaning supplies: In the kitchen on the rack and in the cupboards next to the rack.
 - Bio-hazard sharps: In the biolab
@@ -94,7 +94,8 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - Fire extinguisher: in hallway
 - Safety glasses: Hung on he wall outside the metal shop
 - Vehicle parking passes: next to safety glasses
-  - Purple Lot and Orange Lot parking is 3 hours max between 8am - 8pm.
+  - Green Lot and Orange Lot parking is 3 hours max between 8am - 8pm.
+  - The 30 W. Pepper Parking Garage is available to everyone on Saturday and Sunday
 - Please be respectful of the 2 hours parking limit for our neighboring businesses
 - Light Switches: in hall near metal shop
 - First aid kit and eye wash: in hallway in front of small bathroom door
@@ -106,8 +107,8 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - Ear protection and dust masks: on top of nuts and bolts near hallway entry.
 - Safe: for payments and mail under soldering table
 - Sharps bin for tools: on the nuts and bolts shelf. Not to be confused with bio-hazard sharps bin
-- Liability waivers: near HP color printer between retro technology and 3d printer station
-- Project parking passes/tickets: next to HP color printer
+- Liability waivers: [](#)
+- Project parking passes/tickets: On the lockers between the Jewelry Station and Tech Tear Apart shelves
 - Light switch: near trash by the snacks
 - Light switches: in the corner with the vinyl cutter
 - Fire extinguisher: front door
