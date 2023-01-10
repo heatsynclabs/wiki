@@ -107,7 +107,6 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - Ear protection and dust masks: on top of nuts and bolts near hallway entry.
 - Safe: for payments and mail under soldering table
 - Sharps bin for tools: on the nuts and bolts shelf. Not to be confused with bio-hazard sharps bin
-- Liability waivers: [](#)
 - Project parking passes/tickets: On the lockers between the Jewelry Station and Tech Tear Apart shelves
 - Light switch: near trash by the snacks
 - Light switches: in the corner with the vinyl cutter
@@ -116,6 +115,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - Facility Manager phone number: on the front door sign bottom corner
   - Please notify the Facility Manager immediately of anything critical related to the building, or safety. Leaks, electrical problems, damage to building, fires (after calling 911).
   - Also notify of any safety supplies, or cleaning supplies that are low.
+- [Liability Waivers](https://forms.gle/zss1bJSN7ocKQudz6) now online or at the front computer.
 
 ## Wrap up
 
