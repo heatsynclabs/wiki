@@ -1,6 +1,6 @@
 ## Overview
 
-HeatSync Labs has tools for fixing and maintaining bicycles that to the Made on Main Street Grant we received in 2018. This station is currently between the laser station and the member storage in the black filing cabinet.
+HeatSync Labs has tools for fixing and maintaining bicycles thanks to the Made on Main Street Grant we received in 2018. This station is currently between the laser station and the member storage in the black filing cabinet.
 
 ## Tools
 
