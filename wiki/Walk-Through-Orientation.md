@@ -96,9 +96,11 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - Vehicle parking passes: next to safety glasses
   - Green Lot and Orange Lot parking is 3 hours max between 8am - 8pm.
   - The 30 W. Pepper Parking Garage is available to everyone on Saturday and Sunday
-- Please be respectful of the 2 hours parking limit for our neighboring businesses
 - Light Switches: in hall near metal shop
 - First aid kit and eye wash: in hallway in front of small bathroom door
+- Metal shop and welding areas
+- Fire Extinguisher
+- Avoid putting extension cords or other trip hazards in this area especially
 - Light switches: bottom of stairs for upstairs lights
 - Upstairs storage/IT
 - Thermostat: doorway by laser into hallway
