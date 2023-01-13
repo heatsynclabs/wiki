@@ -21,7 +21,8 @@ Metal:
 - Bench grinders
 - MIG/TIG Welder with ventilation
 - Metal Bandsaw
-- Brake/Shear/Roller
+- Baileigh 3-IN-1 COMBINATION SHEAR, BRAKE, ROLL, MODEL: SBR-3020 ([manual](https://drive.google.com/file/d/1n_LCEsiJEPVAqdnuPsVulPAjYXe4veoF/view))
+- Shop Fox Model M1040 & M1041 Plate Shear ([manual](https://drive.google.com/file/d/1tyNzDp1d4PL0ICgZluujFoU5zJbdLD3i/view))
 
 Electronics, communication, telecom & security:
 
