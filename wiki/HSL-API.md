@@ -39,6 +39,14 @@ Features:
 - Space API
 - Remote Door Access
 
+### Current status of the door sub-project
+
+- **Current setup:** ACCX version 2, which is a door access shield attached to an Arduino Ethernet and customized firmware to take commands over HTTP <https://www.accxproducts.com/content/category/open-source-hardware/page/3> if flashed with a standard firmware, the Arduino would repond to the same serial/usb/gpio commands as ACCX 4. Touching this system may result in messing up door access for HSL members, so should only be done with extreme care and substantial knowledge/communication. The current members.hsl Rails app talks with the Arduino Ethernet over a rudimentary and insecure HTTP protocol.
+
+<!-- -->
+
+- **Proposed setup:** ACCX version 4, which has an onboard Arduino Mega in addition to expanded access control hardware (check the wiki for precise details) <https://www.accxproducts.com/wiki/index.php?title=Open_Access_4.0> it talks with an attached Linux computer (raspi, etc) over either GPIO or USB, but to get internet connectivity or one-click database synchronization it needs an additional component running on said Linux computer to translate the serial to http and back. Duncan has written this portion, and it's technically superior.
+
 ## Computers
 
 - List of MAC addresses on the network
