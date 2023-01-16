@@ -42,6 +42,7 @@ Features:
 ### Current status of the door sub-project
 
 - **Current setup:** ACCX version 2, which is a door access shield attached to an Arduino Ethernet and customized firmware to take commands over HTTP <https://www.accxproducts.com/content/category/open-source-hardware/page/3> if flashed with a standard firmware, the Arduino would repond to the same serial/usb/gpio commands as ACCX 4. Touching this system may result in messing up door access for HSL members, so should only be done with extreme care and substantial knowledge/communication. The current members.hsl Rails app talks with the Arduino Ethernet over a rudimentary and insecure HTTP protocol.
+  - It should be running <https://github.com/heatsynclabs/Open_Access_Control_Ethernet> but could also be running the latest from upstream (zyphlar). Obviously the IPAddress and PRIVPASSWORD have been changed from what's on Git.
 
 <!-- -->
 
