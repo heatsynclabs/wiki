@@ -48,6 +48,10 @@ Features:
 
 - **Proposed setup:** ACCX version 4, which has an onboard Arduino Mega in addition to expanded access control hardware (check the wiki for precise details) <https://www.accxproducts.com/wiki/index.php?title=Open_Access_4.0> it talks with an attached Linux computer (raspi, etc) over either GPIO or USB, but to get internet connectivity or one-click database synchronization it needs an additional component running on said Linux computer to translate the serial to http and back. Duncan has written this portion, and it's technically superior.
 
+<!-- -->
+
+- What cards to use: doesn't really matter as long as the reader speaks Wiegand26 to the ACCX board, but HSL historically uses EM4100 (125kHz) cards and readers. Mifare/NFC is certainly a possibility, as long as a unique ID is sent via Wiegand to the board.
+
 ## Computers
 
 - List of MAC addresses on the network
