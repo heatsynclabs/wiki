@@ -1,8 +1,12 @@
 ## LAB
 
-Closed to general public, No more than 10 people Allowed Inside.\
-Proposal to buy laptops: Budget Limit amended as 4,500. Laptop quantity amended as 12 Units.\
-Both Ender 5 3d printers have been received at the Lab.
+\[CactusCon <https://www.cactuscon.com/>\] and prep for HeatSync Labs to host the soldering.
+
+Upgrades to machine shop mini mill thanks Darrell!
+
+\[Volunteermatch.org <https://www.volunteermatch.org/search/org1230558.jsp>\] is getting some volunteer opportunities listed.
+
+[Organic Chemistry Series](Organic-Chemistry-Series) is coming up.
 
 ## WIKI
 
