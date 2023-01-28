@@ -8,7 +8,7 @@ List my current projects. Order can be somewhat random.
 
 ### Done
 
-#### Laser cut 3d box for my previous LED project
+#### Laser cut box for the LED project
 
 **Date:** 2022-01-28
 
