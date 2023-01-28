@@ -4,13 +4,32 @@ I will try to keep track of my project and certifications on this page!
 
 ### Current
 
-List my current projects. Order can be somewhat random
+List my current projects. Order can be somewhat random.
+
+### Done
+
+#### Laser cut 3d box for my previous LED project
+
+**Date:** 2022-01-28
+
+**Materials:**
+
+- Scrap of 3mm plywood from the lab
+
+**Detail:**
+
+- Speed: 10mm/s
+- Power: 50%
+
+**What I learned:**
+
+- I wanted something quickly because we were getting close to the end of public time, but next time I should definitely take into consideration the kerf
 
 #### LED lighting for my office shelf
 
 **Started:** 2022-12-31
 
-**Ended:** current
+**Ended:** 2023-01-21
 
 **Materials:**
 
@@ -33,10 +52,6 @@ In theory, I would need a maximum of 4.5A=75led \* 0.06A (60mA) for the strips, 
 **What I learned:**
 
 - everything above :-) Soldering was.. difficult. Everything seems very small haha.
-
-### Done
-
-Nothing yet. Will be ordered in descending order by started date
 
 ## Certifications
 
