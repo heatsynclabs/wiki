@@ -1,4 +1,4 @@
-This upcoming series of workshops around Organic Chemistry is on Friday Nights at 6pm from February 3rd 2023 until March 3rd 2023.
+This upcoming series of workshops around Organic Chemistry is on Friday Nights at 6pm from February 10th 2023 until March 10th 2023.
 
 Prices vary between \$30 \$50 depending on the workshop and ticket.
 
