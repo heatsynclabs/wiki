@@ -31,7 +31,7 @@ The role of the Board of HeatSync Labs has three parts:
 - Communication (to/from board, to new people "no wallflowers!", connect people, to partners, getting and keeping contacts)
 - Be:
   - Present for most events
-  - Host/life of the party
+  - [Host](Hosting)/life of the party
   - a Leader
   - able to understand/track all aspects of HeatSync
   - in charge of Accountability, Follow-up
