@@ -8,7 +8,7 @@ You can find upcoming classes on the [calendar on our web page](https://www.heat
 
 # Volunteer
 
-From simple tasks like taking out the trash to being a teacher's assistant or teaching your own class, there is a lot of work that keeps HeatSync Labs running. You'll get to enjoy the company of other hackers and have the ego boost of knowing you've done something good. And it doesn't just feel good - it has lasting health benefits as well, according to [Berkeley](https://greatergood.berkeley.edu/article/item/how_volunteering_can_help_your_mental_health) and [Harvard](https://www.health.harvard.edu/blog/volunteering-may-be-good-for-body-and-mind-201306266428).
+From simple tasks like taking out the trash, being a teacher's assistant, teaching your own class, [ Co-Hosting](Hosting#co-hosting) the lab, there is a lot of work that keeps HeatSync Labs running. You'll get to enjoy the company of other hackers and have the ego boost of knowing you've done something good. And it doesn't just feel good - it has lasting health benefits as well, according to [Berkeley](https://greatergood.berkeley.edu/article/item/how_volunteering_can_help_your_mental_health) and [Harvard](https://www.health.harvard.edu/blog/volunteering-may-be-good-for-body-and-mind-201306266428).
 
 To learn more about volunteering, come to a [Hack Your Hackerspace](Hack-Your-Hackerspace) meeting and stick around afterwards to chat with some of our volunteer leaders. If you can't be here on a Thursday evening, talk to us through our [Google group](https://groups.google.com/forum/?fromgroups#!forum/heatsynclabs) or [on Slack](http://bit.ly/hslslack).
 
