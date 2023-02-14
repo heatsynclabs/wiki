@@ -12,7 +12,7 @@ A word of advice - Be brave and talk to people. The reason there is a lab, and n
 
 Heatsync Labs is operated by volunteers. We are people just like you who visited the lab, thought it was neat, liked the people we met, and started helping out. It's awesome! HeatSync Labs is a place where you get to help people learn about tools and turn their dreams into reality, while spending time with other people who think that is a good idea.
 
-There are lots of ways to help. You can assist with one of our classes, work on improving the workstations, be here and help create a positive social vibe, become an instructor and teach a class, help with bookkeeping and administration, write instructional docs, or post sections like this on the wiki. I'm doing it right now. :)
+There are lots of ways to help. You can assist with one of our classes, [ hosting and co-hosting](Hosting) open hours, work on improving the workstations, be here and help create a positive social vibe, become an instructor and teach a class, help with bookkeeping and administration, write instructional docs, or post sections like this on the wiki. I'm doing it right now. :)
 
 Those are just examples. Ask around and find out what else you can help with. Or come up with your own ideas and bring them up at [Hack Your Hackerspace](Hack-Your-Hackerspace). We want to help you find a fulfilling path here at HeatSync Labs.
 
