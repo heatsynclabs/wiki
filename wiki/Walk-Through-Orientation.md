@@ -3,8 +3,10 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 ## Greetings, Humans
 
 - Talk briefly about what the new members are interested in.
-  - Tools they want to use, projects they want to build, classes they want to take, ways they want to volunteer. Discuss more at the end.
+  - Tools they want to use, projects they want to build, classes they want to take
+  - Discuss ways they may want to volunteer and mention [ co-hosting](Hosting#co-hosting) as a good entry point
 - Let this help guide the discussion
+- Recap these points at the end
 
 ## Important things
 
