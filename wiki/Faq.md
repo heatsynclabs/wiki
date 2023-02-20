@@ -66,15 +66,20 @@ No big deal! If its a small hand tool or bit, place it in the broken tools bin. 
 
 # Q: Where do I park?
 
-There is a good amount of parking around the lab.
+There is a good amount of parking around the lab. In recent months (2023), Mesa has gotten more aggressive about ticketing, so be aware.
 
-- The best place to park is the "General Parking" lots. They say "3 hour parking" but they have limited use and no one has ever gotten more than a warning.
+- The best place to park is the "General Parking" lots. They have 1-hour and 3-hour slots.
 - The street parking is 2 hour parking and more rigorously enforced because the business there want to make sure it's available for their customers.
-- Finally there is the parking garage as well, although it's a bit further away.
+- The MacDonald parking lot is probably the best if you're going to be at the lab for long hours during business hours.
+- A few other notes:
+  - Mesa's ordinances on parking are located in 10-3-20 of their [Code of Ordinance](https://library.municode.com/az/mesa/codes/code_of_ordinances?nodeId=COOR_TIT10TR_CH3TR_10-3-20MEPA).
+  - Here are a few things you can be ticketed for:
+    - Backing into parking spaces (10-3-20(f))
+    - Reparking within 300ft (10-3-20(g)). The green lot is about 200ft long, so you have to change lots if you're going to repark.
 
-![](files/Heatsync-parking.png)
+![](files/HSL_Parking.png)
 
-*heatsync-parking.png*
+*HSL_Parking.png*
 
 # Q: How do I adjust my membership or donation level?
 
