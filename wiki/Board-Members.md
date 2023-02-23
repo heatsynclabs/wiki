@@ -4,9 +4,9 @@ HeatSync Labs is run by a Board of Directors, which aids in procedural and finan
 
 - Darrell Wertz, Champion
 - Jot Powers, Champion
-- Eric Wood, Treasurer
-- Shaundra Newstead, Secretary
-- Andrew Lewton, Operations
+- Shaundra Newstead, Treasurer
+- Bob Bushman, Secretary
+- Jeff Stittler, Operations
 
 ## Board Elections
 
