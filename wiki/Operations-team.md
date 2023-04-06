@@ -7,7 +7,7 @@ The operations team is a committee recruited by the board in order to manage the
 - **[ Audio/Video](AudioVisual)**: Rick Blake
 - **BioHack**: Shaundra Newstead, Greg Oswalt
 - **[Electronics](Electronics)**: David Flores, Nate Caine
-- **[Jewelry](Jewelry)**: Needed
+- **[Jewelry](Jewelry)**: Sarah McCann
 - **[ Laser](Category-Laser)**: Eric Ose (certification classes), Nate Caine laser maintenance
 - **[ Machine Shop](Category-Machine-Shop)**: Darrell Wertz
 - **Microcontrollers**: David Flores
