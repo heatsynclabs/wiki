@@ -11,3 +11,11 @@ Anyone under 18 must have a parent or guardian present.
 Is there a cost? No
 
 Is there an age limit? No
+
+## Past Events
+
+Microscope Night
+
+[Young Makers Laser Portraits](https://guestlist.co/events/741495)
+
+[Young Makers: Video Projector Exploration Night](https://guestlist.co/events/741027)
