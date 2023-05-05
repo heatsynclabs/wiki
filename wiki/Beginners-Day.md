@@ -18,9 +18,11 @@ If you would like to volunteer reach out in Slack to Robot Ambassador, reply in 
 
 Unless noted the schedule is noon - 5pm.
 
-Sewing - Linda confirmed!
+Sewing - Linda
 
-Electronics - Ben and David confirmed
+Electronics - Ben and David
+
+Soldering - Stephen
 
 3d Printing - TBD
 
