@@ -20,7 +20,7 @@ Unless noted the schedule is noon - 5pm.
 
 Sewing - Linda confirmed!
 
-Electronics - Ben confirmed
+Electronics - Ben and David confirmed
 
 3d Printing - TBD
 
