@@ -13,3 +13,21 @@ Learn the basics about 3d printing, soldering, vinyl cutting, laser cutting, loc
 ## Volunteer
 
 If you would like to volunteer reach out in Slack to Robot Ambassador, reply in the google discussion group thread, or email instructors AT heatsynclabs.org
+
+## Schedule
+
+Unless noted the schedule is noon - 5pm.
+
+Sewing - Linda confirmed!
+
+Electronics - Ben confirmed
+
+3d Printing - TBD
+
+Laser Cutter - TBD
+
+Lock Picking - TBD
+
+Vinyl Cutter - TBD
+
+More - TBD
