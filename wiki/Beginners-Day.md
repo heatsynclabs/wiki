@@ -24,6 +24,8 @@ Electronics - Ben and David
 
 Soldering - Stephen
 
+BioChem Lab - Microscope demo with Greg
+
 3d Printing - TBD
 
 Laser Cutter - TBD
