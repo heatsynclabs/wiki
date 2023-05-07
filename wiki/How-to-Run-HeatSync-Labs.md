@@ -12,12 +12,11 @@ The role of the Board of HeatSync Labs has three parts:
 ## Everyone
 
 - Try to be physically at the lab as often as possible
-- Specifically be at the lab for [Hack_Your_Hackerspace](Hack-Your-Hackerspace) night
+- Specifically be at the lab for [Hack Your Hackerspace](Hack-Your-Hackerspace) night
 - Convert strangers into members
 - Serve on committees
 - Fund raise
 - Promote HeatSync
-- Staff HSL personally or find someone to to make sure we're 'open' during open hours
 - Ensure that the charitable purpose of our 501(c)3 is upheld. (See our [501(c)3 Filings](501(c)3-Filings))
 
 ## Champion
