@@ -26,7 +26,7 @@ Soldering - Stephen
 
 BioChem Lab - Microscope demo with Greg
 
-3d Printing - TBD
+3d Printing - Jot
 
 Laser Cutter - TBD
 
