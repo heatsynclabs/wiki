@@ -1,10 +1,10 @@
 ## Overview
 
-The goal of this event is to show the basics of as many tools as possible. We had a Beginners Night on Tuesday 2016-03-22 which was a great success.
+The goal of [Beginners Day](https://guestlist.co/events/747255) is to show the basics of as many tools as possible. We had a Beginners Night on Tuesday 2016-03-22 which was a great success.
 
 ## Next Date
 
-Saturday 2023-05-27 noon - 5pm
+Saturday 2023-05-27 noon - 5pm.
 
 ## Event Description
 
@@ -29,6 +29,8 @@ BioChem Lab - Microscope demo with Greg
 3d Printing - Jot
 
 Laser Cutter - Joy noon - 2pm
+
+Jewelry - Sarah
 
 Lock Picking - TBD
 
