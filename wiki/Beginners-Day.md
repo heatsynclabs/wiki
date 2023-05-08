@@ -28,7 +28,7 @@ BioChem Lab - Microscope demo with Greg
 
 3d Printing - Jot
 
-Laser Cutter - TBD
+Laser Cutter - Joy noon - 2pm
 
 Lock Picking - TBD
 
