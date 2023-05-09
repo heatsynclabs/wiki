@@ -14,11 +14,11 @@ Sewing - Linda
 
 Electronics - Ben and David
 
-Soldering - Stephen
+Soldering - Stephen and David G
 
 BioChem Lab - Microscope demo with Greg
 
-3d Printing - Jot
+3d Printing - Jot and Bill
 
 Laser Cutter - Joy noon - 2pm
 
