@@ -32,7 +32,7 @@ Laser Cutter - Joy noon - 2pm
 
 Jewelry - Sarah
 
-Lock Picking - TBD
+Lock Picking - Joe
 
 Vinyl Cutter - TBD
 
