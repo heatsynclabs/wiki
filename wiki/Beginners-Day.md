@@ -1,6 +1,6 @@
 ## Overview
 
-We are having [Beginners Day](https://guestlist.co/events/747255) on Saturday May 27th 2023 from noon - 5pm. The goal of is to show the basics of as many tools as possible. In 2016 we had a similar event and it was a great success.
+We are having [Beginners Day](https://guestlist.co/events/747255) on Saturday May 27th 2023 from noon - 5pm. The goal is to show the basics of as many tools as possible. In 2016 we had a similar event and it was a great success.
 
 ## Volunteer
 
