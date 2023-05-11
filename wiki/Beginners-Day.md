@@ -22,10 +22,10 @@ BioChem Lab - Microscope demo with Greg
 
 Laser Cutter - Joy noon - 2pm
 
+Paul Laser Cutter or Vinyl Cutter (TBD) 2pm - 5pm
+
 Jewelry - Sarah
 
 Lock Picking - Joe
-
-Vinyl Cutter - TBD
 
 More - TBD
