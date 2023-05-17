@@ -7,7 +7,7 @@ I first came to HeatSync Labs in 2013 and didn't really know how to make things.
 - LEGO Station Champion
 - Laser Certification Instructor
 - Young Makers Mentor
-- KiCad Study Group Host
+- Volunteermatch.org Coordinator
 
 ## Past Roles
 
