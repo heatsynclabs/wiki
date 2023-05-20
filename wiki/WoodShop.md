@@ -11,6 +11,7 @@ HeatSync Labs has a collection of woodworking tools, but not a dedicated area sp
 - [Delta Shopmaster BS100 9" Bench Band Saw](https://www.mikestools.com/ownersmanuals/BS100.pdf)
 - [JET JDS-12B Benchtop 12” Disc Sander](https://s3.amazonaws.com/jpw-assets/9/e/5/3/9e53eee2808ffbfc37fa2955d71ac9fd509ae043_m_708433.pdf)
 - Task Force T1314 router with 1034 router table
+- [Dewalt Staple Gun (5-in-1 Multi-Tacker)](https://www.dewalt.com/product/dwhttr510/5-1-multi-tacker)
 
 ## Wanted
 
