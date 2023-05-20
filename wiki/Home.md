@@ -49,7 +49,7 @@
 <li><a href="Sewing">Sewing</a></li>
 <li><a href="Vinyl-Cutter">Vinyl Cutter</a></li>
 <li><a href="Welding">Welding</a></li>
-<li><a href="Category-WoodShop"> Wood Shop</a></li>
+<li><a href="WoodShop"> Wood Shop</a></li>
 </ul>
 <ul>
 <li><a href="https://members.heatsynclabs.org/resources">Toolshare</a></li>
