@@ -5,6 +5,7 @@ HeatSync Labs has a collection of woodworking tools, but not a dedicated area sp
 # Tools
 
 - [Bosch 10" Contractor Saw (Table Saw)](https://www.boschtools.com/us/en/boschtools-ocs/table-saws-4100xc-10-201878-p/)
+- [DeWalt DWS780 12" (305 mm) Double Bevel Sliding Compound Miter Saw](https://www.dewalt.com/product/dws780/12-double-bevel-sliding-compound-miter-saw)
 - [DeWalt 12" Lunchbox Planer](https://www.grizzly.com/products/dewalt-12-1-2-planer-w-3-knives/h5341)
 - [Skil 3320 Drill Press](https://www.skil.com/media/productattach/3/3/3320-01_manual.pdf)
 - [Delta Shopmaster BS100 9" Bench Band Saw](https://www.mikestools.com/ownersmanuals/BS100.pdf)
