@@ -28,4 +28,6 @@ Vinyl Cutter - Joy noon - 2pm
 
 Lock Picking - Joe
 
+Tours of the Hackerspace - Nathan
+
 More - TBD
