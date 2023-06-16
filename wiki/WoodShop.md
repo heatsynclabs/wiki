@@ -13,6 +13,11 @@ HeatSync Labs has a collection of woodworking tools, but not a dedicated area sp
 - Task Force T1314 router with 1034 router table
 - [Dewalt Staple Gun (5-in-1 Multi-Tacker)](https://www.dewalt.com/product/dwhttr510/5-1-multi-tacker)
 - [Bessey strap clamp (Variable angle VAS+2K)](https://www.bessey.de/en-us/bessey-tools-north-america/products/clamping-tools/strap-clamps/variable-angle)
+- [SKIL Sheet Palm Sander 7292](https://www.skil.com/sheet-sander-7292-02/)
+- [Ryobi S652D 1/4-Sheet Pad Sander](https://www.ryobitools.com/products/details/33287141234) [manual](https://556aa8d9de68ea9c4f29-0a8acad11a4df5016d26cc39a7429843.ssl.cf1.rackcdn.com/2/S652D_152_trilingual_13.pdf)
+- [Chicago Electric Planer 95838](https://web.archive.org/web/20100926131218/http://www.harborfreight.com/3-1-4-quarter-inch-electric-planer-95838.html) [manual](https://web.archive.org/web/20140327034605/http://manuals.harborfreight.com/manuals/95000-95999/95838.pdf)
+- [Ryobi JS550L Jig Saw](https://556aa8d9de68ea9c4f29-0a8acad11a4df5016d26cc39a7429843.ssl.cf1.rackcdn.com/2/JS550L_574_trilingual.pdf)
+- [Drill Master 61590 Orbital Sander](https://www.harborfreight.com/10-amp-orbital-14-sheet-sander-61311.html) [manual](https://manuals.harborfreight.com/manuals/61000-61999/61509.pdf)
 
 ## Wanted
 
