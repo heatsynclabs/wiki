@@ -4,6 +4,8 @@ The jewelry station is geared towards metal work, but fortunately you can use a 
 
 ## Tools
 
+- dapping set
+- disc cutter
 - jewelers saws
 - bench pins
 - planishing hammers
