@@ -37,7 +37,12 @@ Generally bring your own supplies
 Some of the past classes that have been hosted;
 
 - Silversmithing 101 - Make A Ring
-- Jewelry Basics - A Riveted Pendant
+- [Jewelry Basics: A Riveted Pendant](https://guestlist.co/events/749361)
+- [Jewelry Basics: Hammered Wire Jewelry](https://guestlist.co/events/751854)
+- [Jewelry Basics: Intro to working with wire](https://guestlist.co/events/749352)
+- [Jewelry Basics: Working with Wire Part 2](https://guestlist.co/events/749343)
+- [Jewelry Basics: Disc-cutting and Doming](https://guestlist.co/events/749379)
+- [Jewelry Basics: Bead Loom Bracelets](https://guestlist.co/events/749334)
 
 ---
 *Categories: [Jewelry](Category-Jewelry)*
