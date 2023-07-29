@@ -10,9 +10,11 @@ Justin F. Donated leather working tools. I'm capturing a partial list of what wa
 - **Scratch awl**. Useful at various stages of a project. Particularly useful when starting a project for marking a pattern onto a piece of leather prior to cutting the components out.
 - **Edge bevelers**. Used to bevel an edge in order to prevent fraying and maintain a professional appearance.
 - **Skivers (Tandy Super Skiver, safety skiver)**. These are used to thin a piece of leather. Most commonly, this will be useful to cut down bulk at an edge where multiple pieces are stitched together.
-- **Stitching clamps (2)**. This tool holds a project so it can be stitched with both hands.![Example of stitching clamp in use.](files/Stitchingclamp.jpg)
+- **Stitching clamps (2)**. This tool holds a project so it can be stitched with both hands.
 
-<!-- -->
+![](files/Stitchingclamp.jpg)
+
+*Example of stitching clamp in use.*
 
 - **Honing guide**. Block of red wood with different guides for sharpening different tools. Sandpaper placed on guide before tool is dragged along it.
 - **Thickness gauge**. Used to measure the thickness of leather.
