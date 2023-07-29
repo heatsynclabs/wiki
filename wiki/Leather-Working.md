@@ -13,4 +13,11 @@ Justin F. Donated leather working tools. I'm capturing a partial list of what wa
 
 ## Supplies
 
-- leather waxed thread
+- **Gum tragacanth**. Edge finishing product.
+- **Beeswax**. Edge finishing, etc.
+- **Leather adhesive** (Eco-Flow Leather Weld).
+- **Waxed threads**
+- **Saddler's needles (John James \#4)**
+- **Blades for skivers**
+- **Sand paper for honing guide**
+- **Honing compounds (yellow, green)**
