@@ -19,7 +19,7 @@ Justin F. Donated leather working tools. I'm capturing a partial list of what wa
 
 ![](files/Stitchingclamp.jpg)
 
-*stitchingclamp.jpg*
+*Example of stitching clamp in use.*
 
 ## Supplies
 
