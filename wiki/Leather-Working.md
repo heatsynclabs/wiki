@@ -3,10 +3,13 @@ Justin F. Donated leather working tools. I'm capturing a partial list of what wa
 ## Tools
 
 - Hollow punch set
-- Edge slicker burnisher
-- Prong punch tools
+- Edge slicker/burnisher tool + attachments
+- Diamond chisels
 - Stitching groover
-- Stitching awl
+- Stitching awls
+- Scratch awl
+- Edge bevelers
+- Skivers (Tandy Super Skiver, safety skiver)
 
 ## Supplies
 
