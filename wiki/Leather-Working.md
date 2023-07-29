@@ -17,6 +17,10 @@ Justin F. Donated leather working tools. I'm capturing a partial list of what wa
 - **Edge creaser**. Used to place a crease along the edge of a project for aesthetic value.
 - **Thread snipper**.
 
+![](files/Stitchingclamp.jpg)
+
+*stitchingclamp.jpg*
+
 ## Supplies
 
 - **Gum tragacanth**. Edge finishing product. Used *before* beeswax.
