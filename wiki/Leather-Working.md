@@ -5,13 +5,17 @@ Justin F. Donated leather working tools. I'm capturing a partial list of what wa
 - **Hollow punch set**. Useful to punch round holes, such as to install buttons or rivets. There is a small hex key to tighten the screw which holds the interchangeable pieces in place.
 - **Edge slicker/burnisher tool + attachments**. Used to burnish an edge for protection and aesthetics.
 - **Diamond chisels**. Used to punch holes through one or more pieces prior to stitching.
-- **Stitching groover**. As a matter of preference, it can be used to create a grooved stitch line. The stitches sitting in the groove will be less prone to abrading with use.
+- **Stitching groover**. As a matter of preference, it can be used to create a grooved stitch line. The stitches sitting in the groove will be less prone to abrading with use. More common practice is to mark the stitch line with a scratch awl before punching/stitching.
 - **Stitching awls**. For one-off stitching holes and when a hole wasn't punched all the way through by stitching chisels.
 - **Scratch awl**. Useful at various stages of a project. Particularly useful when starting a project for marking a pattern onto a piece of leather prior to cutting the components out.
 - **Edge bevelers**. Used to bevel an edge in order to prevent fraying and maintain a professional appearance.
 - **Skivers (Tandy Super Skiver, safety skiver)**. These are used to thin a piece of leather. Most commonly, this will be useful to cut down bulk at an edge where multiple pieces are stitched together.
 - **Stitching clamps (2)**. This tool holds a project so it can be stitched with both hands.
 - **Honing guide**. Block of red wood with different guides for sharpening different tools. Sandpaper placed on guide before tool is dragged along it.
+- **Thickness gauge**. Used to measure the thickness of leather.
+- **Rivet setter**. Used to set copper rivets.
+- **Edge creaser**. Used to place a crease along the edge of a project for aesthetic value.
+- **Thread snipper**.
 
 ## Supplies
 
