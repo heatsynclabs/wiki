@@ -5,7 +5,7 @@ Justin F. Donated leather working tools. I'm capturing a partial list of what wa
 - **Hollow punch set**. Useful to punch round holes, such as to install buttons or rivets.
 - **Edge slicker/burnisher tool + attachments**. Used to burnish an edge for protection and aesthetics.
 - **Diamond chisels**. Used to punch holes through one or more pieces prior to stitching.
-- **Stitching groover**
+- **Stitching groover**. As a matter of preference, it can be used to create a grooved stitch line. The stitches sitting in the groove will be less prone to abrading with use.
 - **Stitching awls**. For one-off stitching holes and when a hole wasn't punched all the way through by stitching chisels.
 - **Scratch awl**. Useful at various stages of a project. Particularly useful when starting a project for marking a pattern onto a piece of leather prior to cutting the components out.
 - **Edge bevelers**. Used to bevel an edge in order to prevent fraying and maintain a professional appearance.
