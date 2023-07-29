@@ -13,11 +13,11 @@ Justin F. Donated leather working tools. I'm capturing a partial list of what wa
 
 ## Supplies
 
-- **Gum tragacanth**. Edge finishing product.
+- **Gum tragacanth**. Edge finishing product. Used *before* beeswax.
 - **Beeswax**. Edge finishing, etc.
-- **Leather adhesive** (Eco-Flow Leather Weld).
-- **Waxed threads**
-- **Saddler's needles (John James \#4)**
-- **Blades for skivers**
-- **Sand paper for honing guide**
-- **Honing compounds (yellow, green)**
+- **Leather adhesive** (Eco-Flow Leather Weld). Two pieces can be glued together at the edge before stitching.
+- **Waxed threads**. This is fairly heavy-duty thread and not ideal for all projects.
+- **Saddler's needles (John James \#4)**. A versatile size of the most recommended saddler's needle for stitching leather (note holes must be punched beforehand).
+- **Blades for safety skivers**.
+- **Sand paper for honing guide**. Use lower number grits first, progressing to higher numbers.
+- **Honing compounds (yellow, green)**. Used to sharpen tools, such as edge bevelers. Can be loaded onto a piece of thread which is pulled through the groove on an edge beveler to sharpen.
