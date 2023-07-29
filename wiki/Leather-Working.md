@@ -29,3 +29,7 @@ Justin F. Donated leather working tools. I'm capturing a partial list of what wa
 - **Honing compounds (yellow, green)**. Used to sharpen tools, such as edge bevelers. Can be loaded onto a piece of thread which is pulled through the groove on an edge beveler to sharpen.
 
 ## Photos
+
+![](files/Stitchingclamp.jpg)
+
+*Example of stitching clamp in use.*
