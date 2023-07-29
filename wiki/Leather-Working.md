@@ -2,7 +2,7 @@ Justin F. Donated leather working tools. I'm capturing a partial list of what wa
 
 ## Tools
 
-- **Hollow punch set**. Useful to punch round holes, such as to install buttons or rivets.
+- **Hollow punch set**. Useful to punch round holes, such as to install buttons or rivets. There is a small hex key to tighten the screw which holds the interchangeable pieces in place.
 - **Edge slicker/burnisher tool + attachments**. Used to burnish an edge for protection and aesthetics.
 - **Diamond chisels**. Used to punch holes through one or more pieces prior to stitching.
 - **Stitching groover**. As a matter of preference, it can be used to create a grooved stitch line. The stitches sitting in the groove will be less prone to abrading with use.
