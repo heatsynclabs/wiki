@@ -30,6 +30,4 @@ Justin F. Donated leather working tools. I'm capturing a partial list of what wa
 
 ## Photos
 
-![](files/Stitchingclamp.jpg)
-
-*Example of stitching clamp in use.*
+![Example of stitching clamp in use.](files/Stitchingclamp.jpg) ![Top: scratch awl. Bottom 3: various sizes of saddler's awl.](files/Awls.jpg) ![Automatic burnisher tool + attachments for different thickness projects. Can also be used with sanding drums.](files/Burnisher.jpg)
