@@ -42,9 +42,7 @@ Our current policy (which may be revised as the program develops) is the followi
 - HSL will provide final payment up to 2 business days after completion of the workshop
 - Instructors amounts will be calculated as follows:
 
-`Payment (per student) = Ticket Price - HSL Contribution ($)`
-
-`HSL Contribution ( up to $10 ) = Instructor Fee x 0.33`
+Instructor amount = (total ticket sales - materials costs) \* 70% HeatSync Labs amount = (Total ticket sales - materials cost) \* 30%
 
 ## Guidelines On "Certification" Workshops
 
