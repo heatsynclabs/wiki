@@ -16,11 +16,9 @@ The HeatSync Labs Workshops' core goals include:
 ## Instructor Responsibilities
 
 - Instructor agrees to honor the spirit of collegiality and professionalism while conducting Workshops within HeatSync Labs
-- Instructor agrees to abide by current policies and procedures as may be revised at the quarterly Board meetings
+- Instructor agrees to abide by current HeatSync Labs policies and procedures
 - Instructor understands that the HeatSync membership is overall small and that the economics support targeting OUTSIDE the HeatSync community by marketing to friends/family, coffee shops, workplaces, schools, etc
-- Instructor agrees to keep a log of the Workshop participants names and email addresses for follow-up and attendance-keeping, a record of materials provided to the participants, any materials sold and other matters, if requested by HeatSync Labs.
 - Instructor should fill out the online [Event Scheduling Request form](https://forms.gle/74kL9RutY2e3WDtZA).
-- Instructor should execute a completed agreement with signature prior to conducting workshops within HeatSync Labs
 - Instructor should be prepared to start the workshop at the start time and conclude at the end time.
 
 ## Student Responsibilities
