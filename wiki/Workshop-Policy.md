@@ -9,10 +9,9 @@ The HeatSync Labs Workshops' core goals include:
 
 ## HeatSync Labs Responsibilities
 
-- HSL will identify, schedule and help coordinate the workshop
-- HSL will publicize the workshop on our website, email newsletter and social media outlets
+- HSL will publicize the workshop on our website, and social media outlets
 - HSL will provide the venue, table, chairs and utilities
-- HSL will reconcile the participant registration to payments and provide final payment to instructor
+- HSL can host the event registration if desired
 
 ## Instructor Responsibilities
 
