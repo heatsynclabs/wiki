@@ -10,7 +10,7 @@ HeatSync Labs has a collection of woodworking tools, but not a dedicated area sp
 - [Wen 4212T Drill Press](https://wenproducts.com/products/wen-4212t-10-in-variable-speed-drill-press), and [manual](https://cdn.shopify.com/s/files/1/0012/0350/3168/files/4212T.manual.20220113.pdf?v=1642192694)
 - [Delta Shopmaster BS100 9" Bench Band Saw](https://www.mikestools.com/ownersmanuals/BS100.pdf)
 - [JET JDS-12B Benchtop 12” Disc Sander](https://s3.amazonaws.com/jpw-assets/9/e/5/3/9e53eee2808ffbfc37fa2955d71ac9fd509ae043_m_708433.pdf)
-- Task Force T1314 router with 1034 router table
+- Task Force T1314 router with 1034 router table, plus [Worksmith 30 piece router bit set](https://wiki.heatsynclabs.org/w/images/d/d9/Worksmith_Router_Bit_Set.png)
 - [Dewalt Staple Gun (5-in-1 Multi-Tacker)](https://www.dewalt.com/product/dwhttr510/5-1-multi-tacker)
 - [Bessey strap clamp (Variable angle VAS+2K)](https://www.bessey.de/en-us/bessey-tools-north-america/products/clamping-tools/strap-clamps/variable-angle)
 - [SKIL Sheet Palm Sander 7292](https://www.skil.com/sheet-sander-7292-02/)
