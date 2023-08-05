@@ -34,16 +34,8 @@ Our current policy (which may be revised as the program develops) is the followi
 
 - Classroom fee is to be paid to the instructor after completion of the workshop
 - Material fees are fixed costs that are passed on to the student
-- HeatSync Labs members in good standing will receive a 25% discount off the class fee
-- HeatSync Labs will receive a contribution of one third the class fee; up to a maximum of \$10 per registrant. This fee will offset merchant fees (~3% of the ticket price), pay for utility costs, equipment maintenance and usage, and keep HeatSync strong
-
-Formula for Non-Members:
-
-`Ticket Price($) = Material Fee ($) + Classroom/Instructor Fee`
-
-For Members:
-
-`Ticket Price($) = Material Fee ($) + Classroom/Instructor Fee - (Classroom/Instructor Fee x 0.25)`
+- Instructors may offer a discount ticket price for members
+- HeatSync Labs will receive a contribution of one third the class fee.
 
 ## Instructor
 
