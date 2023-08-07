@@ -2,6 +2,8 @@
 
 The jewelry station is geared towards metal work, but fortunately you can use a lot of tools to make all kinds of things in the lab and come to the jewelry station to add jump rings and connect fun pieces together.
 
+You can also follow some of the Jewelry Station happenings on the [facebook group](https://www.facebook.com/groups/443731491076052/).
+
 ## Tools
 
 - dapping set
