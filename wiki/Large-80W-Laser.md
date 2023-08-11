@@ -1,6 +1,6 @@
 # Overview
 
-This is the quick guide for the **Large 80W Laser Cutter**.
+This is the quick guide for the **Large 80W Laser Cutter**. See the [ Laser Cutters](Laser-Cutters) page for more laser cutter information.
 
 ## Size
 
