@@ -1,6 +1,6 @@
 # Overview
 
-This is the main quick guide for the **Mini 60W Laser**
+This is the main quick guide for the **Mini 60W Laser**. See the [ Laser Cutters](Laser-Cutters) page for more laser cutter information.
 
 ## What you can cut
 
