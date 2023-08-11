@@ -23,7 +23,8 @@ HYH is the members' night to get stuff done around the space. It is not a discus
 - Voting results will be sent to the mailing list Friday morning.
 - The second part is getting stuff done:
   - Clean/fix/replace/action everything.
-  - Review the lost and found box and post contents to the lost and found thread here: <http://groups.google.com/group/heatsynclabs/browse_thread/thread/7f7aac4217cbd24d>
+  - New members can get their boxes, and do a [ self guided orientation](Walk-Through-Orientation) if no volunteers give an orientation.
+  - Review the collect your stuff shelf (aka lost and found), and the free stuff shelf. Removing old items from the lab into trash or elsewhere.
   - Check stations and broken tools bin for broken equipment.
   - Check if stock of cups/toilet paper/cleaning products is sufficient, and notify operations if not.
   - Review upstairs storage
