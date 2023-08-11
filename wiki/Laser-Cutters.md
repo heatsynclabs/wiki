@@ -16,3 +16,6 @@ There are plenty of safety and other considerations covered in our training clas
 - Empty the trash out in the dumpster when it is 3/4 full
 - Take turns with others
 - Be courteous of volunteers hosting and be cleaned up by the end of open hours
+
+---
+*Categories: [Laser](Category-Laser)*
