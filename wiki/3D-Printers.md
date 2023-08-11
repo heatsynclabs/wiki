@@ -4,6 +4,8 @@ FDM (Fused Deposition Modeling) and SLA (StereoLithography Apparatus) printing t
 
 The SLA printers will require specific training prior to use.
 
+Discuss things about 3d printing or the 3d printer station on the HeatSync Labs 3d printing Slack channel. If there are problems @ Antonio and Cprossou so they are aware.
+
 ## On Boarding
 
 [Welcome to HSL 3D Printing](https://docs.google.com/document/d/1gkVk81iiD63BoAwKSFT5sVMU-J4CvySvtNyfM1BNktw/edit#heading=h.5x0d5h95i329)
@@ -12,9 +14,9 @@ The SLA printers will require specific training prior to use.
 
 ## FDM Printers
 
+- [Ender 5](Ender-5)
 - [Ultimaker Original](Ultimaker-Original)
 - [Ultimaker 2](Ultimaker-2)
-- [Ender 5](Ender-5)
 
 ## SLA Printers
 
