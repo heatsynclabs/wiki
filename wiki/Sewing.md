@@ -13,6 +13,7 @@
 
 - Just use the machines.
 - **Bernina Industrial** machine ***requires*** you to be checked out by the instructor.
+- **Consew Industrial** machine ***requires*** you to be checked out by the instructor.
 - **Husqvarna Embroidery** machine needs instruction.
 - **Baby Lock Serger** needs instruction.
 
