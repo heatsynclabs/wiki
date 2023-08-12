@@ -155,7 +155,7 @@ Ask another member before using an HSL tool for the first time; everyone knows h
 
 - HeatSync Training required for use
 
-See [Laser Cutter](Laser-Cutter)
+See [Laser Cutters](Laser-Cutters)
 
 ### Metalworking Tools
 
