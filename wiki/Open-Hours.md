@@ -6,7 +6,7 @@ We have posted open hours on our website. This is our minimum goal. It maybe (ho
 
 ### What is available during open hours
 
-All tools are available for use during open hours. Many of the larger tools require an orientation/training class in order to use it. Tools like the laser cutter, mill, lathe, welding tools, and many of the others have official classes periodically to train and go over proper safety when using those tools. Once you have take a qualifying course, or worked with the champion of the area enough to win approval, you may use the tools during hours where a card holder has sponsored you (which includes open hours). Some of the tools require coordination on use because of power constraints (for instance the mill, welder and laser share the same circuit and can't be used at the same time). It is best to come down and find out what is going on with the community before planning to use any of the large tools for projects that will require more that a few minutes to work on.
+All tools are available for use during open hours. Many of the larger tools require an orientation/training class in order to use it. Tools like the laser cutter, mill, lathe, welding tools, and many of the others have official classes periodically to train and go over proper safety when using those tools. Once you have take a qualifying course, or worked with the champion of the area enough to win approval, you may use the tools during hours where a card holder has sponsored you (which includes open hours). It is best to come down and find out what is going on with the community before planning to use any of the large tools for projects that will require more that a few minutes to work on.
 
 ## Open Hours - Meaning for the Host
 
