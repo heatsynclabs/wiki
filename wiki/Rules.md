@@ -138,19 +138,6 @@ Ask another member before using an HSL tool for the first time; everyone knows h
 
 - Use these tools only for their intended purposes.
 
-### Woodworking/Saws
-
-- Tool is in a safe position (won't tip/fall)
-- Cut away from you, think "where are my hands and fingers going to end up?"
-- Check the people around you, and any electric cords or unsafe things that may be in the way
-  - Alert them before you begin (glasses, dust, noise)
-- Adjust saw when it's unplugged
-
-<!-- -->
-
-- Remember actual lumber size (1x4 isn't actually 1"x4")
-- Measuring & planning, taking into account geometry of joins and size of material
-
 ### Laser Cutter
 
 - HeatSync Training required for use
