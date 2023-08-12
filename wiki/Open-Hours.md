@@ -2,7 +2,7 @@
 
 ### When we say "we are open" we mean
 
-We have posted open hours on our website. This is our minimum goal. It maybe (hopefully very rarely) that during the posted hours, we don't have a host arriving as needed. There is an email that goes to our google group if the doors are locked 15 minutes after our scheduled opening time. You can always see if the doors are unlocked on the main page of our website as well.
+We have posted open hours on our website. This is our minimum goal. It maybe (hopefully very rarely) that during the posted hours, we don't have a host arriving as needed. You can always see if the doors are unlocked on the main page of our website as well.
 
 ### What is available during open hours
 
