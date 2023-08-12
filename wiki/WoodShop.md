@@ -2,6 +2,18 @@
 
 HeatSync Labs has a collection of woodworking tools, but not a dedicated area specific just for woodworking. Some tools will need to be used outside if making excessive dust and debris that would be a fire hazard. As of this edit there is not a specific wood shop champion. If you have questions post on the Slack channel under woodshop.
 
+# Woodworking Safety
+
+Always ask before using our tools for the first time. You must have a waiver filled out. If you don't know what you are doing ask for help.
+
+These were some general safety precautions mentioned on the rules page. Many more safety precautions apply and are often tool specific.
+
+- Tool is in a safe position (won't tip/fall)
+- Cut away from you, think "where are my hands and fingers going to end up?"
+- Check the people around you, and any electric cords or unsafe things that may be in the way
+  - Alert them before you begin (glasses, dust, noise)
+- Adjust saw when it's unplugged
+
 # Tools
 
 - [Bosch 10" Contractor Saw (Table Saw)](https://www.boschtools.com/us/en/boschtools-ocs/table-saws-4100xc-10-201878-p/)
@@ -19,7 +31,7 @@ HeatSync Labs has a collection of woodworking tools, but not a dedicated area sp
 - [Ryobi JS550L Jig Saw](https://556aa8d9de68ea9c4f29-0a8acad11a4df5016d26cc39a7429843.ssl.cf1.rackcdn.com/2/JS550L_574_trilingual.pdf)
 - [Drill Master 61590 Orbital Sander](https://www.harborfreight.com/10-amp-orbital-14-sheet-sander-61311.html) [manual](https://manuals.harborfreight.com/manuals/61000-61999/61509.pdf)
 
-## Wanted
+# Wanted
 
 - 6" Jointer
   - Maybe this one? <https://www.youtube.com/watch?v=wTOmCQc2LKU>
