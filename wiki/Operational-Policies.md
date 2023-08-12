@@ -17,4 +17,4 @@
 
 #### Card Access
 
-- Basic Members can receive cards when approved by a majority vote of members who already have card access[1](https://groups.google.com/forum/?fromgroups=#!topic/heatsynclabs/g9kfaaPkFpI) at an operations meeting ("Hack your Hackerspace" night.) You may request someone else propose you get a card, or simply wait until someone proposes that you get a card. Proposing yourself for card access is illegal.
+- Basic Members can receive cards when approved by a majority vote of members who already have card access[1](https://groups.google.com/forum/?fromgroups=#!topic/heatsynclabs/g9kfaaPkFpI) at [ Hack your Hackerspace night](Hack-Your-Hackerspace). You may request someone else propose you get a card, or simply wait until someone proposes that you get a card. Proposing yourself for card access is not permitted.
