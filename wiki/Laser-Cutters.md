@@ -17,5 +17,19 @@ There are plenty of safety and other considerations covered in our training clas
 - Take turns with others
 - Be courteous of volunteers hosting and be cleaned up by the end of open hours
 
+## Events
+
+Some of the current and past events for the laser cutter:
+
+- Laser Certification is scheduled for the 3rd Sunday of every month.
+- [ Laser Meetup](Monthly-Laser-Meetup) 1st Sunday of every month from 10am - 2pm.
+- [ Build-A-Bot series](Build-A-Bot)
+- [Laser Cut Box Making](https://guestlist.co/events/712497)
+- [Laser Engraved Stamp Making](https://guestlist.co/events/723270)
+- [Young Maker Laser Portraits](https://guestlist.co/events/741495)
+- [Earring Making with the Laser Cutter](https://guestlist.co/events/750477)
+- [Snowflake Earring Making](https://guestlist.co/events/733125)
+- [LaserCut 5.3 Hands-On Class](https://guestlist.co/events/743007)
+
 ---
 *Categories: [Laser](Category-Laser)*
