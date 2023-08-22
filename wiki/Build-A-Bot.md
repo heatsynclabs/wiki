@@ -4,11 +4,11 @@ Build-A-Bot is a workshop where you design, laser cut, and solder your own robot
 
 Pick and choose which events you want. Each of them also work individually.
 
-**[Designing a Robot](https://guestlist.co/events/754140)** will be posted as Designing with Inkscape. This event works great for anyone interested in designing things for the laser cutter or vinyl cutter.
+**[Designing a Robot - Monday 09/04/23 6pm](https://guestlist.co/events/754140)** will be posted as Designing with Inkscape. This event works great for anyone interested in designing things for the laser cutter or vinyl cutter.
 
-**[Laser Cut A Robot!](https://guestlist.co/events/754149)** we will showcase both laser cutting robots and vinyl cutting designs. You'll keep a robot when you're done and if you attend the solder a robot class you will add lights to it to make it interactive.
+**[Laser Cut A Robot! - Monday 09/011/23 6pm](https://guestlist.co/events/754149)** we will showcase both laser cutting robots and vinyl cutting designs. You'll keep a robot when you're done and if you attend the solder a robot class you will add lights to it to make it interactive.
 
-**[Solder A Robot!](https://guestlist.co/events/754131)**. Anyone can solder a robot. We will have several robots available if you don't have a custom design already.
+**[Solder A Robot! - Monday 09/18/23 6pm](https://guestlist.co/events/754131)**. Anyone can solder a robot. We will have several robots available if you don't have a custom design already.
 
 ## Design A Bot
 
