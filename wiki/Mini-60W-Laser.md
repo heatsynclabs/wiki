@@ -14,7 +14,7 @@ These lists are not exhaustive. If your material is not on either list, ask firs
 
 # Size
 
-Bed dimensions are are approximately 70 cm x 50 cm
+Bed dimensions are are approximately 70 cm x 50 cm (27.5" x 19.6")
 
 # Turn on the laser
 
