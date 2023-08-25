@@ -2,7 +2,7 @@
 
 HeatSync Labs has an [ 80 Watt Laser Cutter](Large-80W-Laser) and [ 60 Watt Laser Cutter](Mini-60W-Laser). You must be certified to use the laser cutter on your own. The Laser Certification will be scheduled on the 3rd Sunday of the month from 11am - 2pm. Check the calendar for details.
 
-As you have questions using the laser please consider using our [ Laser Cutter Questions page](Laser-Cutter-Questions). By having a single searchable page things will be easier for everyone.
+As you have questions using the laser please consider using our [ Laser FAQ page](Laser-FAQ). By having a single searchable page things will be easier for everyone.
 
 If there are problems that cause the laser not to be safe to use; Discuss with whoever is hosting open hours. Post a sign on the laser if it's out of order. Then post on Slack in the laser channel about the problem.
 
