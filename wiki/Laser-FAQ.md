@@ -7,6 +7,9 @@ On this page I will start listing all the questions people have and attempt to a
 - How do I make the laser go to a specific place on the laser bed?
   - LightBurn has a setting called absolute coordinates, the other option is current position.
   - LaserCut has a similar setting labelled immediate. Uncheck that for absolute coordinates.
+- Why doesn't the laser start my job or run the box and instead beeps 10 times?
+  - Check the control panel and see if it says soft stop. If that happened it means the job was going to cut out of bounds so it terminated the job.
+  - Look at your options for origin point, and if immediate was checked or not.
 
 ## File questions
 
