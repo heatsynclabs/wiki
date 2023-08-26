@@ -20,8 +20,7 @@ Discuss things about 3d printing or the 3d printer station on the HeatSync Labs 
 
 ## SLA Printers
 
-- [Kudo3D Titan 1 Ruby](Kudo3D-Titan-1-Ruby)
-- [Formlabs Form 1](Formlabs-Form-1)
+- [Elegoo Mars](https://www.elegoo.com/products/elegoo-mars-lcd-3d-printer) Training is required before using this printer.
 
 ---
 *Categories: [3D-Printing](Category-3D-Printing)*
