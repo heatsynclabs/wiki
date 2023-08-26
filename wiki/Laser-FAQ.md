@@ -2,6 +2,8 @@ On this page I will start listing all the questions people have and attempt to a
 
 ## Misc
 
+- Why doesn't anything happen when pressing xy, or z to move the laser.
+  - Press the Download button to regain communications. You can close the window.
 - How do I make the laser go to a specific place on the laser bed?
   - LightBurn has a setting called absolute coordinates, the other option is current position.
   - LaserCut has a similar setting labelled immediate. Uncheck that for absolute coordinates.
