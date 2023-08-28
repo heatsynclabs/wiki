@@ -10,6 +10,8 @@ On this page I will start listing all the questions people have and attempt to a
 - Why doesn't the laser start my job or run the box and instead beeps 10 times?
   - Check the control panel and see if it says soft stop. If that happened it means the job was going to cut out of bounds so it terminated the job.
   - Look at your options for origin point, and if immediate was checked or not.
+- Why did the laser start cutting as soon as I shut the lid.
+  - This is a known problem. When you press pause on the LaserCut 5.3 software then open the lid it starts for some reason.
 
 ## File questions
 
