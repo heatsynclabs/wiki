@@ -30,3 +30,6 @@ This answer highly depends on the artwork in question. For images with gradients
 
 - Where is the isopropyl (rubbing alcohol)?
   - On the table in the wood box unless someone moved it. There is more in the admin lockers. Ask whoever is hosting if you need help getting something from the lockers.
+
+---
+*Categories: [Laser](Category-Laser)*
