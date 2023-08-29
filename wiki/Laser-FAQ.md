@@ -14,7 +14,7 @@ On this page I will start listing all the questions people have and attempt to a
   - This is a known problem. When you press pause on the LaserCut 5.3 software then open the lid it starts for some reason.
 - What size material can I cut in the laser.
   - See here; [ 80W](Large-80W-Laser#sizesize), [ 60W](Mini-60W-Laser#size)
-- How thick of material can I cut. This largely depends on the material. See the laser logs [ 80W](Large-80W-Laser#logs), [ 60W](https://wiki.heatsynclabs.org/wiki/Mini_60W_Laser) for examples of what people cut. It lists the dimensions.
+- How thick of material can I cut. This largely depends on the material. See the laser logs [ 80W](Large-80W-Laser#logs), [ 60W](Mini-60W-Laser#size) for examples of what people cut. It lists the dimensions.
 
 ## File questions
 
