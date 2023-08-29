@@ -12,6 +12,7 @@ On this page I will start listing all the questions people have and attempt to a
   - Look at your options for origin point, and if immediate was checked or not.
 - Why did the laser start cutting as soon as I shut the lid.
   - This is a known problem. When you press pause on the LaserCut 5.3 software then open the lid it starts for some reason.
+- What size material can I cut in the laser. See here; [ 80W](Large-80W-Laser#sizesize), [ 60W](Mini-60W-Laser#size)
 
 ## File questions
 
