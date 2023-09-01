@@ -1,15 +1,13 @@
 Welcome to HeatSync Labs.
 
-Today (02/19/2023) we are doing Fun and Games Design Challenge. Some files are being shared on [https://drive.google.com/drive/folders/1fs8q7XygdeuJ9SBcrJPtPLldA2UvAM6T?usp=share_link this page](https://drive.google.com/drive/folders/1fs8q7XygdeuJ9SBcrJPtPLldA2UvAM6T?usp=share_link_this_page).
+Today (08/31/2023) we are doing Laser Cut Box Making
 
-You can see our full calendar on our [website here](http://www.heatsynclabs.org/)
+This page overviews a lot of different box generating tools <https://www.instructables.com/id/The-Ultimate-Guide-to-Laser-cut-Box-Generators/>
 
-Public Hours Monday, Tuesday and Thursday evenings 7pm - 10pm FREE
+You will likely find something suitable at <https://www.festi.info/boxes.py/>
 
-Arduino Night on the First Wednesday of every month next one December 1st 7pm - 10pm FREE
+the wood we have is Baltic birch 1/8 inch (3mm), or 1/4 inch (6mm). From [https://timberww.com/hardwoods.aspx Timber Hardwoods](https://timberww.com/hardwoods.aspx_Timber_Hardwoods)
 
-3d Printer Day first Saturday every month, Next one Saturday December 4th noon - 5pm FREE
+[https://makerdesignlab.com/tutorials-tips/online-file-generators-for-laser-cutting/ This page](https://makerdesignlab.com/tutorials-tips/online-file-generators-for-laser-cutting/_This_page) is another collections of file generators that goes beyond just boxes; (Puzzles, Gears, Mazes, Other)
 
-Check calendar for certification and other classes.
-
-Come make things at HeatSync Labs!
+Paper Boxes; <https://www.templatemaker.nl/en/>
