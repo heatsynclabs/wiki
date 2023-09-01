@@ -8,6 +8,6 @@ You will likely find something suitable at <https://www.festi.info/boxes.py/>
 
 the wood we have is Baltic birch 1/8 inch (3mm), or 1/4 inch (6mm). From [https://timberww.com/hardwoods.aspx Timber Hardwoods](https://timberww.com/hardwoods.aspx_Timber_Hardwoods)
 
-[https://makerdesignlab.com/tutorials-tips/online-file-generators-for-laser-cutting/ This page](https://makerdesignlab.com/tutorials-tips/online-file-generators-for-laser-cutting/_This_page) is another collections of file generators that goes beyond just boxes; (Puzzles, Gears, Mazes, Other)
+[This page](https://makerdesignlab.com/tutorials-tips/online-file-generators-for-laser-cutting/) is another collections of file generators that goes beyond just boxes; (Puzzles, Gears, Mazes, Other)
 
-Paper Boxes; <https://www.templatemaker.nl/en/>
+This [Paper Boxes](https://www.templatemaker.nl/en/) page is also great.
