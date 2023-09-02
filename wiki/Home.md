@@ -39,6 +39,7 @@
 <li><a href="AudioVisual"> A/V Station</a></li>
 <li><a href="Bicycle-Repair-Station">Bicycle Repair Station</a></li>
 <li><a href="Biochem-Lab"> Biochem Lab</a></li>
+<li><a href="Class-Laptops"> Class Laptops</a></li>
 <li><a href="Electronics">Electronics</a></li>
 <li><a href="Jewelry">Jewelry</a></li>
 <li><a href="Laser-Cutters"> Laser Cutters</a></li>
