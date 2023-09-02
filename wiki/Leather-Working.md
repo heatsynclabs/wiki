@@ -1,4 +1,4 @@
-Justin F. Donated leather working tools. I'm capturing a partial list of what was in this kit.
+Justin F. Donated leather working tools. These are currently stored next to the Lock Picking by the woodworking area.
 
 ## Tools
 
