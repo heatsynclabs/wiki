@@ -36,6 +36,8 @@ model number image manual
 
 ## Soldering Station
 
+[http://mightyohm.com/soldercomic good intro to soldering](http://mightyohm.com/soldercomic_good_intro_to_soldering) for those who are new.
+
 ### Metcal
 
 ### Weller
