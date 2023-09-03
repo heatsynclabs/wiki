@@ -34,6 +34,8 @@ This answer highly depends on the artwork in question. For images with gradients
 - My file imports with lots of segments of lines and curves that aren't connected. How do I make them all connected.
   - For LaserCut 5.3 you use the Tools menu then Unite Lines.
   - For Lightburn you use Edit Auto-Join Selected Shapes.
+- Why is the text in my file coming up wrong.
+  - Possibly the font that you used is not on the laser computer. You may need to convert the font to a path before importing it.
 
 ## Cleaning questions
 
