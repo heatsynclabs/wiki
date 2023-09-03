@@ -31,6 +31,10 @@ On this page I will start listing all the questions people have and attempt to a
 
 This answer highly depends on the artwork in question. For images with gradients engraving in LightBurn works great. For black and white designs one reason to change to vector may be time. Engraving a clock face for instance will result in a lot of travel between the numbers that isn't cutting. If they are all separate layers it'll go quicker. Alternately in Lightburn you may try the "Offset Fill" option especially for thinner fonts. Functionally there should be no difference with a black and white image engrave of high enough quality so it really is only a matter of time.
 
+- My file imports with lots of segments of lines and curves that aren't connected. How do I make them all connected.
+  - For LaserCut 5.3 you use the Tools menu then Unite Lines.
+  - For Lightburn you use Edit Auto-Join Selected Shapes.
+
 ## Cleaning questions
 
 - Where is the isopropyl (rubbing alcohol)?
