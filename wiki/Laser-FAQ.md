@@ -2,6 +2,16 @@ On this page I will start listing all the questions people have and attempt to a
 
 ## Misc
 
+- Who should come to the Laser Meetup?
+  - Anyone who is interested or curious even if you don't have a design in mind.
+  - Anyone wanting to get help on a design or time cutting a project (you don't need to be certified ahead of class)
+  - Kids can come as well, but anyone under 18 must have an adult parent or guardian with them.
+- What size material can I cut in the laser.
+  - See here; [ 80W](Large-80W-Laser#sizesize), [ 60W](Mini-60W-Laser#size)
+- How thick of material can I cut. This largely depends on the material. See the laser logs [ 80W](Large-80W-Laser#logs), [ 60W](Mini-60W-Laser#size) for examples of what people cut. It lists the dimensions.
+
+## Laser Operation
+
 - Why doesn't anything happen when pressing xy, or z to move the laser.
   - Press the Download button to regain communications. You can close the window.
 - How do I make the laser go to a specific place on the laser bed?
@@ -12,9 +22,6 @@ On this page I will start listing all the questions people have and attempt to a
   - Look at your options for origin point, and if immediate was checked or not.
 - Why did the laser start cutting as soon as I shut the lid.
   - This is a known problem. When you press pause on the LaserCut 5.3 software then open the lid it starts for some reason.
-- What size material can I cut in the laser.
-  - See here; [ 80W](Large-80W-Laser#sizesize), [ 60W](Mini-60W-Laser#size)
-- How thick of material can I cut. This largely depends on the material. See the laser logs [ 80W](Large-80W-Laser#logs), [ 60W](Mini-60W-Laser#size) for examples of what people cut. It lists the dimensions.
 
 ## File questions
 
@@ -28,8 +35,9 @@ On this page I will start listing all the questions people have and attempt to a
 <!-- -->
 
 - Is it better to use a raster image to engrave or to use a vector?
+  - This answer highly depends on the artwork in question. For images with gradients engraving in LightBurn works great. For black and white designs one reason to change to vector may be time. Engraving a clock face for instance will result in a lot of travel between the numbers that isn't cutting. If they are all separate layers it'll go quicker. Alternately in Lightburn you may try the "Offset Fill" option especially for thinner fonts. Functionally there should be no difference with a black and white image engrave of high enough quality so it really is only a matter of time.
 
-This answer highly depends on the artwork in question. For images with gradients engraving in LightBurn works great. For black and white designs one reason to change to vector may be time. Engraving a clock face for instance will result in a lot of travel between the numbers that isn't cutting. If they are all separate layers it'll go quicker. Alternately in Lightburn you may try the "Offset Fill" option especially for thinner fonts. Functionally there should be no difference with a black and white image engrave of high enough quality so it really is only a matter of time.
+<!-- -->
 
 - My file imports with lots of segments of lines and curves that aren't connected. How do I make them all connected.
   - For LaserCut 5.3 you use the Tools menu then Unite Lines.
