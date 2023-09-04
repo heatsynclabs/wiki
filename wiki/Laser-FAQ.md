@@ -6,9 +6,10 @@ On this page I will start listing all the questions people have and attempt to a
   - Anyone who is interested or curious even if you don't have a design in mind.
   - Anyone wanting to get help on a design or time cutting a project (you don't need to be certified ahead of class)
   - Kids can come as well, but anyone under 18 must have an adult parent or guardian with them.
-- What size material can I cut in the laser.
+- What size material can I cut with the laser?
   - See here; [ 80W](Large-80W-Laser#sizesize), [ 60W](Mini-60W-Laser#size)
-- How thick of material can I cut. This largely depends on the material. See the laser logs [ 80W](Large-80W-Laser#logs), [ 60W](Mini-60W-Laser#size) for examples of what people cut. It lists the dimensions.
+- How thick of material can I cut.
+  - This largely depends on the material. See the laser logs [ 80W](Large-80W-Laser#logs), [ 60W](Mini-60W-Laser#size) for examples of what people cut. It lists the dimensions.
 
 ## Laser Operation
 
