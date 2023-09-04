@@ -32,19 +32,17 @@ On this page I will start listing all the questions people have and attempt to a
 - Why are some parts of my design are missing when I import dxf into Lasercut?
   - Often those elements were not paths, but objects like basic shapes or fonts. Convert those objects to paths so they can be converted.
   - Also grouped items may not be converted to paths when saving as .dxf
-
-<!-- -->
-
 - Is it better to use a raster image to engrave or to use a vector?
   - This answer highly depends on the artwork in question. For images with gradients engraving in LightBurn works great. For black and white designs one reason to change to vector may be time. Engraving a clock face for instance will result in a lot of travel between the numbers that isn't cutting. If they are all separate layers it'll go quicker. Alternately in Lightburn you may try the "Offset Fill" option especially for thinner fonts. Functionally there should be no difference with a black and white image engrave of high enough quality so it really is only a matter of time.
-
-<!-- -->
-
 - My file imports with lots of segments of lines and curves that aren't connected. How do I make them all connected.
   - For LaserCut 5.3 you use the Tools menu then Unite Lines.
   - For Lightburn you use Edit Auto-Join Selected Shapes.
 - Why is the text in my file coming up wrong.
   - Possibly the font that you used is not on the laser computer. You may need to convert the font to a path before importing it.
+- Why does my design come in with the wrong dimensions?
+  - This depends on how your design software assigns units of measurement which is outside the scope of this FAQ. However you can resolve most if not all of these problems by checking the total size of your design then scaling it once you bring it into the laser software.
+    - For LaserCut5.3 you can go to Edit Size to adjust your design size.
+    - For Lightburn the top bar has the size and you can adjust it there.
 
 ## Cleaning questions
 
