@@ -39,7 +39,7 @@ On this page I will start listing all the questions people have and attempt to a
   - For Lightburn you use Edit Auto-Join Selected Shapes.
 - Why is the text in my file coming up wrong.
   - Possibly the font that you used is not on the laser computer. You may need to convert the font to a path before importing it.
-- Why does my design come in with the wrong dimensions?
+- Why does my design come in with the wrong dimensions (didn't scale correctly)?
   - This depends on how your design software assigns units of measurement which is outside the scope of this FAQ. However you can resolve most if not all of these problems by checking the total size of your design then scaling it once you bring it into the laser software.
     - For LaserCut5.3 you can go to Edit Size to adjust your design size.
     - For Lightburn the top bar has the size and you can adjust it there.
