@@ -10,6 +10,8 @@ On this page I will start listing all the questions people have and attempt to a
   - See here; [ 80W](Large-80W-Laser#sizesize), [ 60W](Mini-60W-Laser#size)
 - How thick of material can I cut?
   - This largely depends on the material. See the laser logs for the [ 80W](Large-80W-Laser#logs), and [ 60W](Mini-60W-Laser#size) for examples of what people cut. It lists the dimensions.
+- I'm at 100% for power and not cutting through; Should I use 2 passes to cut through my material or change my settings to go slower?
+  - Typically you'll want to go slower. If you do multiple passes there may be debris left in the cut, and it may misaligned if heat causes warping to your material or anything else causes movement of the material.
 
 ## Laser Operation
 
