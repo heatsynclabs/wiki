@@ -58,7 +58,7 @@ YOU to do awesome things. No really. Come to HeatSync. Even when you're tired. E
 
 # Q: I lost something, do you know where it might be?
 
-There is a collect your stuff shelf on the back side of the electronics bench. If it's not there, ask on the Google Groups to see if anyone has found what you are looking for.
+There is a collect your stuff shelf by the member box storage behind the gray Tech Tear Apart bins. If it's not there, ask on the Google Groups to see if anyone has found what you are looking for.
 
 # Q: I broke a tool, what do I do?
 
