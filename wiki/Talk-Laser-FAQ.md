@@ -1,0 +1,1 @@
+How to keep my material from moving needs more details including photos of the process and links to the files for the clips, wedges, and hold down pins. Using those words without photos isn't very easy to understand. - Eric
