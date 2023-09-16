@@ -12,6 +12,9 @@ On this page I will start listing all the questions people have and attempt to a
   - This largely depends on the material. See the laser logs for the [ 80W](Large-80W-Laser#logs), and [ 60W](Mini-60W-Laser#size) for examples of what people cut. It lists the dimensions.
 - I'm at 100% for power and not cutting through; Should I use 2 passes to cut through my material or change my settings to go slower?
   - Typically you'll want to go slower. If you do multiple passes there may be debris left in the cut, and it may misaligned if heat causes warping to your material or anything else causes movement of the material.
+- How do I keep my material in place?
+  - Taping things to the rails with a bit of tension so it doesn't slide left and right.
+  - You can use the honeycomb and put T pins in them. There should be some in the drawer. To access the drawer of the medical cart use the code 1234 to unlock.
 
 ## Laser Operation
 
