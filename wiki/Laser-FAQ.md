@@ -17,6 +17,8 @@ On this page I will start listing all the questions people have and attempt to a
   - You can use the honeycomb and put T pins in them. There should be some in the drawer. To access the drawer of the medical cart use the code 1234 to unlock.
 - Why did I hear something beep 5 times?
   - That could be the medical cart locking. Not a problem.
+- Is the 80 W laser log accessible on both computers?
+  - Both of them can be accessed from anywhere on the internet [ 80W](Large-80W-Laser#logs), and [ 60W](Mini-60W-Laser#size).
 
 ## Laser Operation
 
