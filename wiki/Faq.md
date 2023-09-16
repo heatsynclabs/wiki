@@ -22,7 +22,7 @@ HeatSync is very soft sell. We are open to the public during our business hours 
 
 In almost all cases the answer is no. HeatSync is a place where we come and create. If tools are removed from the lab we have no guarantee of seeing them again, or of even knowing they are missing until they are needed. At that point stores may be closed and members may not be able to complete their project. Also in some rare cases, some tools may not owned by HeatSync.
 
-# Q: How do can I help improve HeatSync or start an event?
+# Q: How can I help improve HeatSync or start an event?
 
 Start doing your idea in public! Announce your intentions to a wide audience, set dates/times, and show up to work on it even if it's just you. Send reminders beforehand and/or summaries afterward to keep it on people's minds, and encourage people one-on-one to RSVP yes/no publicly to show activity. Eventually like-minded people will show up, and when they see you making progress they'll be much more likely to join in. This "snowball effect" method is a great way of starting stuff in a [do-ocratic community](http://www.communitywiki.org/DoOcracy).
 
