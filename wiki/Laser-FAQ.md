@@ -15,6 +15,8 @@ On this page I will start listing all the questions people have and attempt to a
 - How do I keep my material in place?
   - Taping things to the rails with a bit of tension so it doesn't slide left and right.
   - You can use the honeycomb and put T pins in them. There should be some in the drawer. To access the drawer of the medical cart use the code 1234 to unlock.
+- Why did I hear something beep 5 times?
+  - That could be the medical cart locking. Not a problem.
 
 ## Laser Operation
 
