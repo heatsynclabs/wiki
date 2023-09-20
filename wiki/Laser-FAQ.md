@@ -34,6 +34,8 @@ On this page I will start listing all the questions people have and attempt to a
   - This is a known problem. When you press pause on the LaserCut 5.3 software then open the lid it starts for some reason.
 - What order is my design going to cut in?
   - The software will go from top to bottom in your layers (colors) for any that are set to output. Within those elements it will probably try to cut things that are near each other. Preview or simulate are going to show you more about what order things are happening in without actually cutting the job.
+- Is there a rotary attachment?
+  - Yes for the 80 W laser and it does require special training to use. Post on Slack asking to get help using it once have some experience using the 80 W laser.
 
 ## File questions
 
