@@ -36,6 +36,8 @@ On this page I will start listing all the questions people have and attempt to a
   - The software will go from top to bottom in your layers (colors) for any that are set to output. Within those elements it will probably try to cut things that are near each other. Preview or simulate are going to show you more about what order things are happening in without actually cutting the job.
 - Is there a rotary attachment?
   - Yes for the 80 W laser and it does require special training to use. Post on Slack asking to get help using it once have some experience using the 80 W laser.
+- Can you vary power during an engrave? OR Can you engrave at different depths / Can you do a gray scale engrave?
+  - Engraving gradients is done by dithering an image and Lightburn has some nice settings features for engraving images, but the laser power isn't adjusting. You can create separate engrave layers and cut them at different powers, but no true variable power cuts.
 
 ## File questions
 
