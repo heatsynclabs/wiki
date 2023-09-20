@@ -43,7 +43,7 @@
 <li><a href="Class-Laptops"> Class Laptops</a></li>
 <li><a href="Electronics">Electronics</a></li>
 <li><a href="Jewelry">Jewelry</a></li>
-<li><a href="Laser-Cutters"> Laser Cutters</a></li>
+<li><a href="Laser-Cutters"> Laser Cutters</a> (<a href="Laser-FAQ">FAQ</a>)</li>
 <li><a href="Leather-Working"> Leather Working</a></li>
 <li><a href="LEGO">LEGO</a></li>
 <li><a href="Library">Library</a></li>
