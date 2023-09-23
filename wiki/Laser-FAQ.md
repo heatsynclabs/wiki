@@ -16,6 +16,8 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
 
 ## Materials and Cut Settings
 
+- What materials can I cut or engrave with the laser?
+  - The [ Laser Material Guidelines](Laser-Material-Guidelines) wiki page aims to cover that.
 - What size material can I cut with the laser?
   - See here; [ 80W](Large-80W-Laser#sizesize), [ 60W](Mini-60W-Laser#size)
 - How thick of material can I cut?
