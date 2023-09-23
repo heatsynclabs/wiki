@@ -1,4 +1,4 @@
-On this page I will start listing all the questions people have and attempt to answer them or link to answers. This will serve as a single searchable page for questions.
+In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the questions people have and attempt to answer them or link to answers. This will serve as a single searchable page for questions.
 
 ## Misc
 
