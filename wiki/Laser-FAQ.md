@@ -6,12 +6,6 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
   - Anyone who is interested or curious even if you don't have a design in mind.
   - Anyone wanting to get help on a design or time cutting a project (you don't need to be certified ahead of class)
   - Kids can come as well, but anyone under 18 must have an adult parent or guardian with them.
-- What size material can I cut with the laser?
-  - See here; [ 80W](Large-80W-Laser#sizesize), [ 60W](Mini-60W-Laser#size)
-- How thick of material can I cut?
-  - This largely depends on the material. See the laser logs for the [ 80W](Large-80W-Laser#logs), and [ 60W](Mini-60W-Laser#size) for examples of what people cut. It lists the dimensions.
-- I'm at 100% for power and not cutting through; Should I use 2 passes to cut through my material or change my settings to go slower?
-  - Typically you'll want to go slower. If you do multiple passes there may be debris left in the cut, and it may misaligned if heat causes warping to your material or anything else causes movement of the material.
 - How do I keep my material in place?
   - Taping things to the rails with a bit of tension so it doesn't slide left and right.
   - You can use the honeycomb and put T pins in them. There should be some in the drawer. To access the drawer of the medical cart use the code 1234 to unlock.
@@ -19,6 +13,15 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
   - That could be the medical cart locking. Not a problem.
 - Is the 80 W laser log accessible on both computers?
   - Both of them can be accessed from anywhere on the internet [ 80W](Large-80W-Laser#logs), and [ 60W](Mini-60W-Laser#size).
+
+## Materials and Cut Settings
+
+- What size material can I cut with the laser?
+  - See here; [ 80W](Large-80W-Laser#sizesize), [ 60W](Mini-60W-Laser#size)
+- How thick of material can I cut?
+  - This largely depends on the material. See the laser logs for the [ 80W](Large-80W-Laser#logs), and [ 60W](Mini-60W-Laser#size) for examples of what people cut. It lists the dimensions.
+- I'm at 100% for power and not cutting through; Should I use 2 passes to cut through my material or change my settings to go slower?
+  - Typically you'll want to go slower. If you do multiple passes there may be debris left in the cut, and it may misaligned if heat causes warping to your material or anything else causes movement of the material.
 
 ## Laser Operation
 
