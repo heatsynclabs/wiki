@@ -10,6 +10,7 @@ This is a partial list of the materials that can and can not be used for various
 
 - They produce side effects that are corrosive/destructive to the laser
 - They produce side effects that are poisonous and potentially deadly to humans
+- They do not absorb infrared and may reflect too much light back into the laser
 
 ## Approved
 
