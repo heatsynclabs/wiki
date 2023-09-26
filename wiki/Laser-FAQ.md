@@ -48,6 +48,7 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
 
 - What types of files do I need?
   - LaserCut5.3 (80 Watt Laser) takes .dxf format.
+    - In Adobe Illustrator to export a dxf go to the menu File, Export, Export As
     - Newer versions of DXF may pose problems. In Inkscape you can save as DXFR12 or DXFR14 one or both should work.
   - Lighburn (60 Watt Laser) takes [various file types;](https://docs.lightburnsoftware.com/BasicUsageEssentials.html#importing-artwork) Vector / mixed formats .ai, .svg, .dxf, .pdf, .plt, .hpgl. Image formats: .png, .jpg / .jpeg, .bmp, .gif, .tif / .tiff.
 - Why are some parts of my design are missing when I import dxf into Lasercut?
