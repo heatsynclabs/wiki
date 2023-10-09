@@ -26,6 +26,8 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
   - Typically you'll want to go slower. If you do multiple passes there may be debris left in the cut, and it may misaligned if heat causes warping to your material or anything else causes movement of the material.
 - Is the MDF from Home Depot/Lowe's good enough or is there a better place to get MDF?
   - Big box stores will have the price advantage because of volume. Sourcing and quality are super subjective, so its up to you. An art store like Jerry's may have finer stuff but you will pay a premium.
+- How finely can I engrave with the lasers?
+  - If you are asking about how fine the line or kerf of the laser is; In my experience the 80W laser is 0.125mm or larger if out of focus due to height or warping. The 60W laser provides a finer point much closer to .1mm. (summarized Robert Douglas Slack response).
 
 ## Laser Operation
 
