@@ -24,6 +24,8 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
   - This largely depends on the material. See the laser logs for the [ 80W](Large-80W-Laser#logs), and [ 60W](Mini-60W-Laser#size) for examples of what people cut. It lists the dimensions.
 - I'm at 100% for power and not cutting through; Should I use 2 passes to cut through my material or change my settings to go slower?
   - Typically you'll want to go slower. If you do multiple passes there may be debris left in the cut, and it may misaligned if heat causes warping to your material or anything else causes movement of the material.
+- Is the MDF from Home Depot/Lowe's good enough or is there a better place to get MDF?
+  - Big box stores will have the price advantage because of volume. Sourcing and quality are super subjective, so its up to you. An art store like Jerry's may have finer stuff but you will pay a premium.
 
 ## Laser Operation
 
