@@ -51,7 +51,7 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
     - In Adobe Illustrator to export a dxf go to the menu File, Export, Export As and choose DXF 2000.
     - Newer versions of DXF may pose problems. In Inkscape you can save as DXFR12 or DXFR14 one or both should work.
   - Lighburn (60 Watt Laser) takes [various file types;](https://docs.lightburnsoftware.com/BasicUsageEssentials.html#importing-artwork) Vector / mixed formats .ai, .svg, .dxf, .pdf, .plt, .hpgl. Image formats: .png, .jpg / .jpeg, .bmp, .gif, .tif / .tiff.
-- Why are some parts of my design are missing when I import dxf into Lasercut?
+- "Why are some parts of my design missing when I convert to dxf for Lasercut?
   - Often those elements were not paths, but objects like basic shapes or fonts. Convert those objects to paths so they can be converted.
   - Also grouped items may not be converted to paths when saving as .dxf
 - Is it better to use a raster image to engrave or to use a vector?
@@ -65,6 +65,8 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
   - This depends on how your design software assigns units of measurement which is outside the scope of this FAQ. However you can resolve most if not all of these problems by checking the total size of your design then scaling it once you bring it into the laser software.
     - For LaserCut5.3 you can go to Edit Size to adjust your design size.
     - For Lightburn the top bar has the size and you can adjust it there.
+- I have lines that extend beyond the boundaries of the document. If I were to upload that file onto either of the laser cutting software, will the software include the lines that are outside the boundary?
+  - Yes. Neither LaserCut 5.3 or Lightburn will care about what your page size is. Everything outside your page will still import.
 
 ## Cleaning questions
 
