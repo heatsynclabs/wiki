@@ -24,12 +24,6 @@ Cash can be given to any active member, who will then place the cash into an env
 
 Our paypal address is hslfinances@gmail.com (do not send emails to this address, it is not monitored actively) -- paypal donations may be sent to this address.
 
-### BitCoin
-
-If you would like to make a bitcoin donation to heatsync labs, you may use the following address: 14aTmbF5BBFsFWkTj4c3bWYGFcxJ8UNawh
-
-This will deposit bitcoin into our coinbase account. If you would like this to be immediately converted to USD, please email the current treasurer and ask them to withdraw the funds.
-
 ### Donation Letter
 
 The following is a Board drafted donation letter that can be used for soliciting donations for HeatSync Lab events or activities.
