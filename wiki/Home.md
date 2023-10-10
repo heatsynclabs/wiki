@@ -35,7 +35,7 @@
 </div>
 <p>If there are not specifics on how to get started on a tool post on Slack in the relevant channel (or general) expressing interest and asking for help.</p>
 <ul>
-<li><a href="Category-3D-Printing"> 3D-Printing</a></li>
+<li><a href="3D-Printers"> 3D-Printing</a></li>
 <li><a href="Arts-and-Crafts"> Arts and Crafts</a></li>
 <li><a href="AudioVisual"> A/V Station</a></li>
 <li><a href="Bicycle-Repair-Station">Bicycle Repair Station</a></li>
