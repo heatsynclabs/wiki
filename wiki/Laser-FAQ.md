@@ -47,6 +47,8 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
   - Yes for the 80 W laser and it does require special training to use. Post on Slack asking to get help using it once have some experience using the 80 W laser.
 - Can you vary power during an engrave? OR Can you engrave at different depths / Can you do a gray scale engrave?
   - Engraving gradients is done by dithering an image and Lightburn has some nice settings features for engraving images, but the laser power isn't adjusting. You can create separate engrave layers and cut them at different powers, but no true variable power cuts.
+- I'm getting a "soft dog" error when trying to use LaserCut 5.3.
+  - This is a known error with communication to the software dongle. Usually just trying a second time communicates successfully. If it continues please log your problems and also you may need to restart the software and or the laser/computer.
 
 ## File questions
 
