@@ -28,7 +28,7 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
   - Big box stores will have the price advantage because of volume. Sourcing and quality are super subjective, so its up to you. An art store like Jerry's may have finer stuff but you will pay a premium.
 - How finely can I engrave with the lasers?
   - If you are asking about how fine the line or kerf of the laser is; In my experience the 80W laser is 0.125mm or larger if out of focus due to height or warping. The 60W laser provides a finer point much closer to .1mm. (summarized Robert Douglas Slack response).
-- Where do you buy acrylic
+- Where do you buy acrylic?
   - [Port Plastics](https://portplastics.com/) is local in Chandler. There is a minimum order amount.
   - [Houston Acrylic](https://houstonacrylic.com/) has a good selection of specialty acrylics.
 
