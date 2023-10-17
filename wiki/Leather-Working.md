@@ -1,4 +1,4 @@
-Justin F. Donated leather working tools. These are currently stored drawer labelled Leather near the Lock Picking by the woodworking area.
+Justin F. Donated leather working tools. These are currently stored in the drawer labelled Leather near the Lock Picking by the woodworking area.
 
 ## Tools
 
