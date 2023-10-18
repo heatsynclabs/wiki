@@ -4,7 +4,7 @@ The arts and crafts cabinets are between the 3d printing and LEGO station as wel
 
 ## Supplies
 
-Paper cutters, pencil sharpener, laminator, canvas stretcher pliers, easels, clay sculpting tools, paintbrushes, paints, crayons, colored pencils, markers, craft sticks, pipe cleaners, fuzzy dots, magazines, stamps, paper, rolls of paper, table covers, clay, and other things.
+Paper cutters, pencil sharpener, laminator, canvas stretcher pliers, easels, clay sculpting tools, paintbrushes, paints, crayons, colored pencils, markers, craft sticks, pipe cleaners, fuzzy dots, magazines, stamps, paper, rolls of paper, table covers, clay, colored craft paper, and other things.
 
 Upstairs:
 
