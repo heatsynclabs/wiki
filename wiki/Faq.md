@@ -83,4 +83,9 @@ There is a good amount of parking around the lab. In recent months (2023), Mesa 
 
 # Q: How do I adjust my membership or donation level?
 
-I (Bob Bushman) am getting the answer for this and will post instructions here ASAP (2022-07-30).
+You have to edit your paypal to cancel a recurring payment
+
+- Go to Settings.
+- Click Payments.
+- Select Automatic payments.
+- Select the merchant.
