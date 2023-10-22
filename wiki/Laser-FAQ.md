@@ -38,6 +38,8 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
   - [Timber Hardwoods](https://timberww.com/) has good Baltic Birch Plywood that is usually better quality.
   - [Woodworkers Source](https://www.woodworkerssource.com/) has a location in Chandler
   - [Port Plastics](https://portplastics.com/) in Chandler for acrylic
+- Any issues cutting 1/4" walnut on the laser?
+  - Should work fine. May require slower cutting and higher temperatures on the 80W laser. May present more of a challenge on the 60W.
 
 ## Laser Operation
 
