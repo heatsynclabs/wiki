@@ -20,12 +20,10 @@ This class works as a solo class or as part of the Build-A-Bot series of classes
 
 At the end of class we will laser cut the robot designs made in the class. We may not be able to accommodate all the robots, or other designs worked on. Feel free to bring your designs to the Monthly Laser Meetup.
 
-## Laser Cut A Robot
-
-Learn about the laser cutter while cutting your own robot. Pick a robot from a selection of robots or bring your own robot design ready for cutting (see link for more details).
-
-These robots can be either decorative as is, or you can sign up for the final class in the Build-A-Bot Series to add a circuit to make them light up when you touch them.
-
 ## Solder a Robot
 
 Join us for a hands-on make and take soldering project. You will make your own fun robot figure that lights up when you touch it's heart. This robot is a great demonstration of how transistors work to boost the signals from a sensor. No experience necessary. Adults and kids age 7 and up welcome. Don't miss the fun!
+
+This class works as a solo class or as part of the Build-A-Bot series of classes. See this link for more details. If you aren't designing a robot you'll be able to pick from a list of designs as we begin.
+
+Sign up for an hour time slot so I can help 8 students at a time get through all the steps.
