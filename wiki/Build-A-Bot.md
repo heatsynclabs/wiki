@@ -1,8 +1,8 @@
 ## Overview
 
-Build-A-Bot is a workshop where you design, laser cut, and solder your own robot that lights up and changes color when you touch it's heart. This originally was a 3 hours class that rushed through all the steps with 4 people teaching the workshop. Current iteration will be 2 events where you can do either event. Just learn the Inkscape Design portion or solder a robot.
+Build-A-Bot is a workshop where you design, laser cut, and solder your own robot that lights up and changes color when you touch it's heart. This originally was a 3 hours class that rushed through all the steps with 4 people teaching the workshop. Current iteration will be 2 events where you can do either event or both.
 
-Pick and choose which events you want. Each of them also work individually. Do them both and you can design and cut your own custom robot as well as solder it.
+If you are only doing the first event you can make your own non-electronic robot that works as a figure. Doing them both you can create a custom electronic version.
 
 **[Designing a Robot - Wednesday 11/08/23 6pm](https://guestlist.co/events/760773)** will be posted as Designing with Inkscape. This event works great for anyone interested in designing things for the laser cutter or vinyl cutter. With demonstrations of the vinyl cutter and laser cutter.
 
