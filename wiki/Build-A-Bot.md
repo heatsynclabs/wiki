@@ -1,14 +1,14 @@
 ## Overview
 
-Build-A-Bot is a workshop where you design, laser cut, and solder your own robot that lights up and changes color when you touch it's heart. This originally was a 3 hours class that rushed through all the steps with 4 people teaching the workshop. The current Build-A-Bot we are doing 3 separate events where you can do any one or all of the days and learn just the parts you are interested in.
+Build-A-Bot is a workshop where you design, laser cut, and solder your own robot that lights up and changes color when you touch it's heart. This originally was a 3 hours class that rushed through all the steps with 4 people teaching the workshop. Current iteration will be 2 events where you can do either event. Just learn the Inkscape Design portion or solder a robot.
 
-Pick and choose which events you want. Each of them also work individually.
+Pick and choose which events you want. Each of them also work individually. Do them both and you can design and cut your own custom robot as well as solder it.
 
-**[Designing a Robot - Monday 09/04/23 6pm](https://guestlist.co/events/754140)** will be posted as Designing with Inkscape. This event works great for anyone interested in designing things for the laser cutter or vinyl cutter.
+**[Designing a Robot - Wednesday 11/08/23 6pm](https://guestlist.co/events/760773)** will be posted as Designing with Inkscape. This event works great for anyone interested in designing things for the laser cutter or vinyl cutter. With demonstrations of the vinyl cutter and laser cutter.
 
-**[Laser Cut A Robot! - Monday 09/011/23 6pm](https://guestlist.co/events/754149)** we will showcase both laser cutting robots and vinyl cutting designs. You'll keep a robot when you're done and if you attend the solder a robot class you will add lights to it to make it interactive.
+**[Build-A-Bot! - Wednesday 11/15/23 6pm](https://guestlist.co/events/760791)** Anyone age 7 and up can solder a robot. We will have several robots to choose from if you don't have a custom design already.
 
-**[Solder A Robot! - Monday 09/18/23 6pm](https://guestlist.co/events/754131)**. Anyone can solder a robot. We will have several robots available if you don't have a custom design already.
+We will laser cut robots during both events so you can do that with either event. Though there will be less time during the soldering event so best do that in the first one if possible.
 
 ## Design A Bot
 
