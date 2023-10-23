@@ -14,9 +14,11 @@ We will laser cut robots during both events so you can do that with either event
 
 In this class Eric Ose will show you how to create vector designs with Inkscape for use with the vinyl cutter or laser cutter. How to import images and trace them, how to trace things manually, how to edit nodes, how to combine shapes to make new shapes, how to deal with objects as well as exporting to dxf for the 80 Watt laser cutter.
 
-We will be using Inkscape 1.3 (very recently released). Bring your own laptop with it installed or select a "Laptop Provided" ticket.
+We will be using Inkscape 1.3 (or later release). Bring your own laptop with it installed or select a "Laptop Provided" ticket.
 
 This class works as a solo class or as part of the Build-A-Bot series of classes. See this link for more details.
+
+At the end of class we will laser cut the robot designs made in the class. We may not be able to accommodate all the robots, or other designs worked on. Feel free to bring your designs to the Monthly Laser Meetup.
 
 ## Laser Cut A Robot
 
