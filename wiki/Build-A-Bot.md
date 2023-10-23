@@ -16,9 +16,9 @@ In this class Eric Ose will show you how to create vector designs with Inkscape 
 
 We will be using Inkscape 1.3 (or later release). Bring your own laptop with it installed or select a "Laptop Provided" ticket.
 
-This class works as a solo class or as part of the Build-A-Bot series of classes. See this link for more details.
+This class works as a solo class or as part of the Build-A-Bot series of classes. See this link for more details. It is also best for adults and kids age 10 and up, but parents can work with their younger kids if they want.
 
-At the end of class we will laser cut the robot designs made in the class. We may not be able to accommodate all the robots, or other designs worked on. Feel free to bring your designs to the Monthly Laser Meetup.
+At the end of class we will laser cut as many of the robots we can. We may not be able finish all of them in which case those doing the second class may need to laser cut them as we start. Feel free to bring any other designs to the Monthly Laser Meetup.
 
 ## Solder a Robot
 
