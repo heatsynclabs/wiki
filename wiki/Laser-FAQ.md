@@ -13,6 +13,18 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
   - That could be the medical cart locking. Not a problem.
 - Is the 80 W laser log accessible on both computers?
   - Both of them can be accessed from anywhere on the internet [ 80W](Large-80W-Laser#logs), and [ 60W](Mini-60W-Laser#size).
+- How do I design a project for the laser cutter? OR What software do I use to design a project for the laser cutter?
+  - You can use either CAD or vector graphics software
+    - For CAD tools Fusion 360 and Solid Works are the most commonly used, but any CAD software should export dxf files needed.
+    - For vector graphics software Adobe Illustrator and Inkscape are the most common, although corel Draw and other are often used.
+      - For vector design a common starting point is tracing an raster image to create a path
+  - There are also online generators for things like boxes, puzzles, mazes and more.
+    - [The Ultimate Guide to Laser cut Box-Generators](https://www.instructables.com/The-Ultimate-Guide-to-Laser-cut-Box-Generators/) is a great resource for box generators.
+    - [Paper box template generator](https://www.templatemaker.nl/en/)
+    - [This page has a range of other generators](https://makerdesignlab.com/tutorials-tips/online-file-generators-for-laser-cutting/)
+  - You can also search online for project ideas at sites like <https://www.instructables.com/>, <https://www.thingiverse.com/>, or similar sites.
+  - This YouTube video has a summary on [60 laser cut projects](https://www.youtube.com/watch?v=6z4nWIibNkA) with links to tutorials that may be good inspiration.
+  - You can buy design files on Etsy or other places.
 
 ## Materials and Cut Settings
 
