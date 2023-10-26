@@ -16,6 +16,10 @@ I first came to HeatSync Labs in 2013 and didn't really know how to make things.
 - Electronics Study Group Host
 - New Member Orientation Coordinator
 
+## Projects
+
+[Laser_Example_Book](Laser-Example-Book)
+
 ## Skills
 
 - Inkscape Design
