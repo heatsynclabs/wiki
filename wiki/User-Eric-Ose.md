@@ -27,9 +27,11 @@ I first came to HeatSync Labs in 2013 and didn't really know how to make things.
 
 ## Learning
 
-- Learning Linux
-- Learning KiCad
 - Still learning Lightburn
+- Still learning Inkscape
+- Learning to write things yay Wiki
+- Should be learning to not take on everything and focus better
+- Learning more 3d printing thanks to Beau, Arnob and of course Antonio
 
 ## Other volunteering
 
