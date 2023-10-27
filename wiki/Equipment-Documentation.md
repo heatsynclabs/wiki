@@ -1,3 +1,5 @@
+Most of the manuals are [in Google Drive.](https://drive.google.com/drive/folders/1Q9tLZfRkpWcy8201h225RNJsmACjsP41?usp=drive_link%7Cavailable)
+
 ## Equipment Docs
 
 - [CNC Machine](CNC-Machine)
