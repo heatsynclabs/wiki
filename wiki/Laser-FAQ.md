@@ -52,6 +52,8 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
   - [Port Plastics](https://portplastics.com/) in Chandler for acrylic
 - Any issues cutting 1/4" walnut on the laser?
   - Should work fine. May require slower cutting and higher temperatures on the 80W laser. May present more of a challenge on the 60W.
+- Why are my parts getting burn marks on them?
+  - If your parts are small and falling after cut it may result in them getting burnt as other parts are cut above where they ended up.
 
 ## Laser Operation
 
