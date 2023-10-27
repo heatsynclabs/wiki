@@ -73,6 +73,18 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
   - Engraving gradients is done by dithering an image and Lightburn has some nice settings features for engraving images, but the laser power isn't adjusting. You can create separate engrave layers and cut them at different powers, but no true variable power cuts.
 - I'm getting a "soft dog" error when trying to use LaserCut 5.3.
   - This is a known error with communication to the software dongle. Usually just trying a second time communicates successfully. If it continues please log your problems and also you may need to restart the software and or the laser/computer.
+- Why is there so much smoke in the laser? Why is there smoke coming out of the laser
+  - The vent screen may be clogged (see below for photo example)
+  - Cleaning the duct work may be necessary to improve airflow. Please discuss with the station champions if you want to help with this.
+  - It may not be cutting very well and leading to excess smoke.
+  - Your material may just be a very smokey material.
+  - You may have covered too much of the laser bed with a large sheet of material leaving no room for air to flow down into the vent.
+    - In this case as holes get cut it may vent better.
+  - It may be a combination of multiple things.
+
+![](files/DirtyVentScreen.png)
+
+*Dirty 60 Watt Laser Vent Screen*
 
 ## File questions
 
