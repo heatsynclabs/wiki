@@ -25,6 +25,9 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
   - You can also search online for project ideas at sites like <https://www.instructables.com/>, <https://www.thingiverse.com/>, or similar sites.
   - This YouTube video has a summary on [60 laser cut projects](https://www.youtube.com/watch?v=6z4nWIibNkA) with links to tutorials that may be good inspiration.
   - You can buy design files on Etsy or other places.
+- What are the model numbers of our laser cutter
+  - The 80 Watt Laser is XYZ Technologies Exlas 1280, so is 1200mm x 800mm laserable.
+  - The 60 Watt Laser is a Tek Genius "[60W 110V CO2 Laser Engraving Machine](https://laser-engraving-machines.net/tek-genius/60w-500x700mm-co2-usb-laser-engraving-cutter-stand-cutting-machine-engraver-17170)", or similar. No real model number that we know of.
 
 ## Materials and Cut Settings
 
