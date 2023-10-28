@@ -1,13 +1,26 @@
-Welcome to HeatSync Labs.
+Welcome to HeatSync Labs and Happy Halloween!
 
-Today (08/31/2023) we are doing Laser Cut Box Making
+# Latest and Greatest Events
 
-This page overviews a lot of different box generating tools <https://www.instructables.com/id/The-Ultimate-Guide-to-Laser-cut-Box-Generators/>
+- 10/30 Monday 6pm Jewelry meetup (Free) / [Halloween Earrings](https://guestlist.co/events/760737) (\$10)
+- 11/05 Sunday 2pm - 5:30pm Pokémon Go Community Day (Free)
+- 11/07 Tuesday 6pm - [Zombie Bot](https://guestlist.co/events/759468) (\$20)
+- 11/11 Saturday 2pm - [LEGO Day](https://guestlist.co/events/760764): Crazy Cars (Free)
+- 11/08 Wednesday 6pm - [Build-A-Bot](https://guestlist.co/events/760773) (\$15-\$30)
 
-You will likely find something suitable at <https://www.festi.info/boxes.py/>
+# Recurring Events
 
-the wood we have is Baltic birch 1/8 inch (3mm), or 1/4 inch (6mm). From [https://timberww.com/hardwoods.aspx Timber Hardwoods](https://timberww.com/hardwoods.aspx_Timber_Hardwoods)
+- 11/01 Wednesday 10am - 2pm • Coffee and Code 10am - 2pm (Weekly)
+- 11/01 Wednesday 7pm - 10pm • Arduino Night (Monthly)
+- 11/04 Saturday noon - 5pm • 3d Printer Day (Monthly)
+- 11/03 Friday 7pm -10pm • Young Makers (Monthly 1st and 3rd Friday)
+- 11/05 Sunday 10am - 2pm • Monthly Laser Meetup
+- 11/14 Tuesday 7pm - 10pm • Sewing Night (Monthly)
+- 11/16 Thursday 7pm - 9pm • Phoenix Google Developer Group
 
-[This page](https://makerdesignlab.com/tutorials-tips/online-file-generators-for-laser-cutting/) is another collections of file generators that goes beyond just boxes; (Puzzles, Gears, Mazes, Other)
+# Open Hours
 
-This [Paper Boxes](https://www.templatemaker.nl/en/) page is also great.
+- Mon 7pm – 10pm
+- Tue 7pm – 10pm
+- Wed 7pm – 10pm
+- Sat Noon - 5pm
