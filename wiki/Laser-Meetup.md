@@ -19,4 +19,4 @@ Projects under 30 minutes will be queued based on who signed up first. Longer pr
 [Check Guestlist for the registration](https://guestlist.co/u/HeatSyncLabs)
 
 ---
-*Categories: [Laser](Category-Laser)*
+*Categories: [Laser](Category-Laser), [Events](Category-Events)*
