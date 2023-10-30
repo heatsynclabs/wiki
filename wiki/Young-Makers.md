@@ -19,3 +19,6 @@ Microscope Night
 [Young Makers Laser Portraits](https://guestlist.co/events/741495)
 
 [Young Makers: Video Projector Exploration Night](https://guestlist.co/events/741027)
+
+---
+*Categories: [Events](Category-Events)*
