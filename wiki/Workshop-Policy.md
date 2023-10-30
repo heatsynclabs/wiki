@@ -78,3 +78,6 @@ In order to properly schedule and publicize workshop activities Instructors are 
 
 - Instructor shall indemnify and hold HeatSync Labs harmless against any actions, claims, suits, losses, damages, judgments, costs, expenses, and liabilities (including, without limitation, attorney fees arising directly or indirectly out of the Instructors activities under this agreement). Such indemnity and agreement to hold harmless shall include, but not be limited to, loss or damage resulting from the violation by the Instructor, it's officers, agents, or employees of an applicable laws or regulations of any governmental authority in the use of premise and equipment.
 - Nothing herein shall constitute the parties to this agreement as partners or joint ventures, and the Instructor acknowledges that s/he is an independent contractor and has no authority of any kind to bind HeatSync Labs in any way. Instructor agrees not to act or represent to others that s/he is an employee or agent of HeatSync Labs and HeatSync Labs has no obligation or duty of any kind to pay any expenses or costs of any sort incurred by the Instructor.
+
+---
+*Categories: [Events](Category-Events)*
