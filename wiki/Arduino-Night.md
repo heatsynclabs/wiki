@@ -95,3 +95,6 @@ Main Arduino Project Page:\
 
 Great Arduino Tutorial by Lady Ada:\
 <http://www.ladyada.net/learn/arduino/index.html>
+
+---
+*Categories: [Events](Category-Events)*
