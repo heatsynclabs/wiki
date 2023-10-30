@@ -27,3 +27,6 @@ Join us for a hands-on make and take soldering project. You will make your own f
 This class works as a solo class or as part of the Build-A-Bot series of classes. See this link for more details. If you aren't designing a robot you'll be able to pick from a list of designs as we begin.
 
 Sign up for an hour time slot so I can help 8 students at a time get through all the steps.
+
+---
+*Categories: [Events](Category-Events)*
