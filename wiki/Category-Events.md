@@ -1,1 +1,1 @@
-Most of the events at HeatSync Labs will not have a wiki page. For those that do we can include them here to make them easier to find by tagging them in this category.
+You can see the current events on the calendar on our homepage [HeatSyncLabs.org](http://www.heatsynclabs.org/). Most of the events at HeatSync Labs will not have a wiki page. For those that do we can include them here to make them easier to find by tagging them in this category.
