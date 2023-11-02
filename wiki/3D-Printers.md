@@ -22,5 +22,9 @@ Discuss things about 3d printing or the 3d printer station on the HeatSync Labs 
 
 - [Elegoo Mars](https://www.elegoo.com/products/elegoo-mars-lcd-3d-printer) Training is required before using this printer.
 
+## Other Tools
+
+[PrintDry Filament Dryer](https://www.printdry.com/wp-content/uploads/2019/03/PrintDry_Filament-Dryer_manual_20160419.pdf)
+
 ---
 *Categories: [3D-Printing](Category-3D-Printing)*
