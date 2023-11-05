@@ -180,9 +180,7 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
 - You can set the color of your path strokes to be the colors within LaserCut 5.3 or LightBurn.
 - Import this file to use the dropper tool within your application.
 
-![](files/LaserCutColorOptions.png)
-
-*LaserCut 5.3 layer color options*
+![LaserCut 5.3 layer color options](files/LaserCutColorOptions.png) ![LightBurn 1.2.01 layer color options](files/LightBurn_Layer_Colos.png)
 
 # Cleaning questions
 
