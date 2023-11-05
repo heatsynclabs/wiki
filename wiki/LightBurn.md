@@ -2,6 +2,12 @@
 
 This page needs a lot of work, so right now it's just a dumping ground for my notes. I'll work to improve it, or you can too.
 
+There is a lot of good documentation on [lightburnsoftware.com](https://lightburnsoftware.com/).
+
+The computer at the vinyl cutter station also has LightBurn. If the computer at the laser is busy you can prep your files from that machine. The LightBurn isn't for controlling the vinyl cutters.
+
+One note of caution. On our version 1.2.01 you want to use the start button, not the send button. Sending your project has resulted in glitches in engravings.
+
 # Details
 
 - Can open SVG
