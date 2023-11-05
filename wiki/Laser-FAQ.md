@@ -136,7 +136,7 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
 
 ![](files/DirtyVentScreen.png)
 
-*Dirty 60 Watt Laser Vent Screen*
+*Dirty 80 Watt Laser Vent Screen*
 
 # File questions
 
