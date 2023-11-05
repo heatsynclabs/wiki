@@ -8,4 +8,4 @@
 
 ## Description
 
-Dirty 60 Watt Laser Vent Screen.
+Dirty 80 Watt Laser Vent Screen.
