@@ -190,6 +190,10 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
 
 ![LaserCut 5.3 layer color options](files/LaserCutColorOptions.png) ![LightBurn 1.2.01 layer color options](files/LightBurn_Layer_Colos.png)
 
+==Q: Is there a place where I should save my project file?
+
+- The U: Drive is for user folders. Create a folder with your name and put copies of your work in there. Good idea to back them up somewhere else also.
+
 # Cleaning questions
 
 ## Q: Where is the isopropyl (rubbing alcohol)?
