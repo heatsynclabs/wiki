@@ -43,3 +43,5 @@ Other software not included with Ninite
 # Other configuration
 
 We have Bob Ross printer driver installed, but not defaulted so that people don't accidentally print a bunch of pages.
+
+To Do: Map the the \\\files\users folder as U:\\
