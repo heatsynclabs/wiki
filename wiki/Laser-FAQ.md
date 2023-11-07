@@ -146,7 +146,7 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
 
 *Dirty 80 Watt Laser Vent Screen*
 
-==Q: What does this error on the 60 Watt Laser mean: "Water error Work Paused"?
+## Q: What does this error on the 60 Watt Laser mean: "Water error Work Paused"?
 
 - This may just be the lid being open when someone tried starting the laser, or the chiller having an error. The laser has 2 lid switches one tells the software to pause. The other is tied into the same interrupt circuit as chiller interrupt. If the chiller gives an error it will turn off power to the laser tube.
 
