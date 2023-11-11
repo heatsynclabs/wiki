@@ -12,11 +12,10 @@ As we move towards solvency we have scaled back our fundraising efforts. More ef
 
 - Kickstarter - <http://www.kickstarter.com/>
 - Local Business Kickback - Take this flyer in to here so we can get a donation plz
-- Breakfast Burritos
-- ColdStone Night, Movie Theater Night? - Choose local companies and be able to consistently bring 30-50 people to them or something.
 - Bid on a Geek - Geek for a Night
 - Competitions
 - Sell Make Subscriptions: <http://blog.makezine.com/archive/2010/01/make_money_for_your_club_or_organiz.html>
+- Look into what might be required for vending food at the lab
 
 ## Donation Letter
 
