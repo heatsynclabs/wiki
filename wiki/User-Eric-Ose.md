@@ -47,6 +47,7 @@ I first came to HeatSync Labs in 2013 and didn't really know how to make things.
 - [ Monthly Laser Meetup](Monthly-Laser-Meetup)
 - [ Trick Or Treat](Trick-Or-Treat)
 - [Build-A-Bot](Build-A-Bot)
+- [ Young Makers](Young-Makers)
 
 ## Other volunteering
 
