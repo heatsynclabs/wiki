@@ -18,6 +18,7 @@ I first came to HeatSync Labs in 2013 and didn't really know how to make things.
 
 ## Projects
 
+- [ Streamlining Engagement](Streamlining-Engagement)
 - [ Hosting Spreadsheet](Hosting-Signup-Solution)
 - [VolunteerMatch](VolunteerMatch)
 - [ Laser Example Book](Laser-Example-Book)
