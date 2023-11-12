@@ -42,6 +42,10 @@ I first came to HeatSync Labs in 2013 and didn't really know how to make things.
 - Should be learning to not take on everything and focus better
 - Learning more 3d printing thanks to Beau, Arnob and of course Antonio
 
+## Events
+
+[ Trick Or Treat](Trick-Or-Treat)
+
 ## Other volunteering
 
 - Host Saturday Open Hours noon - 5pm
