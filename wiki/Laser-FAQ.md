@@ -150,6 +150,12 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
 
 - This may just be the lid being open when someone tried starting the laser, or the chiller having an error. The laser has 2 lid switches one tells the software to pause. The other is tied into the same interrupt circuit as chiller interrupt. If the chiller gives an error it will turn off power to the laser tube.
 
+## Q: Can I start a job directly from USB?
+
+- No.
+  - Extra No. The 80W laser includes a button that crashes the bed into the laser cone. Do not use the control panel other than the escape button.
+  - The 60W doesn't have auto bed leveling, but you could accidentally change settings via the control panel. Just use the control panel to move the position, but don't adjust any settings. Just avoid using the menus via the control panel.
+
 # File questions
 
 ## Q: What types of files do I need?
