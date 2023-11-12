@@ -14,4 +14,4 @@ That was pretty much it and it worked good. I wanted the screensavers to be runn
 We could also add digital photo frames to the stations that don't have computers (Sewing, Electronics, Woodworking etc).
 
 ---
-*Categories: [Projects](Category-Projects)*
+*Categories: [Project](Category-Project)*
