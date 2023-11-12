@@ -14,6 +14,10 @@ Nate has done a good job of putting the various stations on the home page under 
 
 I think creating the Laser FAQ has been great and probably should happen for the other stations.
 
+## Walk Through Orientations
+
+When I was new to the lab Will would email people and coordinate a [Walk_Through_Orientation Orientation](Walk-Through-Orientation-Orientation). I helped with this at the time and have done so at different times. Unfortunately it is very frustrating when you have people reschedule on short notice or just not show up. Rather than repeatedly trying to coordinate schedules my current suggestion is to do this during [ HYH](Hack-Your-Hackerspace). We do need to update the information that people see when they sign up so they don't expect an email follow up and not receive one.
+
 ## Other Projects
 
 These are some other projects I have done to improve the experience for new people.
