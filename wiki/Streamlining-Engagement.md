@@ -32,5 +32,13 @@ The [ Station Screensavers](Station-Screensavers) are meant to help people who a
 
 The [ Laser Example Book](Laser-Example-Book) is meant to be a tool for those new to the laser cutter more easily navigate what settings for engraving, and now material settings and more.
 
+## More Thoughts
+
+Darrell has done an excellent job adding QR codes on the different tools.
+
+The window displays are another Darrell project. They are running PiSignage.
+
+The process of giving tours has been intimidating for some new people. We could put together a list of things to say. I have a partially started map of the lab with notes. I should look over that and see if it helps people who are new to giving tours.
+
 ---
 *Categories: [Project](Category-Project)*
