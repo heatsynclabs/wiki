@@ -1,0 +1,32 @@
+## Objective
+
+Make it easier for people who are knew to figure things out.
+
+This isn't a project, but more of an overall goal/objective and will consist of sub-projects that aid this goal.
+
+- People: Window lookers, Website visitors, Event guests, and New members
+- Things: Who is in charge, what tools can they can use, how to ask for help, how to report problems, how to learn new things, where to communicate questions, When they can come do what, how to get 24/7 access
+- Also these things: Liability Waiver, Memberships, Card Access,
+
+## Work Station Wiki Pages
+
+Nate has done a good job of putting the various stations on the home page under resources. It would be best if reading the wiki page answers the basics of how to engage with the tools in that area and how is in charge. I have been updating links to things like tools, notes on who is in charge, events related to that station. It may be a good idea to make a template of what to include and then standardize it.
+
+I think creating the Laser FAQ has been great and probably should happen for the other stations.
+
+## Other Projects
+
+These are some other projects I have done to improve the experience for new people.
+
+The [ Hosting Spreadsheet](Hosting-Signup-Solution) helps us reduce the times when the doors are locked when we say we are open. There is also hope that new people become of the opportunity to co-host which reduces the times people come in and leave before anyone even addresses them.
+
+I worked on the [VolunteerMatch](VolunteerMatch) project in part to get new people to co-host.
+
+The [ Event Notifications](Event-Notifications) project is to make sure people that learn about the lab can get reminders about events they will be interested in.
+
+The [ Station Screensavers](Station-Screensavers) are meant to help people who are new see the possibilities and get inspired.
+
+The [ Laser Example Book](Laser-Example-Book) is meant to be a tool for those new to the laser cutter more easily navigate what settings for engraving, and now material settings and more.
+
+---
+*Categories: [Project](Category-Project)*
