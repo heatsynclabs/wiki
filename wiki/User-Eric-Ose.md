@@ -18,10 +18,10 @@ I first came to HeatSync Labs in 2013 and didn't really know how to make things.
 
 ## Projects
 
+- [ Hosting Spreadsheet](Hosting-Signup-Solution)
 - [VolunteerMatch](VolunteerMatch)
 - [ Laser Example Book](Laser-Example-Book)
 - [ Event Notifications](Event-Notifications)
-- [ Hosting Spreadsheet](Hosting-Signup-Solution)
 - [ Station Screensavers](Station-Screensavers)
 
 ## Skills
