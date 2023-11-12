@@ -210,7 +210,7 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
 
 - On the table in the wood box unless someone moved it. There is more in the admin lockers. Ask whoever is hosting if you need help getting something from the lockers.
 
-==Q: Do we need to clean the honeycomb / screen?
+## Q: Do we need to clean the honeycomb / screen?
 
 - No. Cleaning will be necessary and testing is pending on the best way to clean it, but you only need to clean the rails, cone, and bed under the rails after each use.
 
