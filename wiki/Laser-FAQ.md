@@ -48,6 +48,10 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
 
 - No, but you will need to get acquainted with the differences. The Laser Meetup is a good time to come learn about the differences.
 
+## Q: When is the next laser certification class?
+
+- There is a laser certification on the 3rd Sunday every Month from 11am-2pm. Check the calendar and sign up early because it does fill up.
+
 # Materials and Cut Settings
 
 ## Q: What materials can I cut or engrave with the laser?
