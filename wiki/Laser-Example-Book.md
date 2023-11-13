@@ -9,4 +9,4 @@ Feel free to leave material to make test samples from Indicate where you bought 
 These examples show the LightBurn photo engrave options; dithering algorithm, power setting, and line interval (scan gap). For those curious the people in the photos are just from random public domain images.
 
 ---
-*Categories: [Project](Category-Project)*
+*Categories: [Project](Category-Project), [Laser](Category-Laser)*
