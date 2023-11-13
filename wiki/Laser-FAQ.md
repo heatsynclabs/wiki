@@ -159,7 +159,7 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
 
 - No.
   - Extra No. The 80W laser includes a button that crashes the bed into the laser cone. Do not use the control panel other than the escape button.
-  - The 60W doesn't have auto bed leveling, but you could accidentally change settings via the control panel. Just use the control panel to move the position, but don't adjust any settings. Just avoid using the menus via the control panel.
+  - The 60W doesn't have auto focus / z-datum, but you could accidentally change settings via the control panel. Just use the control panel to move the position, but don't adjust any settings. Just avoid using the menus via the control panel.
 
 # File questions
 
