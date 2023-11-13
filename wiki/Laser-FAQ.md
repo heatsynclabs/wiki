@@ -57,6 +57,7 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
 ## Q: What materials can I cut or engrave with the laser?
 
 - The [ Laser Material Guidelines](Laser-Material-Guidelines) wiki page aims to cover that.
+- There is also a growing collection of samples in the [ Laser Example Book](Laser-Example-Book). Please help us make this book more useful.
 
 ## Q: What size material can I cut with the laser?
 
