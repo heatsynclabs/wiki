@@ -92,6 +92,8 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 - [Houston Acrylic](https://houstonacrylic.com/) has a good selection of specialty acrylics.
 - [Laser Bits](https://www.jpplus.com/laserbits) now owned by Johnson's plastic has a variety of materials.
 - [BuyPlastic.com](https://buyplastic.com/) reported by Lily as the lowest prices on acrylic she could find.
+- [Peach Street Acrylic](https://peachstreetacrylic.com/) Margo likes this and Smokey Hill Design
+- [Smokey Hill Designs](https://smokeyhilldesigns.com/)
 
 ## Q: Where can I buy materials locally
 
