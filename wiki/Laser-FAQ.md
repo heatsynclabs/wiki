@@ -212,7 +212,7 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 - You can set the color of your path strokes to be the colors within LaserCut 5.3 or LightBurn.
 - Import this file to use the dropper tool within your application.
 
-![LaserCut 5.3 layer color options](files/LaserCutColorOptions.png) ![LightBurn 1.2.01 layer color options](files/LightBurn_Layer_Colos.png)
+![LaserCut 5.3 layer color options (X on duplicated colors)](files/LaserCutLayerColors.png) ![LightBurn 1.2.01 layer color options](files/LightBurn_Layer_Colos.png)
 
 ## Q: Is there a place where I should save my project file?
 
