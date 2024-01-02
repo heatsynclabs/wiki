@@ -216,5 +216,32 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 
 - No. Cleaning will be necessary and testing is pending on the best way to clean it, but you only need to clean the rails, cone, and bed under the rails after each use.
 
+# Laser Certification
+
+## Q: What is the laser certification?
+
+- The laser certification is a 3 hour class that covers a lot of safety and usage information which is required before you use the laser cutter on your own. You will also learn about typical problems people encountering while laser cutting and some quirks of the machines and software.
+
+## Q: What isn't the laser certification?
+
+- It isn't a class that teaches you to make projects with the laser. Largely you will need to figure that our for yourself depending on the project you want to make. Occasionally we have box making, Build-A-Bot, or other classes that cover specific projects with the laser.
+
+## Q: When is the next laser certification class?
+
+- There is a laser certification on the 3rd Sunday every Month from 11am-2pm. Check the calendar and sign up early because it does fill up.
+
+## Q: How can I sign up for the next certification class?
+
+- If you attend the \[Monthly_Laser_Meetup \| Monthly Laser Meetup\] or \[Hack_Your_Hackerspace \| Hack Your Hackerspace\] you can get early sign up to the Laser Certification class.
+- Remaining spots will still get posted for anyone else who wants to sign up.
+
+## Q: Is the laser certification I took x years ago still valid?
+
+- Yes, and if you are not comfortable and need a refresher or help laser cutting then the monthly Laser Meetup is a good time to get re-acquainted.
+
+## Q: I took the certification for the 80W Laser in the past, but not the 60W Laser. Do I need to re-take the certification?
+
+- No, but you will need to get acquainted with the differences. The Laser Meetup is a good time to come learn about the differences.
+
 ---
 *Categories: [Laser](Category-Laser)*
