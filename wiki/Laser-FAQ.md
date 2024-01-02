@@ -232,7 +232,7 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 
 ## Q: How can I sign up for the next certification class?
 
-- If you attend the \[Monthly_Laser_Meetup \| Monthly Laser Meetup\] or \[Hack_Your_Hackerspace \| Hack Your Hackerspace\] you can get early sign up to the Laser Certification class.
+- If you attend the [ Monthly Laser Meetup](Monthly-Laser-Meetup) or [ Hack Your Hackerspace](Hack-Your-Hackerspace) you can get early sign up to the Laser Certification class.
 - Remaining spots will still get posted for anyone else who wants to sign up.
 
 ## Q: Is the laser certification I took x years ago still valid?
