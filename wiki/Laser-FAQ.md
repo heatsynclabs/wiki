@@ -40,18 +40,6 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
 - The 80 Watt Laser is XYZ Technologies Exlas 1280, so is 1200mm x 800mm laserable.
 - The 60 Watt Laser is a Tek Genius "[60W 110V CO2 Laser Engraving Machine](https://laser-engraving-machines.net/tek-genius/60w-500x700mm-co2-usb-laser-engraving-cutter-stand-cutting-machine-engraver-17170)", or similar. No real model number that we know of.
 
-## Q: Is the laser certification I took x years ago still valid?
-
-- Yes, and if you are not comfortable and need a refresher or help laser cutting then the monthly Laser Meetup is a good time to get re-acquainted.
-
-## Q: I took the certification for the 80W Laser in the past, but not the 60W Laser. Do I need to re-take the certification?
-
-- No, but you will need to get acquainted with the differences. The Laser Meetup is a good time to come learn about the differences.
-
-## Q: When is the next laser certification class?
-
-- There is a laser certification on the 3rd Sunday every Month from 11am-2pm. Check the calendar and sign up early because it does fill up.
-
 # Materials and Cut Settings
 
 ## Q: What materials can I cut or engrave with the laser?
