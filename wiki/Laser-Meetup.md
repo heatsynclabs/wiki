@@ -10,13 +10,9 @@ See [ Laser Cutters ](Laser-Cutters) page fore more info about HeatSync Labs Las
 
 Come hang out and cut and engrave projects with the Laser Cutters. No experience necessary!
 
-Register via Guestlist (see below) if you have a specific project to cut. If you just want to see how things work we have some small examples you can quickly cut to get some experience.
+Projects under 30 minutes will be queued based on who arrives first. Longer projects will be done last.
 
-Between noon and 1pm we will cover a different topic each month about materials, design, design software, and techniques. Suggest a topic to cover that you're interested in.
-
-Projects under 30 minutes will be queued based on who signed up first. Longer projects will be done last.
-
-[Check Guestlist for the registration](https://guestlist.co/u/HeatSyncLabs)
+If you are totally new and don't have a project just come out and learn. We have some small examples you can quickly cut to get some experience.
 
 ---
 *Categories: [Laser](Category-Laser), [Events](Category-Events)*
