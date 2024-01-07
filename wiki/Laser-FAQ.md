@@ -249,7 +249,7 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 
 # LightBurn
 
-## Q: Why can't I select individual parts of my design? / Why can't I ungroup parts of my design
+## Q: Why can't I select individual parts of my design? / Why can't I ungroup parts of my design?
 
 - We were able to solve this by using Control+A to select everything, then in the menu under Arrange select Ungroup.
 
