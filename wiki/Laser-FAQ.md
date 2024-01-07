@@ -175,6 +175,7 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 
 - Often those elements were not paths, but objects like basic shapes or fonts. Convert those objects to paths so they can be converted.
 - Also grouped items may not be converted to paths when saving as .dxf
+- LaserCut 5.3 may struggle with some dxf files especially newer versions. Try LightBurn and if it works in Lightburn you may be able to export a working dxf for LaserCut 5.3
 
 ## Q: My file imports with lots of segments of lines and curves that aren't connected. How do I make them all connected.
 
