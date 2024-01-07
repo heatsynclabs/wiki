@@ -109,6 +109,10 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 - LightBurn has a setting called absolute coordinates, the other option is current position.
 - LaserCut has a similar setting labelled immediate. Uncheck that for absolute coordinates.
 
+==Q: Why does the run box or frame option not fit on my material.
+
+- Check to see if you have any extra parts outside of your design. When using the select option you should be able to use the Control+A to select everything which should help you see any extra very tiny parts.
+
 ## Q: Why doesn't the laser start my job or run the box and instead beeps 10 times?
 
 - Check the control panel and see if it says soft stop. If that happened it means the job was going to cut out of bounds so it terminated the job.
