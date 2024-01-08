@@ -17,3 +17,6 @@ Darrell Wertz is the current station champion. Post on the Slack Metal channel i
 - [Jet Horizontal-Vertical Band Saw Models](https://drive.google.com/drive/folders/1owEcsCUxaZflb6KWMPtzg3ZUte_5Jmml)
 - [3-IN-1 Combination Shear, Brake, Roll](https://drive.google.com/drive/folders/1CnGh_xXbp4oSJoBID5Nyyl4o4nQ4JV2r)
 - [Central Pneumatic Vertical Air Compressor](https://drive.google.com/drive/folders/13m1QV_Xsz7iT6HP0b1xq1DMbUbTyqV-_)
+
+---
+*Categories: [Machine Shop](Category-Machine-Shop)*
