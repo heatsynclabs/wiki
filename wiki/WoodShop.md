@@ -37,6 +37,7 @@ These were some general safety precautions mentioned on the rules page. Many mor
 
 - 6" Jointer
   - Maybe this one? <https://www.youtube.com/watch?v=wTOmCQc2LKU>
+- [One handed 6 inch clamps](https://www.amazon.com/dp/B001DSY4QO/)
 
 # Classes
 
