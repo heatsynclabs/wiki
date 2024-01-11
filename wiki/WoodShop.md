@@ -17,6 +17,7 @@ These were some general safety precautions mentioned on the rules page. Many mor
 # Tools
 
 - [Bosch 10" Contractor Saw (Table Saw)](https://www.boschtools.com/us/en/boschtools-ocs/table-saws-4100xc-10-201878-p/)
+- Table saw roller stands
 - [DeWalt DWS780 12" Sliding Compound Miter Saw](https://www.dewalt.com/product/dws780/12-double-bevel-sliding-compound-miter-saw), and [Rolling Miter Stand](https://www.dewalt.com/product/dwx726/rolling-miter-saw-stand)
 - [DeWalt 12" Lunchbox Planer](https://www.grizzly.com/products/dewalt-12-1-2-planer-w-3-knives/h5341)
 - [Wen 4212T Drill Press](https://wenproducts.com/products/wen-4212t-10-in-variable-speed-drill-press), and [manual](https://cdn.shopify.com/s/files/1/0012/0350/3168/files/4212T.manual.20220113.pdf?v=1642192694)
