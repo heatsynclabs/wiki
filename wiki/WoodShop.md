@@ -28,7 +28,7 @@ Don't get distracted and don't let others distract you while using the tool
 
 <!-- -->
 
-- *Check the environment for risks to yourself and others*
+- **Check the environment for risks to yourself and others**
   - Electric cords or other trip hazards
   - Things that may be in the way or get knocked over
   - Lighting is sufficient
