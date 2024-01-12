@@ -49,6 +49,8 @@ Don't get distracted and don't let others distract you while using the tool
   - Be sure they are turned off and bits or blades are clear when plugging them in
 - Never start the tool with the wood in contact with the cutting surface
 - Wait for the tool to stop rotating before attempting to do any cleanup
+- Keep hands away from the cutting tools and moving parts
+  - Use push blocks, push sticks, clamps, and other means where sensible to minimize risk to your hands
 
 # Tools
 
