@@ -6,13 +6,30 @@ HeatSync Labs has a collection of woodworking tools, but not a dedicated area sp
 
 Always ask before using our tools for the first time. You must have a waiver filled out. If you don't know what you are doing ask for help.
 
-These were some general safety precautions mentioned on the rules page. Many more safety precautions apply and are often tool specific.
+These were some general safety precautions. Other safety precautions may apply to specific tools
+
+**Wear**
+
+- Safety glasses
+- Ear protection
+- Closed toe shoes
+
+**Do not wear**
+
+- Gloves (except to change bits)
+- Loose clothing
+- Long sleeves
+- Tie or scarf
+- Long hair that is loose (use a hat or put into a ponytail)
+
+<!-- -->
 
 - Tool is in a safe position (won't tip/fall)
 - Cut away from you, think "where are my hands and fingers going to end up?"
 - Check the people around you, and any electric cords or unsafe things that may be in the way
-  - Alert them before you begin (glasses, dust, noise)
-- Adjust saw when it's unplugged
+  - Alert others before you begin (glasses, dust, noise)
+- Adjust tools when they are turned off and unplugged
+  - Be sure they are turned off and bits or blades are clear when plugging them in
 
 # Tools
 
