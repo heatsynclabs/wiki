@@ -8,6 +8,10 @@ Always ask before using our tools for the first time. You must have a waiver fil
 
 These were some general safety precautions. Other safety precautions may apply to specific tools
 
+If you are tired, sick, or under the influence of drugs (prescription or otherwise) do not use the tools.
+
+Don't get distracted and don't let others distract you while using the tool
+
 **Wear**
 
 - Safety glasses
@@ -24,12 +28,27 @@ These were some general safety precautions. Other safety precautions may apply t
 
 <!-- -->
 
-- Tool is in a safe position (won't tip/fall)
+- *Check the environment for risks to yourself and others*
+  - Electric cords or other trip hazards
+  - Things that may be in the way or get knocked over
+  - Lighting is sufficient
+  - Those nearby are wearing proper safety equipment as well
+- **Check the tool**
+  - bits or blades are firmly in place
+  - Tool is in a safe position and won't tip/fall
+  - No signs of damage to the blades, bits, power cord
+  - Parts that should move freely are doing so and those that shouldn't move aren't
+- **Check your material**
+  - Look for any staples, nails, screws or other metal in your material
+  - Make sure the wood is flat and can sit on tool surface without rocking
+  - Be aware of any parts that may be coming loose like knots or cracks in your wood
+  - Clamp the material if it needs to stay in place
+- Alert others before you begin (glasses, dust, noise)
 - Cut away from you, think "where are my hands and fingers going to end up?"
-- Check the people around you, and any electric cords or unsafe things that may be in the way
-  - Alert others before you begin (glasses, dust, noise)
 - Adjust tools when they are turned off and unplugged
   - Be sure they are turned off and bits or blades are clear when plugging them in
+- Never start the tool with the wood in contact with the cutting surface
+- Wait for the tool to stop rotating before attempting to do any cleanup
 
 # Tools
 
