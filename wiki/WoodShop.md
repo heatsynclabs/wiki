@@ -36,11 +36,12 @@ Don't get distracted and don't let others distract you while using the tool
   - Things that may be in the way or get knocked over
   - Lighting is sufficient
   - Those nearby are wearing proper safety equipment as well
-- **Check the tool**
+- **Check the tool** while turned off AND unplugged
   - bits or blades are firmly in place
   - Tool is in a safe position and won't tip/fall
   - No signs of damage to the blades, bits, power cord
   - Parts that should move freely are doing so and those that shouldn't move aren't
+  - Dust collection connected
 - **Check your material**
   - Look for any staples, nails, screws or other metal in your material
   - Make sure the wood is flat and can sit on tool surface without rocking
