@@ -1,3 +1,9 @@
+## When
+
+4th Saturday of the month from 1pm - 4pm.
+
+As the weather warms up we will likely adjust the timing so check the calendar on the [homepage](http://www.heatsynclabs.org/) to confirm.
+
 ## Event Description
 
 Let's get the woodworking tools set up out back and make use of them.
