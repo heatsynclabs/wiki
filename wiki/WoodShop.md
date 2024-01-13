@@ -73,9 +73,9 @@ Don't get distracted and don't let others distract you while using the tool
 
 # Wanted
 
-- 6" Jointer
-  - Maybe this one? <https://www.youtube.com/watch?v=wTOmCQc2LKU>
+- 6" Jointer [Maybe this one](https://www.youtube.com/watch?v=wTOmCQc2LKU)
 - [One handed 6 inch clamps](https://www.amazon.com/dp/B001DSY4QO/)
+- Table Saw Miter Gauge [Like this](https://www.amazon.com/POWERTEC-71142-Universal-Table-Assembly/dp/B07TJX3FB9/) or similar. The one we do have is missing a the guide
 
 # Classes
 
