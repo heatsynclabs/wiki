@@ -16,6 +16,7 @@ Don't get distracted and don't let others distract you while using the tool
 
 - Safety glasses
 - Ear protection
+- Mask for dust protection
 - Closed toe shoes
 
 **Do not wear**
@@ -51,6 +52,7 @@ Don't get distracted and don't let others distract you while using the tool
 - Wait for the tool to stop rotating before attempting to do any cleanup
 - Keep hands away from the cutting tools and moving parts
   - Use push blocks, push sticks, clamps, and other means where sensible to minimize risk to your hands
+- Use the dust collection features to reduce dust hazards and reduce cleanup
 
 # Tools
 
