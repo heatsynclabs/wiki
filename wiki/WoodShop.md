@@ -2,6 +2,8 @@
 
 HeatSync Labs has a collection of woodworking tools, but not a dedicated area specific just for woodworking. Some tools will need to be used outside if making excessive dust and debris that would be a fire hazard. As of this edit there is not a specific wood shop champion. If you have questions post on the Slack channel under woodshop.
 
+Join us on [Woodworking Day](Woodworking-Day) to get started on a project or get checked out on the tools.
+
 # Woodworking Safety
 
 Always ask before using our tools for the first time. You must have a waiver filled out. If you don't know what you are doing ask for help.
