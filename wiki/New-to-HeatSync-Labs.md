@@ -3,7 +3,7 @@
 - Be sure to fill out a [waiver](https://forms.gle/zss1bJSN7ocKQudz6)
 - If you want to donate [ memberships](Membership-Guidelines#membership-guidelines) are an option
 - Here's a direct link to [member signup](https://members.heatsynclabs.org/users/sign_up)
-- Come to [Hack Your Hackerspace](Hack-Your-Hackerspace) (HYH) and get an orientation
+- Regardless of membership come to [Hack Your Hackerspace](Hack-Your-Hackerspace) (HYH) and get an orientation
 - If you can't make HYH read through the [Walk Through Orientation](Walk-Through-Orientation) page
 
 ## How HeatSync Labs works
