@@ -1,3 +1,11 @@
+## Welcome!
+
+- Be sure to fill out a [waiver](https://forms.gle/zss1bJSN7ocKQudz6)
+- If you want to donate [ memberships](Membership-Guidelines#membership-guidelines) are an option
+- Here's a direct link to [member signup](https://members.heatsynclabs.org/users/sign_up)
+- Come to [Hack Your Hackerspace](Hack-Your-Hackerspace) (HYH) and get an orientation
+- If you can't make HYH read through the [Walk Through Orientation](Walk-Through-Orientation) page
+
 ## How HeatSync Labs works
 
 You are as in charge as anyone else. By coming down, or visiting virtually, you are an empowered community member. It is up to you to get stuff done. If you think there should be a better process/tool/space, make one/buy one/find one. It helps to voice your idea to find like minded individuals in the community to help implement it, but the power is in you. Do it. If it sound dangerous, consult with others at the lab. If you think others will have an opinion about what you want to do, communicate. In the end though, if you care about it, it is up to you to make it happen.
