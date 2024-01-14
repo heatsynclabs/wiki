@@ -125,6 +125,6 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 
 - Questions?
 - How can I help you get started on something?
-- Please fill out the online class interest form on our home page.
+- Please fill out the online [class interest form](https://www.heatsynclabs.org/register/) on our home page.
 - Are there any classes you would want to teach?
 - Welcome and thanks!
