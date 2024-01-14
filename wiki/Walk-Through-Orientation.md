@@ -11,8 +11,8 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 ## Important things
 
 - Encourage new members to be familiar with the following;
-  - Wiki; [Main_Page](Home), [Bylaws](Bylaws), [Faq](Faq)
-  - Code of Conduct [1](http://wiki.heatsynclabs.org/wiki/Bylaws#CODE_OF_CONDUCT)
+  - Wiki; [Main Page](Home), [Bylaws](Bylaws), [Faq](Faq)
+  - [ Code of Conduct ](Bylaws#code-of-conduct)
   - [Liability Waiver](Liability-Waiver)
 
 ## Safety
@@ -67,7 +67,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - If a anything goes wrong with a tool or station you are using try to help remedy it. If you aren't sure how then post to the discussion group to engage with the Station Champion and others who my able to help resolve it.
 - If you use consumables, consider replacing them. We currently have no budgets or caretakers for consumables.
   - Exception: the tear apart bins and scrap; feel free to use for good projects, but no need to replace.
-- Sign up [2](https://www.heatsynclabs.org/register) to get notifications about classes you are interested in.
+- Sign up [1](https://www.heatsynclabs.org/register) to get notifications about classes you are interested in.
 
 ## Who is in Charge
 
@@ -78,7 +78,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - Easiest way to Do-ocracy: announce "Thursday I'm going to work on \_\_\_\_, if you're interested please join me" or "would anyone object if I did \_\_\_\_?" -- better than "what color should the bike shed be?" "who wants to build a bike shed?" -- schedule/plan it like it's a party.
   - Consult Station Champions before doing cool projects that upgrade 'their' area
   - If you are a station Champion be welcoming of ideas for 'your' area
-- The HeatSync Labs Discussion Group [3](http://groups.google.com/forum/?fromgroups#!forum/heatsynclabs) is our main method of communicating
+- The HeatSync Labs Discussion Group [2](http://groups.google.com/forum/?fromgroups#!forum/heatsynclabs) is our main method of communicating
 - Hosting the lab and it's guests
   - Whoever unlocks the doors or opens the door for someone is responsible for them even if it is another paying member.
   - If you're not comfortable with that responsibility, you don't have to let them in.
