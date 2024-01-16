@@ -52,7 +52,7 @@ More than anything else, membership is a regular donation. Its is NOT payment fo
 
 ### Membership Fees
 
-If you sign up for membership via PayPal, your recurring monthly dues will be subtracted from your account the same date you enrolled. If you chpose Cash/Check -- you can either mail your dues (108 West Main St. Mesa, AZ 85201) or deliver it to David Flores (treasurer @ heatsynclabs.org) at HeatSync. Please note recurring payments are -highly- encouraged-- remember we do not have staff. If cash/check are important please consider using your bank's automatic bill-pay feature, or prepaying for 3, 6 or 12 months up front.
+If you sign up for membership via PayPal, your recurring monthly dues will be subtracted from your account the same date you enrolled. If you chose Cash/Check -- you can either mail your dues (108 West Main St. Mesa, AZ 85201) or deliver it to David Flores (treasurer @ heatsynclabs.org) at HeatSync. Please note recurring payments are -highly- encouraged-- remember we do not have staff. If cash/check are important please consider using your bank's automatic bill-pay feature, or prepaying for 3, 6 or 12 months up front.
 
 ### Membership and Equipment
 
@@ -262,12 +262,12 @@ HeatSync Training, or other formal training plus a basic HSL "test-out", require
 </ul></td>
 <td width="2%"></td>
 <td data-valign="top" width="49%"><ul>
-<li>Start with a DOC (depth of cut) of about 0.025" per pass, if side-millng, start as light as possible</li>
+<li>Start with a DOC (depth of cut) of about 0.025" per pass, if side-milling, start as light as possible</li>
 <li>Remember to account for backlash, check for climb or (preferred) conventional cutting</li>
 <li>You want consistent, sizeable metal chips to be coming off of the tool. Metal powder means you have a dull tool, blue color means slow down your speed (RPM) and feed (cranking the handles). If your aluminum is turning blue, you're doing something wrong</li>
 <li>Sound is important. Aim for a pleasant bassy, sand-like "<a href="https://www.youtube.com/watch?v=Wk2VYwCIcZE">bore</a>" sound, not a high-pitched buzz/chatter/whine. If you start cutting and it buzzes or smokes (without lubricant), stop and double-check yourself.</li>
 <li>Use both hands on the feed wheel to get a better feel for the machine and improve steadiness.</li>
-<li>Milling steel takes about 1/3rd the spindle speed of aluminum for the same mill and feedrate.</li>
+<li>Milling steel takes about 1/3rd the spindle speed of aluminum for the same mill and feed rate.</li>
 </ul></td>
 </tr>
 </tbody>
@@ -395,11 +395,11 @@ See [Ultimaker Quickstart Guide](Ultimaker-Quickstart-Guide), [Fakerbot](Fakerbo
 </ul></td>
 <td width="2%"></td>
 <td width="49%" data-valign="top"><ul>
-<li>When in the upright vertical position be sure to lock the hydrolic feed control in the lock out position(picture?)</li>
+<li>When in the upright vertical position be sure to lock the hydraulic feed control in the lock out position(picture?)</li>
 <li>When bringing up in the upright vertical position be aware of the pinch hazard of the position locking mechanism. Move it into place slowly and safely using the c-clamp attached. (picture?)</li>
 <li>When cutting material make sure that the blade guard bearing is as close to the cut as possible. You will need to adjust these when cutting material at an angle.(pictures)</li>
 <li>Always keep the vertical tray on the machine.(picture)</li>
-<li>Always let the blade do the cutting. Never force it or apply pressure on the chasis to force the cut.</li>
+<li>Always let the blade do the cutting. Never force it or apply pressure on the chassis to force the cut.</li>
 <li>When cutting in the horizontal position the maximum height for round material is 7" and rectangular is 7" x 12".</li>
 <li>To adjust the vice you'll need a 5/8th and 3/4th inch wrench.</li>
 </ul></td>
