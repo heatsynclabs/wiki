@@ -158,7 +158,7 @@ HeatSync Training, or other formal training plus a basic HSL "test-out", require
 <tr>
 <td width="49%" data-valign="top"><ul>
 <li><strong>TRUST NO ONE</strong>: Check for yourself if you have the right tools, a solid setup, and the machine is bolted down properly</li>
-<li>HeatSync Training required for use. If you're a pro, you still need to be checked out by an <a href="Classes">instructor</a>.</li>
+<li>HeatSync Training required for use. If you're a pro, you still need to be checked out by an instructor.</li>
 <li>To clean, gently vacuum and/or brush the chips away from the ways. A spotless machine makes setup very easy</li>
 <li>Always wear eye protection and closed-toe shoes.
 <ul>
