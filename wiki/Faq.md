@@ -54,7 +54,7 @@ Anything you want! For more ideas, check out the main page of our website, and t
 
 # Q: What does HeatSync need?
 
-YOU to do awesome things. No really. Come to HeatSync. Even when you're tired. Even if you're not a fully paid member. And not only when you need something. Come share your projects and your knowledge. Help others. Make awesome things. Run that workshop you can't understand why we aren't running. Fix all those things you post vehemently about online. No one is going to do it but you. See you @heatsync tonight!
+YOU to do awesome things. No really. Come to HeatSync. Even when you're tired. Even if you're not a paying member. And not only when you need something. Come share your projects and your knowledge. Help others. Make awesome things. Run that workshop you can't understand why we aren't running. Fix all those things you post vehemently about online. No one is going to do it but you. See you @heatsync tonight!
 
 # Q: I lost something, do you know where it might be?
 
