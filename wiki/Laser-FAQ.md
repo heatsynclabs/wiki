@@ -107,7 +107,7 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 ## Q: How do I make the laser go to a specific place on the laser bed?
 
 - LightBurn has a setting called absolute coordinates, the other option is current position.
-- LaserCut has a similar setting labelled immediate. Uncheck that for absolute coordinates.
+- LaserCut has a similar setting labeled immediate. Uncheck that for absolute coordinates.
 
 ==Q: Why does the run box or frame option not fit on my material.
 
