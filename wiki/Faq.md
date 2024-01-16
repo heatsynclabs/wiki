@@ -75,7 +75,7 @@ There is a good amount of parking around the lab. In recent months (2023), Mesa 
   - Mesa's ordinances on parking are located in 10-3-20 of their [Code of Ordinance](https://library.municode.com/az/mesa/codes/code_of_ordinances?nodeId=COOR_TIT10TR_CH3TR_10-3-20MEPA).
   - Here are a few things you can be ticketed for:
     - Backing into parking spaces (10-3-20(f))
-    - Reparking within 300ft (10-3-20(g)). The green lot is about 200ft long, so you have to change lots if you're going to repark.
+    - Re-parking within 300ft (10-3-20(g)). The green lot is about 200ft long, so you have to change lots if you're going to re-park.
 
 ![](files/HSL_Parking.png)
 
