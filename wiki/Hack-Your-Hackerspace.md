@@ -17,7 +17,7 @@ HYH is the members' night to get stuff done around the space. It is not a discus
 
 - Any member can begin the meeting promptly at 7, with or without a quorum of 8 members.
 - The first part is the vote; voting happens quickly, generally without discussion.
-  - Member moderating the meeting picks a notetaker before the meeting who pulls up the latest meeting's [:Category:HYH](Category-HYH) page and displays it on the projector.
+  - Member moderating the meeting picks a note taker before the meeting who pulls up the latest meeting's [:Category:HYH](Category-HYH) page and displays it on the projector.
   - If there's no quorum, the vote may be skipped or delayed until later in the meeting.
   - A majority vote wins (abstains are not counted toward a vote, so if two vote yea, one votes nay and five abstain, the vote passes.)
 - Voting results will be sent to the mailing list Friday morning.
