@@ -16,7 +16,7 @@ HeatSync Labs has a LaserPoint II (aka Sir-Cuts-A-Lot) and Silhouette Cameo 3.
 ## LaserPoint II
 
 - \[Using_the_vinyl_cutter \| Using Sir-Cuts-A-Lot\]
-- [LaserPoint II User Manual](http://www.uscuttersupport.com/downloads/Support_PDF/CutterSetup/LP2/LP2_Manual.pdf)
+- [LaserPoint II User Manual](https://uscutter.com/content/PDFs/LaserPointII_Manual_6_27_2016.pdf)
 - [Software: Sure Cuts A Lot Pro](http://www.uscutter.com/Sure-Cuts-A-Lot-Pro-Design-Cut-Software)
 
 License Transfer: [transferring license to a new computer](https://support.uscutter.com/hc/en-us/articles/360038423791-Transfer-Sure-Cuts-A-Lot-to-a-new-Computer)
