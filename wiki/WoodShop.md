@@ -28,6 +28,7 @@ Don't get distracted and don't let others distract you while using the tool
 - Long sleeves
 - Tie or scarf
 - Long hair that is loose (use a hat or put into a ponytail)
+- Jewelry; rings, bracelets, long necklaces
 
 <!-- -->
 
