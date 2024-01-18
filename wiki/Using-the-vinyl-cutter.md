@@ -1,5 +1,7 @@
 # Overview
 
+This documentation is for the LaserPoint II. The red and black machine labeled Sir-Cuts-A-Lot.
+
 This is a transcription of the hand written instructions in the binder from Nancy Gibson. I just wanted to get them digital to then be able to update/maintain.
 
 # Design
