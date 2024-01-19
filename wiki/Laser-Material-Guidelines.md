@@ -44,7 +44,7 @@ This is a partial list of the materials that can and can not be used for various
 - E Pw == Engrave Power
 - E Scan Gap == Engrave Scan Gap
 
-# Large Laser (aka [PewPew9000](PewPew9000))
+# [Large 80W Laser](Large-80W-Laser)
 
 ## Acrylic
 
@@ -209,8 +209,7 @@ Also, I suspect you can use high speed, low power (300/40) for cutting any depth
 `4   49  40  300 40  0.50`\
 `5   25  62          `\
 `6   45  70          `\
-`20  20  70  `\
-`       `
+`20  20  70  `
 
 # Small laser (aka [PewPew4500](PewPew4500))
 
