@@ -102,7 +102,7 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 
 ![Warped material demo](files/Warped_Material_Problem.png) ![How damage occurs](files/Warped_Material_Results.png)
 
-- There are several options. Large sheets should stay in place OK on their own. For other things you may want tape, clamps and wedges, or T-pins with the honeycomb
+- There are several options. Large sheets should stay in place OK on their own. For other things you may want tape, clamps and wedges, or T-pins with the honeycomb.
 - The newer PETG clamps are flexible and can hold material between 3mm and 6mm (1/8" - 1/4").
   - Use a wedge to prevent the rail from moving left to right.
   - Be sure the thinner profile is on top to allow for clearance of the laser cone.
@@ -123,7 +123,7 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 ## Q: How do I make the laser go to a specific place on the laser bed?
 
 - LightBurn has a setting called absolute coordinates, the other option is current position.
-- LaserCut has a similar setting labeled immediate. Uncheck that for absolute coordinates.
+- LaserCut 5.3 has a similar setting labeled immediate. Uncheck that for absolute coordinates.
 
 ==Q: Why does the run box or frame option not fit on my material.
 
@@ -148,7 +148,7 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 
 ## Q: Can you vary power during an engrave? OR Can you engrave at different depths / Can you do a gray scale engrave?
 
-- Engraving gradients is done by dithering an image and Lightburn has some nice settings features for engraving images, but the laser power isn't adjusting. You can create separate engrave layers and cut them at different powers, but no true variable power cuts.
+- Engraving gradients is done by dithering an image and LightBurn has some nice settings features for engraving images, but the laser power isn't adjusting. You can create separate engrave layers and cut them at different powers, but no true variable power cuts.
 
 ## Q: I'm getting a "soft dog" error when trying to use LaserCut 5.3.
 
@@ -182,25 +182,25 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 
 ## Q: What types of files do I need?
 
-- LaserCut5.3 (80 Watt Laser) takes .dxf format.
+- LaserCut 5.3 (80 Watt Laser) takes .dxf format.
   - In Adobe Illustrator to export a dxf go to the menu File, Export, Export As and choose DXF 2000.
   - Newer versions of DXF may pose problems. In Inkscape you can save as DXFR12 or DXFR14 one or both should work.
-- Lighburn (60 Watt Laser) takes [various file types;](https://docs.lightburnsoftware.com/BasicUsageEssentials.html#importing-artwork) Vector / mixed formats .ai, .svg, .dxf, .pdf, .plt, .hpgl. Image formats: .png, .jpg / .jpeg, .bmp, .gif, .tif / .tiff.
+- LightBurn (60 Watt Laser) takes [various file types;](https://docs.lightburnsoftware.com/BasicUsageEssentials.html#importing-artwork) Vector / mixed formats .ai, .svg, .dxf, .pdf, .plt, .hpgl. Image formats: .png, .jpg / .jpeg, .bmp, .gif, .tif / .tiff.
 
-## Q: "Why are some parts of my design missing when I convert to dxf for Lasercut?
+## Q: "Why are some parts of my design missing when I convert to dxf for LaserCut 5.3?
 
 - Often those elements were not paths, but objects like basic shapes or fonts. Convert those objects to paths so they can be converted.
 - Also grouped items may not be converted to paths when saving as .dxf.
-- LaserCut 5.3 may struggle with some dxf files especially newer versions. Try LightBurn and if it works in Lightburn you may be able to export a working dxf for LaserCut 5.3.
+- LaserCut 5.3 may struggle with some dxf files especially newer versions. Try LightBurn and if it works in LightBurn you may be able to export a working dxf for LaserCut 5.3.
 
 ## Q: My file imports with lots of segments of lines and curves that aren't connected. How do I make them all connected.
 
 - For LaserCut 5.3 you use the Tools menu then Unite Lines.
-- For Lightburn you use Edit Auto-Join Selected Shapes.
+- For LightBurn you use Edit Auto-Join Selected Shapes.
 
 ## Q: Is it better to use a raster image to engrave or to use a vector?
 
-- This answer highly depends on the artwork in question. For images with gradients engraving in LightBurn works great. For black and white designs one reason to change to vector may be time. Engraving a clock face for instance will result in a lot of travel between the numbers that isn't cutting. If they are all separate layers it'll go quicker. Alternately in Lightburn you may try the "Offset Fill" option especially for thinner fonts. Functionally there should be no difference with a black and white image engrave of high enough quality so it really is only a matter of time.
+- This answer highly depends on the artwork in question. For images with gradients engraving in LightBurn works great. For black and white designs one reason to change to vector may be time. Engraving a clock face for instance will result in a lot of travel between the numbers that isn't cutting. If they are all separate layers it'll go quicker. Alternately in LightBurn you may try the "Offset Fill" option especially for thinner fonts. Functionally there should be no difference with a black and white image engrave of high enough quality so it really is only a matter of time.
 
 ## Q: Why is the text in my file coming up wrong?
 
@@ -209,12 +209,12 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 ## Q: Why does my design come in with the wrong dimensions (didn't scale correctly)?
 
 - This depends on how your design software assigns units of measurement which is outside the scope of this FAQ. However you can resolve most if not all of these problems by checking the total size of your design then scaling it once you bring it into the laser software.
-  - For LaserCut5.3 you can go to Edit Size to adjust your design size.
-  - For Lightburn the top bar has the size and you can adjust it there.
+  - For LaserCut 5.3 you can go to Edit Size to adjust your design size.
+  - For LightBurn the top bar has the size and you can adjust it there.
 
 ## Q: I have lines that extend beyond the boundaries of the document. If I were to upload that file onto either of the laser cutting software, will the software include the lines that are outside the boundary?
 
-- Yes. Neither LaserCut 5.3 or Lightburn will care about what your page size is. Everything outside your page will still import.
+- Yes. Neither LaserCut 5.3 or LightBurn will care about what your page size is. Everything outside your page will still import.
 
 ## Q: How do I make the lines in my design import into LaserCut 5.3 or LightBurn.
 
