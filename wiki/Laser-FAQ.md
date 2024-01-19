@@ -5,7 +5,7 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
 ## Q: Who should come to the Laser Meetup?
 
 - Anyone who is interested or curious even if you don't have a design in mind.
-- Anyone wanting to get help on a design or time cutting a project (you don't need to be certified ahead of class)
+- Anyone wanting to get help on a design or time cutting a project (you don't need to be certified ahead of class).
 - Kids can come as well, but anyone under 18 must have an adult parent or guardian with them.
 
 ## Q: Why did I hear something beep 5 times?
@@ -18,19 +18,19 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
 
 ## Q: How do I design a project for the laser cutter? OR What software do I use to design a project for the laser cutter?
 
-- You can use either CAD or vector graphics software
+- You can use either CAD or vector graphics software.
   - For CAD tools Fusion 360 and Solid Works are the most commonly used, but any CAD software should export dxf files needed.
   - For vector graphics software Adobe Illustrator and Inkscape are the most common, although corel Draw and other are often used.
-    - For vector design a common starting point is tracing an raster image to create a path
+    - For vector design a common starting point is tracing an raster image to create a path.
 - There are also online generators for things like boxes, puzzles, mazes and more.
   - [The Ultimate Guide to Laser cut Box-Generators](https://www.instructables.com/The-Ultimate-Guide-to-Laser-cut-Box-Generators/) is a great resource for box generators.
-  - [Paper box template generator](https://www.templatemaker.nl/en/)
-  - [This page has a range of other generators](https://makerdesignlab.com/tutorials-tips/online-file-generators-for-laser-cutting/)
+  - [Paper box template generator](https://www.templatemaker.nl/en/).
+  - [This page has a range of other generators](https://makerdesignlab.com/tutorials-tips/online-file-generators-for-laser-cutting/).
 - You can also search online for project ideas at sites like <https://www.instructables.com/>, <https://www.thingiverse.com/>, or similar sites.
 - This YouTube video has a summary on [60 laser cut projects](https://www.youtube.com/watch?v==6z4nWIibNkA) with links to tutorials that may be good inspiration.
 - You can buy design files on Etsy or other places. Just be aware some designers do not know how to make design that work well for laser cutting or 3d printing. Look at reviews closely.
 
-## Q: What are the model numbers of our laser cutter
+## Q: What are the model numbers of our laser cutter?
 
 - The 80 Watt Laser is XYZ Technologies Exlas 1280, so is 1200mm x 800mm laserable.
 - The 60 Watt Laser is a Tek Genius "[60W 110V CO2 Laser Engraving Machine](https://laser-engraving-machines.net/tek-genius/60w-500x700mm-co2-usb-laser-engraving-cutter-stand-cutting-machine-engraver-17170)", or similar. No real model number that we know of.
@@ -50,7 +50,7 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 
 ## Q: What size material can I cut with the laser?
 
-- See here; [ 80W](Large-80W-Laser#sizesize), [ 60W](Mini-60W-Laser#size)
+- See here; [ 80W](Large-80W-Laser#sizesize), [ 60W](Mini-60W-Laser#size).
 
 ## Q: How thick of material can I cut?
 
@@ -75,15 +75,15 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 - [Houston Acrylic](https://houstonacrylic.com/) has a good selection of specialty acrylics.
 - [Laser Bits](https://www.jpplus.com/laserbits) now owned by Johnson's plastic has a variety of materials.
 - [BuyPlastic.com](https://buyplastic.com/) reported by Lily as the lowest prices on acrylic she could find.
-- [Peach Street Acrylic](https://peachstreetacrylic.com/) Margo likes this and Smokey Hill Design
-- [Smokey Hill Designs](https://smokeyhilldesigns.com/)
+- [Peach Street Acrylic](https://peachstreetacrylic.com/) Margo likes this and Smokey Hill Design.
+- [Smokey Hill Designs](https://smokeyhilldesigns.com/).
 
-## Q: Where can I buy materials locally
+## Q: Where can I buy materials locally?
 
-- Lumber shops will probably have higher quality than your big box hardware stores
+- Lumber shops will probably have higher quality than your big box hardware stores.
 - [Timber Hardwoods](https://timberww.com/) has good Baltic Birch Plywood that is usually better quality.
-- [Woodworkers Source](https://www.woodworkerssource.com/) has a location in Chandler
-- [Port Plastics](https://portplastics.com/) in Chandler for acrylic
+- [Woodworkers Source](https://www.woodworkerssource.com/) has a location in Chandler.
+- [Port Plastics](https://portplastics.com/) in Chandler for acrylic.
 
 ## Q: Any issues cutting 1/4" walnut on the laser?
 
@@ -98,15 +98,15 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 ## Q: How do I keep my material in place? / How do I keep my material from moving?
 
 - There are several options. Large sheets should stay in place OK on their own. For other things you may want tape, clamps and wedges, or T-pins with the honeycomb
-- The newer PETG clamps are flexible and can hold material between 3mm and 6mm (1/8" - 1/4")
-  - Use a wedge to prevent the rail from moving left to right
-  - Be sure the thinner profile is on top to allow for clearance of the laser cone
-- The T-Pins work with the honeycomb surface and work pretty well
+- The newer PETG clamps are flexible and can hold material between 3mm and 6mm (1/8" - 1/4").
+  - Use a wedge to prevent the rail from moving left to right.
+  - Be sure the thinner profile is on top to allow for clearance of the laser cone.
+- The T-Pins work with the honeycomb surface and work pretty well.
   - Again watch for the clearance with the cones.
-- Tape works but was always trying to lift the rails
-  - With the wedges that's not a problem
+- Tape works but was always trying to lift the rails.
+  - With the wedges that's not a problem.
   - Alternately having the tape pull more to the side avoids it lifting the rail.
-- **Caution should be used with warped material**
+- **Caution should be used with warped material.**
   - **The laser can be damaged if the cone hits material as shown below.**
 
 ![Warped material demo](files/Warped_Material_Problem.png) ![How damage occurs](files/Warped_Material_Results.png) ![The PETG Clamp](files/Clamp_PETG.png) ![Clamps in use](files/Clamp_Usage.png) ![T-Pins](files/T-Pins.png) ![T-Pins in use](files/T-Pin_Usage.png) ![T-Pin clearance](files/T-Pin_Usage_Closeup.png) ![Storage tray](files/Workholding_Storage.png)
@@ -151,9 +151,9 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 
 - This is a known error with communication to the software dongle. Usually just trying a second time communicates successfully. If it continues please log your problems and also you may need to restart the software and or the laser/computer.
 
-## Q: Why is there so much smoke in the laser? Why is there smoke coming out of the laser
+## Q: Why is there so much smoke in the laser? Why is there smoke coming out of the laser?
 
-- The vent screen may be clogged (see below for photo example)
+- The vent screen may be clogged (see below for photo example).
 - Cleaning the duct work may be necessary to improve airflow. Please discuss with the station champions if you want to help with this.
 - It may not be cutting very well and leading to excess smoke.
 - Your material may just be a very smokey material.
@@ -187,8 +187,8 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 ## Q: "Why are some parts of my design missing when I convert to dxf for Lasercut?
 
 - Often those elements were not paths, but objects like basic shapes or fonts. Convert those objects to paths so they can be converted.
-- Also grouped items may not be converted to paths when saving as .dxf
-- LaserCut 5.3 may struggle with some dxf files especially newer versions. Try LightBurn and if it works in Lightburn you may be able to export a working dxf for LaserCut 5.3
+- Also grouped items may not be converted to paths when saving as .dxf.
+- LaserCut 5.3 may struggle with some dxf files especially newer versions. Try LightBurn and if it works in Lightburn you may be able to export a working dxf for LaserCut 5.3.
 
 ## Q: My file imports with lots of segments of lines and curves that aren't connected. How do I make them all connected.
 
@@ -199,7 +199,7 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 
 - This answer highly depends on the artwork in question. For images with gradients engraving in LightBurn works great. For black and white designs one reason to change to vector may be time. Engraving a clock face for instance will result in a lot of travel between the numbers that isn't cutting. If they are all separate layers it'll go quicker. Alternately in Lightburn you may try the "Offset Fill" option especially for thinner fonts. Functionally there should be no difference with a black and white image engrave of high enough quality so it really is only a matter of time.
 
-## Q: Why is the text in my file coming up wrong.
+## Q: Why is the text in my file coming up wrong?
 
 - Possibly the font that you used is not on the laser computer. You may need to convert the font to a path before importing it.
 
