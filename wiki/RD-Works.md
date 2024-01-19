@@ -1,4 +1,4 @@
-This is the software that comes with the [PewPew4500](PewPew4500). Eric had started documenting it, so I'm going to translate that over to here.
+This is the software that comes with the [Mini 60W Laser](Mini-60W-Laser). Eric had started documenting it, so I'm going to translate that over to here.
 
 # Getting started
 
