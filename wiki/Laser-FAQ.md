@@ -8,11 +8,6 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
 - Anyone wanting to get help on a design or time cutting a project (you don't need to be certified ahead of class)
 - Kids can come as well, but anyone under 18 must have an adult parent or guardian with them.
 
-## Q: How do I keep my material in place?
-
-- Taping things to the rails with a bit of tension so it doesn't slide left and right.
-- You can use the honeycomb and put T pins in them. There should be some in the drawer. To access the drawer of the medical cart use the code 1234 to unlock.
-
 ## Q: Why did I hear something beep 5 times?
 
 - That could be the medical cart locking. Not a problem.
@@ -97,6 +92,24 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 ## Q: Why are my parts getting burn marks on them?
 
 - If your parts are small and falling after cut it may result in them getting burnt as other parts are cut above where they ended up.
+
+# Material Workholding
+
+## Q: How do I keep my material in place? / How do I keep my material from moving?
+
+- There are several options. Large sheets should stay in place OK on their own. For other things you may want tape, clamps and wedges, or T-pins with the honeycomb
+- The newer PETG clamps are flexible and can hold material between 3mm and 6mm (1/8" - 1/4")
+  - Use a wedge to prevent the rail from moving left to right
+  - Be sure the thinner profile is on top to allow for clearance of the laser cone
+- The T-Pins work with the honeycomb surface and work pretty well
+  - Again watch for the clearance with the cones.
+- Tape works but was always trying to lift the rails
+  - With the wedges that's not a problem
+  - Alternately having the tape pull more to the side avoids it lifting the rail.
+- **Caution should be used with warped material**
+  - **The laser can be damaged if the cone hits material as shown below.**
+
+![Warped material demo](files/Warped_Material_Problem.png) ![How damage occurs](files/Warped_Material_Results.png) ![The PETG Clamp](files/Clamp_PETG.png) ![Clamps in use](files/Clamp_Usage.png) ![T-Pins](files/T-Pins.png) ![T-Pins in use](files/T-Pin_Usage.png) ![T-Pin clearance](files/T-Pin_Usage_Closeup.png) ![Storage tray](files/Workholding_Storage.png)
 
 # Laser Operation
 
