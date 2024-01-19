@@ -211,7 +211,7 @@ Also, I suspect you can use high speed, low power (300/40) for cutting any depth
 `6   45  70          `\
 `20  20  70  `
 
-# [Mini_60W_Laser](Mini-60W-Laser)
+# [Mini 60W Laser](Mini-60W-Laser)
 
 ## Acrylic
 
