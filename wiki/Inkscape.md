@@ -246,8 +246,8 @@ Note that you'll still need to change the settings (upper right) on speed/power/
 
 The lasers behave differently, so the specifics for processing the files will be on the individual laser pages. Regardless though, you're going to be "Sneakernet"ing your file via a USB drive, so make sure you have one handy.
 
-- [PewPew4500](PewPew4500)
-- [PewPew9000](PewPew9000)
+- [Mini 60W Laser](Mini-60W-Laser)
+- [Large 80W Laser](Large-80W-Laser)
 
 # External links
 
