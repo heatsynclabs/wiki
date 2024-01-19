@@ -185,6 +185,7 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 - LaserCut 5.3 (80 Watt Laser) takes .dxf format.
   - In Adobe Illustrator to export a dxf go to the menu File, Export, Export As and choose DXF 2000.
   - Newer versions of DXF may pose problems. In Inkscape you can save as DXFR12 or DXFR14 one or both should work.
+  - In cases where you can't get the designs to import correctly into LaserCut 5.3 you may try importing into LightBurn and subsequently exporting them. This has worked well in some cases. Some missing or incorrect elements were recognized and exported correctly and with LightBurn.
 - LightBurn (60 Watt Laser) takes [various file types;](https://docs.lightburnsoftware.com/BasicUsageEssentials.html#importing-artwork) Vector / mixed formats .ai, .svg, .dxf, .pdf, .plt, .hpgl. Image formats: .png, .jpg / .jpeg, .bmp, .gif, .tif / .tiff.
 
 ## Q: "Why are some parts of my design missing when I convert to dxf for LaserCut 5.3?
