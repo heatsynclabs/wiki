@@ -95,7 +95,12 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 
 # Material Workholding
 
-## Q: How do I keep my material in place? / How do I keep my material from moving?
+## Q: How do I keep my warped material flat? / How do I hold my material in place and keep it from moving?
+
+- **Caution should be used with warped material.**
+  - **The laser can be damaged if the cone hits material as shown below.**
+
+![Warped material demo](files/Warped_Material_Problem.png) ![How damage occurs](files/Warped_Material_Results.png)
 
 - There are several options. Large sheets should stay in place OK on their own. For other things you may want tape, clamps and wedges, or T-pins with the honeycomb
 - The newer PETG clamps are flexible and can hold material between 3mm and 6mm (1/8" - 1/4").
@@ -106,10 +111,8 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 - Tape works but was always trying to lift the rails.
   - With the wedges that's not a problem.
   - Alternately having the tape pull more to the side avoids it lifting the rail.
-- **Caution should be used with warped material.**
-  - **The laser can be damaged if the cone hits material as shown below.**
 
-![Warped material demo](files/Warped_Material_Problem.png) ![How damage occurs](files/Warped_Material_Results.png) ![The PETG Clamp](files/Clamp_PETG.png) ![Clamps in use](files/Clamp_Usage.png) ![T-Pins](files/T-Pins.png) ![T-Pins in use](files/T-Pin_Usage.png) ![T-Pin clearance](files/T-Pin_Usage_Closeup.png) ![Storage tray](files/Workholding_Storage.png)
+![The PETG Clamp](files/Clamp_PETG.png) ![Clamps in use](files/Clamp_Usage.png) ![T-Pins](files/T-Pins.png) ![T-Pins in use](files/T-Pin_Usage.png) ![T-Pin clearance](files/T-Pin_Usage_Closeup.png) ![Storage tray](files/Workholding_Storage.png)
 
 # Laser Operation
 
