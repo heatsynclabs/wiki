@@ -44,7 +44,7 @@ Ok, there is a lot of information in this next photo, so I'll provide details af
 
 # Focus the laser
 
-The process for focusing the laser is the same for both lasers, the only difference is that you do it using the [LaserCut 5.3](LaserCut-5.3) software on the [PewPew9000](PewPew9000) and you use the manual knob on this one.
+The process for focusing the laser is the same for both lasers, the only difference is that you do it using the [LaserCut 5.3](LaserCut-5.3) software on the [Large 80W Laser](Large-80W-Laser) and you use the manual knob on this one.
 
 - [Laser Focus](Laser-Focus)
 
