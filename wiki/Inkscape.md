@@ -188,11 +188,11 @@ Now you want to turn your text in the file from being strokes (i.e. connected li
 
 You might want to save your file again as a different Inkscape SVG after this step, because now that everything is a path, doing things like editing text becomes annoying.
 
-You can be done here if you're planning on working on the [PewPew4500](PewPew4500), but if you want to work on the [PewPew9000](PewPew9000) you'll need to save it as a different format.
+You can be done here if you're planning on working on the [Mini 60W Laser](Mini-60W-Laser), but if you want to work on the [Large 80W Laser](Large-80W-Laser) you'll need to save it as a different format.
 
 #### Do NOT Object to Path Everything
 
-Unless you have a very good reason. When you do that, you risk turning lines you had, into pairs of strokes. If you select everything and then do "Object to Path" on the whole object, this is what it will look like when you bring it into [LaserCut](LaserCut) on the [PewPew9000](PewPew9000).
+Unless you have a very good reason. When you do that, you risk turning lines you had, into pairs of strokes. If you select everything and then do "Object to Path" on the whole object, this is what it will look like when you bring it into [LaserCut](LaserCut) on the [Large 80W Laser](Large-80W-Laser).
 
 ![](files/Lasercut-all-s2p.jpg)
 
