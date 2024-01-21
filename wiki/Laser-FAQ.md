@@ -270,5 +270,11 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 
 - We were able to solve this by using Control+A to select everything, then in the menu under Arrange select Ungroup.
 
+# LaserCut 5.3
+
+## Q: How can I access the U:\\ "User Drive" from LaserCut 5.3?
+
+- Type \\\files\users into the filename field and click open.
+
 ---
 *Categories: [Laser](Category-Laser)*
