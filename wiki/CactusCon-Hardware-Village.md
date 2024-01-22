@@ -9,3 +9,6 @@ The soldering event focuses on the conference electronic conference badges which
 HeatSync Labs brings out a bunch of soldering iron kits and volunteers to help those just learning soldering, or those who just need to know which steps to take on the current years badge.
 
 If you are interested in volunteering for the Soldering Village reach out to Robot Ambassador on Slack, or find the post on the discussion group.
+
+---
+*Categories: [Events](Category-Events)*
