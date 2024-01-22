@@ -9,8 +9,12 @@ If there is an event you would like us to host or make an appearance at, please 
 - Sewing Night monthly 2nd Tuesday 7pm - 10pm
 - [Monthly Laser Meetup](Monthly-Laser-Meetup) 1st Sunday 10am - 2pm
 - 3d Printer Day monthly 1st Sunday noon - 5pm
+- [Woodworking Day](Woodworking-Day) 4th Saturday of the month 1pm - 4pm
 - [Hack Your Hackerspace](Hack-Your-Hackerspace) bi-monthly 2nd and 4th Thursdays 7pm
 - Young Makers bimonthly 1st and 3rd Friday 7pm - 10pm
+- [AZ Haunters](https://azhaunters.com/) meets most months for Halloween themed making at the lab. Als on [Facebook](https://www.facebook.com/AZHaunters)
+- [Group Programming Practice -Leetcode](https://www.meetup.com/arizona-codes/) meets on the Last Wednesday of the month 7pm - 9pm
+- [PHX Javascript](https://www.meetup.com/phoenix-javascript/) has different topics about related to Javascript
 
 ## Events
 
