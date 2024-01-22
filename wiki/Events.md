@@ -16,6 +16,10 @@ If there is an event you would like us to host or make an appearance at, please 
 
 - View the [homepage](http://www.heatsynclabs.org/) to see a calendar with our current scheduling
 - [guestlist](https://guestlist.co/u/HeatSyncLabs) lists classes that require a registration
+- [CactusCon](https://www.cactuscon.com/) Arizona's annual information security conference
+
+## Past Events
+
 - [Presentations](Presentations)
 - [HotTopics](HotTopics)
 - [One Year Anniversary Party](Laser-Mustache-Party)
