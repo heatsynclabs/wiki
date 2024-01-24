@@ -130,10 +130,13 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 - Check to see if you have any extra parts outside of your design. When using the select option you should be able to use the Control+A to select everything which should help you see any extra very tiny parts.
 - Double check your expected dimensions against your material. There may have been a scaling issue when importing your design.
 
-## Q: Why doesn't the laser start my job or run the box and instead beeps 10 times?
+## Q: Why doesn't the laser start my job or run the box and instead beeps 10 times? Why does the 80W laser show a soft stop error?
 
 - Check the control panel and see if it says soft stop. If that happened it means the job was going to cut out of bounds so it terminated the job.
+- Make sure your job is downloaded.
 - Look at your options for origin point, and if immediate was checked or not.
+- Run the simulate and check for any design features outside of where you expect them.
+- If those don't work try with a small test shape. If that doesn't work restart things because something is wack.
 
 ## Q: Why did the laser start cutting as soon as I shut the lid.
 
