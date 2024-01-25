@@ -94,7 +94,7 @@ Don't get distracted and don't let others distract you while using the tool
 Some things we can make to improve our wood shop capabilities and make things easier.
 
 - Simple [DIY Circular Saw Guide](https://www.youtube.com/watch?v=rbTvzViDZmo).
-- \[<https://www.youtube.com/watch?v=9-vwkUbCNzsBasic> sawhorses. Probably also need a large piece of wood to act as our work surface.
+- [sawhorses.](https://www.youtube.com/watch?v=9-vwkUbCNzsBasic) Probably also need a large piece of wood to act as our work surface.
 - For more complex build which may be something to consider; [flip top carts](https://www.youtube.com/watch?v=OKAmHCT1TsE) there are plenty of variations online on how to make these. We'd have to decide what is practical if at all for the lab.
 
 ---
