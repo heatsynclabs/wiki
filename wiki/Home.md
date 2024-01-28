@@ -17,7 +17,6 @@
 <li><a href="Faq">FAQ</a></li>
 <li><a href="Events">Events</a>
 <ul>
-<li><a href="Workshop-Policy">Workshop Policy</a></li>
 <li><a href="Hack-Your-Hackerspace">Hack Your Hackerspace</a></li>
 </ul></li>
 <li><a href="Rules">Rules and Guidelines</a>
