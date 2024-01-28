@@ -6,6 +6,8 @@ If there is an event you would like us to host or make an appearance at, please 
 
 ## Recurring Events
 
+[Open Hours](Open-Hours)
+
 - Coffee & Coworking weekly on Wednesdays 9am - 3pm.
 - [Arduino Night](Arduino-Night) monthly 1st Wednesday 7pm - 10pm.
 - Sewing Night monthly 2nd Tuesday 7pm - 10pm.
@@ -13,19 +15,18 @@ If there is an event you would like us to host or make an appearance at, please 
 - 3d Printer Day monthly 1st Sunday noon - 5pm.
 - [Woodworking Day](Woodworking-Day) 4th Saturday of the month 1pm - 4pm.
 - [Hack Your Hackerspace](Hack-Your-Hackerspace) bi-monthly 2nd and 4th Thursdays 7pm.
-- Young Makers bimonthly 1st and 3rd Friday 7pm - 10pm.
+- [Young Makers](Young-Makers) bimonthly 1st and 3rd Friday 7pm - 10pm.
 - [AZ Haunters](https://azhaunters.com/) meets most months for Halloween themed making at the lab. Als on [Facebook](https://www.facebook.com/AZHaunters).
 - [Group Programming Practice -Leetcode](https://www.meetup.com/arizona-codes/) meets on the Last Wednesday of the month 7pm - 9pm.
 - [PHX Javascript](https://www.meetup.com/phoenix-javascript/) has different topics related to Javascript.
+- [Phoenix Algorithms and Coding](https://www.meetup.com/phoenix-algorithms-and-coding/) have monthly events with a varied schedule.
 
 ## Other Events and Info
 
-- View the [homepage](http://www.heatsynclabs.org/) to see a calendar with our current scheduling
-- [guestlist](https://guestlist.co/u/HeatSyncLabs) lists classes that require a registration
+- View the [homepage](http://www.heatsynclabs.org/) to see a calendar with our current schedule.
+- [guestlist](https://guestlist.co/u/HeatSyncLabs) lists classes that require a registration.
 - [CactusCon](https://www.cactuscon.com/) Arizona's annual information security conference
-
-## Past Events
-
+- ==Past Events==
 - [HotTopics](HotTopics)
 - [One Year Anniversary Party](Laser-Mustache-Party)
 - [First Friday](First-Friday)
@@ -46,7 +47,7 @@ The HeatSync Labs Workshops' core goals include:
 
 ## HeatSync Labs Responsibilities
 
-- HSL will publicize the workshop on our website, and social media outlets
+- HSL will publicize the event on HeatSync Labs specific websites and social media outlets.
 - HSL will provide the venue, table, chairs and utilities
 - HSL can host the event registration if desired
 
@@ -63,23 +64,21 @@ The HeatSync Labs Workshops' core goals include:
 - Please arrive 10-15 minutes before the workshop is set to start so there is enough time to check in.
 - If you can't make it to the workshop you must contact the instructor before the start of the class to release your seat; otherwise, you will not be afforded a refund.
 - While all workshops are subject to change, we make every attempt to notify all registered participants. Please ensure that we have the correct contact information on file to contact you in the event of a schedule change or class cancellation
-- When you come to a HeatSync Labs sponsored workshop, please wear sturdy, closed-toe shoes. If you are taking a welding class please wear natural fiber long pants and a natural fiber long-sleeved shirt. For any machining or wood working workshop please wear a short-sleeved shirt, tie back any long hair and beards and leave loose jewelry at home.
+- When you come to events please wear appropriate attire for the tools you will be using. Read the event description for relevant details. For example wearing closed-toe shoes and clothes made with natural fibers for welding classes.
 
 ## Guidelines on Ticket Prices
 
-Our current policy (which may be revised as the program develops) is the following: Ticket prices are set by the instructor
+Our current policy is the following: Ticket prices are set by the instructor. 30% of profits goes to HeatSync Labs 70% to instructors.
 
-- Classroom fee is to be paid to the instructor after completion of the workshop
-- Material fees are fixed costs that are passed on to the student
 - Instructors may offer a discount ticket price for members
 - HeatSync Labs will receive a contribution of one third the class fee.
+- Instructor amount = (total ticket sales - materials costs) \* 70%
+- HeatSync Labs amount = (Total ticket sales - materials cost) \* 30%
 
 ## Instructor
 
 - HSL will provide final payment up to 2 business days after completion of the workshop
 - Instructors amounts will be calculated as follows:
-
-Instructor amount = (total ticket sales - materials costs) \* 70% HeatSync Labs amount = (Total ticket sales - materials cost) \* 30%
 
 ## Guidelines On "Certification" Workshops
 
@@ -100,7 +99,7 @@ Instructor Eligibility:
 
 ## Scheduling
 
-In order to properly schedule and publicize workshop activities Instructors are required to submit the following to the Workshop Coordinator 30 days prior to proposed event date:
+In order to properly schedule and publicize workshop events hosts should submit the following to details preferably 2 or more weeks in advance:
 
 - Workshop Title
 - Date to be held
@@ -170,4 +169,4 @@ If you have something you'd like to see, please add it in a bullet here. Maybe t
 - Electronic Music
 
 ---
-*Categories: [Events](Category-Events)*
+*Categories: [Events](Category-Events), [Events](Category-Events)*
