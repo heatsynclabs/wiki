@@ -45,7 +45,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - HeatSync Labs stuff shouldn't be left in your box, your stuff shouldn't be left laying around the lab.
   - If you need to leave something in the lab, put a parking pass on it so we know it's yours and how to contact you.
   - Ideally, propose to the community that it be given space in the lab.
-- How to fix/connect to wifi (hacktheplanet)
+- The Wifi password is above the front doors below the exit sign in green vinyl lettering.
 - HeatSync is a hackerspace first, coworking space second. Our primary purpose is to provide tools for people to create things, and it can be a loud/dirty place.
   - There are tons of other places with WiFi, desks, couches, and projectors. There's only one place where you can use a bandsaw.
 
