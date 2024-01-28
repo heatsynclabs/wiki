@@ -39,28 +39,6 @@ If Square is unavailable record this information along with the payment so that 
 
 To request the Board to purchase something, follow instructions on the [Procurement Request](Procurement-Request) page.
 
-### Event/Speaker Process
-
-Clearly identify one primary event organizer with ultimate responsibility.
-
-1.  Organizer solidifies speaker date and explains the following:
-    1.  Meeting starts at 7pm
-    2.  Speakers start at 7:30pm
-    3.  Talks are \<30mins and we prefer inclusion of hands on activity
-    4.  Projector, sound and laptop connectors provided (coordinate this with speaker)
-    5.  Ask if they need anything else from us, or if audience needs to bring in x
-2.  Request topic name, description (overview of what will be covered for marketing), and bio.
-3.  Once this happens, organizer asks Operations team to update the events calendar.
-4.  Forward out same information to board@ and operations@ so everyone (including marketing) are up to date
-5.  Night of, arrive early, be point of contact for speaker.
-    1.  Lead cleaning and setup
-    2.  Introduce and thank the presenter
-    3.  Lead teardown and cleaning
-        1.  If the event was messy, ask participants to clean their own mess.
-        2.  Remember to wipe tables and examine floors to determine if they need sweep/mop
-6.  Send thank you via email, etc
-7.  Post presentations on wiki and maintain a private list of emails so we can reschedule speakers [Presentations](Presentations)
-
 ### Tool Acquisition
 
 See [Tool Acquisition HOWTO](Tool-Acquisition-HOWTO)
