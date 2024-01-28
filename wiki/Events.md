@@ -6,8 +6,7 @@ If there is an event you would like us to host or make an appearance at, please 
 
 ## Recurring Events
 
-[Open Hours](Open-Hours)
-
+- [Open Hours](Open-Hours)
 - Coffee & Coworking weekly on Wednesdays 9am - 3pm.
 - [Arduino Night](Arduino-Night) monthly 1st Wednesday 7pm - 10pm.
 - Sewing Night monthly 2nd Tuesday 7pm - 10pm.
