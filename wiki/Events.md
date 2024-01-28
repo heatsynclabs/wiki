@@ -168,3 +168,6 @@ If you have something you'd like to see, please add it in a bullet here. Maybe t
 - Leatherworking
 - Retro Gaming
 - Electronic Music
+
+---
+*Categories: [Events](Category-Events)*
