@@ -330,39 +330,6 @@ See [Ultimaker Quickstart Guide](Ultimaker-Quickstart-Guide), [Fakerbot](Fakerbo
 - When using hot air reflow, avoid extended low speed airflow and high temperature, as the unit can overheat.
 - Utilize the air filter, if available, on your iron to protect you from solder/flux fumes or only solder in well ventilated rooms
 
-### Wood Bandsaw
-
-<table>
-<colgroup>
-<col style="width: 49%" />
-<col style="width: 20%" />
-<col style="width: 49%" />
-</colgroup>
-<tbody>
-<tr>
-<td width="49%" data-valign="top"><ul>
-<li>Do not run the blade too fast for the material</li>
-<li>There is no danger in going too slow, so when unsure, go with the slowest speed.</li>
-<li>Use the appropriate type of blade (fine versus coarse teeth)
-<ul>
-<li>Coarser blades are better for harder wood.</li>
-</ul></li>
-<li><strong>Bandsaw blade longevity tip</strong> Blades should always have AT LEAST three teeth engaged in the cut, actively cutting. So, for example, if the blade on the saw is 14tpi, then 3/14 = 0.214" thick material minimum. When possible, you should cut multiple pieces stacked together to try to achieve the minimum thickness for the blade, even backing-up the cut with sacrificial material works.
-<ul>
-<li>If you decide to proceed with too-thin material anyway, care must be taken to feed the material into the blade slowly and gently, if it's fed aggressively, one tooth will try to take a full 3/4hp cut and will probably just shear off from the blade itself.</li>
-</ul></li>
-</ul></td>
-<td width="2%"></td>
-<td width="49%" data-valign="top"><ul>
-<li>Always push material slowly, steadily, and perfectly straight (don't twist the blade!) -- listen to the sound it makes and stop if it sounds angry.</li>
-<li>When cutting long pieces, have someone else hold the back side to avoid problems.</li>
-<li>Be aware of where sawdust is going and clean up afterwards.</li>
-<li>When cutting material make sure that the blade guard bearing is as close to the cut as possible.</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-
 ### Metal-Cutting Bandsaw
 
 <table>
