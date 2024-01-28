@@ -18,12 +18,13 @@ I first came to HeatSync Labs in 2013 and didn't really know how to make things.
 
 ## Projects
 
-- [ Streamlining Engagement](Streamlining-Engagement)
+- [Woodworking Day](Woodworking-Day)
+- [Streamlining Engagement](Streamlining-Engagement)
 - [ Hosting Spreadsheet](Hosting-Signup-Solution)
 - [VolunteerMatch](VolunteerMatch)
-- [ Laser Example Book](Laser-Example-Book)
-- [ Event Notifications](Event-Notifications)
-- [ Station Screensavers](Station-Screensavers)
+- [Laser Example Book](Laser-Example-Book)
+- [Event Notifications](Event-Notifications)
+- [Station Screensavers](Station-Screensavers)
 
 ## Skills
 
