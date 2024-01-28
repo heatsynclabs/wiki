@@ -330,13 +330,6 @@ See [Ultimaker Quickstart Guide](Ultimaker-Quickstart-Guide), [Fakerbot](Fakerbo
 - When using hot air reflow, avoid extended low speed airflow and high temperature, as the unit can overheat.
 - Utilize the air filter, if available, on your iron to protect you from solder/flux fumes or only solder in well ventilated rooms
 
-### Planer
-
-- Run outside due to noise and sawdust
-- Use sawdust attachment and vacuum to avoid making a huge mess
-- CHECK WOOD FOR NAILS, METAL, OR HARD KNOTS.
-  - A single piece of metal can ruin a blade!
-
 ### Wood Bandsaw
 
 <table>
