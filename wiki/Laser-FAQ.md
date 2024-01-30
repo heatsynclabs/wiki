@@ -154,10 +154,6 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 
 - Engraving gradients is done by dithering an image and LightBurn has some nice settings features for engraving images, but the laser power isn't adjusting. You can create separate engrave layers and cut them at different powers, but no true variable power cuts.
 
-## Q: I'm getting a "soft dog" error when trying to use LaserCut 5.3.
-
-- This is a known error with communication to the software dongle. Usually just trying a second time communicates successfully. If it continues please log your problems and also you may need to restart the software and or the laser/computer.
-
 ## Q: Why is there so much smoke in the laser? Why is there smoke coming out of the laser?
 
 - The vent screen may be clogged (see below for photo example).
@@ -181,6 +177,19 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 - No.
   - Extra No. The 80W laser includes a button that crashes the bed into the laser cone. Do not use the control panel other than the escape button.
   - The 60W doesn't have auto focus / z-datum, but you could accidentally change settings via the control panel. Just use the control panel to move the position, but don't adjust any settings. Just avoid using the menus via the control panel.
+
+# 80 Watt Laser Operation
+
+## Q: I'm getting a "soft dog" error when trying to use LaserCut 5.3.
+
+- This is a known error with communication to the software dongle. Usually just trying a second time communicates successfully. If it continues please log your problems and also you may need to restart the software and or the laser/computer.
+
+# 60 Watt Laser Operation
+
+## Q: Why is the red indicator laser not aligned with the cutting?
+
+- This laser diode is not inline with the co2 laser and frequently will be bumped from it's original spot. Also it if your material is not flat it will show up slightly in front of or behind where the laser cutting will happen.
+  - It is best to ignore the beam or manually check the alignment before you start cutting. Press the pulse on the laser to cut a dot and check alignment.
 
 # File questions
 
