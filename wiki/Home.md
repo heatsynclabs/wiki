@@ -48,6 +48,7 @@
 <li><a href="Vinyl-Cutter">Vinyl Cutter</a></li>
 <li><a href="Welding">Welding</a></li>
 <li><a href="WoodShop"> Wood Shop</a></li>
+<li><a href="Other-Resources">Other Resources</a></li>
 </ul>
 <div style="margin:0;background-color:#e0ffe0;font-size:120%;font-weight:bold;border:1px solid #80e080;text-align:left;color:#000;padding:0.2em 0.4em;">
 <p>Outside Resources</p>
