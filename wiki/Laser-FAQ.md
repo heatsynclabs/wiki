@@ -283,5 +283,16 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 
 - Type \\\files\users into the filename field and click open.
 
+## Q: Why is LaserCut 5.3 giving an Extern~1 Seek Error when trying to import my dxf file?
+
+- We don't know why this was caused. The original fine in our situation was an exported Fusion 360 dxf.
+- We were able to open it in Inkscape and save it as DXF Version R14 and the problem went away.
+
+## Q: "Why are some parts of my design missing when I convert to dxf for LaserCut 5.3?
+
+- Often those elements were not paths, but objects like basic shapes or fonts. Convert those objects to paths so they can be converted.
+- Also grouped items may not be converted to paths when saving as .dxf.
+- LaserCut 5.3 may struggle with some dxf files especially newer versions. Try LightBurn and if it works in LightBurn you may be able to export a working dxf for LaserCut 5.3.
+
 ---
 *Categories: [Laser](Category-Laser)*
