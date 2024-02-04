@@ -19,3 +19,11 @@ We have a lot of signs around the lab to help people understand what things are 
 ![](files/Laser_Scap_Sign.png)
 
 *laser scrap sign*
+
+## Machine Shop
+
+![Machining_Yellow_Door_Sign.jpg](files/Machining_Yellow_Door_Sign.jpg) ![Machining_White_Door_Sign.jpg](files/Machining_White_Door_Sign.jpg) ![Machining_Breaker_Sign.jpg](files/Machining_Breaker_Sign.jpg) ![Machining_Breaker_CautIon_Tape.jpg](files/Machining_Breaker_CautIon_Tape.jpg) ![Machining_Welding_Wall_Sign.jpg](files/Machining_Welding_Wall_Sign.jpg) ![Machining_Starret_Tap_Drill_Sizes.jpg](files/Machining_Starret_Tap_Drill_Sizes.jpg)
+
+## Welding
+
+![Welding_Back_Door_Warnings.jpg](files/Welding_Back_Door_Warnings.jpg) ![Welding_Turn_Off_Gas_By_Tanks.jpg](files/Welding_Turn_Off_Gas_By_Tanks.jpg) ![Welding_Turn_off_Gas_Door_Sign.jpg](files/Welding_Turn_off_Gas_Door_Sign.jpg)
