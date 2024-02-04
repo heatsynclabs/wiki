@@ -31,3 +31,7 @@ We have a lot of signs around the lab to help people understand what things are 
 ## Welding
 
 ![Welding_Back_Door_Warnings.jpg](files/Welding_Back_Door_Warnings.jpg) ![Welding_Turn_Off_Gas_By_Tanks.jpg](files/Welding_Turn_Off_Gas_By_Tanks.jpg) ![Welding_Turn_off_Gas_Door_Sign.jpg](files/Welding_Turn_off_Gas_Door_Sign.jpg)
+
+## Window
+
+![Window_Poster_Left.jpg](files/Window_Poster_Left.jpg) ![Window_Poster_Right.jpg](files/Window_Poster_Right.jpg) ![Window_Entrance_Sign_At_108.jpg](files/Window_Entrance_Sign_At_108.jpg) ![Window_We_Don't_Sell_Things.jpg](files/Window_We_Don't_Sell_Things.jpg) ![Window_Wooden_Gear_Sign.jpg](files/Window_Wooden_Gear_Sign.jpg)
