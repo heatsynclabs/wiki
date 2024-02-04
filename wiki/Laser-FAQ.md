@@ -201,12 +201,6 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
   - In cases where you can't get the designs to import correctly into LaserCut 5.3 you may try importing into LightBurn and subsequently exporting them. This has worked well in some cases. Some missing or incorrect elements were recognized and exported correctly and with LightBurn.
 - LightBurn (60 Watt Laser) takes [various file types;](https://docs.lightburnsoftware.com/BasicUsageEssentials.html#importing-artwork) Vector / mixed formats .ai, .svg, .dxf, .pdf, .plt, .hpgl. Image formats: .png, .jpg / .jpeg, .bmp, .gif, .tif / .tiff.
 
-## Q: "Why are some parts of my design missing when I convert to dxf for LaserCut 5.3?
-
-- Often those elements were not paths, but objects like basic shapes or fonts. Convert those objects to paths so they can be converted.
-- Also grouped items may not be converted to paths when saving as .dxf.
-- LaserCut 5.3 may struggle with some dxf files especially newer versions. Try LightBurn and if it works in LightBurn you may be able to export a working dxf for LaserCut 5.3.
-
 ## Q: My file imports with lots of segments of lines and curves that aren't connected. How do I make them all connected.
 
 - For LaserCut 5.3 you use the Tools menu then Unite Lines.
