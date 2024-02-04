@@ -5,6 +5,8 @@ We have a lot of signs around the lab to help people understand what things are 
 - Password for the WiFi, on all the co-working monitors and above front doors in green vinyl.
 - Most of the stations have an orange tile with the name of the station made with black vinyl.
 - On some tools Training Required stickers read: "Notification HeatSync Labs Training Required".
+- [No_Trespassing_Sign.zip](files/No_Trespassing_Sign.zip)
+  *No_Trespassing_Sign.zip*
 
 ## Laser Station
 
