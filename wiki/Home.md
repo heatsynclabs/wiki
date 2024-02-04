@@ -36,12 +36,10 @@
 <li><a href="AudioVisual"> A/V Station</a></li>
 <li><a href="Bicycle-Repair-Station">Bicycle Repair Station</a></li>
 <li><a href="Biochem-Lab"> Biochem Lab</a></li>
-<li><a href="Class-Laptops"> Class Laptops</a></li>
 <li><a href="Electronics">Electronics</a></li>
 <li><a href="Jewelry">Jewelry</a></li>
 <li><a href="Laser-Cutters"> Laser Cutters</a> (<a href="Laser-FAQ">FAQ</a>)</li>
 <li><a href="Leather-Working"> Leather Working</a></li>
-<li><a href="LEGO">LEGO</a></li>
 <li><a href="Library">Library</a></li>
 <li><a href="Machine-Shop"> Machine Shop</a></li>
 <li><a href="Printers">Printers</a></li>
