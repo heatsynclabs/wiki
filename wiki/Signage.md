@@ -1,4 +1,4 @@
-We have a lot of signs around the lab to help people understand what things are about. This page will help document the signage and hopefully link to versions and details of signs in case updates are needed later.
+We have a lot of signs around the lab to help people understand what things are about. This page will help document the signage and hopefully link to versions and details of signs in case updates are needed later. Many of the tools have a QR Code linking the manual. Not every safety caution is mentioned on sign. Many tools will require specific safety precautions not outlined on signage in the lab.
 
 ## General Signage
 
