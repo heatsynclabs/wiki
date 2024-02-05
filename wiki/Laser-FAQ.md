@@ -50,7 +50,7 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 
 ## Q: What size material can I cut with the laser?
 
-- See here; [ 80W](Large-80W-Laser#sizesize), [ 60W](Mini-60W-Laser#size).
+- See here; [ 80W](Large-80W-Laser#size), [ 60W](Mini-60W-Laser#size).
 
 ## Q: How thick of material can I cut?
 
