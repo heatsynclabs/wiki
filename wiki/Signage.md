@@ -1,4 +1,12 @@
-We have a lot of signs around the lab to help people understand what things are about. This page will help document the signage and hopefully link to versions and details of signs in case updates are needed later. Many of the tools have a QR Code linking the manual. Not every safety caution is mentioned on sign. Many tools will require specific safety precautions not outlined on signage in the lab.
+## Overview
+
+We have a lot of signs around the lab to help people understand what things are about.
+
+This page will help document the signage and hopefully link to versions and details of signs in case updates are needed later.
+
+Darrell has added QR Codes on many of the tools in the lab linking the user manual. Many tools will require additional and more specific safety precautions not outlined on other signage in the lab.
+
+When creating new signs in the lab it may be helpful to consider the [ brand standards](Press-Kit#logo-pack-brand-standards).
 
 ## General Signage
 
@@ -6,6 +14,7 @@ We have a lot of signs around the lab to help people understand what things are 
 - Most of the stations have an orange tile with the name of the station made with black vinyl.
 - On some tools Training Required stickers read: "Notification HeatSync Labs Training Required".
 - [No_Trespassing_Sign.zip](files/No_Trespassing_Sign.zip) We may need a this in Spanish also.
+- [ Parking Permits](Parking-Permit) and [ Parking Tickets](Parking-Ticket) are used for tagging non-lab owned stuff in the lab.
 
 ![General_No_Trespassing.jpg](files/General_No_Trespassing.jpg) ![General_Do_Not_Enter_Stairs.jpg](files/General_Do_Not_Enter_Stairs.jpg) ![Info on this sign is outdated.](files/General_Emergency_Contact.jpg) ![General_Flier_Front.jpg](files/General_Flier_Front.jpg) ![General_Flier_Back.jpg](files/General_Flier_Back.jpg) ![General_Hand_Tools_Sign.jpg](files/General_Hand_Tools_Sign.jpg) ![General_How_To_Use_Calipers.jpg](files/General_How_To_Use_Calipers.jpg) ![The lettering is retro-reflective vinyl.](files/General_Push_Bar_To_Open.jpg) ![Fits 11 x 17 printed poster.](files/General_Sandwhich_Board_Sign.jpg) ![General_Snacks_Donate.jpg](files/General_Snacks_Donate.jpg)
 
