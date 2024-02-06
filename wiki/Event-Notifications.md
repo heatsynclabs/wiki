@@ -1,8 +1,8 @@
 ## Overview
 
-The ideas is easy. Notify people when new events get scheduled that they are interested in.
+The ideas is easy. Have people fill out [this form](https://www.heatsynclabs.org/register/) and notify them when new events get scheduled that they are interested in.
 
-The implementation is a work in progress. Currently airtable form and then I email when a new event is posted. Not recurring events like Sewing Night, or 3d Printer Day. Since those are already on the calendar.
+The implementation is a work in progress. Currently we are using an Airtable form and then I email when a new event is posted. Not recurring events like Sewing Night, or 3d Printer Day. Since those are already on the calendar.
 
 ## History
 
@@ -27,4 +27,4 @@ I'm thinking about removing sewing and making "fiber arts (sewing, yarcraft etc)
 There may a way to switch to Mailchimp or similar platform with more complete automation. Exploration has begun, but the know how to complete this isn't part of my repertoire yet.
 
 ---
-*Categories: [Project](Category-Project)*
+*Categories: [Project](Category-Project), [Events](Category-Events)*
