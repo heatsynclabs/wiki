@@ -32,15 +32,15 @@ When creating new signs in the lab it may be helpful to consider the [ brand sta
 
 ![Laser_Training_Required.jpg](files/Laser_Training_Required.jpg) ![Laser_Machine_has_no_Brain.jpg](files/Laser_Machine_has_no_Brain.jpg) ![Laser_QR_Code_for_Manual.jpg](files/Laser_QR_Code_for_Manual.jpg) ![Laser_Do_Not_Operate_Unattended.jpg](files/Laser_Do_Not_Operate_Unattended.jpg) ![laser scrap sign](files/Laser_Scap_Sign.png)
 
-## Machine Shop
+## [Machine Shop](Machine-Shop)
 
 ![Machining_Yellow_Door_Sign.jpg](files/Machining_Yellow_Door_Sign.jpg) ![Machining_White_Door_Sign.jpg](files/Machining_White_Door_Sign.jpg) ![Machining_Breaker_Sign.jpg](files/Machining_Breaker_Sign.jpg) ![Machining_Breaker_CautIon_Tape.jpg](files/Machining_Breaker_CautIon_Tape.jpg) ![Machining_Welding_Wall_Sign.jpg](files/Machining_Welding_Wall_Sign.jpg) ![Machining_Starret_Tap_Drill_Sizes.jpg](files/Machining_Starret_Tap_Drill_Sizes.jpg)
 
-## Sewing
+## [Sewing](Sewing)
 
 ![Sewing_Machine_Certification.jpg](files/Sewing_Machine_Certification.jpg) ![Sewing_Hackerspace_Rulez.jpg](files/Sewing_Hackerspace_Rulez.jpg) ![Sewing_Light_Switch.jpg](files/Sewing_Light_Switch.jpg) ![Sewing_Certified_Users.jpg](files/Sewing_Certified_Users.jpg)
 
-## Welding
+## [Welding](Welding)
 
 ![Welding_Back_Door_Warnings.jpg](files/Welding_Back_Door_Warnings.jpg) ![Welding_Turn_Off_Gas_By_Tanks.jpg](files/Welding_Turn_Off_Gas_By_Tanks.jpg) ![Welding_Turn_off_Gas_Door_Sign.jpg](files/Welding_Turn_off_Gas_Door_Sign.jpg)
 
