@@ -5,10 +5,9 @@ We have a lot of signs around the lab to help people understand what things are 
 - Password for the WiFi, on all the co-working monitors and above front doors in green vinyl.
 - Most of the stations have an orange tile with the name of the station made with black vinyl.
 - On some tools Training Required stickers read: "Notification HeatSync Labs Training Required".
-- [No_Trespassing_Sign.zip](files/No_Trespassing_Sign.zip)
-  *No_Trespassing_Sign.zip*
+- [No_Trespassing_Sign.zip](files/No_Trespassing_Sign.zip) We may need a this in Spanish also.
 
-![General_No_Trespassing.jpg](files/General_No_Trespassing.jpg) ![General_Do_Not_Enter_Stairs.jpg](files/General_Do_Not_Enter_Stairs.jpg) ![General_Emergency_Contact.jpg](files/General_Emergency_Contact.jpg) ![General_Flier_Front.jpg](files/General_Flier_Front.jpg) ![General_Flier_Back.jpg](files/General_Flier_Back.jpg) ![General_Hand_Tools_Sign.jpg](files/General_Hand_Tools_Sign.jpg) ![General_How_To_Use_Calipers.jpg](files/General_How_To_Use_Calipers.jpg) ![General_Push_Bar_To_Open.jpg](files/General_Push_Bar_To_Open.jpg) ![General_Sandwhich_Board_Sign.jpg](files/General_Sandwhich_Board_Sign.jpg) ![General_Snacks_Donate.jpg](files/General_Snacks_Donate.jpg)
+![General_No_Trespassing.jpg](files/General_No_Trespassing.jpg) ![General_Do_Not_Enter_Stairs.jpg](files/General_Do_Not_Enter_Stairs.jpg) ![Info on this sign is outdated.](files/General_Emergency_Contact.jpg) ![General_Flier_Front.jpg](files/General_Flier_Front.jpg) ![General_Flier_Back.jpg](files/General_Flier_Back.jpg) ![General_Hand_Tools_Sign.jpg](files/General_Hand_Tools_Sign.jpg) ![General_How_To_Use_Calipers.jpg](files/General_How_To_Use_Calipers.jpg) ![The lettering is retro-reflective vinyl.](files/General_Push_Bar_To_Open.jpg) ![Fits 11 x 17 printed poster.](files/General_Sandwhich_Board_Sign.jpg) ![General_Snacks_Donate.jpg](files/General_Snacks_Donate.jpg)
 
 ## Laser Station
 
