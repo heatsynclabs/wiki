@@ -30,9 +30,7 @@ When creating new signs in the lab it may be helpful to consider the [ brand sta
   - There is a User drive where you can create a folder with your name to store your files.
   - To access this with LaserCut 5.3 type "\\\Files\Users" into the file open dialogue box.
 
-![](files/Laser_Scap_Sign.png)
-
-*laser scrap sign*
+![Laser_Training_Required.jpg](files/Laser_Training_Required.jpg) ![Laser_Machine_has_no_Brain.jpg](files/Laser_Machine_has_no_Brain.jpg) ![Laser_QR_Code_for_Manual.jpg](files/Laser_QR_Code_for_Manual.jpg) ![Laser_Do_Not_Operate_Unattended.jpg](files/Laser_Do_Not_Operate_Unattended.jpg) ![laser scrap sign](files/Laser_Scap_Sign.png)
 
 ## Machine Shop
 
@@ -40,7 +38,7 @@ When creating new signs in the lab it may be helpful to consider the [ brand sta
 
 ## Sewing
 
-![Sewing_Machine_Certification.jpg](files/Sewing_Machine_Certification.jpg) ![Sewing_Light_Switch.jpg](files/Sewing_Light_Switch.jpg) ![Sewing_Certified_Users.jpg](files/Sewing_Certified_Users.jpg)
+![Sewing_Machine_Certification.jpg](files/Sewing_Machine_Certification.jpg) ![Sewing_Hackerspace_Rulez.jpg](files/Sewing_Hackerspace_Rulez.jpg) ![Sewing_Light_Switch.jpg](files/Sewing_Light_Switch.jpg) ![Sewing_Certified_Users.jpg](files/Sewing_Certified_Users.jpg)
 
 ## Welding
 
@@ -48,4 +46,4 @@ When creating new signs in the lab it may be helpful to consider the [ brand sta
 
 ## Window
 
-![Window_Poster_Left.jpg](files/Window_Poster_Left.jpg) ![hsl_flier_1.pdf](files/Window_Poster_Right.jpg) ![Window_Entrance_Sign_At_108.jpg](files/Window_Entrance_Sign_At_108.jpg) ![Window_We_Don't_Sell_Things.jpg](files/Window_We_Don't_Sell_Things.jpg) ![Window_Wooden_Gear_Sign.jpg](files/Window_Wooden_Gear_Sign.jpg)
+![Window_Poster_Left.jpg](files/Window_Poster_Left.jpg) ![hsl_flier_1.pdf](files/Window_Poster_Right.jpg) ![Window_Entrance_Sign_At_108.jpg](files/Window_Entrance_Sign_At_108.jpg) ![Window_Jewelry_Display.jpg](files/Window_Jewelry_Display.jpg) ![Window_We_Don't_Sell_Things.jpg](files/Window_We_Don't_Sell_Things.jpg) ![Window_Wooden_Gear_Sign.jpg](files/Window_Wooden_Gear_Sign.jpg)
