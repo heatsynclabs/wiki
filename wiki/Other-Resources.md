@@ -6,3 +6,4 @@ There are many tools mentioned on the station pages. This page is to help collec
 - [The manuals google drive](https://drive.google.com/drive/folders/1Q9tLZfRkpWcy8201h225RNJsmACjsP41) has pdfs of of the manuals for many of our tools.
 - [ Class Laptops](Class-Laptops)
 - [LEGO](LEGO)
+- Lock Picking (no page yet). The Lockpicking tools are near the bandsaw and disc sander.
