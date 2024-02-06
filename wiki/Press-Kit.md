@@ -56,6 +56,64 @@ Vector File Ready for the laser or vinyl cutter: [HeattSync_Logo_Simplified_SVG.
 
 *charis_sil.zip*
 
+# Colors
+
+**HSL Orange:**
+
+<div style="display: flex; flex-direction: row; align-items: center; gap: 1rem;">
+
+<div style="display: flex; flex-direction: column; gap: 10px;">
+
+<div>
+
+<strong>RGB</strong>: <span style="font-family: monospace, monospace;">238 159 59</span>
+
+</div>
+
+<div>
+
+<strong>HEX</strong>: <span style="font-family: monospace, monospace;">\#ee9f3b</span>
+
+</div>
+
+<div>
+
+<strong>CMYK</strong>: <span style="font-family: monospace, monospace;">0 33 75 7</span>
+
+</div>
+
+</div>
+
+</div>
+
+**HSL Black**
+
+<div style="display: flex; flex-direction: row; align-items: center; gap: 1rem;">
+
+<div style="display: flex; flex-direction: column; gap: 10px;">
+
+<div>
+
+<strong>RGB</strong>: <span style="font-family: monospace, monospace;">0 0 0</span>
+
+</div>
+
+<div>
+
+<strong>HEX</strong>: <span style="font-family: monospace, monospace;">\#000000</span>
+
+</div>
+
+<div>
+
+<strong>CMYK</strong>: <span style="font-family: monospace, monospace;">76 68 67 90</span>
+
+</div>
+
+</div>
+
+</div>
+
 # Business Card
 
 Layout is for 3.5" x 2" with .125 bleed. (3.75" x 2.25" printed cards, cropped to 3.5" x 2")
