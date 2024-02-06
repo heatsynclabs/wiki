@@ -20,11 +20,7 @@ When creating new signs in the lab it may be helpful to consider the [ brand sta
 
 ## [ 3d Printer Station](3D-Printers)
 
-- <File:3d_Printing_QR_Code.jpg>
-- <File:3d_Printing_Guidelines.jpg>
-- <File:3d_Printing_BYOF.jpg>
-- <File:3d_Printing_Completed_Parts_Bin.jpg>
-- <File:3d_Printing_Wash_Station.jpg>
+![3d_Printing_QR_Code.jpg](files/3d_Printing_QR_Code.jpg) ![3d_Printing_Guidelines.jpg](files/3d_Printing_Guidelines.jpg) ![3d_Printing_BYOF.jpg](files/3d_Printing_BYOF.jpg) ![3d_Printing_Completed_Parts_Bin.jpg](files/3d_Printing_Completed_Parts_Bin.jpg) ![3d_Printing_Wash_Station.jpg](files/3d_Printing_Wash_Station.jpg)
 
 ## Laser Station
 
