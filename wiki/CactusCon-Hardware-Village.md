@@ -4,7 +4,7 @@ The upcoming [CactusCon](https://www.cactuscon.com/) is on Friday and Saturday F
 
 HeatSync Labs helps host the soldering at the hardware village for [CactusCon](https://www.cactuscon.com/) which is an annual information security conference in Arizona.
 
-The soldering event focuses on the conference electronic conference badges which vary from year to year. They typically require some amount of soldering to assemble, and often a prototyping area which they can add things.
+The soldering event focuses on the conference electronic conference badges which varies from year to year. They typically require some amount of soldering to assemble, and often a prototyping area which they can add things.
 
 HeatSync Labs brings out a bunch of soldering iron kits and volunteers to help those just learning soldering, or those who just need to know which steps to take on the current years badge.
 
