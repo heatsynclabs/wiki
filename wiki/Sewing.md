@@ -11,11 +11,13 @@
 
 ***If you already know how to sew...***
 
-- Just use the machines.
-- **Bernina Industrial** machine ***requires*** you to be checked out by the instructor.
-- **Consew Industrial** machine ***requires*** you to be checked out by the instructor.
-- **Husqvarna Embroidery** machine needs instruction.
-- **Baby Lock Serger** needs instruction.
+- Just use the basic sewing machines.
+
+***If you need to use any of these you will need to get checked out during Sewing Night first.***
+
+- Consew Industrial machine
+- Husqvarna Embroidery
+- Baby Lock Serger
 
 ## Embroidery Machine
 
