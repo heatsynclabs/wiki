@@ -1,6 +1,6 @@
 ## Overview
 
-The ideas is easy. Have people fill out [this form](https://www.heatsynclabs.org/register/) and notify them when new events get scheduled that they are interested in.
+The idea is easy. Have people fill out [this form](https://www.heatsynclabs.org/register/) and notify them when new events get scheduled that they are interested in.
 
 The implementation is a work in progress. Currently we are using an Airtable form and then I email when a new event is posted. Not recurring events like Sewing Night, or 3d Printer Day. Since those are already on the calendar.
 
