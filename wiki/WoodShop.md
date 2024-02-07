@@ -73,6 +73,8 @@ Don't get distracted and don't let others distract you while using the tool
 - [Chicago Electric Planer 95838](https://web.archive.org/web/20100926131218/http://www.harborfreight.com/3-1-4-quarter-inch-electric-planer-95838.html) [manual](https://web.archive.org/web/20140327034605/http://manuals.harborfreight.com/manuals/95000-95999/95838.pdf)
 - [Ryobi JS550L Jig Saw](https://556aa8d9de68ea9c4f29-0a8acad11a4df5016d26cc39a7429843.ssl.cf1.rackcdn.com/2/JS550L_574_trilingual.pdf)
 - [Drill Master 61590 Orbital Sander](https://www.harborfreight.com/10-amp-orbital-14-sheet-sander-61311.html) [manual](https://manuals.harborfreight.com/manuals/61000-61999/61509.pdf)
+- [Craftsman 1/2-in Hammer Drill (7 Amp)](https://www.craftsman.com/products/cmed741/1-2-in-hammer-drill-7-amp) [manual](https://www.toolservicenet.com/i/CRAFTSMAN/GLOBALBOM/QU/CMED741/1/Instruction_Manual/EN/N638229_CMED741.pdf)
+- [Rockwell 4-1/2″ Compact Circular Saw](https://www.homedepot.com/p/Rockwell-4-1-2-in-5-Amp-Compact-Circular-Saw-RK3441K/204754147) [manual](https://images.thdstatic.com/catalog/pdfImages/13/138d9596-b8cc-4466-b592-13c50b1a2ee6.pdf)
 
 # Wanted
 
