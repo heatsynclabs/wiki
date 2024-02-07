@@ -66,19 +66,19 @@ Vector File Ready for the laser or vinyl cutter: [HeattSync_Logo_Simplified_SVG.
 
 <div>
 
-<strong>RGB</strong>: <span style="font-family: monospace, monospace;">238 159 59</span>
+<strong>RGB</strong>: <span style="font-family: monospace, monospace;">249 155 12</span>
 
 </div>
 
 <div>
 
-<strong>HEX</strong>: <span style="font-family: monospace, monospace;">\#ee9f3b</span>
+<strong>HEX</strong>: <span style="font-family: monospace, monospace;">\#F99B0C</span>
 
 </div>
 
 <div>
 
-<strong>CMYK</strong>: <span style="font-family: monospace, monospace;">0 33 75 7</span>
+<strong>CMYK</strong>: <span style="font-family: monospace, monospace;">0 38 95 2</span>
 
 </div>
 
@@ -94,19 +94,19 @@ Vector File Ready for the laser or vinyl cutter: [HeattSync_Logo_Simplified_SVG.
 
 <div>
 
-<strong>RGB</strong>: <span style="font-family: monospace, monospace;">0 0 0</span>
+<strong>RGB</strong>: <span style="font-family: monospace, monospace;">44 44 41</span>
 
 </div>
 
 <div>
 
-<strong>HEX</strong>: <span style="font-family: monospace, monospace;">\#000000</span>
+<strong>HEX</strong>: <span style="font-family: monospace, monospace;">\#2C2C29</span>
 
 </div>
 
 <div>
 
-<strong>CMYK</strong>: <span style="font-family: monospace, monospace;">76 68 67 90</span>
+<strong>CMYK</strong>: <span style="font-family: monospace, monospace;">0 0 7 83</span>
 
 </div>
 
