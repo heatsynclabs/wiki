@@ -2,7 +2,7 @@
 
 We have a lot of signs around the lab to help people understand what things are about.
 
-This page will help document the signage and hopefully link to versions and details of signs in case updates are needed later.
+This page will document the signage and where available links will be added to the original files in case updates are needed later.
 
 Darrell has added QR Codes on many of the tools in the lab linking the user manual. Many tools will require additional and more specific safety precautions not outlined on other signage in the lab.
 
