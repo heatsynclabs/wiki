@@ -23,7 +23,6 @@
 <ul>
 <li><a href="Operational-Policies">Operational Policies</a></li>
 </ul></li>
-<li><a href="Equipment-Documentation">Equipment Documentation</a></li>
 <li><a href="Open-Hours">Open Hours</a></li>
 </ul>
 <div style="margin:0;background-color:#e0ffe0;font-size:120%;font-weight:bold;border:1px solid #80e080;text-align:left;color:#000;padding:0.2em 0.4em;">
