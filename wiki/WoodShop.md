@@ -8,7 +8,7 @@ Join us on [Woodworking Day](Woodworking-Day) to get started on a project or get
 
 Always ask before using our tools for the first time. You must have a waiver filled out. If you don't know what you are doing ask for help.
 
-These were some general safety precautions. Other safety precautions may apply to specific tools
+These are some general safety precautions. Other safety precautions may apply to specific tools
 
 If you are tired, sick, or under the influence of drugs (prescription or otherwise) do not use the tools.
 
@@ -28,16 +28,14 @@ Don't get distracted and don't let others distract you while using the tool
 - Long sleeves
 - Tie or scarf
 - Long hair that is loose (use a hat or put into a ponytail)
-- Jewelry; rings, watches,bracelets, long necklaces
-
-<!-- -->
-
+- Jewelry; rings, watches, bracelets, long necklaces
 - **Check the environment for risks to yourself and others**
   - Electric cords or other trip hazards
   - Things that may be in the way or get knocked over
   - Lighting is sufficient
   - Those nearby are wearing proper safety equipment as well
-- **Check the tool** while turned off AND unplugged
+- **Check and adjust the tool** only while turned off AND unplugged
+  - Be sure they are turned off and bits or blades are clear when plugging them in
   - bits or blades are firmly in place
   - Tool is in a safe position and won't tip/fall
   - No signs of damage to the blades, bits, power cord
@@ -50,8 +48,6 @@ Don't get distracted and don't let others distract you while using the tool
   - Clamp the material if it needs to stay in place
 - Alert others before you begin (glasses, dust, noise)
 - Cut away from you, think "where are my hands and fingers going to end up?"
-- Adjust tools when they are turned off and unplugged
-  - Be sure they are turned off and bits or blades are clear when plugging them in
 - Never start the tool with the wood in contact with the cutting surface
 - Wait for the tool to stop rotating before attempting to do any cleanup
 - Keep hands away from the cutting tools and moving parts
