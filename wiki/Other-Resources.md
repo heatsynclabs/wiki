@@ -1,5 +1,3 @@
-There are other resources
-
 There are many tools mentioned on the station pages. This page is to help collect other resources that are not station specific.
 
 - [The Tool Database](https://members.heatsynclabs.org/resources) is available via our member website. The details of tools may be very out of date.
