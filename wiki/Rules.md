@@ -2,7 +2,7 @@
 
 ### Eligibility
 
-HeatSync membership is open to the public, but use of certain equipment and key/security code may require further training, certification or approvals. We do not discriminate based on age (providing that the user is capable of operating the tool, a minor may need to be accompanied by a parent for liability reasons but may still become certified), gender, sexual preference, race, religion, or geek factor. Denied applications may be appealed.
+HeatSync membership is open to the public, but use of certain equipment and key/security code may require further training, certification or approvals. We do not discriminate based on age (providing that the user is capable of operating the tool, a minor may need to be accompanied by a parent for liability reasons but may still become certified), gender, sexual preference, race, religion, or geek factor.
 
 ### Membership Tiers
 
