@@ -6,9 +6,13 @@ Darrell Wertz is the current station champion. Post on the Slack Metal channel i
 
 # Tools
 
-- [Mini Mill Central Machinery](https://drive.google.com/drive/folders/1CGHt1VYwuXsn87sUDjLvvVM7yX74rRln)
+- [Mini Mill](Mini-Mill)
+  - [Mini Mill Central Machinery](https://drive.google.com/drive/folders/1CGHt1VYwuXsn87sUDjLvvVM7yX74rRln)
 - [The Blue Mill](https://drive.google.com/drive/folders/1rQvzQoBe5gYBewk1EDHVS26EffbWSkcz). Parts of a Sheldon and Rosnok (not 100% sure)
-- [CNC Mill](https://drive.google.com/drive/folders/1PlVlGvG7gO5_BHSXrYuvUXZfxU7Ucfy5). Someone's DIY conversion from a manual mill to a CNC
+- [CNC Mill](CNC-Mill)
+  - [CNC Mill Notes](CNC-Mill-Notes)
+  - [CNC Mill Certification Class](CNC-Mill-Certification-Class)
+  - [CNC Mill](https://drive.google.com/drive/folders/1PlVlGvG7gO5_BHSXrYuvUXZfxU7Ucfy5). Someone's DIY conversion from a manual mill to a CNC
 - [Mini Lathe, Central Machinery 7” X 12”](https://drive.google.com/drive/folders/1465_BNyzSojuNdEP8eI4q3MkK8QjBU4k)
 - [Lathe, Central Machinery 12" x 36"](https://drive.google.com/drive/folders/1YMXmLKHHkvugjgMKRKH9hlVdW5lJUYFM)
 - [Drill Press, Grizzly 12-Speed](https://drive.google.com/drive/folders/1008czzKdP4ZpoQL8Nc21ghQkobBGQqEB)
