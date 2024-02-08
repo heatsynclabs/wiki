@@ -40,7 +40,7 @@ When creating new signs in the lab it may be helpful to consider the [ brand sta
   - There is a User drive where you can create a folder with your name to store your files.
   - To access this with LaserCut 5.3 type "\\\Files\Users" into the file open dialogue box.
 
-![Laser_Training_Required.jpg](files/Laser_Training_Required.jpg) ![Laser_Machine_has_no_Brain.jpg](files/Laser_Machine_has_no_Brain.jpg) ![Laser_QR_Code_for_Manual.jpg](files/Laser_QR_Code_for_Manual.jpg) ![Laser_Do_Not_Operate_Unattended.jpg](files/Laser_Do_Not_Operate_Unattended.jpg) ![laser scrap sign](files/Laser_Scap_Sign.png)
+![Laser_Training_Required.jpg](files/Laser_Training_Required.jpg) ![Laser_Machine_has_no_Brain.jpg](files/Laser_Machine_has_no_Brain.jpg) ![Laser_Donation_Box.jpg](files/Laser_Donation_Box.jpg) ![Laser_QR_Code_for_Manual.jpg](files/Laser_QR_Code_for_Manual.jpg) ![Laser_Do_Not_Operate_Unattended.jpg](files/Laser_Do_Not_Operate_Unattended.jpg) ![laser scrap sign](files/Laser_Scap_Sign.png)
 
 ## [Machine Shop](Machine-Shop)
 
