@@ -8,6 +8,8 @@ Darrell has added QR Codes on many of the tools in the lab linking the user manu
 
 When creating new signs in the lab it may be helpful to consider the [ brand standards](Press-Kit#logo-pack-brand-standards).
 
+Many of the donation bins were made by David Flores and the front panels can be removed and updated.
+
 ## General Signage
 
 - Password for the WiFi, on all the co-working monitors and above front doors in green vinyl.
