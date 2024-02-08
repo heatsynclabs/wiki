@@ -1,6 +1,6 @@
 ## Overview
 
-The plan is to have a day where we have people making and playing a variety of games. We will showcase different tools that can be used for making games including the laser, 3d printer, soldering and more. The hope is to make this a fun annual event and grow our collection of shared files of things to make.
+The plan is to have a day where people make and play a variety of games with different tools including the laser, 3d printer, soldering and more. The hope is to make this a fun annual event and grow our collection of shared files of things to make.
 
 ## Date
 
