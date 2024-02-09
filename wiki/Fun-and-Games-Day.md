@@ -1,12 +1,8 @@
-## Overview
+## When
 
-The plan is to have a day where people make and play a variety of games with different tools including the laser, 3d printer, soldering and more. The hope is to make this a fun annual event and grow our collection of shared files of things to make.
+Saturday 03/09/2024 any time from 11am - 5pm
 
-## Date
-
-Saturday 03/09/2024
-
-This will be during I Love Mesa Day so there will be a lot of foot traffic.
+This is during I Love Mesa Day when there will be a lot going on downtown.
 
 ## Description
 
