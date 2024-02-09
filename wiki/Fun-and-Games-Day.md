@@ -6,7 +6,7 @@ This is during I Love Mesa Day when there will be a lot going on downtown.
 
 ## Description
 
-Come have fun making and playing games. We will be making games, puzzles, and toys with the laser cutter, 3d printer, soldering irons and other tools in the lab. This free event is for everyone. Anyone under 18 must have an adult with them.
+Come have fun making and playing games. We will be making and giving away free games, puzzles, and toys with the laser cutter, 3d printer, soldering irons and other tools in the lab. This free event is for everyone. Anyone under 18 must have an adult with them.
 
 ## History
 
