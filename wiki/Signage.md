@@ -50,9 +50,7 @@ Many of the donation bins were made by David Flores and the front panels can be 
 
 ## [ Electronics and Microcontrollers](Electronics)
 
-![](files/Microcontroller_Donation_Box.jpg)
-
-*Microcontroller_Donation_Box.jpg*
+![Microcontroller_Donation_Box.jpg](files/Microcontroller_Donation_Box.jpg) ![Electronics_Microcontroller_Sign.png](files/Electronics_Microcontroller_Sign.png) ![Electronics_Soldering_Sign.png](files/Electronics_Soldering_Sign.png) ![Electronics_Donation_Box.png](files/Electronics_Donation_Box.png) ![Electronics_Soldering_Sign_2.png](files/Electronics_Soldering_Sign_2.png) ![Electronics_Soldering_Instructions.png](files/Electronics_Soldering_Instructions.png)
 
 ## [Sewing](Sewing)
 
