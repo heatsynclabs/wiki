@@ -79,7 +79,7 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 - [Smokey Hill Designs](https://smokeyhilldesigns.com/).
 - [CMB Acrylic](https://www.custommadebetter.com/). Thanks Jenn K. for the suggestion.
 - [Toolfoam.com](http://toolfoam.com/) This is for drawer tool insert. Thanks Jot for the suggestion.
-  - Please note excessive foam cutting is very messy. Talk to Nate about helping him clean the vents if you cut a lot.
+  - Please foam cutting is very messy. Talk to Nate about helping him clean the vents if you cut a lot.
 
 ## Q: Where can I buy materials locally?
 
