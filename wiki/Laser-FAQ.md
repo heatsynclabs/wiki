@@ -14,7 +14,7 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
 
 ## Q: Is the 80 W laser log accessible on both computers?
 
-- Both of them can be accessed from anywhere on the internet [ 80W](Large-80W-Laser#logs), and [ 60W](Mini-60W-Laser#size).
+- Both of them can be accessed from anywhere on the internet [ 80W Logs](Large-80W-Laser#logs), and [ 60W Logs](Mini-60W-Laser#logs).
 
 ## Q: How do I design a project for the laser cutter? OR What software do I use to design a project for the laser cutter?
 
