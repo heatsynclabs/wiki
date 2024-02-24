@@ -27,13 +27,6 @@ If there is an event you would like us to host or make an appearance at, please 
 - [CactusCon](https://www.cactuscon.com/) Arizona's annual information security conference
 - [Other pages about events](https://wiki.heatsynclabs.org/wiki/Category:Events)
 
-## Past Events
-
-- [HotTopics](HotTopics)
-- [One Year Anniversary Party](Laser-Mustache-Party)
-- [First Friday](First-Friday)
-- [Makerfaire](Makerfaire)
-
 ## See Also
 
 - [Fundraising](Fundraising)
@@ -134,8 +127,16 @@ If you have something you'd like to see, please add it in a bullet here. Maybe t
 
 - [Developing Maintainable Software](Presentations-DMS)
 
-### Past Presentation Topics
+## Past Events
 
+[Group post of all events prior to 2017](https://groups.google.com/g/heatsynclabs/c/zS3v8zAV5fQ/m/sbzW0sxWBgAJ)
+
+- [HotTopics](HotTopics)
+- [One Year Anniversary Party](Laser-Mustache-Party)
+- [First Friday](First-Friday)
+- [Makerfaire](Makerfaire)
+- [Physical_Data_Recovery](Physical-Data-Recovery)
+- Arduino and VOIP - [Dial-a-Lulz](Dial-a-Lulz)
 - Astronomy
 - Eagle PCB Layout and Design
 - PCB Chemical Etching,Heat Transfer, with FeCl
@@ -155,9 +156,7 @@ If you have something you'd like to see, please add it in a bullet here. Maybe t
 - EL Wire
 - Monster party-everyone brings plushie and we tear them up to be reassembled--also do some actuators, lights, sound things for people to add in(programmable greeting card sounds, 555 timer leds)
 - Coffee Science and Arduino
-- Arduino and VOIP - [Dial-a-Lulz](Dial-a-Lulz)
 - CAD/CAM
-- [Physical_Data_Recovery](Physical-Data-Recovery)
 - Intel Meego App Up
 - Electron Microscopy
 - Arissat 1 - an amateur satellite launched from the International Space Station
