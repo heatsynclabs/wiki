@@ -70,11 +70,6 @@ In order to properly schedule and publicize workshop events hosts should submit 
 - Student age limits
 - Instructor bio, digital image of logo or artwork to be publicized
 
-## Financial & Liability Agreement
-
-- Instructor shall indemnify and hold HeatSync Labs harmless against any actions, claims, suits, losses, damages, judgments, costs, expenses, and liabilities (including, without limitation, attorney fees arising directly or indirectly out of the Instructors activities under this agreement). Such indemnity and agreement to hold harmless shall include, but not be limited to, loss or damage resulting from the violation by the Instructor, it's officers, agents, or employees of an applicable laws or regulations of any governmental authority in the use of premise and equipment.
-- Nothing herein shall constitute the parties to this agreement as partners or joint ventures, and the Instructor acknowledges that s/he is an independent contractor and has no authority of any kind to bind HeatSync Labs in any way. Instructor agrees not to act or represent to others that s/he is an employee or agent of HeatSync Labs and HeatSync Labs has no obligation or duty of any kind to pay any expenses or costs of any sort incurred by the Instructor.
-
 # Presentations
 
 HeatSync Labs is always looking for more presentations to host at our monthly meetings. What would you like to hear about and what knowledge can you impart to the rest of us? The following list is a record of past presenters and presentations topics. We hope to upload presentation slides/videos in the future. Also, feel free to request a presentation on a topic you are interested in; chances are someone may in a group may know something about it. You can also request a repeat of a previous presentation.
