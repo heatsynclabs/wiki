@@ -33,7 +33,6 @@ If there is an event you would like us to host or make an appearance at, please 
 Our current policy is the following: Ticket prices are set by the instructor. 30% of profits goes to HeatSync Labs 70% to instructors.
 
 - Instructors may offer a discount ticket price for members
-- HeatSync Labs will receive a contribution of one third the class fee.
 - Instructor amount = (total ticket sales - materials costs) \* 70%
 - HeatSync Labs amount = (Total ticket sales - materials cost) \* 30%
 
