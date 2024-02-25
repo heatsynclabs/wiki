@@ -36,13 +36,6 @@ If there is an event you would like us to host or make an appearance at, please 
 - Instructor should fill out the online [Event Scheduling Request form](https://forms.gle/74kL9RutY2e3WDtZA).
 - Instructor should be prepared to start the workshop at the start time and conclude at the end time.
 
-## Student Responsibilities
-
-- Please arrive 10-15 minutes before the workshop is set to start so there is enough time to check in.
-- If you can't make it to the workshop you must contact the instructor before the start of the class to release your seat; otherwise, you will not be afforded a refund.
-- While all workshops are subject to change, we make every attempt to notify all registered participants. Please ensure that we have the correct contact information on file to contact you in the event of a schedule change or class cancellation
-- When you come to events please wear appropriate attire for the tools you will be using. Read the event description for relevant details. For example wearing closed-toe shoes and clothes made with natural fibers for welding classes.
-
 ## Guidelines on Ticket Prices
 
 Our current policy is the following: Ticket prices are set by the instructor. 30% of profits goes to HeatSync Labs 70% to instructors.
