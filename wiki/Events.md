@@ -1,7 +1,5 @@
 # Events
 
-If there is an event you would like us to host or make an appearance at, please fill out the [event form](https://forms.gle/74kL9RutY2e3WDtZA).
-
 ## Recurring Events
 
 - [Open Hours](Open-Hours)
