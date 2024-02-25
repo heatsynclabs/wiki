@@ -57,11 +57,6 @@ Our current policy is the following: Ticket prices are set by the instructor. 30
 - Instructor amount = (total ticket sales - materials costs) \* 70%
 - HeatSync Labs amount = (Total ticket sales - materials cost) \* 30%
 
-## Instructor
-
-- HSL will provide final payment up to 2 business days after completion of the workshop
-- Instructors amounts will be calculated as follows:
-
 ## Guidelines On "Certification" Workshops
 
 Certification workshops are those which are used to train membership on usage of some of our more dangerous/expensive tools. The tools which require certification to use are chosen by the tools' station heads.
