@@ -1,8 +1,6 @@
-Community growth and development is important to us. One of our goals as a nonprofit in the greater Phoenix metropolitan area is to play an active role in bringing about this change. We believe that this will be reflected through our involvement in community events.
-
-If there is an event you would like us to host or make an appearance at, please [fill out the event form](https://forms.gle/74kL9RutY2e3WDtZA).
-
 # Events
+
+If there is an event you would like us to host or make an appearance at, please fill out the [event form](https://forms.gle/74kL9RutY2e3WDtZA).
 
 ## Recurring Events
 
@@ -27,18 +25,7 @@ If there is an event you would like us to host or make an appearance at, please 
 - [CactusCon](https://www.cactuscon.com/) Arizona's annual information security conference
 - [Other pages about events](https://wiki.heatsynclabs.org/wiki/Category:Events)
 
-## See Also
-
-- [Fundraising](Fundraising)
-
 # Workshops
-
-The HeatSync Labs Workshops' core goals include:
-
-- Providing a strong independent educational infrastructure for HeatSync Labs members and community
-- Outreach to public offering safe opportunities to enjoy the HeatSync Labs premises and equipment
-- Serve as a venue to share experiences, lessons and information
-- Building an on-going learning network for makers
 
 ## HeatSync Labs Responsibilities
 
@@ -114,8 +101,6 @@ In order to properly schedule and publicize workshop events hosts should submit 
 
 HeatSync Labs is always looking for more presentations to host at our monthly meetings. What would you like to hear about and what knowledge can you impart to the rest of us? The following list is a record of past presenters and presentations topics. We hope to upload presentation slides/videos in the future. Also, feel free to request a presentation on a topic you are interested in; chances are someone may in a group may know something about it. You can also request a repeat of a previous presentation.
 
-If you are interested in presenting a topic at one of our meetings, please contact one of the Board members.
-
 ### Presentation Suggestions for the Future
 
 If you have something you'd like to see, please add it in a bullet here. Maybe tie in a monthly theme regarding a particular item or technique (i.e. casting, milling, or spinning) and include a monthly demo. Try to focus on fundamental materials or methods to build on previously covered topics.
@@ -168,6 +153,10 @@ If you have something you'd like to see, please add it in a bullet here. Maybe t
 - Leatherworking
 - Retro Gaming
 - Electronic Music
+
+## See Also
+
+- [Fundraising](Fundraising)
 
 ---
 *Categories: [Events](Category-Events)*
