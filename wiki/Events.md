@@ -6,6 +6,7 @@ If there is an event you would like us to host or make an appearance at, please 
 
 - [Open Hours](Open-Hours)
 - Coffee & Coworking weekly on Wednesdays 9am - 3pm.
+- Blender Buddies weekly on Fridays 4pm - 6pm.
 - [Arduino Night](Arduino-Night) monthly 1st Wednesday 7pm - 10pm.
 - Sewing Night monthly 2nd Tuesday 7pm - 10pm.
 - [Monthly Laser Meetup](Monthly-Laser-Meetup) 1st Sunday 10am - 2pm.
