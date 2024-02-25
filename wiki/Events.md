@@ -28,12 +28,6 @@ If there is an event you would like us to host or make an appearance at, please 
 
 # Workshops
 
-## HeatSync Labs Responsibilities
-
-- HSL will publicize the event on HeatSync Labs specific websites and social media outlets.
-- HSL will provide the venue, table, chairs and utilities
-- HSL can host the event registration if desired
-
 ## Instructor Responsibilities
 
 - Instructor agrees to honor the spirit of collegiality and professionalism while conducting Workshops within HeatSync Labs
