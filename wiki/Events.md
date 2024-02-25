@@ -26,13 +26,15 @@
 
 # Host Events
 
+## How To
+
 You do not need to be a member to host events. If you are charging for a class/workshop you can get paid for the event. Events should support our non-profit educational mission.
 
 **To host an event**
 
 - Check the calendar on our home page for a time when there are no conflicting events.
 - Fill out the [Event Scheduling Request form](https://forms.gle/74kL9RutY2e3WDtZA).
-- You'll get a respond with any questions or an message the calendar has been updated.
+- You'll get a respond with any questions or a message the calendar has been updated.
 
 ## Guidelines on Ticket Prices
 
