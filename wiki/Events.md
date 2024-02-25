@@ -57,11 +57,6 @@ Instructor Eligibility:
 - One must be a member in good standing with HeatSync Labs
 - One must be already certified on the tools before you are authorized to teach
 
-## Cancellations, No-shows, and Refunds
-
-- Should the workshop fail to sign the minimum participants by 14 days prior to the workshop, the workshop will be canceled and refunds issued to the participants who paid
-- HSL will not be held responsible for any fees to Instructor if workshop is canceled for any reason. We will make every possible effort to notify Instructor in advance of any unforeseen problems that may arise which would cause the workshop to be canceled other than the below minimum enrollment as previously stated.
-
 ## Scheduling
 
 In order to properly schedule and publicize workshop events hosts should submit the following to details preferably 2 or more weeks in advance:
