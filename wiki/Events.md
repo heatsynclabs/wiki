@@ -28,14 +28,6 @@ If there is an event you would like us to host or make an appearance at, please 
 
 # Workshops
 
-## Instructor Responsibilities
-
-- Instructor agrees to honor the spirit of collegiality and professionalism while conducting Workshops within HeatSync Labs
-- Instructor agrees to abide by current HeatSync Labs policies and procedures
-- Instructor understands that the HeatSync membership is overall small and that the economics support targeting OUTSIDE the HeatSync community by marketing to friends/family, coffee shops, workplaces, schools, etc
-- Instructor should fill out the online [Event Scheduling Request form](https://forms.gle/74kL9RutY2e3WDtZA).
-- Instructor should be prepared to start the workshop at the start time and conclude at the end time.
-
 ## Guidelines on Ticket Prices
 
 Our current policy is the following: Ticket prices are set by the instructor. 30% of profits goes to HeatSync Labs 70% to instructors.
