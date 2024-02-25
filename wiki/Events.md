@@ -26,7 +26,15 @@ If there is an event you would like us to host or make an appearance at, please 
 - [CactusCon](https://www.cactuscon.com/) Arizona's annual information security conference
 - [Other pages about events](https://wiki.heatsynclabs.org/wiki/Category:Events)
 
-# Workshops
+# Host Events
+
+You do not need to be a member to host events. If you are charging for a class/workshop you can get paid for the event. Events should support our non-profit educational mission.
+
+**To host an event**
+
+- Check the calendar on our home page for a time when there are no conflicting events.
+- Fill out the [Event Scheduling Request form](https://forms.gle/74kL9RutY2e3WDtZA).
+- You'll get a respond with any questions or an message the calendar has been updated.
 
 ## Guidelines on Ticket Prices
 
@@ -47,19 +55,6 @@ Instructor Eligibility:
 
 - One must be a member in good standing with HeatSync Labs
 - One must be already certified on the tools before you are authorized to teach
-
-## Scheduling
-
-In order to properly schedule and publicize workshop events hosts should submit the following to details preferably 2 or more weeks in advance:
-
-- Workshop Title
-- Date to be held
-- Start and end time
-- Maximum Class Size
-- Minimum Class Size
-- Workshop Description
-- Student age limits
-- Instructor bio, digital image of logo or artwork to be publicized
 
 # Presentations
 
