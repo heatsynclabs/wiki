@@ -1,6 +1,6 @@
 ## Objective
 
-Make it easier for people who are knew to figure things out.
+Make it easier for people who are new to figure things out.
 
 This isn't a project, but more of an overall goal/objective and will consist of sub-projects that aid this goal.
 
