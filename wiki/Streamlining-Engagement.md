@@ -26,6 +26,10 @@ The [ Hosting Spreadsheet](Hosting-Signup-Solution) helps us reduce the times wh
 
 I worked on the [VolunteerMatch](VolunteerMatch) project in part to get new people to co-host.
 
+Hosting [Woodworking_Day](Woodworking-Day) and looking for someone with more experience to help with it.
+
+Working on Metal Mondays to have a regular monthly event for machining and metal working.
+
 The [ Event Notifications](Event-Notifications) project is to make sure people that learn about the lab can get reminders about events they will be interested in.
 
 The [ Station Screensavers](Station-Screensavers) are meant to help people who are new see the possibilities and get inspired.
