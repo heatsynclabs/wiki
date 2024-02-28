@@ -10,13 +10,15 @@ If you are only doing the first event you can make your own non-electronic robot
 
 ## Design A Bot
 
+Build-A-Bot is 2 events \$15 each, \$30 total tickets sold separately.
+
 In this class Eric Ose will show you how to create vector designs with Inkscape for use with the vinyl cutter or laser cutter. How to import images and trace them, how to trace things manually, how to edit nodes, how to combine shapes to make new shapes, how to deal with objects as well as exporting to dxf for the 80 Watt laser cutter.
 
-We will be using Inkscape 1.3 (or later release). Bring your own laptop with it installed or select a "Laptop Provided" ticket.
+We will be using Inkscape 1.3 (or later release). Laptops are provided, but you can also bring your own laptop with it installed and select a "Bring Your Own Laptop" ticket.
 
-This class works as a solo class or as part of the Build-A-Bot series of classes. See this link for more details. It is also best for adults and kids age 10 and up, but parents can work with their younger kids if they want.
+This class works as a solo class or as part of the Build-A-Bot series. See this link for more details. It is also best for adults and kids age 10 and up, but parents can work with their younger kids if they want.
 
-At the end of class we will laser cut as many of the robots we can. We may not be able finish all of them in which case those doing the second class may need to laser cut them as we start. Feel free to bring any other designs to the Monthly Laser Meetup.
+At the end of class we will laser cut the robots.
 
 ## Solder a Robot
 
