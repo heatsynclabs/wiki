@@ -8,7 +8,7 @@ If you are only doing the first event you can make your own non-electronic robot
 
 **[Build-A-Bot! - Monday 02/12/24 6pm](https://guestlist.co/events/767514)** Anyone age 7 and up can solder a robot. We will have several robots to choose from if you don't have a custom design already.
 
-## Design A Bot
+## Inkscape Design Class / Design A Bot
 
 Build-A-Bot is 2 events \$15 each, \$30 total tickets sold separately.
 
