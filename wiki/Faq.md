@@ -62,7 +62,7 @@ There is a collect your stuff shelf by the member box storage behind the gray Te
 
 # Q: I broke a tool, what do I do?
 
-No big deal! If its a small hand tool or bit, place it in the broken tools bin. It is as of this writing a plastic bin placed near the first aid kit at the entry to the shop. Also notify the [https://wiki.heatsynclabs.org/wiki/Operations_team station champions](https://wiki.heatsynclabs.org/wiki/Operations_team_station_champions) and/or post it to the relevant Slack Channel or on the discussion group.
+No big deal! If its a small hand tool or bit, place it in the broken tools bin. It is as of this writing a plastic bin placed near the first aid kit at the entry to the shop. Also notify the [ station champions](Operations-team) and/or post it to the relevant Slack Channel or on the discussion group.
 
 # Q: Where do I park?
 
