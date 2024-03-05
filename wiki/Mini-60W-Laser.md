@@ -14,7 +14,7 @@ These lists are not exhaustive. If your material is not on either list, ask firs
 
 # Size
 
-Bed dimensions are are approximately 70 cm x 50 cm (27.5" x 19.6")
+You can fit material that is 75cm x 65cm and cut material that is just under 70cm x 50cm (27.5" x 19.6"). No luck cutting exactly 70cm x 50cm 2mm smaller on each worked though.
 
 # Turn on the laser
 
