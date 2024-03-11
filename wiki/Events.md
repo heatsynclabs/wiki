@@ -7,6 +7,7 @@
 - Blender Buddies weekly on Fridays 4pm - 6pm.
 - [Arduino Night](Arduino-Night) monthly 1st Wednesday 7pm - 10pm.
 - Sewing Night monthly 2nd Tuesday 7pm - 10pm.
+- Tabletop Gaming Night (fundraiser) 2nd Friday 6pm - 10pm.
 - [Monthly Laser Meetup](Monthly-Laser-Meetup) 1st Sunday 10am - 2pm.
 - 3d Printer Day monthly 1st Sunday noon - 5pm.
 - [Woodworking Day](Woodworking-Day) 4th Saturday of the month 1pm - 4pm.
