@@ -238,6 +238,11 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 
 - The U: Drive is for user folders. Create a folder with your name and put copies of your work in there. Good idea to back them up somewhere else also.
 
+## Q: How does the software determine which parts are an engrave / fill?
+
+- Typically any lines that are the same color that are set to fill will be treated as one group. "Islands" or overlapping areas will result in a reversal of the engrave. In LightBurn you can break apart things of the same colors so it isn't clear if there would be ways to do that prior to importing.
+- Also in LightBurn if you import a design with a filled color it will interpret it as needing to be set to fill. Though in LaserCut 5.3 you will need to manually assign if something is a cut or an engrave.
+
 # Cleaning questions
 
 ## Q: Where is the isopropyl (rubbing alcohol)?
