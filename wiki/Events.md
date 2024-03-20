@@ -3,6 +3,7 @@
 ## Recurring Events
 
 - [Open Hours](Open-Hours) Mon- Wed 7pm - 10pm, Sat noon - 5pm.
+- Member Hours Tuesdays 10:30 am - 1:00 pm.
 - Coffee & Coworking weekly on Wednesdays 9am - 3pm.
 - Blender Buddies weekly on Fridays 4pm - 6pm.
 - [Arduino Night](Arduino-Night) monthly 1st Wednesday 7pm - 10pm.
