@@ -66,6 +66,7 @@ Don't get distracted and don't let others distract you while using the tool
 - [JET JDS-12B Benchtop 12” Disc Sander](https://s3.amazonaws.com/jpw-assets/9/e/5/3/9e53eee2808ffbfc37fa2955d71ac9fd509ae043_m_708433.pdf)
 - Task Force T1314 router with 1034 router table, plus [Worksmith 30 piece router bit set](https://wiki.heatsynclabs.org/w/images/d/d9/Worksmith_Router_Bit_Set.png)
   - Jot modified this to have a height adjustment rod accessible from the top with a nut. [video](https://youtu.be/ZbNMR67UIno?t=64)
+- Fixed Base Router Rigid R2911, [Manual](https://manuals.ttigroupna.com/system/files/13149/original/R29303_676_trilingual_04.pdf?2024), [Repair Sheet](https://manuals.ttigroupna.com/system/files/10798/original/R29303_676_r_01.pdf?2018)
 - [Dewalt Staple Gun (5-in-1 Multi-Tacker)](https://www.dewalt.com/product/dwhttr510/5-1-multi-tacker)
 - [Bessey strap clamp (Variable angle VAS+2K)](https://www.bessey.de/en-us/bessey-tools-north-america/products/clamping-tools/strap-clamps/variable-angle)
 - [SKIL Sheet Palm Sander 7292](https://www.skil.com/sheet-sander-7292-02/)
