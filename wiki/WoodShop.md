@@ -75,6 +75,10 @@ Don't get distracted and don't let others distract you while using the tool
 - [Drill Master 61590 Orbital Sander](https://www.harborfreight.com/10-amp-orbital-14-sheet-sander-61311.html) [manual](https://manuals.harborfreight.com/manuals/61000-61999/61509.pdf)
 - [Craftsman 1/2-in Hammer Drill (7 Amp)](https://www.craftsman.com/products/cmed741/1-2-in-hammer-drill-7-amp) [manual](https://www.toolservicenet.com/i/CRAFTSMAN/GLOBALBOM/QU/CMED741/1/Instruction_Manual/EN/N638229_CMED741.pdf)
 - [Rockwell 4-1/2″ Compact Circular Saw](https://www.homedepot.com/p/Rockwell-4-1-2-in-5-Amp-Compact-Circular-Saw-RK3441K/204754147) [manual](https://images.thdstatic.com/catalog/pdfImages/13/138d9596-b8cc-4466-b592-13c50b1a2ee6.pdf)
+- Skilsaw Model 5587 circular saw
+- Skilsaw Model 5275 circular saw
+- Craftsman Circular Saw Model 315.10860
+- Ryobi 18V ONE+ 5-1/2" Circular Saw [manual](https://556aa8d9de68ea9c4f29-0a8acad11a4df5016d26cc39a7429843.ssl.cf1.rackcdn.com/2/P505_625_trilingual_05.pdf), [Repair Sheet](https://556aa8d9de68ea9c4f29-0a8acad11a4df5016d26cc39a7429843.ssl.cf1.rackcdn.com/2/P505_622_r_06.pdf)
 
 # Wanted
 
