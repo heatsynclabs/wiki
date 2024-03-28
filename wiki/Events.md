@@ -2,27 +2,27 @@
 
 ## Recurring Events
 
-- 3d Printer Day monthly 1st Sunday noon - 5pm.
-- [Arduino Night](Arduino-Night) monthly 1st Wednesday 7pm - 10pm.
-- [AZ Haunters](https://azhaunters.com/) meets most months for Halloween themed making at the lab. Als on [Facebook](https://www.facebook.com/AZHaunters).
-- Blender Buddies weekly on Fridays 4pm - 6pm.
-- Coffee & Coworking weekly on Wednesdays 9am - 3pm.
-- [Google Developer Group](https://www.meetup.com/phx-android/) 3rd Thursdays 7pm.
-- [Group Programming Practice -Leetcode](https://www.meetup.com/arizona-codes/) meets on the Last Wednesday of the month 7pm - 9pm.
-- [Hack Your Hackerspace](Hack-Your-Hackerspace) bi-monthly 2nd and 4th Thursdays 7pm.
-- Member Hours Tuesdays 10:30 am - 1:00 pm.
-- Metal Mondays 2nd Monday every month 6pm - 9pm.
-- [Monthly Laser Meetup](Monthly-Laser-Meetup) 1st Sunday 10am - 2pm.
-- [Open Hours](Open-Hours) Mon- Wed 7pm - 10pm, Sat noon - 5pm.
-- [OWASP Phoenix](https://owasp.org/www-chapter-phoenix/) 1st Tuesday of the month 8:30pm
-- [Phoenix Algorithms and Coding](https://www.meetup.com/phoenix-algorithms-and-coding/) have monthly events with a varied schedule.
-- [PHX Javascript](https://www.meetup.com/phoenix-javascript/) has different topics related to Javascript.
-- Prusa User Group (PUG) monthly 1st Thursday 7pm - 10pm.
-- Raspberry Pi Retro Gaming Fundraiser - 4th Friday 6pm - 10pm.
-- Sewing Night monthly 2nd Tuesday 7pm - 10pm.
-- Tabletop Gaming Night (fundraiser) 2nd Friday 6pm - 10pm.
-- [Young Makers](Young-Makers) bimonthly 1st and 3rd Friday 7pm - 10pm.
-- [Woodworking Day](Woodworking-Day) 4th Saturday of the month 1pm - 4pm.
+- 3d Printer Day — monthly 1st Sunday noon - 5pm.
+- [Arduino Night](Arduino-Night) — monthly 1st Wednesday 7pm - 10pm.
+- [AZ Haunters](https://azhaunters.com/) — meets most months for Halloween themed making at the lab. Als on [Facebook](https://www.facebook.com/AZHaunters).
+- Blender Buddies — weekly on Fridays 4pm - 6pm.
+- Coffee & Coworking — weekly on Wednesdays 9am - 3pm.
+- [Google Developer Group](https://www.meetup.com/phx-android/) — 3rd Thursdays 7pm.
+- [Group Programming Practice -Leetcode](https://www.meetup.com/arizona-codes/) — meets on the Last Wednesday of the month 7pm - 9pm.
+- [Hack Your Hackerspace](Hack-Your-Hackerspace) — bi-monthly 2nd and 4th Thursdays 7pm.
+- Member Hours — Tuesdays 10:30 am - 1:00 pm.
+- Metal Mondays — 2nd Monday every month 6pm - 9pm.
+- [Monthly Laser Meetup](Monthly-Laser-Meetup) — 1st Sunday 10am - 2pm.
+- [Open Hours](Open-Hours) — Mon- Wed 7pm - 10pm, Sat noon - 5pm.
+- [OWASP Phoenix](https://owasp.org/www-chapter-phoenix/) — 1st Tuesday of the month 8:30pm
+- [Phoenix Algorithms and Coding](https://www.meetup.com/phoenix-algorithms-and-coding/) — have monthly events with a varied schedule.
+- [PHX Javascript](https://www.meetup.com/phoenix-javascript/) — has different topics related to Javascript.
+- Prusa User Group (PUG) — monthly 1st Thursday 7pm - 10pm.
+- Raspberry Pi Retro Gaming Fundraiser — monthly 4th Friday 6pm - 10pm.
+- Sewing Night — monthly 2nd Tuesday 7pm - 10pm.
+- Tabletop Gaming Night (fundraiser) — 2nd Friday 6pm - 10pm.
+- [Young Makers](Young-Makers) — bimonthly 1st and 3rd Friday 7pm - 10pm.
+- [Woodworking Day](Woodworking-Day) — 4th Saturday of the month 1pm - 4pm.
 
 ## Other Events and Info
 
