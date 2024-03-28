@@ -27,6 +27,7 @@
 ## Other Events and Info
 
 - View the [homepage](http://www.heatsynclabs.org/) to see a calendar with our current schedule.
+- Click hear for an [Agenda View](https://calendar.google.com/calendar/embed?src=heatsynclabs.org_p9rcn09d64q56m7rg07jptmrqc%40group.calendar.google.com&ctz=America%2FPhoenix&mode=AGENDA) of the calendar.
 - [guestlist](https://guestlist.co/u/HeatSyncLabs) lists classes that require a registration.
 - [CactusCon](https://www.cactuscon.com/) Arizona's annual information security conference
 - [Other pages about events](https://wiki.heatsynclabs.org/wiki/Category:Events)
