@@ -7,6 +7,7 @@
 - Coffee & Coworking weekly on Wednesdays 9am - 3pm.
 - Blender Buddies weekly on Fridays 4pm - 6pm.
 - [Arduino Night](Arduino-Night) monthly 1st Wednesday 7pm - 10pm.
+- Prusa User Group (PUG) monthly 1st Thursday 7pm - 10pm.
 - Metal Mondays 2nd Monday every month 6pm - 9pm.
 - Sewing Night monthly 2nd Tuesday 7pm - 10pm.
 - [Young Makers](Young-Makers) bimonthly 1st and 3rd Friday 7pm - 10pm.
