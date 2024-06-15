@@ -34,7 +34,7 @@ One major principle of HeatSync is "never tell someone not to make." You have ne
 
 # Q: When is the next X class/workshop/certification?
 
-We don't know! First check the [calendar](http://www.heatsynclabs.org/events/) to see if something might be planned. Then fill out [this online form](https://www.heatsynclabs.org/register) to get notified of new classes or events. There are classes/certifications and workshop because you make them happen! Contact a station head about holding a class or another member who might be able to teach you. Post to the group, or if need be research an outside instructor to come in and hold the workshop you're looking for.
+The [ Laser certification](Laser-FAQ#laser-certification) is on the 3rd Sunday of every month. The [ Laser Meetup](Monthly-Laser-Meetup) is on the 1st Sunday of every month. We don't know! First check the [calendar](http://www.heatsynclabs.org/events/) to see if something might be planned. Then fill out [this online form](https://www.heatsynclabs.org/register) to get notified of new classes or events. There are classes/certifications and workshop because you make them happen! Contact a station head about holding a class or another member who might be able to teach you. Post to the group, or if need be research an outside instructor to come in and hold the workshop you're looking for.
 
 # Q: Can HeatSync make my widget for me?
 
