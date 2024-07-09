@@ -281,6 +281,7 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 
 ## Q: How can I sign up for the next certification class?
 
+- The class is on the calendar every month on the 3rd Sunday from 11am - 2pm.
 - If the laser class is full come out to the [ Monthly Laser Meetup](Monthly-Laser-Meetup) or [ Hack Your Hackerspace](Hack-Your-Hackerspace) and you can get early sign up to the next Laser Certification class.
 
 ## Q: Is the laser certification I took x years ago still valid?
