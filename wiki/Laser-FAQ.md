@@ -150,6 +150,11 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 
 - The software will go from top to bottom in your layers (colors) for any that are set to output. Within those elements it will probably try to cut things that are near each other. Preview or simulate are going to show you more about what order things are happening in without actually cutting the job.
 
+## Q: How do I create a new layer?
+
+- To create a new layer or color use the toolbar at the bottom of the software. Just selecting the items then clicking a color will assign it a new color.
+- You can assign the color of your paths in your design software by using the [ instructions here](Laser-FAQ#q-how-do-i-make-the-lines-in-my-design-import-into-lasercut-53-or-lightburn).
+
 ## Q: Is there a rotary attachment?
 
 - Yes for the 80 W laser and it does require special training to use. Post on Slack asking to get help using it once have some experience using the 80 W laser.
