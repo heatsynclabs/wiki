@@ -182,6 +182,12 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
   - Extra No. The 80W laser includes a button that crashes the bed into the laser cone. Do not use the control panel other than the escape button.
   - The 60W doesn't have auto focus / z-datum, but you could accidentally change settings via the control panel. Just use the control panel to move the position, but don't adjust any settings. Just avoid using the menus via the control panel.
 
+## Q: Why doesn't the laser cut when I start my job?
+
+- The power setting may be too low. You need at least 20% on the 60W laser and 14% on the 80W laser
+- The switch for the laser tube may be turned off (applies only to 60W laser).
+- If the lid is open it should also cut power to the laser. Make sure the switch for the lid is engaged.
+
 # 80 Watt Laser Operation
 
 ## Q: I'm getting a "soft dog" error when trying to use LaserCut 5.3.
