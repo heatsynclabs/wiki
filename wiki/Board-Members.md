@@ -2,14 +2,30 @@ HeatSync Labs is run by a Board of Directors, which aids in procedural and finan
 
 ## Current Board Members
 
-- Darrell Wertz, Champion
-- Robert Douglass, Champion
-- Shaundra Newstead, Treasurer
-- Bob Bushman, Secretary
-- Jeff Stittler, Operations
+| Position   | Name              |
+|------------|-------------------|
+| Champion   | Darrell Wertz     |
+| Champion   | Robert Douglass   |
+| Operations | Jeff Sittler      |
+| Secretary  | Bob Bushman       |
+| Treasurer  | Shaundra Newstead |
+
+2023 - 2024 Board Members
 
 ## Board Elections
 
 If you are interested in how these people got to be on the board, look at this page:
 
 - [Board Elections](Board-Elections)
+
+## Past Board Members
+
+| Position   | Name              |
+|------------|-------------------|
+| Champion   | Darrell Wertz     |
+| Champion   | Jot Powers        |
+| Operations | Jeff Sittler      |
+| Secretary  | Bob Bushman       |
+| Treasurer  | Shaundra Newstead |
+
+2022 - 2023 Board Members
