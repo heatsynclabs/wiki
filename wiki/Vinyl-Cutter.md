@@ -27,5 +27,9 @@ Replacement Blades [1](http://www.uscutter.com/6-Roland-Replacement-Blades-45-De
 
 This uses the Silhouette Studio software and the sticky mats to hold your material. Plenty of material online on usage.
 
+## Heat Press
+
+[Fancierstudio Heat press](https://www.amazon.com/dp/B0043H9FMU/) 15x15 inch digital
+
 ---
 *Categories: [Vinyl](Category-Vinyl)*
