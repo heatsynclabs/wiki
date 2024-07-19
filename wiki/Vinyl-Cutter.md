@@ -1,6 +1,6 @@
 ## Overview
 
-HeatSync Labs has a LaserPoint II (aka Sir-Cuts-A-Lot) and Silhouette Cameo 3.
+HeatSync Labs has a LaserPoint II (aka Sir-Cuts-A-Lot) and Silhouette Cameo 3. You do not need special certification to use these tools. Just ask for help on Slack if you are new to it and need help.
 
 ## Materials
 
