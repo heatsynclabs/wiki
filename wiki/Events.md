@@ -25,10 +25,9 @@
 - [Phoenix Algorithms and Coding](https://www.meetup.com/phoenix-algorithms-and-coding/) — varied schedule.
 - [PHX Javascript](https://www.meetup.com/phoenix-javascript/) — has different topics related to Javascript.
 - Prusa User Group (PUG) — 1st Thursday 7pm - 10pm.
-- Raspberry Pi Retro Gaming Fundraiser — 4th Friday 6pm - 10pm.
 - Sewing Night — 2nd Tuesday 7pm - 10pm.
 - Tabletop Gaming Night (fundraiser) — 2nd Friday 6pm - 10pm.
-- [Woodworking Day](Woodworking-Day) — 4th Saturday 1pm - 4pm.
+- [Woodworking Day](Woodworking-Day) — (off for summer, resumes in the fall) 4th Saturday 1pm - 4pm.
 
 ## Other Events and Info
 
