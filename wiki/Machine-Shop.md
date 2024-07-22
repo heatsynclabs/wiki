@@ -4,6 +4,8 @@ HeatSync Labs has a range of metal working tools. You will need to get a check o
 
 Darrell Wertz is the current station champion. Post on the Slack Metal channel if you have questions or if there are any problems in this area.
 
+HeatSync Labs also has licenses for the full version of Fusion 360 which you can check out and use for your project or learning. Post on Slack asking Darrell for help setting it up.
+
 # Tools
 
 - [Mini Mill](Mini-Mill)
