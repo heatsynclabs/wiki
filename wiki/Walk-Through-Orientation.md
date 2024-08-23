@@ -91,7 +91,6 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 - MSDS / Safety Data Sheets: In the kitchen in the window.
   - If you bring things and store them in the lab they need to be entered into the Safety Data Sheets
 - Cleaning supplies: In the kitchen on the rack and in the cupboards next to the rack.
-- Bio-hazard sharps: In the biolab
 - Dumpsters & recycling: Out the back door to the left (West) 225 feet down the alley (use the wheelbarrow for trash)
 - Fire extinguisher: in hallway
 - Safety glasses: Hung on he wall outside the metal shop
