@@ -38,7 +38,8 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
 
 ## Q: Can I schedule the laser? / What do I do if someone is already using the laser?
 
-- We don't schedule the laser and if you arrive while someone is using the laser let them know you'd like to be next and ask them how long they will be.
+- We don't schedule the laser (other than for classes).
+- If you arrive while someone is using the laser let them know you'd like to be next and ask them how long they will be.
 
 # Materials and Cut Settings
 
