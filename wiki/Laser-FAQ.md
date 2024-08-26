@@ -43,6 +43,13 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
 - The [ Laser Material Guidelines](Laser-Material-Guidelines) wiki page aims to cover that.
 - There is also a growing collection of samples in the [ Laser Example Book](Laser-Example-Book). Please help us make this book more useful.
 
+## Q: Should I change the speed or the power?
+
+- It depends.
+  - Changing one at a time is preferable.
+  - Changing the speed has more of a linear relationship to the cutting depth. The upper power percentages have decreasing increase in cutting depth.
+  - Slowing the speed can increase the quality of the cut for acrylic.
+
 ## Q: Can I engrave metal with the laser?
 
 NO! You cannot engrave, cut or etch metal with the HeatSync Labs c02 laser. Some online reports claim to have methods of cutting stainless steel with a c02 laser using a special coating to assist absorption. We don't allow attempting to cut metal (engrave, etch, or whatever term you prefer) with the lab c02 laser cutters. We recommend people experiment with their own laser cutters if they chose to explore those options. That way they are responsible for replacement of their own lenses and mirrors. We have enough wear and tear on the machines with the current use cases. More would not be desirable.
