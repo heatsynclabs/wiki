@@ -36,6 +36,10 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
 - The 80 Watt Laser is XYZ Technologies Exlas 1280, so is 1200mm x 800mm laserable.
 - The 60 Watt Laser is a Tek Genius "[60W 110V CO2 Laser Engraving Machine](https://laser-engraving-machines.net/tek-genius/60w-500x700mm-co2-usb-laser-engraving-cutter-stand-cutting-machine-engraver-17170)", or similar. No real model number that we know of.
 
+## Q: Can I schedule the laser? / What do I do if someone is already using the laser?
+
+- We don't schedule the laser and if you arrive while someone is using the laser let them know you'd like to be next and ask them how long they will be.
+
 # Materials and Cut Settings
 
 ## Q: What materials can I cut or engrave with the laser?
