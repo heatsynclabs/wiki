@@ -1,3 +1,8 @@
+- **Station Champions:** Antonio Contrisciani, Cpro
+- **Communication:** Slack 3d Printer channel
+- **Certifications:** Resin Printer
+- **Events:** 3d Printer Day, Prusa User Group, Blender Buddies
+
 HeatSync Labs maintains a variety of 3D printers.
 
 FDM (Fused Deposition Modeling) and SLA (StereoLithography Apparatus) printing technologies are available for use on projects.
