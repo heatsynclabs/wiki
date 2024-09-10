@@ -1,3 +1,8 @@
+- **Station Champions:** Needed
+- **Communication:** Post in Slack \#general if you have questions or need help
+- **Certification:** None, ask if you need help
+- **Events:** None
+
 Justin F. Donated leather working tools. These are currently stored in the drawer labelled Leather near the Lock Picking by the woodworking area.
 
 ## Tools
