@@ -1,5 +1,5 @@
 - **Station Champions:** David Flores, and Nate Caine
-- **Communication:** Slack electronics channel
+- **Communication:** Slack \#electronics channel
 - **Certification:** None, ask if you need help with something
 - **Events:** Arduino Night 1st Wednesday each month 7pm
 
