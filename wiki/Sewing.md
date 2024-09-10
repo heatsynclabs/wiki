@@ -1,3 +1,5 @@
+**\*Station Champions:** Linda Krecker, and Michelle Mueller **\*Communication:** [Google Discussion Group](https://groups.google.com/g/heatsynclabs/) **\*Certification:** Checkouts for the Consew Industrial machine, Husqvarna Embroidery, Baby Lock Serger **\*Events:** Sewing Night on the 2nd Tuesday each month from 7pm - 10pm
+
 ***Sewing***
 
 - Sewing Night (Meetup) (Second Tuesday each month)
