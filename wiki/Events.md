@@ -4,7 +4,7 @@
 
 - [Open Hours](Open-Hours) — Mon, Tue, Wed 7pm - 10pm, Sat noon - 5pm.
 - Member Hours — Tuesday 10:30 am - 1:00 pm.
-- [Young Makers](Young-Makers) — bimonthly 1st and 3rd Friday 7pm - 10pm.
+- [Young Makers](Young-Makers) — bimonthly 1st and 3rd Friday 6pm - 10pm.
 - [Hack Your Hackerspace](Hack-Your-Hackerspace) — bi-monthly 2nd and 4th Thursdays 7pm.
 
 **Weekly**
@@ -19,7 +19,6 @@
 - [AZ Haunters](https://azhaunters.com/) — Halloween themed making at the lab. Also on [Facebook](https://www.facebook.com/AZHaunters).
 - [Google Developer Group](https://www.meetup.com/phx-android/) — 3rd Thursday 7pm.
 - [Group Programming Practice -Leetcode](https://www.meetup.com/arizona-codes/) — last Wednesday of the month 7pm - 9pm.
-- Metal Mondays — 2nd Monday 6pm - 9pm.
 - [Monthly Laser Meetup](Monthly-Laser-Meetup) — 1st Sunday 10am - 2pm.
 - [OWASP Phoenix](https://owasp.org/www-chapter-phoenix/) — 1st Tuesday 8:30pm
 - [Phoenix Algorithms and Coding](https://www.meetup.com/phoenix-algorithms-and-coding/) — varied schedule.
@@ -27,7 +26,7 @@
 - Prusa User Group (PUG) — 1st Thursday 7pm - 10pm.
 - Sewing Night — 2nd Tuesday 7pm - 10pm.
 - Tabletop Gaming Night (fundraiser) — 2nd Friday 6pm - 10pm.
-- [Woodworking Day](Woodworking-Day) — (off for summer, resumes in the fall) 4th Saturday 1pm - 4pm.
+- [Woodworking Day](Woodworking-Day) — 4th Saturday 1pm - 4pm.
 
 ## Other Events and Info
 
