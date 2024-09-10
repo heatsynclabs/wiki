@@ -1,3 +1,8 @@
+- **Station Champions:** David Flores, and Nate Caine
+- **Communication:** Slack electronics channel
+- **Certification:** None, ask if you need help with something
+- **Events:** Arduino Night 1st Wednesday each month 7pm
+
 **Welcome to HeatSync Labs Electronics Station.** There are a lot of great tools and things to learn. You must have a waiver filled out to use tools at HeatSync Labs. other than that you don't require any special classes or training if you already know how to use them you can do so. If you need to learn how to use a tool then come out during Arduino Night
 
 **Events:** Arduino Night is the 1st Wednesday of every month between 7pm - 10pm. No experience necessary.
