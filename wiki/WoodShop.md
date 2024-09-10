@@ -1,3 +1,8 @@
+- **Station Champions:** Shaundra Newstead, Eric Ose
+- **Communication:** Slack \#woodshop channel
+- **Certification:** ask for a checkout for all tools
+- **Events:** [ Woodworking Day](Woodworking-Day)
+
 # Overview
 
 HeatSync Labs has a collection of woodworking tools, but not a dedicated area specific just for woodworking. Some tools will need to be used outside if making excessive dust and debris that would be a fire hazard. As of this edit there is not a specific wood shop champion. If you have questions post on the Slack channel under woodshop.
