@@ -1,3 +1,8 @@
+- **Station Champions:** Darrell Wertz
+- **Communication:** Slack \#metal channel
+- **Certification:** Lathe, Mill, CNC Mill, All other tools require a checkout
+- **Events:** None
+
 # Overview
 
 HeatSync Labs has a range of metal working tools. You will need to get a check out or certification for anything in this area so always ask before using.
