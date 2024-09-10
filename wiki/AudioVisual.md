@@ -1,3 +1,8 @@
+- **Station Champions:** Rick Blake
+- **Communication:** Slack A/V Station channel
+- **Certification:** None. Ask for help if you aren't familiar
+- **Events:** None, but event hosts do use this station
+
 ## Overview
 
 This is station to set up to present for events or meetups. Along with a projector with various adapters for video we have a wireless microphone. Or just connect to Bluetooth to play music from the speakers.
