@@ -1,3 +1,8 @@
+- **Station Champions:** Needed
+- **Communication:** Slack \#bikes channel
+- **Certification:** None, ask if you need help
+- **Events:** None
+
 ## Overview
 
 HeatSync Labs has tools for fixing and maintaining bicycles thanks to the Made on Main Street Grant we received in 2018. This station is currently between the laser station and the member storage in the black filing cabinet.
