@@ -1,3 +1,8 @@
+- **Station Champions:** Shaundra Newstead
+- **Communication:** Slack \#metal channel
+- **Certification:** Yes required!
+- **Events:** None
+
 ## Overview
 
 There are both MIG and TIG welders and various equipment for using these tools. Safety certification is required please post on Slack asking for a class. When using the welding it is expected you will donate to cover the cost of gas and wire etc.
