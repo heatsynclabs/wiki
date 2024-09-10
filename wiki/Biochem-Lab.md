@@ -1,3 +1,8 @@
+- **Station Champions:** Shaundra Newstead
+- **Communication:** Slack \#biochem channel
+- **Certification:** Ask before using any equipment for a checkout
+- **Events:** None
+
 ## Overview
 
 Before using equipment ask via Slack to get help learning the basics of the tools in the lab.
