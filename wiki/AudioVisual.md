@@ -1,5 +1,5 @@
 - **Station Champions:** Rick Blake
-- **Communication:** Slack A/V Station channel
+- **Communication:** Slack \#general channel and maybe include Rickb928
 - **Certification:** None. Ask for help if you aren't familiar
 - **Events:** None, but event hosts do use this station
 
