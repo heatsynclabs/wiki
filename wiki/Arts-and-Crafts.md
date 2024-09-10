@@ -1,3 +1,8 @@
+- **Station Champions:** Needed
+- **Communication:** Slack \#art channel
+- **Certification:** None
+- **Events:** None, but anyone interested can host an event
+
 ## Overview
 
 The arts and crafts cabinets are between the 3d printing and LEGO station as well as the cabinet under the 3d printing. There are more arts and craft supplies upstairs. Upstairs is limited access so someone hosting should assist if going up their is needed.
