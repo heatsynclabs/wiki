@@ -1,6 +1,13 @@
+Laser Certification:
+
+- **Station Champions:** Eric Ose (Training), Nate Caine (Maintenance)
+- **Communication:** Slack \#lasering channel
+- **Certification:** See calendar for Laser Certification on the 3rd Sunday each month 11am - 2pm
+- **Events:** [ Laser Meetup](Monthly-Laser-Meetup), Laser Certification
+
 ## Overview
 
-HeatSync Labs has an **[ 80 Watt Laser Cutter](Large-80W-Laser)** and **[ 60 Watt Laser Cutter](Mini-60W-Laser)**. You must be certified to use the laser cutter on your own. The Laser Certification will be scheduled on the 3rd Sunday of the month from 11am - 2pm. Check the calendar for details.
+HeatSync Labs has an **[ 80 Watt Laser Cutter](Large-80W-Laser)** and **[ 60 Watt Laser Cutter](Mini-60W-Laser)**. You must be certified to use the laser cutter on your own.
 
 As you have questions using the laser please consider using our **[ Laser FAQ page](Laser-FAQ)**. By having a single searchable page things will be easier for everyone.
 
