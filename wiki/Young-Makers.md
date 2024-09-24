@@ -14,6 +14,10 @@ Is there an age limit? No
 
 ## Past Events
 
+Simple Motors 09/20/2024
+
+Laser Engraved Pencils 09/06/2024
+
 Microscope Night
 
 [Young Makers Laser Portraits](https://guestlist.co/events/741495)
