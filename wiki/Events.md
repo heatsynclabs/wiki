@@ -3,7 +3,6 @@
 ## Recurring Events
 
 - [Open Hours](Open-Hours) — Mon, Tue, Wed 7pm - 10pm, Sat noon - 5pm.
-- Member Hours — Tuesday 10:30 am - 1:00 pm.
 - [Young Makers](Young-Makers) — bimonthly 1st and 3rd Friday 6pm - 10pm.
 - [Hack Your Hackerspace](Hack-Your-Hackerspace) — bi-monthly 2nd and 4th Thursdays 7pm.
 
