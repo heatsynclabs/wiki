@@ -36,6 +36,10 @@ Best use for it's ***Embroidery*** capabilities.
 
 ***Husqvarna Viking Designer II User's Guide**, *Manual**
 
+[Husqvarna_Viking_Notes.txt](files/Husqvarna_Viking_Notes.txt)
+
+*Husqvarna embroidery notes*
+
 Video: [**Husqvarna Viking Designer II User's Guide**, *YouTube*, Nov 20, 2019](https://www.youtube.com/watch?v=sGJI4lVcFag)
 
 Need: (Threading Instructions) (common mistakes) ("p" & "q")
