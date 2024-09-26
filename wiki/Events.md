@@ -25,7 +25,6 @@
 - Prusa User Group (PUG) — 1st Thursday 7pm - 10pm.
 - Sewing Night — 2nd Tuesday 7pm - 10pm.
 - Tabletop Gaming Night (fundraiser) — 2nd Friday 6pm - 10pm.
-- [Woodworking Day](Woodworking-Day) — 4th Saturday 1pm - 4pm.
 
 ## Other Events and Info
 
