@@ -1,8 +1,6 @@
 ## When
 
-4th Saturday of the month from 1pm - 4pm.
-
-As the weather warms up we will likely adjust the timing so check the calendar on the [homepage](http://www.heatsynclabs.org/) to confirm.
+Canceled for now. I just don't know enough to host this. I'll try and find someone to help me out with this. If anyone has suggestions or wants to work with me as I try out projects not as an event reach out. - Eric Ose
 
 ## Event Description
 
