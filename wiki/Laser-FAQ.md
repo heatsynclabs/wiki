@@ -109,6 +109,10 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 
 - If your parts are small and falling after cut it may result in them getting burnt as other parts are cut above where they ended up.
 
+## Q: What woods are good for engraving photos?
+
+- Basswood or maple are recommended often for this because they have a more consistent grain structure.
+
 # Material Workholding
 
 ## Q: How do I keep my warped material flat? / How do I hold my material in place and keep it from moving?
