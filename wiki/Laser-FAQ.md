@@ -187,6 +187,7 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 - Your material may just be a very smokey material.
 - You may have covered too much of the laser bed with a large sheet of material leaving no room for air to flow down into the vent.
   - In this case as holes get cut it may vent better.
+- The other laser may be open causing more air to be coming from there rather than the laser you are using.
 - It may be a combination of multiple things.
 
 ![](files/DirtyVentScreen.png)
