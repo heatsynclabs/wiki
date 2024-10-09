@@ -85,6 +85,7 @@ Don't get distracted and don't let others distract you while using the tool
 - Skilsaw Model 5275 circular saw
 - Craftsman Circular Saw Model 315.10860
 - Ryobi 18V ONE+ 5-1/2" Circular Saw [manual](https://556aa8d9de68ea9c4f29-0a8acad11a4df5016d26cc39a7429843.ssl.cf1.rackcdn.com/2/P505_625_trilingual_05.pdf), [Repair Sheet](https://556aa8d9de68ea9c4f29-0a8acad11a4df5016d26cc39a7429843.ssl.cf1.rackcdn.com/2/P505_622_r_06.pdf)
+- [Dewalt DW682 Plate Joiner Kit](https://www.dewalt.com/product/dw682k/plate-joiner-kit) (Biscuit Joiner), [manual](https://www.dewalt.com/GLOBALBOM/QU/DW682K/1/Instruction_Manual/EN/154527-00_DW682.pdf)
 
 # Wanted
 
