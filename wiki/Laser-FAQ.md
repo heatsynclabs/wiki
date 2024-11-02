@@ -22,6 +22,7 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
   - For CAD tools Fusion 360 and Solid Works are the most commonly used, but any CAD software should export dxf files needed.
   - For vector graphics software Adobe Illustrator and Inkscape are the most common, although corel Draw and other are often used.
     - For vector design a common starting point is tracing an raster image to create a path.
+    - [Inkscape Tutorial: Complete Starter Guide for New Users](https://www.youtube.com/watch?v=fzk-suGcqrc)
   - There are too many [3D modeling](https://en.wikipedia.org/wiki/List_of_3D_modeling_software), [Vector](https://en.wikipedia.org/wiki/Comparison_of_vector_graphics_editors), and [2d graphics](https://en.wikipedia.org/wiki/List_of_2D_graphics_software) tools to cover so instead see those Wikipedia pages which list them.
 - There are also online generators for things like boxes, puzzles, mazes and more.
   - [The Ultimate Guide to Laser cut Box-Generators](https://www.instructables.com/The-Ultimate-Guide-to-Laser-cut-Box-Generators/) is a great resource for box generators.
