@@ -1,8 +1,6 @@
 ## Status
 
-Available for groups by request only. If you have 6 or more people who want to do this reach out to Robot Ambassador on Slack.
-
-It seems enough people have already taken the class that hosting it doesn't generate enough new sign ups.
+We will be hosting this as a class for December 2024. See the calendar dates below. This is also available as a class year round if you have a group of at least 6 people who want to attend this class.
 
 ## Overview
 
