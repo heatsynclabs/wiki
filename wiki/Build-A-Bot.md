@@ -8,9 +8,9 @@ Build-A-Bot is a workshop where you design, laser cut, and solder your own robot
 
 If you are only doing the first event you can make your own non-electronic robot that works as a figure. Doing them both you can create a custom electronic version.
 
-**Inkscape Design Class (Design A Bot)** will be posted as Inkscape Design Class. This event works great for anyone interested in designing things for the laser cutter or vinyl cutter. With demonstrations of the vinyl cutter and laser cutter.
+**Designing with Inkscape** [12/07/24](https://guestlist.co/events/789897) This event works great for anyone interested in designing things for the laser cutter or vinyl cutter. With demonstrations of the vinyl cutter and laser cutter.
 
-**Build-A-Bot!** Anyone age 7 and up can solder a robot. We will have several robots to choose from if you don't have a custom design already.
+**Solder A Robot!** [12/14/24](https://guestlist.co/events/789879) Anyone age 7 and up can solder a robot. We will have several robots to choose from if you don't have a custom design already.
 
 ## Inkscape Design Class / Design A Bot
 
