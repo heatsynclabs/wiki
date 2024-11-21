@@ -8,8 +8,8 @@ Put operational procedures here.
 - Either set up a PayPal recurring payment to hslfinances@gmail.com (an option is given at the end of the application form) or choose another method to send their payment. Automated, electronic, or prepaid months in advance is preferred. If prepaid cash/check utilize square, take photo, and place in admin locker.
   - Jotform is sent to board@ notifying board
 - **Treasurer:** Confirm form and payment, record details in membership spreadsheet, and *notify [operations team](Operations-team) of new member.*
-- **Operations Team:**
-  - Will: Email new member with [Member Welcome Letter](Member-Welcome-Letter) and suggest a time to come in for a new member orientation. Create calendar appointment with the appropriate [operations team](Operations-team) member.
+- **Welcoming Team:**
+  - Email new member with [Member Welcome Letter](Member-Welcome-Letter) and suggest a time to come in for a new member orientation. Create calendar appointment with the appropriate team member.
   - Greet member at space; give them the [Walk Through Orientation](Walk-Through-Orientation).
 
 ### Member Nonpayment/Cancellation
