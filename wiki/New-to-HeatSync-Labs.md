@@ -5,6 +5,7 @@
 - Here's a direct link to [member sign up](https://members.heatsynclabs.org/users/sign_up)
 - Regardless of membership come to [Hack Your Hackerspace](Hack-Your-Hackerspace) (HYH) and get an orientation
 - If you can't make HYH read through the [Walk Through Orientation](Walk-Through-Orientation) page
+- As soon as you are a paying member you can ask any current member for help getting a box or your locker set up
 
 ## How HeatSync Labs works
 
