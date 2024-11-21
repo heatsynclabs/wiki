@@ -57,7 +57,6 @@
 <li><a href="Local-Resources">Local Resources</a></li>
 <li><a href="Podcasts">Podcasts</a></li>
 <li><a href="Category-Tutorials"> Tutorials </a></li>
-<li><a href="Category-InterestingData"> COVID Data </a></li>
 </ul></td>
 <td width="50%" data-valign="top" style="border: 1px solid #a0a0ff; border-right-width: 3px; border-bottom-width: 3px; padding: .5em 1em; margin: 1em; background-color: #f0f0ff;"><div style="margin:0;background-color:#e0e0ff;font-size:120%;font-weight:bold;border:1px solid #a0a0ff;text-align:left;color:#000;padding:0.2em 0.4em;">
 <p>Administration</p>
@@ -65,7 +64,6 @@
 <ul>
 <li><a href="How-to-Run-HeatSync-Labs">How to Run HeatSync Labs</a></li>
 <li><a href="Operations-team">Operations team</a></li>
-<li><a href="Category-Location"> Location </a></li>
 </ul>
 <ul>
 <li>Money
@@ -81,7 +79,6 @@
 <li><a href="Bylaws">Bylaws</a> (aka constitution, charter)</li>
 <li><a href="Meeting-Minutes">Meeting Minutes</a></li>
 <li><a href="Forms">Forms</a></li>
-<li><a href="Processes">Processes</a></li>
 <li><a href="Procedures">Procedures</a></li>
 <li><a href="Document-Retention-and-Destruction-Policy">Document Retention and Destruction Policy</a></li>
 </ul>
