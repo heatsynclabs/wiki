@@ -28,6 +28,8 @@ License Transfer: [transferring license to a new computer](https://support.uscut
 
 Replacement Blades [1](http://www.uscutter.com/6-Roland-Replacement-Blades-45-Degree) Lower cost replacement blades with holder [2](https://www.aliexpress.us/item/15pcs-Set/32768951705.html)
 
+Be aware that the belt can lift up out of the carriage. Pretty rare, but if it does you can push the belt back down. You will want to check that you can get full travel. The part where the belt ends are clamped can bump into the rollers. Adjust the left and right position until you can move it fully left and right without it binding on the rollers.
+
 ## Silhouette Cameo
 
 This uses the Silhouette Studio software and the sticky mats to hold your material. Plenty of material online on usage.
