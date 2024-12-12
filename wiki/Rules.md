@@ -52,7 +52,7 @@ More than anything else, membership is a regular donation. Its is NOT payment fo
 
 ### Membership Fees
 
-If you sign up for membership via PayPal, your recurring monthly dues will be subtracted from your account the same date you enrolled. If you chose Cash/Check -- you can either mail your dues (108 West Main St. Mesa, AZ 85201) or deliver it to the current treasurer (treasurer @ heatsynclabs.org) at HeatSync. Please note recurring payments are -highly- encouraged-- remember we do not have staff. If cash/check are important please consider using your bank's automatic bill-pay feature, or prepaying for 3, 6 or 12 months up front.
+If you sign up for membership via PayPal, your recurring monthly dues will be subtracted from your account the same date you enrolled. If you chose Cash/Check -- you can either mail your dues (108 West Main St. Mesa, AZ 85201) or deliver it to the current treasurer (treasurer @ heatsynclabs.org) at HeatSync. Please note recurring payments are -highly- encouraged-- remember we do not have staff. If cash/check are important please consider using your bank's automatic bill-pay feature, or prepaying for 3, 6 or 12 months up front. **Note:** Membership fees are nonrefundable.
 
 ### Membership and Equipment
 
