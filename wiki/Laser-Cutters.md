@@ -1,9 +1,7 @@
-Laser Certification:
-
 - **Station Champions:** Eric Ose (Training), Nate Caine (Maintenance)
 - **Communication:** Slack \#lasering channel
-- **Certification:** See calendar for Laser Certification on the 3rd Sunday each month 11am - 2pm
-- **Events:** [ Laser Meetup](Monthly-Laser-Meetup), Laser Certification
+- **Certification:** TBD
+- **Events:** [ Laser Meetup](Monthly-Laser-Meetup)
 
 ## Overview
 
@@ -30,7 +28,7 @@ There are plenty of safety and other considerations covered in our training clas
 
 Some of the current and past events for the laser cutter:
 
-- Laser Certification is scheduled for the 3rd Sunday of every month.
+- Laser Certification the 3rd Sunday of every month for much of 2023-2024.
 - [ Laser Meetup](Monthly-Laser-Meetup) 1st Sunday of every month from 10am - 2pm.
 - [ Build-A-Bot series](Build-A-Bot)
 - [Laser Cut Box Making](https://guestlist.co/events/712497)
