@@ -8,7 +8,7 @@ The operations team is a committee recruited by the board in order to manage the
 - **[Biochem Lab](Biochem-Lab)**: Shaundra Newstead, Greg Oswalt
 - **[Electronics](Electronics)**: David Flores, Nate Caine
 - **[Jewelry](Jewelry)**: Sarah McCann
-- **[Laser Cutters](Laser-Cutters)**: Eric Ose (certification classes), Nate Caine (laser maintenance)
+- **[Laser Cutters](Laser-Cutters)**: David Flores (certification classes), Nate Caine (laser maintenance)
 - **[Machine Shop](Machine-Shop)**: Darrell Wertz
 - **Microcontrollers**: David Flores
 - **Nuts & Bolts**: Greg Oswalt
