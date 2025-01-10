@@ -2,15 +2,37 @@ HeatSync Labs is run by a Board of Directors, which aids in procedural and finan
 
 ## Current Board Members
 
-| Position   | Name              |
-|------------|-------------------|
-| Champion   | Eric Ose          |
-| Champion   | Beau LeDuc        |
-| Operations | Jeff Sittler      |
-| Secretary  | Chris McLaughlin  |
-| Treasurer  | Shaundra Newstead |
-
-2024 - 2025 Board Members
+<table>
+<caption>2024 - 2025 Board Members</caption>
+<thead>
+<tr>
+<th style="width:30%"><p>Position</p></th>
+<th style="width:70%"><p>Name</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="padding:1rem"><p>Champion</p></td>
+<td><hr /></td>
+</tr>
+<tr>
+<td style="padding:1rem"><p>Champion</p></td>
+<td><p>Beau LeDuc</p></td>
+</tr>
+<tr>
+<td style="padding:1rem"><p>Operations</p></td>
+<td><p>Jeff Sittler</p></td>
+</tr>
+<tr>
+<td style="padding:1rem"><p>Secretary</p></td>
+<td><p>Chris McLaughlin</p></td>
+</tr>
+<tr>
+<td style="padding:1rem"><p>Treasurer</p></td>
+<td><p>Shaundra Newstead</p></td>
+</tr>
+</tbody>
+</table>
 
 ## Board Elections
 
