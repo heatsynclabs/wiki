@@ -1,8 +1,6 @@
 # Overview
 
-Monthly Laser Meetup is on the First Sunday of the month between 10:00 AM and 2:00 PM. Come out and laser cut together.
-
-This starts on May 7th 2023. We'll see how long we can keep it going.
+Monthly Laser Meetup **was** on the First Sunday of the month between 10:00 AM and 2:00 PM. from 05/07/2023 until 01/07/2025
 
 See [ Laser Cutters ](Laser-Cutters) page for more info about HeatSync Labs Laser Cutters.
 
