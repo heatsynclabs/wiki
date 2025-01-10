@@ -1,4 +1,4 @@
-- **Station Champions:** Eric Ose (Training), Nate Caine (Maintenance)
+- **Station Champions:** David Flores (Training), Nate Caine (Maintenance)
 - **Communication:** Slack \#lasering channel
 - **Certification:** TBD
 - **Events:** N/A
