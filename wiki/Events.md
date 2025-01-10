@@ -9,7 +9,6 @@
 **Weekly**
 
 - Coffee & Coworking — weekly on Wednesdays 9am - 3pm.
-- Blender Buddies — weekly on Fridays 4pm - 6pm.
 
 **Monthly**
 
@@ -18,13 +17,11 @@
 - [AZ Haunters](https://azhaunters.com/) — Halloween themed making at the lab. Also on [Facebook](https://www.facebook.com/AZHaunters).
 - [Google Developer Group](https://www.meetup.com/phx-android/) — 3rd Thursday 7pm.
 - [Group Programming Practice -Leetcode](https://www.meetup.com/arizona-codes/) — last Wednesday of the month 7pm - 9pm.
-- [Monthly Laser Meetup](Monthly-Laser-Meetup) — 1st Sunday 10am - 2pm.
 - [OWASP Phoenix](https://owasp.org/www-chapter-phoenix/) — 1st Tuesday 8:30pm
 - [Phoenix Algorithms and Coding](https://www.meetup.com/phoenix-algorithms-and-coding/) — varied schedule.
 - [PHX Javascript](https://www.meetup.com/phoenix-javascript/) — has different topics related to Javascript.
 - Prusa User Group (PUG) — 1st Thursday 7pm - 10pm.
 - Sewing Night — 2nd Tuesday 7pm - 10pm.
-- Tabletop Gaming Night (fundraiser) — 2nd Friday 6pm - 10pm.
 
 ## Other Events and Info
 
