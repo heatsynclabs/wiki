@@ -72,6 +72,7 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 
 ## Q: I'm at 100% for power and not cutting through; Should I use 2 passes to cut through my material or change my settings to go slower?
 
+- Ideally, you don't want to use 100% because it shortens the life of the tube. We try to max out at 80%.
 - Typically you'll want to go slower. If you do multiple passes there may be debris left in the cut, and it may misaligned if heat causes warping to your material or anything else causes movement of the material.
 
 ## Q: Is the MDF from Home Depot/Lowe's good enough or is there a better place to get MDF?
