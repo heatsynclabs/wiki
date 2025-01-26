@@ -316,6 +316,10 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 
 - We were able to solve this by using Control+A to select everything, then in the menu under Arrange select Ungroup.
 
+## Q: Why is my cut order reversed?
+
+- I should be something in the optimize cut path, or near there. Please update this if you find more specific details.
+
 # LaserCut 5.3
 
 ## Q: How can I access the U:\\ "User Drive" from LaserCut 5.3?
