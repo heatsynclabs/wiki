@@ -28,6 +28,7 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
   - [The Ultimate Guide to Laser cut Box-Generators](https://www.instructables.com/The-Ultimate-Guide-to-Laser-cut-Box-Generators/) is a great resource for box generators.
   - [Paper box template generator](https://www.templatemaker.nl/en/).
   - [This page has a range of other generators](https://makerdesignlab.com/tutorials-tips/online-file-generators-for-laser-cutting/).
+  - [A collection of SVG tools focused on vinyl cutters, but also useful for laser cutters](https://cleversomeday.com/svgtools/).
 - You can also search online for project ideas at sites like <https://www.instructables.com/>, <https://www.thingiverse.com/>, or similar sites.
 - This YouTube video has a summary on [60 laser cut projects](https://www.youtube.com/watch?v=6z4nWIibNkA) with links to tutorials that may be good inspiration.
 - You can buy design files on Etsy or other places. Just be aware some designers do not know how to make design that work well for laser cutting or 3d printing. Look at reviews closely.
