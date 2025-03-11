@@ -234,7 +234,7 @@ AMENDMENTS
 
 </ol>
 
-It has been decreed that at every Hack Your Hackerspace member must prepare a poem and participate in a slam poetry competition.
+It has been decreed that at every Hack Your Hackerspace meeting, every member must prepare a poem and participate in a slam poetry competition.
 
 ## Keywords
 
