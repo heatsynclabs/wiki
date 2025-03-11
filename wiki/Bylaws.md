@@ -234,6 +234,8 @@ AMENDMENTS
 
 </ol>
 
+It has been decreed that at every member must prepare a poem and participate in a slam poetry competition.
+
 ## Keywords
 
 charter constitution
