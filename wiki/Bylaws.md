@@ -104,6 +104,96 @@ Card access can only be voted on by card members. There must be at least 5 card 
 
 Card access may be removed at any time by the Board of Directors. Card access is immediately terminated if the member cancels their membership or lowers their membership to a lower level. Card access may be removed due to code of conduct violation.
 
+==
+
+<li>
+
+AMENDMENTS
+
+</li>
+
+==
+
+- Proposed amendments to these bylaws shall be submitted in physical or electronic writing to the Board of Directors at a meeting of the Board of Directors. A majority vote of the full quorum of officers of the Board of Directors will be required for the amendment to become enacted and effective upon completing the vote.
+
+</ol>
+
+==
+
+<li>
+
+PROPOSAL PROCESS
+
+</li>
+
+==
+
+Based on Current Practices and Robert’s Rules of Order
+
+HeatSync Labs has a proposal process so that changes to the space are made thoughtfully and with input from the community. It gives members a way to suggest ideas, discuss them openly, and make sure they are practical before being put to a vote. This helps avoid rushed decisions, keeps things fair, and ensures that proposals are realistic and beneficial. It’s a simple way to make sure everyone has a say in how HeatSync Labs evolves.
+
+- Proposal Submission
+
+<!-- -->
+
+- - The individual submitting the proposal must be its owner and responsible party. Proposals may not be submitted on behalf of another person unless they explicitly agree to take ownership of the proposal and its implementation.
+  - Any active, paying/scholarship member may submit a proposal.
+  - Proposals must be posted to HeatSync Labs’ Google Groups instance for open discussion and feedback.
+  - Proposals must be submitted at least 30 days before an HYH meeting to be eligible for voting.
+  - The proposal must include:
+    - The specific change or project being proposed.
+    - The reason for the proposal and expected benefits.
+    - Estimated costs and resource requirements (if applicable).
+    - The timeline for implementation.
+
+<!-- -->
+
+- Proposal Discussion and Refinement (30-Day Discussion Period, Lock-In Rule)
+
+Members provide public feedback in the Google Group before the HYH meeting. Proposals should be discussed in depth, and members are encouraged to provide substantive feedback rather than just “+1” or “I agree.” The proposer may adjust the proposal based on discussion, but: No further changes may be made within one week of the HYH meeting. The final version of the proposal must be clearly posted and locked in the Google Group at least one week before the meeting. If members feel a proposal is too broad or outside the scope of an operational decision, they may request it be dismissed or handled by the Board.
+
+- Proposal Consideration at HYH Meeting
+
+Proposals are automatically considered at the HYH meeting if they have been discussed for 30 days. The proposer actively bumps the proposal in Google Groups so members are reminded that the proposal is up for a vote. The proposer (or a designated representative) must add it to the agenda, and verbally introduce the proposal during the meeting. If a proposer fails to mention or remind the group about the proposal, it will not be eligible for a vote and must be deferred to the next HYH meeting. The proposer must provide a brief summary before the vote. If a quorum is not present (minimum 8 paying/scholarship members), the vote may be skipped or delayed until later in the meeting or deferred to the next HYH meeting.
+
+- Voting Process
+
+Only paying/scholarship members in good standing are eligible to vote on proposals. A proposal passes with a majority vote of those voting (abstentions do not count toward the total). Example: If 2 vote yes, 1 votes no, and 5 abstain, the vote passes (2-1). A quorum requires at least 8 paying/scholarship members present, but only votes cast count toward the outcome. Ties result in no action, and the proposal does not pass, and may be resubmitted following the resubmission restrictions. Votes are conducted via show of hands or another predetermined method at the meeting. Voting results must be posted to HeatSync Labs’ Google Group within seven (7) days of the meeting to ensure transparency.
+
+- Resubmission Restrictions (Preventing Stacking of Votes)
+
+If a proposal fails, it cannot be resubmitted for six (6) months, unless: The proposer makes substantial changes, and the members present at an HYH meeting vote to allow early reconsideration. To be eligible for early reconsideration, the proposer must clearly outline the new information or significant changes before members vote on whether it should return to the agenda. Vote for reconsideration can be made 4 weeks after reconsideration request is made. Substantial Change Examples: - ✅ A significant reduction or expansion in scope, addressing major concerns. - ✅ Securing external funding that eliminates previous financial concerns. - ❌ Minor wording tweaks or slight budget reallocations do not qualify. The discussion on whether a proposal qualifies for reconsideration should take place as part of an HYH meeting agenda item. A similar proposal that only modifies minor details will be treated as a duplicate and will not be placed on the agenda until the six-month restriction expires.
+
+- Implementation and Follow-Up
+
+The proposer is responsible for overseeing the implementation of an approved proposal. The proposer must provide regular updates to the HeatSync Labs community via Google Groups or during HYH meetings. If additional resources, approvals, or Board oversight are required during implementation, the proposer must work with the appropriate parties. If the proposer fails to begin implementation within three (3) months, of the stated date in the proposal, or is unable to follow through, the proposal may be reassigned, modified, or canceled by member consensus at an HYH meeting.
+
+<i>Quick Proposal Self-Check Before Submitting:</i>
+
+Have I considered how this affects HeatSync Labs’ space, electrical, ventilation, or utilities? Have I accounted for ongoing costs like maintenance and consumables? Does this project require training, cleaning, or member responsibility? Have I confirmed it’s allowed under zoning, insurance, and safety rules? Does this align with HeatSync Labs’ mission and values? Am I prepared to oversee the implementation if this gets approved?
+
+Addendum: Considerations for Proposal Submissions
+
+When submitting a proposal, it’s important to think beyond the initial idea and consider its long-term impact on HeatSync Labs. Below are key factors that can help refine your proposal and ensure a smoother approval process. Building Impact
+
+Electrical – Will this require new wiring, outlets, or increased power usage? Ventilation – Does the project produce fumes, dust, or heat that require special ventilation? Floor Space – How much space is needed? Is it a temporary or permanent installation? Water – Will plumbing be required? How will water usage be managed?
+
+Ongoing Costs
+
+Maintenance – Who will maintain the equipment, and what’s the expected cost? Repairs – What happens if something breaks? Is there a repair plan? Consumables – Does the project require materials that need to be replenished (e.g., filament, chemicals, filters, etc.)?
+
+Usage Considerations
+
+Cleaning – Does this introduce new cleaning responsibilities? Who is responsible? Training – Will members need special training to use the equipment safely? Classes & Workshops – Could this be integrated into educational offerings for the community? Lifetime – Is this a long-term addition, or does it have a defined end-of-use period?
+
+Other Impacts
+
+Financial – Does the project require additional funding beyond what’s outlined? Utilities – Will it significantly increase electricity, water, or internet usage? Regulatory Compliance – Is it allowed under local zoning laws, safety codes, or lease agreements? HeatSync Labs’ Public Image (“Goodwill”) – Does this align with our reputation and community values? Alignment with Mission & Vision – Does this support HeatSync Labs’ core mission and enhance its role as a creative and educational space?
+
+Quick Proposal Self-Check Before Submitting:
+
+Have I considered how this affects HeatSync Labs’ space, electrical, ventilation, or utilities? Have I accounted for ongoing costs like maintenance and consumables? Does this project require training, cleaning, or member responsibility? Have I confirmed it’s allowed under zoning, insurance, and safety rules? Does this align with HeatSync Labs’ mission and values? Am I prepared to oversee the implementation if this gets approved?
+
 ## CODE OF CONDUCT
 
 Summary- I shall (i) use HeatSync Labs with the purpose to provide a physical space for members and the public to work on projects (especially projects involving physical creation) and to facilitate relevant education, discussion, collaboration, and planning; (ii) take good care of the premises and keep it clean and orderly; (iii) not waste electricity or other resources; (iv) agree and warrant that if at any time I believe conditions to be unsafe, I will immediately discontinue further participation in the activity whether by myself or others; (v) be excellent to each other; and (v) I will report misconduct to the board of directors at <conduct@heatsynclabs.org>.
