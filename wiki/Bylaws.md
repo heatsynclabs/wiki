@@ -108,20 +108,6 @@ Card access may be removed at any time by the Board of Directors. Card access is
 
 <li>
 
-AMENDMENTS
-
-</li>
-
-==
-
-- Proposed amendments to these bylaws shall be submitted in physical or electronic writing to the Board of Directors at a meeting of the Board of Directors. A majority vote of the full quorum of officers of the Board of Directors will be required for the amendment to become enacted and effective upon completing the vote.
-
-</ol>
-
-==
-
-<li>
-
 PROPOSAL PROCESS ==
 
 Based on Current Practices and Robert’s Rules of Order
