@@ -78,7 +78,7 @@ MEMBERSHIP
 
 <li>
 
-Card Access
+CARD ACCESS
 
 </li>
 
