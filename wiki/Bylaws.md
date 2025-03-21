@@ -74,6 +74,36 @@ MEMBERSHIP
 5.  Members may bring guests to HSL and guests may use HSL tools, however all parties involved must have completed a liability waiver and all guests must be adequately supervised by the member who brought them.
 6.  Basic membership may be granted for a period of three months to persons of the community that the Board of Directors declare recognize as having made a significant contribution to the assets of HSL. This program shall be entitled the "Quarterly Scholarship." The Quarterly Scholarship may only be issued to the same person once in a 3-month period and must be awarded by a majority vote of the Board of Directors.
 
+==
+
+<li>
+
+Card Access
+
+</li>
+
+==
+
+Having card access to the lab is both a privilege and a responsibility. Card access is a privilege based on trust, not a "right" of membership. Having card access means that the individual understands and respects the rules of the lab and is willing to conform to said rules.
+
+For example, introduce yourself during open hours, help out during HYH, make friends, make things, ask for proposals that benefit the lab, provide constructive feedback on other's proposals. If you can't come in during open hours, make friends online and ask for favors. It's tough but we're a community not a business.
+
+1.  Eligibility
+
+Must be a paying member at the \$50 or higher level, in good standing, for a minimum of six (6) months Must attend HYH, or during public hours, so the community can be introduced to the individual
+
+1.  Nomination / Proposal
+
+Any current card member can nominate a non-card member once the non-card member meets the eligibility criteria. Proposal for card access is posted publicly via Google Groups (subject prefix "Proposal: Card Access for xxx") at least 2 weeks prior to the HYH meeting. The member making the proposal \*must\* be present at the HYH to introduce the non-card member (if necessary) and to answer any additional questions that might come up. The member making the proposal will be a mentor/responsible for the non-card member for a 6-month probationary period. Members may only make “one” card access nomination per year. Example: If Member A nominates someone, whether it passes or not, Member A may not nominate another person for 12 months.
+
+1.  Approval
+
+Card access can only be voted on by card members. There must be at least 5 card members present to vote. Members can receive cards when approved by a majority vote of card members at an operations meeting ("Hack your Hackerspace" night).
+
+1.  Revocation
+
+Card access may be removed at any time by the Board of Directors. Card access is immediately terminated if the member cancels their membership or lowers their membership to a lower level. Card access may be removed due to code of conduct violation.
+
 ## CODE OF CONDUCT
 
 Summary- I shall (i) use HeatSync Labs with the purpose to provide a physical space for members and the public to work on projects (especially projects involving physical creation) and to facilitate relevant education, discussion, collaboration, and planning; (ii) take good care of the premises and keep it clean and orderly; (iii) not waste electricity or other resources; (iv) agree and warrant that if at any time I believe conditions to be unsafe, I will immediately discontinue further participation in the activity whether by myself or others; (v) be excellent to each other; and (v) I will report misconduct to the board of directors at <conduct@heatsynclabs.org>.
