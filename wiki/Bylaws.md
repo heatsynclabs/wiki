@@ -122,11 +122,7 @@ AMENDMENTS
 
 <li>
 
-PROPOSAL PROCESS
-
-</li>
-
-==
+PROPOSAL PROCESS ==
 
 Based on Current Practices and Robert’s Rules of Order
 
