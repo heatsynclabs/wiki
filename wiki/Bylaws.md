@@ -102,7 +102,7 @@ Card access can only be voted on by card members. There must be at least 5 card 
 
 ### Revocation
 
-Card access may be removed at any time by the Board of Directors. Card access is immediately terminated if the member cancels their membership or lowers their membership to non-eligible level. Card access may be removed due to code of conduct violation.
+Card access may be removed at any time by the Board of Directors. Card access is immediately terminated if the member cancels their membership or lowers their membership to a non-eligible level. Card access may be removed due to code of conduct violation.
 
 ## PROPOSAL PROCESS
 
