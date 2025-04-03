@@ -5,6 +5,7 @@
 - [Open Hours](Open-Hours) — Mon, Tue, Wed 7pm - 10pm, Sat noon - 5pm.
 - [Young Makers](Young-Makers) — bimonthly 1st and 3rd Friday 6pm - 10pm.
 - [Hack Your Hackerspace](Hack-Your-Hackerspace) — bi-monthly 2nd and 4th Thursdays 7pm.
+- Craft Night — 1st and 3rd Monday 7pm - 10pm.
 
 **Weekly**
 
@@ -12,7 +13,7 @@
 
 **Monthly**
 
-- 3d Printer Day — 1st Sunday noon - 5pm.
+- 3d Printer Day — 1st Saturday noon - 5pm.
 - [Arduino Night](Arduino-Night) — 1st Wednesday 7pm - 10pm.
 - [AZ Haunters](https://azhaunters.com/) — Halloween themed making at the lab. Also on [Facebook](https://www.facebook.com/AZHaunters).
 - [Google Developer Group](https://www.meetup.com/phx-android/) — 3rd Thursday 7pm.
