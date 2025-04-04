@@ -13,7 +13,7 @@
 
 **Monthly**
 
-- 3d Printer Day — 1st Saturday noon - 5pm.
+- 3d Printer Day — 1st Sunday noon - 5pm.
 - [Arduino Night](Arduino-Night) — 1st Wednesday 7pm - 10pm.
 - [AZ Haunters](https://azhaunters.com/) — Halloween themed making at the lab. Also on [Facebook](https://www.facebook.com/AZHaunters).
 - [Google Developer Group](https://www.meetup.com/phx-android/) — 3rd Thursday 7pm.
