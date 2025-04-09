@@ -27,9 +27,23 @@ Blender 3D Modeling for Beginners is weekly on Saturdays from 3:30pm - 5pm
 
 ## FDM Printers
 
-- [Ender 5](Ender-5)
-- [Ultimaker Original](Ultimaker-Original)
-- [Ultimaker 2](Ultimaker-2)
+Printer Name / Model \| Web Address \| Location in Lab
+
+Max - K1 Max \| \[Easy GUI\] or \[Fluidd OS GUI\] \| Far Left on the 3D Print Station
+
+EnderDragon - Ender 5 Plus \| <http://enderdragon.local> \| Far Right on the 3D Print Station
+
+Bruce - Ender 5 \| <http://bruce.local> \| Right Display Stand
+
+Cho - Ender 5 \| <http://cho.local> \| Left Display stand
+
+Ta'Chala - Ender 3 S1 Pro \| <http://tachala.local> \| Middle on the 3D Print Station
+
+Shuri - Ender 3 - Mainsail OS \| <http://shuri.local> \| Right Display Stand
+
+Reed - FL Sun SR \| <http://reed.local> \| Right Display Stand
+
+Tony - FL Sun QQ \| <http://tony.local> \| Floor of Right Display Stand
 
 ## SLA Printers
 
