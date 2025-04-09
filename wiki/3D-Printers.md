@@ -45,13 +45,13 @@ Max - K1 Max \| [Easy GUI](http://max.local) or [Fluidd OS GUI](http://max.local
 
 EnderDragon - Ender 5 Plus \| <http://enderdragon.local> \| Far Right on the 3D Print Station
 
-Bruce - Ender 5 \| <http://bruce.local> \| Right Display Stand
+Bruce - Ender 5 Pro \| <http://bruce.local> \| Right Display Stand
 
-Cho - Ender 5 \| <http://cho.local> \| Left Display stand
+Cho - Ender 5 Pro \| <http://cho.local> \| Left Display stand
 
 Ta'Chala - Ender 3 S1 Pro \| <http://tachala.local> \| Middle on the 3D Print Station
 
-Shuri - Ender 3 - Mainsail OS \| <http://shuri.local> \| Right Display Stand
+Shuri - Ender 3 S1 - Mainsail OS \| <http://shuri.local> \| Right Display Stand
 
 Reed - FL Sun SR \| <http://reed.local> \| Right Display Stand
 
