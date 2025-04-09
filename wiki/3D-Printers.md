@@ -27,7 +27,13 @@ Blender 3D Modeling for Beginners is weekly on Saturdays from 3:30pm - 5pm
 
 ## FDM Printers
 
-New additions: Ender 5 plus: EnderDragon and K1 Max: Max -K1 Max is a FAST SMART Printer with a Big Bed - it has Fluidd OS Installed, Auto Leveling, and Spaghetti Detection (not perfect): 300mm x 300mm x 300mm -Ender Dragon has our Biggest Print Bed: 350mm x 350mm x 400mm -Both are Decently LOUD
+New additions: Ender 5 plus: EnderDragon and K1 Max: Max
+
+-K1 Max is a FAST SMART Printer with a Big Bed - it has Fluidd OS Installed, Auto Leveling, and Spaghetti Detection (not perfect): 300mm x 300mm x 300mm
+
+-Ender Dragon has our Biggest Print Bed: 350mm x 350mm x 400mm
+
+-Both are Decently LOUD
 
 All Ender and Delta Printers have a version of Octoprint with Z-offset, Bed Visualizer, Bed Leveling Wizard, Octoslack Addons installed All Pi's are up to date
 
