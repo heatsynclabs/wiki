@@ -23,7 +23,7 @@ Discuss things about 3d printing or the 3d printer station on the HeatSync Labs 
 
 Prusa User Group (PUG) is on the 1st Thursday of the month 7pm - 10pm
 
-Blender Buddies is weekly on Fridays from 4pm - 6pm
+Blender 3D Modeling for Beginners is weekly on Saturdays from 3:30pm - 5pm
 
 ## FDM Printers
 
