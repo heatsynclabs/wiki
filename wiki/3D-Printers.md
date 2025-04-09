@@ -1,5 +1,5 @@
 - **Station Champions:** Antonio Contrisciani, Cpro
-- **Communication:** Slack 3d Printer channel
+- **Communication:** Slack \#3d-printing
 - **Certifications:** Resin Printer
 - **Events:** 3d Printer Day, Prusa User Group, Blender 3D Modeling for Beginners
 
@@ -19,7 +19,7 @@ Discuss things about 3d printing or the 3d printer station on the HeatSync Labs 
 
 ## Events
 
-3d Printer Day is on the 1st Sunday of the month from Noon - 5pm
+3D Printer Day is on the 1st Sunday of the month from Noon - 5pm
 
 Prusa User Group (PUG) is on the 1st Thursday of the month 7pm - 10pm
 
