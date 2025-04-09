@@ -1,7 +1,7 @@
 - **Station Champions:** Antonio Contrisciani, Cpro
 - **Communication:** Slack \#3d-printing
 - **Certifications:** Resin Printer
-- **Events:** 3d Printer Day, Prusa User Group, Blender 3D Modeling for Beginners
+- **Events:** 3D Printer Day, Prusa User Group, Blender 3D Modeling for Beginners
 
 HeatSync Labs maintains a variety of 3D printers.
 
