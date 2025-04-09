@@ -29,7 +29,7 @@ Blender 3D Modeling for Beginners is weekly on Saturdays from 3:30pm - 5pm
 
 Printer Name / Model \| Web Address \| Location in Lab
 
-Max - K1 Max \| \[Easy GUI\] or \[Fluidd OS GUI\] \| Far Left on the 3D Print Station
+Max - K1 Max \| [Easy GUI](http://max.local) or [Fluidd OS GUI](http://max.local:4409) \| Far Left on the 3D Print Station
 
 EnderDragon - Ender 5 Plus \| <http://enderdragon.local> \| Far Right on the 3D Print Station
 
