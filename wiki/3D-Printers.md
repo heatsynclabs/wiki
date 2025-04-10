@@ -37,9 +37,9 @@ New additions: Ender 5 plus: EnderDragon and K1 Max: Max
 
 All Ender and Delta Printers have a version of Octoprint with Z-offset, Bed Visualizer, Bed Leveling Wizard, Octoslack Addons installed All Pi's are up to date
 
-### Printer Web Addresses - Can access on your own laptops while connected to Lab Wifi
+### Printer Web Addresses
 
-**Printer Name / Model \| Web Address \| Location in Lab**
+**- Can access on your own laptops while connected to Lab Wifi** **Printer Name / Model \| Web Address \| Location in Lab**
 
 Max - K1 Max \| [Easy GUI](http://max.local) or [Fluidd OS GUI](http://max.local:4409) \| Far Left on the 3D Print Station
 
