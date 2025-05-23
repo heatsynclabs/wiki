@@ -1,6 +1,6 @@
 - **Station Champions:** David Flores (Training), Nate Caine (Maintenance)
 - **Communication:** Slack \#lasering channel
-- **Certification:** TBD
+- **Certification:** 4th Friday of every Month 7pm - 10pm
 - **Events:** N/A
 
 ## Overview
@@ -28,7 +28,7 @@ There are plenty of safety and other considerations covered in our training clas
 
 Some of the current and past events for the laser cutter:
 
-- Laser Certification the 3rd Sunday of every month for much of 2023-2024.
+- Laser Certification on the 4th Friday every month.
 - [ Laser Meetup](Monthly-Laser-Meetup) 1st Sunday of every month 05/07/2023 thru 01/05/2025
 - [ Build-A-Bot series](Build-A-Bot)
 - [Laser Cut Box Making](https://guestlist.co/events/712497)
