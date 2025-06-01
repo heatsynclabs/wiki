@@ -1,4 +1,4 @@
-2nd and 4th Thursdays of each month at 7pm at the hackerspace. Check the [Event Calendar](http://www.heatsynclabs.org/events/) to confirm.
+2nd Thursdays each month at 7pm and 4th Saturday Each Month at the hackerspace. Check the [Event Calendar](http://www.heatsynclabs.org/) to confirm.
 
 Also see [Past/Upcoming HYH Agendas](Category-HYH)
 
