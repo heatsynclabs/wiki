@@ -52,7 +52,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
 ## Hack Your Hackerspace Meetings
 
 - [Hack Your Hackerspace](Hack-Your-Hackerspace) is when our community gets together to improve the space and clean up.
-  - The 2nd and 4th Thursday 7pm each month.
+  - The 2nd Thursday 7pm each month and 4th Saturday each month.
 - To make proposals, just send an email to the google group with the word proposal in the subject.
   - A week before the next meeting, draft proposals are due and a community member should compile the proposals into an agenda for voting.
   - Final/amended proposals are due 24 hours before the meeting.
