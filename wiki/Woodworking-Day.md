@@ -1,6 +1,6 @@
 ## When
 
-Canceled for now. If anyone wants to take this on then step up and post to the discussion group.
+Canceled. If anyone wants to take this on then step up and post to the discussion group.
 
 ## Event Description
 
