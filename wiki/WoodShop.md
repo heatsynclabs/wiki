@@ -1,4 +1,4 @@
-- **Station Champions:** Shaundra Newstead, Eric Ose
+- **Station Champions:** Shaundra Newstead
 - **Communication:** Slack \#woodshop channel
 - **Certification:** ask for a checkout for all tools
 - **Events:** [ Woodworking Day](Woodworking-Day)
