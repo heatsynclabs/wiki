@@ -1,6 +1,6 @@
 ## When
 
-Canceled for now. I just don't know enough to host this. I'll try and find someone to help me out with this. If anyone has suggestions or wants to work with me as I try out projects not as an event reach out. - Eric Ose
+Canceled for now. If anyone wants to take this on then step up and post to the discussion group.
 
 ## Event Description
 
