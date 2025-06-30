@@ -17,7 +17,7 @@ HeatSync Labs is run by a Board of Directors, which aids in procedural and finan
 </tr>
 <tr>
 <td style="padding:1rem"><p>Champion</p></td>
-<td><p>Beau LeDuc</p></td>
+<td><p>Darrell Wertz (interim)</p></td>
 </tr>
 <tr>
 <td style="padding:1rem"><p>Operations</p></td>
@@ -25,7 +25,7 @@ HeatSync Labs is run by a Board of Directors, which aids in procedural and finan
 </tr>
 <tr>
 <td style="padding:1rem"><p>Secretary</p></td>
-<td><p>Chris McLaughlin</p></td>
+<td><p>Sheldon McGee (interim)</p></td>
 </tr>
 <tr>
 <td style="padding:1rem"><p>Treasurer</p></td>
