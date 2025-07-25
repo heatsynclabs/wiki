@@ -1,6 +1,6 @@
 ## Status
 
-We will be hosting this as a class for December 2024. See the calendar dates below. This is also available as a class year round if you have a group of at least 6 people who want to attend this class.
+We will be hosting this as a class for August 2025. See the calendar dates below. This is also available as a class year round if you have a group of at least 6 people who want to attend this class.
 
 ## Overview
 
@@ -8,13 +8,13 @@ Build-A-Bot is a workshop where you design, laser cut, and solder your own robot
 
 If you are only doing the first event you can make your own non-electronic robot that works as a figure. Doing them both you can create a custom electronic version.
 
-**Designing with Inkscape** [12/07/24](https://guestlist.co/events/789897) This event works great for anyone interested in designing things for the laser cutter or vinyl cutter. With demonstrations of the vinyl cutter and laser cutter.
+**Designing with Inkscape** [08/16/2025](https://guestlist.co/events/804675) This event works great for anyone interested in designing things for the laser cutter or vinyl cutter. With demonstrations of the vinyl cutter and laser cutter. This portion is for adults and kids 10+.
 
-**Solder A Robot!** [12/14/24](https://guestlist.co/events/789879) Anyone age 7 and up can solder a robot. We will have several robots to choose from if you don't have a custom design already.
+**Solder A Robot!** [08/23/2025](https://guestlist.co/events/804684) Anyone age 7 and up can solder a robot. We will have several robots to choose from if you don't have a custom design already.
 
 ## Inkscape Design Class / Design A Bot
 
-Build-A-Bot is 2 events \$15 each, \$30 total tickets sold separately.
+Build-A-Bot is 2 events, \$15 for the design class, \$10 for the soldering. You must purchase the separately.
 
 In this class Eric Ose will show you how to create vector designs with Inkscape for use with the vinyl cutter or laser cutter. How to import images and trace them, how to trace things manually, how to edit nodes, how to combine shapes to make new shapes, how to deal with objects as well as exporting to dxf for the 80 Watt laser cutter.
 
