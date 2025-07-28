@@ -1,7 +1,7 @@
-- **Station Champions:** Antonio Contrisciani, Cpro
+- **Station Champions:** Antonio Contrisciani
 - **Communication:** Slack \#3d-printing
 - **Certifications:** Resin Printer
-- **Events:** 3D Printer Day, Prusa User Group, and Blender 3D Modeling for Beginners
+- **Events:** 3D Printer Day, Prusa User Group
 
 HeatSync Labs maintains a variety of 3D printers.
 
@@ -23,17 +23,9 @@ Discuss things about 3d printing or the 3d printer station on the HeatSync Labs 
 
 Prusa User Group (PUG) is on the 1st Thursday of the month 7pm - 10pm
 
-Blender 3D Modeling for Beginners is weekly on Saturdays from 3:30pm - 5pm
-
 ## FDM Printers
 
-New additions: Ender 5 plus: EnderDragon and K1 Max: Max
-
--K1 Max is a FAST SMART Printer with a Big Bed - it has Fluidd OS Installed, Auto Leveling, and Spaghetti Detection (not perfect): 300mm x 300mm x 300mm
-
 -Ender Dragon has our Biggest Print Bed: 350mm x 350mm x 400mm
-
--Both are Decently LOUD
 
 All Ender and Delta Printers have a version of Octoprint with Z-offset, Bed Visualizer, Bed Leveling Wizard, Octoslack Addons installed All Pi's are up to date
 
@@ -43,21 +35,19 @@ All Ender and Delta Printers have a version of Octoprint with Z-offset, Bed Visu
 
 **Printer Name / Model \| Web Address \| Location in Lab**
 
-Max - K1 Max \| [Easy GUI](http://max.local) or [Fluidd OS GUI](http://max.local:4409) \| Far Left on the 3D Print Station
-
-EnderDragon - Ender 5 Plus \| <http://enderdragon.local> \| Far Right on the 3D Print Station
-
-Bruce - Ender 5 Pro \| <http://bruce.local> \| Right Display Stand
-
-Cho - Ender 5 Pro \| <http://cho.local> \| Left Display stand
+EnderDragon - Ender 5 Plus \| <http://enderdragon.local> \| Right on the 3D Print Station
 
 Ta'Chala - Ender 3 S1 Pro \| <http://tachala.local> \| Middle on the 3D Print Station
 
-Shuri - Ender 3 S1 - Mainsail OS \| <http://shuri.local> \| Right Display Stand
+Bruce - Ender 5 Pro \| <http://bruce.local> \| Left on the 3D Print Station
 
-Reed - FL Sun SR \| <http://reed.local> \| Right Display Stand
+Cho - Ender 5 Pro \| <http://cho.local> \| Display stand
 
-Tony - FL Sun QQ \| <http://tony.local> \| Floor of Right Display Stand
+Shuri - Ender 3 S1 - Mainsail OS \| <http://shuri.local> \| Display Stand
+
+Reed - FL Sun SR \| <http://reed.local> \| Display Stand
+
+Tony - FL Sun QQ \| <http://tony.local> \| Floor of Display Stand
 
 ## SLA Printers
 
