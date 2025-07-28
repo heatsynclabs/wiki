@@ -57,5 +57,7 @@ Tony - FL Sun QQ \| <http://tony.local> \| Floor of Display Stand
 
 [PrintDry Filament Dryer](https://www.printdry.com/wp-content/uploads/2019/03/PrintDry_Filament-Dryer_manual_20160419.pdf)
 
+## Printer Repair Notes
+
 ---
 *Categories: [3D-Printing](Category-3D-Printing)*
