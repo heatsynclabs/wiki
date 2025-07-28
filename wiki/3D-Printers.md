@@ -59,5 +59,7 @@ Tony - FL Sun QQ \| <http://tony.local> \| Floor of Display Stand
 
 ## Printer Repair Notes
 
+On our **\#3d-printing** Slack Channel; on the top tabs you should be able to see the most up to date notes on all our printers. There are 2 tabs; **Printer Notes** and **Printer Repair Notes**
+
 ---
 *Categories: [3D-Printing](Category-3D-Printing)*
