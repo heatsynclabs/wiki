@@ -12,17 +12,17 @@ If you are only doing the first event you can make your own non-electronic robot
 
 **Solder A Robot!** [08/23/2025](https://guestlist.co/events/804684) Anyone age 7 and up can solder a robot. We will have several robots to choose from if you don't have a custom design already.
 
-## Inkscape Design Class / Design A Bot
+## Intro to Designing Laser Cut Projects / Design A Bot
 
-Build-A-Bot is 2 events, \$15 for the design class, \$10 for the soldering. You must purchase the separately.
+Go from having never designed anything to making your own unique laser cut projects.
 
-In this class Eric Ose will show you how to create vector designs with Inkscape for use with the vinyl cutter or laser cutter. How to import images and trace them, how to trace things manually, how to edit nodes, how to combine shapes to make new shapes, how to deal with objects as well as exporting to dxf for the 80 Watt laser cutter.
+This class works as a solo class or as part of the Build-A-Bot series. See this link for more details. It is also best for adults and kids age 10 and up, but parents can work with their younger kids if they want. [The Solder A Robot! class is on 08/23/2025](https://guestlist.co/events/804684) tickets are separate.
 
-We will be using Inkscape 1.3 (or later release). Laptops are provided, but you can also bring your own laptop with it installed and select a "Bring Your Own Laptop" ticket.
+You will learn how to use sketches, clip-art, photos, and shapes to combine and create your own unique designs for laser cut projects. While covering the basics of the Inkscape design software.
 
-This class works as a solo class or as part of the Build-A-Bot series. See this link for more details. It is also best for adults and kids age 10 and up, but parents can work with their younger kids if they want.
+Inkscape is a free and open source vector editor. Vector graphics are based on points lines and curves which can then be used as the paths to cut with a laser cutter.
 
-At the end of class we will laser cut the robots.
+Many of the methods and techniques we will discuss will work regardless of the specific software you use but we will cover it Inkscape.
 
 ## Solder a Robot
 
