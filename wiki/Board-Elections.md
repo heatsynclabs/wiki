@@ -37,7 +37,7 @@ See this [link](http://wiki.heatsynclabs.org/wiki/Board_Members) for current mem
 |----|----|
 | **Position** | **Alumni** |
 | **Champion** | Jeremy Leung, Sean Hillmeyer, Jacob Rosenthal, Tim Gerrits, Luis Montes, Ryan McDermott, Larry Campbell, Trish Blickfeldt, Milton Williams, Shaundra Newstead, Greg Oswalt, Eric Wood, Mike Wolfson, Jot Powers, Eric Ose, Beau Leduc |
-| **Secretary/Scribe** | Andrea Young, Paul Hickey, Eric Ose, Alyson Zepeda, Luis Montes, Shaundra Newstead |
+| **Secretary/Scribe** | Andrea Young, Paul Hickey, Eric Ose, Alyson Zepeda, Luis Montes, Shaundra Newstead, Chris McLaughlin |
 | **Treasurer** | Jose Diaz, Marita Ogden, Prescott Ogden, Chad Stearns, Boots(Josh Parry), David Flores, Eric Wood |
 | **Operations Manager (formerly called IT Administrator)** | Zachary Giles, Will Bradley, Moheeb Zara, Nate Plamondon, Gabe Finke, Andrew Lewton |
 | **PR/Marketing (obsolete role)** | Joyce Tang, Rick Osgood |
