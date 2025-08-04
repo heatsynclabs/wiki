@@ -1,5 +1,5 @@
 - **Station Champions:** Antonio Contrisciani
-- **Communication:** Slack \#3d-printing
+- **Communication:** Slack [\#3d-printing](https://heatsynclabs.slack.com/archives/C9YBFJ3LJ)
 - **Certifications:** Resin Printer
 - **Events:** 3D Printer Day, Prusa User Group
 
@@ -9,7 +9,7 @@ FDM (Fused Deposition Modeling) and SLA (StereoLithography Apparatus) printing t
 
 The SLA printers will require specific training prior to use.
 
-Discuss things about 3d printing or the 3d printer station on the HeatSync Labs 3d printing Slack channel. If there are problems @ Frank R, Antonio, so they are aware.
+Discuss things about 3d printing or the 3d printer station on the HeatSync Labs 3d printing Slack channel. If there are problems @ Antonio Contrisciani, so they are aware.
 
 ## On Boarding
 
