@@ -1,7 +1,7 @@
 - **Station Champions:** Needed
 - **Communication:** Slack \#art channel
 - **Certification:** None
-- **Events:** None, but anyone interested can host an event
+- **Events:** Craft Night - 1st and 3rd Monday each Month 7pm
 
 ## Overview
 
