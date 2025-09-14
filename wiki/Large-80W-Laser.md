@@ -47,7 +47,9 @@ These lists are not exhaustive. If your material is not on either list, ask firs
     1.  For more detailed discussion, checkout [Inkscape](Inkscape)
 2.  Shapes, Text, Graphics
     1.  Use [LaserCut 5.3](LaserCut-5.3) for simple work, or
-    2.  Import from Adobe Illustractor, [Inkscape](Inkscape), Corel, AutoCad, etc
+    2.  Import from Adobe Illustrator, [Inkscape](Inkscape), Corel, AutoCad, etc
+        1.  Note that LaserCut can't handle SVG files, you'll need DXF instead.
+        2.  In Inkscape you can use the "Save As..." menu (but not the "Export" menu!) to save as DXF.
 3.  Assign objects to layers then values for:
     1.  Speed
     2.  Power
