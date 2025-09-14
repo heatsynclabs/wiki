@@ -4,7 +4,7 @@ The software for the laser cutter is usable, but certainly not a best case scena
 
 - Top right menu with layers (colors): Each layer can cut or engrave, with its own speed, power, output/hidden, and number of times to run.
 - In the cut options menu (when you double click on speed or power) the blower options are not applicable.
-- The Up/Down buttons let you sequence cuts/engraves in the order you want.
+- The Up/Down buttons let you sequence layers (and the cuts/engraves they do) in the order you want. (It is generally advisable to only start cuts after all engraves are complete.)
 - The Compute button allows you to then use the Simulate or Estimate Work Time buttons. Make sure nothing is selected beforehand in order to be accurate.
 - X, Y, and Z control buttons operate as expected. Datum and Z Datum also work.
 - Never push the Laser button on the computer. Once you push it, the laser will fire until you push the stop button on the physical machine. The computer can't stop the laser from firing.
