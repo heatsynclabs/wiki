@@ -10,7 +10,7 @@ The software for the laser cutter is usable, but certainly not a best case scena
 - Never push the Laser button on the computer. Once you push it, the laser will fire until you push the stop button on the physical machine. The computer can't stop the laser from firing.
 - Run Box and Clip Box outline the outer rectangle of your project. Run is with the laser off, Clip is with the laser on.
 - The Pause button has the same problem as the machine; never use it, as the laser will fire.
-- The Start button starts cutting the file currently displayed on the laser's display screen.
+- The Start button starts cutting the file that has been downloaded to the laser. (This may differ from what is displayed in the editor!)
 - The Stop button, unlike on the machine, only restarts the cut. It goes back to the program's origin and begins again. To stop, press the stop button on the machine or the Emergency Stop button in an emergency.
 - The DownLoad button opens the file manager.
   - Don't press the Download CFG. It will replace the laser's config and possibly mess it up.
