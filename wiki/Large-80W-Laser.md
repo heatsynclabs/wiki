@@ -51,8 +51,8 @@ These lists are not exhaustive. If your material is not on either list, ask firs
         1.  Note that LaserCut can't handle SVG files, you'll need DXF instead.
         2.  In Inkscape you can use the "Save As..." menu (but not the "Export" menu!) to save as DXF.
 3.  Assign objects to layers then values for:
-    1.  Speed
-    2.  Power
+    1.  Speed (consult the [laser log](https://docs.google.com/spreadsheets/d/1BpAYtyFIKQ4UoXv31mKC43YFxfBk34d_q-muw1SP2aU/edit?usp=sharing) to find good values for your material)
+    2.  Power (consult the [laser log](https://docs.google.com/spreadsheets/d/1BpAYtyFIKQ4UoXv31mKC43YFxfBk34d_q-muw1SP2aU/edit?usp=sharing) to find good values for your material)
     3.  Frequency
     4.  Output
 4.  Set drawing origin (Choose intelligently based on your design)
