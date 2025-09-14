@@ -11,7 +11,7 @@ The software for the laser cutter is usable, but certainly not a best case scena
 - Run Box and Clip Box outline the outer rectangle of your project. Run is with the laser off, Clip is with the laser on.
 - The Pause button pauses cutting.
 - The Start button starts cutting the file that has been downloaded to the laser. (This may differ from what is displayed in the editor!)
-- The Stop button, unlike on the machine, only restarts the cut. It goes back to the program's origin and begins again. To stop, press the stop button on the machine or the Emergency Stop button in an emergency.
+- The Stop button aborts the current cut. When you start again, it will repeat the cut pattern from the beginning.
 - The DownLoad button opens the file manager.
   - Don't press the Download CFG. It will replace the laser's config and possibly mess it up.
   - The Download File takes the current config on the laser and saves it to your computer.
