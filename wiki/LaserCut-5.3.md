@@ -9,7 +9,7 @@ The software for the laser cutter is usable, but certainly not a best case scena
 - X, Y, and Z control buttons operate as expected. Datum and Z Datum also work.
 - Never push the Laser button on the computer. Once you push it, the laser will fire until you push the stop button on the physical machine. The computer can't stop the laser from firing.
 - Run Box and Clip Box outline the outer rectangle of your project. Run is with the laser off, Clip is with the laser on.
-- The Pause button pauses cutting.
+- The Pause button pauses cutting. \_Note:\_ if it is already paused via LaserCut, opening the lid on the 80w cutter will UNPAUSE cutting (activate the laser with the lid OPEN)!
 - The Start button starts cutting the file that has been downloaded to the laser. (This may differ from what is displayed in the editor!)
 - The Stop button aborts the current cut. When you start again, it will repeat the cut pattern from the beginning.
 - The DownLoad button opens the file manager.
