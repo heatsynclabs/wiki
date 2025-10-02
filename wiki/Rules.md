@@ -35,7 +35,7 @@ HeatSync membership is open to the public, but use of certain equipment and key/
 <ul>
 <li>A vote at board elections</li>
 <li>A bankers box for storage</li>
-<li>Qualification to be nominated for 24/7 key access</li>
+<li>Can be nominated for 24/7 key access, see <a href="Bylaws#card-access">Bylaws</a></li>
 </ul></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;" data-valign="top"><p>Costs $100 per month, and you get all the benefits and rights of a basic membership, plus</p>
