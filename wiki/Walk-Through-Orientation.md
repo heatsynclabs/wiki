@@ -85,9 +85,8 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - You can lock the doors any time; we're a private member organization.
     - Do not simply open the doors and then leave; hand off responsibility for the doors to someone when you step out, or lock the doors until someone else takes responsibility.
 
-## Zombie Contingency Plans
+## Where to Find Things
 
-- Just kidding; where things are in the space
 - MSDS / Safety Data Sheets: In the kitchen in the window.
   - If you bring things and store them in the lab they need to be entered into the Safety Data Sheets
 - Cleaning supplies: In the kitchen on the rack and in the cupboards next to the rack.
