@@ -40,7 +40,7 @@ If you are interested in how these people got to be on the board, look at this p
 
 - [Board Elections](Board-Elections)
 
-## Past Board Members
+## Board Members Since 2022
 
 | Position   | Name              |
 |------------|-------------------|
@@ -52,6 +52,8 @@ If you are interested in how these people got to be on the board, look at this p
 
 2023 - 2024 Board Members
 
+## Board Members Before 2022
+
 | Position   | Name              |
 |------------|-------------------|
 | Champion   | Darrell Wertz     |
@@ -61,3 +63,18 @@ If you are interested in how these people got to be on the board, look at this p
 | Treasurer  | Shaundra Newstead |
 
 2022 - 2023 Board Members
+
+|  |  |
+|----|----|
+| **Position** | **Alumni** |
+| **Champion** | Jeremy Leung, Sean Hillmeyer, Jacob Rosenthal, Tim Gerrits, Luis Montes, Ryan McDermott, Larry Campbell, Trish Blickfeldt, Milton Williams, Shaundra Newstead, Greg Oswalt, Eric Wood, Mike Wolfson, Jot Powers, Eric Ose, Beau Leduc |
+| **Secretary/Scribe** | Andrea Young, Paul Hickey, Eric Ose, Alyson Zepeda, Luis Montes, Shaundra Newstead, Chris McLaughlin |
+| **Treasurer** | Jose Diaz, Marita Ogden, Prescott Ogden, Chad Stearns, Boots(Josh Parry), David Flores, Eric Wood |
+| **Operations Manager (formerly called IT Administrator)** | Zachary Giles, Will Bradley, Moheeb Zara, Nate Plamondon, Gabe Finke, Andrew Lewton |
+| **PR/Marketing (obsolete role)** | Joyce Tang, Rick Osgood |
+| **Editor (obsolete role)** | David Huerta |
+| **Event Coordinator (obsolete role)** | Consolidated into secretary role |
+| **Fundraising/Social Coordinator (obsolete role)** | Split between marketing and individual champions of fundraising ideas who will communicate with scribe |
+| **Resource Manager (obsolete role)** | Andre Sprague |
+| **Legal** | External party, paid service |
+| **Accountant/CPA** | External party, paid service |
