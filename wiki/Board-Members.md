@@ -52,8 +52,6 @@ If you are interested in how these people got to be on the board, look at this p
 
 2023 - 2024 Board Members
 
-## Board Members Before 2022
-
 | Position   | Name              |
 |------------|-------------------|
 | Champion   | Darrell Wertz     |
@@ -63,6 +61,8 @@ If you are interested in how these people got to be on the board, look at this p
 | Treasurer  | Shaundra Newstead |
 
 2022 - 2023 Board Members
+
+## Board Members Before 2022
 
 |  |  |
 |----|----|
