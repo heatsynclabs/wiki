@@ -27,6 +27,6 @@ Mesa, AZ 85201
 Questions for everyone!\
 \# Why do you see yourself as a good fit for a position?\
 
-## Current Board Members
+## Current and Past Board Members
 
-See this [link](http://wiki.heatsynclabs.org/wiki/Board_Members) for current members.
+See this [link](http://wiki.heatsynclabs.org/wiki/Board_Members) for current and past members.
