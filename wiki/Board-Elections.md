@@ -14,14 +14,6 @@ There is much written about how large a board should be. Some non profits will s
 
 **Operations:** The Office of Operations shall be responsible for the oversight of HSL operations and delegation of operational tasks to HSL volunteers.
 
-## Board Meeting
-
-**When**: Quarterly\
-**Time**: 6pm\
-**Place**: HeatSync Labs\
-108 West Main St.\
-Mesa, AZ 85201
-
 ## Interested In Being a Board Member?
 
 Questions for everyone!\
