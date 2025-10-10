@@ -11,11 +11,6 @@ There is much written about how large a board should be. Some non profits will s
 3.  **Secretary**: The office of Secretary shall be responsible for recording the proceedings of HeatSync Lab functions, such as events, fundraiser, and other official activities. Additionally, the office of the Secretary shall be responsible for the oversight of all records and papers produced in HSL's operations.
 4.  **Operations**: The Office of Operations shall be responsible for the oversight of HSL operations and delegation of operational tasks to HSL volunteers.
 
-## Interested In Being a Board Member?
-
-Questions for everyone!\
-\# Why do you see yourself as a good fit for a position?\
-
 ## Current and Past Board Members
 
 See this [link](http://wiki.heatsynclabs.org/wiki/Board_Members) for current and past members.
