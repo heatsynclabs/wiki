@@ -2,6 +2,24 @@ HeatSync Labs is run by a Board of Directors, which aids in procedural and finan
 
 ## Current Board Members
 
+| Position   | Name                                              |
+|------------|---------------------------------------------------|
+| Champion   | David Lang                                        |
+| Champion   | LANDON                                            |
+| Operations | Arnob Taher                                       |
+| Secretary  | Brett Neese                                       |
+| Treasurer  | Shaundra Newstead w/ assistance from David Flores |
+
+2024 - 2025 Board Members
+
+## Board Elections
+
+If you are interested in how these people got to be on the board, look at this page:
+
+- [Board Elections](Board-Elections)
+
+## Past Board Members Since 2022
+
 <table>
 <caption>2024 - 2025 Board Members</caption>
 <thead>
@@ -34,14 +52,6 @@ HeatSync Labs is run by a Board of Directors, which aids in procedural and finan
 </tbody>
 </table>
 
-## Board Elections
-
-If you are interested in how these people got to be on the board, look at this page:
-
-- [Board Elections](Board-Elections)
-
-## Board Members Since 2022
-
 | Position   | Name              |
 |------------|-------------------|
 | Champion   | Darrell Wertz     |
@@ -62,7 +72,7 @@ If you are interested in how these people got to be on the board, look at this p
 
 2022 - 2023 Board Members
 
-## Board Members Before 2022
+## Past Board Members Before 2022
 
 |  |  |
 |----|----|
