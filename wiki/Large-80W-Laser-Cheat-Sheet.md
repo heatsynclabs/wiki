@@ -1,4 +1,6 @@
-The goal of this guide is to have a checklist that fits on an 8.5 x 11-inch *sheet of paper*. If you add new info, you must also pick which info you're going to delete!
+The goal of this guide is to have a checklist that fits on an 8.5 x 11-inch *sheet of paper*.
+
+If you add new info, you must also pick which info you're going to delete!
 
 - Laser switch on
 - Open LightBurn
