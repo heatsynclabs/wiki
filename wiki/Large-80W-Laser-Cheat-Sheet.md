@@ -1,6 +1,6 @@
-Goal is a *short* checklist that fits on an 8.5 x 11-inch sheet of paper.
+Goal is a *short* checklist that fits on an 8.5 x 11-inch sheet of paper. Deep details should go on the main [Large_80W_Laser](Large-80W-Laser) page.
 
-If you add new info, you must also pick which info you're going to delete to make room!
+If you add new info here, please also pick what you'll delete from this page to make room!
 
 - Laser switch on
 - Open LightBurn
