@@ -154,7 +154,7 @@ Once you've fixed your problem, or think you have, you can hit ESC on the machin
 
 ## Old logs
 
-- Work log to [form](https://docs.google.com/forms/d/1ld4T9pDXP6uqZbYmlebe9SxATHcP436kMobnhSQEKPI/viewform).
+- Log work to [form](https://docs.google.com/forms/d/1ld4T9pDXP6uqZbYmlebe9SxATHcP436kMobnhSQEKPI/viewform).
 - Work log [results](https://docs.google.com/spreadsheet/ccc?key=0AoBMPvlNCqvldHl5SERwRHVjN09wRHEtODZzd2RXNWc&usp=sharing)
 - Log any issues. Redtag device if necessary.
 
