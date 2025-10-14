@@ -4,10 +4,8 @@ If you add new info here, please also pick what you'll delete from this page to 
 
 - Laser switch on
 - Open LightBurn
-- Establish connection:
-  - If workspace is empty, draw anything
-  - Download, Del All, Download Current
-- Z\* to get bed well below laser head
+- Establish connection by clicking DownLoad (can just close download window again)
+- Z+ to get bed well below laser head
 - Y+/X+ to move laser head to far corner
 - If you're using honeycomb bed, place it
 - Set up layers
@@ -17,7 +15,7 @@ If you add new info here, please also pick what you'll delete from this page to 
 - Set laser origin
 - DownLoad (yes, again)
   - Del all
-  - Send current
+  - Download current
 - Run Box and make sure laser head's movement is entirely within material
   - If it beeps and won't run, are the bounds of your cut entirely within the bounds of the cutting bed?
   - What is your laser origin set to?
