@@ -9,7 +9,7 @@ If you add new info here, please also pick what you'll delete from this page to 
 - Y+/X+ to move laser head to far corner
 - If you're using honeycomb bed, place it
 - Set up layers
-  - Cut/Engrave with appropriate speed/power
+  - Cut/Engrave with appropriate speed/power (see the [log](https://docs.google.com/spreadsheets/d/1BpAYtyFIKQ4UoXv31mKC43YFxfBk34d_q-muw1SP2aU/edit?usp=sharing))
   - Air assist
   - Ensure layer is "On" so laser turns on
 - Set laser origin
