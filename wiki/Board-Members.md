@@ -77,7 +77,7 @@ If you are interested in how these people got to be on the board, look at this p
 |  |  |
 |----|----|
 | **Position** | **Alumni** |
-| **Champion** | Jeremy Leung, Sean Hillmeyer, Jacob Rosenthal, Tim Gerrits, Luis Montes, Ryan McDermott, Larry Campbell, Trish Blickfeldt, Milton Williams, Shaundra Newstead, Greg Oswalt, Eric Wood, Mike Wolfson, Jot Powers, Eric Ose, Beau Leduc |
+| **Champion** | Jeremy Leung, Sean Hillmeyer, Jacob Rosenthal, Tim Gerrits, Luis Montes, Ryan McDermott, Larry Campbell, Trish Blickfeldt, Milton Williams, Shaundra Newstead, Greg Oswalt, Eric Wood, Mike Wolfson, Jot Powers, Eric Ose, Beau Leduc, Darrell Wertz |
 | **Secretary/Scribe** | Andrea Young, Paul Hickey, Eric Ose, Alyson Zepeda, Luis Montes, Shaundra Newstead, Chris McLaughlin |
 | **Treasurer** | Jose Diaz, Marita Ogden, Prescott Ogden, Chad Stearns, Boots(Josh Parry), David Flores, Eric Wood |
 | **Operations Manager (formerly called IT Administrator)** | Zachary Giles, Will Bradley, Moheeb Zara, Nate Plamondon, Gabe Finke, Andrew Lewton |
