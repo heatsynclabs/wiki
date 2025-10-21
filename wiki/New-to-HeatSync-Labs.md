@@ -1,4 +1,10 @@
-## Welcome!
+## What is HeatSync Labs?
+
+Established in 2009, HeatSync Labs is Arizona's first 501(c)3 [hackerspace](https://en.wikipedia.org/wiki/Hackerspace). We are a community workshop that makes workspace, tools, and other resources available to students and hobbyists, artists, engineers and entrepreneurs to build their projects, prototypes, and art. We believe in creating a community of collaboration and learning-by-doing.
+
+The concept for HeatSync Labs came out of the desire for a group of Arizona locals to get together and continue working on projects after academic life. Instead of working alone, we wanted to build our workshops in public. Throughout 2009, we discovered, and in some cases, visited, other notable 'hackerspaces' popping up across the country ([NoiseBridge](https://noisebridge.net/), [Pumping Station: One](http://pumpingstationone.org/), [NYC Resistor](https://www.nycresistor.com/), [Hacklab Toronto](https://hacklab.to/), and [HacDC](http://hacdc.org/)) and wondered what was holding us back. We decided to join in on the fun.
+
+## Getting started
 
 - Be sure to fill out a [waiver](https://forms.gle/zss1bJSN7ocKQudz6)
 - If you want to donate [ memberships](Membership-Guidelines#membership-guidelines) are an option
