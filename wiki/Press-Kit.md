@@ -1,8 +1,18 @@
 Thank you for your interest!
 
-See a press-ready description of HeatSync here: <http://www.heatsynclabs.org/about/>
+See below for a press-ready description of HeatSync.
+
+## Philosophy
+
+Established in 2009, HeatSync Labs is Arizona's first 501(c)3 [hackerspace](https://en.wikipedia.org/wiki/Hackerspace). We are a community workshop that makes workspace, tools, and other resources available to students and hobbyists, artists, engineers and entrepreneurs to build their projects, prototypes, and art. We believe in creating a community of collaboration and learning-by-doing.
 
 **Please remember:** the proper spelling/capitalization is **HeatSync Labs** or simply **HeatSync**, and our preferred pronouns are *hackerspace, makerspace, workshop, or community*. It may be tempting or convenient to call us an incubator, coworking space, or hangout, and those things might happen at HeatSync, but that isn't our purpose or focus and so using those words detracts from the physical creation and invention that is our core purpose.
+
+## History
+
+The concept for HeatSync Labs came out of the desire for a group of Arizona locals to get together and continue working on projects after academic life. Instead of working alone, we wanted to build our workshops in public. Throughout 2009, we discovered, and in some cases, visited, other notable 'hackerspaces' popping up across the country ([NoiseBridge](https://noisebridge.net/), [Pumping Station: One](http://pumpingstationone.org/), [NYC Resistor](https://www.nycresistor.com/), [Hacklab Toronto](https://hacklab.to/), and [HacDC](http://hacdc.org/)) and wondered what was holding us back. We decided to join in on the fun.
+
+We started our meetings in 2009 at the Mesa Fraternal Order of Police lodge, sans wifi or permanent space, then moving to Chandler's Gangplank in January 2010, and as of June 2011 began renting our own facility in Downtown Mesa. What started out as a few excited people in a police lodge meeting biweekly is now a community of hundreds, with over fourty paying members occupying our location nearly 24/7.
 
 ## Logo Pack & Brand Standards
 
