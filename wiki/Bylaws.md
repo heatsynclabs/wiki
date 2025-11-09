@@ -368,7 +368,7 @@ AMENDMENTS
 
 ==
 
-1.  Proposed amendments to these bylaws shall be submitted in physical or electronic writing to the Board of Directors. At a meeting of the Board of Directors, a majority vote of the full quorum of officers of the Board of Directors will be required for the amendment to become enacted and effective upon completing the vote.
+1.  Proposed amendments to these bylaws shall be submitted in electronic writing to the membership through the proposal process outlined in section 6 and subject to the same rules and procedures including, but not limited to, a non-binding vote by members at a membership meeting. This procedure applies to all proposed amendments or changes to these bylaws, including those initiated by the Board of Directors. Following membership review, the proposed amendment shall be submitted in physical or electronic writing to the Board of Directors. At a meeting of the Board of Directors, a majority vote of the full quorum of officers of the Board of Directors will be required for the amendment to become enacted and effective upon completing the vote.
 
 </ol>
 
