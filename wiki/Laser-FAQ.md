@@ -2,12 +2,6 @@ In this FAQ for the [Laser Cutters](Laser-Cutters) we will be listing all the qu
 
 # Misc
 
-## Q: Who should come to the Laser Meetup?
-
-- Anyone who is interested or curious even if you don't have a design in mind.
-- Anyone wanting to get help on a design or time cutting a project (you don't need to be certified ahead of class).
-- Kids can come as well, but anyone under 18 must have an adult parent or guardian with them.
-
 ## Q: Why did I hear something beep 5 times?
 
 - That could be the medical cart locking. Not a problem.
@@ -305,11 +299,11 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 
 ## Q: Is the laser certification I took x years ago still valid?
 
-- Yes, and if you are not comfortable and need a refresher or help laser cutting then the monthly Laser Meetup is a good time to get re-acquainted.
+- Yes, and if you are not comfortable and need a refresher or ask someone else to help during open hours.
 
 ## Q: I took the certification for the 80W Laser in the past, but not the 60W Laser. Do I need to re-take the certification?
 
-- No, but you will need to get acquainted with the differences. The Laser Meetup is a good time to come learn about the differences.
+- No, but you will need to get acquainted with the differences.
 
 # LightBurn
 
