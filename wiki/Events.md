@@ -6,7 +6,6 @@
 - Craft Night — 1st and 3rd Mondays each month 7pm - 10pm.
 - [Young Makers](Young-Makers) — bimonthly 1st and 3rd Friday 6pm - 10pm.
 - [Hack Your Hackerspace](Hack-Your-Hackerspace) — bi-monthly 2nd Thursday 7pm, 4th Saturday 9am.
-- Craft Night — 1st and 3rd Monday 7pm - 10pm.
 
 **Weekly**
 
