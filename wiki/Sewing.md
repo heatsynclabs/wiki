@@ -1,6 +1,6 @@
 - **Station Champions:** Linda Krecker, and Michelle Mueller
 - **Communication:** [Google Discussion Group](https://groups.google.com/g/heatsynclabs/)
-- **Certification:** Checkouts for the Consew Industrial machine, Husqvarna Embroidery, Baby Lock Serger
+- **Certification:** Checkout for the Consew Industrial machine
 - **Events:** Sewing Night on the 2nd Tuesday each month from 7pm - 10pm
 
 ***Generally**...*
@@ -12,13 +12,7 @@
 
 ***If you already know how to sew...***
 
-- Just use the basic sewing machines.
-
-***If you need to use any of these you will need to get checked out during Sewing Night first.***
-
-- Consew Industrial machine
-- Husqvarna Embroidery
-- Baby Lock Serger
+- Just use the basic sewing machines, serger, or embroidery machines after filling out a waiver.
 
 ## Embroidery Machine
 
