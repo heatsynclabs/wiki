@@ -3,7 +3,7 @@ Goal is a *short* checklist that fits on an 8.5 x 11-inch sheet of paper. Deep d
 If you add new info here, please also pick what you'll delete from this page to make room!
 
 - Laser switch on
-- Open LightBurn
+- Open LaserCut 5.3
 - Establish connection by clicking DownLoad (can just close download window again)
 - Z+ to get bed well below laser head
 - Y+/X+ to move laser head to far corner
