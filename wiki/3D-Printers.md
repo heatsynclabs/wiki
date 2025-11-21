@@ -35,19 +35,25 @@ All Ender and Delta Printers have a version of Octoprint with Z-offset, Bed Visu
 
 **Printer Name / Model \| Web Address \| Location in Lab**
 
+Ouch - Elegoo Centauri Carbon <http://172.22.111.197>
+
+Spidey - Elegoo Centauri Carbon <http://172.22.111.144>
+
+Dr. Strange- NOT IN SERVICE - Elegoo Centauri Carbon
+
 EnderDragon - Ender 5 Plus \| <http://enderdragon.local> \| Right on the 3D Print Station
 
-Ta'Chala - Ender 3 S1 Pro \| <http://tachala.local> \| Middle on the 3D Print Station
+Ta'Chala - NOT IN SERVICE - Ender 3 S1 Pro \| <http://tachala.local> \| Middle on the 3D Print Station
 
-Bruce - Ender 5 Pro \| <http://bruce.local> \| Left on the 3D Print Station
+Bruce - NOT IN SERVICE- Ender 5 Pro \| <http://bruce.local> \| Left on the 3D Print Station
 
-Cho - Ender 5 Pro \| <http://cho.local> \| Display stand
+Cho - NOT IN SERVICE- Ender 5 Pro \| <http://cho.local> \| Display stand
 
-Shuri - Ender 3 S1 - Mainsail OS \| <http://shuri.local> \| Display Stand
+Shuri - NOT IN SERVICE- Ender 3 S1 - Mainsail OS \| <http://shuri.local> \| Display Stand
 
-Reed - FL Sun SR \| <http://reed.local> \| Display Stand
+Reed - NOT IN SERVICE- FL Sun SR \| <http://reed.local> \| Display Stand
 
-Tony - FL Sun QQ \| <http://tony.local> \| Floor of Display Stand
+Tony - NOT IN SERVICE- FL Sun QQ \| <http://tony.local> \| Floor of Display Stand
 
 ## SLA Printers
 
