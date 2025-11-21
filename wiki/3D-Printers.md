@@ -1,4 +1,4 @@
-- **Station Champions:** Antonio Contrisciani
+- **Station Champions:** Cprossu, Antonio Contrisciani
 - **Communication:** Slack [\#3d-printing](https://heatsynclabs.slack.com/archives/C9YBFJ3LJ)
 - **Certifications:** Resin Printer
 - **Events:** 3D Printer Day, Prusa User Group
