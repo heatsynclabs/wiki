@@ -25,9 +25,11 @@ Prusa User Group (PUG) is on the 1st Thursday of the month 7pm - 10pm
 
 ## FDM Printers
 
--Ender Dragon has our Biggest Print Bed: 350mm x 350mm x 400mm
+-Ender Dragon has our Biggest Print Bed: 350mm x 350mm x 400mm, uses a version of Octoprint with Z-offset, Bed Visualizer, Bed Leveling Wizard.
 
-All Ender and Delta Printers have a version of Octoprint with Z-offset, Bed Visualizer, Bed Leveling Wizard, Octoslack Addons installed All Pi's are up to date
+All in service Elegoo Centauri Carbon printers use the OrcaSlicer interface to upload and print prepared gcode files. Monitoring via the built in cameras is available there.
+
+Additionally, All in service Elegoo Centauri Carbon printers can be accessed via their individual web interfaces at the IP addresses shown below.
 
 ### Printer Web Addresses
 
@@ -42,6 +44,8 @@ Spidey - Elegoo Centauri Carbon <http://172.22.111.144>
 Dr. Strange- NOT IN SERVICE - Elegoo Centauri Carbon
 
 EnderDragon - Ender 5 Plus \| <http://enderdragon.local> \| Right on the 3D Print Station
+
+The following printers are currently not in service and are being prepared for sale or distribution.
 
 Ta'Chala - NOT IN SERVICE - Ender 3 S1 Pro \| <http://tachala.local> \| Middle on the 3D Print Station
 
