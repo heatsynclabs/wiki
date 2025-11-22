@@ -5,7 +5,7 @@ If you add new info here, please also pick what you'll delete from this page to 
 - Laser switch on
 - Open LaserCut 5.3
 - Establish connection by clicking DownLoad (can just close download window again)
-- Z+ to get bed well below laser head
+- Z- to get bed well below laser head
 - Y+/X+ to move laser head to far corner
 - If you're using honeycomb bed, place it
 - Set up layers
