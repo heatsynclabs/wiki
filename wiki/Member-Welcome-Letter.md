@@ -2,9 +2,9 @@ Greetings \[Name\]!
 
 As the board member contact for operations, I'd like to welcome you to HeatSync Labs and thank you for supporting us.
 
-We're open M-F 7pm-10pm, and often outside these hours as well.
+We're open Monday-Wednesday 7pm-10pm, Saturday 12pm-5pm, and sometimes outside these hours as well. Check the calendar on <https://www.heatsynclabs.org/> !
 
-You may find the discussion board at <http://groups.google.com/group/heatsynclabs> , the webcams at live.heatsynclabs.org and the @heatsyncstatus twitter account helpful to get involved with our community and stay in touch with lab activity.
+You may find the discussion board at <http://groups.google.com/group/heatsynclabs> helpful when getting involved with our community and staying in touch with lab activity.
 
 HeatSync Labs has no paid staff, so those resources are also where you will best be able to interact with your fellow community members.
 
