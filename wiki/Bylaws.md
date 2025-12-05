@@ -133,7 +133,7 @@ HeatSync Labs has a proposal process so that changes to the space are made thoug
 
 ### Proposal Consideration at HYH Meeting
 
-- Proposals are automatically considered at the HYH meeting if they have been discussed for 30 days.
+- Proposals are automatically considered at the HYH meeting if they have been discussed for 9 days.
 - The proposer actively bumps the proposal in Google Groups so members are reminded that the proposal is up for a vote.
 - The proposer (or a designated representative) must add it to the agenda, and verbally introduce the proposal during the meeting.
 - If a proposer fails to mention or remind the group about the proposal, it will not be eligible for a vote and must be deferred to the next HYH meeting.
