@@ -122,7 +122,7 @@ HeatSync Labs has a proposal process so that changes to the space are made thoug
   - Estimated costs and resource requirements (if applicable).
   - The timeline for implementation.
 
-### Proposal Discussion and Refinement (30-Day Discussion Period, Lock-In Rule)
+### Proposal Discussion and Refinement (9-Day Discussion Period, Lock-In Rule)
 
 - Members provide public feedback in the Google Group before the HYH meeting.
 - Proposals should be discussed in depth, and members are encouraged to provide substantive feedback rather than just “+1” or “I agree.”
