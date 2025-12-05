@@ -115,7 +115,7 @@ HeatSync Labs has a proposal process so that changes to the space are made thoug
 - The individual submitting the proposal must be its owner and responsible party. Proposals may not be submitted on behalf of another person unless they explicitly agree to take ownership of the proposal and its implementation.
 - Any active, paying/scholarship member may submit a proposal.
 - Proposals must be posted to HeatSync Labs’ Google Groups instance for open discussion and feedback.
-- Proposals must be submitted at least 30 days before an HYH meeting to be eligible for voting.
+- Proposals must be submitted at least 9 days before an HYH meeting to be eligible for voting.
 - The proposal must include:
   - The specific change or project being proposed.
   - The reason for the proposal and expected benefits.
