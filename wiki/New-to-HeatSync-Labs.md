@@ -8,11 +8,11 @@ The concept for HeatSync Labs came out of the desire for a group of Arizona loca
 
 We are at [108 W Main St](https://goo.gl/maps/5oo83) in downtown Mesa.
 
+There are several free public parking lots available nearby, including the "Green Lot" across North MacDonald.
+
 ![](files/Hsl_map.jpg)
 
 *hsl_map.jpg*
-
-There are several free public parking lots available nearby, including the "Green Lot" across North MacDonald.
 
 ## Getting started
 
