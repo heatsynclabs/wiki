@@ -4,6 +4,16 @@ Established in 2009, HeatSync Labs is Arizona's first 501(c)3 [hackerspace](http
 
 The concept for HeatSync Labs came out of the desire for a group of Arizona locals to get together and continue working on projects after academic life. Instead of working alone, we wanted to build our workshops in public. Throughout 2009, we discovered, and in some cases, visited, other notable 'hackerspaces' popping up across the country ([NoiseBridge](https://noisebridge.net/), [Pumping Station: One](http://pumpingstationone.org/), [NYC Resistor](https://www.nycresistor.com/), [Hacklab Toronto](https://hacklab.to/), and [HacDC](http://hacdc.org/)) and wondered what was holding us back. We decided to join in on the fun.
 
+## Visiting the lab
+
+We are at [108 W Main St](https://goo.gl/maps/5oo83) in downtown Mesa.
+
+![](files/Hsl_map.jpg)
+
+*hsl_map.jpg*
+
+There are several free public parking lots available nearby, including the "Green Lot" across North MacDonald.
+
 ## Getting started
 
 - Be sure to fill out a [waiver](https://forms.gle/zss1bJSN7ocKQudz6)
@@ -17,7 +27,7 @@ The concept for HeatSync Labs came out of the desire for a group of Arizona loca
 
 You are as in charge as anyone else. By coming down, or visiting virtually, you are an empowered community member. It is up to you to get stuff done. If you think there should be a better process/tool/space, make one/buy one/find one. It helps to voice your idea to find like minded individuals in the community to help implement it, but the power is in you. Do it. If it sound dangerous, consult with others at the lab. If you think others will have an opinion about what you want to do, communicate. In the end though, if you care about it, it is up to you to make it happen.
 
-## Visiting the Lab
+## Inside the Lab
 
 Because Heatsync Labs is a community, as well as a non-profit, when you visit the physical location, you are likely to be met with the chaos that happens as people get things done. The Lab is mostly a place to go and work on things. There is no paid staff, there is no one whose job it is to sit and greet people coming in the door (front or back). There is a [ host](Hosting), a person who has opened the lab to the public. They may sometimes wear a captain's hat, but mostly they look like everyone else there, working on some project, or talking to some other new person who beat you in the door by a few minutes.
 
