@@ -12,7 +12,7 @@ The operations team is a committee recruited by the board in order to manage the
 - **[Machine Shop](Machine-Shop)**: Darrell Wertz
 - **Microcontrollers**: David Flores
 - **Nuts & Bolts**: Greg Oswalt
-- **[Sewing](Sewing)**: Michelle Mueller, Linda Krecker
+- **[Sewing](Sewing)**: Michelle Mueller, Linda Brett
 - **[ Vinyl Cutter](Vinyl-Cutter)**: Needed
 - **[Welding](Welding)**: Shaundra Newstead, Eric Wood
 - **[ Wood Shop](WoodShop)**: Needed, Shaundra Newstead and Darrel Wertz (temporary)
