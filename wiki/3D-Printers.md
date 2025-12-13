@@ -25,13 +25,13 @@ Prusa User Group (PUG) is on the 1st Thursday of the month 7pm - 10pm
 
 ## FDM Printers
 
--Ender Dragon has our Biggest Print Bed: 350mm x 350mm x 400mm, uses a version of Octoprint with Z-offset, Bed Visualizer, Bed Leveling Wizard.
-
 All in service Elegoo Centauri Carbon printers use the OrcaSlicer interface to upload and print prepared gcode files. Monitoring via the built in cameras is available there.
 
 Additionally, All in service Elegoo Centauri Carbon printers can be accessed via their individual web interfaces at the IP addresses shown below.
 
-### Printer Web Addresses
+-Ender Dragon has our Biggest Print Bed: 350mm x 350mm x 400mm, uses the OrcaSlicer interface to upload and print prepared gcode files. OrcaSlicer interfaces with the Octoprint server to print and monitor print jobs on Dragon.
+
+## Printer Web Addresses
 
 **- Can access on your own laptops while connected to Lab Wifi**
 
@@ -41,23 +41,23 @@ Ouch - Elegoo Centauri Carbon <http://172.22.111.197>
 
 Spidey - Elegoo Centauri Carbon <http://172.22.111.144>
 
-Dr. Strange- NOT IN SERVICE - Elegoo Centauri Carbon
+Dr. Strange- NOT IN USE - Elegoo Centauri Carbon
 
 EnderDragon - Ender 5 Plus \| <http://enderdragon.local> \| Right on the 3D Print Station
 
-The following printers are currently not in service and are being prepared for sale or distribution.
+The following printers are currently not in use and will be prepared for sale or distribution.
 
-Ta'Chala - NOT IN SERVICE - Ender 3 S1 Pro \| <http://tachala.local> \| Middle on the 3D Print Station
+Ta'Chala - NOT IN USE - Ender 3 S1 Pro \| <http://tachala.local> \| Middle on the 3D Print Station
 
-Bruce - NOT IN SERVICE- Ender 5 Pro \| <http://bruce.local> \| Left on the 3D Print Station
+Bruce - NOT IN USE- Ender 5 Pro \| <http://bruce.local> \| Left on the 3D Print Station
 
-Cho - NOT IN SERVICE- Ender 5 Pro \| <http://cho.local> \| Display stand
+Cho - NOT IN USE- Ender 5 Pro \| <http://cho.local> \| Display stand
 
-Shuri - NOT IN SERVICE- Ender 3 S1 - Mainsail OS \| <http://shuri.local> \| Display Stand
+Shuri - NOT IN USE- Ender 3 S1 - Mainsail OS \| <http://shuri.local> \| Display Stand
 
-Reed - NOT IN SERVICE- FL Sun SR \| <http://reed.local> \| Display Stand
+Reed - NOT IN USE- FL Sun SR \| <http://reed.local> \| Display Stand
 
-Tony - NOT IN SERVICE- FL Sun QQ \| <http://tony.local> \| Floor of Display Stand
+Tony - NOT IN USE- FL Sun QQ \| <http://tony.local> \| Floor of Display Stand
 
 ## SLA Printers
 
