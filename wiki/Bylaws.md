@@ -90,7 +90,7 @@ For example, introduce yourself during open hours, help out during HYH, make fri
 
 ### Eligibility
 
-Must be a paying member at the \$50 or higher level, in good standing, for a minimum of six (6) months Must attend HYH, or during public hours, so the community can be introduced to the individual
+Must be a paying member at the \$50 or higher level, in good standing, for a minimum of two (2) months Must attend HYH, or during public hours, so the community can be introduced to the individual
 
 ### Nomination / Proposal
 
