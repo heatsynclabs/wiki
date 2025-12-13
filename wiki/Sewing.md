@@ -1,4 +1,4 @@
-- **Station Champions:** Linda Krecker, and Michelle Mueller
+- **Station Champions:** Linda Brett, and Michelle Mueller
 - **Communication:** [Google Discussion Group](https://groups.google.com/g/heatsynclabs/)
 - **Certification:** Checkout for the Consew Industrial machine
 - **Events:** Sewing Night on the 2nd Tuesday each month from 7pm - 10pm
