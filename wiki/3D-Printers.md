@@ -29,7 +29,7 @@ All in service Elegoo Centauri Carbon printers use the OrcaSlicer interface to u
 
 Additionally, All in service Elegoo Centauri Carbon printers can be accessed via their individual web interfaces at the IP addresses shown below.
 
--Ender Dragon has our Biggest Print Bed: 350mm x 350mm x 400mm, uses the OrcaSlicer interface to upload and print prepared gcode files. OrcaSlicer interfaces with the Octoprint server to print and monitor print jobs on Dragon.
+-Ender Dragon has our Biggest Print Bed: 350mm x 350mm x 400mm, can use the OrcaSlicer interface to upload and print prepared gcode files. OrcaSlicer interfaces with the Octoprint server to print and monitor print jobs on Dragon.
 
 ## Printer Web Addresses
 
