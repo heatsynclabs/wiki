@@ -33,31 +33,31 @@ Additionally, All in service Elegoo Centauri Carbon printers can be accessed via
 
 ## Printer Web Addresses
 
-**- Can access on your own laptops while connected to Lab Wifi**
+**- You can access these on your own laptops while connected to Lab Wifi**
 
 **Printer Name / Model \| Web Address \| Location in Lab**
 
-Ouch - Elegoo Centauri Carbon <http://172.22.111.197>
+Ouch - Elegoo Centauri Carbon <http://172.22.111.197> Located within the 3D printing Station
 
-Spidey - Elegoo Centauri Carbon <http://172.22.111.144>
+Spidey - CURRENTLY NOT IN SERVICE - Elegoo Centauri Carbon <http://172.22.111.144> Located within the 3D printing Station
 
-Dr. Strange- NOT IN USE - Elegoo Centauri Carbon
+Dr. Strange -Elegoo Centauri Carbon <HTTP://172.22.11.96> Located within the 3D printing Station
 
 EnderDragon - Ender 5 Plus \| <http://enderdragon.local> \| Right on the 3D Print Station
 
 The following printers are currently not in use and will be prepared for sale or distribution.
 
-Ta'Chala - NOT IN USE - Ender 3 S1 Pro \| <http://tachala.local> \| Middle on the 3D Print Station
+Ta'Chala - NOT IN USE - Ender 3 S1 Pro \| <http://tachala.local> \| currently in storage
 
-Bruce - NOT IN USE- Ender 5 Pro \| <http://bruce.local> \| Left on the 3D Print Station
+Bruce - NOT IN USE- Ender 5 Pro \| <http://bruce.local> \| currently in storage
 
-Cho - NOT IN USE- Ender 5 Pro \| <http://cho.local> \| Display stand
+Cho - NOT IN USE- Ender 5 Pro \| <http://cho.local> \| currently in storage
 
-Shuri - NOT IN USE- Ender 3 S1 - Mainsail OS \| <http://shuri.local> \| Display Stand
+Shuri - NOT IN USE- Ender 3 S1 - Mainsail OS \| <http://shuri.local> \| currently in storage
 
-Reed - NOT IN USE- FL Sun SR \| <http://reed.local> \| Display Stand
+Reed - NOT IN USE- FL Sun SR \| <http://reed.local> \| currently in storage
 
-Tony - NOT IN USE- FL Sun QQ \| <http://tony.local> \| Floor of Display Stand
+Tony - NOT IN USE- FL Sun QQ \| <http://tony.local> \| currently in storage
 
 ## SLA Printers
 
