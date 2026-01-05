@@ -41,7 +41,7 @@ Ouch - Elegoo Centauri Carbon <http://172.22.111.197> Located within the 3D prin
 
 Spidey - Elegoo Centauri Carbon <http://172.22.111.144> Located within the 3D printing Station.
 
-Dr. Strange -CURRENTLY NOT IN SERVICE -Elegoo Centauri Carbon <HTTP://172.22.11.96> Located within the 3D printing Station.
+Dr. Strange -CURRENTLY NOT IN SERVICE -Elegoo Centauri Carbon <http://172.22.11.96> Located within the 3D printing Station.
 
 EnderDragon - Ender 5 Plus \| <http://enderdragon.local> \| Located within the 3D Print Station.
 
