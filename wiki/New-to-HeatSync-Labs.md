@@ -10,9 +10,9 @@ We are at [108 W Main St](https://goo.gl/maps/5oo83) in downtown Mesa.
 
 There are several free public parking lots available nearby, including the "Green Lot" across North MacDonald.
 
-![](files/Hsl_map.jpg)
+![](files/HSL_Parking.png)
 
-*hsl_map.jpg*
+*HSL_Parking.png*
 
 ## Getting started
 
