@@ -108,7 +108,6 @@ The operations manager delegates and coordinates ongoing tasks including:
   - Website
   - Wiki
   - Internet
-  - Internets
   - Door Access
   - WiFi
 - Marketing
