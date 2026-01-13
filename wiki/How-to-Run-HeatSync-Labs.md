@@ -98,7 +98,8 @@ The role of the Board of HeatSync Labs has three parts:
 
 The Operations manager should be good at inspiring volunteers, delegating, following up, and taking tasks on themselves as necessary. In order to be effective and to keep HeatSync a community-oriented endeavor, they should not attempt to do everything themselves or dictate policy. Rather, they should help community members reach a productive consensus and achieve common goals together, only rarely stepping in to make decisions when the community is deeply divided.
 
-- Delegate and coordinate ongoing tasks including:
+The operations manager delegates and coordinates ongoing tasks including:
+
 - Membership (welcoming, tracking, training, card access, suspension/revocation)
 - Propose adjustments to the space or behavior to help newcomers feel welcomed and transition to a user of the space/tools, possibly a member, or possibly a volunteer.
 - Update and refine the Walk Through Orientation on a regular basis
