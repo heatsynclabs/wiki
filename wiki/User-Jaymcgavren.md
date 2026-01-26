@@ -6,8 +6,10 @@
 
 # Interests
 
-- HeatSync laser cutter certified
-- 
+- Laser cutters (HeatSync certified)
+- Vinyl cutters (stickers, t-shirt transfers)
+- Generative art
+- Microcontrollers
 
 # HeatSync Contributions
 
