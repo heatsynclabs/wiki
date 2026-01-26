@@ -29,7 +29,7 @@ There are plenty of safety and other considerations covered in our training clas
 Some of the current and past events for the laser cutter:
 
 - Laser Certification on the 4th Friday every month.
-- [ Laser Meetup](Monthly-Laser-Meetup) 1st Sunday of every month 05/07/2023 thru 01/05/2025
+- [ Laser Meetup](Monthly-Laser-Meetup) 2nd Sunday of every month
 - [ Build-A-Bot series](Build-A-Bot)
 - [Laser Cut Box Making](https://guestlist.co/events/712497)
 - [Laser Engraved Stamp Making](https://guestlist.co/events/723270)
