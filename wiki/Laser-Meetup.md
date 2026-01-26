@@ -1,22 +1,28 @@
 # Overview
 
-Monthly Laser Meetup **was** on the First Sunday of the month between 10:00 AM and 2:00 PM. from 05/07/2023 until 01/07/2025
+Laser Meetup is on the 2nd Sunday of each month from 12pm - 4pm.
 
-See [ Laser Cutters ](Laser-Cutters) page for more info about HeatSync Labs Laser Cutters.
+Come hang out, and cut and engrave projects with the laser cutters. No experience necessary!
 
-## Event Description
+Time on the lasers is first-come, first-served, but priority will be given to projects that are ready-to-cut and will take less than 30 minutes.
 
-Come hang out and cut and engrave projects with the Laser Cutters. No experience necessary!
+If you don't have a project yet, just come out and learn! We have some small examples you can quickly cut to get experience.
 
-Projects under 30 minutes will be queued based on who arrives first. Longer projects will be done last.
+# What to Bring
 
-If you are totally new and don't have a project just come out and learn. We have some small examples you can quickly cut to get some experience.
+None of this is required, but bringing these items will help ensure your project is successful:
 
-Using the laser cutters on your own requires a safety training class. During the this meetup Eric or someone else will be helping to monitor the laser usage.
+- A laptop. (We also have a limited number of desktop machines available.)
+- A complete design file in a vector format such as .SVG or .DXF.
+- A USB thumb drive. (Or you can connect to our wifi and save files on our network drive.)
+- Design software such as:
+  - [Inkscape](https://inkscape.org/) (steep learning curve, but free, open-source, and works on Windows, Mac, and Linux)
+  - Adobe Illustrator
+  - Any other software that can export .SVG and/or .DXF.
 
-## Laser Certification
+# Laser Certification
 
-While you will learn a lot attending this event it will not make you certified to use the laser on your own. There is a separate 3 hour training that covers a lot of safety and more details about the proper usage and problems you may encounter. More into about the [Laser Certification](https://wiki.heatsynclabs.org/wiki/Laser_FAQ#Laser_Certification)
+While you will learn a lot attending this event, it will not make you certified to use the laser on your own. There is a separate 3 hour training that covers a lot of safety and more details about the proper usage and problems you may encounter. More info here: [Laser Certification](https://wiki.heatsynclabs.org/wiki/Laser_FAQ#Laser_Certification)
 
 ---
 *Categories: [Laser](Category-Laser), [Events](Category-Events)*
