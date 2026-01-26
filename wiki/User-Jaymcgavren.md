@@ -11,6 +11,6 @@
 
 # HeatSync Contributions
 
-- \[Laser_Meetup Laser Meetup\] host
+- [Laser Meetup](https://wiki.heatsynclabs.org/wiki/Laser_Meetup) host
 - HeatSync front window maintenance
 - Raspberry Pi "Tutorial" screensaver in the lab
