@@ -1,7 +1,7 @@
 See:
 
 - [Donation Receipt](Donation-Receipt)
-- [Event Request Form](https://forms.gle/74kL9RutY2e3WDtZA)
+- [Event Scheduling Request Form](https://forms.gle/74kL9RutY2e3WDtZA)
 - [Liability Waiver](https://forms.gle/zss1bJSN7ocKQudz6)
 - [Scholarship Request](https://forms.gle/v22f25gGt3UFg4hj8)
 - [Incident Report](Lab-Incident-Report)
