@@ -22,7 +22,9 @@ None of this is required, but bringing these items will help ensure your project
 
 # Laser Certification
 
-While you will learn a lot attending this event, it will not make you certified to use the laser on your own. There is a separate 3 hour training that covers a lot of safety and more details about the proper usage and problems you may encounter. More info here: [Laser Certification](https://wiki.heatsynclabs.org/wiki/Laser_FAQ#Laser_Certification)
+While you will learn a lot attending this event, it will not make you certified to use the laser on your own.
+
+There is a separate 3 hour training that covers a lot of safety and more details about the proper usage and problems you may encounter. More info here: [Laser Certification](https://wiki.heatsynclabs.org/wiki/Laser_FAQ#Laser_Certification)
 
 ---
 *Categories: [Laser](Category-Laser), [Events](Category-Events)*
