@@ -10,7 +10,15 @@ If you don't have a project yet, just come out and learn! We have some small exa
 
 # What to Bring
 
-None of this is required, but bringing these items will help ensure your project is successful:
+You'll want [approved material](https://wiki.heatsynclabs.org/wiki/Laser_Material_Guidelines#Approved) to cut. We do have scraps available to use for practice but these tend to be small.
+
+These materials are never allowed:
+
+- PVC or anything that may contain PVC; it releases toxic gas when cut! If there's any doubt, you won't be allowed to cut it, so be ready to tell us what brand and version of material you have.
+- Vinyl
+- Metal (not even for engraving)
+
+None of these is required, but bringing these items will help ensure your project is successful:
 
 - A laptop. (We also have a limited number of desktop machines available.)
 - A complete design file in a vector format such as .SVG or .DXF.
