@@ -10,7 +10,14 @@ If you don't have a project yet, just come out and learn! We have some small exa
 
 # What to Bring
 
-You'll want [approved material](https://wiki.heatsynclabs.org/wiki/Laser_Material_Guidelines#Approved) to cut. We do have scraps available to use for practice but these tend to be small.
+You'll want [approved material](https://wiki.heatsynclabs.org/wiki/Laser_Material_Guidelines#Approved) to cut, such as:
+
+- Plywood up to 12mm thick
+- Acrylic (be ready to tell us what brand and type it is!)
+- Cardboard
+- Medium-Density Fiberboard
+
+If you don't have material, we do have scraps available to use for practice but be aware these tend to be small.
 
 Some materials are NEVER allowed, including:
 
