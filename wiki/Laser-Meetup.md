@@ -12,7 +12,7 @@ If you don't have a project yet, just come out and learn! We have some small exa
 
 You'll want [approved material](https://wiki.heatsynclabs.org/wiki/Laser_Material_Guidelines#Approved) to cut. We do have scraps available to use for practice but these tend to be small.
 
-Some materials are never allowed:
+Some materials are never allowed, including:
 
 - PVC or anything that may contain PVC; it releases toxic gas when cut! If there's any doubt, you won't be allowed to cut it, so be ready to tell us what brand and version of material you have.
 - Vinyl
