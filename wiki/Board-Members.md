@@ -6,7 +6,7 @@ HeatSync Labs is run by a Board of Directors, which aids in procedural and finan
 |------------|---------------------------------------------------|
 | Champion   | David Lang                                        |
 | Champion   | LANDON                                            |
-| Operations | Arnob Taher                                       |
+| Operations | Open                                              |
 | Secretary  | Brett Neese                                       |
 | Treasurer  | Shaundra Newstead w/ assistance from David Flores |
 
