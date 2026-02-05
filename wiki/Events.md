@@ -6,6 +6,7 @@
 - Craft Night — 1st and 3rd Mondays each month 7pm - 10pm.
 - [Young Makers](Young-Makers) — bimonthly 1st and 3rd Friday 6pm - 10pm.
 - [Hack Your Hackerspace](Hack-Your-Hackerspace) — bi-monthly 2nd Thursday 7pm, 4th Saturday 9am.
+- Jewelry Meetup — 2nd and 4th Mondays each month 7pm - 10pm.
 
 **Weekly**
 
@@ -15,12 +16,12 @@
 
 - 3d Printer Day — 1st Sunday noon - 5pm.
 - [Arduino Night](Arduino-Night) — 1st Wednesday 7pm - 10pm.
+- [Laser Meetup](Laser-Meetup) — 2nd Sunday each month noon - 4pm.
 - [Google Developer Group](https://www.meetup.com/phx-android/) — 3rd Thursday 7pm.
 - [AZ Haunters](https://azhaunters.com/) — Halloween themed making at the lab. Also on [Facebook](https://www.facebook.com/AZHaunters).
 - Laser Cutter Certification — 4th Friday 7pm - 10pm.
 - LEGO Day — 1st Saturday 12pm - 3pm.
 - [OWASP Phoenix](https://owasp.org/www-chapter-phoenix/) — 1st Tuesday 8:30pm
-- [Phoenix Algorithms and Coding](https://www.meetup.com/phoenix-algorithms-and-coding/) — varied schedule.
 - [PHX Javascript](https://www.meetup.com/phoenix-javascript/) — has different topics related to Javascript.
 - Photo Meetup — 4th Friday each month 7pm - 10pm.
 - Prusa User Group (PUG) — 1st Thursday 7pm - 10pm.
