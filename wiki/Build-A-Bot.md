@@ -16,7 +16,7 @@ If you are only doing the first event you can make your own non-electronic robot
 
 Go from having never designed anything to making your own unique laser cut projects.
 
-This class works as a solo class or as part of the Build-A-Bot series. See this link for more details. It is also best for adults and kids age 10 and up, but parents can work with their younger kids if they want. [The Solder A Robot! class is on 08/23/2025](https://guestlist.co/events/804684) tickets are separate.
+This class works as a solo class or as part of the Build-A-Bot series. See this link for more details. It is also best for adults and kids age 10 and up, but parents can work with their younger kids if they want. [The Solder A Robot! class is on Sunday 03/22/2025](https://guestlist.co/events/814612) tickets are separate.
 
 You will learn how to use sketches, clip-art, photos, and shapes to combine and create your own unique designs for laser cut projects. While covering the basics of the Inkscape design software.
 
