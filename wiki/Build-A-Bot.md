@@ -1,6 +1,6 @@
 ## Status
 
-We will be hosting this as a class for August 2025. See the calendar dates below. This is also available as a class year round if you have a group of at least 6 people who want to attend this class.
+We will be hosting this as a class for March 2026. See the calendar dates below. This is also available as a class year round if you have a group of at least 6 people who want to attend this class.
 
 ## Overview
 
