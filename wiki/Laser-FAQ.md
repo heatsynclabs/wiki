@@ -291,7 +291,7 @@ You can laser engrave coatings off of metals. Coatings like acrylic paint, anodi
 
 ## Q: When is the next laser certification class?
 
-- 4th Friday of Every Month
+- Usually they are held on the 4th Friday of every month. Check our calendar at <https://www.heatsynclabs.org/calendar/> !
 
 ## Q: How can I sign up for the next certification class?
 
