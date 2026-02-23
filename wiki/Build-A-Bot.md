@@ -8,11 +8,11 @@ Build-A-Bot is a workshop where you design, laser cut, and solder your own robot
 
 If you are only doing the first event you can make your own non-electronic robot that works as a figure. Doing them both you can create a custom electronic version.
 
-**Intro to Designing Laser Cut Projects** [03/15/2026](https://guestlist.co/events/814621) Go from having never designed anything to making your own unique laser cut projects. This portion is for adults and kids 10+.
+**Designing Laser Cut Projects Start to Finish** [03/15/2026](https://guestlist.co/events/814621) Go from having never designed anything to making your own unique laser cut projects. This portion is for adults and kids 10+.
 
 **Solder A Robot!** [03/22/2026](https://guestlist.co/events/814612) Anyone age 7 and up can solder a robot. We will have several robots to choose from if you don't have a custom design already.
 
-## Intro to Designing Laser Cut Projects / Design A Bot
+## Designing Laser Cut Projects Start to Finish / Design A Bot
 
 Go from having never designed anything to making your own unique laser cut projects.
 
