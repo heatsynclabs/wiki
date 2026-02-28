@@ -20,7 +20,7 @@ HeatSync is very soft sell. We are open to the public during our business hours 
 
 # Q: Can I take a tool home?
 
-In almost all cases the answer is no. HeatSync is a place where we come and create. If tools are removed from the lab we have no guarantee of seeing them again, or of even knowing they are missing until they are needed. At that point stores may be closed and members may not be able to complete their project. Also in some rare cases, some tools may not owned by HeatSync.
+In almost all cases the answer is no. HeatSync is a place where we come and create. If tools are removed from the lab we have no guarantee of seeing them again, or of even knowing they are missing until they are needed. At that point stores may be closed and members may not be able to complete their project. Also in some rare cases, some tools may not be owned by HeatSync.
 
 # Q: How can I help improve HeatSync or start an event?
 
