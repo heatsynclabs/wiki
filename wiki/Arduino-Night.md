@@ -83,11 +83,11 @@ Can't come by and volunteer some time but you still want to help out some how? W
 
 To ensure that we keep pushing this event forward we're always open for suggestions for improving the structure and the way we present the material for these nights. Also, any suggestions for new components and tools are welcome:
 
-- Label the Components, Sensors, Motors, etc. with what they are.
+- Label the Components, Sensors, Motors, etc. with what they are. (IN PROGRESS: Station Reorganization)
 - Suggested Pre-Requisite Reading?
 - A cheat-sheet for commands/function names/overall sketch flow?
 - Focus on interacting with a single component for a session. Getting really good at that one thing and then moving on to something else next class.
-- Provide each station with a "grab bag" project that already has hardware to get new users used to the tool.
+- Provide each station with a "grab bag" project that already has hardware to get new users used to the tool. (SOMETHING SIMILAR IN PROGRESS; Contact Smith Hayward for details)
 
 ## Helpful Links
 
