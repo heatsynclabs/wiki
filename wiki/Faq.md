@@ -46,7 +46,7 @@ Practically speaking, nobody and everybody. HeatSync has no paid staff. Members 
 
 # Q: What is Hack Your Hackerspace?
 
-Every 2nd and 4th thursday night at 7pm the group meets for Hack Your Hackerspace where they vote on any existing proposals, arbitrate any issues, and most importantly work to make the space better. Discussion is encouraged on the discussion boards where all members can participate and hash things out all week. HYH should be less a meeting and more a forum for action.
+Every 2nd Thursday night at 7pm and Every 4th Saturday morning at 10am, the group meets for Hack Your Hackerspace where they vote on existing proposals, arbitrate any issues, and most importantly work to make the space better. Discussion is encouraged on the discussion boards where all members can participate and hash things out all week. HYH should be less of a meeting and more of a forum for action.
 
 # Q: What projects can I work on?
 
