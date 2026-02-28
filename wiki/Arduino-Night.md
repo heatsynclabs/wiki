@@ -72,6 +72,7 @@ Here are the current Arduino models that we have available to play with at the l
 
 Announce your microcontroller prowess by adding your name here and making it known to the Arduino novice that you're willing to impart your skills with them on Arduino night. We're looking for volunteers on our first Wednesdays to help answer questions and give direction to people just starting out with Arduino. Also, people that are interested in helping host this event and have any suggestions to improve it:
 
+- Smith Hayward (Can help with basic electronics \| Arduino and ESP32 using C++ on Arduino IDE)
 - Your Name Here!
 
 ## Donations
