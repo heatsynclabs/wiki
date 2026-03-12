@@ -46,4 +46,4 @@ Reach out to the point-of-contact using the recommended method of contact next t
 ### 3D Printing Filament
 
   
-**VARIOUS SAMPLES most in sealed dessicated bags** *(ask for specifics if curious)* - ***Smith Hayward*** *(Slack/Discord)*
+**VARIOUS SAMPLES most in sealed desiccated bags** *(Many different materials, colors, composites, etc. Planning to Inventory Soon)* - ***Smith Hayward*** *(Slack/Discord)*
