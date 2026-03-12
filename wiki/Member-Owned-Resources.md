@@ -6,15 +6,18 @@ Reach out to the point-of-contact using the recommended method of contact next t
 
 ### Electronics
 
+  
+**TBD** *(Description)* - ***Owner*** *(Comm Method)*
+
 ### Fabrication
 
   
-**Pressure Pot** (For bubble-free resin casting or silicone mold curing) - ***Smith Hayward*** (Slack/Discord)
+**Pressure Pot** (For bubble-free resin casting or silicone mold curing) - ***Smith Hayward*** *(Slack/Discord)*
 
 <!-- -->
 
   
-**Vacuum Chamber** (For degassing casting resin and 2-part silicone for mold making) - ***Smith Hayward*** (Slack/Discord)
+**Vacuum Chamber** (For degassing casting resin and 2-part silicone for mold making) - ***Smith Hayward*** *(Slack/Discord)*
 
 ### Woodworking
 
@@ -23,18 +26,18 @@ Reach out to the point-of-contact using the recommended method of contact next t
 ### 3D Printing
 
   
-**Anycubic Chiron FDM 3D Printer** \[Print Volume: 500mm (L) x 500mm (W) x 600mm (H)\] - ***Smith Hayward*** (Slack/Discord)
+**Anycubic Chiron FDM 3D Printer** \[Print Volume: 500mm (L) x 500mm (W) x 600mm (H)\] - ***Smith Hayward*** *(Slack/Discord)*
 
 # Materials
 
 ### Composites
 
   
-**Carbon Fiber Tow** - Smith Hayward (Slack/Discord)
+**Carbon Fiber Tow** *(12K)* - ***Smith Hayward*** *(Slack/Discord)*
 
-**Fiberglass Cloth** - Smith Hayward (Slack/Discord)
+**Fiberglass Cloth** *(Unsure weight)* - ***Smith Hayward*** *(Slack/Discord)*
 
 ### 3D Printing Filament
 
   
-**VARIOUS SAMPLES most in sealed dessicated bags** *(ask for specifics if curious)* - ***Smith Hayward*** (Slack/Discord)
+**VARIOUS SAMPLES most in sealed dessicated bags** *(ask for specifics if curious)* - ***Smith Hayward*** *(Slack/Discord)*
