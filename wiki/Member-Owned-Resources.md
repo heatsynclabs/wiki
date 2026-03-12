@@ -1,4 +1,4 @@
-The following is a list of member-owned tools & equipment that people from the community are willing to bring into the lab for use.
+The following is a list of member-owned tools & equipment that people from the community are willing to bring into the lab, or materials to buy, trade or free to a good home.
 
 Reach out to the point-of-contact using the recommended method of contact next to the resource to coordinate availability and any costs associated with running the equipment.
 
