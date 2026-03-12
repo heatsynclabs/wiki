@@ -1,6 +1,6 @@
 This page is being developed. Please reach out to Smith Hayward (via Slack) if you have questions or input.
 
-# Electronics Foundation
+# Foundational Electronics Principles
 
 ## Voltage, Resistance & Current
 
