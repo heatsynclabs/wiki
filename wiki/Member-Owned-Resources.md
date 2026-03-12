@@ -4,9 +4,9 @@ Reach out to the point-of-contact using the recommended method of contact next t
 
 # Tools & Equipment
 
-## Electronics
+### Electronics
 
-## Fabrication
+### Fabrication
 
   
 **Pressure Pot** (For bubble-free resin casting or silicone mold curing) - ***Smith Hayward*** (Slack/Discord)
@@ -16,25 +16,25 @@ Reach out to the point-of-contact using the recommended method of contact next t
   
 **Vacuum Chamber** (For degassing casting resin and 2-part silicone for mold making) - ***Smith Hayward*** (Slack/Discord)
 
-## Woodworking
+### Woodworking
 
-## Sewing
+### Sewing
 
-## 3D Printing
+### 3D Printing
 
   
 **Anycubic Chiron FDM 3D Printer** \[Print Volume: 500mm (L) x 500mm (W) x 600mm (H)\] - ***Smith Hayward*** (Slack/Discord)
 
 # Materials
 
-## Composites
+### Composites
 
   
 **Carbon Fiber Tow** - Smith Hayward (Slack/Discord)
 
 **Fiberglass Cloth** - Smith Hayward (Slack/Discord)
 
-## 3D Printing Filament
+### 3D Printing Filament
 
   
 **VARIOUS SAMPLES most in sealed dessicated bags** *(ask for specifics if curious)* - ***Smith Hayward*** (Slack/Discord)
