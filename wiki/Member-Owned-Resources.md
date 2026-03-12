@@ -17,7 +17,7 @@ Reach out to the point-of-contact using the recommended method of contact next t
 <!-- -->
 
   
-**Vacuum Chamber** (For degassing casting resin and 2-part silicone for mold making) - ***Smith Hayward*** *(Slack/Discord)*
+**Vacuum Chamber w/ Vacuum Pump** (For degassing casting resin and 2-part silicone for mold making) - ***Smith Hayward*** *(Slack/Discord)*
 
 ### Woodworking
 
