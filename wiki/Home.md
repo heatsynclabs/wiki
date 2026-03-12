@@ -54,6 +54,7 @@
 <p>Outside Resources</p>
 </div>
 <ul>
+<li><a href="Member-Owned-Resources">Member-Owned Resources</a></li>
 <li><a href="Local-Resources">Local Resources</a></li>
 <li><a href="Podcasts">Podcasts</a></li>
 <li><a href="Category-Tutorials"> Tutorials </a></li>
