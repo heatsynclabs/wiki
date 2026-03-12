@@ -8,11 +8,18 @@ This page is being developed. Please reach out to Smith Hayward (via Slack) if y
 
 ## Discrete Components
 
-### Diodes
+  
+=== Diodes ===
 
-### Transistors & MOSFETs
+<!-- -->
 
-### Integrated Circuits
+  
+=== Transistors & MOSFETs ===
+
+<!-- -->
+
+  
+=== Integrated Circuits ===
 
 # Microcontrollers & Development Modules
 
