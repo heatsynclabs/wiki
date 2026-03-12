@@ -9,7 +9,7 @@
 </colgroup>
 <tbody>
 <tr>
-<td class="MainPageLeft" width="50%" data-valign="top" style="border: 1px solid #80e080; border-right-width: 3px; border-bottom-width: 3px; padding: .5em 1em; margin: 1em; background-color: #f0fff0;"><div style="margin:0;background-color:#e0ffe0;font-size:120%;font-weight:bold;border:1px solid #80e080;text-align:left;color:#000;padding:0.2em 0.4em;">
+<td class="MainPageLeft" width="50%" data-valign="top" style="border: 1px solid #80e080; border-right-width: 3px; border-bottom-width: 3px; padding: .5em 1em; margin: 1em; background-color: #f0fff0;"><div style="margin:0;background-color:#e0ffe0;font-size:130%;font-weight:bold;border:1px solid #80e080;text-align:left;color:#000;padding:0.2em 0.4em;">
 <p>Community Information</p>
 </div>
 <ul>
@@ -27,10 +27,10 @@
 <li><a href="http://bit.ly/hslslack">Slack invite link</a> to post on specific channels for stations where appropriate.</li>
 <li><a href="Open-Hours">Open Hours</a></li>
 </ul>
-<div style="margin:0;background-color:#e0ffe0;font-size:120%;font-weight:bold;border:1px solid #80e080;text-align:left;color:#000;padding:0.2em 0.4em;">
+<div style="margin:0;background-color:#e0ffe0;font-size:130%;font-weight:bold;border:1px solid #80e080;text-align:left;color:#000;padding:0.2em 0.4em;">
 <p>Lab Resources</p>
 </div>
-<p>If there are not specifics on how to get started on a tool, please post on Slack in the relevant channel (or #general) expressing interest and ask for help.</p>
+<p>If there are no specifics on how to get started on a certain tool, please post on Slack in the relevant channel (or #general) expressing interest and ask for help.</p>
 <ul>
 <li><a href="3D-Printers"> 3D-Printing</a></li>
 <li><a href="Arts-and-Crafts"> Arts and Crafts</a></li>
@@ -50,7 +50,7 @@
 <li><a href="WoodShop"> Wood Shop</a></li>
 <li><a href="Other-Resources">Other Resources</a></li>
 </ul>
-<div style="margin:0;background-color:#e0ffe0;font-size:120%;font-weight:bold;border:1px solid #80e080;text-align:left;color:#000;padding:0.2em 0.4em;">
+<div style="margin:0;background-color:#e0ffe0;font-size:130%;font-weight:bold;border:1px solid #80e080;text-align:left;color:#000;padding:0.2em 0.4em;">
 <p>Outside Resources</p>
 </div>
 <ul>
@@ -59,7 +59,7 @@
 <li><a href="Podcasts">Podcasts</a></li>
 <li><a href="Category-Tutorials"> Tutorials </a></li>
 </ul></td>
-<td width="50%" data-valign="top" style="border: 1px solid #a0a0ff; border-right-width: 3px; border-bottom-width: 3px; padding: .5em 1em; margin: 1em; background-color: #f0f0ff;"><div style="margin:0;background-color:#e0e0ff;font-size:120%;font-weight:bold;border:1px solid #a0a0ff;text-align:left;color:#000;padding:0.2em 0.4em;">
+<td width="50%" data-valign="top" style="border: 1px solid #a0a0ff; border-right-width: 3px; border-bottom-width: 3px; padding: .5em 1em; margin: 1em; background-color: #f0f0ff;"><div style="margin:0;background-color:#e0e0ff;font-size:130%;font-weight:bold;border:1px solid #a0a0ff;text-align:left;color:#000;padding:0.2em 0.4em;">
 <p>Administration</p>
 </div>
 <ul>
@@ -88,7 +88,7 @@
 <li><a href="Board-Elections">Board Elections</a></li>
 </ul></li>
 </ul>
-<div style="margin:0;background-color:#e0e0ff;font-size:120%;font-weight:bold;border:1px solid #a0a0ff;text-align:left;color:#000;padding:0.2em 0.4em;">
+<div style="margin:0;background-color:#e0e0ff;font-size:130%;font-weight:bold;border:1px solid #a0a0ff;text-align:left;color:#000;padding:0.2em 0.4em;">
 <p>Public Info</p>
 </div>
 <ul>
