@@ -21,7 +21,13 @@ Reach out to the point-of-contact using the recommended method of contact next t
 
 ### Woodworking
 
+  
+**TBD** *(Description)* - ***Owner*** *(Comm Method)*
+
 ### Sewing
+
+  
+**TBD** *(Description)* - ***Owner*** *(Comm Method)*
 
 ### 3D Printing
 
