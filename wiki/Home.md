@@ -30,7 +30,7 @@
 <div style="margin:0;background-color:#e0ffe0;font-size:120%;font-weight:bold;border:1px solid #80e080;text-align:left;color:#000;padding:0.2em 0.4em;">
 <p>Lab Resources</p>
 </div>
-<p>If there are not specifics on how to get started on a tool post on Slack in the relevant channel (or general) expressing interest and asking for help.</p>
+<p>If there are not specifics on how to get started on a tool, please post on Slack in the relevant channel (or #general) expressing interest and ask for help.</p>
 <ul>
 <li><a href="3D-Printers"> 3D-Printing</a></li>
 <li><a href="Arts-and-Crafts"> Arts and Crafts</a></li>
