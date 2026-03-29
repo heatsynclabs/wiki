@@ -117,6 +117,7 @@ The operations manager delegates and coordinates ongoing tasks including:
   - signage
   - t-shirts
 - Facility Maintenance
+  - Ensure [supplies](Supplies) like paper towels and soap are purchased
 - Safety
 - At least yearly, audit the MSDS binder and update it to reflect chemicals and materials in the lab
 - Facilitate communication between the community, volunteers, operations team, and board as necessary
