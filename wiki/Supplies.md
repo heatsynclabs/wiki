@@ -16,6 +16,11 @@ Reimbursement is not guaranteed so these purchases are made at the member's own 
 Here's some info on supplies we need regularly:
 
 - Paper towels
+  - Towel dispensers take industrial hardwound (not center-pull) towels, 7.75 to 8 inches wide. Both 600 and 800-foot rolls have worked in the past.
+  - Because roll length and number of rolls per box vary, it's best to calculate cost per foot (not square foot, as all compatible towels will be about 8 inches wide).
+  - Brands that have worked previously:
+    - GEN (Amazon, \$0.0077 per foot)
+    - First Street (Smart & Final, \$0.0083 per foot)
 - Toilet paper
 - Hand Soap
   - Dispensers have previously been stocked with Maker's Mark Foaming Antibacterial Hand Soap 1000ml "bag in box" refills.
