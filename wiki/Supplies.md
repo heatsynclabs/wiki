@@ -18,3 +18,6 @@ Here's some info on supplies we need regularly:
 - Paper towels
 - Toilet paper
 - Hand Soap
+  - Dispensers have previously been stocked with Maker's Mark Foaming Antibacterial Hand Soap 1000ml "bag in box" refills.
+  - This brand may be the only kind of refill compatible with the bathroom dispensers, due to the shape of the nozzle and the way it clips into the dispenser.
+  - The only direct seller of Member's Mark brand is Sam's Club. If you see Member's Mark elsewhere, it's being sold by a third-party reseller, probably at a significant markup.
