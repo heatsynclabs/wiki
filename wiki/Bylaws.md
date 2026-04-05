@@ -44,6 +44,25 @@ ORGANIZATION
 
 <li>
 
+MEMBER-CALLED SPECIAL ELECTION
+
+</li>
+
+==
+
+1.  <b>(a) Right to Petition.</b> A group of no fewer than eight (8) active cardholding members, or ten percent (10%) of all active cardholding members, whichever is greater, may submit a written petition to the Board of Directors calling for a special election for a specific Board seat. The petition must identify the seat in question and state whether it is being called to fill a vacancy, to hold a mid-term election for a currently seated officer, or to conduct a vote of confidence regarding a currently seated officer. The petition need not allege misconduct.
+2.  <b>(b) Relationship to Other Provisions.</b> This section provides a mechanism independent of the removal process described in Section 2, ¶8. A member-called special election does not constitute removal proceedings and does not require a finding of bylaw violations or risk to members or assets. Where a vacancy has been filled by an interim officer under Section 2, ¶7, a valid petition under this section shall supersede the interim appointment; the interim officer shall continue to serve until the special election concludes.
+3.  <b>(c) Scheduling and Nominations.</b> Upon receipt and verification of a valid petition, the Board shall schedule the special election to take place no sooner than thirty (30) days and no later than sixty (60) days from the date the petition is verified. Notice of the special election shall be posted to the membership through the same channels used for regular elections. Nominations for the seat shall open immediately upon posting of the notice and close no later than seven (7) days before the scheduled meeting, regardless of whether the petition calls for a vote of confidence or a direct election. All candidates must meet the existing eligibility requirements for Board offices described in this Article.
+4.  <b>(d) Vote of Confidence Procedure.</b> Where the petition calls for a vote of confidence, the confidence vote shall be conducted first. If a majority of votes cast are "no confidence," the seat shall be declared vacant and the election shall proceed immediately using the slate of candidates nominated under subsection (c). If a majority of votes cast affirm confidence, the seated officer shall continue serving their term and the nominated slate is dissolved. The officer who is the subject of the vote of confidence shall not vote on the confidence question and, if the vote results in no confidence, shall not be eligible as a candidate in the resulting special election. This restriction does not affect their eligibility to stand for election in any future regular or special election.
+5.  <b>(e) Election Process.</b> The special election shall follow the same nomination, quorum, and voting procedures used for regular Board elections as described in this Article.
+6.  <b>(f) Outcome.</b> If the incumbent or interim officer receives the required votes under standard election rules, they shall continue serving the remainder of the term. If another candidate is elected, the newly elected officer shall serve the remainder of the unexpired term.
+7.  <b>(g) Limitations.</b> No more than one member-called special election for the same Board seat may occur within a six (6) month period. A petition submitted during a six-month restriction period for the same seat shall be invalid.
+8.  <b>(h) Proximity to Regular Elections.</b> If a special election scheduled under subsection (c) would fall within thirty (30) days of the regular Board election described in Article II, the election portion of the petition shall not be held separately. Instead, the contested seat shall be added to the regular October election ballot and filled through the standard election process. A vote of confidence called under subsection (d), however, may still proceed on its own timeline regardless of proximity to the regular election, including at the same membership meeting as the regular Board election. If a vote of confidence results in "no confidence" and the regular election is scheduled within thirty (30) days, the seat shall be declared vacant and filled at the regular election rather than through an immediate special election. The officer removed by no confidence shall remain ineligible to stand as a candidate for that seat in the resulting regular election.
+
+==
+
+<li>
+
 INTERESTED PERSONS
 
 </li>
