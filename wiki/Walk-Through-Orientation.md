@@ -44,7 +44,7 @@ It's very important that we train everyone similarly, in a culture of cleanlines
   - No taking equipment offsite or touching people's boxes/lockers.
   - HeatSync Labs stuff shouldn't be left in your box, your stuff shouldn't be left laying around the lab.
   - If you need to leave something in the lab, put a parking pass on it so we know it's yours and how to contact you.
-  - Stuff that can't be identified as yours will be marked with a parking ticket and eventually discarded.
+  - Stuff whose owner can't be identified will be marked with a parking ticket and eventually discarded.
   - Ideally, propose to the community that it be given space in the lab.
 - The Wifi password is above the front doors below the exit sign in green vinyl lettering.
 - HeatSync is a hackerspace first, coworking space second. Our primary purpose is to provide tools for people to create things, and it can be a loud/dirty place.
