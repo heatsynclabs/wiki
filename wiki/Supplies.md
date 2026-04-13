@@ -1,6 +1,6 @@
 Members, guests, and even lab administration need regular restocks of some basic supplies to keep going.
 
-= Reimbursement
+# Reimbursement
 
 Members can purchase and donate these basic supplies at any time, and we are grateful!
 
@@ -11,7 +11,7 @@ In some circumstances we can reimburse purchases, with some requirements:
 
 Reimbursement is not guaranteed so these purchases are made at the member's own risk.
 
-= Supplies
+# Supplies
 
 Here's some info on supplies we need regularly:
 
