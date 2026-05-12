@@ -1,5 +1,3 @@
-## Darkroom
-
 The Darkroom at HeatSync Labs is located in the kitchen.
 
 The Darkroom is not a permanent fixture in the space and requires some preparation before use.
