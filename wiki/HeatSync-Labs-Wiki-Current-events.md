@@ -1,10 +1,10 @@
 ## LAB
 
-City is working on the bird population out front.
+The space has been undergoing improvements to layout and organization!
 
-Board is in discussion with landlord about improving HVAC
+Lots of new members.
 
-Upgrades to machine shop mini mill thanks Darrell!
+For latest on happenings and events see the \*[Calendar](https://www.heatsynclabs.org/calendar/) and our CommonPub instance <https://heatsynclabs.io/>
 
 ## WIKI
 
