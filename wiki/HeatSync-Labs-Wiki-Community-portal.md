@@ -1,2 +1,3 @@
 - [Group Forum](https://groups.google.com/forum/#!forum/heatsynclabs) Recommended for discussing projects.
-- [Slack Page](https://app.slack.com/client/T9ZDGESHM/C9Z72BBAS?cdn_fallback=2) Recommended for small talk.
+- [Slack Page](https://app.slack.com/client/T9ZDGESHM/C9Z72BBAS?cdn_fallback=2) Recommended for day to day ops and information
+- [Discord](https://discord.gg/2aWPgkeS6Q) For small talk and shenanigans
