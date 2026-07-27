@@ -32,6 +32,7 @@
 </div>
 <p>If there are no specifics on how to get started on a certain tool, please post on Slack in the relevant channel (or #general) expressing interest and ask for help.</p>
 <ul>
+<li><a href="HeatSync-Labs-Space">HeatSync Labs Space</a></li>
 <li><a href="3D-Printers"> 3D-Printing</a></li>
 <li><a href="Arts-and-Crafts"> Arts and Crafts</a></li>
 <li><a href="AudioVisual"> A/V Station</a></li>
