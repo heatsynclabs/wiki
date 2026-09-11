@@ -12,6 +12,7 @@ The operations team is a committee recruited by the board in order to manage the
 - **[Machine Shop](Machine-Shop)**: James ehoe
 - **Microcontrollers**: David Flores
 - **Nuts & Bolts**: TBD
+- **Photography / Dark Room**: Paul Hickey
 - **[Sewing](Sewing)**: Michelle Mueller, Linda Brett
 - **[ Vinyl Cutter](Vinyl-Cutter)**: Chris McLaughlin
 - **[Welding](Welding)**: TBD
