@@ -2,20 +2,20 @@ The operations team is a committee recruited by the board in order to manage the
 
 ## Station Heads
 
-- **[ Facilities](Category-Facilities)**: Nate Caine
-- **[ 3D Printing](3D-Printers)**: Antonio Contrisciani, Cpro
+- **[ Facilities](Category-Facilities)**: TBD
+- **[ 3D Printing](3D-Printers)**: Antonio Contrisciani, Rick Blake
 - **[ Audio/Video](AudioVisual)**: Rick Blake
-- **[Biochem Lab](Biochem-Lab)**: Shaundra Newstead, Greg Oswalt
-- **[Electronics](Electronics)**: David Flores, Nate Caine
-- **[Jewelry](Jewelry)**: Sarah McCann
-- **[Laser Cutters](Laser-Cutters)**: David Flores (certification classes), Nate Caine (laser maintenance)
-- **[Machine Shop](Machine-Shop)**: Darrell Wertz
+- **[Biochem Lab](Biochem-Lab)**: Sophia Penabaz-Wiley
+- **[Electronics](Electronics)**: David Flores, Smith Hayward
+- **[Jewelry](Jewelry)**: Cynthia Huettner
+- **[Laser Cutters](Laser-Cutters)**: David Flores (certification classes), Jay McGavern (laser meetup)
+- **[Machine Shop](Machine-Shop)**: James ehoe
 - **Microcontrollers**: David Flores
-- **Nuts & Bolts**: Greg Oswalt
+- **Nuts & Bolts**: TBD
 - **[Sewing](Sewing)**: Michelle Mueller, Linda Brett
-- **[ Vinyl Cutter](Vinyl-Cutter)**: Needed
-- **[Welding](Welding)**: Shaundra Newstead, Eric Wood
-- **[ Wood Shop](WoodShop)**: Needed, Shaundra Newstead and Darrel Wertz (temporary)
+- **[ Vinyl Cutter](Vinyl-Cutter)**: Chris McLaughlin
+- **[Welding](Welding)**: TBD
+- **[ Wood Shop](WoodShop)**: Andre
 
 ## IT
 
