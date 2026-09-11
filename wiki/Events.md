@@ -11,6 +11,7 @@
 **Weekly**
 
 - Coffee & Coworking — weekly on Wednesdays 9am - 3pm.
+- Night Write - weekly on Sundays 7pm - 10pm.
 
 **Monthly**
 
@@ -18,7 +19,6 @@
 - [Arduino Night](Arduino-Night) — 1st Wednesday 7pm - 10pm.
 - [Laser Meetup](Laser-Meetup) — 2nd Sunday each month noon - 4pm.
 - [Google Developer Group](https://www.meetup.com/phx-android/) — 3rd Thursday 7pm.
-- [AZ Haunters](https://azhaunters.com/) — Halloween themed making at the lab. Also on [Facebook](https://www.facebook.com/AZHaunters).
 - Laser Cutter Certification — 4th Friday 7pm - 10pm.
 - LEGO Day — 1st Saturday 12pm - 3pm.
 - [OWASP Phoenix](https://owasp.org/www-chapter-phoenix/) — 1st Tuesday 8:30pm
