@@ -10,7 +10,7 @@ HeatSync Labs is run by a Board of Directors, which aids in procedural and finan
 | Secretary  | Brett Neese                                       |
 | Treasurer  | Shaundra Newstead w/ assistance from David Flores |
 
-2024 - 2025 Board Members
+2025 - 2026 Board Members
 
 ## Board Elections
 
