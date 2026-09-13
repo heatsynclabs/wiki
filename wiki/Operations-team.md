@@ -5,7 +5,7 @@ The operations team is a committee recruited by the board in order to manage the
 - **[ Facilities](Category-Facilities)**: TBD
 - **[ 3D Printing](3D-Printers)**: Antonio Contrisciani, Rick Blake
 - **[ Audio/Video](AudioVisual)**: Rick Blake
-- **[Biochem Lab](Biochem-Lab)**: Sophia Penabaz-Wiley
+- **[Biochem Lab](Biochem-Lab)**: Sofia Penabaz-Wiley
 - **[Electronics](Electronics)**: David Flores, Smith Hayward
 - **[Jewelry](Jewelry)**: Cynthia Huettner
 - **[Laser Cutters](Laser-Cutters)**: David Flores (certification classes), Jay McGavern (laser meetup)
