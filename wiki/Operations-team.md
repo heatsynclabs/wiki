@@ -16,7 +16,7 @@ The operations team is a committee recruited by the board in order to manage the
 - **[Sewing](Sewing)**: Michelle Mueller, Linda Brett
 - **[ Vinyl Cutter](Vinyl-Cutter)**: Chris McLaughlin
 - **[Welding](Welding)**: TBD
-- **[ Wood Shop](WoodShop)**: Andre
+- **[ Wood Shop](WoodShop)**: Andre Girouard
 
 ## IT
 
