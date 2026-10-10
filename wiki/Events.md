@@ -18,7 +18,7 @@
 
 - 3d Printer Day — 1st Sunday noon - 5pm.
 - [Arduino Night](Arduino-Night) — 1st Wednesday 7pm - 10pm.
-- [Laser Meetup](Laser-Meetup)
+- [Laser Meetup](Laser-Meetup) — 2nd Sunday Noon - 5pm.
 - Bicycle Maintenance — 3rd Fridays 4:30pm - 6:30pm.
 - Design Day — 3rd Sunday each month 3pm - 5pm
 - [Google Developer Group](https://www.meetup.com/phx-android/) — 3rd Thursday 7pm.
