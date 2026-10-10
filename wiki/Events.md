@@ -10,14 +10,17 @@
 
 **Weekly**
 
-- Coffee & Coworking — weekly on Wednesdays 9am - 3pm.
-- Night Write - weekly on Sundays 7pm - 10pm.
+- ☕ Caffeine & Coworking 👩‍💻 — weekly on Wednesdays 9am - 3pm.
+- Night Writers - weekly on Sundays 7pm - 10pm.
+- Perler Bead Craft Night - Weekly on Mondays 8pm.
 
 **Monthly**
 
 - 3d Printer Day — 1st Sunday noon - 5pm.
 - [Arduino Night](Arduino-Night) — 1st Wednesday 7pm - 10pm.
-- [Laser Meetup](Laser-Meetup) — 2nd Sunday each month noon - 4pm.
+- [Laser Meetup](Laser-Meetup)
+- Bicycle Maintenance — 3rd Fridays 4:30pm - 6:30pm.
+- Design Day — 3rd Sunday each month 3pm - 5pm
 - [Google Developer Group](https://www.meetup.com/phx-android/) — 3rd Thursday 7pm.
 - Laser Cutter Certification — 4th Friday 7pm - 10pm.
 - LEGO Day — 1st Saturday 12pm - 3pm.
