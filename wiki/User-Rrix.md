@@ -11,6 +11,6 @@ Ryan's really good at:
 - 3D Printing
 - Breaking shit
 
-Ryan's one of the "day crowd" people, working on software contracts during the day and building cool things at night. Basically, he gets paid to hang out at HSL and show people the cool toys we have. He's also in charge of the 3D printing station and the monthly 3D printing nights. Ryan is one of the guys in charge of the IT, along with [User:will](User-will) and [User:uberschnitzel](User-uberschnitzel). Ryan created the tablet/phone doorlock control application and is in charge of our [SpaceAPI](SpaceAPI) endpoint.
+Ryan's one of the "day crowd" people, working on software contracts during the day and building cool things at night. Basically, he gets paid to hang out at HSL and show people the cool toys we have. He's also in charge of the 3D printing station and the monthly 3D printing nights. Ryan is one of the guys in charge of the IT, along with [User:will](User-Will) and [User:uberschnitzel](User-Uberschnitzel). Ryan created the tablet/phone doorlock control application and is in charge of our [SpaceAPI](SpaceAPI) endpoint.
 
 If you need to get a hold of Ryan, he's reachable on Twitter (@rrrrrrrix) or email (ry@n.rix.si) or in the space.
