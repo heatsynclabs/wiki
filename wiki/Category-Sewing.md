@@ -4,3 +4,7 @@
 
 ---
 *Categories: [EmbroideryMachine](Category-EmbroideryMachine), [Serger](Category-Serger), [Sewing](Category-Sewing)*
+
+## Pages in this category
+
+- [Category:Sewing](Category-Sewing)

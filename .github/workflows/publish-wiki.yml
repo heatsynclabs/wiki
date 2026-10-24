@@ -1,0 +1,51 @@
+name: Publish wiki
+
+# The wiki/ folder on main is the source of truth for the GitHub wiki
+# (https://github.com/heatsynclabs/gh-wiki/wiki). Changes land there only
+# through reviewed pull requests; this workflow mirrors main -> wiki after
+# every merge, and once a day re-asserts it so direct wiki edits do not stick.
+on:
+  push:
+    branches: [main]
+    paths: ['wiki/**']
+  schedule:
+    - cron: '23 9 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-wiki
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Mirror wiki/ to the wiki repository
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          git clone --quiet "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.wiki.git" /tmp/wiki
+          rsync -a --delete --exclude .git "${GITHUB_WORKSPACE}/wiki/" /tmp/wiki/
+          cd /tmp/wiki
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Wiki already matches main; nothing to publish."
+            exit 0
+          fi
+          if [ "${GITHUB_EVENT_NAME}" = "push" ]; then
+            git commit -q -m "Publish wiki from main @ ${GITHUB_SHA::7}" \
+              -m "$(git -C "${GITHUB_WORKSPACE}" log -1 --format='%s%n%n%b%n%nAuthor: %an' "${GITHUB_SHA}")" \
+              -m "https://github.com/${GITHUB_REPOSITORY}/commit/${GITHUB_SHA}"
+          else
+            git commit -q -m "Restore wiki to main @ ${GITHUB_SHA::7}" \
+              -m "The wiki had drifted from the wiki/ folder on main (direct edits are not reviewed). Reverted to the reviewed content; the previous wiki commit keeps the drifted text."
+          fi
+          git push --quiet

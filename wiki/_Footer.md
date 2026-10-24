@@ -1,0 +1,2 @@
+---
+This wiki is published from the [`wiki/` folder of heatsynclabs/gh-wiki](https://github.com/heatsynclabs/gh-wiki/tree/main/wiki). **To change a page, open a pull request there**; it is published here automatically once approved and merged. Edits made directly on this wiki are overwritten by the next publish (they stay in this wiki's git history, but are not reviewed). Content migrated from wiki.heatsynclabs.org on 2026-10-24, with the full edit history replayed as git commits.
