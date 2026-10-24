@@ -11,6 +11,7 @@ local function pagename(t)
   if t == "" then return "" end
   if t:lower() == "main page" then return "Home" end
   t = t:sub(1, 1):upper() .. t:sub(2)
+  t = t:gsub("^(%a[%a ]*:%s*)(%l)", function(ns, c) return ns .. c:upper() end)
   if overrides[t] then return overrides[t] end
   t = t:gsub("[ _]+", "-")
   t = t:gsub(":", "-"):gsub("/", "-")

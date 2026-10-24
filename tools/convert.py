@@ -13,6 +13,7 @@ def page_filename(title):
     if not t: return ''
     if t.lower() == 'main page': return 'Home'
     t = t[0].upper() + t[1:]
+    t = re.sub(r'^([A-Za-z][A-Za-z ]*:\s*)([a-z])', lambda m: m.group(1) + m.group(2).upper(), t)
     if t in OVERRIDES: return OVERRIDES[t]
     t = re.sub(r'[ _]+', '-', t).replace(':', '-').replace('/', '-')
     t = re.sub(r'[\\?*"<>|#]', '', t)

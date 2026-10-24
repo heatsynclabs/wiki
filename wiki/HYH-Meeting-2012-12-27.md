@@ -2,7 +2,7 @@ This page was automatically copied from [HYH Meeting Template](HYH-Meeting-Templ
 
 # Agenda
 
-- **Note Taker:** [User:rrix](User-rrix)
+- **Note Taker:** [User:rrix](User-Rrix)
 - **Moderator:** Austin Kipp
 - **Number of Members Present:** 12
 
