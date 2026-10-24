@@ -2,14 +2,14 @@
 
 This repository **is the HeatSync Labs wiki**. The published, readable wiki is here:
 
-**https://github.com/heatsynclabs/gh-wiki/wiki**
+**https://github.com/heatsynclabs/wiki/wiki**
 
 Every page lives as Markdown in the [`wiki/`](wiki) folder of this repo. Changes are made by pull request and, once
 approved and merged, are published to the wiki above automatically.
 
 **Searching:** the search box at the top of this repository searches the full text of every page (they are in `wiki/`).
 The wiki's own sidebar has a *Find a page* filter for titles, and
-[this GitHub search](https://github.com/search?q=repo%3Aheatsynclabs%2Fgh-wiki&type=wikis) searches the published wiki.
+[this GitHub search](https://github.com/search?q=repo%3Aheatsynclabs%2Fwiki&type=wikis) searches the published wiki.
 
 | Folder | What it is |
 |---|---|

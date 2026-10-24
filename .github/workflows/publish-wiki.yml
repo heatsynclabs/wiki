@@ -1,7 +1,7 @@
 name: Publish wiki
 
 # The wiki/ folder on main is the source of truth for the GitHub wiki
-# (https://github.com/heatsynclabs/gh-wiki/wiki). Changes land there only
+# (https://github.com/heatsynclabs/wiki/wiki). Changes land there only
 # through reviewed pull requests; this workflow mirrors main -> wiki after
 # every merge, and once a day re-asserts it so direct wiki edits do not stick.
 on:
